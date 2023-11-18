@@ -1,0 +1,30 @@
+{
+  "name": "tkrzw",
+  "url": "https://git.sr.ht/~ehmry/nim-tkrzw",
+  "method": "git",
+  "description": "Wrappers over the Tkrzw Database Manager C++ library.",
+  "license": "Apache-2.0",
+  "web": "https://git.sr.ht/~ehmry/nim-tkrzw",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "11ebd1a95a98b5b504c77c8ef53a3dc7d5ab7ded",
+      "time": 1629214511
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "db727b5bb7be41778b1437b9f9a0c3acb0c4a450",
+      "time": 1628938777
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "e8a54d0fe6baf850341b958bcba62b40914bbe60",
+      "time": 1628847201
+    }
+  ],
+  "tags": [
+    "db",
+    "key-value",
+    "wrapper"
+  ]
+}

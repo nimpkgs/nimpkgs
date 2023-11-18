@@ -1,0 +1,46 @@
+{
+  "name": "uap",
+  "url": "https://gitlab.com/artemklevtsov/nim-uap",
+  "method": "git",
+  "description": "Nim implementation of user-agent parser",
+  "license": "Apache-2.0",
+  "web": "https://gitlab.com/artemklevtsov/nim-uap/",
+  "doc": "https://artemklevtsov.gitlab.io/nim-uap/",
+  "versions": [
+    {
+      "tag": "v1.0.5",
+      "hash": "7c4bfb5dabc9b44fb7755ca6116067f7ac4282d7",
+      "time": 1646888125
+    },
+    {
+      "tag": "v1.0.4",
+      "hash": "da24edbe327c0853deacf40ee6c45257bb222984",
+      "time": 1646736196
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "e36dd73c92f7b48544bb2673796d8e5261bad1dd",
+      "time": 1646653984
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "072eb8f43679f8ae1f5e4a38e342f4747dbbfb45",
+      "time": 1646560559
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "c140007d0d05d16f88338b5d598212b1fe7a05eb",
+      "time": 1646546445
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "f1c36c31c49c1abb7c1d0c78e6ea34f71af07aa8",
+      "time": 1644843924
+    }
+  ],
+  "tags": [
+    "library",
+    "cli",
+    "useragent"
+  ]
+}

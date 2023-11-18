@@ -1,0 +1,13 @@
+{
+  "name": "db_wrapper",
+  "url": "https://github.com/sivchari/db_wrapper",
+  "method": "git",
+  "description": "this libraly able to use database/sql of Go",
+  "license": "MIT",
+  "web": "https://github.com/sivchari/db_wrapper",
+  "tags": [
+    "database",
+    "wrapper",
+    "library"
+  ]
+}

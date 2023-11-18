@@ -1,0 +1,23 @@
+{
+  "name": "iterrr",
+  "url": "https://github.com/hamidb80/iterrr",
+  "method": "git",
+  "description": "iterate faster. functional style, lazy like, extensible iterator library",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/steps",
+  "versions": [
+    {
+      "tag": "v1.0.4",
+      "hash": "3e2ff8a2c788b6e398af0c1d3b7b98e5317a552c",
+      "time": 1660360706
+    }
+  ],
+  "tags": [
+    "iterator",
+    "iterate",
+    "iterating",
+    "functional",
+    "lazy",
+    "library"
+  ]
+}

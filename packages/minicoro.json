@@ -1,0 +1,29 @@
+{
+  "name": "minicoro",
+  "url": "https://git.envs.net/iacore/minicoro-nim",
+  "method": "git",
+  "description": "Lua-like asymmetric coroutine. Nim wrapper of minicoro in C",
+  "license": "Unlicense",
+  "web": "https://git.envs.net/iacore/minicoro-nim",
+  "versions": [
+    {
+      "tag": "v0.1.3",
+      "hash": "a2ef4bd4e93da5ff35ee75ef0b1f5891a5312962",
+      "time": 1678906926
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "4f881248659776838918305c66abec257922c7ec",
+      "time": 1678902036
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "f256ea39c780e67ca2413549b811d973d17a6c7e",
+      "time": 1678899911
+    }
+  ],
+  "tags": [
+    "wrapper",
+    "coroutine"
+  ]
+}

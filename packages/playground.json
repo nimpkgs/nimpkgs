@@ -1,0 +1,21 @@
+{
+  "name": "playground",
+  "url": "https://github.com/theduke/nim-playground",
+  "method": "git",
+  "description": "Web-based playground for testing Nim code.",
+  "license": "MIT",
+  "web": "https://github.com/theduke/nim-playground",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "a78e77fc43c8abed543a5c5a53afcb8166d58263",
+      "time": 1448276725
+    }
+  ],
+  "tags": [
+    "webapp",
+    "execution",
+    "code",
+    "sandbox"
+  ]
+}

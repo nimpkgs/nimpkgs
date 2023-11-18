@@ -1,0 +1,24 @@
+{
+  "name": "cozytaskpool",
+  "url": "https://github.com/indiscipline/cozytaskpool",
+  "method": "git",
+  "description": "Cozy Task Pool for threaded concurrency based on tasks and channels.",
+  "license": "GPL-2.0-or-later",
+  "web": "https://github.com/indiscipline/cozytaskpool",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "9bb878c398f43c29952c495d7425018f3e1bad1b",
+      "time": 1683047185
+    }
+  ],
+  "tags": [
+    "threads",
+    "tasks",
+    "multithreading",
+    "library",
+    "parallelism",
+    "threadpool",
+    "pool"
+  ]
+}

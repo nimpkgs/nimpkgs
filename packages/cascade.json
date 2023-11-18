@@ -1,0 +1,27 @@
+{
+  "name": "cascade",
+  "url": "https://github.com/haltcase/cascade",
+  "method": "git",
+  "description": "Method & assignment cascades for Nim, inspired by Smalltalk & Dart.",
+  "license": "MIT",
+  "web": "https://github.com/haltcase/cascade",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "b3d997ebf9d4152ee9e66efee8d91f64bcfdbdfa",
+      "time": 1570295917
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "9a7fa1e8ff1d1026f003fccfb85e8898f9627fe3",
+      "time": 1548718558
+    }
+  ],
+  "tags": [
+    "macro",
+    "cascade",
+    "operator",
+    "dart",
+    "with"
+  ]
+}

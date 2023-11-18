@@ -1,0 +1,21 @@
+{
+  "name": "asyncrabbitmq",
+  "url": "https://github.com/Q-Master/rabbitmq.nim",
+  "method": "git",
+  "description": "Pure Nim asyncronous driver for RabbitMQ",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/rabbitmq.nim",
+  "versions": [
+    {
+      "tag": "v0.1",
+      "hash": "eb0116e8f6b61d171944d0f44adcf2710d144dfc",
+      "time": 1667339723
+    }
+  ],
+  "tags": [
+    "rabbitmq,",
+    "amqp,",
+    "async,",
+    "library"
+  ]
+}

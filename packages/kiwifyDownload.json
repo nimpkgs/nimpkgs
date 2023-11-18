@@ -1,0 +1,16 @@
+{
+  "name": "kiwifyDownload",
+  "url": "https://github.com/thisago/kiwifyDownload",
+  "method": "git",
+  "description": "Downloads the kiwify videos from course JSON",
+  "license": "MIT",
+  "web": "https://github.com/thisago/kiwifyDownload",
+  "tags": [
+    "download",
+    "kiwify",
+    "course",
+    "cli",
+    "tool",
+    "video"
+  ]
+}

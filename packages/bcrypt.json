@@ -1,0 +1,15 @@
+{
+  "name": "bcrypt",
+  "url": "https://github.com/ithkuil/bcryptnim/",
+  "method": "git",
+  "description": "Wraps the bcrypt (blowfish) library for creating encrypted hashes (useful for passwords)",
+  "license": "BSD",
+  "web": "https://www.github.com/ithkuil/bcryptnim/",
+  "tags": [
+    "hash",
+    "crypto",
+    "password",
+    "bcrypt",
+    "library"
+  ]
+}

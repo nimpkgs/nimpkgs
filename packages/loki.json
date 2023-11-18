@@ -1,0 +1,14 @@
+{
+  "name": "loki",
+  "url": "https://github.com/beshrkayali/loki",
+  "method": "git",
+  "description": "A small library for writing cli programs in Nim.",
+  "license": "Zlib",
+  "web": "https://github.com/beshrkayali/loki",
+  "tags": [
+    "cmd",
+    "shell",
+    "cli",
+    "interpreter"
+  ]
+}

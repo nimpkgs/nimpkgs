@@ -1,0 +1,80 @@
+{
+  "name": "csv2dbsrc",
+  "url": "https://github.com/z-kk/csv2dbsrc",
+  "method": "git",
+  "description": "create db util sources from csv",
+  "license": "MIT",
+  "web": "https://github.com/z-kk/csv2dbsrc",
+  "versions": [
+    {
+      "tag": "v0.4.3",
+      "hash": "92ecc8d6645b0067b5d5ece5b39d6c78ddce7dd2",
+      "time": 1685879422
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "826fc7a4571daab70acd61b45fe1bb6687155a4f",
+      "time": 1680697620
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "c9003468cfccb1430b3ca7d8ebe47b64e178cd0e",
+      "time": 1680250669
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "397d61d086dff6c1879ebc89d2be3f23ab196e0d",
+      "time": 1674387287
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "2f224bca6fcc995ade4da15945db9c1b53d2fc9d",
+      "time": 1667018405
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "5eef104179522bfa85138128650a2d6bed8336c9",
+      "time": 1666582863
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "02e8312b0621d719e63c6e9bd6fb4205d6487921",
+      "time": 1666001646
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "0ab7421e4eaa8c827dff381767accd49731ca782",
+      "time": 1652351758
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "1a731f223b31d95a04a9cb76d6c642a68a1ef60c",
+      "time": 1641819467
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "654e2e84ce726e6858c3d977c7576ac3c2d9f40a",
+      "time": 1636721799
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "bc7f31587416a7e32cb22d0d905bdbfc8ba1b639",
+      "time": 1621341359
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "f48b4f3548ecb16953262d212a2a47da3bf8918e",
+      "time": 1618634447
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "ea9229a7e191bf7de90ae505fecf646e701a59fe",
+      "time": 1618320137
+    }
+  ],
+  "tags": [
+    "csv",
+    "db",
+    "sqlite"
+  ]
+}

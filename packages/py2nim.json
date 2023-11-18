@@ -1,0 +1,33 @@
+{
+  "name": "py2nim",
+  "url": "https://github.com/Niminem/Py2Nim",
+  "method": "git",
+  "description": "Py2Nim is a tool to translate Python code to Nim. The output is human-readable Nim code, meant to be tweaked by hand after the translation process.",
+  "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.1.3",
+      "hash": "0edfd361f36b365baee306deac940cf94aa2414d",
+      "time": 1640901614
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "1e19b5de7dd66e50daaf69f6f78beb8fee355ed6",
+      "time": 1640845989
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "7ef6badd4ba016cc0663ef2fba0f41f97c3c94be",
+      "time": 1640756082
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "f344249b88eeb9e4b473cc542ce5d7b1561f7c37",
+      "time": 1640670559
+    }
+  ],
+  "tags": [
+    "transpiler",
+    "python"
+  ]
+}

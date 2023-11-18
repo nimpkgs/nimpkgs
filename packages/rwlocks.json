@@ -1,0 +1,27 @@
+{
+  "name": "rwlocks",
+  "url": "https://github.com/tdely/nim-rwlocks",
+  "method": "git",
+  "description": "Readers-writer (MRSW) lock",
+  "license": "MIT",
+  "web": "https://github.com/tdely/nim-rwlocks",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "dae587cec12d17e2037743e35286f9ba84b02e76",
+      "time": 1670589149
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "cd2678ef48980466a42603307faf521e6a6f9705",
+      "time": 1669920086
+    }
+  ],
+  "tags": [
+    "lock",
+    "mrsw",
+    "multi-reader",
+    "single-writer",
+    "readers-writer"
+  ]
+}

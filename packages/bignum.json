@@ -1,0 +1,13 @@
+{
+  "name": "bignum",
+  "url": "https://github.com/SciNim/bignum",
+  "method": "git",
+  "description": "Wrapper around the GMP bindings for the Nim language.",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/bignum",
+  "tags": [
+    "bignum",
+    "gmp",
+    "wrapper"
+  ]
+}

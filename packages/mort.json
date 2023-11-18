@@ -1,0 +1,15 @@
+{
+  "name": "mort",
+  "url": "https://github.com/jyapayne/mort",
+  "method": "git",
+  "description": "A dead code locator for Nim",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/mort",
+  "tags": [
+    "macro",
+    "library",
+    "deadcode",
+    "dead",
+    "code"
+  ]
+}

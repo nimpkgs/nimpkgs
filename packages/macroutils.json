@@ -1,0 +1,27 @@
+{
+  "name": "macroutils",
+  "url": "https://github.com/PMunch/macroutils",
+  "method": "git",
+  "description": "A package that makes creating macros easier",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/macroutils",
+  "versions": [
+    {
+      "tag": "v1.2.0",
+      "hash": "b460c6804c97df8cfdc80c308b574ae90b30ac61",
+      "time": 1591265350
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "4f178a21e57cb842f112a965d25cda93ac4d68e5",
+      "time": 1585844702
+    }
+  ],
+  "tags": [
+    "macros",
+    "ast",
+    "metaprogramming",
+    "library",
+    "utility"
+  ]
+}

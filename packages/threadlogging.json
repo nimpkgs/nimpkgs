@@ -1,0 +1,19 @@
+{
+  "name": "threadlogging",
+  "url": "https://codeberg.org/pswilde/threadlogging",
+  "method": "git",
+  "description": "A thread safe logging library using Nim's own logging module",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://pswilde.codeberg.page/threadlogging_docs/threadlogging.html",
+  "versions": [
+    {
+      "tag": "v0.1.5",
+      "hash": "b66d224ef23bcdd7f15f412593aa1978de9e9931",
+      "time": 1699215423
+    }
+  ],
+  "tags": [
+    "logging",
+    "threads"
+  ]
+}

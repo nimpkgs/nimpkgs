@@ -1,0 +1,35 @@
+{
+  "name": "optionsutils",
+  "url": "https://github.com/PMunch/nim-optionsutils",
+  "method": "git",
+  "description": "Utility macros for easier handling of options in Nim",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nim-optionsutils",
+  "versions": [
+    {
+      "tag": "v1.2.0",
+      "hash": "3810fdad719abcb3994bafee91a0fed350c0a7fc",
+      "time": 1598516998
+    },
+    {
+      "tag": "v1.1.2",
+      "hash": "7484fbd126e7963920392de2f5098cebcce18fd0",
+      "time": 1584524408
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "a99d9e1cb01d44dca5c4ec8ddda949868f0155da",
+      "time": 1583498162
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "2c983cb5440657689b68663d9a6c700bdd3a076d",
+      "time": 1576789570
+    }
+  ],
+  "tags": [
+    "options",
+    "library",
+    "safety"
+  ]
+}

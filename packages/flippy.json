@@ -1,0 +1,20 @@
+{
+  "name": "flippy",
+  "url": "https://github.com/treeform/flippy",
+  "method": "git",
+  "description": "Flippy is a simple 2d image and drawing library.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/flippy",
+  "versions": [
+    {
+      "tag": "v0.4.1",
+      "hash": "481d9349b439456b6a8ced9e6760b4bf385d332a",
+      "time": 1579108665
+    }
+  ],
+  "tags": [
+    "image",
+    "graphics",
+    "2d"
+  ]
+}

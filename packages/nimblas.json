@@ -1,0 +1,21 @@
+{
+  "name": "nimblas",
+  "url": "https://github.com/andreaferretti/nimblas",
+  "method": "git",
+  "description": "BLAS for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/nimblas",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "464c65cd001a27d5c364baa86dfcf19597535cf3",
+      "time": 1696753066
+    }
+  ],
+  "tags": [
+    "BLAS",
+    "linear algebra",
+    "vector",
+    "matrix"
+  ]
+}

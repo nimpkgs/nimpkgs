@@ -1,0 +1,14 @@
+{
+  "name": "pylib",
+  "url": "https://github.com/Yardanico/nimpylib",
+  "method": "git",
+  "description": "Nim library with python-like functions and operators",
+  "license": "MIT",
+  "web": "https://github.com/Yardanico/nimpylib",
+  "tags": [
+    "python",
+    "compatibility",
+    "library",
+    "pure"
+  ]
+}

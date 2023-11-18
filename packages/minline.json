@@ -1,0 +1,27 @@
+{
+  "name": "minline",
+  "url": "https://github.com/h3rald/minline",
+  "method": "git",
+  "description": "A line editing library in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/h3rald/minline",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "a1f11470316500dceb88d7d6c30979c35aab14ff",
+      "time": 1690989531
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "e9197ce86354f8e157949cd433c2535e6cf8ae96",
+      "time": 1690747948
+    }
+  ],
+  "tags": [
+    "command-line",
+    "repl",
+    "prompt",
+    "readline",
+    "linenoise"
+  ]
+}

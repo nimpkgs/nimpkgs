@@ -1,0 +1,22 @@
+{
+  "name": "osureplay",
+  "url": "https://github.com/Yardanico/nim-osureplay",
+  "method": "git",
+  "description": "osu! replay parser",
+  "license": "MIT",
+  "web": "https://github.com/Yardanico/nim-osureplay",
+  "versions": [
+    {
+      "tag": "v0.0.3",
+      "hash": "437a396fafd77da355d39f7015ba0d454b90a06d",
+      "time": 1584648695
+    }
+  ],
+  "tags": [
+    "library",
+    "osu!",
+    "parser",
+    "osugame",
+    "replay"
+  ]
+}

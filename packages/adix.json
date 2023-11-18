@@ -1,0 +1,61 @@
+{
+  "name": "adix",
+  "url": "https://github.com/c-blake/adix",
+  "method": "git",
+  "description": "An Adaptive Index Library For Nim",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/adix",
+  "versions": [
+    {
+      "tag": "v0.4.8",
+      "hash": "e2789ea7910a73a98185a6bf860538d0eab2c3fa",
+      "time": 1678619467
+    },
+    {
+      "tag": "v0.4.7",
+      "hash": "817b7ce22c278e410f049aa7b7550683391fc66d",
+      "time": 1674560102
+    },
+    {
+      "tag": "v0.4.6",
+      "hash": "c7686beb14941a139e66f73e324eb40e3e5ac5de",
+      "time": 1673730979
+    },
+    {
+      "tag": "v0.4.5",
+      "hash": "f48bfdb1bf151615a44de2e1aa29b8a6b2c3024f",
+      "time": 1671819657
+    },
+    {
+      "tag": "v0.4.4",
+      "hash": "57a9c072f6b1236c03ea44ef6edbaaed91bc9730",
+      "time": 1670496507
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "2dc674d32ae1d99fe04245024f6456b8424e1277",
+      "time": 1665750099
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "3fe3ea86781ae19115e7506cd4800847dc0f520a",
+      "time": 1639584866
+    }
+  ],
+  "tags": [
+    "library",
+    "dictionary",
+    "hash tables",
+    "data structures",
+    "algorithms",
+    "hash",
+    "hashes",
+    "compact",
+    "Fenwick Tree",
+    "BIST",
+    "binary trees",
+    "sketch",
+    "sketches",
+    "B-Tree"
+  ]
+}

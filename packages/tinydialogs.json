@@ -1,0 +1,12 @@
+{
+  "name": "tinydialogs",
+  "url": "https://github.com/Patitotective/tinydialogs",
+  "method": "git",
+  "description": "Tiny file dialogs Nim bindings.",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/tinydialogs",
+  "tags": [
+    "dialogs",
+    "file-dialogs"
+  ]
+}

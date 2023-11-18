@@ -1,0 +1,20 @@
+{
+  "name": "mpeg",
+  "url": "https://github.com/treeform/mpeg",
+  "method": "git",
+  "description": "Nim wrapper for pl_mpeg single header mpeg library.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/mpeg",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "ffe1dc2570be6649735cde61f238c1a8b611518e",
+      "time": 1561734501
+    }
+  ],
+  "tags": [
+    "video",
+    "formats",
+    "file"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rosencrantz",
+  "url": "https://github.com/andreaferretti/rosencrantz",
+  "method": "git",
+  "description": "A web DSL for Nim",
+  "license": "MIT",
+  "web": "https://github.com/andreaferretti/rosencrantz",
+  "tags": [
+    "web",
+    "server",
+    "DSL",
+    "combinators"
+  ]
+}

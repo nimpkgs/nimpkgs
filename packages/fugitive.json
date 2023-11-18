@@ -1,0 +1,118 @@
+{
+  "name": "fugitive",
+  "url": "https://github.com/haltcase/fugitive",
+  "method": "git",
+  "description": "Simple command line tool to make git more intuitive, along with useful GitHub addons.",
+  "license": "MIT",
+  "web": "https://github.com/haltcase/fugitive",
+  "versions": [
+    {
+      "tag": "v0.11.3",
+      "hash": "81471921d3bacac5e130194b482ed7e58e4fa446",
+      "time": 1665945265
+    },
+    {
+      "tag": "v0.11.2",
+      "hash": "f733d96660e49c2028747d20319c02bb9e9fd23f",
+      "time": 1665944985
+    },
+    {
+      "tag": "v0.11.1",
+      "hash": "79f534a5f4f53d8da06433254aaed867bca1d3eb",
+      "time": 1604961859
+    },
+    {
+      "tag": "v0.11.0",
+      "hash": "3bca4a922bb8ce5cc28d444246527b194fa80f77",
+      "time": 1604960853
+    },
+    {
+      "tag": "v0.10.1",
+      "hash": "5e59a0b35ab457aa6fc19f79f88a1365d44acb12",
+      "time": 1546578908
+    },
+    {
+      "tag": "v0.10.0",
+      "hash": "d43a5c3a52f8e2b1b1feb4730760fa000afb0cb0",
+      "time": 1545027912
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "191ebc97524799d1a271e2427d09024ea8beb9ff",
+      "time": 1541022694
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "f7c5dbe0b00dccefab0adb5d2aafd40a50ebacd7",
+      "time": 1540967789
+    },
+    {
+      "tag": "v0.7.2",
+      "hash": "71d71b23f79f93a4fbe0beab19e3a18b7ee8f193",
+      "time": 1540954929
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "3eea3c216e6b8442a7fe2b64a6bd500b10b0d819",
+      "time": 1540954293
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "9e4101a4fdb9b17043e4615ec0d6ab3edd3fe05c",
+      "time": 1540952863
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "be254993e6ca0eb8e7a1fd27e409d612cb3c107d",
+      "time": 1540527154
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "2effa65410fb27102fa1f24f79e7e5db7caaf3f0",
+      "time": 1531262209
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "08c35c3e140e5ebccd2990a28298c884a908f3e1",
+      "time": 1530717490
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "6546faf30e6aea2865f3c968e2ffe03dd7167a75",
+      "time": 1530053667
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "75839dd6bc2e262337e496ed973ab6fad26844a8",
+      "time": 1530049429
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "b349a6fac810ebd8e7d1ced3288351b363d03e46",
+      "time": 1526441765
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "7832ff3e9a2f0716cdca96213d6a36164c6e2899",
+      "time": 1508710710
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "d71b520c5b478fcc7d6e16bbea13900e9a4f0626",
+      "time": 1503859542
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "85cb1f2e21e676b976db48bf01f341cbfd302e3f",
+      "time": 1503458457
+    }
+  ],
+  "tags": [
+    "git",
+    "github",
+    "cli",
+    "extras",
+    "utility",
+    "tool"
+  ]
+}

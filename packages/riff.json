@@ -1,0 +1,23 @@
+{
+  "name": "riff",
+  "url": "https://github.com/johnnovak/nim-riff",
+  "method": "git",
+  "description": "RIFF file handling for Nim ",
+  "license": "WTFPL",
+  "web": "https://github.com/johnnovak/nim-riff",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "e7e0888382d36c86c252a2c99d496889f2de18ae",
+      "time": 1635470924
+    }
+  ],
+  "tags": [
+    "riff",
+    "iff",
+    "interchange file format",
+    "library",
+    "endianness",
+    "io"
+  ]
+}

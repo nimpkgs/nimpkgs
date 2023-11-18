@@ -1,0 +1,19 @@
+{
+  "name": "nimactors",
+  "url": "https://github.com/vegansk/nimactors",
+  "method": "git",
+  "description": "Actors library for Nim inspired by akka-actors",
+  "license": "MIT",
+  "web": "https://github.com/vegansk/nimactors",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "bbc44230c512a00655189e7b3edfb0cf25bf9597",
+      "time": 1482994086
+    }
+  ],
+  "tags": [
+    "actors",
+    "library"
+  ]
+}

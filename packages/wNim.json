@@ -1,0 +1,15 @@
+{
+  "name": "wNim",
+  "url": "https://github.com/khchen/wNim",
+  "method": "git",
+  "description": "Nim's Windows GUI Framework.",
+  "license": "MIT",
+  "web": "https://github.com/khchen/wNim",
+  "doc": "https://khchen.github.io/wNim/wNim.html",
+  "tags": [
+    "library",
+    "windows",
+    "gui",
+    "ui"
+  ]
+}

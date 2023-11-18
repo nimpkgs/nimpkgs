@@ -1,0 +1,39 @@
+{
+  "name": "sqlbuilder",
+  "url": "https://github.com/ThomasTJdev/nim_sqlbuilder",
+  "method": "git",
+  "description": "A SQLbuilder with support for NULL values",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_sqlbuilder",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "6c970d2da707aab544ed4c6fadcbd92e35d42dbd",
+      "time": 1640534977
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "499dc88af196c74afef1e2990c91bdd0a9e15294",
+      "time": 1620923813
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "5275f596bda6448498e72948f1489f3327939ea4",
+      "time": 1591948428
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "cf7b3da94d46e712b9366319f651b114255ba4ba",
+      "time": 1586713201
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "c466d6fe3dec056cbfcfc13a03e831e48070d1b7",
+      "time": 1586665048
+    }
+  ],
+  "tags": [
+    "sql",
+    "sqlbuilder"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lazy",
+  "url": "https://github.com/petermora/nimLazy/",
+  "method": "git",
+  "description": "Iterator library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/petermora/nimLazy",
+  "tags": [
+    "library",
+    "iterator",
+    "lazy list"
+  ]
+}

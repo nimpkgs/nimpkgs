@@ -1,0 +1,14 @@
+{
+  "name": "wstp",
+  "url": "https://github.com/oskca/nim-wstp",
+  "method": "git",
+  "description": "Nim bindings for WSTP",
+  "license": "MIT",
+  "web": "https://github.com/oskca/nim-wstp",
+  "tags": [
+    "wolfram",
+    "mathematica",
+    "bindings",
+    "wstp"
+  ]
+}

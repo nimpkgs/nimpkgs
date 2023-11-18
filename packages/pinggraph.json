@@ -1,0 +1,49 @@
+{
+  "name": "pinggraph",
+  "url": "https://github.com/SolitudeSF/pinggraph",
+  "method": "git",
+  "description": "Simple terminal ping graph",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/pinggraph",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "2fdf2397a699e76480fbaf46099153c4e5e635c1",
+      "time": 1693413043
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "eea13f6be98b068d64d982fb32517aa92883ecb7",
+      "time": 1693411667
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "63755a09b4b8eb1e6e9893f31c48e6c6fc5598c0",
+      "time": 1556046974
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "5973fbbaf885e7474e480d9946d174d85caaaf6b",
+      "time": 1553331540
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "910340df5a597d4ef57b9a02800ebd553c72f03d",
+      "time": 1553187488
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "9a857b7df4176e14d2099399bf6238183d10c1d2",
+      "time": 1553122671
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "604f6d3479a2d6d549f4f4edea7b2549bcd1d6d4",
+      "time": 1553115232
+    }
+  ],
+  "tags": [
+    "ping",
+    "terminal"
+  ]
+}

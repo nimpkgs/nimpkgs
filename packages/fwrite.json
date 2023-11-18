@@ -1,0 +1,21 @@
+{
+  "name": "fwrite",
+  "url": "https://github.com/pdrb/nim-fwrite",
+  "method": "git",
+  "description": "Create files of the desired size",
+  "license": "MIT",
+  "web": "https://github.com/pdrb/nim-fwrite",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "c366483d46cf98674ad9a0468e59ba07f6ba7180",
+      "time": 1569891457
+    }
+  ],
+  "tags": [
+    "create,",
+    "file,",
+    "write,",
+    "fwrite"
+  ]
+}

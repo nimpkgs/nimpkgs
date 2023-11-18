@@ -1,0 +1,41 @@
+{
+  "name": "gmp",
+  "url": "https://github.com/subsetpark/nim-gmp",
+  "method": "git",
+  "description": "wrapper for the GNU multiple precision arithmetic library (GMP)",
+  "license": "LGPLv3 or GPLv2",
+  "web": "https://github.com/subsetpark/nim-gmp",
+  "versions": [
+    {
+      "tag": "v0.2.5",
+      "hash": "7dfd4570c2a986c2e90ea16bb917a1b99668c460",
+      "time": 1502224653
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "4e9a6a05bfc274abd02a241f2d7c9162b2300191",
+      "time": 1439084026
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "be768f511f090cc8266a51d9d357049e3d87aae4",
+      "time": 1432553583
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "26b7dce54e831cb0a120bd78faec62ecf535c949",
+      "time": 1432489597
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "3acb20c4a9931df5cc0ceb0694f7d11e9223b5cf",
+      "time": 1419030636
+    }
+  ],
+  "tags": [
+    "library",
+    "bignum",
+    "numbers",
+    "math"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nimPDF",
+  "url": "https://github.com/jangko/nimpdf",
+  "method": "git",
+  "description": "library for generating PDF files",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimpdf",
+  "tags": [
+    "library",
+    "PDF",
+    "document"
+  ]
+}

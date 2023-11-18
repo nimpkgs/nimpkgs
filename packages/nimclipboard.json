@@ -1,0 +1,33 @@
+{
+  "name": "nimclipboard",
+  "url": "https://github.com/genotrance/nimclipboard",
+  "method": "git",
+  "description": "Nim wrapper for libclipboard",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimclipboard",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "666f37ce461d6914a7c1818bc31e1ec97593e7bb",
+      "time": 1541219699
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "82faf6f1e0fc30fa888dc269648fa4045224f144",
+      "time": 1538020745
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "839b7775e412e16bc805914e29db42c9a7bea207",
+      "time": 1531460967
+    }
+  ],
+  "tags": [
+    "clipboard",
+    "wrapper",
+    "clip",
+    "copy",
+    "paste",
+    "nimgen"
+  ]
+}

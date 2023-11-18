@@ -1,0 +1,94 @@
+{
+  "name": "cirru_parser",
+  "url": "https://github.com/Cirru/parser.nim",
+  "method": "git",
+  "description": "Parser for Cirru syntax",
+  "license": "MIT",
+  "web": "https://github.com/Cirru/parser.nim",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "5359673f86703b13ef94752a0424b0a4338e9e2a",
+      "time": 1611497665
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "c0a93c5352b148e7dd212141cfcc9afd10663914",
+      "time": 1603953616
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "c89f653f3dd4cccb212d85b9cfc44f31e8dfe778",
+      "time": 1603814976
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "463aa0d05a0969a5d40f12877fd7c479b7d0b8df",
+      "time": 1602323953
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "be7f06c5e51293abb9157e30e772a126c4b85ebd",
+      "time": 1602320934
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "2647176fc95e6511eb22901dac4db818f45b97c2",
+      "time": 1601374448
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "255c3106695726476354fd82cdc62f9827a6e750",
+      "time": 1601373992
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "aa525afd2373a3c6dcad0634c977f64d81d8f6fb",
+      "time": 1599985125
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "842fea7964a9525f4f65d06b575c0b09fec0dd15",
+      "time": 1599973122
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "a13cd12730dfaa253660ced4add19eef6e57be71",
+      "time": 1599045327
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "f0784ec80f04bc4b6bb27652102c1e72ec4a9ade",
+      "time": 1599043780
+    },
+    {
+      "tag": "v0.0.5",
+      "hash": "166603f77ce05533a73e78913aa985ddade4c848",
+      "time": 1597901428
+    },
+    {
+      "tag": "v0.0.4",
+      "hash": "6cbb6d7cc2befb130876d6a87e31bd0a504e6b3c",
+      "time": 1569379995
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "ce901271a007040073e0c6c1256cffe6d8d69e43",
+      "time": 1567700599
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "259c6bc7174235e89f9bcca269d6b8d325055026",
+      "time": 1566715334
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "958ee7ab47af0ff01fa6258e034457778e6af1fd",
+      "time": 1566616827
+    }
+  ],
+  "tags": [
+    "parser",
+    "cirru"
+  ]
+}

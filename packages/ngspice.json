@@ -1,0 +1,14 @@
+{
+  "name": "ngspice",
+  "url": "https://github.com/haxscramper/ngspice",
+  "method": "git",
+  "description": "Analog electronic circuit simiulator library",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/ngspice",
+  "tags": [
+    "analog-circuit",
+    "circuit",
+    "simulation",
+    "ngspice"
+  ]
+}

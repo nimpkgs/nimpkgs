@@ -1,0 +1,13 @@
+{
+  "name": "calibre",
+  "url": "https://github.com/juancarlospaco/nim-calibre",
+  "method": "git",
+  "description": "Calibre Database Lib for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-calibre",
+  "tags": [
+    "calibre",
+    "ebook",
+    "database"
+  ]
+}

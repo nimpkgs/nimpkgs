@@ -1,0 +1,82 @@
+{
+  "name": "classes",
+  "url": "https://github.com/jjv360/nim-classes",
+  "method": "git",
+  "description": "Adds class support to Nim.",
+  "license": "MIT",
+  "web": "https://github.com/jjv360/nim-classes",
+  "versions": [
+    {
+      "tag": "v0.3.17",
+      "hash": "5efc2e17d6a09cb2628e3f599130cb28a849a1bf",
+      "time": 1678718565
+    },
+    {
+      "tag": "v0.3.16",
+      "hash": "8248970372ee11054fe7445b0d1e9d6798781c86",
+      "time": 1678306783
+    },
+    {
+      "tag": "v0.2.15",
+      "hash": "6009352452015156a52a2d23a9acfba7611c9e4f",
+      "time": 1675028623
+    },
+    {
+      "tag": "v0.2.14",
+      "hash": "1dae01b3d045bea000aa8a9fce46e23102988561",
+      "time": 1674722290
+    },
+    {
+      "tag": "v0.2.13",
+      "hash": "72423fa56068d2bad5f8f38f85ac7e68f942115f",
+      "time": 1671889859
+    },
+    {
+      "tag": "v0.2.11",
+      "hash": "4c1b20b71f2034223b0a14b235bf477302e655b1",
+      "time": 1640607049
+    },
+    {
+      "tag": "v0.2.9",
+      "hash": "bf1fad915de88bb821f240882452e32d66728c58",
+      "time": 1640603708
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "05af942a6102ee2e36ad436d7b735884858ad43b",
+      "time": 1640600053
+    },
+    {
+      "tag": "v0.2.5",
+      "hash": "1148bd4b5bba8aa33bc17555efaace4ba31fd7c2",
+      "time": 1640557060
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "2384fb0d039d635910f7987bb9d0120b303efdcc",
+      "time": 1640548340
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "b5389a6cea77238af7aadf3d4d22dc3001c4a616",
+      "time": 1640547929
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "1c65bfe14e6ef32bdb45e5f51aeb34f2070c139e",
+      "time": 1623495179
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "4f6a0a896b1bdb3d183b0748241653a7ddecc660",
+      "time": 1612629536
+    }
+  ],
+  "tags": [
+    "class",
+    "classes",
+    "macro",
+    "oop",
+    "super"
+  ]
+}

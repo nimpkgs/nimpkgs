@@ -1,0 +1,24 @@
+{
+  "name": "slappy",
+  "url": "https://github.com/treeform/slappy",
+  "method": "git",
+  "description": "A 3d sound API for nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/slappy",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "7f1798e999dfcf3d931a6360d3a486dfe9b89801",
+      "time": 1584067792
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "f66535bd45f49d0d09fc562ef3363c9ba275d7fd",
+      "time": 1574030911
+    }
+  ],
+  "tags": [
+    "sound",
+    "OpenAL"
+  ]
+}

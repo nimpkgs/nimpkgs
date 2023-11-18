@@ -1,0 +1,19 @@
+{
+  "name": "quickjwt",
+  "url": "https://github.com/treeform/quickjwt",
+  "method": "git",
+  "description": "JSON Web Tokens for Nim",
+  "license": "MIT",
+  "web": "https://github.com/treeform/quickjwt",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "d3989dce8b025bd7c813190b7079f6531b9f0f27",
+      "time": 1579208162
+    }
+  ],
+  "tags": [
+    "crypto",
+    "hash"
+  ]
+}

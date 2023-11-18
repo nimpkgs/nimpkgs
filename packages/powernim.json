@@ -1,0 +1,14 @@
+{
+  "name": "powernim",
+  "url": "https://codeberg.org/wreed/powernim",
+  "method": "git",
+  "description": "Basic power menu for Linux (with systemd)",
+  "license": "BSD-2-Clause",
+  "web": "https://codeberg.org/wreed/powernim",
+  "tags": [
+    "menu",
+    "powermenu",
+    "gui",
+    "gtk"
+  ]
+}

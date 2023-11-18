@@ -1,0 +1,141 @@
+{
+  "name": "markdown",
+  "url": "https://github.com/soasme/nim-markdown",
+  "method": "git",
+  "description": "A Beautiful Markdown Parser in the Nim World.",
+  "license": "MIT",
+  "web": "https://github.com/soasme/nim-markdown",
+  "versions": [
+    {
+      "tag": "v0.8.7",
+      "hash": "e6379e25a33d1d79bb62ee285574e41a395ae2d7",
+      "time": 1677281822
+    },
+    {
+      "tag": "v0.8.5",
+      "hash": "46d5905dd02fe381cad31f0a18dc1fcf4af8dfe6",
+      "time": 1616125563
+    },
+    {
+      "tag": "v0.8.4",
+      "hash": "73efc701b6040eabb5861fb45a2893a3314472fa",
+      "time": 1616123219
+    },
+    {
+      "tag": "v0.8.3",
+      "hash": "4a53af910a4fb98829182c2c207b2888ca290f66",
+      "time": 1615607786
+    },
+    {
+      "tag": "v0.8.2",
+      "hash": "1737ba575cf0390f0e05c8490b396008c3edb7b9",
+      "time": 1614934210
+    },
+    {
+      "tag": "v0.8.1",
+      "hash": "abdbe5e0eac357744c8844d3dc040f9685f1b1a6",
+      "time": 1577670608
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "c0e9f90f5b1274f72cc5f80748044b69f7b1e4f1",
+      "time": 1567906671
+    },
+    {
+      "tag": "v0.7.2",
+      "hash": "8095b259afd4c4aa8dc56936fab45f4da356b433",
+      "time": 1567891675
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "2ca7dff22a9024c5e01e45e1b212e03f62c67c4e",
+      "time": 1567837050
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "c017d1c3459a3e6b797bf6c7a205e4e5383baaf6",
+      "time": 1567763386
+    },
+    {
+      "tag": "v0.6.1",
+      "hash": "6b8d04122b42da48f8d8bbba9abdfaa4fc8d5858",
+      "time": 1544245842
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "2768d4f593bb18300af05e0a7e4d5ec48bc56471",
+      "time": 1544180578
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "955a36c55df127f50f68ca7b928f109bfc731698",
+      "time": 1541410985
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "876b3634415409207023b239ed8ef58a594e599d",
+      "time": 1541306706
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "1b538f7f37cbb8448bd8878b8c8d81cf33a17de3",
+      "time": 1541238409
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "da735a5cbd1721ba0fc486f14203328f26857afe",
+      "time": 1540633312
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "7c2ca335a2740991115f0c12dfe9b589363d2331",
+      "time": 1540373724
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "a50dfd3b444cbbc2e587a88ec4c1f5c72513f1e1",
+      "time": 1540322714
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "505fc33d318e37226c92665abce276fa690d9f42",
+      "time": 1540236165
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "9348402d601a7a284e8e3da4137293d79cf201e7",
+      "time": 1540200016
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "07a7808558040229117217b51eb327f38a2aae79",
+      "time": 1540179947
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "798fe474778bf2d1d85683dc108b8ab82f6b4ffa",
+      "time": 1539975920
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "e3f69f5f2b95d841cd5bdb5c28ee5d6eeafa9cfb",
+      "time": 1539915438
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "2324ffb8a376989cac7dee67b0847cc03af22365",
+      "time": 1539853663
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "d0d888efc6b0907c8f3f796cb299ef513d74a162",
+      "time": 1539766041
+    }
+  ],
+  "tags": [
+    "markdown",
+    "md",
+    "docs",
+    "html"
+  ]
+}

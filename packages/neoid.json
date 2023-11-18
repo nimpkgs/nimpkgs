@@ -1,0 +1,41 @@
+{
+  "name": "neoid",
+  "url": "https://github.com/theAkito/nim-neoid",
+  "method": "git",
+  "description": "Nim implementation of NanoID, a tiny, secure, URL-friendly, unique string ID generator. Works with Linux and Windows!",
+  "license": "GPL-3.0-or-later",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "54ab178c7c86e737be10562ce6683bb81b067749",
+      "time": 1541679166
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "683297dad7116d717fe58e125ad27cdfbf18c40c",
+      "time": 1538816393
+    }
+  ],
+  "tags": [
+    "akito",
+    "nanoid",
+    "neoid",
+    "uuid",
+    "oid",
+    "secure",
+    "random",
+    "generator",
+    "windows",
+    "rng",
+    "csprng",
+    "cprng",
+    "crng",
+    "crypto",
+    "cryptography",
+    "crypt",
+    "encrypt",
+    "encryption",
+    "easy",
+    "quick"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "metric",
+  "url": "https://github.com/mjendrusch/metric",
+  "method": "git",
+  "description": "Dimensionful types and dimensional analysis.",
+  "license": "MIT",
+  "web": "https://github.com/mjendrusch/metric",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "e8e592ff1b2362ac91aced63802af76775c4ce2c",
+      "time": 1519598235
+    }
+  ],
+  "tags": [
+    "library",
+    "units",
+    "scientific",
+    "dimensional-analysis"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "avr_io",
+  "url": "https://github.com/Abathargh/avr_io",
+  "method": "git",
+  "description": "AVR registers, interrupts, progmem and peripheral support in nim!",
+  "license": "BSD-3",
+  "web": "https://github.com/Abathargh/avr_io/wiki",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "db97a10eced618dcf093a25618193db8e404c729",
+      "time": 1700765122
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "0d2a53b594de34149f57d33ba64fd19f7f55b0d7",
+      "time": 1686684890
+    }
+  ],
+  "tags": [
+    "avr",
+    "atmega",
+    "microcontroller",
+    "embedded",
+    "firmware"
+  ]
+}

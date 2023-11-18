@@ -1,0 +1,15 @@
+{
+  "name": "debby",
+  "url": "https://github.com/treeform/debby",
+  "method": "git",
+  "description": "Database ORM layer",
+  "license": "MIT",
+  "web": "https://github.com/treeform/debby",
+  "tags": [
+    "db",
+    "sqlite",
+    "mysql",
+    "postgresql",
+    "orm"
+  ]
+}

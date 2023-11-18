@@ -1,0 +1,12 @@
+{
+  "name": "formulas",
+  "url": "https://github.com/thisago/formulas",
+  "method": "git",
+  "description": "Mathematical formulas",
+  "license": "MIT",
+  "web": "https://github.com/thisago/formulas",
+  "tags": [
+    "math",
+    "geometry"
+  ]
+}

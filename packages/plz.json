@@ -1,0 +1,13 @@
+{
+  "name": "plz",
+  "url": "https://github.com/juancarlospaco/nim-pypi",
+  "method": "git",
+  "description": "PLZ Python PIP alternative",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-pypi",
+  "tags": [
+    "python",
+    "pip",
+    "nimpy"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "circleci_client",
+  "url": "https://github.com/FedericoCeratto/nim-circleci",
+  "method": "git",
+  "description": "CircleCI API client",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-circleci",
+  "tags": [
+    "circleci",
+    "client"
+  ]
+}

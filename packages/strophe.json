@@ -1,0 +1,14 @@
+{
+  "name": "strophe",
+  "url": "https://github.com/SillaIndustries/nim-strophe",
+  "method": "git",
+  "description": "Libstrophe wrapper",
+  "license": "MIT",
+  "web": "https://github.com/SillaIndustries/nim-strophe",
+  "tags": [
+    "library",
+    "wrapper",
+    "strophe",
+    "messaging"
+  ]
+}

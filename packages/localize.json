@@ -1,0 +1,13 @@
+{
+  "name": "localize",
+  "url": "https://github.com/levovix0/localize",
+  "method": "git",
+  "description": "Compile time localization for applications",
+  "license": "MIT",
+  "web": "https://github.com/levovix0/localize",
+  "tags": [
+    "translate",
+    "translation",
+    "localization"
+  ]
+}

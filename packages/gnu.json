@@ -1,0 +1,33 @@
+{
+  "name": "gnu",
+  "url": "https://github.com/tonogram/gnu",
+  "method": "git",
+  "description": "Godot-Nim Utility - Godot gamedev with Nim",
+  "license": "MIT",
+  "web": "https://github.com/tonogram/gnu",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "e70c12df76d54565621ccdd6b6de7c63ac374ade",
+      "time": 1628203552
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "8f57485c78df2c81215ea38db5d6edcdaeff7203",
+      "time": 1627431005
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "a0152775d71779664664333dd6b160e80fb023ce",
+      "time": 1627273059
+    }
+  ],
+  "tags": [
+    "gamedev",
+    "godot",
+    "game",
+    "engine",
+    "utility",
+    "tool"
+  ]
+}

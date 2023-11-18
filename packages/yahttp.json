@@ -1,0 +1,30 @@
+{
+  "name": "yahttp",
+  "url": "https://github.com/mishankov/yahttp",
+  "method": "git",
+  "description": "Awesome simple HTTP client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/mishankov/yahttp?tab=readme-ov-file#-yahttp---awesome-simple-http-client-for-nim",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "be4b49245de3877b70a5241cba63b5ff1fbbe4dc",
+      "time": 1700592469
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "2da3b51aaabd5b2c2a21c412b147cffa2ac8c1d3",
+      "time": 1700591112
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "98b89befa68c1c90c65818d4c8d46b782e91ca2d",
+      "time": 1700512003
+    }
+  ],
+  "tags": [
+    "http",
+    "http-client",
+    "ssl"
+  ]
+}

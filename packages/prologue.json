@@ -1,0 +1,127 @@
+{
+  "name": "prologue",
+  "url": "https://github.com/planety/Prologue",
+  "method": "git",
+  "description": "Another micro web framework.",
+  "license": "MIT",
+  "web": "https://github.com/planety/Prologue",
+  "doc": "https://planety.github.io/prologue",
+  "versions": [
+    {
+      "tag": "v0.6.4",
+      "hash": "5995ed9e3e72ec6a4620879cec124bd8f852b7ea",
+      "time": 1669360337
+    },
+    {
+      "tag": "v0.6.2",
+      "hash": "c34d250620ba4f05cc0a9e55367f3d9e3bc7186c",
+      "time": 1665886408
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "e456548b5a44bc5383993782478e34a989dabb0a",
+      "time": 1653746840
+    },
+    {
+      "tag": "v0.5.8",
+      "hash": "beb834dcaeb1c0465c2791bfd54187a449b8466c",
+      "time": 1651303265
+    },
+    {
+      "tag": "v0.5.6",
+      "hash": "1901f9968d4b61d1b13086225f5da6aae32e45e4",
+      "time": 1647929937
+    },
+    {
+      "tag": "v0.5.4",
+      "hash": "17c89553b9109f17c61b43dbd32e040a499d5beb",
+      "time": 1642677703
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "57de506cdbd12b91b4a934936400c92a487eda4d",
+      "time": 1641141852
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "ab0e48f88f8b23947d552c72b883e78f1817744a",
+      "time": 1631432981
+    },
+    {
+      "tag": "v0.4.8, v.0.4.8",
+      "hash": "c5c75c0cafaef1fd9d708b65e45d30aa205312fc",
+      "time": 1628864695
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "6d8604eec647ca859ff4b1287d833b9796fe141a",
+      "time": 1603703175
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "31dbca6a51be2e80a75bccf343f5dbce767cac67",
+      "time": 1603269744
+    },
+    {
+      "tag": "v0.3.6",
+      "hash": "2806ae565e7c7e80981ddecb1bb4953d790fff7b",
+      "time": 1599960489
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "a66699f124f948fe74c4da424dcd4a0aee84afe6",
+      "time": 1598696180
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "1d2b10b83d62face945597bc4f07086e3d52aa07",
+      "time": 1596971134
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "1cf194066a6c4334daf392fe43c2d5d593b298c9",
+      "time": 1596936913
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "ec71748a31e89df22d7a191f112c0cc6979b3fe9",
+      "time": 1596891398
+    },
+    {
+      "tag": "v0.2.6",
+      "hash": "973c8db9332448b57b74e8e40ad7e2d284b962d6",
+      "time": 1593683528
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "caa83cdf1e0f623aa8a2c786d38755f771126a3f",
+      "time": 1593676022
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "4f18eeecb78486d1132f29c61bb6a3f7e1571694",
+      "time": 1592400508
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "22e7ddb04f3055a4ad161b2c86b707c9514e68a3",
+      "time": 1591746727
+    },
+    {
+      "tag": "v0.1.8",
+      "hash": "a4b6ed77fbdf0bb367eb3e1367daa6155aea36ef",
+      "time": 1588152493
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "21f6a7a9df2450f73c8f69dbd6b037b5e61e6df0",
+      "time": 1584889285
+    }
+  ],
+  "tags": [
+    "web",
+    "prologue",
+    "starlight",
+    "jester"
+  ]
+}

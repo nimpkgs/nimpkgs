@@ -1,0 +1,14 @@
+{
+  "name": "gsl",
+  "url": "https://github.com/YesDrX/gsl-nim.git",
+  "method": "git",
+  "description": "gsl C Api wrapped for nim",
+  "license": "GPL3",
+  "web": "https://github.com/YesDrX/gsl-nim/",
+  "tags": [
+    "gsl",
+    "gnu",
+    "numerical",
+    "scientific"
+  ]
+}

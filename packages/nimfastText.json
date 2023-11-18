@@ -1,0 +1,26 @@
+{
+  "name": "nimfastText",
+  "url": "https://github.com/genotrance/nimfastText",
+  "method": "git",
+  "description": "fastText wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimfastText",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "9d6e11b9843cf137085d0b55e5d5b38f48c33baf",
+      "time": 1544461742
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "6cfe0c2eb8657a8ee6d1f39b9c4341e8468827c0",
+      "time": 1541365183
+    }
+  ],
+  "tags": [
+    "fasttext",
+    "classification",
+    "text",
+    "wrapper"
+  ]
+}

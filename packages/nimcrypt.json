@@ -1,0 +1,46 @@
+{
+  "name": "nimcrypt",
+  "url": "https://github.com/napalu/nimcrypt",
+  "method": "git",
+  "description": "Implementation of Unix crypt with support for Crypt-MD5, Crypt-SHA256 and Crypt-SHA512",
+  "license": "MIT",
+  "web": "https://github.com/napalu/nimcrypt",
+  "doc": "https://github.com/napalu/nimcrypt",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "5cbb60ebe6ef96314697d16dc2bb765e14098da6",
+      "time": 1692107372
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "bc16acaeede4833563ec35f2237bd4ff09282c26",
+      "time": 1674198504
+    },
+    {
+      "tag": "v0.0.8",
+      "hash": "301f351c887b46c793c6df176dd683e866fe1743",
+      "time": 1635057024
+    },
+    {
+      "tag": "v0.0.7",
+      "hash": "eb540910489547be62f0804aed88493ed0d686be",
+      "time": 1632414758
+    },
+    {
+      "tag": "v0.0.6",
+      "hash": "5bc676d7d83c525acf5dad800bc3c33ecb44c8ee",
+      "time": 1632044033
+    }
+  ],
+  "tags": [
+    "crypt",
+    "security",
+    "crypto",
+    "md5",
+    "sha-256",
+    "sha-512",
+    "cryptography",
+    "security"
+  ]
+}

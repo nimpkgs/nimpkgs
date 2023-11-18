@@ -1,0 +1,52 @@
+{
+  "name": "measuremancer",
+  "url": "https://github.com/SciNim/Measuremancer",
+  "method": "git",
+  "description": "A library to handle measurement uncertainties",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/Measuremancer",
+  "versions": [
+    {
+      "tag": "v0.2.5",
+      "hash": "685e61565cc8a8e3bdaad9be8791781967250c0b",
+      "time": 1695479925
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "607596102ac3f9ca8d9c3eabc1b1053dacea175b",
+      "time": 1692871518
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "d27a1a83c0510b2a557621000d401490175a5015",
+      "time": 1668704632
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "e592671a981bfabef8b1d24875218edc6fe8d73d",
+      "time": 1668624768
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "5a6a0f8ad19c2285e1a37057c98ae83e8054cc80",
+      "time": 1666197450
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "8b2c8981b282efa6126e061dda2b97af5d04de48",
+      "time": 1666183603
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "0581cd76c6bb9a9823a2c36cb12aa0d92b22998b",
+      "time": 1666117369
+    }
+  ],
+  "tags": [
+    "measurements",
+    "error propagation",
+    "errors",
+    "uncertainties",
+    "science"
+  ]
+}

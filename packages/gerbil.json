@@ -1,0 +1,25 @@
+{
+  "name": "gerbil",
+  "url": "https://github.com/jasonprogrammer/gerbil",
+  "method": "git",
+  "description": "A dynamic website generator",
+  "license": "MIT",
+  "web": "https://getgerbil.com",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "364e22eaccac8aff9fa83b2f9e231cda6d0a97b4",
+      "time": 1644708952
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "0824aa21683f751cec1639cd402a777f888986b3",
+      "time": 1592970534
+    }
+  ],
+  "tags": [
+    "web",
+    "dynamic",
+    "generator"
+  ]
+}

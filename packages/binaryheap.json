@@ -1,0 +1,12 @@
+{
+  "name": "binaryheap",
+  "url": "https://github.com/bluenote10/nim-heap",
+  "method": "git",
+  "description": "Simple binary heap implementation",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/nim-heap",
+  "tags": [
+    "heap",
+    "priority queue"
+  ]
+}

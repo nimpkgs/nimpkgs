@@ -1,0 +1,70 @@
+{
+  "name": "drchaos",
+  "url": "https://github.com/status-im/nim-drchaos",
+  "method": "git",
+  "description": "A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-drchaos",
+  "versions": [
+    {
+      "tag": "v0.1.9",
+      "hash": "29c39cc4ba4ce63d225fa1b1077ddd7752a104ba",
+      "time": 1663151333
+    },
+    {
+      "tag": "v0.1.8",
+      "hash": "2ec768c1fb67646c7081910242ca85f15e0e0872",
+      "time": 1662841101
+    },
+    {
+      "tag": "v0.1.7",
+      "hash": "7c704f596dd048e2282e8cd21ed1bb3d43abaef9",
+      "time": 1662718085
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "4662b4215acdd96d419c2306950a1d2b237725dc",
+      "time": 1662472719
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "9cbf2f50f459ddf4276e3fa73d46f7a9e5a92685",
+      "time": 1662395376
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "8fc4b594689e753e851e60d672cc49ec96027475",
+      "time": 1662280840
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "96ef0be0d44052a637392c5b9b6c3f5c572e5775",
+      "time": 1661714292
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "c5665f9bde41a9d5fbcba5e7b13840f35afa1032",
+      "time": 1661679838
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "72664f3d7e04a63c24f5216bb177703042bf3eca",
+      "time": 1661679239
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "a4cbf3e6c6d40cc0abe4da58db1ffc708ac78143",
+      "time": 1661676206
+    }
+  ],
+  "tags": [
+    "security",
+    "binary",
+    "structured",
+    "fuzzing",
+    "unit-testing",
+    "coverage-guided",
+    "grammar-fuzzer",
+    "mutator-based"
+  ]
+}

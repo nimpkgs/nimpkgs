@@ -1,0 +1,15 @@
+{
+  "name": "ago",
+  "url": "https://github.com/daehee/ago",
+  "method": "git",
+  "description": "Time ago in words in Nim",
+  "license": "MIT",
+  "web": "https://github.com/daehee/ago",
+  "tags": [
+    "web",
+    "time",
+    "datetime",
+    "library",
+    "prologue"
+  ]
+}

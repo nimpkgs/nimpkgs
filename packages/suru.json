@@ -1,0 +1,24 @@
+{
+  "name": "suru",
+  "url": "https://github.com/de-odex/suru",
+  "method": "git",
+  "description": "A tqdm-style progress bar in Nim",
+  "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "e99984f309013bb4c0cdc32c59bcadea9d82b948",
+      "time": 1617112093
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "e119b5276b9017ce1abfe9677d2cb3b29fdcdb0d",
+      "time": 1617110772
+    }
+  ],
+  "tags": [
+    "progress",
+    "bar",
+    "terminal"
+  ]
+}

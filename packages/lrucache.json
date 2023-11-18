@@ -1,0 +1,13 @@
+{
+  "name": "lrucache",
+  "url": "https://github.com/jackhftang/lrucache",
+  "method": "git",
+  "description": "Least recently used (LRU) cache",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/lrucache",
+  "tags": [
+    "cache",
+    "lru",
+    "data structure"
+  ]
+}

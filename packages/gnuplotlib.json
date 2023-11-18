@@ -1,0 +1,46 @@
+{
+  "name": "gnuplotlib",
+  "url": "https://github.com/planetis-m/gnuplotlib",
+  "method": "git",
+  "description": "gnuplot interface",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/gnuplotlib",
+  "versions": [
+    {
+      "tag": "v2.7.1",
+      "hash": "60bbcbd293dc12d287311d2fcfbb8a23c74894c7",
+      "time": 1674052530
+    },
+    {
+      "tag": "v2.6.1",
+      "hash": "a81e1c243a7113b48c9b14edcdaf6262615970c6",
+      "time": 1606071367
+    },
+    {
+      "tag": "v2.5.0",
+      "hash": "357140ebcaf0864a8d4092d1471630ec1897def4",
+      "time": 1606070165
+    },
+    {
+      "tag": "v2.1.0",
+      "hash": "61f8c12913a3f89a4b11ef5469e5bd4f69715ad0",
+      "time": 1606058436
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "b16381514fd959950cf9afaf9c294d3dd2ffac68",
+      "time": 1606055882
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "fd386abddabdee040a24d321251dd7013bb2c8d9",
+      "time": 1606051653
+    }
+  ],
+  "tags": [
+    "graphics",
+    "plotting",
+    "graphing",
+    "data"
+  ]
+}

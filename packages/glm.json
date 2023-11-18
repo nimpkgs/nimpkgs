@@ -1,0 +1,42 @@
+{
+  "name": "glm",
+  "url": "https://github.com/stavenko/nim-glm",
+  "method": "git",
+  "description": "Port of c++ glm library with shader-like syntax",
+  "license": "MIT",
+  "web": "https://github.com/stavenko/nim-glm",
+  "versions": [
+    {
+      "tag": "v1.1.1",
+      "hash": "c30414e241ad7fde9abc4f1dc7185268c4bbdbcd",
+      "time": 1531609322
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "48115991609e6f509f1c4eeeb0a726f5a09b8aae",
+      "time": 1531411610
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "df79cb0d59e33d023d289e6930172f11cf3738bf",
+      "time": 1513694899
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "75f866dd26d17626f2950bca77bf511748133222",
+      "time": 1509023117
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "bbbb44e98c0d4b296d5290d502f7e4a035662011",
+      "time": 1508776491
+    }
+  ],
+  "tags": [
+    "opengl",
+    "math",
+    "matrix",
+    "vector",
+    "glsl"
+  ]
+}

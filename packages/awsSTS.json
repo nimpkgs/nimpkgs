@@ -1,0 +1,36 @@
+{
+  "name": "awsSTS",
+  "url": "https://github.com/ThomasTJdev/nim_awsSTS",
+  "method": "git",
+  "description": "AWS Security Token Service API in Nim",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_awsSTS",
+  "versions": [
+    {
+      "tag": "v1.0.3",
+      "hash": "5bf72edf498b038b11a6e24e031b867806ccf427",
+      "time": 1652507885
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "9577ef2dacb801a66ce347d5ec5f87e8cfe7423c",
+      "time": 1624709202
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "2c8ea35ea649bda4aef1bbfa597fc1c7bfb9f7fa",
+      "time": 1624704801
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "e74dcea40e797bdda708f795c0e37ba71b06cc67",
+      "time": 1624696031
+    }
+  ],
+  "tags": [
+    "aws",
+    "amazon",
+    "sts",
+    "asia"
+  ]
+}

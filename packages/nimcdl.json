@@ -1,0 +1,14 @@
+{
+  "name": "nimcdl",
+  "url": "https://gitlab.com/endes123321/nimcdl",
+  "method": "git",
+  "description": "Circuit Design language made in Nim",
+  "license": "GPLv3",
+  "web": "https://gitlab.com/endes123321/nimcdl",
+  "tags": [
+    "circuit",
+    "HDL",
+    "PCB",
+    "DSL"
+  ]
+}

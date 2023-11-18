@@ -1,0 +1,24 @@
+{
+  "name": "xcm",
+  "url": "https://github.com/SolitudeSF/xcm",
+  "method": "git",
+  "description": "Color management utility for X",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/xcm",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "00f159ebdc3df93724a1e1e046d502e17196e74f",
+      "time": 1573552423
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "0ca7fcd21e8eb1a3990f9874838419610ed2b762",
+      "time": 1570198017
+    }
+  ],
+  "tags": [
+    "color",
+    "x11"
+  ]
+}

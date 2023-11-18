@@ -1,0 +1,13 @@
+{
+  "name": "nmark",
+  "url": "https://github.com/kyoheiu/nmark",
+  "method": "git",
+  "description": "fast markdown parser",
+  "license": "MIT",
+  "web": "https://github.com/kyoheiu/nmark",
+  "tags": [
+    "markdown",
+    "parser",
+    "library"
+  ]
+}

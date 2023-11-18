@@ -1,0 +1,13 @@
+{
+  "name": "wayland",
+  "url": "https://github.com/j-james/nim-wayland",
+  "method": "git",
+  "description": "Nim bindings for Wayland",
+  "license": "MIT",
+  "web": "https://github.com/j-james/nim-wayland",
+  "tags": [
+    "wayland",
+    "wrapper",
+    "library"
+  ]
+}

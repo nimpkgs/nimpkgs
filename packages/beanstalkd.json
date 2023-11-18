@@ -1,0 +1,13 @@
+{
+  "name": "beanstalkd",
+  "url": "https://github.com/tormaroe/beanstalkd.nim.git",
+  "method": "git",
+  "description": "A beanstalkd work queue client library.",
+  "license": "MIT",
+  "web": "https://github.com/tormaroe/beanstalkd.nim",
+  "tags": [
+    "library",
+    "queue",
+    "messaging"
+  ]
+}

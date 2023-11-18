@@ -1,0 +1,61 @@
+{
+  "name": "nimtetris",
+  "url": "https://github.com/jiro4989/nimtetris",
+  "method": "git",
+  "description": "A simple terminal tetris in Nim",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/nimtetris",
+  "versions": [
+    {
+      "tag": "v1.2.0",
+      "hash": "5a194c8f41e49959d7a87696db1d09cd2509d442",
+      "time": 1592576327
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "50090ff041159174400641ad767f58490db805d1",
+      "time": 1592575455
+    },
+    {
+      "tag": "v1.0.0, v0.3.1",
+      "hash": "9016c6ccb5b20dc631cc4da8c920fdf428fe5a99",
+      "time": 1592539305
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "c8df4059cc77e4f0ef25e7d14ecb2e5c72849bcc",
+      "time": 1592529605
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "f0ba794442fc700c28908da8311fd0bb85f9e906",
+      "time": 1592525127
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "dca57a2797a389e46ec7db5ed7964e011392bcb5",
+      "time": 1592520280
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "b534498927c5791567e8e56c80fe36e4a0a390f2",
+      "time": 1592518780
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "8991b7507ac5a45ca8630da86f68e0b63be15f9b",
+      "time": 1592501128
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7047a9a0ddcd82aabda9af1aaf323d6d94e6fce6",
+      "time": 1592483749
+    }
+  ],
+  "tags": [
+    "tetris",
+    "terminal",
+    "game",
+    "command"
+  ]
+}

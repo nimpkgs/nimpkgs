@@ -1,0 +1,21 @@
+{
+  "name": "chrono",
+  "url": "https://github.com/treeform/chrono",
+  "method": "git",
+  "description": "Calendars, Timestamps and Timezones utilities.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/chrono",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "e55797f48de5d5bf50fe435d1411c13d9dcc66e5",
+      "time": 1574399007
+    }
+  ],
+  "tags": [
+    "library",
+    "timestamp",
+    "calendar",
+    "timezone"
+  ]
+}

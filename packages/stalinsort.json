@@ -1,0 +1,39 @@
+{
+  "name": "stalinsort",
+  "url": "https://github.com/tonogram/stalinsort",
+  "method": "git",
+  "description": "A Nim implementation of the Stalin Sort algorithm.",
+  "license": "CC0-1.0",
+  "web": "https://github.com/tonogram/stalinsort",
+  "versions": [
+    {
+      "tag": "v0.3.2",
+      "hash": "f6f749214f9b833d0266c0a9766fdd48dfba6f8a",
+      "time": 1602007550
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "75e24538e82cab40581cd6528b2d0461d206348c",
+      "time": 1590382650
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "eecb0f6d62c676104cedafc8c0c159e4f618b32b",
+      "time": 1590379585
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "5b002c0885fdc4bce67b3dd58c71314f155b8f63",
+      "time": 1589678215
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "76774c07c9a9afe05bd020fea0a5274defabacd1",
+      "time": 1589677448
+    }
+  ],
+  "tags": [
+    "algorithm",
+    "sort"
+  ]
+}

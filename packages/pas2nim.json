@@ -1,0 +1,14 @@
+{
+  "name": "pas2nim",
+  "url": "https://github.com/nim-lang/pas2nim",
+  "method": "git",
+  "description": "pas2nim is a tool to translate Pascal code to Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/pas2nim",
+  "tags": [
+    "app",
+    "binary",
+    "tool",
+    "Pascal"
+  ]
+}

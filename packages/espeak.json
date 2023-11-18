@@ -1,0 +1,13 @@
+{
+  "name": "espeak",
+  "url": "https://github.com/juancarlospaco/nim-espeak",
+  "method": "git",
+  "description": "Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-espeak",
+  "tags": [
+    "espeak",
+    "voice",
+    "texttospeech"
+  ]
+}

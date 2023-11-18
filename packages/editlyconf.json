@@ -1,0 +1,16 @@
+{
+  "name": "editlyconf",
+  "url": "https://github.com/thisago/editlyconf",
+  "method": "git",
+  "description": "Editly config generation tools and types",
+  "license": "mit",
+  "web": "https://github.com/thisago/editlyconf",
+  "tags": [
+    "video",
+    "config",
+    "library",
+    "video-editing",
+    "editly",
+    "video-generation"
+  ]
+}

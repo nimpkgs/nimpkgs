@@ -1,0 +1,12 @@
+{
+  "name": "graphics",
+  "url": "https://github.com/nim-lang/graphics",
+  "method": "git",
+  "description": "Graphics module for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graphics",
+  "tags": [
+    "library",
+    "SDL"
+  ]
+}

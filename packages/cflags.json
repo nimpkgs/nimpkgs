@@ -1,0 +1,14 @@
+{
+  "name": "cflags",
+  "url": "https://github.com/MCRusher/cflags",
+  "method": "git",
+  "description": "A C-compatible bitmask flags interface, with a subset of nim set functionality",
+  "license": "MIT",
+  "web": "https://github.com/MCRusher/cflags",
+  "doc": "https://mcrusher.github.io/cflags/cflags.html",
+  "tags": [
+    "c",
+    "interop",
+    "library"
+  ]
+}

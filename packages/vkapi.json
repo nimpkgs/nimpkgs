@@ -1,0 +1,52 @@
+{
+  "name": "vkapi",
+  "url": "https://github.com/Yardanico/nimvkapi",
+  "method": "git",
+  "description": "A wrapper for the vk.com API (russian social network)",
+  "license": "MIT",
+  "web": "https://github.com/Yardanico/nimvkapi",
+  "versions": [
+    {
+      "tag": "v1.3.1",
+      "hash": "3af1998f0d9bf07c15bb0f916757e4e7994aee31",
+      "time": 1557685988
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "f4d074a89b99a0aa0431d0c97a15520577fdff52",
+      "time": 1502362560
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "89597df56f363928faca9055ce0d789c6e4785da",
+      "time": 1501529102
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "191e5a2d065b4f4b14866823266c84b9b8062d70",
+      "time": 1501520567
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "e579adaab5f9fcc184b6df90adf4b3749b3762b1",
+      "time": 1501512392
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "a010368f9646ac4da543ccc87ebfbece973b2802",
+      "time": 1501456707
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "3a86969a9bf72a7d027eb1373cf7e9921331be28",
+      "time": 1501450619
+    }
+  ],
+  "tags": [
+    "wrapper",
+    "vkontakte",
+    "vk",
+    "library",
+    "api"
+  ]
+}

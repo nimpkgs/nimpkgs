@@ -1,0 +1,14 @@
+{
+  "name": "NimDBX",
+  "url": "https://github.com/snej/nimdbx",
+  "method": "git",
+  "description": "Fast persistent key-value store, based on libmdbx",
+  "license": "Apache-2.0",
+  "tags": [
+    "database",
+    "libmdbx",
+    "LMDB",
+    "bindings",
+    "library"
+  ]
+}

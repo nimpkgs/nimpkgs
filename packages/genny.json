@@ -1,0 +1,13 @@
+{
+  "name": "genny",
+  "url": "https://github.com/treeform/genny",
+  "method": "git",
+  "description": "Generate a shared library and bindings for many languages.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/genny",
+  "tags": [
+    "C",
+    "python",
+    "node.js"
+  ]
+}

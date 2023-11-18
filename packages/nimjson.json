@@ -1,0 +1,117 @@
+{
+  "name": "nimjson",
+  "url": "https://github.com/jiro4989/nimjson",
+  "method": "git",
+  "description": "nimjson generates nim object definitions from json documents.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/nimjson",
+  "versions": [
+    {
+      "tag": "v3.2.0",
+      "hash": "c7b681ac503c1c125ddc3e94e471a1d4f71f91f4",
+      "time": 1691328934
+    },
+    {
+      "tag": "v3.1.0",
+      "hash": "af9f6564ae5c212dbe33663bffe142d559a2b97e",
+      "time": 1670193684
+    },
+    {
+      "tag": "v3.0.0",
+      "hash": "8445e9a3aeb959f6ee1ea09d8134ddeeb931aab4",
+      "time": 1667396423
+    },
+    {
+      "tag": "v2.0.1",
+      "hash": "b20b443de8bfd8de5d608e9a196f3497264680f3",
+      "time": 1649376414
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "2d5fd2c89ff9c57c0fe6fb5b9e59547debb820b6",
+      "time": 1645201558
+    },
+    {
+      "tag": "v1.3.1",
+      "hash": "fb278878e1c6c92aa4cddd18baff26ecb84514ac",
+      "time": 1645102887
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "fb6b0198f3a3d9d5e1ed1f438cc2629804ea9830",
+      "time": 1645101284
+    },
+    {
+      "tag": "v1.2.8",
+      "hash": "65e6fd57e82f36c2c65ba7880df0afe0be16abf6",
+      "time": 1601217227
+    },
+    {
+      "tag": "v1.2.7",
+      "hash": "2323019a6fc95a6a2de5020134ee4f45a5e461a6",
+      "time": 1595843775
+    },
+    {
+      "tag": "v1.2.6",
+      "hash": "a597ed9e712a90fa3ea5030138c5dad0d1f6aa94",
+      "time": 1595091733
+    },
+    {
+      "tag": "v1.2.5",
+      "hash": "efda898da3664d629a4c95a8a6e89a1acb204885",
+      "time": 1594676571
+    },
+    {
+      "tag": "v1.2.4",
+      "hash": "9e1c40d4db09c37fd1717fb59a653b5495499a21",
+      "time": 1594648139
+    },
+    {
+      "tag": "v1.2.3",
+      "hash": "ffca6302282f394fca2ec7b8584982425908deb6",
+      "time": 1594379830
+    },
+    {
+      "tag": "v1.2.2",
+      "hash": "85c5012fb0d041cce14640dd7d3700502e75eaf2",
+      "time": 1593901943
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "ea612e9bf9173b043d5258408c5bcf89d02721de",
+      "time": 1563447333
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "05ca0385cd6b4268a5c197c088c08f1d8a95054c",
+      "time": 1563439651
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "e7610d878e14cc038ff71b99094bbae3cfe2e0bb",
+      "time": 1561437701
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "e813d48e5219b09aca6897403cc51b28bb424317",
+      "time": 1561166533
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "2dbada9779db77df790b950b11bc3a16f20e216e",
+      "time": 1561066224
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "872d2ae1bd2dc7406d019f145bb927357265d844",
+      "time": 1561044077
+    }
+  ],
+  "tags": [
+    "lib",
+    "cli",
+    "command",
+    "json",
+    "library"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "NimData",
+  "url": "https://github.com/bluenote10/NimData",
+  "method": "git",
+  "description": "DataFrame API enabling fast out-of-core data analytics",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/NimData",
+  "tags": [
+    "library",
+    "dataframe"
+  ]
+}

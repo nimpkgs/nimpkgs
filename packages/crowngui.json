@@ -1,0 +1,55 @@
+{
+  "name": "crowngui",
+  "url": "https://github.com/bung87/crowngui",
+  "method": "git",
+  "description": "Web Technologies based Crossplatform GUI Framework",
+  "license": "MIT",
+  "web": "https://github.com/bung87/crowngui",
+  "versions": [
+    {
+      "tag": "v0.2.12",
+      "hash": "fa4e1a447c5f81936a1621bcfb7bd6c576cbe422",
+      "time": 1689935573
+    },
+    {
+      "tag": "v0.2.11",
+      "hash": "77051a276aab403c14c58a51fc19effc1bede115",
+      "time": 1689931252
+    },
+    {
+      "tag": "v0.2.10",
+      "hash": "636bfcb2651d9425e2415125ce479f1066512875",
+      "time": 1689766063
+    },
+    {
+      "tag": "v0.2.9",
+      "hash": "9ae082ee6b69805340602faab42c183fb99d7836",
+      "time": 1620126749
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "eb26cb72a4b413db8a76b45d7d5844cfaaf0a737",
+      "time": 1619947834
+    },
+    {
+      "tag": "v0.2.7",
+      "hash": "021275cf656748db9dc7b6efb70990710b6f2126",
+      "time": 1619805037
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "1c0f0a018ee389d7c412e3958207b96b657cc686",
+      "time": 1616980118
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "0217c5d0b47ebbb9d7bc57fd74a749ec596e8b9c",
+      "time": 1616949479
+    }
+  ],
+  "tags": [
+    "web-based",
+    "gui",
+    "framework"
+  ]
+}

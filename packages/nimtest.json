@@ -1,0 +1,25 @@
+{
+  "name": "nimtest",
+  "url": "https://github.com/avahe-kellenberger/nimtest",
+  "method": "git",
+  "description": "Simple testing framework for Nim",
+  "license": "GPL-2.0-only",
+  "web": "https://github.com/avahe-kellenberger/nimtest",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "17bd3a0f794106428b8592c69832bf48c97b23e2",
+      "time": 1662912181
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "df1cf56ea85cf747a885034bb0f8e9eb97bf3185",
+      "time": 1661883976
+    }
+  ],
+  "tags": [
+    "nim",
+    "test",
+    "framework"
+  ]
+}

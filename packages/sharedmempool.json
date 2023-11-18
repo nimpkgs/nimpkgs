@@ -1,0 +1,13 @@
+{
+  "name": "sharedmempool",
+  "url": "https://github.com/mikra01/sharedmempool",
+  "method": "git",
+  "description": "threadsafe memory pool ",
+  "license": "MIT",
+  "web": "https://github.com/mikra01/sharedmempool",
+  "tags": [
+    "pool",
+    "memory",
+    "thread"
+  ]
+}

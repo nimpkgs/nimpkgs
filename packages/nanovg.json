@@ -1,0 +1,66 @@
+{
+  "name": "nanovg",
+  "url": "https://github.com/johnnovak/nim-nanovg",
+  "method": "git",
+  "description": "Nim wrapper for the C NanoVG antialiased vector graphics rendering library for OpenGL",
+  "license": "MIT",
+  "web": "https://github.com/johnnovak/nim-nanovg",
+  "versions": [
+    {
+      "tag": "v0.3.4",
+      "hash": "589ccfab9de33d4c4f00961980c33218c342d812",
+      "time": 1656133262
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "a8495f053545c8865fc7d486c6a2ce440862bc38",
+      "time": 1644727977
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "ad400328cba0e47fc63e4243ad7a6f7c538e59a5",
+      "time": 1626768629
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "70fc19d547825f5f40a4ca5c04f55c3798f2a3cd",
+      "time": 1604302019
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "37be0e4f1b3e09198d137bcf7a6724f95598360f",
+      "time": 1588927100
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "e561bd776e855a2b95aef21a7ce6e936bb9efdd6",
+      "time": 1586068813
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "960e99f6b504266879f1289281712721fb8f6e09",
+      "time": 1582196811
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "6805a9ae72ce62a1d9187120ede1fa3408636041",
+      "time": 1582195926
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "5c7f5bc253c9aad49b8e307e56d9e9e14dea343b",
+      "time": 1582192006
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "db67e8bcd29d0df429b4f467260b3b5e531481aa",
+      "time": 1574329217
+    }
+  ],
+  "tags": [
+    "wrapper",
+    "GUI",
+    "vector graphics",
+    "opengl"
+  ]
+}

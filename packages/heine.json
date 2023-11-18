@@ -1,0 +1,13 @@
+{
+  "name": "heine",
+  "url": "https://git.sr.ht/~xigoi/heine",
+  "method": "git",
+  "description": "A compact notation for math that transpiles to LaTeX",
+  "license": "GPL-3.0-or-later",
+  "web": "https://xigoi.srht.site/heine/",
+  "tags": [
+    "math",
+    "latex",
+    "language"
+  ]
+}

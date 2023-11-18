@@ -1,0 +1,25 @@
+{
+  "name": "rena",
+  "url": "https://github.com/jiro4989/rena",
+  "method": "git",
+  "description": "rena is a tiny fire/directory renaming command.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/rena",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "df3b2f10256de6cc9b883882385d30a8caab447b",
+      "time": 1585238029
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "ecc2bf445563fd83193764d4b975346c6bee5646",
+      "time": 1585234397
+    }
+  ],
+  "tags": [
+    "cli",
+    "command",
+    "rename"
+  ]
+}

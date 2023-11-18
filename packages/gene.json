@@ -1,0 +1,14 @@
+{
+  "name": "gene",
+  "url": "https://github.com/gcao/gene-new",
+  "method": "git",
+  "description": "Gene - a general purpose language",
+  "license": "MIT",
+  "web": "https://github.com/gcao/gene-new",
+  "tags": [
+    "lisp",
+    "language",
+    "interpreter",
+    "gene"
+  ]
+}

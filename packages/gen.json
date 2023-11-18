@@ -1,0 +1,14 @@
+{
+  "name": "gen",
+  "url": "https://github.com/Adeohluwa/gen",
+  "method": "git",
+  "description": "Boilerplate generator for Jester web framework",
+  "license": "MIT",
+  "web": "https://github.com/Adeohluwa/gen",
+  "tags": [
+    "library",
+    "jester",
+    "boilerplate",
+    "generator"
+  ]
+}

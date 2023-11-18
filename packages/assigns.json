@@ -1,0 +1,41 @@
+{
+  "name": "assigns",
+  "url": "https://github.com/metagn/assigns",
+  "method": "git",
+  "description": "syntax sugar for assignments",
+  "license": "MIT",
+  "web": "https://metagn.github.io/assigns/assigns.html",
+  "versions": [
+    {
+      "tag": "v0.7.1",
+      "hash": "3c2f99e562282cd8fee96727d2802ab5ca8ec8d1",
+      "time": 1663320713
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "e33eaabe6fb9cfbccf85fae97c3339607b87a873",
+      "time": 1663318838
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "e86136ff110e9f5d6b7a24e15832eab4abe0cbe1",
+      "time": 1613064848
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "3133e91068cfa06cb0712cf6fc405fe1c3180e08",
+      "time": 1607438951
+    },
+    {
+      "tag": "v0.4.4",
+      "hash": "038843be7829493a8d5d2774d2ebcd0430586049",
+      "time": 1606721307
+    }
+  ],
+  "tags": [
+    "sugar",
+    "macros",
+    "unpacking",
+    "assignment"
+  ]
+}

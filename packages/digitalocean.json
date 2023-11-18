@@ -1,0 +1,20 @@
+{
+  "name": "digitalocean",
+  "url": "https://github.com/treeform/digitalocean",
+  "method": "git",
+  "description": "Wrapper for DigitalOcean HTTP API.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/digitalocean",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "abd8f95ba3427cb3360cacd2879f4ee289352775",
+      "time": 1539184831
+    }
+  ],
+  "tags": [
+    "digitalocean",
+    "servers",
+    "api"
+  ]
+}

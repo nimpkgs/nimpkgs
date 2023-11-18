@@ -1,0 +1,13 @@
+{
+  "name": "bcra",
+  "url": "https://github.com/juancarlospaco/nim-bcra",
+  "method": "git",
+  "description": "Central Bank of Argentina Gov API Client with debtor corporations info",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-bcra",
+  "tags": [
+    "argentina",
+    "bank",
+    "api"
+  ]
+}

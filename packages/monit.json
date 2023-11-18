@@ -1,0 +1,41 @@
+{
+  "name": "monit",
+  "url": "https://github.com/jiro4989/monit",
+  "method": "git",
+  "description": "A simple task runner. Run tasks and watch file changes with custom paths.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/monit",
+  "versions": [
+    {
+      "tag": "v1.3.0",
+      "hash": "8f6d99d8ca5940c60964a2a13e50771c59b91b57",
+      "time": 1691331022
+    },
+    {
+      "tag": "v1.2.3",
+      "hash": "0f95722cd31bda0cfc9f38a0553685a2c4d68c9d",
+      "time": 1645243764
+    },
+    {
+      "tag": "v1.2.2",
+      "hash": "e5f4924b579331811dd89f976d4dca5becd724ae",
+      "time": 1604747530
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "c425f13842b59369ded04ebc9c98d7683c0db1e4",
+      "time": 1604746887
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "2cea3e00e6c48418b57e041cc79898557cb29f98",
+      "time": 1599483675
+    }
+  ],
+  "tags": [
+    "cli",
+    "task-runner",
+    "developer-tools",
+    "automation"
+  ]
+}

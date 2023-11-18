@@ -1,0 +1,22 @@
+{
+  "name": "shorteststring",
+  "url": "https://github.com/metagn/shorteststring",
+  "method": "git",
+  "description": "word size strings stored in an integer",
+  "license": "MIT",
+  "web": "https://github.com/metagn/shorteststring",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "2c1b43977d68d9a881b4e414f219e87b341ad5fa",
+      "time": 1645183978
+    }
+  ],
+  "tags": [
+    "short-string",
+    "string",
+    "sso",
+    "optimization",
+    "datatype"
+  ]
+}

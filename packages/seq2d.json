@@ -1,0 +1,26 @@
+{
+  "name": "seq2d",
+  "url": "https://github.com/avahe-kellenberger/seq2d",
+  "method": "git",
+  "description": "A 2D Sequence Implementation",
+  "license": "GPL-2.0-only",
+  "web": "https://github.com/avahe-kellenberger/seq2d",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "4140d178bc583f3a46c347fce385d56549e8fbd8",
+      "time": 1662912973
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "c998c1f7654d858583b251ae4d12c2fe487bd262",
+      "time": 1658712677
+    }
+  ],
+  "tags": [
+    "seq2d",
+    "grid",
+    "array2d",
+    "collection"
+  ]
+}

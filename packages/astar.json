@@ -1,0 +1,14 @@
+{
+  "name": "astar",
+  "url": "https://github.com/Nycto/AStarNim",
+  "method": "git",
+  "description": "A* Pathfinding",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/AStarNim",
+  "tags": [
+    "astar",
+    "A*",
+    "pathfinding",
+    "algorithm"
+  ]
+}

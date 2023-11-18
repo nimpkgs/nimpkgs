@@ -1,0 +1,26 @@
+{
+  "name": "integers",
+  "url": "https://github.com/fsh/integers",
+  "method": "git",
+  "description": "Ergonomic arbitrary precision integers wrapping GMP",
+  "license": "MIT",
+  "web": "https://github.com/fsh/integers",
+  "doc": "https://fsh.github.io/integers/integers.html",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "d80108a5fa406d3bc67498a78a1cad51c0741326",
+      "time": 1671264774
+    }
+  ],
+  "tags": [
+    "library",
+    "wrapper",
+    "GMP",
+    "integers",
+    "bigint",
+    "numbers",
+    "number-theory",
+    "math"
+  ]
+}

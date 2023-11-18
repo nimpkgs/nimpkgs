@@ -1,0 +1,13 @@
+{
+  "name": "shene",
+  "url": "https://github.com/ringabout/shene",
+  "method": "git",
+  "description": "Interface for Nim.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/ringabout/shene",
+  "tags": [
+    "interface",
+    "library",
+    "prologue"
+  ]
+}

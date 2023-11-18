@@ -1,0 +1,41 @@
+{
+  "name": "coalesce",
+  "url": "https://github.com/piedar/coalesce",
+  "method": "git",
+  "description": "A nil coalescing operator ?? for Nim",
+  "license": "MIT",
+  "web": "https://github.com/piedar/coalesce",
+  "versions": [
+    {
+      "tag": "v0.3.2",
+      "hash": "e211b0c72363ccb3eecc580785c6d650034b8a80",
+      "time": 1501107847
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "fa7c9f144d8ee9bd44bd9cec2c28b1cc9318c223",
+      "time": 1500417458
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "390d18c8de77c7b1b13369dab1153e610f1d5170",
+      "time": 1500267224
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "a21c6ce921f9f6b1c7eeb528abf271aa09634b84",
+      "time": 1500265691
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "e1ad1f0d6d7ca124e555c075f2c8b4b8ce93b571",
+      "time": 1500238425
+    }
+  ],
+  "tags": [
+    "nil",
+    "null",
+    "options",
+    "operator"
+  ]
+}

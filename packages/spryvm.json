@@ -1,0 +1,13 @@
+{
+  "name": "spryvm",
+  "url": "https://github.com/gokr/spryvm",
+  "method": "git",
+  "description": "Homoiconic dynamic language interpreter in Nim",
+  "license": "MIT",
+  "web": "https://github.com/gokr/spryvm",
+  "tags": [
+    "interpreter",
+    "language",
+    "spry"
+  ]
+}

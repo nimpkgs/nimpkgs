@@ -1,0 +1,87 @@
+{
+  "name": "fungus",
+  "url": "https://github.com/beef331/fungus",
+  "method": "git",
+  "description": "Rust-like tuple enums",
+  "license": "MIT",
+  "web": "https://github.com/beef331/fungus",
+  "versions": [
+    {
+      "tag": "v0.1.13",
+      "hash": "1131beb185c58db577c329045afa77556f9ef92a",
+      "time": 1683232882
+    },
+    {
+      "tag": "v0.1.12",
+      "hash": "c5ad8253982c24ea3e7600fb03f99fb3da3b9728",
+      "time": 1683193027
+    },
+    {
+      "tag": "v0.1.11",
+      "hash": "f591cf85fec5e28dfa20fecbdded383fecface13",
+      "time": 1679786392
+    },
+    {
+      "tag": "v0.1.10",
+      "hash": "b66961ce36e8ee23aae9e5e1b2c2b27e6f8c3c81",
+      "time": 1679097582
+    },
+    {
+      "tag": "v0.1.9",
+      "hash": "7fe58f419be6ade3d329eb9fe823485e349dc654",
+      "time": 1679091318
+    },
+    {
+      "tag": "v0.1.8",
+      "hash": "3617a03ee0faf064cdc50d8334a2852d161af4c7",
+      "time": 1679090791
+    },
+    {
+      "tag": "v0.1.7",
+      "hash": "1b707c35fb534c6c0c2e0d9f48cdebd0991137d5",
+      "time": 1679090556
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "dc0a65025b88c1fcabce2111fa7d35f47f7a7a6b",
+      "time": 1679090225
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "6ba805cd6a365bf9d400491012954459a2bf5431",
+      "time": 1679087296
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "6e299659760986cf59504c9b565baf4f11d55824",
+      "time": 1679086884
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "29f58c8097f3ddaa335eac5d081ead0536990c40",
+      "time": 1679086566
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "e14ff2563bb97877d6ee7b25c591a9021ed89f99",
+      "time": 1679083600
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "12c3da6bb4023a43179524ebb86a33d1919575d1",
+      "time": 1678777704
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "662c155db57de90bc18262fa82ae94411915ce54",
+      "time": 1678777204
+    }
+  ],
+  "tags": [
+    "adt",
+    "enum",
+    "rust",
+    "match",
+    "tagged union"
+  ]
+}

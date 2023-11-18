@@ -1,0 +1,80 @@
+{
+  "name": "latexdsl",
+  "url": "https://github.com/Vindaar/LatexDSL",
+  "method": "git",
+  "description": "A DSL to generate LaTeX from Nim",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/LatexDSL",
+  "versions": [
+    {
+      "tag": "v0.1.14",
+      "hash": "54312281def1178ac6982c94fc5b1fb9ba5ac64c",
+      "time": 1696364153
+    },
+    {
+      "tag": "v0.1.13",
+      "hash": "3e51f382e2ef60cf683ec1faa80a7fa09c93cb75",
+      "time": 1695076956
+    },
+    {
+      "tag": "v0.1.12",
+      "hash": "c2e77b98a972cba67c9d226607cada6a604cc334",
+      "time": 1686645066
+    },
+    {
+      "tag": "v0.1.11",
+      "hash": "54ebd8585037e8d62b5ad511c7aac1ffcbe69471",
+      "time": 1661161505
+    },
+    {
+      "tag": "v0.1.10",
+      "hash": "61272297113e761a0c5bfc570abb3b922a3ef76d",
+      "time": 1660845800
+    },
+    {
+      "tag": "v0.1.9",
+      "hash": "3331a76a7812627f9c2512818ac548f67afbea09",
+      "time": 1660844625
+    },
+    {
+      "tag": "v0.1.7",
+      "hash": "f35748b80c5c766b5c6f7d7e53e105592b548dc4",
+      "time": 1638101429
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "60884e1df721efeabc4bb954b4fc193ff465e68f",
+      "time": 1638017047
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "a6380730e6b5dd321a39cc803a490e996774c569",
+      "time": 1627318304
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "d7dbe0e53f423bd7d885905fd435c4d7ccdb3466",
+      "time": 1627051447
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "554176e78b4fe6acf430d33037b69231a2d38e69",
+      "time": 1603101460
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "e31e89cc908baa7322a83f0e35875ddd2c56e75e",
+      "time": 1602861748
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "1f9dd2805e2ced39e21a2e9b878dd082a35f3815",
+      "time": 1602849227
+    }
+  ],
+  "tags": [
+    "library",
+    "dsl",
+    "latex"
+  ]
+}

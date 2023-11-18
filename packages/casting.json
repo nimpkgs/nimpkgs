@@ -1,0 +1,12 @@
+{
+  "name": "casting",
+  "url": "https://github.com/sls1005/nim-casting",
+  "method": "git",
+  "description": "A wrapper of the C++ cast operators",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/nim-casting",
+  "tags": [
+    "cpp",
+    "cast"
+  ]
+}

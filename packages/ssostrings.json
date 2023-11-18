@@ -1,0 +1,57 @@
+{
+  "name": "ssostrings",
+  "url": "https://github.com/planetis-m/ssostrings",
+  "method": "git",
+  "description": "Small String Optimized (SSO) string implementation",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/ssostrings",
+  "versions": [
+    {
+      "tag": "v0.7.0",
+      "hash": "a06186c60443a0c96d1eb66750a9feebdb86df79",
+      "time": 1670306693
+    },
+    {
+      "tag": "v0.6.1",
+      "hash": "db6fe19a0cda2fba3c8ee80efd115d5992388638",
+      "time": 1651940053
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "9f2f86d2db15503928fc7ed77775dab82d876398",
+      "time": 1651938340
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "25a73e3c326db8dfdd3127b89a66cb11e4bd1f1f",
+      "time": 1651588430
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "b448537d8b81cdd1d8811ef069623307fa6a44b3",
+      "time": 1651389949
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "52c8e93c50dc33446ff339c74d7404f21294f2ce",
+      "time": 1651158370
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "0d343027ce88287374f7182f5dfb007c70219e9f",
+      "time": 1651151544
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "8f4ce1157199e18ad4befda90fdbf873a423d393",
+      "time": 1651136023
+    }
+  ],
+  "tags": [
+    "small-string-optimized",
+    "string",
+    "sso",
+    "optimization",
+    "datatype"
+  ]
+}

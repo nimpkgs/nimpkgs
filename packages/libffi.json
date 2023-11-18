@@ -1,0 +1,15 @@
+{
+  "name": "libffi",
+  "url": "https://github.com/Araq/libffi",
+  "method": "git",
+  "description": "libffi wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/libffi",
+  "tags": [
+    "ffi",
+    "library",
+    "C",
+    "calling",
+    "convention"
+  ]
+}

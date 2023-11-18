@@ -1,0 +1,22 @@
+{
+  "name": "xom",
+  "url": "https://github.com/schneiderfelipe/xom",
+  "method": "git",
+  "description": "Transform XML trees into performant JavaScript DOM calls at compile-time.",
+  "license": "MIT",
+  "web": "https://github.com/schneiderfelipe/xom",
+  "versions": [
+    {
+      "tag": "v0.1-alpha",
+      "hash": "fda4902a2f48cc7283c0deb61ffc4a201c4da1fe",
+      "time": 1626536435
+    }
+  ],
+  "tags": [
+    "dom",
+    "xml",
+    "web",
+    "library",
+    "compile-time-meta-programming"
+  ]
+}

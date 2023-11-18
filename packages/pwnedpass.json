@@ -1,0 +1,54 @@
+{
+  "name": "pwnedpass",
+  "url": "https://github.com/foxoman/pwnedpass",
+  "method": "git",
+  "description": "Check if a passphrase has been pwned using the Pwned Passwords v3 API",
+  "license": "MIT",
+  "web": "https://github.com/foxoman/pwnedpass",
+  "versions": [
+    {
+      "tag": "v2.0.5",
+      "hash": "acc80b3671b44e17509bc0603eebabfdcb486578",
+      "time": 1657372282
+    },
+    {
+      "tag": "v2.0.4",
+      "hash": "87f568aaf2014320c11ceade36ef996bde99eb06",
+      "time": 1657371631
+    },
+    {
+      "tag": "v2.0.3",
+      "hash": "f6a6ac8dd6f5e58056aa1d34014378070d58ad1c",
+      "time": 1657370478
+    },
+    {
+      "tag": "v2.0.2",
+      "hash": "e2d87398309a91e36c29997d0c9017e638d9d5ab",
+      "time": 1657311266
+    },
+    {
+      "tag": "v2.0.1",
+      "hash": "3e023f83e73ce2302838a1d66cb766c4ef5d9870",
+      "time": 1657212089
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "0d73a8169d84b7d2c980b3ffd87a54249cf063b1",
+      "time": 1656175736
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "492c7d6e0bf9761fb2a81fd3b75b2e805757ab4b",
+      "time": 1519315744
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "40d0664aa728b3e71f1813bdbd06f3e03dbea72b",
+      "time": 1519313798
+    }
+  ],
+  "tags": [
+    "pwned",
+    "pwnedpasswords"
+  ]
+}

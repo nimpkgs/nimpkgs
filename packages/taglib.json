@@ -1,0 +1,15 @@
+{
+  "name": "taglib",
+  "url": "https://github.com/alex-laskin/nim-taglib",
+  "method": "git",
+  "description": "TagLib Audio Meta-Data Library wrapper",
+  "license": "MIT",
+  "web": "https://github.com/alex-laskin/nim-taglib",
+  "tags": [
+    "audio",
+    "metadata",
+    "tags",
+    "library",
+    "wrapper"
+  ]
+}

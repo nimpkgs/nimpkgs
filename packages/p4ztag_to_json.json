@@ -1,0 +1,132 @@
+{
+  "name": "p4ztag_to_json",
+  "url": "https://github.com/kaushalmodi/p4ztag_to_json",
+  "method": "git",
+  "description": "Convert Helix Version Control / Perforce (p4) -ztag output to JSON",
+  "license": "MIT",
+  "web": "https://github.com/kaushalmodi/p4ztag_to_json",
+  "versions": [
+    {
+      "tag": "v0.11.1",
+      "hash": "832c554e99f4e0ea5831435a466a7139b6195dd7",
+      "time": 1594500244
+    },
+    {
+      "tag": "v0.11.0",
+      "hash": "4f3750a4a2004880982d6a0c07499ab1100575d9",
+      "time": 1574353553
+    },
+    {
+      "tag": "v0.10.4",
+      "hash": "36f4798b93ac3c3c9ac98e7a33c4ded9560d9675",
+      "time": 1570722296
+    },
+    {
+      "tag": "v0.10.3",
+      "hash": "95db7630f26af072ec18c331127b25b92a7d7daf",
+      "time": 1567522517
+    },
+    {
+      "tag": "v0.10.2",
+      "hash": "fdbc57ad324450ed1fd2363b75f622d721e00d9f",
+      "time": 1567015190
+    },
+    {
+      "tag": "v0.10.1",
+      "hash": "bce69b3eff7b5c486d9bc28b3aa9170cd80f1ebd",
+      "time": 1565384350
+    },
+    {
+      "tag": "v0.10.0",
+      "hash": "df7d87ac59b849c088bd993269728178e018c329",
+      "time": 1565374672
+    },
+    {
+      "tag": "v0.9.3",
+      "hash": "4170ce6afa5a9783103a76b30c382ac49edd1063",
+      "time": 1563977820
+    },
+    {
+      "tag": "v0.9.2",
+      "hash": "af251bf7346043a8a064dd4f5211c329f4f0a79d",
+      "time": 1563924442
+    },
+    {
+      "tag": "v0.9.1",
+      "hash": "a37701136cfb3b3f7512577533aedd08ad04e493",
+      "time": 1563910131
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "0b5c9722b3803ff82e41ec8dabb1c88f3e78cc49",
+      "time": 1563908964
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "20b3183987b3d04a2c0357ea52cc2afa05fa2268",
+      "time": 1563907669
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "4745e2ddbf1dc154d0603901a2c5356608de8086",
+      "time": 1563898781
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "36910ece4cc0ebc213ce60dd053f5f1efad4c9a7",
+      "time": 1563895836
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "bed2aca09bd34b1961128255f5066fd67ce4640b",
+      "time": 1563886483
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "96947af9369470a1b7d13d871bab22bc12a0eecf",
+      "time": 1563817888
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "8aa72508b350b06fa17ce003df297d5f72949381",
+      "time": 1563803332
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "abfdacac43fdf52afdd532bcf9629809d195a472",
+      "time": 1563802428
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "b07f902d24fe848a55cce5bb5d28bd698b1955a1",
+      "time": 1559154604
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "1809b3b3a77268abbe7d3eb578e0e9168cfbfb0a",
+      "time": 1559132317
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "cb618ed719eeaca41f77f472728d5255107d54e8",
+      "time": 1559100842
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "742509f605acfc870c59c32b08762715de4ca8ec",
+      "time": 1559099955
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "c374a5087f5b2a1749f2dd4b3c8dfd4d3ceca5ca",
+      "time": 1559094822
+    }
+  ],
+  "tags": [
+    "perforce",
+    "p4",
+    "ztag",
+    "serialization-format",
+    "json"
+  ]
+}

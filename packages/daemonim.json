@@ -1,0 +1,12 @@
+{
+  "name": "daemonim",
+  "url": "https://github.com/bung87/daemon",
+  "method": "git",
+  "description": "daemonizer for Unix, Linux and OS X",
+  "license": "MIT",
+  "web": "https://github.com/bung87/daemon",
+  "tags": [
+    "unix",
+    "library"
+  ]
+}

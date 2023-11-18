@@ -1,0 +1,12 @@
+{
+  "name": "minhash",
+  "url": "https://github.com/bung87/minhash",
+  "method": "git",
+  "description": "Nim implementation of minhash algoritim",
+  "license": "MIT",
+  "web": "https://github.com/bung87/minhash",
+  "tags": [
+    "minhash",
+    "algoritim"
+  ]
+}

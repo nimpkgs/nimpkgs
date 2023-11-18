@@ -1,0 +1,17 @@
+{
+  "name": "nshout",
+  "url": "https://github.com/Senketsu/nshout",
+  "method": "git",
+  "description": "Nim bindings for libshout",
+  "license": "MIT",
+  "web": "https://github.com/Senketsu/nshout",
+  "tags": [
+    "library",
+    "shouter",
+    "libshout",
+    "wrapper",
+    "bindings",
+    "audio",
+    "web"
+  ]
+}

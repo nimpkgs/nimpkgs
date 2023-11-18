@@ -1,0 +1,13 @@
+{
+  "name": "qrcode",
+  "url": "https://github.com/achesak/nim-qrcode",
+  "method": "git",
+  "description": "module for creating and reading QR codes using https://goqr.me/",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-qrcode",
+  "tags": [
+    "qr",
+    "qrcode",
+    "api"
+  ]
+}

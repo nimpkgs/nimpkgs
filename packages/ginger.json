@@ -1,0 +1,271 @@
+{
+  "name": "ginger",
+  "url": "https://github.com/Vindaar/ginger",
+  "method": "git",
+  "description": "A Grid (R) like package in Nim",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/ginger",
+  "versions": [
+    {
+      "tag": "v0.5.3",
+      "hash": "569d6aa746962e3de9530505181a09c5f2851837",
+      "time": 1697641348
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "76bee329c7b46bc0de3f27cf27d7d7ba656baf59",
+      "time": 1696363299
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "0fb037a60df6e1c634dc85e2b75413664bf80ead",
+      "time": 1695125252
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "adfd9ad178f1016b13f8794cd4015d5ac6e42669",
+      "time": 1695117193
+    },
+    {
+      "tag": "v0.4.3",
+      "hash": "558941973f8234e49d1a6d3142f98e43816a022b",
+      "time": 1694528888
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "9ccf6d9667395bd9dcb8df1a040646370a64b359",
+      "time": 1694357178
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "2104f8d3eb3ca056b6d43c79b1865bc41cbffc07",
+      "time": 1672878667
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "92daf4b6374605ad1f93e2f0c52ac4fb2b317632",
+      "time": 1669714174
+    },
+    {
+      "tag": "v0.3.13",
+      "hash": "ca471eaea4393bfd65e1b04e20c0e9b4873d366f",
+      "time": 1659608374
+    },
+    {
+      "tag": "v0.3.12",
+      "hash": "2443e4cb3bbd3fe897c1427cfd3c33d06ac1f231",
+      "time": 1658485873
+    },
+    {
+      "tag": "v0.3.11",
+      "hash": "4bc59e5b6e86b359b849fa307ca332df31ac07a1",
+      "time": 1645459918
+    },
+    {
+      "tag": "v0.3.10",
+      "hash": "821d5ffa27cfe8e718de7de4edc9c2e262fd4e33",
+      "time": 1637945806
+    },
+    {
+      "tag": "v0.3.9",
+      "hash": "6f89dc9a4cf5dcb7c9a1b237af003dbbc7a8a1cb",
+      "time": 1637514523
+    },
+    {
+      "tag": "v0.3.8",
+      "hash": "bc2f5f93aa381b9f791205dfaf92d78f4c5a9016",
+      "time": 1636798062
+    },
+    {
+      "tag": "v0.3.7",
+      "hash": "d950d7286fe3771ce5b72cc0d5651832551665d5",
+      "time": 1636474682
+    },
+    {
+      "tag": "v0.3.6",
+      "hash": "1736eb94c87d28a38ee9df4e0ebf9cc52189d8c8",
+      "time": 1634145638
+    },
+    {
+      "tag": "v0.3.5",
+      "hash": "3282e9f21fa41ed0af62f3cc4a496a1dfae01986",
+      "time": 1627486329
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "c37436443dc65b69d7b1de002ed975d7f4dcff45",
+      "time": 1627483869
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "bcf2646672f14f504997308f71f647b9c8a61fc1",
+      "time": 1627375539
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "7696ef28a1b8800565c440fecb702b1211fe228b",
+      "time": 1627374553
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "16c0c6c875f32ece0f9ccfa149d021a4085607a8",
+      "time": 1627318497
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "bd8bcafc985b6875a3bbee56a7f1ad7529f2a4a5",
+      "time": 1627051161
+    },
+    {
+      "tag": "v0.2.12",
+      "hash": "68cd05808a537f95346e1148385ba6365c3024aa",
+      "time": 1626781360
+    },
+    {
+      "tag": "v0.2.11",
+      "hash": "c3b5f1bcd44980d852dc946f4630a7f4f8ef2345",
+      "time": 1625340517
+    },
+    {
+      "tag": "v0.2.10",
+      "hash": "c7a2bb69bbf3cd8e29e9b2eb69df762b1ec612f0",
+      "time": 1613611701
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "db6d5f6b15542b125c839c16755b9f667719551f",
+      "time": 1609144074
+    },
+    {
+      "tag": "v0.2.7",
+      "hash": "e36771d17e7edec6cfc9176120561038a176ca73",
+      "time": 1604076204
+    },
+    {
+      "tag": "v0.2.6",
+      "hash": "43c40d9fcd5072c14dc24bf2ff0709fda1a4773a",
+      "time": 1594334582
+    },
+    {
+      "tag": "v0.2.5",
+      "hash": "8a275a3119d8700cbe1a8133c869195dfb4e6a8c",
+      "time": 1591455053
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "6fd7be58c7e4542c8feaaa4e63bc8b4791427b72",
+      "time": 1589553711
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "c7ce718b47e473047b46721526272d1132bc6293",
+      "time": 1587831443
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "b25e47547644d273da86c62d1f36d077f90a630c",
+      "time": 1587046666
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "cd0a6412ada26b503ed80393b0558809fdc76fc5",
+      "time": 1586103901
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "ae5677012513fa48abf2c0579ffb79ab1195a28e",
+      "time": 1586088926
+    },
+    {
+      "tag": "v0.1.17",
+      "hash": "a75780a3905be12853b3ca455f0fde1f6a1ea2c3",
+      "time": 1584892737
+    },
+    {
+      "tag": "v0.1.16",
+      "hash": "9f9abad5a53690ab5848ec5f74e815f7739aefec",
+      "time": 1584820190
+    },
+    {
+      "tag": "v0.1.15",
+      "hash": "be0fd57c16cdb3117b4d155e294ab0a2bcb9b01f",
+      "time": 1584809592
+    },
+    {
+      "tag": "v0.1.14",
+      "hash": "6fc2ace6b2e0ae6130c15039fc901ae5be5b1fcc",
+      "time": 1584480231
+    },
+    {
+      "tag": "v0.1.13",
+      "hash": "7a77fabd991d6f8c890dcef0b8531766cee9ac15",
+      "time": 1584462392
+    },
+    {
+      "tag": "v0.1.12",
+      "hash": "cb5fc47fad1d794b4a1b3e89cf53485649c7eecd",
+      "time": 1584107513
+    },
+    {
+      "tag": "v0.1.11",
+      "hash": "6d1bfae9618b1e3811941c938f7fa260b29f5239",
+      "time": 1584033414
+    },
+    {
+      "tag": "v0.1.10",
+      "hash": "c08be20707a7d15f251a1700205d9101522ed389",
+      "time": 1583251931
+    },
+    {
+      "tag": "v0.1.9",
+      "hash": "ce6d1d7ec7d82bb2374c631ba1cc43065600b174",
+      "time": 1582731266
+    },
+    {
+      "tag": "v0.1.8",
+      "hash": "1a37bfbef9d1f2fb2402dd890c8e7f9463a77dcf",
+      "time": 1582120537
+    },
+    {
+      "tag": "v0.1.7",
+      "hash": "bd481c187cc752b2ba8782fe3d8f3935e51b92a7",
+      "time": 1579895394
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "0caf1fcbeb3cb5509e06c6b40587346bffd5f45e",
+      "time": 1574624138
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "5d441d1acc805ce03d6ed557654b505537e99b6d",
+      "time": 1574527489
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "be999e1c4923991dfd4171947071f9c456bb7a77",
+      "time": 1573844696
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "4991eaea87f21f88774a92bbde83fbe97ca9b621",
+      "time": 1572965579
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "c89f0c7357ac5412a306179f45659387ba8829f7",
+      "time": 1572958968
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "12f1668786ebe18f56336312fb7e0cfb5f658186",
+      "time": 1572010530
+    }
+  ],
+  "tags": [
+    "library",
+    "cairo",
+    "graphics",
+    "plotting"
+  ]
+}

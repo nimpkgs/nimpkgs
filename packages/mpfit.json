@@ -1,0 +1,35 @@
+{
+  "name": "mpfit",
+  "url": "https://github.com/Vindaar/nim-mpfit",
+  "method": "git",
+  "description": "A wrapper for the cMPFIT non-linear least squares fitting library",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/nim-mpfit",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "6706a57f7388ca1893c81314e1e6e2aec468669a",
+      "time": 1666881281
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "c09f178bc8fed7734f337c8e993a4dffe3b3ad8c",
+      "time": 1644333625
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "e5de062d304a923224d7500d6118392492f22421",
+      "time": 1572968482
+    }
+  ],
+  "tags": [
+    "library",
+    "wrapper",
+    "binding",
+    "nonlinear",
+    "least-squares",
+    "fitting",
+    "levenberg-marquardt",
+    "regression"
+  ]
+}

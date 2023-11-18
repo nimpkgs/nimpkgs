@@ -1,0 +1,17 @@
+{
+  "name": "arrayutils",
+  "url": "https://github.com/choltreppe/arrayutils",
+  "method": "git",
+  "description": "map/mapIt for arrays",
+  "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "4674d3a0c849a9b571c3f7d9e7d8a52083c87d3b",
+      "time": 1698536352
+    }
+  ],
+  "tags": [
+    "array"
+  ]
+}

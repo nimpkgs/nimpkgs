@@ -1,0 +1,52 @@
+{
+  "name": "asyncIters",
+  "url": "https://github.com/SirNickolas/asyncIters-Nim",
+  "method": "git",
+  "description": "Async iterators. Able to both await futures and yield values",
+  "license": "MIT",
+  "doc": "https://sirnickolas.github.io/asyncIters-Nim/asyncIters",
+  "versions": [
+    {
+      "tag": "v1.2.4",
+      "hash": "7f87f9d21b52258148d2d7720515efa92d1d479a",
+      "time": 1691811994
+    },
+    {
+      "tag": "v1.2.3",
+      "hash": "2d6a20c90558351b3ab56b2ef16c95aec69373f2",
+      "time": 1688896596
+    },
+    {
+      "tag": "v1.2.2",
+      "hash": "09d928c92e016c28152cceef344e3e4d26eb9068",
+      "time": 1680007030
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "509c480fcae52d1f523e16397ebb9eea8b94d493",
+      "time": 1678554204
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "b8d73864daf9c6fa78828155591bf6cb1b15585a",
+      "time": 1678496456
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "7c273f4753149d82747de85a2f5f2460022f591d",
+      "time": 1678316573
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "2ce661f9492ceeab31412fffff7e74b9e860b3cc",
+      "time": 1678292447
+    }
+  ],
+  "tags": [
+    "async",
+    "iterator",
+    "macros",
+    "sugar",
+    "syntax"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jq",
+  "url": "https://github.com/alialrahahleh/fjq",
+  "method": "git",
+  "description": "Fast JSON parser",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/alialrahahleh/fjq",
+  "tags": [
+    "json",
+    "bin",
+    "parser"
+  ]
+}

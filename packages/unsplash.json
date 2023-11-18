@@ -1,0 +1,16 @@
+{
+  "name": "unsplash",
+  "url": "https://github.com/juancarlospaco/nim-unsplash",
+  "method": "git",
+  "description": "Unsplash API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-unsplash",
+  "tags": [
+    "unsplash",
+    "photos",
+    "images",
+    "async",
+    "multisync",
+    "photography"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "miter",
+  "url": "https://github.com/rafmst/miter",
+  "method": "git",
+  "description": "Ratio calculator on your terminal",
+  "license": "MIT",
+  "web": "https://github.com/rafmst/miter",
+  "tags": [
+    "binary",
+    "tool",
+    "cli"
+  ]
+}

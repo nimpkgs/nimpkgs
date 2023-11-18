@@ -1,0 +1,12 @@
+{
+  "name": "rodster",
+  "url": "https://github.com/j-a-s-d/rodster",
+  "method": "git",
+  "description": "rodster",
+  "license": "MIT",
+  "web": "https://github.com/j-a-s-d/rodster",
+  "tags": [
+    "application",
+    "framework"
+  ]
+}

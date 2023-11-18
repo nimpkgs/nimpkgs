@@ -1,0 +1,25 @@
+{
+  "name": "tinypool",
+  "url": "https://github.com/PhilippMDoerner/TinyPool",
+  "method": "git",
+  "description": "A minimalistic connection pooling package",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/TinyPool",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "fe0d7178215e75750aba279e24303a9a19b19ae9",
+      "time": 1655835540
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "6e3e63d993f93f2d106b6019fcc9c82fc5321ddb",
+      "time": 1655830830
+    }
+  ],
+  "tags": [
+    "database",
+    "sqlite3",
+    "connection-pool"
+  ]
+}

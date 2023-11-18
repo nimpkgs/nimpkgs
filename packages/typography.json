@@ -1,0 +1,30 @@
+{
+  "name": "typography",
+  "url": "https://github.com/treeform/typography",
+  "method": "git",
+  "description": "Fonts, Typesetting and Rasterization.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/typography",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "078ec7beb0f4b71bc1b72f7c064eea3797382a76",
+      "time": 1588187991
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "c8986f9313dd443c7d4f9351fc154c569e55e441",
+      "time": 1579478631
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "0a225eddd04350b6ba1f02352356fd74f129a10d",
+      "time": 1579106311
+    }
+  ],
+  "tags": [
+    "font",
+    "text",
+    "2d"
+  ]
+}

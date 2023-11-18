@@ -1,0 +1,21 @@
+{
+  "name": "objaccess",
+  "url": "https://github.com/choltreppe/objaccess",
+  "method": "git",
+  "description": "generate setters and getters for object types",
+  "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "de33cafaa02407d9e75259182af398c98cede63c",
+      "time": 1700479001
+    }
+  ],
+  "tags": [
+    "getter",
+    "setter",
+    "setable",
+    "getable",
+    "object"
+  ]
+}

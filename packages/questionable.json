@@ -1,0 +1,13 @@
+{
+  "name": "questionable",
+  "url": "https://github.com/markspanbroek/questionable",
+  "method": "git",
+  "description": "Elegant optional types",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/questionable",
+  "tags": [
+    "option",
+    "result",
+    "error"
+  ]
+}

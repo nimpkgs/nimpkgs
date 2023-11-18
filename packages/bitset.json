@@ -1,0 +1,14 @@
+{
+  "name": "bitset",
+  "url": "https://github.com/joryschossau/bitset",
+  "method": "git",
+  "description": "A pure nim version of C++'s std::bitset",
+  "license": "MIT",
+  "web": "https://github.com/joryschossau/bitset",
+  "tags": [
+    "c++",
+    "library",
+    "stdlib",
+    "type"
+  ]
+}

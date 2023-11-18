@@ -1,0 +1,37 @@
+{
+  "name": "midnight_dynamite",
+  "url": "https://github.com/Araq/midnight_dynamite",
+  "method": "git",
+  "description": "Wrapper for the markdown rendering hoedown library",
+  "license": "MIT",
+  "web": "https://github.com/Araq/midnight_dynamite",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "faee9b1883519c5f337d681850b2083079b600d5",
+      "time": 1418690258
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "87fa605d160ad5e31e0ad84eabb32039230ec836",
+      "time": 1405026201
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "8651964bad954e0d42fb2147f1aa8939d740c5bd",
+      "time": 1402917903
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "95540a47480fb463cce95ad40ab5629b382bd10d",
+      "time": 1402702182
+    }
+  ],
+  "tags": [
+    "wrapper",
+    "library",
+    "html",
+    "markdown",
+    "md"
+  ]
+}

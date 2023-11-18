@@ -1,0 +1,17 @@
+{
+  "name": "xdo",
+  "url": "https://github.com/juancarlospaco/nim-xdo",
+  "method": "git",
+  "description": "Nim GUI Automation Linux, simulate user interaction, mouse and keyboard.",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-xdo",
+  "tags": [
+    "automation",
+    "linux",
+    "gui",
+    "keyboard",
+    "mouse",
+    "typing",
+    "clicker"
+  ]
+}

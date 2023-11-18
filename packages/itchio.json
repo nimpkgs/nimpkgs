@@ -1,0 +1,15 @@
+{
+  "name": "itchio",
+  "url": "https://github.com/juancarlospaco/nim-itchio",
+  "method": "git",
+  "description": "itch.io API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-itchio",
+  "tags": [
+    "itchio",
+    "game",
+    "gaming",
+    "async",
+    "multisync"
+  ]
+}

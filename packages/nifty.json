@@ -1,0 +1,54 @@
+{
+  "name": "nifty",
+  "url": "https://github.com/h3rald/nifty",
+  "method": "git",
+  "description": "A decentralized (pseudo) package manager and script runner.",
+  "license": "MIT",
+  "web": "https://github.com/h3rald/nifty",
+  "versions": [
+    {
+      "tag": "v1.2.3",
+      "hash": "8a3533ce61bde19766767219dfc8cd564118ac44",
+      "time": 1690989470
+    },
+    {
+      "tag": "v1.2.2",
+      "hash": "4d0d0181f89d922961769489893d44b6fb593b04",
+      "time": 1603640331
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "fb3f1b6aec53a432d8c0182b761099979d0cf133",
+      "time": 1600507764
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "603c2078d088114c7f43529916695f5461372a07",
+      "time": 1599905562
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "05858d3b3fe9e6a1be5c03fa13ca5d7adb98656c",
+      "time": 1540132511
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "db501108b473e4b4d9e95a6efde7325cfcdf2038",
+      "time": 1540127656
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "000ea8b48f6f9ac686e2cd031a8cb59ece641b63",
+      "time": 1525008845
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "de27ccc6b079e7fa0ffe1a57f51098ee646f8980",
+      "time": 1479589835
+    }
+  ],
+  "tags": [
+    "package-manager",
+    "script-runner"
+  ]
+}

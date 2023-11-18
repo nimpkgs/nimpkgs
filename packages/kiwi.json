@@ -1,0 +1,13 @@
+{
+  "name": "kiwi",
+  "url": "https://github.com/yglukhov/kiwi",
+  "method": "git",
+  "description": "Cassowary constraint solving",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/kiwi",
+  "tags": [
+    "cassowary",
+    "constraint",
+    "solving"
+  ]
+}

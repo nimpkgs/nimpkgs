@@ -1,0 +1,45 @@
+{
+  "name": "nimoji",
+  "url": "https://github.com/pietroppeter/nimoji",
+  "method": "git",
+  "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/nimoji",
+  "versions": [
+    {
+      "tag": "v0.1.5",
+      "hash": "f15e35e3fdddf6bf47bc07b8720b77d4519832bc",
+      "time": 1676305470
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "34af2a1171ff0746c730fd0a4534bcfaca31b5d2",
+      "time": 1587810946
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "9a8bbbc38a4f7d31ffc9c28c35d7d3c3d8a57a71",
+      "time": 1587810379
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "dea4a9a2d420d838baaa0761c20c28c1f45ca481",
+      "time": 1587716702
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "3dc20002ab645ac30586a902974aa60ea8dddc18",
+      "time": 1587410862
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "8908567c49b8a059423cb71a7d23af1f17d03de6",
+      "time": 1585522999
+    }
+  ],
+  "tags": [
+    "emoji",
+    "library",
+    "binary"
+  ]
+}

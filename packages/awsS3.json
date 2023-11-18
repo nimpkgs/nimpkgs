@@ -1,0 +1,50 @@
+{
+  "name": "awsS3",
+  "url": "https://github.com/ThomasTJdev/nim_awsS3",
+  "method": "git",
+  "description": "Amazon Simple Storage Service (AWS S3) basic API support.",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_awsS3",
+  "versions": [
+    {
+      "tag": "v3.0.1",
+      "hash": "12549eb823ff5c27f1b1e01d186624cdd1bbf23d",
+      "time": 1695822666
+    },
+    {
+      "tag": "v2.0.1",
+      "hash": "c89b1952f0919a5da8854f8a5f84d46247675d80",
+      "time": 1668339621
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "cab982a27b52182afddf765e9e24170d9d58d043",
+      "time": 1652428692
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "f72ae740ab0be4b481d4d0e171fbf6301bb6d85c",
+      "time": 1638288831
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "aebaf51287740f10d30c8a27458333155d21c91a",
+      "time": 1624717812
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "c55ea9575ba01c5ecab166691d10f88dadcfce95",
+      "time": 1624706924
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "69fded9caf9adf0cc0fb0ac636c97265191a1235",
+      "time": 1624693891
+    }
+  ],
+  "tags": [
+    "aws",
+    "amazon",
+    "s3"
+  ]
+}

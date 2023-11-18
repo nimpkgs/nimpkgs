@@ -1,0 +1,13 @@
+{
+  "name": "pastebin",
+  "url": "https://github.com/achesak/nim-pastebin",
+  "method": "git",
+  "description": "Pastebin API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pastebin",
+  "tags": [
+    "library",
+    "wrapper",
+    "pastebin"
+  ]
+}

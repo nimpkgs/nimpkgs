@@ -1,0 +1,25 @@
+{
+  "name": "bigints",
+  "url": "https://github.com/nim-lang/bigints",
+  "method": "git",
+  "description": "Arbitrary-precision integers",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/bigints",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "e45b513b7ade83c34f633266b9916c417c339bdc",
+      "time": 1684342188
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "d843ecfe1e2a62c3b0e29d211df09763da408cac",
+      "time": 1652764485
+    }
+  ],
+  "tags": [
+    "math",
+    "library",
+    "numbers"
+  ]
+}

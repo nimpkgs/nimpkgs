@@ -1,0 +1,11 @@
+{
+  "name": "rtree",
+  "url": "https://github.com/stefansalewski/RTree",
+  "method": "git",
+  "description": "R-Tree",
+  "license": "MIT",
+  "web": "https://github.com/stefansalewski/RTree",
+  "tags": [
+    "library"
+  ]
+}

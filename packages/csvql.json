@@ -1,0 +1,16 @@
+{
+  "name": "csvql",
+  "url": "https://github.com/Bennyelg/csvql",
+  "method": "git",
+  "description": "csvql.",
+  "license": "MIT",
+  "web": "https://github.com/Bennyelg/csvql",
+  "tags": [
+    "csv",
+    "read",
+    "ansisql",
+    "query",
+    "database",
+    "files"
+  ]
+}

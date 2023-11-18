@@ -1,0 +1,21 @@
+{
+  "name": "nim_miniz",
+  "url": "https://github.com/h3rald/nim-miniz",
+  "method": "git",
+  "description": "Nim wrapper for miniz",
+  "license": "MIT",
+  "web": "https://github.com/h3rald/nim-miniz",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "4ef614363a7303aa2887b3c73f8bdeb7cadaf18e",
+      "time": 1545415122
+    }
+  ],
+  "tags": [
+    "zip",
+    "compression",
+    "wrapper",
+    "miniz"
+  ]
+}

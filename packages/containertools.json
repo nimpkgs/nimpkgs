@@ -1,0 +1,24 @@
+{
+  "name": "containertools",
+  "url": "https://github.com/ilmanzo/containertools",
+  "method": "git",
+  "description": "a library and a DSL to handle container spec files",
+  "license": "GPL-3.0",
+  "web": "https://github.com/ilmanzo/containertools",
+  "versions": [
+    {
+      "tag": "v0.2.2",
+      "hash": "f2d8db3d1817780ac162d2e6fedf0bbf2bbb51b7",
+      "time": 1675417632
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "a4b5750cfb674ddc331fec2c92c2e01827884c13",
+      "time": 1675336771
+    }
+  ],
+  "tags": [
+    "dsl",
+    "container"
+  ]
+}

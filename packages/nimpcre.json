@@ -1,0 +1,49 @@
+{
+  "name": "nimpcre",
+  "url": "https://github.com/genotrance/nimpcre",
+  "method": "git",
+  "description": "PCRE wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimpcre",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "b816b26ba8a45086dfec806a9289679e184115e1",
+      "time": 1580677409
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "aba4f50b4f0f217283a6e6982f890847e628073d",
+      "time": 1576606285
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "9037c79b58fed0a1dbfcda04ab3e0d2cf46fc08e",
+      "time": 1556285543
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "f35bb0e8d52c92833d18dd62ad85047e55acfdb2",
+      "time": 1541105552
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "3727de4cda90d88ddec7d64bc4966e6cff672123",
+      "time": 1530993504
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "145139a441a525ee4988e8040477c9f324568b46",
+      "time": 1529944722
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7859957debf3e243351871a903996c10b9aed372",
+      "time": 1528699172
+    }
+  ],
+  "tags": [
+    "pcre",
+    "regex"
+  ]
+}

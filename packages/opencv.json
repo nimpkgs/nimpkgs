@@ -1,0 +1,15 @@
+{
+  "name": "opencv",
+  "url": "https://github.com/dom96/nim-opencv",
+  "method": "git",
+  "description": "OpenCV wrapper",
+  "license": "MIT",
+  "web": "https://github.com/dom96/nim-opencv",
+  "tags": [
+    "library",
+    "wrapper",
+    "opencv",
+    "image",
+    "processing"
+  ]
+}

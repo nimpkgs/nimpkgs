@@ -1,0 +1,19 @@
+{
+  "name": "pg",
+  "url": "https://github.com/treeform/pg",
+  "method": "git",
+  "description": "Very simple PostgreSQL async api for nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/pg",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "5739d1a3f74a6e620cde4212f7faaae153803edc",
+      "time": 1551297532
+    }
+  ],
+  "tags": [
+    "postgresql",
+    "db"
+  ]
+}

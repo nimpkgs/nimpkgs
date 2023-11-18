@@ -1,0 +1,14 @@
+{
+  "name": "mcmurry",
+  "url": "https://github.com/chocobo333/mcmurry",
+  "method": "git",
+  "description": "A module for generating lexer/parser.",
+  "license": "MIT",
+  "web": "https://github.com/chocobo333/mcmurry",
+  "tags": [
+    "parser",
+    "parsergenerator",
+    "library",
+    "lexer"
+  ]
+}

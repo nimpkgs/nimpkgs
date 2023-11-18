@@ -1,0 +1,40 @@
+{
+  "name": "sss",
+  "url": "https://github.com/markspanbroek/sss.nim",
+  "method": "git",
+  "description": "Shamir secret sharing",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/sss.nim",
+  "versions": [
+    {
+      "tag": "v0.2.2",
+      "hash": "1ce23f37b3f5d31d73c510d766639a032a8fc7ab",
+      "time": 1598813861
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "720336b915d57efc4380bf15324cbe211d6b5db0",
+      "time": 1587732760
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "0f06954599ccc6eea3132ba08870b22e20bb6c44",
+      "time": 1584457999
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "908b4488282e2c3f288bf7c939029ef48f1d680e",
+      "time": 1584434996
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "ea57fc43bae6f951792a6eedb49f36fd09e397af",
+      "time": 1584350565
+    }
+  ],
+  "tags": [
+    "shamir",
+    "secret",
+    "sharing"
+  ]
+}

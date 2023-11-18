@@ -1,0 +1,13 @@
+{
+  "name": "sumtypes",
+  "url": "https://github.com/beef331/sumtypes",
+  "method": "git",
+  "description": "Simple variant generator empowering easy heterogeneous type operations",
+  "license": "MIT",
+  "web": "https://github.com/beef331/sumtypes",
+  "tags": [
+    "variant",
+    "sumtype",
+    "type"
+  ]
+}

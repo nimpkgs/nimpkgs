@@ -1,0 +1,27 @@
+{
+  "name": "bearssl",
+  "url": "https://github.com/status-im/nim-bearssl",
+  "method": "git",
+  "description": "Bindings to BearSSL library",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-bearssl",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "e4157639db180e52727712a47deaefcbbac6ec86",
+      "time": 1692183123
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "5159f7e385547c5236d8d5781495225d9f1d9368",
+      "time": 1669025253
+    }
+  ],
+  "tags": [
+    "crypto",
+    "hashes",
+    "ciphers",
+    "ssl",
+    "tls"
+  ]
+}

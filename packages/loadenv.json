@@ -1,0 +1,13 @@
+{
+  "name": "loadenv",
+  "url": "https://github.com/xmonader/nim-loadenv",
+  "method": "git",
+  "description": "load .env variables",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nim-loadenv",
+  "tags": [
+    "environment",
+    "variables",
+    "env"
+  ]
+}

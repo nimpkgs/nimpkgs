@@ -1,0 +1,12 @@
+{
+  "name": "arksys",
+  "url": "https://github.com/wolfadex/arksys",
+  "method": "git",
+  "description": "An entity component system package",
+  "license": "MIT",
+  "web": "https://github.com/wolfadex/arksys",
+  "tags": [
+    "ECS",
+    "library"
+  ]
+}

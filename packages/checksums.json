@@ -1,0 +1,14 @@
+{
+  "name": "checksums",
+  "url": "https://github.com/nim-lang/checksums",
+  "method": "git",
+  "description": "Hash algorithms in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/checksums",
+  "tags": [
+    "checksums",
+    "official",
+    "hash",
+    "crypto"
+  ]
+}

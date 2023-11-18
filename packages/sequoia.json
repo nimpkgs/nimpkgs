@@ -1,0 +1,14 @@
+{
+  "name": "sequoia",
+  "url": "https://github.com/ba0f3/sequoia.nim",
+  "method": "git",
+  "description": "Sequoia PGP wrapper for Nim",
+  "license": "GPLv3",
+  "web": "https://github.com/ba0f3/sequoia.nim",
+  "tags": [
+    "sequoia",
+    "pgp",
+    "openpgp",
+    "wrapper"
+  ]
+}

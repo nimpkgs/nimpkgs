@@ -1,0 +1,105 @@
+{
+  "name": "unicodeplus",
+  "url": "https://github.com/nitely/nim-unicodeplus",
+  "method": "git",
+  "description": "Common unicode operations",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-unicodeplus",
+  "versions": [
+    {
+      "tag": "v0.13.0",
+      "hash": "dc0c62d5642f63408f18405b86ee0c4a883dff9f",
+      "time": 1698270250
+    },
+    {
+      "tag": "v0.12.0",
+      "hash": "672f8ac69035f04f323a644ddc46eb70b4ec22fb",
+      "time": 1697732808
+    },
+    {
+      "tag": "v0.11.1",
+      "hash": "ec9b4d684f0c6d00b5feefa6766344df4a59346b",
+      "time": 1697666259
+    },
+    {
+      "tag": "v0.11.0",
+      "hash": "8e29ae4d8df1cc83f90ff8926f2b1bde24924001",
+      "time": 1697562053
+    },
+    {
+      "tag": "v0.10.0",
+      "hash": "461df6b60222fa18f334cbf64b69b26256255084",
+      "time": 1697500102
+    },
+    {
+      "tag": "v0.9.1",
+      "hash": "f5d50197b266173dd4ca4c6fdd30361398433bb4",
+      "time": 1697409796
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "ee0e11c286ff4d8a4ac5a56e7a272c43b187957f",
+      "time": 1697409089
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "0788d4b917d057e2b3bc96478fb087a5ad2d8c7b",
+      "time": 1590870378
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "fcbbd7de2296b3b6ab126fc8fc65f0f6fdbcd97c",
+      "time": 1581818965
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "9ebe96bf2aeaad590f4e09d287f76fe74e7efb88",
+      "time": 1567875065
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "59d7d199b5c7086a917f9783ca38759f59809a25",
+      "time": 1558130669
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "c9b89a465feee4096f8adde93c94a0616ee71c6a",
+      "time": 1538965963
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "8df4f6864490ddba201087289132fd3dee4ee918",
+      "time": 1529535447
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "9b13101cccd75a0bb6dfa57e2eccc12725402b90",
+      "time": 1528546299
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "ce2ae5ac8b1dd8f716cc8e1517814b15603e67a5",
+      "time": 1528466326
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "1e6980de5d1c82b3989a471a8a838e57a4dbb3c2",
+      "time": 1528363781
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "c9cef21838d739ad81d2c6e137871577a92d8a66",
+      "time": 1524272586
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "3cddaaa0a5193b15cf6d74f25df2a28cb0921ef2",
+      "time": 1515772369
+    }
+  ],
+  "tags": [
+    "unicode",
+    "isdigit",
+    "isalpha"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "exprgrad",
+  "url": "https://github.com/can-lehmann/exprgrad",
+  "method": "git",
+  "description": "An experimental deep learning framework",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/can-lehmann/exprgrad",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "49b03edc32f9909cb49d946d27b2b581dc2063ae",
+      "time": 1666432317
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "fd6dbdaf530d6ac4aaf76a4cb87ef631227621d8",
+      "time": 1649858154
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "2de9fcb3744810e2a777fe3e2a98d1581ecce7d1",
+      "time": 1638803775
+    }
+  ],
+  "tags": [
+    "machine-learning",
+    "nn",
+    "neural",
+    "tensor",
+    "array",
+    "matrix",
+    "ndarray",
+    "dsl",
+    "automatic-differentiation"
+  ]
+}

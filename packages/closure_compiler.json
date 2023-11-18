@@ -1,0 +1,56 @@
+{
+  "name": "closure_compiler",
+  "url": "https://github.com/yglukhov/closure_compiler.git",
+  "method": "git",
+  "description": "Bindings for Closure Compiler web API.",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/closure_compiler",
+  "versions": [
+    {
+      "tag": "v0.3.6",
+      "hash": "27cf49a17da22ab0082562da45456047079fa8dd",
+      "time": 1671381159
+    },
+    {
+      "tag": "v0.3.5",
+      "hash": "64d730ff207ec85a1bc7549d14e968cebe085ffe",
+      "time": 1611048668
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "48555b33c58de15fea156f9d96a0b24ed6d59b98",
+      "time": 1536781960
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "5f3a5a79e0138df083499e3d1324d9905866abc7",
+      "time": 1536225385
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "93f5b72114e162394693c83c4976d33167840cdc",
+      "time": 1513540968
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "2ce117b23268ba95ec32f057a6dfa57cf9371184",
+      "time": 1502320557
+    },
+    {
+      "tag": "v0.3",
+      "hash": "4f0cc52e5d10e2f71279b7b69148b8e3064f1448",
+      "time": 1502270633
+    },
+    {
+      "tag": "v0.2",
+      "hash": "9f3e426185f601021d5d3cda51a2e9082e990d6d",
+      "time": 1471250883
+    }
+  ],
+  "tags": [
+    "binding",
+    "closure",
+    "compiler",
+    "javascript"
+  ]
+}

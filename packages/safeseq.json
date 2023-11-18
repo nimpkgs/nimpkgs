@@ -1,0 +1,20 @@
+{
+  "name": "safeseq",
+  "url": "https://github.com/avahe-kellenberger/safeseq",
+  "method": "git",
+  "description": "Seq that can safely add and remove elements while iterating.",
+  "license": "GPL-2.0-only",
+  "web": "https://github.com/avahe-kellenberger/safeseq",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "ee71e961a66db64387e1437ca550d0c8218b099c",
+      "time": 1693417245
+    }
+  ],
+  "tags": [
+    "seq",
+    "iteration",
+    "remove"
+  ]
+}

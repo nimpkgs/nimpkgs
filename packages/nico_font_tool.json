@@ -1,0 +1,12 @@
+{
+  "name": "nico_font_tool",
+  "url": "https://github.com/TakWolf/nico-font-tool",
+  "method": "git",
+  "description": "A tool for converting fonts to NICO Game Framework format fonts.",
+  "license": "MIT",
+  "web": "https://github.com/TakWolf/nico-font-tool",
+  "tags": [
+    "pico-8",
+    "game"
+  ]
+}

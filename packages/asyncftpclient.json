@@ -1,0 +1,13 @@
+{
+  "name": "asyncftpclient",
+  "url": "https://github.com/nim-lang/asyncftpclient",
+  "method": "git",
+  "description": "FTP client implementation (originally in the stdlib).",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/asyncftpclient",
+  "tags": [
+    "stdlib",
+    "ftpclient",
+    "official"
+  ]
+}

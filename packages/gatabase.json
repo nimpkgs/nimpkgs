@@ -1,0 +1,14 @@
+{
+  "name": "gatabase",
+  "url": "https://github.com/juancarlospaco/nim-gatabase",
+  "method": "git",
+  "description": "Postgres Database ORM for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-gatabase",
+  "tags": [
+    "database",
+    "orm",
+    "postgres",
+    "sql"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "iterutils",
+  "url": "https://github.com/def-/iterutils",
+  "method": "git",
+  "description": "Functional operations for iterators and slices, similar to sequtils",
+  "license": "MIT",
+  "web": "https://github.com/def-/iterutils",
+  "tags": [
+    "library",
+    "iterators"
+  ]
+}

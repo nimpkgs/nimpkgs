@@ -1,0 +1,19 @@
+{
+  "name": "mddoc",
+  "url": "https://github.com/treeform/mddoc",
+  "method": "git",
+  "description": "Generated Nim's API docs in markdown for github's README.md files. Great for small libraries with simple APIs.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/mddoc",
+  "versions": [
+    {
+      "tag": "v0.0.4",
+      "hash": "81488710f60958dde18c4963975cdc8e8e3a8820",
+      "time": 1583465470
+    }
+  ],
+  "tags": [
+    "documentation",
+    "markdown"
+  ]
+}

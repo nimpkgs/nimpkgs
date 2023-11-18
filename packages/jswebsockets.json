@@ -1,0 +1,14 @@
+{
+  "name": "jswebsockets",
+  "url": "https://github.com/stisa/jswebsockets",
+  "method": "git",
+  "description": "Websockets wrapper for nim js backend.",
+  "license": "MIT",
+  "web": "https://stisa.space/jswebsockets/",
+  "tags": [
+    "js",
+    "javascripts",
+    "ws",
+    "websockets"
+  ]
+}

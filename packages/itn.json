@@ -1,0 +1,14 @@
+{
+  "name": "itn",
+  "url": "https://github.com/achesak/nim-itn",
+  "method": "git",
+  "description": "Nim module for parsing ITN (TomTom intinerary) files",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-itn",
+  "tags": [
+    "GPS",
+    "intinerary",
+    "tomtom",
+    "ITN"
+  ]
+}

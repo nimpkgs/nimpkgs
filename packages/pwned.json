@@ -1,0 +1,26 @@
+{
+  "name": "pwned",
+  "url": "https://github.com/dom96/pwned",
+  "method": "git",
+  "description": "A client for the Pwned passwords API.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/pwned",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "492c7d6e0bf9761fb2a81fd3b75b2e805757ab4b",
+      "time": 1519315744
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "40d0664aa728b3e71f1813bdbd06f3e03dbea72b",
+      "time": 1519313798
+    }
+  ],
+  "tags": [
+    "application",
+    "passwords",
+    "security",
+    "binary"
+  ]
+}

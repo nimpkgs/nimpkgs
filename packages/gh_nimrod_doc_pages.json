@@ -1,0 +1,31 @@
+{
+  "name": "gh_nimrod_doc_pages",
+  "url": "https://github.com/Araq/gh_nimrod_doc_pages",
+  "method": "git",
+  "description": "Generates a GitHub documentation website for Nim projects.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/gh_nimrod_doc_pages",
+  "versions": [
+    {
+      "tag": "v0.2.4",
+      "hash": "3e66590e0e17e4cd85bad3ba00d8e1d0c63c0f20",
+      "time": 1421523372
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "242840be18ec13531f107d4278eeb98f4fdf4010",
+      "time": 1403047103
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "41abf86836c93629f97f0ba8fdfccdb3ef3f4796",
+      "time": 1401647311
+    }
+  ],
+  "tags": [
+    "command-line",
+    "web",
+    "automation",
+    "documentation"
+  ]
+}

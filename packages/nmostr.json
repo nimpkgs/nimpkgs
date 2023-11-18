@@ -1,0 +1,14 @@
+{
+  "name": "nmostr",
+  "url": "https://github.com/Gruruya/nmostr",
+  "method": "git",
+  "description": "Library for Nostr: a simple, open protocol enabling censorship-resistant social media.",
+  "license": "AGPL-3.0-only",
+  "web": "https://github.com/Gruruya/nmostr",
+  "doc": "https://gruruya.github.io/nmostr",
+  "tags": [
+    "nostr library",
+    "decentralized messaging protocol",
+    "censorship-resistant social media"
+  ]
+}

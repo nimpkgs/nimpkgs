@@ -1,0 +1,42 @@
+{
+  "name": "genieos",
+  "url": "https://github.com/Araq/genieos/",
+  "method": "git",
+  "description": "Too awesome procs to be included in nimrod.os module",
+  "license": "MIT",
+  "web": "https://github.com/Araq/genieos/",
+  "versions": [
+    {
+      "tag": "v9.4.2-hyoyeon",
+      "hash": "9801bcf42d1a0266f0395b7b38a429ad937e32ab",
+      "time": 1422053632
+    },
+    {
+      "tag": "v9.4.0-tiffany",
+      "hash": "226905a20104a1be0a8dbb0e1e2a3c46c66a0238",
+      "time": 1399325708
+    },
+    {
+      "tag": "v9.2.0-sunny",
+      "hash": "1657e33af98542381cb7d8c8d12762a7edebe3ec",
+      "time": 1385749312
+    },
+    {
+      "tag": "v9.0.1-jessica",
+      "hash": "6d9acc47d522c1cc94c704ccae4f46817c5fa5dd",
+      "time": 1365964447
+    },
+    {
+      "tag": "v9.0.0-taeyeon",
+      "hash": "2bf2ea4342e9591e82fbccd8ef1e6cdcbe03d67b",
+      "time": 1365539129
+    }
+  ],
+  "tags": [
+    "library",
+    "command-line",
+    "sound",
+    "recycle",
+    "os"
+  ]
+}

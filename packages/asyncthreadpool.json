@@ -1,0 +1,13 @@
+{
+  "name": "asyncthreadpool",
+  "url": "https://github.com/yglukhov/asyncthreadpool",
+  "method": "git",
+  "description": "Awaitable threadpool",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/asyncthreadpool",
+  "tags": [
+    "async",
+    "threadpool",
+    "multithreading"
+  ]
+}

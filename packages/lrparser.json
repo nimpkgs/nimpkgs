@@ -1,0 +1,16 @@
+{
+  "name": "lrparser",
+  "url": "https://github.com/vanyle/lrparser/",
+  "method": "git",
+  "description": "A SLR parser written in Nim with compile-time and run-time grammar generation.",
+  "license": "MIT",
+  "web": "https://github.com/vanyle/lrparser/",
+  "doc": "https://vanyle.github.io/lrparser/lrparser.html",
+  "tags": [
+    "parser",
+    "slr",
+    "grammar",
+    "lexer",
+    "tokenizer"
+  ]
+}

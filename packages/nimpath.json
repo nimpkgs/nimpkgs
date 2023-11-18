@@ -1,0 +1,24 @@
+{
+  "name": "nimpath",
+  "url": "https://github.com/weskerfoot/NimPath",
+  "method": "git",
+  "description": "Interface to libxml2's XPath parser",
+  "license": "MIT",
+  "web": "https://github.com/weskerfoot/NimPath",
+  "versions": [
+    {
+      "tag": "v0.1.10",
+      "hash": "5bde4110d3358dab983f1e563cd076e27b81aa79",
+      "time": 1689054817
+    },
+    {
+      "tag": "v0.1.9",
+      "hash": "1312488e2f4d708bbb6ca2d3078fb76191ab7bfd",
+      "time": 1688574964
+    }
+  ],
+  "tags": [
+    "web",
+    "parser"
+  ]
+}

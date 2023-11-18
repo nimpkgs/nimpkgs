@@ -1,0 +1,28 @@
+{
+  "name": "mongopool",
+  "url": "https://github.com/JohnAD/mongopool",
+  "method": "git",
+  "description": "MongoDb pooled driver",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/mongopool",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "5c2d5e39f19491411102406ba5fdf04e458de71a",
+      "time": 1578171677
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "f98411b74736f463fe29091053b4d37dd168b3aa",
+      "time": 1573326913
+    }
+  ],
+  "tags": [
+    "mongodb",
+    "mongo",
+    "database",
+    "driver",
+    "client",
+    "nosql"
+  ]
+}

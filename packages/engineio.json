@@ -1,0 +1,22 @@
+{
+  "name": "engineio",
+  "url": "https://github.com/samc0de/engineio",
+  "method": "git",
+  "description": "An Engine.IO client library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/samc0de/engineio",
+  "versions": [
+    {
+      "tag": "v0.1",
+      "hash": "e942a65234a5af1027b3b4c6f26688bb32f767fb",
+      "time": 1672396242
+    }
+  ],
+  "tags": [
+    "socketio",
+    "engineio",
+    "library",
+    "websocket",
+    "client"
+  ]
+}

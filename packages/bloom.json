@@ -1,0 +1,24 @@
+{
+  "name": "bloom",
+  "url": "https://github.com/boydgreenfield/nimrod-bloom",
+  "method": "git",
+  "description": "Efficient Bloom filter implementation in Nim using MurmurHash3.",
+  "license": "MIT",
+  "web": "https://www.github.com/boydgreenfield/nimrod-bloom",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "a90c92d5be261ef196fd138be8ef9ebb621ad2a0",
+      "time": 1386569144
+    }
+  ],
+  "tags": [
+    "bloom-filter",
+    "bloom",
+    "probabilistic",
+    "data structure",
+    "set membership",
+    "MurmurHash",
+    "MurmurHash3"
+  ]
+}

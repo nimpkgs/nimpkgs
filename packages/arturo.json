@@ -1,0 +1,151 @@
+{
+  "name": "arturo",
+  "url": "https://github.com/arturo-lang/arturo",
+  "method": "git",
+  "description": "Simple, modern and portable interpreted programming language for efficient scripting",
+  "license": "MIT",
+  "web": "https://arturo-lang.io/",
+  "doc": "https://arturo-lang.io/",
+  "versions": [
+    {
+      "tag": "v0.9.83",
+      "hash": "daa327c4d524d977bf549a24be0933fed496aa6b",
+      "time": 1676044541
+    },
+    {
+      "tag": "v0.9.82",
+      "hash": "fa4b7c3c06ab22fb2d984db03a16ecba8640a4b1",
+      "time": 1675937737
+    },
+    {
+      "tag": "v0.9.82-pre2",
+      "hash": "e84fd0545bd765c34ba7f6b347566e6ecebfbd1d",
+      "time": 1675872996
+    },
+    {
+      "tag": "v0.9.82-pre1",
+      "hash": "18ce14618fea40fd4d2c2515c826ff65b8042c9d",
+      "time": 1675871930
+    },
+    {
+      "tag": "v0.9.80",
+      "hash": "5f5dc513ed23327643076de1c9a007eb12e737da",
+      "time": 1647618706
+    },
+    {
+      "tag": "v0.9.78",
+      "hash": "15257fd75a1662f04bf67f71ab60758b960f047c",
+      "time": 1637859743
+    },
+    {
+      "tag": "v0.9.77",
+      "hash": "791eeb5420d680d76633fd5a9ec800b8407157d5",
+      "time": 1622894898
+    },
+    {
+      "tag": "v0.9.76",
+      "hash": "e743381ae874c0a4002afe466110e3e7c7c8505f",
+      "time": 1620906125
+    },
+    {
+      "tag": "v0.9.75",
+      "hash": "6958cda3079e7c402fb23418a0fa1261c98dd270",
+      "time": 1618490310
+    },
+    {
+      "tag": "v0.9.7.4",
+      "hash": "36a90b175fa4aa74cea8d84145a06621f88f5fea",
+      "time": 1616238585
+    },
+    {
+      "tag": "v0.9.7.2",
+      "hash": "4dee3c7c291bfb0c03bcfff6ab1d9ebfdf11a717",
+      "time": 1614860779
+    },
+    {
+      "tag": "v0.9.7",
+      "hash": "0871ee5b9e86f3488c34c2c615a72d5dc9cb0d30",
+      "time": 1613138021
+    },
+    {
+      "tag": "v0.9.6.5",
+      "hash": "517a8c73f19c1d0be27dbd1f81ea0976c7b7c455",
+      "time": 1612445955
+    },
+    {
+      "tag": "v0.9.6.1",
+      "hash": "3d9dc6a371d3c81196f8a20e9df4a2bd9127cdac",
+      "time": 1612173319
+    },
+    {
+      "tag": "v0.9.6",
+      "hash": "fefa1620ab258e36ca94956534d8186a4bcaef63",
+      "time": 1611164708
+    },
+    {
+      "tag": "v0.9.5",
+      "hash": "8c521aa5591e5a20d184dc039084bcb55ad89f97",
+      "time": 1604315465
+    },
+    {
+      "tag": "v0.9.4.6",
+      "hash": "7ac31851acfb8e01c5a9b685c32eb0bbb3e678b9",
+      "time": 1603359401
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "544e1799ffc351c215545c3b2ee93e87de65a756",
+      "time": 1573468276
+    },
+    {
+      "tag": "v0.3.9",
+      "hash": "27c65e91b75b24a910deb18c6319721721ba767e",
+      "time": 1571478167
+    },
+    {
+      "tag": "v0.3.8",
+      "hash": "30cb7551ceee5f163fd51ac3d3e319f9d1a8dbb5",
+      "time": 1571225054
+    },
+    {
+      "tag": "v0.3.7",
+      "hash": "de7c5d48cca0d12390c15f92b32a483f50f8e1d1",
+      "time": 1570794960
+    },
+    {
+      "tag": "v0.3.6",
+      "hash": "42cea7fa5f0903f039791e82b06a674ef6d6532c",
+      "time": 1570620031
+    },
+    {
+      "tag": "v0.3.5",
+      "hash": "c03acd534dc81b48949a65b30da16f7a308307a3",
+      "time": 1570441786
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "2960d01a42408042d50ea8673426c1b3286f3872",
+      "time": 1570259864
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "ead64bbe7e67054dd8ac113793c9156d5f0bbe1e",
+      "time": 1569929633
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "a233023f7777eebd469419c5c4e02470284bc338",
+      "time": 1569576464
+    }
+  ],
+  "tags": [
+    "nim",
+    "vm",
+    "programming",
+    "rebol",
+    "ruby",
+    "haskell",
+    "functional",
+    "homoiconic"
+  ]
+}

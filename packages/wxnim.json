@@ -1,0 +1,14 @@
+{
+  "name": "wxnim",
+  "url": "https://github.com/PMunch/wxnim",
+  "method": "git",
+  "description": "Nim wrapper for wxWidgets. Also contains high-level genui macro",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/wxnim",
+  "tags": [
+    "wrapper",
+    "library",
+    "graphics",
+    "gui"
+  ]
+}

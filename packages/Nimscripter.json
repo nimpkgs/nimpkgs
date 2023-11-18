@@ -1,0 +1,154 @@
+{
+  "name": "Nimscripter",
+  "url": "https://github.com/beef331/nimscripter",
+  "method": "git",
+  "description": "Easy to use Nim/Nimscript interop, for scripting logic in compiled binaries.",
+  "license": "MIT",
+  "web": "https://github.com/beef331/nimscripter",
+  "versions": [
+    {
+      "tag": "v1.1.2",
+      "hash": "70926d2e383d3d239605573935468efcb470b7b1",
+      "time": 1691898423
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "acf23466f4026256d2acda2e3c4cfd806109964d",
+      "time": 1691025978
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "023c5f86195368b2f6d8998c150274984882bc80",
+      "time": 1682716743
+    },
+    {
+      "tag": "v1.0.21",
+      "hash": "a76d785bf1d4aea064a5f08066949ba063f5fbe3",
+      "time": 1681422861
+    },
+    {
+      "tag": "v1.0.20",
+      "hash": "4d4a345336a5022cd605da0878244b4291d8538d",
+      "time": 1681109018
+    },
+    {
+      "tag": "v1.0.19",
+      "hash": "5315873cd8a158f110ef97ffb1cc87dd16597211",
+      "time": 1681107474
+    },
+    {
+      "tag": "v1.0.18",
+      "hash": "090caff771e33706b0ece06ff569336937797f90",
+      "time": 1677452338
+    },
+    {
+      "tag": "v1.0.17",
+      "hash": "f4385d5bae7f28c1022c10c6ae299bd0eb1e4824",
+      "time": 1672868371
+    },
+    {
+      "tag": "v1.0.16",
+      "hash": "21367e6af82cbb74e5c54589660f2044bab5bdcd",
+      "time": 1662931263
+    },
+    {
+      "tag": "v1.0.15",
+      "hash": "cdc8529beda5af6db838c286ef2285045cf58e19",
+      "time": 1661030157
+    },
+    {
+      "tag": "v1.0.14",
+      "hash": "04da7a972ffa1e3020de5fbae6a3de567bcbba91",
+      "time": 1651901608
+    },
+    {
+      "tag": "v1.0.13",
+      "hash": "e3044c604347defb279d480c3e80de9724e80c81",
+      "time": 1647063285
+    },
+    {
+      "tag": "v1.0.12",
+      "hash": "0137497cc29448f2232ebb3175322416cae9d6c7",
+      "time": 1645605929
+    },
+    {
+      "tag": "v1.0.11",
+      "hash": "e137abd62755fc1ffa0a147d0ec11f89430ed55a",
+      "time": 1643401574
+    },
+    {
+      "tag": "v1.0.10",
+      "hash": "d35e6c4ee37ede3747aab55fbad052307659aea3",
+      "time": 1642981941
+    },
+    {
+      "tag": "v1.0.9",
+      "hash": "f5b9cb36ad4fcbfb2ae9a2154d10d7a6af7a8391",
+      "time": 1642975548
+    },
+    {
+      "tag": "v1.0.8",
+      "hash": "7f863782f0934be10693294182b49c8936abb469",
+      "time": 1642934470
+    },
+    {
+      "tag": "v1.0.7",
+      "hash": "5a5fa7cd3d8ab9771512505cf411e2aa966f6cff",
+      "time": 1642827679
+    },
+    {
+      "tag": "v1.0.6",
+      "hash": "7d81b03c6cbd8b6c3631b2f0130f69716f27b14a",
+      "time": 1642815689
+    },
+    {
+      "tag": "v1.0.5",
+      "hash": "ad3888fe204db67793d911f6c0b2e8a4e9bfb651",
+      "time": 1642314245
+    },
+    {
+      "tag": "v1.0.4",
+      "hash": "0883a490bc86277ca108e7e7a0bd3bfacab1fa91",
+      "time": 1642301500
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "481ac7223e7eef6fe07f9be5adfbbacd451a0c05",
+      "time": 1636169125
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "87e5acaa54952ac0a164ff6084a641d9042d985f",
+      "time": 1635223402
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "6b91b540bec44806ca6350c4b99d68012f019c66",
+      "time": 1635211085
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "5a655c0e29873516ac50d2d315c4641b9bfdc2aa",
+      "time": 1635137327
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "11d718a0435d643c9826654b3c099a1f8f5d4411",
+      "time": 1625729588
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "71abe71efadec67a7d01a052509251cdbaaf732b",
+      "time": 1623445383
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "cc381db2143cb14e7f60f90fabe3dfa5deb3e28b",
+      "time": 1616218147
+    }
+  ],
+  "tags": [
+    "scripting",
+    "nimscript"
+  ]
+}

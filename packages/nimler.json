@@ -1,0 +1,64 @@
+{
+  "name": "nimler",
+  "url": "https://github.com/wltsmrz/nimler",
+  "method": "git",
+  "description": "Erlang/Elixir NIFs for nim",
+  "license": "MIT",
+  "web": "https://github.com/wltsmrz/nimler",
+  "versions": [
+    {
+      "tag": "v4.6",
+      "hash": "cb2c230ee118a3c9a6c5fa2c9170e05f6ee908a9",
+      "time": 1599406268
+    },
+    {
+      "tag": "v4.5",
+      "hash": "03da13651cefc3eb75c46d399e2ceab528a2b6e6",
+      "time": 1599403557
+    },
+    {
+      "tag": "v4.4",
+      "hash": "8a442924fb3dd397bee6f71cb3025b814342701b",
+      "time": 1598781059
+    },
+    {
+      "tag": "v4.3",
+      "hash": "79cdb58ab099be71d7a351ce597b27c931ce15cd",
+      "time": 1598231130
+    },
+    {
+      "tag": "v4.2",
+      "hash": "1989b1b770713bc07c68a93534987561e664a080",
+      "time": 1597506845
+    },
+    {
+      "tag": "v4.1",
+      "hash": "c3163b11a7ca428328e5051fecffffd80ef70645",
+      "time": 1596985933
+    },
+    {
+      "tag": "v4.0",
+      "hash": "ad9fe730f6b6aaa4ba1e0239fba2f6b17a5fa7c7",
+      "time": 1594617351
+    },
+    {
+      "tag": "v3.1",
+      "hash": "7ada14c20aecc37c9fd93143eba699865d0e7b58",
+      "time": 1587015962
+    },
+    {
+      "tag": "v3.0",
+      "hash": "aadc2df2e496931f0acb17f169b34df51dc00a09",
+      "time": 1586730120
+    },
+    {
+      "tag": "v2.0",
+      "hash": "450e40de22713a6411384d4859d109d120a43482",
+      "time": 1586005706
+    }
+  ],
+  "tags": [
+    "Erlang",
+    "Elixir"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "mvb",
+  "url": "https://github.com/tapsterbot/mvb-opencv",
+  "method": "git",
+  "description": "Minimum viable bindings for OpenCV",
+  "license": "MIT",
+  "web": "https://github.com/tapsterbot/mvb-opencv",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "0e744476feaaa0a6cae180ad3c7956fb1ede7cdd",
+      "time": 1687395153
+    }
+  ],
+  "tags": [
+    "opencv",
+    "library",
+    "wrapper",
+    "image",
+    "processing",
+    "minimal",
+    "mininum",
+    "viable",
+    "bindings"
+  ]
+}

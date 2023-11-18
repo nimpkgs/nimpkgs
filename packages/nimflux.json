@@ -1,0 +1,58 @@
+{
+  "name": "nimflux",
+  "url": "https://github.com/tdely/nimflux",
+  "method": "git",
+  "description": "InfluxDB API client library",
+  "license": "MIT",
+  "web": "https://github.com/tdely/nimflux",
+  "versions": [
+    {
+      "tag": "v1.0.3",
+      "hash": "ce40b38447f899b9951ffb1b9fd609fb040c361e",
+      "time": 1637671453
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "76f45c880874dfb5904789fa08a9e4e84a242875",
+      "time": 1625123789
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "f6690b966180be02b30c9b56fd55b276123fc942",
+      "time": 1624976098
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "05ee9dd0e268389e24fcc306d3513c6db35c9092",
+      "time": 1624891262
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "2986006b720ce6a3b6714e7ba854fed3f62dfc09",
+      "time": 1617915128
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "b0af1da3f0bed5bad20f14d233ff2055e783f910",
+      "time": 1615487000
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "6d612287718a59639bcb5a688679c68c631d4ad3",
+      "time": 1614585109
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "e52e24a3ef403a5c86fce21959ca7550d95c5c88",
+      "time": 1614431060
+    }
+  ],
+  "tags": [
+    "influxdb",
+    "influx",
+    "client",
+    "api",
+    "multisync",
+    "async"
+  ]
+}

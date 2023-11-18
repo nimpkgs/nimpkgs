@@ -1,0 +1,12 @@
+{
+  "name": "libovr",
+  "url": "https://github.com/bluenote10/nim-ovr",
+  "method": "git",
+  "description": "Nim bindings for libOVR (Oculus Rift)",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/nim-ovr",
+  "tags": [
+    "Oculus Rift",
+    "virtual reality"
+  ]
+}

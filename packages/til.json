@@ -1,0 +1,29 @@
+{
+  "name": "til",
+  "url": "https://github.com/danielecook/til-tool",
+  "method": "git",
+  "description": "til-tool: Today I Learned tool",
+  "license": "MIT",
+  "web": "https://github.com/danielecook/til-tool",
+  "versions": [
+    {
+      "tag": "v0.0.3",
+      "hash": "43038ada095b3e90b07f18b58302d6eb1aa31647",
+      "time": 1587561257
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "2ffe42f720d0883fe4c9269edcdefa8545ee21ed",
+      "time": 1587442313
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "78b24aa0b5aba82df5da778b08b3cbb916d51547",
+      "time": 1587441209
+    }
+  ],
+  "tags": [
+    "cli",
+    "til"
+  ]
+}

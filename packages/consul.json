@@ -1,0 +1,11 @@
+{
+  "name": "consul",
+  "url": "https://github.com/makingspace/nim_consul",
+  "method": "git",
+  "description": "A simple interface to a running Consul agent.",
+  "license": "BSD2",
+  "web": "https://github.com/makingspace/nim_consul",
+  "tags": [
+    "consul"
+  ]
+}

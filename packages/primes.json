@@ -1,0 +1,12 @@
+{
+  "name": "primes",
+  "url": "https://github.com/wokibe/primes",
+  "method": "git",
+  "description": "Utilities for prime numbers",
+  "license": "MIT",
+  "web": "https://github.com/wokibe/primes",
+  "tags": [
+    "primes",
+    "is_prime"
+  ]
+}

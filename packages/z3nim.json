@@ -1,0 +1,21 @@
+{
+  "name": "z3nim",
+  "url": "https://github.com/Double-oxygeN/z3nim",
+  "method": "git",
+  "description": "Z3 binding for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Double-oxygeN/z3nim",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "58365ac9b10356bb483e45b138c75b079a27d25c",
+      "time": 1570432679
+    }
+  ],
+  "tags": [
+    "z3",
+    "smt",
+    "wrapper",
+    "library"
+  ]
+}

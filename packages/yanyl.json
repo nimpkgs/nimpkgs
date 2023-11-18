@@ -1,0 +1,24 @@
+{
+  "name": "yanyl",
+  "url": "https://github.com/tanelso2/yanyl",
+  "method": "git",
+  "description": "A library for using YAML with Nim",
+  "license": "Unlicense",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "ef06420b514776ae6834aa4b6af47c563e80fd82",
+      "time": 1680040270
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "9ec2e1cbf23d18b8b61f1ef2d9278b31c360e0c2",
+      "time": 1679634830
+    }
+  ],
+  "tags": [
+    "serialization",
+    "serialization-format",
+    "yaml"
+  ]
+}

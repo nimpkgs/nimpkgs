@@ -1,0 +1,27 @@
+{
+  "name": "forge",
+  "url": "https://github.com/daylinmorgan/forge",
+  "method": "git",
+  "description": "basic toolchain to forge (cross-compile) your multi-platform nim binaries",
+  "license": "MIT",
+  "web": "https://github.com/daylinmorgan/forge",
+  "versions": [
+    {
+      "tag": "v2023.1002",
+      "hash": "9840e6ea04b8f6871da027d7850a9d9ae6be87de",
+      "time": 1698093121
+    },
+    {
+      "tag": "v2023.1001",
+      "hash": "95f9631263993bc47e7b678024bee5a96a87155d",
+      "time": 1694129456
+    }
+  ],
+  "tags": [
+    "compilation",
+    "compile",
+    "cross-compile",
+    "cli",
+    "zig"
+  ]
+}

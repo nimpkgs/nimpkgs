@@ -1,0 +1,13 @@
+{
+  "name": "conio",
+  "url": "https://github.com/guevara-chan/conio",
+  "method": "git",
+  "description": ".NET-inspired lightweight terminal library",
+  "license": "MIT",
+  "web": "https://github.com/guevara-chan/conio",
+  "tags": [
+    "console",
+    "terminal",
+    "io"
+  ]
+}

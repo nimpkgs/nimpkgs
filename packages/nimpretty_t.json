@@ -1,0 +1,26 @@
+{
+  "name": "nimpretty_t",
+  "url": "https://github.com/tobealive/nimpretty_t",
+  "method": "git",
+  "description": "Use nimpretty with tab indentation.",
+  "license": "MIT",
+  "web": "https://github.com/tobealive/nimpretty_t",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "167a34fc8e93d702bc95b2e3d0f6326403a6077d",
+      "time": 1678959084
+    }
+  ],
+  "tags": [
+    "nimpretty",
+    "code",
+    "formatter",
+    "formatting",
+    "autoformat",
+    "cli",
+    "terminal",
+    "command-line",
+    "utility"
+  ]
+}

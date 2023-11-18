@@ -1,0 +1,45 @@
+{
+  "name": "nimsl",
+  "url": "https://github.com/yglukhov/nimsl",
+  "method": "git",
+  "description": "Shaders in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/nimsl",
+  "versions": [
+    {
+      "tag": "v0.3.3",
+      "hash": "7ff6309ebe4bf9bc78338b71160802dabf0dfe7b",
+      "time": 1664888737
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "cb5d133e5dda79d3bc19a79e5f46a489f512fd2a",
+      "time": 1568064458
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "9e32f4ea608809ab549eb39080ce067f9c681006",
+      "time": 1541355570
+    },
+    {
+      "tag": "v0.3",
+      "hash": "21facc039905511a0420575740139acc8afdf330",
+      "time": 1516899963
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "a142f19f6b23c0bdbdf2e89b506b42dcd96cfac9",
+      "time": 1512506919
+    },
+    {
+      "tag": "v0.2",
+      "hash": "f037275b7934ab80c19edde6e90d8a4b826592d7",
+      "time": 1471249561
+    }
+  ],
+  "tags": [
+    "shader",
+    "opengl",
+    "glsl"
+  ]
+}

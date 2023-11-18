@@ -1,0 +1,13 @@
+{
+  "name": "colorize",
+  "url": "https://github.com/molnarmark/colorize",
+  "method": "git",
+  "description": "A simple and lightweight terminal coloring library.",
+  "license": "MIT",
+  "web": "https://github.com/molnarmark/colorize",
+  "tags": [
+    "color",
+    "colors",
+    "colorize"
+  ]
+}

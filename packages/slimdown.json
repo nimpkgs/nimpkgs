@@ -1,0 +1,13 @@
+{
+  "name": "slimdown",
+  "url": "https://github.com/ruivieira/nim-slimdown",
+  "method": "git",
+  "description": "Nim module that converts Markdown text to HTML using only regular expressions. Based on jbroadway's Slimdown.",
+  "license": "MIT",
+  "web": "https://github.com/ruivieira/nim-slimdown",
+  "tags": [
+    "markdown",
+    "parser",
+    "library"
+  ]
+}

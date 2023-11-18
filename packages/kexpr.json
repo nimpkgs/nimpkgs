@@ -1,0 +1,20 @@
+{
+  "name": "kexpr",
+  "url": "https://github.com/brentp/kexpr-nim",
+  "method": "git",
+  "description": "wrapper for kexpr math expression evaluation library",
+  "license": "MIT",
+  "web": "https://github.com/brentp/kexpr-nim",
+  "versions": [
+    {
+      "tag": "v0.0.2",
+      "hash": "7302245f8dafb33f4ecf9861fd81ceb4d7b193c8",
+      "time": 1544482918
+    }
+  ],
+  "tags": [
+    "math",
+    "expression",
+    "evalute"
+  ]
+}

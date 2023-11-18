@@ -1,0 +1,20 @@
+{
+  "name": "miniz",
+  "url": "https://github.com/treeform/miniz",
+  "method": "git",
+  "description": "Bindings for Miniz lib.",
+  "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "c424ca808e2eb91382921b4a070862cd9e16d822",
+      "time": 1534816995
+    }
+  ],
+  "tags": [
+    "zlib",
+    "zip",
+    "wrapper",
+    "compression"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "denim",
+  "url": "https://github.com/openpeeps/denim",
+  "method": "git",
+  "description": "DENIM - Nim code to Bun.js/Node.js in seconds via NAPI",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/denim",
+  "tags": [
+    "node",
+    "nodejs",
+    "bun",
+    "bunsh",
+    "napi",
+    "addon",
+    "toolkit"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "nage",
+  "url": "https://github.com/acikek/nage",
+  "method": "git",
+  "description": "Not Another Game Engine; CLI text adventure engine",
+  "license": "MIT",
+  "web": "https://github.com/acikek/nage",
+  "versions": [
+    {
+      "tag": "v1.5.0",
+      "hash": "407d5b1ab7a1d7edc00f3a377667c4f42101899a",
+      "time": 1670002441
+    },
+    {
+      "tag": "v1.4.0",
+      "hash": "36ed3b756b4e602ebdaa35d0ca385c47964cd3ee",
+      "time": 1658557744
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "8e57cc4815273395e8c739704ee70218119d63ff",
+      "time": 1658448546
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "8d163d4a28df69ad0061a0bf25bb2950e07f54e3",
+      "time": 1658265677
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "b2c9e4bababfa639655cada1735c64eb19e00c17",
+      "time": 1658264328
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "be38c3d38ebf2f6c584ee95c77140e1de98945a7",
+      "time": 1658100286
+    }
+  ],
+  "tags": [
+    "app",
+    "binary",
+    "game",
+    "engine",
+    "cli",
+    "rpg"
+  ]
+}

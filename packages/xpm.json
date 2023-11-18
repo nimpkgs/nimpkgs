@@ -1,0 +1,12 @@
+{
+  "name": "xpm",
+  "url": "https://github.com/juancarlospaco/xpm",
+  "method": "git",
+  "description": "X-Pixmap & NetPBM",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/xpm",
+  "tags": [
+    "netpbm",
+    "xpm"
+  ]
+}

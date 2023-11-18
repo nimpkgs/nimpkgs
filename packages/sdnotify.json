@@ -1,0 +1,14 @@
+{
+  "name": "sdnotify",
+  "url": "https://github.com/FedericoCeratto/nim-sdnotify",
+  "method": "git",
+  "description": "Systemd service notification helper",
+  "license": "MIT",
+  "web": "https://github.com/FedericoCeratto/nim-sdnotify",
+  "tags": [
+    "os",
+    "linux",
+    "systemd",
+    "sdnotify"
+  ]
+}

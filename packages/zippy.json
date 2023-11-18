@@ -1,0 +1,15 @@
+{
+  "name": "zippy",
+  "url": "https://github.com/guzba/zippy",
+  "method": "git",
+  "description": "Pure Nim implementation of deflate, zlib, gzip and zip.",
+  "license": "MIT",
+  "web": "https://github.com/guzba/zippy",
+  "tags": [
+    "compression",
+    "zlib",
+    "zip",
+    "deflate",
+    "gzip"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "colorcol",
+  "url": "https://github.com/SolitudeSF/colorcol",
+  "method": "git",
+  "description": "Kakoune plugin for color preview",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/colorcol",
+  "versions": [
+    {
+      "tag": "v0.5.2",
+      "hash": "7caa19b140b95887fe4cbdd6322665fe1620871d",
+      "time": 1616279849
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "98b32dff32016cba371f97a2b0216375f332344f",
+      "time": 1596799334
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "814b1e7f1440d09d0fadb48eb1652c2c008dfe05",
+      "time": 1589884168
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "4a356abe228cb78a28228da0a192a0edd62d9e91",
+      "time": 1589521391
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "455f87a543ee6ed7387421e935de13295c6e6f5e",
+      "time": 1589489887
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "2dd053716da06f6db7e1936c7379c9e6a24391ee",
+      "time": 1589477914
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "afd22af9fdd5b856eacd3abe7e3b7fe26af6a5ee",
+      "time": 1589477007
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "65b082f86bc8063cf03dafaeb143b49dd9c5e444",
+      "time": 1589472799
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "d5e88b72355bbe96215f3eb56ddae5a6ce7ef1f4",
+      "time": 1589471560
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "c69c394002d72c661eddce5c7233e5ac9abb7d34",
+      "time": 1589470337
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "fd1965fec159aff346f642b7821ce309bd1f41c2",
+      "time": 1589461717
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "664810201bd2a854f8871f682b70c49dc2710ed7",
+      "time": 1554240886
+    }
+  ],
+  "tags": [
+    "kakoune",
+    "plugin",
+    "color",
+    "preview"
+  ]
+}

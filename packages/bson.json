@@ -1,0 +1,36 @@
+{
+  "name": "bson",
+  "url": "https://github.com/JohnAD/bson",
+  "method": "git",
+  "description": "BSON Binary JSON Serialization",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/bson",
+  "versions": [
+    {
+      "tag": "v1.1.2",
+      "hash": "9d54157ee9f4a2860582c79f579a9ba7d15f9f59",
+      "time": 1577302302
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "d3aa6b50adeed2b73c59d39161e31af67a42cb80",
+      "time": 1577044870
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "8d801326e8f7fb056ecd36bc0863000558cfcad1",
+      "time": 1574455706
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "ca350238341f1a05e6a63d9516d9cc88919b1c48",
+      "time": 1573323701
+    }
+  ],
+  "tags": [
+    "bson",
+    "serialize",
+    "parser",
+    "json"
+  ]
+}

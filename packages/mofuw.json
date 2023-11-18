@@ -1,0 +1,14 @@
+{
+  "name": "mofuw",
+  "url": "https://github.com/2vg/mofuw",
+  "method": "git",
+  "description": "mofuw is *MO*re *F*aster, *U*ltra *W*ebserver",
+  "license": "MIT",
+  "web": "https://github.com/2vg/mofuw",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "abandoned"
+  ]
+}

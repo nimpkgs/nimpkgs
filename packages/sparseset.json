@@ -1,0 +1,50 @@
+{
+  "name": "sparseset",
+  "url": "https://github.com/planetis-m/sparseset",
+  "method": "git",
+  "description": "Sparsets for Nim",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/sparseset",
+  "versions": [
+    {
+      "tag": "v0.6.0",
+      "hash": "3866e8606c0a04aeffade83a58d9c644cdbdaa55",
+      "time": 1607796089
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "7e6b42b23fd0a01c1c88afa4f02d4516b7b2dd85",
+      "time": 1607701358
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "bf1dcc0435b5b2cb01812ae74f1179c5fda30811",
+      "time": 1607690512
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "45a5184cf0bd3eeb77bd916c1476c9ba42f5b862",
+      "time": 1607676854
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "505771423c927dc97712c912537d77d3a3350791",
+      "time": 1607612000
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "1d985711410dad9e58afb9ecf3f353962ef94314",
+      "time": 1607611507
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "54e26939f64a6dbcc6798d199d7404ac6a46c1db",
+      "time": 1607604777
+    }
+  ],
+  "tags": [
+    "sparseset",
+    "library",
+    "datastructures"
+  ]
+}

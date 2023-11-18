@@ -1,0 +1,31 @@
+{
+  "name": "tlv",
+  "url": "https://github.com/d4rckh/nim-tlv",
+  "method": "git",
+  "description": "Simplified TLV parsing for nim.",
+  "license": "MIT",
+  "web": "https://github.com/d4rckh/nim-tlv",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "f31465c2b2dab4089ec4134cdf0688083c5201ca",
+      "time": 1661958241
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "5b736c5111d60a1a2410ac14715a5fb17816b867",
+      "time": 1661951321
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "25b7905b90477bc3a684c82c2739c92bf2a972e5",
+      "time": 1661949300
+    }
+  ],
+  "tags": [
+    "tlv",
+    "serialization",
+    "database",
+    "data"
+  ]
+}

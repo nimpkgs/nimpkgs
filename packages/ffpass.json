@@ -1,0 +1,13 @@
+{
+  "name": "ffpass",
+  "url": "https://github.com/bunkford/ffpass",
+  "method": "git",
+  "description": "Api Calls for Ford vehicles equipped with the fordpass app.",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/ffpass",
+  "doc": "https://bunkford.github.io/ffpass/docs/ffpass.html",
+  "tags": [
+    "automotive",
+    "api"
+  ]
+}

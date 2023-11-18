@@ -1,0 +1,40 @@
+{
+  "name": "grim",
+  "url": "https://github.com/ebran/grim",
+  "method": "git",
+  "description": "Graphs in nim!",
+  "license": "MIT",
+  "web": "https://github.com/ebran/grim",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "3c496c953ea5a749a6ce3545f208a1acce80383d",
+      "time": 1609704102
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "df4329ef4b939e7ad6d57822b4948b8bb7215ee2",
+      "time": 1609518110
+    },
+    {
+      "tag": "v.0.2.0",
+      "hash": "47aa4836f576cff13c82e565822a6add8708d1a3",
+      "time": 1581115498
+    },
+    {
+      "tag": "v.0.1.1",
+      "hash": "8140c7411d76c51f96f4a902c33e419437c2fea3",
+      "time": 1578828615
+    },
+    {
+      "tag": "v.0.1.0",
+      "hash": "66e73f993829bd73d2a2351aa1e8e1627a5bdd42",
+      "time": 1578827477
+    }
+  ],
+  "tags": [
+    "graph",
+    "data",
+    "library"
+  ]
+}

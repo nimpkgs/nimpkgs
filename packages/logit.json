@@ -1,0 +1,51 @@
+{
+  "name": "logit",
+  "url": "https://github.com/Miqueas/Logit",
+  "method": "git",
+  "description": "Dependency-free, cross-platform and small logging library for Nim, with a simple and comfortable API",
+  "license": "Zlib",
+  "web": "https://github.com/Miqueas/Logit",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "04ac2aa51d9618fc7b5b3a23601643561620b88c",
+      "time": 1695347310
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "eacba8fadac51901d8cab5d27182af96d8cc7c70",
+      "time": 1675306923
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "1288b86cd8c9d3aec19b7038316cbdecd0a53614",
+      "time": 1647123224
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "63972d5271e8272f41f5b81a8d93c7ce4b040f51",
+      "time": 1647098487
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "f06f6104619a7d91ee4b8a177ac9ac9e9ea19f3c",
+      "time": 1647020875
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "6e86900315838792f58934d40fee19d1845520f3",
+      "time": 1646962793
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7dd67a56437a7593fd61249bfa4dca743168ebef",
+      "time": 1646960341
+    }
+  ],
+  "tags": [
+    "library",
+    "log",
+    "logs",
+    "logging"
+  ]
+}

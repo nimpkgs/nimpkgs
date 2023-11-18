@@ -1,0 +1,24 @@
+{
+  "name": "nimlapack",
+  "url": "https://github.com/andreaferretti/nimlapack",
+  "method": "git",
+  "description": "LAPACK bindings",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/nimlapack",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "7a86e9aa7b2cecbc56735d80d0574b7516a8206e",
+      "time": 1696752876
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "8b9baa9a7b7ad5b068563aa39920f040769f9416",
+      "time": 1686126711
+    }
+  ],
+  "tags": [
+    "LAPACK",
+    "linear-algebra"
+  ]
+}

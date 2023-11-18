@@ -1,0 +1,14 @@
+{
+  "name": "metrics",
+  "url": "https://github.com/status-im/nim-metrics",
+  "method": "git",
+  "description": "Nim metrics client library supporting the Prometheus monitoring toolkit",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-metrics",
+  "tags": [
+    "library",
+    "metrics",
+    "prometheus",
+    "statsd"
+  ]
+}

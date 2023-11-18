@@ -1,0 +1,11 @@
+{
+  "name": "nimmikudance",
+  "url": "https://github.com/aphkyle/NimMikuDance",
+  "method": "git",
+  "description": "MMD I/O!",
+  "license": "ISC",
+  "tags": [
+    "MMD",
+    "pure"
+  ]
+}

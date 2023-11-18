@@ -1,0 +1,21 @@
+{
+  "name": "easymail",
+  "url": "https://github.com/coocheenin/easymail",
+  "method": "git",
+  "description": "wrapper for the sendmail command",
+  "license": "MIT",
+  "web": "https://github.com/coocheenin/easymail",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "2a70fbe45be3898d31dc9a74273f73f3a1362dd0",
+      "time": 1553685311
+    }
+  ],
+  "tags": [
+    "email",
+    "sendmail",
+    "net",
+    "mail"
+  ]
+}

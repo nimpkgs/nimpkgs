@@ -1,0 +1,32 @@
+{
+  "name": "colorizeEcho",
+  "url": "https://github.com/s3pt3mb3r/colorizeEcho",
+  "method": "git",
+  "description": "colorizeEcho is a package which colorize echo message on Windows command prompt.",
+  "license": "MIT",
+  "web": "https://github.com/s3pt3mb3r/colorizeEcho",
+  "versions": [
+    {
+      "tag": "v1.2",
+      "hash": "5c565be8d6e8a1b1e3d07b521c5de76e4f933f47",
+      "time": 1658122776
+    },
+    {
+      "tag": "v1.1",
+      "hash": "f78d75dccea1b439b537ee161802acf1adee1ae3",
+      "time": 1658119727
+    },
+    {
+      "tag": "v1.0",
+      "hash": "2f9661119a1d6d9e4d36ad2c2cd91bfb47b8c0ca",
+      "time": 1606629919
+    }
+  ],
+  "tags": [
+    "windows",
+    "commandprompt",
+    "color",
+    "output",
+    "debug"
+  ]
+}

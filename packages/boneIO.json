@@ -1,0 +1,13 @@
+{
+  "name": "boneIO",
+  "url": "https://github.com/xyz32/boneIO",
+  "method": "git",
+  "description": "A low level GPIO library for the BeagleBone board family",
+  "license": "MIT",
+  "web": "https://github.com/xyz32/boneIO",
+  "tags": [
+    "library",
+    "GPIO",
+    "BeagleBone"
+  ]
+}

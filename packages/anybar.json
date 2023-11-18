@@ -1,0 +1,14 @@
+{
+  "name": "anybar",
+  "url": "https://github.com/ba0f3/anybar.nim",
+  "method": "git",
+  "description": "Control AnyBar instances with Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/anybar.nim",
+  "tags": [
+    "anybar",
+    "menubar",
+    "status",
+    "indicator"
+  ]
+}

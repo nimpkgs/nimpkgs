@@ -1,0 +1,13 @@
+{
+  "name": "webdavclient",
+  "url": "https://github.com/beshrkayali/webdavclient",
+  "method": "git",
+  "description": "WebDAV Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/beshrkayali/webdavclient",
+  "tags": [
+    "webdav",
+    "library",
+    "async"
+  ]
+}
