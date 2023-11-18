@@ -1,0 +1,14 @@
+{
+  "name": "io-gles",
+  "url": "https://github.com/nimious/io-gles.git",
+  "method": "git",
+  "description": "Obsolete - please use gles instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-gles",
+  "tags": [
+    "binding",
+    "khronos",
+    "gles",
+    "opengl es"
+  ]
+}

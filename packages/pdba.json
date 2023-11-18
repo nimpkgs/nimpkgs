@@ -1,0 +1,40 @@
+{
+  "name": "pdba",
+  "url": "https://github.com/misebox/pdba",
+  "method": "git",
+  "description": "A postgres DB adapter for nim.",
+  "license": "MIT",
+  "web": "https://github.com/misebox/pdba",
+  "versions": [
+    {
+      "tag": "v0.2.4",
+      "hash": "49f6096bb65a0f0520e14e4e3036feae5dd4fcd9",
+      "time": 1588265485
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "1d87cf1e0f3e7bb81b662b266adae0b5271642bd",
+      "time": 1588255540
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "f5c16ac0ed7a66019ade0b300e8e6f962deb8386",
+      "time": 1588250524
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "740bc9c4bd211bba66e3a62987d5ef809be1e8a9",
+      "time": 1588249110
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "6e9f6699c6c713a6e219637ffdcc0e3175d94822",
+      "time": 1588236912
+    }
+  ],
+  "tags": [
+    "db",
+    "library",
+    "wrapper"
+  ]
+}

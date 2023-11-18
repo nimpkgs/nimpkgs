@@ -1,0 +1,14 @@
+{
+  "name": "icecream",
+  "url": "https://github.com/hmbemba/icecream",
+  "method": "git",
+  "description": "nim port of the icecream python library",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/icecream",
+  "tags": [
+    "print",
+    "icecream",
+    "ic",
+    "echo"
+  ]
+}

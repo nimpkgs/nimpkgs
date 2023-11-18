@@ -1,0 +1,60 @@
+{
+  "name": "inim",
+  "url": "https://github.com/inim-repl/INim",
+  "method": "git",
+  "description": "Interactive Nim Shell",
+  "license": "MIT",
+  "web": "https://github.com/AndreiRegiani/INim",
+  "versions": [
+    {
+      "tag": "v0.6.1",
+      "hash": "1d7dfa91265be4ab1252b6fa29a3b583683e947e",
+      "time": 1601911013
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "c383e381517addd027e76b0fe5764623597264be",
+      "time": 1599378881
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "6e4b613244e15334b1457a63d0b79ba5df87ea83",
+      "time": 1591508969
+    },
+    {
+      "tag": "v0.4.7",
+      "hash": "afc36530a98090f1660eae5a83ce46ccfc237745",
+      "time": 1589003004
+    },
+    {
+      "tag": "v0.4.6",
+      "hash": "6ff9f06dd20c08f6a00bd0752ac73afe9e971d48",
+      "time": 1589002833
+    },
+    {
+      "tag": "v0.4.5",
+      "hash": "7eb7fba756421756aef86005cc0cfe86a741974a",
+      "time": 1586860735
+    },
+    {
+      "tag": "v0.4.4",
+      "hash": "07dccb93e05a15b64f3aaffabfb4f42215db822a",
+      "time": 1586858884
+    },
+    {
+      "tag": "v0.4.3",
+      "hash": "2ac20b1e8b29c9a0004ec41a138cf11498ade288",
+      "time": 1586191753
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "89578e892a2aabc77111ee7e11e6502fcf9a028b",
+      "time": 1586161804
+    }
+  ],
+  "tags": [
+    "repl",
+    "playground",
+    "shell"
+  ]
+}

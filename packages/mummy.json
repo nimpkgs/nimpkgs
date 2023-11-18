@@ -1,0 +1,14 @@
+{
+  "name": "mummy",
+  "url": "https://github.com/guzba/mummy",
+  "method": "git",
+  "description": "Multithreaded HTTP + WebSocket server",
+  "license": "MIT",
+  "web": "https://github.com/guzba/mummy",
+  "tags": [
+    "web",
+    "http",
+    "server",
+    "websockets"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "niml",
+  "url": "https://github.com/jakubDoka/niml",
+  "method": "git",
+  "description": "html dsl",
+  "license": "MIT",
+  "web": "https://github.com/jakubDoka/niml",
+  "tags": [
+    "html",
+    "library",
+    "dls"
+  ]
+}

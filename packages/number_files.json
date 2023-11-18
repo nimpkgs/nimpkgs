@@ -1,0 +1,25 @@
+{
+  "name": "number_files",
+  "url": "https://github.com/Araq/number_files/",
+  "method": "git",
+  "description": "Command to add counter suffix/prefix to a list of files.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/number_files/",
+  "versions": [
+    {
+      "tag": "v0.2.2",
+      "hash": "f5da098f6b1f412a325c720e6a3af8c8670f4082",
+      "time": 1395765659
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "e2c6a001a7d442043b46db672d9ab3b7c073ca7f",
+      "time": 1395505945
+    }
+  ],
+  "tags": [
+    "rename",
+    "filename",
+    "finder"
+  ]
+}

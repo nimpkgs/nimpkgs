@@ -1,0 +1,16 @@
+{
+  "name": "untar",
+  "url": "https://github.com/dom96/untar",
+  "method": "git",
+  "description": "Library for decompressing tar.gz files.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/untar",
+  "tags": [
+    "library",
+    "tar",
+    "gz",
+    "compression",
+    "archive",
+    "decompression"
+  ]
+}

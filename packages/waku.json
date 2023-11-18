@@ -1,0 +1,243 @@
+{
+  "name": "waku",
+  "url": "https://github.com/waku-org/nwaku",
+  "method": "git",
+  "description": "Implementation of the Waku protocol",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/waku-org/nwaku",
+  "versions": [
+    {
+      "tag": "v0.24.0-rc.1, v0.24.0",
+      "hash": "7fc8e322d0a5f58ad330eee6fc47d9adc2e43965",
+      "time": 1705062780
+    },
+    {
+      "tag": "v0.24.0-rc.0",
+      "hash": "8ce8ec69420ff821245f537a049158590a34937d",
+      "time": 1704876326
+    },
+    {
+      "tag": "v0.23.1-rc.0, v0.23.1",
+      "hash": "dcd93339da3633324b912fbef2f0b5465b48e948",
+      "time": 1704475356
+    },
+    {
+      "tag": "v0.23.0-rc.2, v0.23.0",
+      "hash": "7574f7ea73d4c48fad0360dcc453e1012c8a09d9",
+      "time": 1703084107
+    },
+    {
+      "tag": "v0.23.0-rc.1",
+      "hash": "5f2d477bcd9d3a3b8ad37a4c375b00dafe006458",
+      "time": 1703006621
+    },
+    {
+      "tag": "v0.23.0-rc.0",
+      "hash": "574cdf555adcdfc77291902d413bb8884bc0c925",
+      "time": 1702663115
+    },
+    {
+      "tag": "v0.22.1-rc.0",
+      "hash": "728c3428d4195ecd68bed70569a166ad10883899",
+      "time": 1701249296
+    },
+    {
+      "tag": "v0.22.0",
+      "hash": "0cb7ea98cee519bae60ace61ee722c896bb5c2a9",
+      "time": 1700055586
+    },
+    {
+      "tag": "v0.21.3",
+      "hash": "43e040e0a9779bb385c3119e1018da184bbb209d",
+      "time": 1699539009
+    },
+    {
+      "tag": "v0.21.3-rc.0",
+      "hash": "1e919177eb1a5ce4bc1438b9d43e07a748e6d4a0",
+      "time": 1699527128
+    },
+    {
+      "tag": "v0.22.0-rc.0",
+      "hash": "3498a84600119572d8bb074a1853bf70ac5f160e",
+      "time": 1699523319
+    },
+    {
+      "tag": "v0.21.2",
+      "hash": "81f8095855552c8636f7e3424fe8f23c6637edaf",
+      "time": 1699362965
+    },
+    {
+      "tag": "v0.21.2-rc.0",
+      "hash": "33decd7aa220930eb502e4346015306c9cd3cc87",
+      "time": 1698681536
+    },
+    {
+      "tag": "v0.21.1",
+      "hash": "e248643e299f618aa79a2433b15315e561e24cf9",
+      "time": 1698311576
+    },
+    {
+      "tag": "v0.21.1-rc.0",
+      "hash": "e2dfc2ed0d39ef75f3c97285a65d1ba746b58a72",
+      "time": 1698221118
+    },
+    {
+      "tag": "v0.21.0",
+      "hash": "86af8fba050b0525210b2a5063eccf40a5e728b9",
+      "time": 1697639993
+    },
+    {
+      "tag": "v0.21.0-rc.1",
+      "hash": "5277d122d0455fea4e4b68c080d9d320ddcd2622",
+      "time": 1697622467
+    },
+    {
+      "tag": "v0.21.0-rc.0",
+      "hash": "ce5fb3401da4365c0dc8ae4428f34d3a5ecac1a5",
+      "time": 1697186718
+    },
+    {
+      "tag": "v0.20.0",
+      "hash": "57e511fc833f421d24ca54460d0c5b284e70e4fe",
+      "time": 1694700235
+    },
+    {
+      "tag": "v0.20.0-rc.1",
+      "hash": "a5461a0b6c91638ecfb8f2545eaf3237cc76db07",
+      "time": 1694693842
+    },
+    {
+      "tag": "v0.20.0-rc.0",
+      "hash": "e8776fd6643d4539f96117ecec88d765351593b0",
+      "time": 1694441813
+    },
+    {
+      "tag": "v0.19.0",
+      "hash": "fa69acb13471aafdee5080ebc1829a3d32861c98",
+      "time": 1692170626
+    },
+    {
+      "tag": "v0.19.0-rc.1",
+      "hash": "d5d2243c2e11e47c05b740b20b40a63a0b38981c",
+      "time": 1691767704
+    },
+    {
+      "tag": "v0.19.0-rc.0",
+      "hash": "1d3410c7bd78d33e686f17d2e5019bbfff3c8dec",
+      "time": 1689264055
+    },
+    {
+      "tag": "v0.18.0",
+      "hash": "0111b88b9b3c13065de6f09844f03c8c0259fcdc",
+      "time": 1686689333
+    },
+    {
+      "tag": "v0.18.0-rc.0",
+      "hash": "5fc5770da9920b029d016754715f44a6989840d7",
+      "time": 1686307353
+    },
+    {
+      "tag": "v0.17.0",
+      "hash": "c4370b3845495ef56b5faab43775803a4f938a17",
+      "time": 1684331416
+    },
+    {
+      "tag": "v0.17.0-rc.0",
+      "hash": "2582a1bb63e2d2bb6cbb931a63406751519ccb00",
+      "time": 1684248294
+    },
+    {
+      "tag": "v0.16.0",
+      "hash": "03f0de365cfee3a946257a6ce8a61fe19284976c",
+      "time": 1678877582
+    },
+    {
+      "tag": "v0.15.0",
+      "hash": "e12b7cb4a8d7084f8174b378d38fa261428e406d",
+      "time": 1676386546
+    },
+    {
+      "tag": "v0.14.0",
+      "hash": "2df6cb1645bb96a496cad600f6789f682c8531ac",
+      "time": 1673863983
+    },
+    {
+      "tag": "v0.13.0",
+      "hash": "9debd44e2aebf07eaf96b4525a4497c69aaf4445",
+      "time": 1668503854
+    },
+    {
+      "tag": "v0.12.0",
+      "hash": "a9fa3a29a41dbe3530b47ef8dbc1f5d7621d1705",
+      "time": 1665073798
+    },
+    {
+      "tag": "v0.11",
+      "hash": "fec13974836149c2b81cab8d4178dee7bfc56db1",
+      "time": 1660571177
+    },
+    {
+      "tag": "v0.10",
+      "hash": "d754444f4515f5c8163bc7f396c8bd7bb26fe6cc",
+      "time": 1655237152
+    },
+    {
+      "tag": "v0.9",
+      "hash": "97f23cd5fa89220912819fc5868c5162d222e72e",
+      "time": 1648674713
+    },
+    {
+      "tag": "v0.8",
+      "hash": "cf2719031765f8cad6a1b32c042c1f9393c24dd7",
+      "time": 1646298535
+    },
+    {
+      "tag": "v0.7",
+      "hash": "dba82b6c9c9a8982608f52955356a2df8efcaf9e",
+      "time": 1642505408
+    },
+    {
+      "tag": "v0.6",
+      "hash": "ea14823dafcbabd4ac5457b3f1311f2ed62a2d68",
+      "time": 1636037508
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "e0c9a10e0c2e3cb4c2d49613653c51b91d11e75b",
+      "time": 1627313695
+    },
+    {
+      "tag": "v0.5",
+      "hash": "e2c0141edc40002960303d95af79b30e6fdbffa4",
+      "time": 1627033333
+    },
+    {
+      "tag": "v0.4",
+      "hash": "5c58a19f4f50e207dcfbf34f4514cc7e88c709e5",
+      "time": 1623334817
+    },
+    {
+      "tag": "v0.3",
+      "hash": "44cafcfee339bed7ff7d014e9cb3111d0c46c733",
+      "time": 1620823410
+    },
+    {
+      "tag": "v0.2",
+      "hash": "ee85eb8e93ac33eb997fc51966c560d0a5373b8f",
+      "time": 1609848020
+    },
+    {
+      "tag": "v0.1",
+      "hash": "d67b12b65c67447d147a81d1c22601228a5e486e",
+      "time": 1606707482
+    }
+  ],
+  "tags": [
+    "peet-to-peer",
+    "communication",
+    "messaging",
+    "networking",
+    "cryptography",
+    "protocols"
+  ]
+}

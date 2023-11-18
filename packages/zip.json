@@ -1,0 +1,12 @@
+{
+  "name": "zip",
+  "url": "https://github.com/nim-lang/zip",
+  "method": "git",
+  "description": "A wrapper for the zip library",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/zip",
+  "tags": [
+    "wrapper",
+    "zip"
+  ]
+}

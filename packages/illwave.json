@@ -1,0 +1,11 @@
+{
+  "name": "illwave",
+  "url": "https://github.com/ansiwave/illwave",
+  "method": "git",
+  "description": "A cross-platform terminal UI library",
+  "license": "WTFPL",
+  "tags": [
+    "tui",
+    "terminal"
+  ]
+}

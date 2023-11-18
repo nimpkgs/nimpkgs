@@ -1,0 +1,13 @@
+{
+  "name": "rexpaint",
+  "url": "https://github.com/irskep/rexpaint_nim",
+  "method": "git",
+  "description": "REXPaint .xp parser",
+  "license": "MIT",
+  "web": "https://github.com/irskep/rexpaint_nim",
+  "tags": [
+    "rexpaint",
+    "roguelike",
+    "xp"
+  ]
+}

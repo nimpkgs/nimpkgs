@@ -1,0 +1,14 @@
+{
+  "name": "pape",
+  "url": "https://github.com/hdbg/pape",
+  "method": "git",
+  "description": "Pure Nim PE parsing library",
+  "license": "MIT",
+  "web": "https://github.com/hdbg/pape",
+  "tags": [
+    "windows",
+    "internal",
+    "pe",
+    "parser"
+  ]
+}

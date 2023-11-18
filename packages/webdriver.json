@@ -1,0 +1,26 @@
+{
+  "name": "webdriver",
+  "url": "https://github.com/dom96/webdriver",
+  "method": "git",
+  "description": "Implementation of the WebDriver w3c spec.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/webdriver",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "1400f3f1d867b7e8d128975cbcca7381b5969db9",
+      "time": 1508072746
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "879ba8aabcec2df03d8c3ed71dddc8f43ce62fe9",
+      "time": 1508071781
+    }
+  ],
+  "tags": [
+    "webdriver",
+    "selenium",
+    "library",
+    "firefox"
+  ]
+}

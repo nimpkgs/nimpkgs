@@ -1,0 +1,12 @@
+{
+  "name": "reactorfuse",
+  "url": "https://github.com/zielmicha/reactorfuse",
+  "method": "git",
+  "description": "Filesystem in userspace (FUSE) for Nim (for reactor.nim library)",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/reactorfuse",
+  "tags": [
+    "filesystem",
+    "fuse"
+  ]
+}

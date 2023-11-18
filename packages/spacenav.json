@@ -1,0 +1,18 @@
+{
+  "name": "spacenav",
+  "url": "https://github.com/nimious/spacenav.git",
+  "method": "git",
+  "description": "Bindings for libspnav, the free 3Dconnexion device driver",
+  "license": "MIT",
+  "web": "https://github.com/nimious/spacenav",
+  "tags": [
+    "binding",
+    "3dx",
+    "3dconnexion",
+    "libspnav",
+    "spacenav",
+    "spacemouse",
+    "spacepilot",
+    "spacenavigator"
+  ]
+}

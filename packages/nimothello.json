@@ -1,0 +1,22 @@
+{
+  "name": "nimothello",
+  "url": "https://github.com/jiro4989/nimothello",
+  "method": "git",
+  "description": "A teminal othello (reversi) in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/nimothello",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "6e0e397ccc16c8a617d7b27d6996a2c38eb0d6b4",
+      "time": 1619933170
+    }
+  ],
+  "tags": [
+    "othello",
+    "reversi",
+    "terminal",
+    "game",
+    "command"
+  ]
+}

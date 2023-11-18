@@ -1,0 +1,55 @@
+{
+  "name": "mummy_utils",
+  "url": "https://github.com/ThomasTJdev/mummy_utils",
+  "method": "git",
+  "description": "Utility package for mummy multithreaded server",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/mummy_utils",
+  "versions": [
+    {
+      "tag": "v0.0.8",
+      "hash": "fe81e28b51726ec50d2ed95ed61914e74506c79b",
+      "time": 1705733717
+    },
+    {
+      "tag": "v0.0.7",
+      "hash": "5ccb0ab7317167107b45b2c449de608d1ecae989",
+      "time": 1704378116
+    },
+    {
+      "tag": "v0.0.6",
+      "hash": "0b27949d40a19497cd0c8218c03d8de1147010a1",
+      "time": 1704202959
+    },
+    {
+      "tag": "v0.0.5",
+      "hash": "42eb8eee702435cb08b5f8109747e5c76a3d266a",
+      "time": 1704201618
+    },
+    {
+      "tag": "v0.0.4",
+      "hash": "3042c4c43b3349b63c1252241d4f99964badcbba",
+      "time": 1704200110
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "f84d9e78ed4e3d6f9d7864c344b55f4ee9dd8dee",
+      "time": 1703577102
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "babc381e10775cbaa216b4d67066ec3a30ad71ae",
+      "time": 1703429125
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "899feb607a6f39d99f6062a6888cbce4918641a7",
+      "time": 1703329582
+    }
+  ],
+  "tags": [
+    "mummy",
+    "web",
+    "server"
+  ]
+}

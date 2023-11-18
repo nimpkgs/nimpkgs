@@ -1,0 +1,13 @@
+{
+  "name": "nimclutter",
+  "url": "https://github.com/KeepCoolWithCoolidge/nimclutter",
+  "method": "git",
+  "description": "Nim bindings for Clutter toolkit.",
+  "license": "LGPLv2.1",
+  "web": "https://github.com/KeepCoolWithCoolidge/nimclutter",
+  "tags": [
+    "clutter",
+    "gtk",
+    "gui"
+  ]
+}

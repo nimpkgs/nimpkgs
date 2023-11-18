@@ -1,0 +1,14 @@
+{
+  "name": "rethinkdb",
+  "url": "https://github.com/OpenSystemsLab/rethinkdb.nim",
+  "method": "git",
+  "description": "RethinkDB driver for Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/rethinkdb.nim",
+  "tags": [
+    "rethinkdb",
+    "driver",
+    "client",
+    "json"
+  ]
+}

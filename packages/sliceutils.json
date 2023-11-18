@@ -1,0 +1,45 @@
+{
+  "name": "sliceutils",
+  "url": "https://github.com/metagn/sliceutils",
+  "method": "git",
+  "description": "Utilities for and extensions to Slice/HSlice",
+  "license": "MIT",
+  "web": "https://metagn.github.io/sliceutils/sliceutils.html",
+  "versions": [
+    {
+      "tag": "v0.2.2",
+      "hash": "99f343b126bd0add62545f0bebc348388fcbffba",
+      "time": 1663317944
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "ab488576514edfbb5840f3926e64c54da9b87280",
+      "time": 1638011796
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "2bad393faf8004482f11a782c84275391ce13301",
+      "time": 1613554597
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "fe6e82cb3246dde52f10ecaae76517915dd55fc5",
+      "time": 1613308941
+    },
+    {
+      "tag": "v0.1.12, v0.1.0",
+      "hash": "cfe754ecca910747d2b2fd7e39e295e41efa9d58",
+      "time": 1613069181
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "b31ded9fa69c05deaf8deaf12a3d680213706e15",
+      "time": 1605808338
+    }
+  ],
+  "tags": [
+    "slice",
+    "index",
+    "iterator"
+  ]
+}

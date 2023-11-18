@@ -1,0 +1,60 @@
+{
+  "name": "cppstl",
+  "url": "https://github.com/BigEpsilon/nim-cppstl",
+  "method": "git",
+  "description": "Bindings for the C++ Standard Template Library (STL)",
+  "license": "MIT",
+  "web": "https://github.com/BigEpsilon/nim-cppstl",
+  "versions": [
+    {
+      "tag": "v0.6.2",
+      "hash": "914d41b7521221be05706e2317f85d6f77728d66",
+      "time": 1673535279
+    },
+    {
+      "tag": "v0.6.1",
+      "hash": "3ac25b4ca3df461b2b913a33899fd09fbc252a8b",
+      "time": 1669627410
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "3573506283b9bf8fbd94860a16224f50cff660c6",
+      "time": 1665998104
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "3774bb1e4a63b7dd4128d68c25c9b42f8e68f05e",
+      "time": 1633961991
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "8a99cb90e3403f063c68c155c38f489bac759d27",
+      "time": 1624871653
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "29777c7137efa9f13de01b058286d4e16c8ae104",
+      "time": 1624832516
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "49399f79c2a6bfed132f9fe71dea280e10dd4899",
+      "time": 1618219946
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "f07f5aab9e23850b08371af453e1d4f37a70da13",
+      "time": 1617886333
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "fd0f638d32ad48194054593ae08717b20f54adc9",
+      "time": 1617624742
+    }
+  ],
+  "tags": [
+    "c++",
+    "stl",
+    "bindings"
+  ]
+}

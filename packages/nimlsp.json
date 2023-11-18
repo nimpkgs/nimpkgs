@@ -1,0 +1,85 @@
+{
+  "name": "nimlsp",
+  "url": "https://github.com/PMunch/nimlsp",
+  "method": "git",
+  "description": "Language Server Protocol implementation for Nim",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nimlsp",
+  "versions": [
+    {
+      "tag": "v0.4.6",
+      "hash": "32fe84e8a5d6621ca207863bde780fec6cb2e46c",
+      "time": 1699535548
+    },
+    {
+      "tag": "v0.4.5",
+      "hash": "e3c3ea8d750bedc548f926af4dc764e6dde0de6f",
+      "time": 1699516351
+    },
+    {
+      "tag": "v0.4.4",
+      "hash": "bba60b785188592b8d9966e75ff7c9ef6a759b0f",
+      "time": 1672665279
+    },
+    {
+      "tag": "v0.4.3",
+      "hash": "a6f12557fe66938241b2b14fcd7f6705ba3f729c",
+      "time": 1672585179
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "54a4dfd0a4aa1316a34939d6d7ec3c3b90c43a71",
+      "time": 1672259335
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "fa1e975145faf8afdd88f00aa0a19aed29d9ade2",
+      "time": 1653312450
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "d94ad7f829cdc2457640aebdd07aae5297ff2e0e",
+      "time": 1643549438
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "c86cfd1613ecef3230a98a775eaad70735cdf27e",
+      "time": 1618580168
+    },
+    {
+      "tag": "v0.2.6",
+      "hash": "5281e79354b54b56deb64726d0a59856c33d45ef",
+      "time": 1606402347
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "8181c75b3c8df52b3f779a69077fd4f2360dfe49",
+      "time": 1589279712
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "23f95974db46aa2c2d69d62bc16d27b46ce2efc5",
+      "time": 1587115505
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "d31baee2349a5549fc8371b64fbc53380254da41",
+      "time": 1586845392
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "273a2326207b587086dbe26959cef4ed1222a7b7",
+      "time": 1586157777
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "127208176d8c37986f01f238ab629b653a6c52ba",
+      "time": 1573201052
+    }
+  ],
+  "tags": [
+    "lsp",
+    "nimsuggest",
+    "editor"
+  ]
+}

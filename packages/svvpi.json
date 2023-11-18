@@ -1,0 +1,48 @@
+{
+  "name": "svvpi",
+  "url": "https://github.com/kaushalmodi/nim-svvpi",
+  "method": "git",
+  "description": "Wrapper for SystemVerilog VPI headers vpi_user.h and sv_vpi_user.h",
+  "license": "MIT",
+  "web": "https://github.com/kaushalmodi/nim-svvpi",
+  "versions": [
+    {
+      "tag": "v0.0.6",
+      "hash": "c27f789ef06f477b0cd428f8e70c27782fe07641",
+      "time": 1643211425
+    },
+    {
+      "tag": "v0.0.5",
+      "hash": "6868848889f92c7ae4c892be4f3eaa2c6a18901c",
+      "time": 1621787965
+    },
+    {
+      "tag": "v0.0.4",
+      "hash": "af39efc9e7ee31bbf86e3c1467cbc1fcf7dce091",
+      "time": 1620966623
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "cfa59a800a0e62550350daef51cc747d7dac9cdc",
+      "time": 1620928974
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "b5b58be509df9f1ff10c73e4fa9a8e87efa1e726",
+      "time": 1620886837
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "727b5d589abb10f1e978722a0a1275332201a3f9",
+      "time": 1620411476
+    }
+  ],
+  "tags": [
+    "verilog",
+    "systemverilog",
+    "pli",
+    "vpi",
+    "1800-2017",
+    "1364-2005"
+  ]
+}

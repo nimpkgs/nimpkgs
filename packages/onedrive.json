@@ -1,0 +1,12 @@
+{
+  "name": "onedrive",
+  "url": "https://github.com/ThomasTJdev/nim_onedrive",
+  "method": "git",
+  "description": "Get information on files and folders in OneDrive",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_onedrive",
+  "tags": [
+    "onedrive",
+    "cloud"
+  ]
+}

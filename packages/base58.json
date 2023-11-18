@@ -1,0 +1,28 @@
+{
+  "name": "base58",
+  "url": "https://git.sr.ht/~ehmry/nim_base58",
+  "method": "git",
+  "description": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
+  "license": "MIT",
+  "web": "https://git.sr.ht/~ehmry/nim_base58",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "47a33960bd88a4bda399c406e33da2b4951d092a",
+      "time": 1507910114
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "ad87cea813d7445e26c7f8453ae27e3a3dd6dabc",
+      "time": 1507841447
+    }
+  ],
+  "tags": [
+    "base58",
+    "bitcoin",
+    "cryptonote",
+    "monero",
+    "encoding",
+    "library"
+  ]
+}

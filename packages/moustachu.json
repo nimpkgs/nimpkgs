@@ -1,0 +1,14 @@
+{
+  "name": "moustachu",
+  "url": "https://github.com/fenekku/moustachu.git",
+  "method": "git",
+  "description": "Mustache templating for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/fenekku/moustachu",
+  "tags": [
+    "web",
+    "html",
+    "template",
+    "mustache"
+  ]
+}

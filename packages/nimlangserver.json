@@ -1,0 +1,26 @@
+{
+  "name": "nimlangserver",
+  "url": "https://github.com/nim-lang/langserver",
+  "method": "git",
+  "description": "The Nim language server implementation (based on nimsuggest)",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/langserver",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "56c35448a6e979ad2b5734b3beb2f316d9a7214f",
+      "time": 1692261141
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "b055db726986b0162bd4f8ab5730153181cefba9",
+      "time": 1692252632
+    }
+  ],
+  "tags": [
+    "lsp",
+    "nimsuggest",
+    "editor",
+    "ide-tools"
+  ]
+}

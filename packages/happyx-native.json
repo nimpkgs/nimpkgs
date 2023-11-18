@@ -1,0 +1,25 @@
+{
+  "name": "happyx-native",
+  "url": "https://github.com/HapticX/happyx-native",
+  "method": "git",
+  "description": "Macro-oriented web-framework compiles to native written with ♥",
+  "license": "MIT",
+  "web": "https://github.com/HapticX/happyx-native",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "b33a92b28c738c29bdf34f3f68bfdfb0220cc39b",
+      "time": 1703823270
+    }
+  ],
+  "tags": [
+    "happyx",
+    "native",
+    "web",
+    "app",
+    "framework",
+    "frontend",
+    "backend",
+    "android"
+  ]
+}

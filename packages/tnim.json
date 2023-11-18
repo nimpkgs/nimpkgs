@@ -1,0 +1,23 @@
+{
+  "name": "tnim",
+  "url": "https://github.com/jlp765/tnim",
+  "method": "git",
+  "description": "tnim is a Nim REPL - an interactive sandbox for testing Nim code",
+  "license": "MIT",
+  "web": "https://github.com/jlp765/tnim",
+  "versions": [
+    {
+      "tag": "v2.0.6",
+      "hash": "980c5f6cacdf89ac31fecd890adbcc123918459a",
+      "time": 1608525003
+    }
+  ],
+  "tags": [
+    "REPL",
+    "sandbox",
+    "interactive",
+    "compiler",
+    "code",
+    "language"
+  ]
+}

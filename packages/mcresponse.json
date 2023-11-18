@@ -1,0 +1,37 @@
+{
+  "name": "mcresponse",
+  "url": "https://github.com/abbeymart/mcresponse-nim",
+  "method": "git",
+  "description": "mConnect Standardised Response Package",
+  "license": "MIT",
+  "web": "https://github.com/abbeymart/mcresponse-nim",
+  "versions": [
+    {
+      "tag": "v0.4.0",
+      "hash": "d2cbaf749929627b71d7bb910fa01b5db8b038ca",
+      "time": 1665877720
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "5fb6c3e257365483ebda19a0dc775b7146b48dbb",
+      "time": 1641678743
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "2f228ed3f9f03f117ee9332bbe01fd8996c44a73",
+      "time": 1636046196
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "f69ea9bbefa159fb895c92454ee69538b375ed5d",
+      "time": 1613061872
+    }
+  ],
+  "tags": [
+    "web",
+    "crud",
+    "rest",
+    "api",
+    "response"
+  ]
+}

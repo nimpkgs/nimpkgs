@@ -1,0 +1,25 @@
+{
+  "name": "linuxfb",
+  "url": "https://github.com/luked99/linuxfb.nim",
+  "method": "git",
+  "description": "Wrapper around the Linux framebuffer driver ioctl API",
+  "license": "MIT",
+  "web": "https://github.com/luked99/linuxfb.nim",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "ed5671d9aab99ca2c2fea74bea57b42e0a685c2d",
+      "time": 1483123065
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7fc5726617a104a93ee87ef89dfff5ea13a7f869",
+      "time": 1482871084
+    }
+  ],
+  "tags": [
+    "wrapper",
+    "graphics",
+    "linux"
+  ]
+}

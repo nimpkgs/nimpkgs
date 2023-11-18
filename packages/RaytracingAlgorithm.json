@@ -1,0 +1,45 @@
+{
+  "name": "RaytracingAlgorithm",
+  "url": "https://github.com/lorycontixd/RaytracingAlgorithm",
+  "method": "git",
+  "description": "RayTracing Algorith in Nim",
+  "license": "GPL-3.0",
+  "web": "https://github.com/lorycontixd/RaytracingAlgorithm",
+  "versions": [
+    {
+      "tag": "v2.1.1",
+      "hash": "23fd19006e24d7efec3363d76a55dd1d6272825f",
+      "time": 1657974669
+    },
+    {
+      "tag": "v2.1.0",
+      "hash": "f1f463ba648ffb50f0cf00591c57e3b865ac53c3",
+      "time": 1657369325
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "35d2949345caca52fb63fba8cb71162a7871848c",
+      "time": 1657362175
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "27952756f4a2dff65698e8db1063fe6ec37c28c4",
+      "time": 1655808946
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "14ee0ee891f0684904a7b19c4798d4f86ac4190e",
+      "time": 1648674524
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "bb91314cce1e783c94b105b8d559d9e5f2153314",
+      "time": 1648591537
+    }
+  ],
+  "tags": [
+    "raytracer",
+    "nim",
+    "library"
+  ]
+}

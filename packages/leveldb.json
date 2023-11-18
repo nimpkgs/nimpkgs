@@ -1,0 +1,13 @@
+{
+  "name": "leveldb",
+  "url": "https://github.com/zielmicha/leveldb.nim",
+  "method": "git",
+  "description": "LevelDB bindings",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/leveldb.nim",
+  "doc": "https://zielmicha.github.io/leveldb.nim/",
+  "tags": [
+    "leveldb",
+    "database"
+  ]
+}

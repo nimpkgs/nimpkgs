@@ -1,0 +1,29 @@
+{
+  "name": "statictea",
+  "url": "https://github.com/flenniken/statictea",
+  "method": "git",
+  "description": "A template processor and language.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/statictea",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "c4d02c79382511ff9e0d70474abdc39c8b320d38",
+      "time": 1704052830
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "6100acaef6060b96ca14911e68479e1bca356488",
+      "time": 1685133897
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "5dc4edee0643f2e0d68a63fa876dc35dade31fb0",
+      "time": 1668897411
+    }
+  ],
+  "tags": [
+    "template system",
+    "language"
+  ]
+}

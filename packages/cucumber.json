@@ -1,0 +1,60 @@
+{
+  "name": "cucumber",
+  "url": "https://github.com/shaunc/cucumber_nim",
+  "method": "git",
+  "description": "implements the cucumber BDD framework in the nim language",
+  "license": "MIT",
+  "web": "https://github.com/shaunc/cucumber_nim",
+  "versions": [
+    {
+      "tag": "v0.0.11",
+      "hash": "ced60f5dceef4c6da7b077997068a8c9bc5ad6db",
+      "time": 1482827221
+    },
+    {
+      "tag": "v0.0.10",
+      "hash": "5cceeb04b1741b220d45984c8f3facad159fb4cd",
+      "time": 1482822968
+    },
+    {
+      "tag": "v0.0.9",
+      "hash": "54f36a1ed5da8987486fbda40a7c0d404f2227f3",
+      "time": 1464835481
+    },
+    {
+      "tag": "v0.0.8",
+      "hash": "0ef999bde3b2ab00ebfebcbbc8d973edcdb78b36",
+      "time": 1462252364
+    },
+    {
+      "tag": "v0.0.7",
+      "hash": "b1601a795dbf8ea0d0b5d96bf5b6a1cd90271327",
+      "time": 1461890259
+    },
+    {
+      "tag": "v0.0.6",
+      "hash": "908bebe79429c3b2ddd45d5c83be684e59ba1d9e",
+      "time": 1461541410
+    },
+    {
+      "tag": "v0.0.4",
+      "hash": "85c719e55c14a235bc64807cd395d09e13c76657",
+      "time": 1461528537
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "8d873665213423c59bcf96de1abfbfee37898267",
+      "time": 1461426064
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "63fc3fe940f34be51967d18bf924990e63da1990",
+      "time": 1461390921
+    }
+  ],
+  "tags": [
+    "unit-testing",
+    "cucumber",
+    "bdd"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "nulid",
+  "url": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
+  "method": "git",
+  "description": "A ULID implementation in Nim!",
+  "license": "CC0",
+  "web": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
+  "doc": "https://yu-vitaqua-fer-chronos.github.io/NULID/",
+  "versions": [
+    {
+      "tag": "v1.3.0",
+      "hash": "8c3165a000e9ee1fd1489b5746b2c647c25d0776",
+      "time": 1706219604
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "8ce252be13e9e5aa0359ac9250c1e92a9d7caae1",
+      "time": 1698875583
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "3c521458340a6e2321f6c8f537dc698e60715ffc",
+      "time": 1698616568
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "534ba1c2f5ee81744d1f18fea65c937f08dc39fe",
+      "time": 1698325981
+    },
+    {
+      "tag": "v0.2.5",
+      "hash": "57daeacda653edbcd2f23bb689666fdcaabfda4b",
+      "time": 1697400702
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "924c3851543f21bdf9717dd2641c351b0d38d85c",
+      "time": 1697148884
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "0007fd249e5ca2d2b4b74d0da07041bc242a60c0",
+      "time": 1696929143
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "4ed2d4aab32ccb9c0061476e2392fe52e53edf9b",
+      "time": 1696719513
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "7e5474c575305a69e22299d1a0373658b66e25c8",
+      "time": 1693713163
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "37420ad40673a2d8a391901ec361c5dae7bf6cda",
+      "time": 1693706851
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "607411d40a6680ee8fa8aac1456bff8b1cd98cdd",
+      "time": 1693622785
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "f29c1a4678c79ef50cedba4b27f3515685342e08",
+      "time": 1693613224
+    }
+  ],
+  "tags": [
+    "library",
+    "id",
+    "ulid",
+    "uuid",
+    "guid"
+  ]
+}

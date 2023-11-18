@@ -1,0 +1,14 @@
+{
+  "name": "blake2",
+  "url": "https://github.com/narimiran/blake2",
+  "method": "git",
+  "description": "blake2 - cryptographic hash function",
+  "license": "CC0",
+  "web": "https://github.com/narimiran/blake2",
+  "tags": [
+    "crypto",
+    "cryptography",
+    "hash",
+    "security"
+  ]
+}

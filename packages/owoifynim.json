@@ -1,0 +1,23 @@
+{
+  "name": "owoifynim",
+  "url": "https://github.com/deadshot465/owoifynim",
+  "method": "git",
+  "description": "Turning your worst nightmare into a Nim package. This is a Nim port of mohan-cao's owoify-js, which will help you turn any string into nonsensical babyspeak similar to LeafySweet's infamous Chrome extension.",
+  "license": "MIT",
+  "web": "https://github.com/deadshot465/owoifynim",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "8c6ba7f607d2fc08bbce82c073da020475b33525",
+      "time": 1701719675
+    }
+  ],
+  "tags": [
+    "fun",
+    "nonsense",
+    "curse",
+    "baby",
+    "owoify",
+    "babyspeak"
+  ]
+}

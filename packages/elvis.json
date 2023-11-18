@@ -1,0 +1,40 @@
+{
+  "name": "elvis",
+  "url": "https://github.com/mattaylor/elvis",
+  "method": "git",
+  "description": "The elvis package implements a 'truthy', 'ternary' and a 'coalesce' operator to Nim as syntactic sugar for working with conditional expressions",
+  "license": "MIT",
+  "web": "https://github.com/mattaylor/elvis",
+  "versions": [
+    {
+      "tag": "v0.5.0",
+      "hash": "f0632e830c264ccd2e8489596db9b29fd5d1cd67",
+      "time": 1642432724
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "a775fdfdf0ba10c38b08d35e8c4b95ddb0dd755d",
+      "time": 1642288742
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "c986971a1bbb88412a61c0aaf65f0d965d5f50a7",
+      "time": 1642209525
+    }
+  ],
+  "tags": [
+    "operator",
+    "elvis",
+    "ternary",
+    "template",
+    "truthy",
+    "falsy",
+    "exception",
+    "none",
+    "null",
+    "nil",
+    "0",
+    "NaN",
+    "coalesce"
+  ]
+}

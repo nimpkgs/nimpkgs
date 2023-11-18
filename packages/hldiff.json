@@ -1,0 +1,66 @@
+{
+  "name": "hldiff",
+  "url": "https://github.com/c-blake/hldiff",
+  "method": "git",
+  "description": "A highlighter for diff -u-like output & port of Python difflib",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/hldiff",
+  "versions": [
+    {
+      "tag": "v0.8.1",
+      "hash": "fde4b231457e8a32bc2b929e8cd8106d65a5c6a9",
+      "time": 1673802685
+    },
+    {
+      "tag": "v0.8",
+      "hash": "25da67ecee78723c0ccb944f2d8bcc0ad8b2e6f0",
+      "time": 1670528464
+    },
+    {
+      "tag": "v0.7",
+      "hash": "51896c3489c9ddece5659d81fee4cffcd1a9f5f6",
+      "time": 1620138237
+    },
+    {
+      "tag": "v0.6",
+      "hash": "ef81ba23b9ae4d0a142fd09bffee9f4a9368c07c",
+      "time": 1619100756
+    },
+    {
+      "tag": "v0.5",
+      "hash": "c19e8dccc2386780886ce9c4e4dec443530f7f19",
+      "time": 1610620384
+    },
+    {
+      "tag": "v0.4",
+      "hash": "eeb39efc0ed9392e64b687f35a9da4a4d3cd36a6",
+      "time": 1610566765
+    },
+    {
+      "tag": "v0.3",
+      "hash": "861687bf120bce20ea983214dabc63df5c3f51e4",
+      "time": 1598552733
+    },
+    {
+      "tag": "v0.2",
+      "hash": "c63509f7c9e940b0e751fa6a0d5a9b8b9cc5cec1",
+      "time": 1598229298
+    },
+    {
+      "tag": "v0.1",
+      "hash": "74d8ef7812e158331b2c2b2c9443f7da9cb862fa",
+      "time": 1594643088
+    }
+  ],
+  "tags": [
+    "difflib",
+    "diff",
+    "terminal",
+    "text",
+    "color",
+    "colors",
+    "colorize",
+    "highlight",
+    "highlighting"
+  ]
+}

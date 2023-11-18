@@ -1,0 +1,27 @@
+{
+  "name": "libp2p",
+  "url": "https://github.com/status-im/nim-libp2p",
+  "method": "git",
+  "description": "libp2p implementation in Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-libp2p",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "41649f099979e0320a46b013744e5c3d2b6eb9c7",
+      "time": 1686049549
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "a3e9d1ed80c048cd5abc839cbe0863cefcedc702",
+      "time": 1667132284
+    }
+  ],
+  "tags": [
+    "library",
+    "networking",
+    "libp2p",
+    "ipfs",
+    "ethereum"
+  ]
+}

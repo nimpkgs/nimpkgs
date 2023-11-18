@@ -1,0 +1,12 @@
+{
+  "name": "picohttpparser",
+  "url": "https://github.com/philip-wernersbach/nim-picohttpparser",
+  "method": "git",
+  "description": "Bindings for picohttpparser.",
+  "license": "MIT",
+  "web": "https://github.com/philip-wernersbach/nim-picohttpparser",
+  "tags": [
+    "web",
+    "http"
+  ]
+}

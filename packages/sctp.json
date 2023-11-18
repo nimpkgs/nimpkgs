@@ -1,0 +1,13 @@
+{
+  "name": "sctp",
+  "url": "https://github.com/metacontainer/sctp.nim",
+  "method": "git",
+  "description": "Userspace SCTP bindings",
+  "license": "BSD",
+  "web": "https://github.com/metacontainer/sctp.nim",
+  "tags": [
+    "sctp",
+    "networking",
+    "userspace"
+  ]
+}

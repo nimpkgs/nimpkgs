@@ -1,0 +1,24 @@
+{
+  "name": "about",
+  "url": "https://github.com/aleandros/about",
+  "method": "git",
+  "description": "Executable for finding information about programs in PATH",
+  "license": "MIT",
+  "web": "https://github.com/aleandros/about",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "6733b1d01810a91540981ee3f11a369ffd6f8c96",
+      "time": 1555213243
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "517f66afc1621334c7c701b69c753835c5c7ceb9",
+      "time": 1525996396
+    }
+  ],
+  "tags": [
+    "cli",
+    "tool"
+  ]
+}

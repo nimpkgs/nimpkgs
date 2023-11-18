@@ -1,0 +1,19 @@
+{
+  "name": "nimcuda",
+  "url": "https://github.com/andreaferretti/nimcuda",
+  "method": "git",
+  "description": "CUDA bindings",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/nimcuda",
+  "versions": [
+    {
+      "tag": "v0.1.9",
+      "hash": "5c3cf233726549b63266f6dba14788f30e0405b6",
+      "time": 1688463205
+    }
+  ],
+  "tags": [
+    "CUDA",
+    "GPU"
+  ]
+}

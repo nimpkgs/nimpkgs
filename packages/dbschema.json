@@ -1,0 +1,20 @@
+{
+  "name": "dbschema",
+  "url": "https://github.com/vegansk/dbschema",
+  "method": "git",
+  "description": "Database schema migration library for Nim language.",
+  "license": "MIT",
+  "web": "https://github.com/vegansk/dbschema",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "b951649846b503c9b6de725e6995c6805770f248",
+      "time": 1510722964
+    }
+  ],
+  "tags": [
+    "library",
+    "database",
+    "db"
+  ]
+}

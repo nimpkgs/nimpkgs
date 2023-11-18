@@ -1,0 +1,14 @@
+{
+  "name": "delaunay",
+  "url": "https://github.com/Nycto/DelaunayNim",
+  "method": "git",
+  "description": "2D Delaunay triangulations",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/DelaunayNim",
+  "tags": [
+    "delaunay",
+    "library",
+    "algorithms",
+    "graph"
+  ]
+}

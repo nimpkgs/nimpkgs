@@ -1,0 +1,24 @@
+{
+  "name": "htmlunescape",
+  "url": "https://github.com/AmanoTeam/htmlunescape",
+  "method": "git",
+  "description": "Port of Python's html.escape and html.unescape to Nim",
+  "license": "LGPL-3.0",
+  "web": "https://github.com/AmanoTeam/htmlunescape",
+  "versions": [
+    {
+      "tag": "v0.2",
+      "hash": "d40f46cd0afdffcdd6fd3902e31d2748023a88d6",
+      "time": 1638125622
+    },
+    {
+      "tag": "v0.1",
+      "hash": "229cb5956814a1970c3cf9bb44ba45d64efdafd9",
+      "time": 1637786929
+    }
+  ],
+  "tags": [
+    "html",
+    "text"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "niledb",
+  "url": "https://github.com/JeffersonLab/niledb.git",
+  "method": "git",
+  "description": "Key/Value storage into a fast file-hash",
+  "license": "MIT",
+  "web": "https://github.com/JeffersonLab/niledb.git",
+  "versions": [
+    {
+      "tag": "v1.3.1",
+      "hash": "03f683dc257aa5fa7accece7910d80541b2dde29",
+      "time": 1609368470
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "b52a80674def188dcde2e559890b310514f5dd51",
+      "time": 1608700448
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "b900f141ee8112014648deaaffe2f1042784284a",
+      "time": 1537979015
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "6feacf1a5e48cdc34caac6a4c2c6e88a398eeb9e",
+      "time": 1506714075
+    }
+  ],
+  "tags": [
+    "db"
+  ]
+}

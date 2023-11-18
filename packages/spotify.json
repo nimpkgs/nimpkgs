@@ -1,0 +1,23 @@
+{
+  "name": "spotify",
+  "url": "https://github.com/CORDEA/spotify",
+  "method": "git",
+  "description": "A Nim wrapper for the Spotify Web API",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/CORDEA/spotify",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "6daf963eed9e904b6c56a077fc97ec3560ad88fd",
+      "time": 1588995140
+    },
+    {
+      "tag": "v0.1",
+      "hash": "e8e5fbf0cb914725edd7f46934d3f343cadcd73e",
+      "time": 1537604179
+    }
+  ],
+  "tags": [
+    "spotify"
+  ]
+}

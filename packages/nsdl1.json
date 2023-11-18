@@ -1,0 +1,24 @@
+{
+  "name": "nsdl1",
+  "url": "https://github.com/amnr/nsdl1",
+  "method": "git",
+  "description": "High level SDL 1.2 shared library wrapper",
+  "license": "NCSA",
+  "web": "https://github.com/amnr/nsdl1",
+  "versions": [
+    {
+      "tag": "v0.9.3",
+      "hash": "66d45fffffd24a74fec9e04ef77b9395ee2bb8a2",
+      "time": 1706204848
+    }
+  ],
+  "tags": [
+    "sdl",
+    "library",
+    "wrapper",
+    "gui",
+    "graphics",
+    "audio",
+    "video"
+  ]
+}

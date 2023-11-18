@@ -1,0 +1,14 @@
+{
+  "name": "seccomp",
+  "url": "https://github.com/FedericoCeratto/nim-seccomp",
+  "method": "git",
+  "description": "Linux Seccomp sandbox library",
+  "license": "LGPLv2.1",
+  "web": "https://github.com/FedericoCeratto/nim-seccomp",
+  "tags": [
+    "linux",
+    "security",
+    "sandbox",
+    "seccomp"
+  ]
+}

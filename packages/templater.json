@@ -1,0 +1,19 @@
+{
+  "name": "templater",
+  "url": "https://github.com/Wraith29/templater",
+  "method": "git",
+  "description": "HTML Template Engine",
+  "license": "MIT",
+  "doc": "https://wraith29.github.io/templater/templater.html",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "92cea626f42992136242f58e476335f3be277c6d",
+      "time": 1706093266
+    }
+  ],
+  "tags": [
+    "web",
+    "template engines"
+  ]
+}

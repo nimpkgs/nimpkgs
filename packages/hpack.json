@@ -1,0 +1,29 @@
+{
+  "name": "hpack",
+  "url": "https://github.com/nitely/nim-hpack",
+  "method": "git",
+  "description": "HPACK (Header Compression for HTTP/2)",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-hpack",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "afd0f2911e1d268c3f45bf24f024dd1c2ff765e0",
+      "time": 1561929433
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "d7c25ae5e049b3619659996b96da0476c11ee23a",
+      "time": 1527811684
+    },
+    {
+      "tag": "v0.1",
+      "hash": "d436f9225ec1752235cd7975d4fc761dacdd475b",
+      "time": 1527696774
+    }
+  ],
+  "tags": [
+    "http2",
+    "hpack"
+  ]
+}

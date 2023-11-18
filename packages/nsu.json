@@ -1,0 +1,26 @@
+{
+  "name": "nsu",
+  "url": "https://github.com/Senketsu/nsu",
+  "method": "git",
+  "description": "Simple screenshot library & cli tool made in Nim",
+  "license": "MIT",
+  "web": "https://github.com/Senketsu/nsu",
+  "versions": [
+    {
+      "tag": "v0.1.5",
+      "hash": "95369e306ed1e70ba3f75dde6b145bd910a86b98",
+      "time": 1562544463
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "75ab8f2458a0295564899909305183039a932173",
+      "time": 1522679259
+    }
+  ],
+  "tags": [
+    "library",
+    "tool",
+    "utility",
+    "screenshot"
+  ]
+}

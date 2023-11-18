@@ -1,0 +1,13 @@
+{
+  "name": "dekao",
+  "url": "https://github.com/ajusa/dekao",
+  "method": "git",
+  "description": "Write HTML templates easily",
+  "license": "MIT",
+  "web": "https://github.com/ajusa/dekao",
+  "tags": [
+    "html",
+    "template",
+    "htmx"
+  ]
+}

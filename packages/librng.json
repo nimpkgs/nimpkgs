@@ -1,0 +1,15 @@
+{
+  "name": "librng",
+  "url": "https://github.com/xTrayambak/librng",
+  "method": "git",
+  "description": "RNG for dummies in Nim",
+  "license": "MIT",
+  "web": "https://github.com/xTrayambak/librng",
+  "tags": [
+    "library",
+    "rng",
+    "maths",
+    "math",
+    "random"
+  ]
+}

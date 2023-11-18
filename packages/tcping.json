@@ -1,0 +1,20 @@
+{
+  "name": "tcping",
+  "url": "https://github.com/pdrb/tcping",
+  "method": "git",
+  "description": "Ping hosts using tcp packets",
+  "license": "MIT",
+  "web": "https://github.com/pdrb/tcping",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "411f7678da744b68b963dea93d8ce7dd8bb7e46d",
+      "time": 1569455068
+    }
+  ],
+  "tags": [
+    "ping,",
+    "tcp,",
+    "tcping"
+  ]
+}

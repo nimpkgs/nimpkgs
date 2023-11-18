@@ -1,0 +1,26 @@
+{
+  "name": "vmath",
+  "url": "https://github.com/treeform/vmath",
+  "method": "git",
+  "description": "Collection of math routines for 2d and 3d graphics.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/vmath",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "9602785efe8212c73bd5f69c5eadb7436f6c985c",
+      "time": 1583643414
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "b84d23be05ff0824d99f61897c7325a3e74f2360",
+      "time": 1574040936
+    }
+  ],
+  "tags": [
+    "math",
+    "graphics",
+    "2d",
+    "3d"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "suber",
+  "url": "https://github.com/olliNiinivaara/Suber",
+  "method": "git",
+  "description": "Pub/Sub engine",
+  "license": "MIT",
+  "web": "https://github.com/olliNiinivaara/Suber",
+  "tags": [
+    "publish",
+    "subscribe"
+  ]
+}

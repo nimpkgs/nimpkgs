@@ -1,0 +1,12 @@
+{
+  "name": "anime",
+  "url": "https://github.com/ethosa/anime",
+  "method": "git",
+  "description": "The Nim wrapper for tracemoe.",
+  "license": "AGPLv3",
+  "web": "https://github.com/ethosa/anime",
+  "tags": [
+    "tracemoe",
+    "framework"
+  ]
+}

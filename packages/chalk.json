@@ -1,0 +1,51 @@
+{
+  "name": "chalk",
+  "url": "https://github.com/crashappsec/chalk",
+  "method": "git",
+  "description": "Software artifact metadata to make it easy to tie deployments to source code and collect metadata.",
+  "license": "GPLv3",
+  "web": "https://github.com/crashappsec/chalk",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "646e9886f2ca74bc0c8b5ebd94d68f7b01d7d0d2",
+      "time": 1706028493
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "bbe9915be48016f6b9362ada796fbc71efcc4103",
+      "time": 1705371029
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "781dd00f0062e1d3a39d831c8db39d2967f84074",
+      "time": 1698680322
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "bb1d5b0e10ffc692eb1e6945316a02a5e5f826eb",
+      "time": 1698255175
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "403ff162b0da40a36b828d39b096599fe1c16d4d",
+      "time": 1697777084
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "f9b8e22d63018f2197b46af018f4eb141a3f8577",
+      "time": 1697744810
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "ab8ab0ea27305525483bc073b5775a151c7bc39a",
+      "time": 1695744655
+    }
+  ],
+  "tags": [
+    "observability",
+    "security",
+    "docker",
+    "sbom"
+  ]
+}

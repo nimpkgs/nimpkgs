@@ -1,0 +1,26 @@
+{
+  "name": "nimspice",
+  "url": "https://github.com/CodeDoes/nimspice",
+  "method": "git",
+  "description": "A bunch of macros. sugar if you would",
+  "license": "MIT",
+  "web": "https://github.com/CodeDoes/nimspice",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "b3bf1985d6b97e4b762927679ad6dc0687d074f4",
+      "time": 1531619905
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "d9281173d24e8d04a8fdf681f8262e784989f6a8",
+      "time": 1531541555
+    }
+  ],
+  "tags": [
+    "macro",
+    "template",
+    "class",
+    "collection"
+  ]
+}

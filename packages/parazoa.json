@@ -1,0 +1,11 @@
+{
+  "name": "parazoa",
+  "url": "https://github.com/paranim/parazoa",
+  "method": "git",
+  "description": "Immutable, persistent data structures",
+  "license": "Public Domain",
+  "tags": [
+    "immutable",
+    "persistent"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wilayahindonesia",
+  "url": "https://github.com/nekoding/wilayahindonesia-nim",
+  "method": "git",
+  "description": "Library data wilayah indonesia",
+  "license": "MIT",
+  "web": "https://github.com/nekoding/wilayahindonesia-nim",
+  "tags": [
+    "library",
+    "api",
+    "wrapper"
+  ]
+}

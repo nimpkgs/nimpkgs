@@ -1,0 +1,27 @@
+{
+  "name": "cap10",
+  "url": "https://github.com/crashappsec/cap10",
+  "method": "git",
+  "description": "A tool to capture and replay command line terminal sessions",
+  "license": "Apache-2.0",
+  "web": "https://github.com/crashappsec/cap10",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "fdedfad82d05cb9525e411747ab3358746a3db36",
+      "time": 1699210855
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "ab3cb7c6876fc2717bfd596046026b5b9a7af493",
+      "time": 1698855138
+    }
+  ],
+  "tags": [
+    "terminal",
+    "expect",
+    "pty",
+    "capture",
+    "replay"
+  ]
+}

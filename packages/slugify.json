@@ -1,0 +1,27 @@
+{
+  "name": "slugify",
+  "url": "https://github.com/lenniezelk/slugify",
+  "method": "git",
+  "description": "Convert strings to a slug. Can be used for URLs, file names, IDs etc.",
+  "license": "MIT",
+  "web": "https://github.com/lenniezelk/slugify",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "41deb11da228a41a33ae46cf07d5b94f50893ebe",
+      "time": 1619858105
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "d4337a87b4d9bf80ef2689016b7a29d57ee6a9db",
+      "time": 1619799088
+    }
+  ],
+  "tags": [
+    "slug",
+    "slugify",
+    "unicode",
+    "string",
+    "markdown"
+  ]
+}

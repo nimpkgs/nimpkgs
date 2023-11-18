@@ -1,0 +1,27 @@
+{
+  "name": "websocket",
+  "url": "https://github.com/niv/websocket.nim",
+  "method": "git",
+  "description": "websockets for nim",
+  "license": "MIT",
+  "web": "https://github.com/niv/websocket.nim",
+  "versions": [
+    {
+      "tag": "v0.5.2",
+      "hash": "405f49382fbd482901a3d72bd7775569ae433413",
+      "time": 1670145016
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "b889d2f8bdb81fd800fb203866cf4b1f7a31c451",
+      "time": 1660564112
+    }
+  ],
+  "tags": [
+    "http",
+    "websockets",
+    "async",
+    "client",
+    "server"
+  ]
+}

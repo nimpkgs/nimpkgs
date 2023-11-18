@@ -1,0 +1,26 @@
+{
+  "name": "tagger",
+  "url": "https://github.com/aruZeta/tagger",
+  "method": "git",
+  "description": "A library to generate xml and html tags",
+  "license": "MIT",
+  "web": "https://github.com/aruZeta/tagger",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "6a60c0570c61644bb142197374829e5146cf9deb",
+      "time": 1658264689
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "07b95ecbaef3ef4a36beb5fc07029962b71d97dc",
+      "time": 1658168509
+    }
+  ],
+  "tags": [
+    "html",
+    "xml",
+    "tags",
+    "library"
+  ]
+}

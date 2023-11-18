@@ -1,0 +1,75 @@
+{
+  "name": "timezones",
+  "url": "https://github.com/GULPF/timezones",
+  "method": "git",
+  "description": "Timezone library compatible with the standard library. ",
+  "license": "MIT",
+  "web": "https://github.com/GULPF/timezones",
+  "versions": [
+    {
+      "tag": "v0.5.4",
+      "hash": "dc6f615c372fc1c7294748b4e4bfa608cefac760",
+      "time": 1604432346
+    },
+    {
+      "tag": "v0.5.3",
+      "hash": "66901db958200fb0e016ca0c65f5666a118fe8e5",
+      "time": 1592661740
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "9ba9c41a71aabd5814d0924198c6c9ad936a935d",
+      "time": 1586463330
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "1d2d9a252d0a5ca808083fb293e2f19487e28a0b",
+      "time": 1567843350
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "0c5f270c81b798d16b4dc690bbfc0c22fcfa37ea",
+      "time": 1550221775
+    },
+    {
+      "tag": "v0.4.3",
+      "hash": "b6f7bd3c9031026fbf7c86d537976ca9cf0e4d84",
+      "time": 1541536797
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "e6049ff2856e132032a9a8c6b6c22a5fadc72788",
+      "time": 1541447788
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "b2ba944c6077f5b2734cbec5b63a12196d18c53c",
+      "time": 1541447169
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "74ec73f48573032e998ba72a4c44e10366acaaab",
+      "time": 1541430911
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "47dd22a56c07c8578107130823f687c6b64e020d",
+      "time": 1534528399
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "76465407f95deac82f2e50c9eaef52576dea82a0",
+      "time": 1525439806
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "77462ff81b3ddb396691d55bc092b35192f5e587",
+      "time": 1522756135
+    }
+  ],
+  "tags": [
+    "timezone",
+    "time",
+    "tzdata"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chacha20",
+  "url": "https://git.sr.ht/~ehmry/chacha20",
+  "method": "git",
+  "description": "ChaCha20 stream cipher",
+  "license": "Unlicense",
+  "web": "https://git.sr.ht/~ehmry/chacha20",
+  "tags": [
+    "crypto"
+  ]
+}

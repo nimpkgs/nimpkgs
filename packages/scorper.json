@@ -1,0 +1,220 @@
+{
+  "name": "scorper",
+  "url": "https://github.com/bung87/scorper",
+  "method": "git",
+  "description": "micro and elegant web framework",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/bung87/scorper",
+  "versions": [
+    {
+      "tag": "v1.1.13",
+      "hash": "b1d22dff52bc2bfaef539a327c97f87559160085",
+      "time": 1702756342
+    },
+    {
+      "tag": "v1.1.12",
+      "hash": "64469a4221ef97eceba055915ca0d69797916ff1",
+      "time": 1702223569
+    },
+    {
+      "tag": "v1.1.11",
+      "hash": "e755c5ae72fab0913e550434d10134cf56b661da",
+      "time": 1700799010
+    },
+    {
+      "tag": "v1.1.10",
+      "hash": "85e0ac755764320848902a16cfb38112ee5a9600",
+      "time": 1691814256
+    },
+    {
+      "tag": "v1.1.9",
+      "hash": "e516d8e0b3ae079e9f988160b9c7c089cd13f05a",
+      "time": 1691331824
+    },
+    {
+      "tag": "v1.1.8",
+      "hash": "e70a8e6912f8fd2bcc7f3e72be54089204d69444",
+      "time": 1686751341
+    },
+    {
+      "tag": "v1.1.7",
+      "hash": "08decb7c0ff252b16572c29d3b6981de4bef9ff7",
+      "time": 1686562775
+    },
+    {
+      "tag": "v1.1.6",
+      "hash": "bfe1f400eb614976e3c98182444f0f9c02cef174",
+      "time": 1686487513
+    },
+    {
+      "tag": "v1.1.5",
+      "hash": "813ef162cb8e92567a9400dad07438c9550edb96",
+      "time": 1686482134
+    },
+    {
+      "tag": "v1.1.4",
+      "hash": "ecdc67bbd00ebfe2a5d7d7287a416ba31d661f5b",
+      "time": 1685833133
+    },
+    {
+      "tag": "v1.1.3",
+      "hash": "82a678a9b590c50d148a68097c17adbbc25cfaee",
+      "time": 1685283874
+    },
+    {
+      "tag": "v1.1.2",
+      "hash": "d66beae576aacaaa48a7948de60149508fe2a4c8",
+      "time": 1684669736
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "37446a5161902cf284257aba90903b3ce1203f19",
+      "time": 1684481209
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "7f4107652aee15621de5c952a106fc453320537f",
+      "time": 1672841147
+    },
+    {
+      "tag": "v1.0.27",
+      "hash": "c0eef5d46201ee48ae75ede7c902f0f300db6561",
+      "time": 1662375301
+    },
+    {
+      "tag": "v1.0.26",
+      "hash": "a4364a58ba17b64765a24d6ba09470147c831862",
+      "time": 1646583422
+    },
+    {
+      "tag": "v1.0.25",
+      "hash": "62bdd412a3cc74e6436d39f5c1121d07502143e1",
+      "time": 1642162653
+    },
+    {
+      "tag": "v1.0.24",
+      "hash": "8e22995ac2bb9a6f489bbc742a5b03d22631a0a2",
+      "time": 1640407096
+    },
+    {
+      "tag": "v1.0.23",
+      "hash": "9b076ec0216044c9084b305fa66dca9f6e2870cd",
+      "time": 1635679253
+    },
+    {
+      "tag": "v1.0.22",
+      "hash": "b68d48545b2596d65b76f9e7ad80751d1a852fc2",
+      "time": 1635676603
+    },
+    {
+      "tag": "v1.0.21",
+      "hash": "5f7f6ec21fe301caa3f2449fd85b02a88651f1e4",
+      "time": 1626868269
+    },
+    {
+      "tag": "v1.0.20",
+      "hash": "e2c0dc5cba9b459f48d9589697c1449109213db8",
+      "time": 1626410811
+    },
+    {
+      "tag": "v1.0.19",
+      "hash": "cac5f43e41393725eaa132df5aa9a9af561d28ce",
+      "time": 1626193666
+    },
+    {
+      "tag": "v1.0.18",
+      "hash": "25316365c7f70ee782d6a9b61ade07fba503eac7",
+      "time": 1624026996
+    },
+    {
+      "tag": "v1.0.17",
+      "hash": "1c4096c495482d1841b13f98890625dfd9c73366",
+      "time": 1623628492
+    },
+    {
+      "tag": "v1.0.16",
+      "hash": "0d106da43e924c627508ae8b44ea1b0468b13cf0",
+      "time": 1623615658
+    },
+    {
+      "tag": "v1.0.15",
+      "hash": "9aee336a5fb6bea093ca5ea06a69a7dc57b0c56f",
+      "time": 1623387589
+    },
+    {
+      "tag": "v1.0.13",
+      "hash": "f339de8284d3ced9e63cb0fac7bdc2c3d6acdfed",
+      "time": 1622983941
+    },
+    {
+      "tag": "v1.0.12",
+      "hash": "1a324f2f913c4191ba2d698c291f43666e1176ea",
+      "time": 1622905153
+    },
+    {
+      "tag": "v1.0.11",
+      "hash": "56a7880fb43b27fa8e5cb6f8adcd412db2705dfc",
+      "time": 1622684572
+    },
+    {
+      "tag": "v1.0.10",
+      "hash": "0acb3508a5c457ef055c58873a1aa81709964666",
+      "time": 1622683417
+    },
+    {
+      "tag": "v1.0.9",
+      "hash": "605259f3c3b8ab7accfd12542d06ee488cfbfeda",
+      "time": 1622601202
+    },
+    {
+      "tag": "v1.0.8",
+      "hash": "99cf868a4d3da655699bed13e71043491077968e",
+      "time": 1622559191
+    },
+    {
+      "tag": "v1.0.7",
+      "hash": "f052b88553654f4ad5384f36cb86f7eba3148225",
+      "time": 1622288105
+    },
+    {
+      "tag": "v1.0.6",
+      "hash": "d80e2c5e8ad119b7b83cd27f06f07f42e831ed73",
+      "time": 1621935556
+    },
+    {
+      "tag": "v1.0.5",
+      "hash": "c50ce740814abba07b0d74029d18e42b3934b3c9",
+      "time": 1621748553
+    },
+    {
+      "tag": "v1.0.4",
+      "hash": "d974fc4fc6cc67eba4815976ad12870b23a88341",
+      "time": 1621666073
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "01d2af95419328097a121bdb44a362cfac20e421",
+      "time": 1617507232
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "8aa66cea7dca7b28f50d0c8531f0065c0702a821",
+      "time": 1617447988
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "b1790b00d214b3168176ca0a39bffe00df22a7f5",
+      "time": 1617439055
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "8bc79606e59d477ba0530009d210e6be9bb9f358",
+      "time": 1617383899
+    }
+  ],
+  "tags": [
+    "web",
+    "micro",
+    "framework"
+  ]
+}

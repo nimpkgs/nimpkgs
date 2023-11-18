@@ -1,0 +1,26 @@
+{
+  "name": "anycase",
+  "url": "https://github.com/lamartire/anycase",
+  "method": "git",
+  "description": "Convert strings to any case",
+  "license": "MIT",
+  "web": "https://github.com/lamartire/anycase",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "7f987b756d000fadba30c89e0c639427de7e0056",
+      "time": 1613551734
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "b9cb42fc9fe3fd48c78e02546ac7744a614e7c3b",
+      "time": 1576514162
+    }
+  ],
+  "tags": [
+    "camelcase",
+    "kebabcase",
+    "snakecase",
+    "case"
+  ]
+}

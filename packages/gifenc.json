@@ -1,0 +1,12 @@
+{
+  "name": "gifenc",
+  "url": "https://github.com/ftsf/gifenc",
+  "method": "git",
+  "description": "Gif Encoder",
+  "license": "Public Domain",
+  "web": "https://github.com/ftsf/gifenc",
+  "tags": [
+    "gif",
+    "encoder"
+  ]
+}

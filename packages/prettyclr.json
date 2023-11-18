@@ -1,0 +1,13 @@
+{
+  "name": "prettyclr",
+  "url": "https://github.com/prettybauble/prettyclr",
+  "method": "git",
+  "description": "Small library for working with colors",
+  "license": "MIT",
+  "web": "https://github.com/prettybauble/prettyclr",
+  "tags": [
+    "prettybauble",
+    "prettyclr",
+    "color"
+  ]
+}

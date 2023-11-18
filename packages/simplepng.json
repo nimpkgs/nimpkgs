@@ -1,0 +1,12 @@
+{
+  "name": "simplepng",
+  "url": "https://github.com/jrenner/nim-simplepng",
+  "method": "git",
+  "description": "high level simple way to write PNGs",
+  "license": "MIT",
+  "web": "https://github.com/jrenner/nim-simplepng",
+  "tags": [
+    "png",
+    "image"
+  ]
+}

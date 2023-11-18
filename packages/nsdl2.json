@@ -1,0 +1,30 @@
+{
+  "name": "nsdl2",
+  "url": "https://github.com/amnr/nsdl2",
+  "method": "git",
+  "description": "High level SDL 2.0 shared library wrapper",
+  "license": "NCSA OR MIT OR Zlib",
+  "web": "https://github.com/amnr/nsdl2",
+  "versions": [
+    {
+      "tag": "v0.9.4",
+      "hash": "3cdeef13bf1ad0b404fb5b100f31336767d1e65a",
+      "time": 1706437471
+    },
+    {
+      "tag": "v0.9.3",
+      "hash": "09acf457f20d44b308ff412b1b7a8a379a9bef88",
+      "time": 1706204950
+    }
+  ],
+  "tags": [
+    "sdl",
+    "sdl2",
+    "library",
+    "wrapper",
+    "gui",
+    "graphics",
+    "audio",
+    "video"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "biscuits",
+  "url": "https://github.com/achesak/nim-biscuits",
+  "method": "git",
+  "description": "better cookie handling",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-biscuits",
+  "tags": [
+    "cookie",
+    "persistence"
+  ]
+}

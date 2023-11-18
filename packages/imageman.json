@@ -1,0 +1,136 @@
+{
+  "name": "imageman",
+  "url": "https://github.com/SolitudeSF/imageman",
+  "method": "git",
+  "description": "Image manipulation library",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/imageman",
+  "versions": [
+    {
+      "tag": "v0.8.2",
+      "hash": "fe9cf9f955587278203f5803bfb6872215af4741",
+      "time": 1615758360
+    },
+    {
+      "tag": "v0.8.1",
+      "hash": "c9105365971c296318b055b82ac454ae0312f46d",
+      "time": 1613059849
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "4ad6144aaa418186b5e622342883ad8d77b8774a",
+      "time": 1613048528
+    },
+    {
+      "tag": "v0.7.6",
+      "hash": "3eb6c80ec788df25eb96677777424b63f6053f4c",
+      "time": 1607453639
+    },
+    {
+      "tag": "v0.7.5",
+      "hash": "79156dd881ec687fb3d447d4419e6019cd21038e",
+      "time": 1604586080
+    },
+    {
+      "tag": "v0.7.4",
+      "hash": "101d547738a29757c1163f3962265e548e90b869",
+      "time": 1589366319
+    },
+    {
+      "tag": "v0.7.3",
+      "hash": "d39d08eeb66c8d310d343ad82de992064da05218",
+      "time": 1589302534
+    },
+    {
+      "tag": "v0.7.2",
+      "hash": "1d05ff41f73bcec9d3b80edaadcf1e8ee32b0236",
+      "time": 1589301527
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "30f456a35b5be6da76bac31a2df0c2f2549bf15d",
+      "time": 1587588154
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "e147d22d7fcea9d3f1212c03112df1edadfa191c",
+      "time": 1587564862
+    },
+    {
+      "tag": "v0.6.5",
+      "hash": "9d47aadd385dc0974104e7575a1e942de52350c2",
+      "time": 1585981097
+    },
+    {
+      "tag": "v0.6.4",
+      "hash": "2766fc22d8ebb921c8b431dcd0bebd29c4e131e5",
+      "time": 1583689070
+    },
+    {
+      "tag": "v0.6.3",
+      "hash": "c14b991c931512f581183fc52230bc3d98e18e91",
+      "time": 1564862715
+    },
+    {
+      "tag": "v0.6.2",
+      "hash": "de8bd15c0a418eef2082904ea83da4d5dd6067c5",
+      "time": 1564860145
+    },
+    {
+      "tag": "v0.6.1",
+      "hash": "e7a8ec4a2ff0659a4831d11d34d3db9842460453",
+      "time": 1564583790
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "ea248dc8c634f12b7f8ae15a9fa695e8b69c0b00",
+      "time": 1564518724
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "243903157d9590dae3b8b65f751e0ffa92ab518f",
+      "time": 1564231600
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "dbbf0615f158357bc6df6eff0343eca1e9d6f233",
+      "time": 1563124155
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "1e496febcc3f8c15cb91cee35fab84032e997542",
+      "time": 1561825053
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "f078bb8492ee75404b98103dd02c508a4da3412a",
+      "time": 1561741806
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "04ef8661a984343c350520d7b37bc4e2f9652807",
+      "time": 1561116196
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "3069df1cdaf323634a03db3e9ed2eca832b35fcb",
+      "time": 1561099211
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "6d4a493b56f6900888fc76f95e50f768ca7aea32",
+      "time": 1560520917
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "b87f866aecef9f018b339bd39f0297077e70db47",
+      "time": 1556142444
+    }
+  ],
+  "tags": [
+    "image",
+    "graphics",
+    "processing",
+    "manipulation"
+  ]
+}

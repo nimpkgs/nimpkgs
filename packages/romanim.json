@@ -1,0 +1,13 @@
+{
+  "name": "romanim",
+  "url": "https://github.com/bichanna/romanim",
+  "method": "git",
+  "description": "Converts Roman numerals to what you understand without a blink",
+  "license": "MIT",
+  "web": "https://github.com/bichanna/romanim#romanim",
+  "tags": [
+    "roman-numerals",
+    "library",
+    "converter"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "sysinfo",
+  "url": "https://github.com/treeform/sysinfo",
+  "method": "git",
+  "description": "Cross platform system information.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/sysinfo",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "1b72980e1f576934fd731fc9fc017e231cfac796",
+      "time": 1579412351
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "4ef135010b0a837ddb321cc39dbd3864d931bb9c",
+      "time": 1557869053
+    }
+  ],
+  "tags": [
+    "system",
+    "cpu",
+    "gpu",
+    "net"
+  ]
+}

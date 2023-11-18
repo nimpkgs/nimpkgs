@@ -1,0 +1,13 @@
+{
+  "name": "nre",
+  "url": "https://github.com/flaviut/nre.git",
+  "method": "git",
+  "description": "A better regular expression library",
+  "license": "MIT",
+  "web": "https://github.com/flaviut/nre",
+  "tags": [
+    "library",
+    "pcre",
+    "regex"
+  ]
+}

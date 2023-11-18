@@ -1,0 +1,23 @@
+{
+  "name": "interface_implements",
+  "url": "https://github.com/itsumura-h/nim-interface-implements",
+  "method": "git",
+  "description": "implements macro creates toInterface proc.",
+  "license": "MIT",
+  "web": "https://github.com/itsumura-h/nim-interface-implements",
+  "versions": [
+    {
+      "tag": "v0.2.4",
+      "hash": "3e15837856118e8c9ee93a3bd9a877afbb2d457a",
+      "time": 1706067242
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "739afb8dc69653d7b7d31b99724aa28e76a7df79",
+      "time": 1630771385
+    }
+  ],
+  "tags": [
+    "interface"
+  ]
+}

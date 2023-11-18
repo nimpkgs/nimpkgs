@@ -1,0 +1,14 @@
+{
+  "name": "microasynchttpserver",
+  "url": "https://github.com/philip-wernersbach/microasynchttpserver",
+  "method": "git",
+  "description": "A thin asynchronous HTTP server library, API compatible with Nim's built-in asynchttpserver.",
+  "license": "MIT",
+  "web": "https://github.com/philip-wernersbach/microasynchttpserver",
+  "tags": [
+    "web",
+    "http",
+    "async",
+    "server"
+  ]
+}

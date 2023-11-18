@@ -1,0 +1,13 @@
+{
+  "name": "subexes",
+  "url": "https://github.com/nim-lang/graveyard?subdir=subexes",
+  "method": "git",
+  "description": "Nim support for substitution expressions",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graveyard/tree/master/subexes",
+  "tags": [
+    "graveyard",
+    "subexes",
+    "substitution expression"
+  ]
+}

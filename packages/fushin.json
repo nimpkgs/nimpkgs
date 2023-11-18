@@ -1,0 +1,22 @@
+{
+  "name": "fushin",
+  "url": "https://github.com/eggplants/fushin",
+  "method": "git",
+  "description": "Fetch fushinsha serif data and save as csv files",
+  "license": "MIT",
+  "web": "https://github.com/eggplants/fushin",
+  "doc": "https://egpl.dev/fushin/fushin.html",
+  "versions": [
+    {
+      "tag": "v0.0.0",
+      "hash": "56bc1b579859a213a639b247337dabfd7ff97ef3",
+      "time": 1656982017
+    }
+  ],
+  "tags": [
+    "library",
+    "cli",
+    "parser",
+    "html"
+  ]
+}

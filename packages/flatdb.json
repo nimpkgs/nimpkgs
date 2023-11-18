@@ -1,0 +1,13 @@
+{
+  "name": "flatdb",
+  "url": "https://github.com/enthus1ast/flatdb",
+  "method": "git",
+  "description": "small/tiny, flatfile, jsonl based, inprogress database for nim",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/flatdb",
+  "tags": [
+    "database",
+    "json",
+    "pure"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "climate",
+  "url": "https://github.com/moigagoo/climate",
+  "method": "git",
+  "description": "Library to build command-line interfaces.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/climate",
+  "tags": [
+    "cli",
+    "command-line",
+    "commandline"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "simpleflake",
+  "url": "https://github.com/aisk/simpleflake.nim",
+  "method": "git",
+  "description": "Simpleflake for nim",
+  "license": "MIT",
+  "web": "https://github.com/aisk/simpleflake.nim",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "c8f2ddfd7f8003a5c856e0ea79f3b746f455b34b",
+      "time": 1685716573
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "9dce0db9d635c717c42ba50484f9b24111a43cbc",
+      "time": 1627923609
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "c9fc0e2791d6f3fa524e3bba26e8d0273ba71eda",
+      "time": 1609769532
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "ad3fb499b52e8a706b7bcdd5a5caa6cf61d5da4e",
+      "time": 1598884337
+    }
+  ],
+  "tags": [
+    "simpleflake",
+    "id",
+    "id-generator",
+    "library"
+  ]
+}

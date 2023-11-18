@@ -1,0 +1,14 @@
+{
+  "name": "imgcat",
+  "url": "https://github.com/not-lum/imgcat",
+  "method": "git",
+  "description": "See pictures in your console",
+  "license": "MIT",
+  "web": "https://github.com/not-lum/imgcat",
+  "tags": [
+    "hybrid",
+    "crossplatform",
+    "terminal",
+    "images"
+  ]
+}

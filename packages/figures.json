@@ -1,0 +1,30 @@
+{
+  "name": "figures",
+  "url": "https://github.com/lmariscal/figures",
+  "method": "git",
+  "description": "unicode symbols",
+  "license": "MIT",
+  "web": "https://github.com/lmariscal/figures",
+  "versions": [
+    {
+      "tag": "v1.2.0",
+      "hash": "f2f748745287d7380522403e072209c27b27bfe1",
+      "time": 1572141848
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "c2b197031e68c37455716827badbeb84f67d86cb",
+      "time": 1561315769
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "2981f90786c598bae485a337859e281072b698aa",
+      "time": 1561269287
+    }
+  ],
+  "tags": [
+    "unicode",
+    "cli",
+    "figures"
+  ]
+}

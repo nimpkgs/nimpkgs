@@ -1,0 +1,12 @@
+{
+  "name": "quadtree",
+  "url": "https://github.com/Nycto/QuadtreeNim",
+  "method": "git",
+  "description": "A Quadtree implementation",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/QuadtreeNim",
+  "tags": [
+    "quadtree",
+    "algorithm"
+  ]
+}

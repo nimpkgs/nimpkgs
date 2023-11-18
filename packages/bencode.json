@@ -1,0 +1,12 @@
+{
+  "name": "bencode",
+  "url": "https://github.com/FedericoCeratto/nim-bencode",
+  "method": "git",
+  "description": "Bencode serialization/deserialization library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-bencode",
+  "tags": [
+    "library",
+    "bencode"
+  ]
+}

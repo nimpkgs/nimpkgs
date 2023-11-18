@@ -1,0 +1,33 @@
+{
+  "name": "snorlogue",
+  "url": "https://github.com/PhilippMDoerner/Snorlogue",
+  "method": "git",
+  "description": "A Prologue extension. Provides an admin environment for your prologue server making use of norm.",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/Snorlogue",
+  "versions": [
+    {
+      "tag": "v1.0.2",
+      "hash": "65f5c2fcedf73bca09eb50cbcfb3e6cb0d51a3c9",
+      "time": 1670677371
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "4e73eed025bd37beedc16afabc9d27f21340862e",
+      "time": 1670676409
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "dfc01ab16883d10c5106da8826a523438cf48509",
+      "time": 1670627058
+    }
+  ],
+  "tags": [
+    "web",
+    "prologue",
+    "norm",
+    "extension",
+    "administration",
+    "library"
+  ]
+}

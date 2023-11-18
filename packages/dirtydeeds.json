@@ -1,0 +1,18 @@
+{
+  "name": "dirtydeeds",
+  "url": "https://github.com/metagn/dirtydeeds",
+  "method": "git",
+  "description": "macro for partially applied calls",
+  "license": "MIT",
+  "web": "https://github.com/metagn/dirtydeeds",
+  "tags": [
+    "macro",
+    "curry",
+    "partial",
+    "application",
+    "lambda",
+    "functional",
+    "sugar",
+    "syntax"
+  ]
+}

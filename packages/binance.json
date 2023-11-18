@@ -1,0 +1,13 @@
+{
+  "name": "binance",
+  "url": "https://github.com/Imperator26/binance",
+  "method": "git",
+  "description": "A Nim library to access the Binance API.",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/Imperator26/binance",
+  "tags": [
+    "library",
+    "api",
+    "binance"
+  ]
+}

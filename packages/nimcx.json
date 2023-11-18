@@ -1,0 +1,13 @@
+{
+  "name": "nimcx",
+  "url": "https://github.com/qqtop/nimcx",
+  "method": "git",
+  "description": "Color and utilities library for linux terminal.",
+  "license": "MIT",
+  "web": "https://github.com/qqtop/nimcx",
+  "tags": [
+    "library",
+    "linux",
+    "deleted"
+  ]
+}

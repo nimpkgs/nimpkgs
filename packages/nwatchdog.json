@@ -1,0 +1,35 @@
+{
+  "name": "nwatchdog",
+  "url": "https://github.com/zendbit/nim_nwatchdog",
+  "method": "git",
+  "description": "Simple watchdog (watch file changes modified, deleted, created) in nim lang.",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_nwatchdog",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "11933a2568d32b1cc171df1d692e785de9722624",
+      "time": 1692540888
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "5ddaa0d36f6f26bec68016f068424d53e1359efc",
+      "time": 1676183991
+    },
+    {
+      "tag": "v0.0.8",
+      "hash": "1b2e508cdc0c31a6eb175c066b7d8a4d4176d268",
+      "time": 1631462607
+    },
+    {
+      "tag": "v0.0.7",
+      "hash": "482ad47dfd87d8c199140176789ef52d7cf5ac60",
+      "time": 1622895115
+    }
+  ],
+  "tags": [
+    "watchdog",
+    "files",
+    "io"
+  ]
+}

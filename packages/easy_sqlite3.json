@@ -1,0 +1,76 @@
+{
+  "name": "easy_sqlite3",
+  "url": "https://github.com/codehz/easy_sqlite3",
+  "method": "git",
+  "description": "Yet another SQLite wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/codehz/easy_sqlite3",
+  "versions": [
+    {
+      "tag": "v0.1.11",
+      "hash": "6f175f446048b2a3bd9e66465ef4495f335e6c3f",
+      "time": 1691796902
+    },
+    {
+      "tag": "v0.1.10",
+      "hash": "31514476efac907d01819017b0af3f7ffbd53c73",
+      "time": 1682768361
+    },
+    {
+      "tag": "v0.1.9",
+      "hash": "2f14a0b5d2ab76cca8ca208bd09a70608a59f36a",
+      "time": 1682502016
+    },
+    {
+      "tag": "v0.1.8",
+      "hash": "83454e7f95f279aa4d4044494eb9c4820e49cee0",
+      "time": 1674913780
+    },
+    {
+      "tag": "v0.1.7",
+      "hash": "e31b83de596057cf0a4e15df92a37a8313e82b79",
+      "time": 1674913591
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "c55c254091d285aaa0ae36d6f2c75c3ee39d1d4a",
+      "time": 1674827986
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "c3a4c60cfdb0a66b5d5eee854d3d6260d19ed8c3",
+      "time": 1674825652
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "3373c309c3ecffc55c4f8fac3cb413270d5e4929",
+      "time": 1635125012
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "f7bc1f4012c4c41936666bf7e07a2bce88d62acf",
+      "time": 1634987988
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "8b637de14dfa0f19529ff0b5abb486162ef1f9ee",
+      "time": 1634220837
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "956cf66ad4a968cdbf7844e27d2beefa633d19cc",
+      "time": 1634203735
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "dc32581d6b4514d01933d652b4056d918182a577",
+      "time": 1634192138
+    }
+  ],
+  "tags": [
+    "sqlite",
+    "sqlite3",
+    "database",
+    "arc"
+  ]
+}

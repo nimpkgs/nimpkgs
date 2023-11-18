@@ -1,0 +1,46 @@
+{
+  "name": "sermon",
+  "url": "https://github.com/ThomasTJdev/nim_sermon",
+  "method": "git",
+  "description": "Monitor the state and memory of processes and URL response.",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_sermon",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "1ea2211f54379c66013979eadac26b08ea25bb4f",
+      "time": 1567331635
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "e38b71ea85f1142570f9ab4bd20a3cc1f7f80c58",
+      "time": 1560787777
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "4443a0acd2ab3b2741d06028b75e38ae0ff2f360",
+      "time": 1553009769
+    },
+    {
+      "tag": "v0.2.7",
+      "hash": "b0970b4e5de67a473b62fee0de7f43ffe63499e7",
+      "time": 1552733694
+    },
+    {
+      "tag": "v0.2.6",
+      "hash": "974215a97d769965177dae0481f24d67f5521233",
+      "time": 1552131591
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "af90fb3021957b69a9f943e322231f7b57349771",
+      "time": 1541269225
+    }
+  ],
+  "tags": [
+    "monitor",
+    "storage",
+    "memory",
+    "process"
+  ]
+}

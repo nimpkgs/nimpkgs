@@ -1,0 +1,27 @@
+{
+  "name": "catppuccin",
+  "url": "https://github.com/catppuccin/nim",
+  "method": "git",
+  "description": "Catppuccin colors for nim.",
+  "license": "MIT",
+  "web": "https://github.com/catppuccin/nim",
+  "doc": "https://catppuccin.github.io/nim",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "74f1e8721781932153131ed04a0966c1922d4933",
+      "time": 1682606058
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "49e6596c9f259f23c9fe15a34c75d6c951ddd78e",
+      "time": 1682604479
+    }
+  ],
+  "tags": [
+    "colors",
+    "cmyk",
+    "hsl",
+    "hsv"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "num_crunch",
+  "url": "https://github.com/willi-kappler/num_crunch",
+  "method": "git",
+  "description": "Allows to write distributed programs for number crunching easily.",
+  "license": "MIT",
+  "web": "https://github.com/willi-kappler/num_crunch",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "17e8f1d15f7ef56ab9c63d64fd18e82112c7b430",
+      "time": 1701352530
+    }
+  ],
+  "tags": [
+    "hpc",
+    "distributed",
+    "computation",
+    "number crunching"
+  ]
+}

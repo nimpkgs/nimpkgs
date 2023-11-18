@@ -1,0 +1,24 @@
+{
+  "name": "csvtable",
+  "url": "https://github.com/apahl/csvtable",
+  "method": "git",
+  "description": "tools for handling CSV files (comma or tab-separated) with an API similar to Python's CSVDictReader and -Writer.",
+  "license": "MIT",
+  "web": "https://github.com/apahl/csvtable",
+  "versions": [
+    {
+      "tag": "v0.3.2",
+      "hash": "f0392f3c670f02c31cedd10e23124d47f403151a",
+      "time": 1668434432
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "f269252496ed65269acb03181bf65d1dd684d182",
+      "time": 1586936020
+    }
+  ],
+  "tags": [
+    "csv",
+    "table"
+  ]
+}

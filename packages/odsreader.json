@@ -1,0 +1,30 @@
+{
+  "name": "odsreader",
+  "url": "https://github.com/dariolah/odsreader",
+  "method": "git",
+  "description": "OpenDocument Spreadhseet reader",
+  "license": "MIT",
+  "web": "https://github.com/dariolah/odsreader",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "c0cda028e57dad87072b34e171791eb4a144dbf7",
+      "time": 1636574668
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "ff886764a0c2a758c6ad1abbbcf36a519c68f0e5",
+      "time": 1636142332
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "a75349aab3056ddcb1e3e34f7630c929ca480bfe",
+      "time": 1636051471
+    }
+  ],
+  "tags": [
+    "ods",
+    "spreadsheet",
+    "libreoffice"
+  ]
+}

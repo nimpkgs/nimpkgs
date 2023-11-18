@@ -1,0 +1,18 @@
+{
+  "name": "jsonnet",
+  "url": "https://github.com/thechampagne/jsonnet-nim",
+  "method": "git",
+  "description": "Binding for Jsonnet the data templating language",
+  "license": "Apache-2.0",
+  "web": "https://github.com/thechampagne/jsonnet-nim",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "535f7300e17a43ceedd0af04e0f37687bb0d2071",
+      "time": 1680300562
+    }
+  ],
+  "tags": [
+    "jsonnet"
+  ]
+}

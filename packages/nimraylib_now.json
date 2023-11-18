@@ -1,0 +1,126 @@
+{
+  "name": "nimraylib_now",
+  "url": "https://github.com/greenfork/nimraylib_now",
+  "method": "git",
+  "description": "The Ultimate Raylib gaming library wrapper",
+  "license": "MIT",
+  "web": "https://github.com/greenfork/nimraylib_now",
+  "versions": [
+    {
+      "tag": "v0.15.0",
+      "hash": "59154abcbc4cf89b4c674f402db026dea216da7b",
+      "time": 1661674772
+    },
+    {
+      "tag": "v0.14.2",
+      "hash": "bc021ec423a858b0ce7b9ba44ae94c028aaa6332",
+      "time": 1639579997
+    },
+    {
+      "tag": "v0.14.1",
+      "hash": "5baad85b7bc4df7ae7d5372f0deca79839a49b5d",
+      "time": 1638103179
+    },
+    {
+      "tag": "v0.14.0",
+      "hash": "bd205288b0c167eb08b76c3459c88d66220090d6",
+      "time": 1637602627
+    },
+    {
+      "tag": "v0.13.2",
+      "hash": "617532f123a123e666aeecc39211c079210d9e4a",
+      "time": 1630762105
+    },
+    {
+      "tag": "v0.13.1",
+      "hash": "a5a47cdf72c8c51839ca18367724e177ef5144b2",
+      "time": 1621952376
+    },
+    {
+      "tag": "v0.13.0",
+      "hash": "adf38e86421c400e1314c9cdc471c2d41aee8b87",
+      "time": 1621697198
+    },
+    {
+      "tag": "v0.12.5",
+      "hash": "31401c0ead9f2474bd243511e113717251e77321",
+      "time": 1620754151
+    },
+    {
+      "tag": "v0.12.4",
+      "hash": "4a770878ba66f2d624a792495c33c7be326c80ee",
+      "time": 1620670144
+    },
+    {
+      "tag": "v0.12.3",
+      "hash": "b20ba60515c204099f625160413478fb5e6a4d0c",
+      "time": 1620668552
+    },
+    {
+      "tag": "v0.12.2",
+      "hash": "81801074b546d23d771a92a0ce9a681f6713314a",
+      "time": 1620668259
+    },
+    {
+      "tag": "v0.12.1",
+      "hash": "a2fd5958c5f5e044a90b89ed5d8223e174f7f411",
+      "time": 1620667486
+    },
+    {
+      "tag": "v0.12.0",
+      "hash": "8c1887e3f3779f2b6e0b8d7f80e64af65e17aba8",
+      "time": 1620661843
+    },
+    {
+      "tag": "v0.10.0",
+      "hash": "aa44560eaa576722e6d932a57ed85caa7ee2a712",
+      "time": 1620466521
+    },
+    {
+      "tag": "v0.9.1",
+      "hash": "68c4f9ab92c98aab1c697f909ed859fd224fa838",
+      "time": 1611329384
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "aa1c475d6fb14cb54214104998aee23914f25d74",
+      "time": 1611241102
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "19a89c7954d56b36e9fbff82dff59d43782f5cc1",
+      "time": 1611234061
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "b6e0903b0ef5baca39ab32213e586c9f7f0f6d8d",
+      "time": 1610641987
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "3bc66399a19ffce77d0eafe021aa3f38876f1e57",
+      "time": 1610563256
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "155590fff0106a2ebaeb2ace8b4e9f8b36ee2dfb",
+      "time": 1610272935
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "ab5a8c0173ea06634bbe6171b8a6d9e2254cd6b8",
+      "time": 1610270868
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "ab94a67db630b05142871c2b4460f70cbc4f80db",
+      "time": 1610270244
+    }
+  ],
+  "tags": [
+    "library",
+    "wrapper",
+    "raylib",
+    "gaming"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tuples",
+  "url": "https://github.com/MasonMcGill/tuples.git",
+  "method": "git",
+  "description": "Tuple manipulation utilities",
+  "license": "MIT",
+  "web": "https://github.com/MasonMcGill/tuples",
+  "tags": [
+    "library",
+    "tuple",
+    "metaprogramming"
+  ]
+}

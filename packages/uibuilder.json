@@ -1,0 +1,25 @@
+{
+  "name": "uibuilder",
+  "url": "https://github.com/ba0f3/uibuilder.nim",
+  "method": "git",
+  "description": "UI building with Gnome's Glade",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/uibuilder.nim",
+  "tags": [
+    "ui",
+    "builder",
+    "libui",
+    "designer",
+    "gtk",
+    "gnome",
+    "glade",
+    "interface",
+    "gui",
+    "linux",
+    "windows",
+    "osx",
+    "mac",
+    "native",
+    "generator"
+  ]
+}

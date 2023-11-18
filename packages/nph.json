@@ -1,0 +1,25 @@
+{
+  "name": "nph",
+  "url": "https://github.com/arnetheduck/nph",
+  "method": "git",
+  "description": "Opinionated code formatter",
+  "license": "MIT License",
+  "web": "https://github.com/arnetheduck/nph",
+  "versions": [
+    {
+      "tag": "v0.3",
+      "hash": "fa9c745442853300acbad3728b297dd12e8c6b44",
+      "time": 1704382881
+    },
+    {
+      "tag": "v0.2",
+      "hash": "5749abc338c058b9a54e801aa8a5ab706f19ff14",
+      "time": 1703155147
+    }
+  ],
+  "tags": [
+    "nim",
+    "formatter",
+    "vscode"
+  ]
+}

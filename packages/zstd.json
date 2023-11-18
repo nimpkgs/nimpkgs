@@ -1,0 +1,54 @@
+{
+  "name": "zstd",
+  "url": "https://github.com/wltsmrz/nim_zstd",
+  "method": "git",
+  "description": "Bindings for zstd",
+  "license": "MIT",
+  "web": "https://github.com/wltsmrz/nim_zstd",
+  "versions": [
+    {
+      "tag": "v0.9",
+      "hash": "f8f80a57ff782f176b16de0b3885600523d39d80",
+      "time": 1682888548
+    },
+    {
+      "tag": "v0.8",
+      "hash": "52f06accebde9a45e0592ef8f4c659b00ce5a14f",
+      "time": 1676212736
+    },
+    {
+      "tag": "v0.7",
+      "hash": "88868d742b7a2edf32fa2141f27b09e659624192",
+      "time": 1672275347
+    },
+    {
+      "tag": "v0.6",
+      "hash": "9e6cf86e357401044fd3b476520321eff268db12",
+      "time": 1654081774
+    },
+    {
+      "tag": "v0.5",
+      "hash": "7fcf69f3359085735872f3bcc1a20419afb58e74",
+      "time": 1604729757
+    },
+    {
+      "tag": "v0.4",
+      "hash": "97347edacc4acfae364eb6a85d8d663042be06b3",
+      "time": 1590209765
+    },
+    {
+      "tag": "v0.3",
+      "hash": "bfeb7aed6b568dd6608b025eea0593dac12e1239",
+      "time": 1588967294
+    },
+    {
+      "tag": "v0.2",
+      "hash": "f59a33b575b0593f680bd28e9a7d3e8c0f98d113",
+      "time": 1587961990
+    }
+  ],
+  "tags": [
+    "zstd",
+    "compression"
+  ]
+}

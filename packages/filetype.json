@@ -1,0 +1,76 @@
+{
+  "name": "filetype",
+  "url": "https://github.com/jiro4989/filetype",
+  "method": "git",
+  "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/filetype",
+  "versions": [
+    {
+      "tag": "v0.9.0",
+      "hash": "1fe1e7d988cd802abc26505efb5a91891bd6f53e",
+      "time": 1611378253
+    },
+    {
+      "tag": "v0.8.1",
+      "hash": "95a9210dcb47d72ef23eced40844a2c04f3717b0",
+      "time": 1611242335
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "aa877cb39bcfc2d069f4b578ca8ce302dc2a4cbe",
+      "time": 1609766298
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "035f195511abe1f03176b93c956ba777a85171bf",
+      "time": 1609425724
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "90f87485141f06d0204160eea7a89cd2d7478166",
+      "time": 1609424747
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "2cc5a955328d28adcd90312362c96cf48528546d",
+      "time": 1609162939
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "5555b677c687d4ae3f5da75dd7f98aff916b0fcf",
+      "time": 1609080028
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "49fcf6aba1194c37f88cc0469e136b80213a87de",
+      "time": 1609079292
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "d5d9b05de3e2e695339ef781eb2bb52a91e6983e",
+      "time": 1608916550
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "25719fd094eb16247e17f322af827dbdab3c1de2",
+      "time": 1608857282
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "663ab46eb98ecca23bbf4262926022e061ce883d",
+      "time": 1608855978
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "36fe51b3231644b21661eb8fc9ba7b2f3e514eb7",
+      "time": 1608854496
+    }
+  ],
+  "tags": [
+    "lib",
+    "magic-numbers",
+    "file",
+    "file-format"
+  ]
+}

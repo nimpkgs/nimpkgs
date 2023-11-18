@@ -1,0 +1,15 @@
+{
+  "name": "ndf",
+  "url": "https://github.com/rustomax/ndf",
+  "method": "git",
+  "description": "Duplicate files finder",
+  "license": "MIT",
+  "web": "https://github.com/rustomax/ndf",
+  "tags": [
+    "app",
+    "binary",
+    "duplicates",
+    "utility",
+    "filesystem"
+  ]
+}

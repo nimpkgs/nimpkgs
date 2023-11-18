@@ -1,0 +1,29 @@
+{
+  "name": "nimview",
+  "url": "https://github.com/marcomq/nimview",
+  "method": "git",
+  "description": "Nim / Python / C library to run webview with HTML/JS as UI",
+  "license": "MIT",
+  "web": "https://github.com/marcomq/nimview",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "c58311504877fd3973491fde61029ab75aee1a19",
+      "time": 1617197459
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "cd7b4737e49e998874e1a38c7c57d932b79aab8a",
+      "time": 1616511373
+    }
+  ],
+  "tags": [
+    "web",
+    "library",
+    "gui",
+    "webview",
+    "html",
+    "css",
+    "javascript"
+  ]
+}

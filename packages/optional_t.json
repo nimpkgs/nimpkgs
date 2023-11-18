@@ -1,0 +1,12 @@
+{
+  "name": "optional_t",
+  "url": "https://github.com/flaviut/optional_t",
+  "method": "git",
+  "description": "Basic Option[T] library",
+  "license": "MIT",
+  "web": "https://github.com/flaviut/optional_t",
+  "tags": [
+    "option",
+    "functional"
+  ]
+}

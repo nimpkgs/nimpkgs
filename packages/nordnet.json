@@ -1,0 +1,50 @@
+{
+  "name": "nordnet",
+  "url": "https://github.com/ThomasTJdev/nim_nordnet_api",
+  "method": "git",
+  "description": "Scraping API for www.nordnet.dk ready to integrate with Home Assistant (Hassio)",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_nordnet_api",
+  "versions": [
+    {
+      "tag": "v0.0.7",
+      "hash": "3c08ae09939082b2a00c31ca8b4f1d8de544338a",
+      "time": 1587493281
+    },
+    {
+      "tag": "v0.0.6",
+      "hash": "10b95f90911d5a407c34a7a1c74e463b96a0fd48",
+      "time": 1587412100
+    },
+    {
+      "tag": "v0.0.5",
+      "hash": "e9b496b69fbb1ef1f5f3d0db958548db84d8cbb3",
+      "time": 1587231818
+    },
+    {
+      "tag": "v0.0.4",
+      "hash": "d35237e1d6f8e6d475848e01d62b9367b7157a22",
+      "time": 1587229867
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "157e379bac7bae0d8832714bce28e467dc153208",
+      "time": 1587225558
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "27375f41ab48fef2bd69014842500efb8c8e3844",
+      "time": 1587139294
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "424b1748a7d3e2d6beb3919797774326abad1144",
+      "time": 1584779045
+    }
+  ],
+  "tags": [
+    "nordnet",
+    "stocks",
+    "scrape"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "omni",
+  "url": "https://github.com/vitreo12/omni",
+  "method": "git",
+  "description": "omni is a DSL for low-level audio programming.",
+  "license": "MIT",
+  "web": "https://github.com/vitreo12/omni",
+  "tags": [
+    "dsl",
+    "dsp",
+    "audio",
+    "sound"
+  ]
+}

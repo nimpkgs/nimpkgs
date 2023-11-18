@@ -1,0 +1,77 @@
+{
+  "name": "drawIt",
+  "url": "https://gitlab.com/OFThomas/drawIt",
+  "method": "git",
+  "description": "Nim Terminal User Interface library for plotting graphs and drawing shapes in the terminal, uses unicode chars and colours!",
+  "license": "Apache-2.0",
+  "web": "https://gitlab.com/OFThomas/drawIt",
+  "versions": [
+    {
+      "tag": "v0.6.1",
+      "hash": "3acf90bf374e03f689389fad5744d931230a0a93",
+      "time": 1682340627
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "6e6c496c2bdea95992f0319fb3d10b8845f63617",
+      "time": 1682338838
+    },
+    {
+      "tag": "v0.5.4",
+      "hash": "84213293c86207ed8d23622dcdda6a49fa71adf5",
+      "time": 1680730361
+    },
+    {
+      "tag": "v0.5.3",
+      "hash": "6ce129b3290a1da5bc7004a2d7ddef8735cbf4c8",
+      "time": 1680613691
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "20e56962aa18fde58813ae058f1a42a8164c99dc",
+      "time": 1680611737
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "01bf6bc9f284340c630edc42dc9d5d48331b0181",
+      "time": 1680541134
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "fa5055f3e3f04a6da9b01953aadf9a309d2b85dd",
+      "time": 1680471548
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "c8dfbb0c369a49dc7283b3c0a43cee8cfcaf63bf",
+      "time": 1680268995
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "22ac434ed16e61a69adf4fc5af559283d8335ac8",
+      "time": 1680188461
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "4cdf08dd7298e4d23febdb984cd04598411439e1",
+      "time": 1680174834
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "9447c5e31382bb1dce8b6d6be034d0342de4de4e",
+      "time": 1679404164
+    },
+    {
+      "tag": "v0.1.0, v0.0.1",
+      "hash": "bf9856ab178008a1d8ad77253cc8ba42268efb5a",
+      "time": 1679331910
+    }
+  ],
+  "tags": [
+    "terminal display",
+    "plotting",
+    "drawing",
+    "TUI",
+    "shapes"
+  ]
+}

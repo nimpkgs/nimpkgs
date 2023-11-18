@@ -1,0 +1,12 @@
+{
+  "name": "wasmrt",
+  "url": "https://github.com/yglukhov/wasmrt",
+  "method": "git",
+  "description": "Nim wasm runtime",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/wasmrt",
+  "tags": [
+    "wasm",
+    "webassembly"
+  ]
+}

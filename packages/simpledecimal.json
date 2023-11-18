@@ -1,0 +1,12 @@
+{
+  "name": "simpledecimal",
+  "url": "https://github.com/pigmej/nim-simple-decimal",
+  "method": "git",
+  "description": "A simple decimal library",
+  "license": "MIT",
+  "web": "https://github.com/pigmej/nim-simple-decimal",
+  "tags": [
+    "decimal",
+    "library"
+  ]
+}

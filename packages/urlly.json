@@ -1,0 +1,12 @@
+{
+  "name": "urlly",
+  "url": "https://github.com/treeform/urlly",
+  "method": "git",
+  "description": "URL and URI parsing for C and JS backend.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/urlly",
+  "tags": [
+    "url",
+    "uri"
+  ]
+}

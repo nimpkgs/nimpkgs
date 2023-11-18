@@ -1,0 +1,30 @@
+{
+  "name": "geocoding",
+  "url": "https://github.com/saratchandra92/nim-geocoding",
+  "method": "git",
+  "description": "A simple library for Google Maps Geocoding API",
+  "license": "MIT",
+  "web": "https://github.com/saratchandra92/nim-geocoding",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "f889f7116afc59d3c3a821d05d07dfe129c7a94d",
+      "time": 1432022292
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "c68202df120f98d5bc0254166b4ce3b0c2ea8811",
+      "time": 1431933877
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "47595cce05bf4d256a758a589f486d2d1de9eaf2",
+      "time": 1431858225
+    }
+  ],
+  "tags": [
+    "library",
+    "geocoding",
+    "maps"
+  ]
+}

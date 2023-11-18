@@ -1,0 +1,56 @@
+{
+  "name": "nimgit2",
+  "url": "https://github.com/genotrance/nimgit2",
+  "method": "git",
+  "description": "libgit2 wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimgit2",
+  "versions": [
+    {
+      "tag": "v0.3.4",
+      "hash": "f217acf5dbecb887205f57b7c20e228009ac18f4",
+      "time": 1603912960
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "9b472fb491374a297608c07ec975cdd633b06496",
+      "time": 1594530923
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "915b19b29531a02b51ded62016b8877f49678fb2",
+      "time": 1594076602
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "f673790aede9944edd0edba97f52f5639917e2f3",
+      "time": 1593311299
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "ba34a1541ffa90d1a3bb65e5da82db052407a6c0",
+      "time": 1590500768
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "3a1a20a16bf1075cccca46161bb40862aa3e0954",
+      "time": 1583877531
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "382dcc85e04c002f33ba8d248d955422698ce041",
+      "time": 1574806014
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "8c589f7234f585ce8ec27e72764894e86b356516",
+      "time": 1570741699
+    }
+  ],
+  "tags": [
+    "git",
+    "wrapper",
+    "libgit2",
+    "binding"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sfml",
+  "url": "https://github.com/fowlmouth/nimrod-sfml/",
+  "method": "git",
+  "description": "High level OpenGL-based Game Library",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimrod-sfml",
+  "tags": [
+    "game",
+    "library",
+    "opengl"
+  ]
+}

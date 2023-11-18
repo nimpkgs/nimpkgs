@@ -1,0 +1,19 @@
+{
+  "name": "openal",
+  "url": "https://github.com/treeform/openal",
+  "method": "git",
+  "description": "An OpenAL wrapper.",
+  "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "6dbd23eccd608e510cfd5c109dddcc4a5860b447",
+      "time": 1571322725
+    }
+  ],
+  "tags": [
+    "sound",
+    "OpenAL",
+    "wrapper"
+  ]
+}

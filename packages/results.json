@@ -1,0 +1,17 @@
+{
+  "name": "results",
+  "url": "https://github.com/arnetheduck/nim-results",
+  "method": "git",
+  "description": "Friendly value-or-error type",
+  "license": "MIT",
+  "web": "https://github.com/arnetheduck/nim-results",
+  "tags": [
+    "library",
+    "result",
+    "results",
+    "errors",
+    "functional",
+    "option",
+    "options"
+  ]
+}

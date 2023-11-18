@@ -1,0 +1,11 @@
+{
+  "name": "pararules",
+  "url": "https://github.com/paranim/pararules",
+  "method": "git",
+  "description": "A rules engine",
+  "license": "Public Domain",
+  "tags": [
+    "rules",
+    "rete"
+  ]
+}

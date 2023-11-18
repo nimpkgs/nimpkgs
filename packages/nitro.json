@@ -1,0 +1,14 @@
+{
+  "name": "nitro",
+  "url": "https://github.com/status-im/nim-nitro",
+  "method": "git",
+  "description": " Nitro state channels in Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-nitro",
+  "tags": [
+    "state-channels",
+    "smart-contracts",
+    "blockchain",
+    "ethereum"
+  ]
+}

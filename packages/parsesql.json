@@ -1,0 +1,19 @@
+{
+  "name": "parsesql",
+  "url": "https://github.com/bung87/parsesql",
+  "method": "git",
+  "description": "The parsesql module implements a high performance SQL file parser. It parses PostgreSQL syntax and the SQL ANSI standard.",
+  "license": "MIT",
+  "web": "https://github.com/bung87/parsesql",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "13ef03d3201bed2e064740e848a651b0a0bd3caa",
+      "time": 1623093075
+    }
+  ],
+  "tags": [
+    "sql",
+    "parser"
+  ]
+}

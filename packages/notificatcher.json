@@ -1,0 +1,36 @@
+{
+  "name": "notificatcher",
+  "url": "https://github.com/PMunch/notificatcher",
+  "method": "git",
+  "description": "Small program to grab notifications from freedesktop and output them according to a format",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/notificatcher",
+  "versions": [
+    {
+      "tag": "v0.5.0",
+      "hash": "97c3cb320042d3f738df0e2d4a02a430a8c10fd4",
+      "time": 1662102451
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "2ec071213a32a59d707d0b28ff9e039327a50277",
+      "time": 1655282758
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "1f6a430d0e85f1e1056941c37dfbfca95ba6a41a",
+      "time": 1604010214
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "4d2efe48333662ac9fc70d35de9dbffafadc1cb2",
+      "time": 1602760193
+    }
+  ],
+  "tags": [
+    "binary",
+    "freedesktop",
+    "notifications",
+    "dbus"
+  ]
+}

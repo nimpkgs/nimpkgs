@@ -1,0 +1,15 @@
+{
+  "name": "playlists",
+  "url": "https://github.com/achesak/nim-playlists",
+  "method": "git",
+  "description": "Nim library for parsing PLS, M3U, and XSPF playlist files",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-playlists",
+  "tags": [
+    "library",
+    "playlists",
+    "M3U",
+    "PLS",
+    "XSPF"
+  ]
+}

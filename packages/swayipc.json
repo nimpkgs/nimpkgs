@@ -1,0 +1,18 @@
+{
+  "name": "swayipc",
+  "url": "https://github.com/disruptek/swayipc",
+  "method": "git",
+  "description": "IPC interface to sway (or i3) compositors",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/swayipc",
+  "tags": [
+    "wayland",
+    "sway",
+    "i3",
+    "ipc",
+    "i3ipc",
+    "swaymsg",
+    "x11",
+    "swaywm"
+  ]
+}

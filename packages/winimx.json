@@ -1,0 +1,14 @@
+{
+  "name": "winimx",
+  "url": "https://github.com/khchen/winimx",
+  "method": "git",
+  "description": "Winim minified code generator",
+  "license": "MIT",
+  "web": "https://github.com/khchen/winimx",
+  "tags": [
+    "library",
+    "windows",
+    "api",
+    "winim"
+  ]
+}

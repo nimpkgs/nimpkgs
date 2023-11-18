@@ -1,0 +1,11 @@
+{
+  "name": "ass",
+  "url": "https://github.com/0kalekale/libass-nim",
+  "method": "git",
+  "description": "Nim bindings for libass.",
+  "license": "ISC",
+  "tags": [
+    "multimedia",
+    "video"
+  ]
+}

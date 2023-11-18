@@ -1,0 +1,19 @@
+{
+  "name": "fuzzy",
+  "url": "https://github.com/pigmej/fuzzy",
+  "method": "git",
+  "description": "Pure nim fuzzy search implementation. Supports substrings etc",
+  "license": "MIT",
+  "web": "https://github.com/pigmej/fuzzy",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "6e62092598689dfdc982e15a337f0a069c69be3b",
+      "time": 1609368039
+    }
+  ],
+  "tags": [
+    "fuzzy",
+    "search"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "NimNN",
+  "url": "https://github.com/amaank404/NimNN",
+  "method": "git",
+  "description": "Neural Networks from scratch",
+  "license": "MIT",
+  "web": "https://github.com/amaank404/NimNN",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "91b6966c9a55f97cc5829b11f0b81054db889595",
+      "time": 1659890745
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "bf8f3b1621f450cca292b61d9fb4669f3988800e",
+      "time": 1659442814
+    }
+  ],
+  "tags": [
+    "neural",
+    "networks",
+    "simulator",
+    "native",
+    "genetic"
+  ]
+}

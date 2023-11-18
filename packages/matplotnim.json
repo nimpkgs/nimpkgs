@@ -1,0 +1,27 @@
+{
+  "name": "matplotnim",
+  "url": "https://github.com/ruivieira/matplotnim",
+  "method": "git",
+  "description": "A Nim wrapper for Python's matplotlib",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/ruivieira/matplotnim",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "33ae2a0c0154b5b018072c4b186857a5a09798bb",
+      "time": 1617632020
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "f0fa5242b5da175bd2a500f5fd4689c6b59cade1",
+      "time": 1556614767
+    }
+  ],
+  "tags": [
+    "science",
+    "plotting",
+    "graphics",
+    "wrapper",
+    "library"
+  ]
+}

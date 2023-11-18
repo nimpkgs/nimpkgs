@@ -1,0 +1,26 @@
+{
+  "name": "nimgram",
+  "url": "https://github.com/nimgram/nimgram",
+  "method": "git",
+  "description": "MTProto client written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimgram/nimgram",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "0cc5198eaa4d12a95da87df70b7df85ec1fead41",
+      "time": 1663265255
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "c97083d5edc9b16153b962ee223ecf9ec9857da9",
+      "time": 1638305968
+    }
+  ],
+  "tags": [
+    "mtproto",
+    "telegram",
+    "telegram-api",
+    "async"
+  ]
+}

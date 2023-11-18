@@ -1,0 +1,41 @@
+{
+  "name": "textformats",
+  "url": "https://github.com/ggonnella/textformats",
+  "method": "git",
+  "description": "Easy specification of text formats for structured data",
+  "license": "ISC",
+  "web": "https://github.com/ggonnella/textformats",
+  "versions": [
+    {
+      "tag": "v1.2.3",
+      "hash": "21582760ef24167a27241d0608180b3b0f20910e",
+      "time": 1676480176
+    },
+    {
+      "tag": "v1.2.2",
+      "hash": "341798a71d6bfd43b9b604faba0554c0f52375f2",
+      "time": 1645101900
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "a1e46aa52b5ad67e1884642491e5db684e33babc",
+      "time": 1644958484
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "8df0873b514ec203cb7c43862f48ee03662803b2",
+      "time": 1636737694
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "2e0c4ae6e28fffc68115639748ae30d1ad85db44",
+      "time": 1636561227
+    }
+  ],
+  "tags": [
+    "parsing",
+    "formats",
+    "textfiles",
+    "library"
+  ]
+}

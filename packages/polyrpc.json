@@ -1,0 +1,28 @@
+{
+  "name": "polyrpc",
+  "url": "https://github.com/choltreppe/polyrpc",
+  "method": "git",
+  "description": "A system for generating remote-procedure-calls for any pair of server and client",
+  "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.2.2",
+      "hash": "a39f0ad8dbf6ed5ba55452968584279d2324cb8c",
+      "time": 1687723762
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "b8e7d7c34ce3ee9adfc6a6ba8da681546f449596",
+      "time": 1687630396
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "c35f96f9c635b3bc1c58de66aa6f4036a97338e4",
+      "time": 1682968042
+    }
+  ],
+  "tags": [
+    "rpc",
+    "remote procedure call"
+  ]
+}

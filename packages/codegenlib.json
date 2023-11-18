@@ -1,0 +1,102 @@
+{
+  "name": "codegenlib",
+  "url": "https://github.com/Yu-Vitaqua-fer-Chronos/CodeGenLib",
+  "method": "git",
+  "description": "A simple code generation library for other programming languages.",
+  "license": "MIT",
+  "web": "https://github.com/Yu-Vitaqua-fer-Chronos/CodeGenLib",
+  "doc": "https://yu-vitaqua-fer-chronos.github.io/CodeGenLib/",
+  "versions": [
+    {
+      "tag": "v2.0.0",
+      "hash": "2372b6c27187a8a549741430ee13799723fb7a9e",
+      "time": 1696713906
+    },
+    {
+      "tag": "v1.1.10",
+      "hash": "82252e9308b1efb00ad66ec3bed63ff3710c407c",
+      "time": 1662493818
+    },
+    {
+      "tag": "v1.1.9",
+      "hash": "8843db9ca0dcd567d5b8caf5a05aa91711286a60",
+      "time": 1662144989
+    },
+    {
+      "tag": "v1.1.8",
+      "hash": "45e85b9fd77a2e31d35532d2b286e82140c49668",
+      "time": 1662143552
+    },
+    {
+      "tag": "v1.1.7",
+      "hash": "b96bb38e366757141c911b911007b44915fbe3fe",
+      "time": 1662142681
+    },
+    {
+      "tag": "v1.1.6",
+      "hash": "195fc64b3d2a01e36cb3c011e8fbf5ff77677f61",
+      "time": 1662139840
+    },
+    {
+      "tag": "v1.1.5",
+      "hash": "f7fb127ce4473903d8e2dc5ea93761a71a4b8f1d",
+      "time": 1662139486
+    },
+    {
+      "tag": "v1.1.4",
+      "hash": "27066083814cf7927c57a43979ac5b372f90822d",
+      "time": 1662138386
+    },
+    {
+      "tag": "v1.1.2",
+      "hash": "95d8f50ec39c908b70f09c6adf522b0772baf6f4",
+      "time": 1662124541
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "82df70e63ed10e28d4e0e4366cc1cbed60b21345",
+      "time": 1662070950
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "a846d6c4cf09a834f02836b680443f67496782ad",
+      "time": 1662070935
+    },
+    {
+      "tag": "v1.0.5",
+      "hash": "933639bf5433943ac8063b79bb5125a68ec88462",
+      "time": 1662070231
+    },
+    {
+      "tag": "v1.0.4",
+      "hash": "0a9987321c93f5ea0ca354add04cb17c80ae7821",
+      "time": 1662069193
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "784dd3e7c30757deacf7ee64ae05ff6d8f4f94cd",
+      "time": 1662063390
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "65f6d26c3e960538adf81dc09899f43f2df25baa",
+      "time": 1662045798
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "45843cae0c0db0bec55da1f083f3026ff32c38fd",
+      "time": 1661898029
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "795eb297794d54e67481d62f6c1bd956e8d8a838",
+      "time": 1661880803
+    }
+  ],
+  "tags": [
+    "library",
+    "codegen",
+    "codegeneration",
+    "java"
+  ]
+}

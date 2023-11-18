@@ -1,0 +1,31 @@
+{
+  "name": "sitmo",
+  "url": "https://github.com/jxy/sitmo",
+  "method": "git",
+  "description": "Sitmo parallel random number generator in Nim",
+  "license": "MIT",
+  "web": "https://github.com/jxy/sitmo",
+  "versions": [
+    {
+      "tag": "v0.0.2",
+      "hash": "e923da087757540be922f4285f0e765e13aed8c0",
+      "time": 1574885786
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "1a3aac5fbe33d4c6bd7bfdf38557b28fb8bccf93",
+      "time": 1496874101
+    },
+    {
+      "tag": "v0.0.0",
+      "hash": "22031bc8db54fbcb3c6e21a492946c49fed751a7",
+      "time": 1494608553
+    }
+  ],
+  "tags": [
+    "RNG",
+    "Sitmo",
+    "high-performance",
+    "random"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "utf8tests",
+  "url": "https://github.com/flenniken/utf8tests",
+  "method": "git",
+  "description": "UTF-8 test cases and supporting code.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/utf8tests/",
+  "doc": "https://github.com/flenniken/utf8tests/",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "b32a9af12f34368ecffe0896804039a1d66b70b9",
+      "time": 1684532010
+    }
+  ],
+  "tags": [
+    "UTF-8",
+    "decoder"
+  ]
+}

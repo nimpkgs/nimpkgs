@@ -1,0 +1,13 @@
+{
+  "name": "badgemaker",
+  "url": "https://github.com/ethosa/badgemaker",
+  "method": "git",
+  "description": "The Nim badgemaker tool.",
+  "license": "AGPLv3",
+  "web": "https://github.com/ethosa/badgemaker",
+  "tags": [
+    "badge",
+    "badge-generator",
+    "tool"
+  ]
+}

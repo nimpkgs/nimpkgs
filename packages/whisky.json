@@ -1,0 +1,11 @@
+{
+  "name": "whisky",
+  "url": "https://github.com/guzba/whisky",
+  "method": "git",
+  "description": "A blocking WebSocket client",
+  "license": "MIT",
+  "web": "https://github.com/guzba/whisky",
+  "tags": [
+    "websockets"
+  ]
+}

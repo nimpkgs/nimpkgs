@@ -1,0 +1,27 @@
+{
+  "name": "wave",
+  "url": "https://github.com/jiro4989/wave",
+  "method": "git",
+  "description": "wave is a tiny WAV sound module",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/wave",
+  "versions": [
+    {
+      "tag": "v1.1.0",
+      "hash": "c070256c4b0b5635ea0f46e3b38a77440fdc29e5",
+      "time": 1595097630
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "a072d1cd973baa831e1ecc58860243f3d54d487d",
+      "time": 1580017213
+    }
+  ],
+  "tags": [
+    "library",
+    "sound",
+    "media",
+    "parser",
+    "wave"
+  ]
+}

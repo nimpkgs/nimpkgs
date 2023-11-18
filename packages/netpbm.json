@@ -1,0 +1,14 @@
+{
+  "name": "netpbm",
+  "url": "https://github.com/barcharcraz/nim-netpbm",
+  "method": "git",
+  "description": "Wrapper for libnetpbm",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/nim-netpbm",
+  "tags": [
+    "pbm",
+    "image",
+    "wrapper",
+    "netpbm"
+  ]
+}

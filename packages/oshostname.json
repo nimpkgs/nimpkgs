@@ -1,0 +1,12 @@
+{
+  "name": "oshostname",
+  "url": "https://github.com/jrfondren/nim-oshostname",
+  "method": "git",
+  "description": "Get the current hostname with gethostname(2)",
+  "license": "MIT",
+  "web": "https://github.com/jrfondren/nim-oshostname",
+  "tags": [
+    "posix",
+    "wrapper"
+  ]
+}

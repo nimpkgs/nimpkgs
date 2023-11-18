@@ -1,0 +1,49 @@
+{
+  "name": "libbacktrace",
+  "url": "https://github.com/status-im/nim-libbacktrace",
+  "method": "git",
+  "description": "Nim wrapper for libbacktrace",
+  "license": "Apache License 2.0 or MIT",
+  "web": "https://github.com/status-im/nim-libbacktrace",
+  "versions": [
+    {
+      "tag": "v0.0.8",
+      "hash": "ce966b1c469dda179b54346feaaf1a62202c984f",
+      "time": 1619655635
+    },
+    {
+      "tag": "v0.0.7",
+      "hash": "bc30152b98a5f4c541575906f2068910ca3bda0f",
+      "time": 1619464842
+    },
+    {
+      "tag": "v0.0.6",
+      "hash": "b3f289caadfdc5f48df240d45652dd577c303595",
+      "time": 1619457701
+    },
+    {
+      "tag": "v0.0.5",
+      "hash": "f0bbe7eb6b7bc74f3a27a9c2213edd2362ce5a36",
+      "time": 1615744413
+    },
+    {
+      "tag": "v0.0.4",
+      "hash": "107878ad53f3d743504e1e489bce9fee574434e3",
+      "time": 1600856508
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "3ff163ca583c3446064cda9ab33ba84877faa442",
+      "time": 1599435657
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "3653b9c4675c80f7f9cb351003446fd8364a2058",
+      "time": 1581589099
+    }
+  ],
+  "tags": [
+    "library",
+    "wrapper"
+  ]
+}

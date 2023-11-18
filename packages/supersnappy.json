@@ -1,0 +1,12 @@
+{
+  "name": "supersnappy",
+  "url": "https://github.com/guzba/supersnappy",
+  "method": "git",
+  "description": "Dependency-free and performant Nim Snappy implementation.",
+  "license": "MIT",
+  "web": "https://github.com/guzba/supersnappy",
+  "tags": [
+    "compression",
+    "snappy"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "db_clickhouse",
+  "url": "https://github.com/leonardoce/nim-clickhouse",
+  "method": "git",
+  "description": "ClickHouse Nim interface",
+  "license": "MIT",
+  "web": "https://github.com/leonardoce/nim-clickhouse",
+  "versions": [
+    {
+      "tag": "v0.4.0",
+      "hash": "21b67967617e885d51fbd8439365796847033e89",
+      "time": 1634816516
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "6c15e83713d43ca3a549b8868ea9544c04ff0e96",
+      "time": 1608740532
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "1d540612f64d4928cc108f76ae01cbbba4099e98",
+      "time": 1540193020
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "4a3b2f3c996649a05d6e321c4858affe7dad3dd9",
+      "time": 1527573255
+    }
+  ],
+  "tags": [
+    "wrapper",
+    "database",
+    "clickhouse"
+  ]
+}

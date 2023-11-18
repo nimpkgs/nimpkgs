@@ -1,0 +1,14 @@
+{
+  "name": "murmurhash",
+  "url": "https://github.com/cwpearson/nim-murmurhash",
+  "method": "git",
+  "description": "Pure nim implementation of MurmurHash",
+  "license": "MIT",
+  "web": "https://github.com/cwpearson/nim-murmurhash",
+  "tags": [
+    "murmur",
+    "hash",
+    "MurmurHash3",
+    "MurmurHash2"
+  ]
+}

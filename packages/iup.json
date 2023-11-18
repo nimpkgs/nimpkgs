@@ -1,0 +1,12 @@
+{
+  "name": "iup",
+  "url": "https://github.com/nim-lang/iup",
+  "method": "git",
+  "description": "Bindings for the IUP widget toolkit",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/iup",
+  "tags": [
+    "GUI",
+    "IUP"
+  ]
+}

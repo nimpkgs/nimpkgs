@@ -1,0 +1,21 @@
+{
+  "name": "foliant",
+  "url": "https://github.com/foliant-docs/foliant-nim",
+  "method": "git",
+  "description": "Documentation generator that produces pdf and docx from Markdown. Uses Pandoc and LaTeX behind the scenes.",
+  "license": "MIT",
+  "web": "https://github.com/foliant-docs/foliant-nim",
+  "tags": [
+    "foliant",
+    "docs",
+    "pdf",
+    "docx",
+    "word",
+    "latex",
+    "tex",
+    "pandoc",
+    "markdown",
+    "md",
+    "restream"
+  ]
+}

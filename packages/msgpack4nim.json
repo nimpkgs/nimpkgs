@@ -1,0 +1,41 @@
+{
+  "name": "msgpack4nim",
+  "url": "https://github.com/jangko/msgpack4nim",
+  "method": "git",
+  "description": "Another MessagePack implementation written in pure nim",
+  "license": "MIT",
+  "web": "https://github.com/jangko/msgpack4nim",
+  "versions": [
+    {
+      "tag": "v0.4.4",
+      "hash": "f4cc097ca9694f17feced9f82994f583ef7911fe",
+      "time": 1690867293
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "a7f290501a8c73ae9a6a5eed97ac2654910b7d6c",
+      "time": 1687743053
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "472152dd56a8b282535647caeba4643f3c4992f8",
+      "time": 1578112201
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "a16c0a6f45f470a1bd0b80df64b2bd4fb184adfb",
+      "time": 1574511134
+    },
+    {
+      "tag": "v0.2.9",
+      "hash": "9c4bc6e66d5d193692be0e7c5605166dc61756dc",
+      "time": 1572437256
+    }
+  ],
+  "tags": [
+    "msgpack",
+    "library",
+    "serialization",
+    "deserialization"
+  ]
+}

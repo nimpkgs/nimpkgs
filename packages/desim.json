@@ -1,0 +1,16 @@
+{
+  "name": "desim",
+  "url": "https://github.com/jayvanderwall/desim",
+  "method": "git",
+  "description": "A lightweight discrete event simulator",
+  "license": "MIT",
+  "web": "https://github.com/jayvanderwall/desim",
+  "tags": [
+    "library",
+    "modeling",
+    "discrete",
+    "event",
+    "simulation",
+    "simulator"
+  ]
+}

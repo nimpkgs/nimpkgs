@@ -1,0 +1,36 @@
+{
+  "name": "xcb",
+  "url": "https://github.com/SolitudeSF/xcb",
+  "method": "git",
+  "description": "xcb bindings",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/xcb",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "253bb6afedbe743b64ca76da1c3a76949ee6be07",
+      "time": 1688757307
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "d9bef7cfe317d8ac0a8d16fe7a30e6b2136b8c38",
+      "time": 1685461044
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "66dec84b87aeabf428735dd7cd0a75fad21084b5",
+      "time": 1614427348
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "4a674d5c5af61e5664e95ff47f9b981f0bdd46b7",
+      "time": 1614338913
+    }
+  ],
+  "tags": [
+    "xcb",
+    "x11",
+    "bindings",
+    "wrapper"
+  ]
+}

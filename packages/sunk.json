@@ -1,0 +1,29 @@
+{
+  "name": "sunk",
+  "url": "https://github.com/archnim/sunk",
+  "method": "git",
+  "description": "Few async tools for nim (then, catch, finally, and more)",
+  "license": "MIT",
+  "web": "https://github.com/archnim/sunk",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "d2704743d17aa1db143e881022b621c030d82e86",
+      "time": 1683419564
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "fc4a37330f91a60c7503ac3f8c8796f7b2a28a3e",
+      "time": 1683416316
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "4751e3b225625dc32a6962c6fc6c7783cbe3b8fc",
+      "time": 1683388926
+    }
+  ],
+  "tags": [
+    "async",
+    "futures"
+  ]
+}

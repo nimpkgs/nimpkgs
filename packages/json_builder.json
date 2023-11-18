@@ -1,0 +1,13 @@
+{
+  "name": "json_builder",
+  "url": "https://github.com/undecided/json_builder",
+  "method": "git",
+  "description": "Easy and fast generator for valid json in nim",
+  "license": "MIT",
+  "web": "https://github.com/undecided/json_builder",
+  "tags": [
+    "json",
+    "generator",
+    "builder"
+  ]
+}

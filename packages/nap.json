@@ -1,0 +1,31 @@
+{
+  "name": "nap",
+  "url": "https://github.com/madprops/nap",
+  "method": "git",
+  "description": "Argument parser",
+  "license": "MIT",
+  "web": "https://github.com/madprops/nap",
+  "versions": [
+    {
+      "tag": "v3.0.0",
+      "hash": "07fb2910860212d01d89a58aec64a3e26364a131",
+      "time": 1628713909
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "7e64f54fa9459361edc557938800609f21e9ef7e",
+      "time": 1628635777
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "d52fc8356b6ba466460d4af6397b402fab564b84",
+      "time": 1574854283
+    }
+  ],
+  "tags": [
+    "arguments",
+    "parser",
+    "opts",
+    "library"
+  ]
+}

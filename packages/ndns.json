@@ -1,0 +1,31 @@
+{
+  "name": "ndns",
+  "url": "https://github.com/rockcavera/nim-ndns",
+  "method": "git",
+  "description": "A pure Nim Domain Name System (DNS) client",
+  "license": "MIT",
+  "web": "https://github.com/rockcavera/nim-ndns",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "d18d1c96280a015ed46a1fe7b18ae3e1a10b7ce3",
+      "time": 1673982435
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "5645b02a746e51a814f6a94515d830de77d03228",
+      "time": 1672894056
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "49f8a0dafca4ffd129a5d59c2e0caf718b0099ac",
+      "time": 1672690676
+    }
+  ],
+  "tags": [
+    "dns",
+    "client",
+    "udp",
+    "tcp"
+  ]
+}

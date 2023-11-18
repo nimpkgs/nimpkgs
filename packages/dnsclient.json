@@ -1,0 +1,12 @@
+{
+  "name": "dnsclient",
+  "url": "https://github.com/ba0f3/dnsclient.nim",
+  "method": "git",
+  "description": "Simple DNS Client & Library",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/dnsclient.nim",
+  "tags": [
+    "dns",
+    "dnsclient"
+  ]
+}

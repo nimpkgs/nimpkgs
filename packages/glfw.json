@@ -1,0 +1,67 @@
+{
+  "name": "glfw",
+  "url": "https://github.com/johnnovak/nim-glfw",
+  "method": "git",
+  "description": "A high-level GLFW 3 wrapper",
+  "license": "MIT",
+  "web": "https://github.com/johnnovak/nim-glfw",
+  "versions": [
+    {
+      "tag": "v3.3.4.0",
+      "hash": "f48c53f97ff9fb41700981205c7e28bdebbb4b03",
+      "time": 1635337036
+    },
+    {
+      "tag": "v3.3.2.1",
+      "hash": "8ff27ba97fa774d87540480421945786d1ba5aba",
+      "time": 1607507893
+    },
+    {
+      "tag": "v3.3.0.3",
+      "hash": "ff919dee823d069af5ebedb573103e41184d40da",
+      "time": 1581503861
+    },
+    {
+      "tag": "v3.3.0.2",
+      "hash": "347ffb4326ef577eea46363b1d1b5ca688cb2bab",
+      "time": 1574580882
+    },
+    {
+      "tag": "v3.3.0.1",
+      "hash": "a9b152eb7419c14ddc55dda752a9c34b356e44c0",
+      "time": 1574478336
+    },
+    {
+      "tag": "v3.3.0.0",
+      "hash": "5d5148989809b711f15548e23f26c4baa32a73fd",
+      "time": 1573960294
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "0b3d9684977992f01792a420c1c56749e9eb8beb",
+      "time": 1528957569
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "566e69393de858500a4a89cbc319790c3cd5813d",
+      "time": 1528260462
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "934e2fc81f0603fa12fce7769d06673bb81b7b97",
+      "time": 1449532746
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "2e5f310b2b32e4f3176cfab0ea638376440a8b88",
+      "time": 1426622126
+    }
+  ],
+  "tags": [
+    "library",
+    "glfw",
+    "opengl",
+    "windowing",
+    "game"
+  ]
+}

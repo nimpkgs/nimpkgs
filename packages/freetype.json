@@ -1,0 +1,13 @@
+{
+  "name": "freetype",
+  "url": "https://github.com/jangko/freetype",
+  "method": "git",
+  "description": "wrapper for FreeType2 library",
+  "license": "MIT",
+  "web": "https://github.com/jangko/freetype",
+  "tags": [
+    "font",
+    "renderint",
+    "library"
+  ]
+}

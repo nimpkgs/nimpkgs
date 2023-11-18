@@ -1,0 +1,25 @@
+{
+  "name": "leopard",
+  "url": "https://github.com/status-im/nim-leopard",
+  "method": "git",
+  "description": "Nim wrapper for Leopard-RS: a fast library for Reed-Solomon erasure correction coding",
+  "license": "Apache-2.0",
+  "web": "https://github.com/status-im/nim-leopard",
+  "versions": [
+    {
+      "tag": "v0.0.2",
+      "hash": "c4ecdd3499637e112e2cfe749006d9f9ca5ed904",
+      "time": 1655568276
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "52217ffdb653172b838e2f5be79acaa2211d3b33",
+      "time": 1652371749
+    }
+  ],
+  "tags": [
+    "data-recovery",
+    "erasure-coding",
+    "reed-solomon"
+  ]
+}

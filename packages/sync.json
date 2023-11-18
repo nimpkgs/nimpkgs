@@ -1,0 +1,86 @@
+{
+  "name": "sync",
+  "url": "https://github.com/planetis-m/sync",
+  "method": "git",
+  "description": "Useful synchronization primitives",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/sync",
+  "versions": [
+    {
+      "tag": "v1.5.0",
+      "hash": "9b8c2926286377aeca0cc41cd313eaf140ecea64",
+      "time": 1639158019
+    },
+    {
+      "tag": "v1.4.0",
+      "hash": "de5c7337ebc22422190e8aeca37d05651735f440",
+      "time": 1626883938
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "19ac734438b6c04fe89711728a97fcde591324eb",
+      "time": 1626350009
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "0872a7cd70ea43a26deb94b8ab12cc5b89a1c212",
+      "time": 1626275951
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "a133d37991e3d4e9553c5261eabcb07d471968f7",
+      "time": 1626179913
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "810bd2d75e9f6e182534ae2488670b51a9f13fc3",
+      "time": 1626163716
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "786698bf9f597834f36cd530d32faee31545a1d7",
+      "time": 1626118367
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "214b868ace4ebc9140ee56734147fbd16b238c71",
+      "time": 1625827678
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "a95f7b0b22c77b98ed63c1c4f435d550de8dbb05",
+      "time": 1625742168
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "1e4ef046ed0447aec7ca4ab3b2e2a5347ac41448",
+      "time": 1625673086
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "5506e4e09b849bd59f930fcccee3096abb089b1d",
+      "time": 1625145155
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "6186a38c97c0f26e1a0c8016979227d26c41717b",
+      "time": 1625001043
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "c99d3a73344c4c02335190b489e7ea8aaa4e9584",
+      "time": 1624955640
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "c9811af2d03dc78a920d33592d0a3daae3d9e68f",
+      "time": 1624953837
+    }
+  ],
+  "tags": [
+    "synchronization",
+    "multithreading",
+    "parallelism",
+    "threads"
+  ]
+}

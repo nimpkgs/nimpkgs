@@ -1,0 +1,50 @@
+{
+  "name": "bio_seq",
+  "url": "https://github.com/kerrycobb/BioSeq",
+  "method": "git",
+  "description": "A Nim library for biological sequence data.",
+  "license": "MIT",
+  "web": "https://github.com/kerrycobb/BioSeq",
+  "versions": [
+    {
+      "tag": "v0.2.4",
+      "hash": "5fe0e7ae2535939c52fac6f530d1855966e9b9c4",
+      "time": 1678126755
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "f87f1021a4cf994f9f05e2aebeeb4e5ed8156e86",
+      "time": 1670374172
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "e5836fe47caee0812ec2c64d8ee667a4f36639c3",
+      "time": 1668839180
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "1ed70fe9766d2f01b11a10fb13c51333bc438868",
+      "time": 1668469032
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "e13ccea2993cc51f93d34d482b12ced0241f12e0",
+      "time": 1667844670
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "355b8b224167f146ed8b5d0e83960859de9b839f",
+      "time": 1665714683
+    }
+  ],
+  "tags": [
+    "fasta",
+    "alignment",
+    "sequence",
+    "biology",
+    "bioinformatics",
+    "rna",
+    "dna",
+    "iupac"
+  ]
+}

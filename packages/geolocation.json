@@ -1,0 +1,13 @@
+{
+  "name": "geolocation",
+  "url": "https://github.com/HazeCS/geolocation",
+  "method": "git",
+  "description": "Retreive geolocation details from an IP",
+  "license": "MIT",
+  "tags": [
+    "geolocation",
+    "geoip",
+    "geo",
+    "location"
+  ]
+}

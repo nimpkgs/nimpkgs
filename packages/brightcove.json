@@ -1,0 +1,14 @@
+{
+  "name": "brightcove",
+  "url": "https://github.com/thisago/brightcove",
+  "method": "git",
+  "description": "Brightcove player parser",
+  "license": "MIT",
+  "web": "https://github.com/thisago/brightcove",
+  "tags": [
+    "library",
+    "extractor",
+    "brightcove",
+    "video"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "azure_translate",
+  "url": "https://github.com/williamhatcher/azure_translate",
+  "method": "git",
+  "description": "Nim Library for Azure Cognitive Services Translate",
+  "license": "MIT",
+  "web": "https://github.com/williamhatcher/azure_translate",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "f4634bd6d0028634b342e915341fdcbf51519b02",
+      "time": 1615143313
+    }
+  ],
+  "tags": [
+    "translate"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "vec",
+  "url": "https://github.com/dom96/vec",
+  "method": "git",
+  "description": "A very simple vector library",
+  "license": "MIT",
+  "web": "https://github.com/dom96/vec",
+  "versions": [
+    {
+      "tag": "v1.0",
+      "hash": "ac6a04f0798c92570955bb6ccbe99b77fdab62dd",
+      "time": 1543680350
+    }
+  ],
+  "tags": [
+    "vector",
+    "library",
+    "simple"
+  ]
+}

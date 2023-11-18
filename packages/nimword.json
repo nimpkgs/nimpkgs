@@ -1,0 +1,23 @@
+{
+  "name": "nimword",
+  "url": "https://github.com/PhilippMDoerner/nimword",
+  "method": "git",
+  "description": "A simple library with a simple interface to do password hashing and validation with different algorithms",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/nimword",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "3b39cfc61482bc953615eba1e44a75304f992b38",
+      "time": 1694282959
+    }
+  ],
+  "tags": [
+    "hashing",
+    "password",
+    "libsodium",
+    "openssl",
+    "argon2",
+    "pbkdf2"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "libp2pdht",
+  "url": "https://github.com/status-im/nim-libp2p-dht",
+  "method": "git",
+  "description": "DHT based on the libp2p Kademlia spec",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-libp2p",
+  "versions": [
+    {
+      "tag": "v0.4.0",
+      "hash": "4ad7b46e3c336bddac3cd436ab5987298c5c6bb4",
+      "time": 1690336069
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "fc7d7ef80c708b3543e51d2b59b1dbd3421822e0",
+      "time": 1689633299
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "7464c8e9a63523f6138c972bfc7c4a706bfa3909",
+      "time": 1689306163
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "127d7be4e506b746e6fc20eb5854d8ced20f2240",
+      "time": 1689202036
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "c516a02a65b567b9fc2d997106fdf5ae9c4895d5",
+      "time": 1689198427
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "b6a227f189cf6b3b06e9ce8e5a8a5a22aa63c06f",
+      "time": 1689113985
+    }
+  ],
+  "tags": [
+    "library",
+    "networking",
+    "libp2p",
+    "dhs",
+    "kademlia"
+  ]
+}

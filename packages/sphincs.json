@@ -1,0 +1,25 @@
+{
+  "name": "sphincs",
+  "url": "https://git.sr.ht/~ehmry/nim_sphincs",
+  "method": "git",
+  "description": "SPHINCS⁺ stateless hash-based signature scheme",
+  "license": "MIT",
+  "web": "https://git.sr.ht/~ehmry/nim_sphincs",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "6a66c7b1c63553fddf3293b7072833a3d6ebb7df",
+      "time": 1525240508
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "036bfb8373f063d0dcd920ee4afefcb23107431c",
+      "time": 1524568119
+    }
+  ],
+  "tags": [
+    "crypto",
+    "pqcrypto",
+    "signing"
+  ]
+}

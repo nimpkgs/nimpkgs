@@ -1,0 +1,32 @@
+{
+  "name": "iniplus",
+  "url": "https://github.com/systemonia/iniplus",
+  "method": "git",
+  "description": "An extended INI parser for Nim.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/systemonia/iniplus",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "c2ba258a0606fcdfd8efe849defc317fee59e3db",
+      "time": 1705522808
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "1c9ddaefd3986987c1869409ad62cf2cf990f084",
+      "time": 1705240044
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "74f4e45681aaad6542cb5a07ba672d5ecb6742e3",
+      "time": 1700939802
+    }
+  ],
+  "tags": [
+    "ini",
+    "config",
+    "parser",
+    "extended",
+    "library"
+  ]
+}

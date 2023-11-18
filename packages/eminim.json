@@ -1,0 +1,161 @@
+{
+  "name": "eminim",
+  "url": "https://github.com/planetis-m/eminim",
+  "method": "git",
+  "description": "JSON serialization framework",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/eminim",
+  "versions": [
+    {
+      "tag": "v2.8.2",
+      "hash": "86d93daa6e4ee773838d968542e5d9614f011c36",
+      "time": 1607864716
+    },
+    {
+      "tag": "v2.8.1",
+      "hash": "6a2acd73d8adc76cec1a1708b48dad11ba75f752",
+      "time": 1607799326
+    },
+    {
+      "tag": "v2.8.0",
+      "hash": "e801ddac6bae1463a816f9dd437ff972a70f1f65",
+      "time": 1607798951
+    },
+    {
+      "tag": "v2.7.0",
+      "hash": "e2ad1b2859df57fdadf62c54998ca77dfdf6fcf8",
+      "time": 1607378103
+    },
+    {
+      "tag": "v2.6.0",
+      "hash": "a84df8c25ce3906813a7bfcfff87fa0755967978",
+      "time": 1607105852
+    },
+    {
+      "tag": "v2.5.1",
+      "hash": "6dd0516cd51ff3d7fba63851fe2137d49fada883",
+      "time": 1606941541
+    },
+    {
+      "tag": "v2.5.0",
+      "hash": "5599aff350d004a38ffeb1eeae5f7ada6426ea94",
+      "time": 1606940248
+    },
+    {
+      "tag": "v2.4.0",
+      "hash": "56e00a9f83179d45d9747b5d86d22760827b0e0a",
+      "time": 1606929058
+    },
+    {
+      "tag": "v2.3.1",
+      "hash": "c6608f5c6aa6c87ad5f6c31de47fa740e9fbdcdc",
+      "time": 1606919855
+    },
+    {
+      "tag": "v2.3.0",
+      "hash": "ab48b8b5bfcdaca46c5aef981845f2d719b65dcd",
+      "time": 1606918202
+    },
+    {
+      "tag": "v2.2.0",
+      "hash": "4b7ee4e65d8ea1a214f40bc0568ca4d5f7cbad91",
+      "time": 1606910590
+    },
+    {
+      "tag": "v2.1.0",
+      "hash": "5c3139aabc0cedf064056e214e1e18d027ad7b9e",
+      "time": 1606905283
+    },
+    {
+      "tag": "v2.0.3",
+      "hash": "1f33afe2386dd90259812260beaa72f2f38729fd",
+      "time": 1606822112
+    },
+    {
+      "tag": "v2.0.2",
+      "hash": "8fc7b732285478c3fc7d2d1a485530de991ef11c",
+      "time": 1606822015
+    },
+    {
+      "tag": "v2.0.1",
+      "hash": "9d9cc01fcfa7344786a6089dc1ca9e5e2b834f7d",
+      "time": 1606818329
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "c0d4aafc0e81de7d52d82a4351e70f56b2bc7b03",
+      "time": 1606807358
+    },
+    {
+      "tag": "v1.9.0",
+      "hash": "870f9cb1c89f53e68b903ee6558067c63c1dd207",
+      "time": 1606768615
+    },
+    {
+      "tag": "v1.8.0",
+      "hash": "4b16c0c115b98e230bc011d6788a177ef665811f",
+      "time": 1606643969
+    },
+    {
+      "tag": "v1.7.0",
+      "hash": "5f588e209294c81f82d9941286db134c13daec00",
+      "time": 1606559898
+    },
+    {
+      "tag": "v1.6.0",
+      "hash": "84ec3141f32ed715cccb4c141547ec3db9710848",
+      "time": 1606504753
+    },
+    {
+      "tag": "v1.5.0",
+      "hash": "599b84cadff5d443f05db6801d402c0ed4a1979a",
+      "time": 1606487641
+    },
+    {
+      "tag": "v1.4.0",
+      "hash": "13d541b9e00ea68318cec7319bd6f46b29f75174",
+      "time": 1606478459
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "d1aa6bdc1c83b02243d224f27a02e3ec7c4f485c",
+      "time": 1606411317
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "36c852eb626b32ed284748e746fe15521f1800d7",
+      "time": 1606393539
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "d24cc1a78bdcc6847b3e0ce468212e4cc158a4fb",
+      "time": 1606382182
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "48491b6ca4cf1b4c33a3d95cccd96c3095d96fa4",
+      "time": 1606339336
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "e498f29bb1f160da1ffe87d499c2b987dc2e2d09",
+      "time": 1572887509
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "69a8c9ae4228d30552616647e34c7d2eaab7711f",
+      "time": 1572853488
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "ff72e83397f23fc9ce6167b0f5f88a133536f50d",
+      "time": 1572726036
+    }
+  ],
+  "tags": [
+    "json",
+    "marshal",
+    "serialize",
+    "deserialize"
+  ]
+}

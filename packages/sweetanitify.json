@@ -1,0 +1,14 @@
+{
+  "name": "sweetanitify",
+  "url": "https://github.com/juancarlospaco/sweetanitify",
+  "method": "git",
+  "description": "Sweet_Anita Translator, help spread awareness about Tourettes",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/sweetanitify",
+  "tags": [
+    "sweet_anita",
+    "tourette",
+    "string",
+    "deleted"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "timeit",
+  "url": "https://github.com/ringabout/timeit",
+  "method": "git",
+  "description": "measuring execution times written in nim.",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/timeit",
+  "versions": [
+    {
+      "tag": "v0.3.6",
+      "hash": "32f993e526188443d63595ab5c7c07c3249bf528",
+      "time": 1585409267
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "cd73891da10b176f95cfb83f673a5247ad8063d1",
+      "time": 1572960734
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "a8a03d7fd008621c3c2805fef0685dde9d85d392",
+      "time": 1572856816
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "7251a602235cd9b545e5e8e2d068a0bff6323419",
+      "time": 1572419012
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "707e98340ed3540aaae971c4c24a99bb2b7b1d28",
+      "time": 1572412052
+    },
+    {
+      "tag": "v0.2.6",
+      "hash": "4738334996f09fbf9cceb5b79184bacd605bc04e",
+      "time": 1572403305
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "7520bd74688b2867e423fe553512df6e6c248f4d",
+      "time": 1571486436
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "2f5a52572784cebc67bdc2b712a4b554ece6da81",
+      "time": 1571312937
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "180cdd51886fceb5ea03007f66377ce6644fb3f8",
+      "time": 1570778347
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "fd179b6b65d2ba2a761531820d50ea123a67c84c",
+      "time": 1570757591
+    },
+    {
+      "tag": "v0.1.8",
+      "hash": "0acdad701172bbb48c5475da436700c5fa219778",
+      "time": 1570716197
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "1c5293932a7afe5f262b7953ed41d93a96697ba1",
+      "time": 1570714435
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "1e46ba8734afde8d43b50a85d0b5a184b08b673f",
+      "time": 1570615247
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "d3f759d493a40d4600019118c3cc2ecc529251b1",
+      "time": 1570602196
+    }
+  ],
+  "tags": [
+    "timeit",
+    "bench"
+  ]
+}

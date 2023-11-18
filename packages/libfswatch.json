@@ -1,0 +1,14 @@
+{
+  "name": "libfswatch",
+  "url": "https://github.com/paul-nameless/nim-fswatch",
+  "method": "git",
+  "description": "Nim binding to libfswatch",
+  "license": "MIT",
+  "web": "https://github.com/paul-nameless/nim-fswatch",
+  "tags": [
+    "fswatch",
+    "libfswatch",
+    "inotify",
+    "fs"
+  ]
+}

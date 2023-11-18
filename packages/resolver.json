@@ -1,0 +1,28 @@
+{
+  "name": "resolver",
+  "url": "https://github.com/ryukoposting/resolver",
+  "method": "git",
+  "description": "Semver parser and dependency management tools",
+  "license": "BSD 3-Clause",
+  "web": "https://github.com/ryukoposting/resolver",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "f007c3b42ae93aa757f55c7575e42d1b58e1109f",
+      "time": 1669838803
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "24e861fc1322e2cf373f0cd7cd3cf6a9d002a95d",
+      "time": 1668812814
+    }
+  ],
+  "tags": [
+    "resolver",
+    "dependency",
+    "dependencies",
+    "semver",
+    "version",
+    "version control"
+  ]
+}

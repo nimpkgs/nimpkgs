@@ -1,0 +1,96 @@
+{
+  "name": "nimhttpd",
+  "url": "https://github.com/h3rald/nimhttpd",
+  "method": "git",
+  "description": "A tiny static file web server.",
+  "license": "MIT",
+  "web": "https://github.com/h3rald/nimhttpd",
+  "versions": [
+    {
+      "tag": "v1.5.1",
+      "hash": "89e5dc03fd77e545261bd812cded14c8b2b2cf86",
+      "time": 1677076177
+    },
+    {
+      "tag": "v1.5.0",
+      "hash": "ca15b65e55c7d599fdaf2a4b332aea0b01bea5ae",
+      "time": 1673866234
+    },
+    {
+      "tag": "v1.4.0",
+      "hash": "6606091dbc99480297cc34dcfccdfc682f129463",
+      "time": 1670524381
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "542d88401b0a065e3424d44dbe9c4fd02bb7c92d",
+      "time": 1652474924
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "482de4b86652e18d741b6a81d5c4ab7baacc0a79",
+      "time": 1619123492
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "1b57f412f55df29cdfd39023dfd134d2f9d35b97",
+      "time": 1604178425
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "441a39dc226afbf7c305971eac77a9a13aa24bb5",
+      "time": 1599904873
+    },
+    {
+      "tag": "v1.0.8",
+      "hash": "3a3b08afa937301c4c4059fba7057b3dacb27364",
+      "time": 1569846457
+    },
+    {
+      "tag": "v1.0.7",
+      "hash": "549f4f45584f7a5c6b29dd8115702f6a15af9da4",
+      "time": 1561314150
+    },
+    {
+      "tag": "v1.0.6",
+      "hash": "91ac711138d852c71ab2dbc0f6bd72dc87e6fc36",
+      "time": 1540124090
+    },
+    {
+      "tag": "v1.0.5",
+      "hash": "d3faad88718122ee7ce93b524f5ef0e3a0515e87",
+      "time": 1525607716
+    },
+    {
+      "tag": "v1.0.4",
+      "hash": "301242ed8bf652f4fbf6487cbfdb7b259b77a5c7",
+      "time": 1525529719
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "3f640b344f49652f0bc2c9c81e870c824d997130",
+      "time": 1520790298
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "fcdbacff6ec502372224045bf31d9e1f5f72b98c",
+      "time": 1496424072
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "b18db95716a3b63cbd201dd92de67b6384f7beba",
+      "time": 1480004094
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "beb4816e98978043842e78802006ccb2c8112aa8",
+      "time": 1444560565
+    }
+  ],
+  "tags": [
+    "web-server",
+    "static-file-server",
+    "server",
+    "http"
+  ]
+}

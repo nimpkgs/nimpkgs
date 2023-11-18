@@ -1,0 +1,20 @@
+{
+  "name": "namenumbersort",
+  "url": "https://github.com/amaank404/namenumbersort",
+  "method": "git",
+  "description": "Provides a system.cmp like function that can be used with std/algorithm.sort to smartly sort string sequences based on their contents rather than exact match",
+  "license": "MIT",
+  "web": "https://github.com/amaank404/namenumbersort",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "e817955f8bcbbe8b4a7ba1501702f4a47dd07e00",
+      "time": 1691835564
+    }
+  ],
+  "tags": [
+    "sorting",
+    "hybrid",
+    "cmp"
+  ]
+}

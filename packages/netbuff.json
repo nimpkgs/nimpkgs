@@ -1,0 +1,25 @@
+{
+  "name": "netbuff",
+  "url": "https://github.com/jakubDoka/netbuff",
+  "method": "git",
+  "description": "Fast and unsafe byte buffering for intensive network data transfer.",
+  "license": "MIT",
+  "web": "https://github.com/jakubDoka/netbuff",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "149d4510816a805ad508cafff698bf44d577a0ea",
+      "time": 1622111206
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "4d0deecd288dd8d41b6a83a7c80a2c620577478f",
+      "time": 1622110095
+    }
+  ],
+  "tags": [
+    "net",
+    "buffer",
+    "macros"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "hotdoc",
+  "url": "https://github.com/willyboar/hotdoc",
+  "method": "git",
+  "description": "Single Page Documentation Generator",
+  "license": "MIT",
+  "web": "https://github.com/willyboar/hotdoc",
+  "tags": [
+    "static",
+    "docs",
+    "generator"
+  ]
+}

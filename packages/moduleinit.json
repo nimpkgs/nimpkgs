@@ -1,0 +1,35 @@
+{
+  "name": "moduleinit",
+  "url": "https://github.com/skunkiferous/moduleinit",
+  "method": "git",
+  "description": "Nim module/thread initialisation ordering library",
+  "license": "MIT",
+  "web": "https://github.com/skunkiferous/moduleinit",
+  "versions": [
+    {
+      "tag": "v0.4.0",
+      "hash": "b394ee33650c765c541901032291bb2f49b69102",
+      "time": 1521310390
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "5e78e9dc26fce6f8f2232d5258d1fdf62637b335",
+      "time": 1520861988
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "e7485979885444db10c7cbe4bc975e4b4caacb24",
+      "time": 1520774633
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "32a9ecdb83616d9675d5c6e24e31775189c44f2f",
+      "time": 1520768326
+    }
+  ],
+  "tags": [
+    "library",
+    "parallelism",
+    "threads"
+  ]
+}

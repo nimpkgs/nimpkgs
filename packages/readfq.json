@@ -1,0 +1,22 @@
+{
+  "name": "readfq",
+  "url": "https://github.com/andreas-wilm/nimreadfq",
+  "method": "git",
+  "description": "Wrapper for Heng Li's kseq",
+  "license": "MIT",
+  "web": "https://github.com/andreas-wilm/nimreadfq",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "4ac20ef3dfff8dfb16a220d62f01d810002839d4",
+      "time": 1574436334
+    }
+  ],
+  "tags": [
+    "fasta",
+    "fastq",
+    "parser",
+    "kseq",
+    "readfq"
+  ]
+}

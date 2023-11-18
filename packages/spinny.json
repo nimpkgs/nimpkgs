@@ -1,0 +1,14 @@
+{
+  "name": "spinny",
+  "url": "https://github.com/Yardanico/spinny",
+  "method": "git",
+  "description": "Spinny is a tiny terminal spinner package for the Nim Programming Language.",
+  "license": "MIT",
+  "web": "https://github.com/Yardanico/spinny",
+  "tags": [
+    "terminal",
+    "spinner",
+    "spinny",
+    "load"
+  ]
+}

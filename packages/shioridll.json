@@ -1,0 +1,34 @@
+{
+  "name": "shioridll",
+  "url": "https://github.com/Narazaka/shioridll-nim",
+  "method": "git",
+  "description": "The SHIORI DLL interface",
+  "license": "MIT",
+  "web": "https://github.com/Narazaka/shioridll-nim",
+  "versions": [
+    {
+      "tag": "v3.0.0",
+      "hash": "bde72bafccae843feaf5d9b79d0cc437f40d312e",
+      "time": 1516437990
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "3685a50ad2b5013cbd0a53c85c19dbdad15a5641",
+      "time": 1516419510
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "56db249b939569de524f4783bb4b31f039e7872b",
+      "time": 1508215100
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "102211d00093ef114942cff72e8b7bc59c3903fc",
+      "time": 1507363528
+    }
+  ],
+  "tags": [
+    "shiori",
+    "ukagaka"
+  ]
+}

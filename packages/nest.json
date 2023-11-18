@@ -1,0 +1,14 @@
+{
+  "name": "nest",
+  "url": "https://github.com/kedean/nest.git",
+  "method": "git",
+  "description": "RESTful URI router",
+  "license": "MIT",
+  "web": "https://github.com/kedean/nest",
+  "tags": [
+    "library",
+    "api",
+    "router",
+    "web"
+  ]
+}

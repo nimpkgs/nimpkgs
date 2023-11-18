@@ -1,0 +1,12 @@
+{
+  "name": "news",
+  "url": "https://github.com/tormund/news",
+  "method": "git",
+  "description": "Easy websocket with chronos support",
+  "license": "MIT",
+  "web": "https://github.com/tormund/news",
+  "tags": [
+    "websocket",
+    "chronos"
+  ]
+}

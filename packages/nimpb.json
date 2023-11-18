@@ -1,0 +1,14 @@
+{
+  "name": "nimpb",
+  "url": "https://github.com/oswjk/nimpb",
+  "method": "git",
+  "description": "A Protocol Buffers library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/oswjk/nimpb",
+  "tags": [
+    "serialization",
+    "protocol-buffers",
+    "protobuf",
+    "library"
+  ]
+}

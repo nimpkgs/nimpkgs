@@ -1,0 +1,35 @@
+{
+  "name": "ansiparse",
+  "url": "https://github.com/PMunch/ansiparse",
+  "method": "git",
+  "description": "Library to parse ANSI escape codes",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/ansiparse",
+  "versions": [
+    {
+      "tag": "v0.4.0",
+      "hash": "4f97d31792ccc2b76d77cdea7683e7b73d5ff6f6",
+      "time": 1691502287
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "23caab62fbf9d59e9698fc41648a19cbdfaa1661",
+      "time": 1691497343
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "1a39d36d5495893c83c786e55ea60b34d0e21d7c",
+      "time": 1691496267
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "8bddf513441ecf454026038c5b2ae1f42732c6d5",
+      "time": 1599046094
+    }
+  ],
+  "tags": [
+    "ansi",
+    "library",
+    "parsing"
+  ]
+}

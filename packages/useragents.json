@@ -1,0 +1,19 @@
+{
+  "name": "useragents",
+  "url": "https://github.com/treeform/useragents",
+  "method": "git",
+  "description": "User Agent parser for nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/useragents",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "ad9c8502f2eb6ff779f56216239d92f504b37e1b",
+      "time": 1563307113
+    }
+  ],
+  "tags": [
+    "library",
+    "useragent"
+  ]
+}

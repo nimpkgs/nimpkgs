@@ -1,0 +1,13 @@
+{
+  "name": "fastcgi",
+  "url": "https://github.com/ba0f3/fastcgi.nim",
+  "method": "git",
+  "description": "FastCGI library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/fastcgi.nim",
+  "tags": [
+    "fastcgi",
+    "fcgi",
+    "cgi"
+  ]
+}

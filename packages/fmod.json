@@ -1,0 +1,27 @@
+{
+  "name": "fmod",
+  "url": "https://github.com/johnnovak/nim-fmod",
+  "method": "git",
+  "description": "Nim wrapper for the FMOD Low Level C API",
+  "license": "MIT",
+  "web": "https://github.com/johnnovak/nim-fmod",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "40d70b2dd6c3a7e5123b1e08b724ad8ab7521cd2",
+      "time": 1562815189
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "d9f3e69767c541891538451e95640a133fd4a7fe",
+      "time": 1530927223
+    }
+  ],
+  "tags": [
+    "library",
+    "fmod",
+    "audio",
+    "game",
+    "sound"
+  ]
+}

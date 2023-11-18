@@ -1,0 +1,12 @@
+{
+  "name": "luna",
+  "url": "https://github.com/smallfx/luna.nim",
+  "method": "git",
+  "description": "Lua convenience library for nim",
+  "license": "MIT",
+  "web": "https://github.com/smallfx/luna.nim",
+  "tags": [
+    "lua",
+    "scripting"
+  ]
+}

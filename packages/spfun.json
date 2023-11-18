@@ -1,0 +1,15 @@
+{
+  "name": "spfun",
+  "url": "https://github.com/c-blake/spfun",
+  "method": "git",
+  "description": "Special Functions of Stats & Physics",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/spfun",
+  "tags": [
+    "statistics",
+    "mathematics",
+    "physics",
+    "special functions",
+    "numerical methods"
+  ]
+}

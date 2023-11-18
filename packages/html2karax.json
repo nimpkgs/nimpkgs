@@ -1,0 +1,55 @@
+{
+  "name": "html2karax",
+  "url": "https://github.com/nim-lang-cn/html2karax",
+  "method": "git",
+  "description": "Converts html to karax.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang-cn/html2karax",
+  "versions": [
+    {
+      "tag": "v1.2.1",
+      "hash": "a38423d2c5dc16e07577861be7263c82a44d8d02",
+      "time": 1643583495
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "213fe8be7f8a417d1a6dccbeecb2c6f349390c52",
+      "time": 1643575172
+    },
+    {
+      "tag": "v1.1.3",
+      "hash": "f2caed06768dd3058c396aea7888fa2712018868",
+      "time": 1643473027
+    },
+    {
+      "tag": "v1.1.2",
+      "hash": "eea50a4be1080327bbc8b08534fa91a70b8f4432",
+      "time": 1643465264
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "68ee009292db7d799b3e3684fad5acf3295cfc7e",
+      "time": 1643409798
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "7f809450274da5bdab407af1c18c29e859699fc9",
+      "time": 1643405480
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "146e1dc1f145bbc0f400ae3812df55e0cd8e24ce",
+      "time": 1643382675
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "7233516feba50ed6dd37e32a45ee12447fb0fbfe",
+      "time": 1643382330
+    }
+  ],
+  "tags": [
+    "web",
+    "karax",
+    "html"
+  ]
+}

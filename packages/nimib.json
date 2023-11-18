@@ -1,0 +1,132 @@
+{
+  "name": "nimib",
+  "url": "https://github.com/pietroppeter/nimib",
+  "method": "git",
+  "description": "nimib 🐳 - nim 👑 driven ⛵ publishing ✍",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/nimib",
+  "versions": [
+    {
+      "tag": "v0.3.10",
+      "hash": "27ee834e22655959bb3ada2d43f30506e8cd08f7",
+      "time": 1706355376
+    },
+    {
+      "tag": "v0.3.9",
+      "hash": "d8c101089d3766523287d9b12e6a4be3b2434918",
+      "time": 1679895569
+    },
+    {
+      "tag": "v0.3.8",
+      "hash": "ed0775f556dc8bf5965cef4e0fe564eafa7db5b4",
+      "time": 1677311249
+    },
+    {
+      "tag": "v0.3.7",
+      "hash": "d144ac5efb8db8d1667372972c4653e1b13fbf0e",
+      "time": 1677168932
+    },
+    {
+      "tag": "v0.3.6",
+      "hash": "e25ee44e99481cf10947f5ab760d1434e457322d",
+      "time": 1675939391
+    },
+    {
+      "tag": "v0.3.5",
+      "hash": "c7f3e95f1f29dda3624477620d99b4a7ba06050f",
+      "time": 1674918256
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "ad0e44beb926f8b1348ad3146dd1ec491e1da436",
+      "time": 1669758959
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "8ad307df2f396818e234104623c6d28d540f04a6",
+      "time": 1668363518
+    },
+    {
+      "tag": "v0.3.2",
+      "hash": "f0a03e15f8e4730932ccd48431ee50590ac11257",
+      "time": 1666361169
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "2eed8c273927ddf5fb315c0eae1969e35960e27d",
+      "time": 1662922686
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "b37ec6d054e90f705d1757bbc49b97fa14a1ce15",
+      "time": 1657535619
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "20824e4af9f5fbd9e68373ba52eeca9bb0e46b1c",
+      "time": 1638041618
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "6e9b7eb05690fd66406b1db43b7af5aae0853c68",
+      "time": 1636535253
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "a23514a158ee3ecbd4dcf13a0d5914108eec7e5e",
+      "time": 1636409001
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "59a717863840fdd694a241945b1bba31e2acb100",
+      "time": 1636310293
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "df345bc860216ed3c5e9ce0e65b1d3f817df0da6",
+      "time": 1636219190
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "166b3542220183c38458261126a80527c1a6196d",
+      "time": 1624511527
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "4e9b8dac00b8b39d554ddad0c0fb78ede393deae",
+      "time": 1624351191
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "12326295444970cbbf18b5872129d2cfb9755700",
+      "time": 1623320297
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "6b24c8b494a65dd0c8a6b695a779516e9d5c7327",
+      "time": 1622734778
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "dda83a58e1fb2ae53523e29905614f9bfa62a02a",
+      "time": 1621063669
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "257d631f8130577e7984b3e498f27f9e0beb56b3",
+      "time": 1620998254
+    },
+    {
+      "tag": "v0.1",
+      "hash": "fff4825a824b388f668a991623f2e51423d67d5f",
+      "time": 1616967018
+    }
+  ],
+  "tags": [
+    "notebook",
+    "library",
+    "html",
+    "markdown",
+    "publish"
+  ]
+}

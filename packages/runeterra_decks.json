@@ -1,0 +1,91 @@
+{
+  "name": "runeterra_decks",
+  "url": "https://github.com/SolitudeSF/runeterra_decks",
+  "method": "git",
+  "description": "Legends of Runeterra deck/card code encoder/decoder",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/runeterra_decks",
+  "versions": [
+    {
+      "tag": "v0.9.1",
+      "hash": "50321b79608d160e30771c7f2587a3419aa9535e",
+      "time": 1694798341
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "3d3d1906463af731ed6c62b10c483c35d799d2fe",
+      "time": 1693666843
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "2bdbdc20ecd6692dd43aeeebbf7a2a9f9d253fbb",
+      "time": 1671996790
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "95e88ba9152a2d4900677b6f53a434a8fa81bfce",
+      "time": 1653554362
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "13ee6bea46e787d2842dbf9fa3edd5f0c2c3484c",
+      "time": 1653552054
+    },
+    {
+      "tag": "v0.6.1",
+      "hash": "0413b6c8a72983a8f4d437f056329af6f923f2c3",
+      "time": 1617130628
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "7b9a1b6ac8e8474de432b2dafd353794f2985614",
+      "time": 1614847489
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "5b11a6781d363cb81942157acdaf326b8cc282db",
+      "time": 1612300653
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "1d0898744764cd51ef07d5bf877f0cc818e707ca",
+      "time": 1611316654
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "efd4025825bdac2cabf1a2dd5d8db25c25fb0e64",
+      "time": 1610810184
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "f2d06f2e05b33181e433be18d6b8205cf4f33a7a",
+      "time": 1610526817
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "e7a992167598628a5ead4b16fd6d3195550431f3",
+      "time": 1608483939
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "5e31249e085414ff4c3ed59a18008d275bad37a6",
+      "time": 1607788602
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "341d443d6439e3b51cc970f8154a49c0b3160280",
+      "time": 1607787351
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "caf70091d4d44566ea22dd0f127c417aaea86ee1",
+      "time": 1606423751
+    }
+  ],
+  "tags": [
+    "runeterra",
+    "deck",
+    "encoder",
+    "decoder"
+  ]
+}

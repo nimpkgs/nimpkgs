@@ -1,0 +1,30 @@
+{
+  "name": "nsdl3",
+  "url": "https://github.com/amnr/nsdl3",
+  "method": "git",
+  "description": "High level SDL 3.0 shared library wrapper",
+  "license": "NCSA OR MIT OR Zlib",
+  "web": "https://github.com/amnr/nsdl3",
+  "versions": [
+    {
+      "tag": "v0.9.5",
+      "hash": "342291fe169c7fd92cef3a780464132c005ec16e",
+      "time": 1706437492
+    },
+    {
+      "tag": "v0.9.4",
+      "hash": "49224647bf2f6db0d74902363fadebba5a22625c",
+      "time": 1706205018
+    }
+  ],
+  "tags": [
+    "sdl",
+    "sdl3",
+    "library",
+    "wrapper",
+    "gui",
+    "graphics",
+    "audio",
+    "video"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "highlight",
+  "url": "https://github.com/RaimundHuebel/nimhighlight",
+  "method": "git",
+  "description": "Tool/Lib to highlight text in CLI by using regular expressions.",
+  "license": "MIT",
+  "web": "https://github.com/RaimundHuebel/nimhighlight",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "53369e22a1110b0908469d92683370dc314a653b",
+      "time": 1602518240
+    }
+  ],
+  "tags": [
+    "cli",
+    "tool",
+    "highlighting",
+    "colorizing"
+  ]
+}

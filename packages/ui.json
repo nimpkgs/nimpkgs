@@ -1,0 +1,14 @@
+{
+  "name": "ui",
+  "url": "https://github.com/nim-lang/ui",
+  "method": "git",
+  "description": "A wrapper for libui",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/ui",
+  "tags": [
+    "library",
+    "GUI",
+    "libui",
+    "toolkit"
+  ]
+}

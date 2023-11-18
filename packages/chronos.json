@@ -1,0 +1,31 @@
+{
+  "name": "chronos",
+  "url": "https://github.com/status-im/nim-chronos",
+  "method": "git",
+  "description": "An efficient library for asynchronous programming",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-chronos",
+  "versions": [
+    {
+      "tag": "v4.0.0",
+      "hash": "672db137b7cad9b384b8f4fb551fb6bbeaabfe1b",
+      "time": 1706117593
+    },
+    {
+      "tag": "v3.2.0",
+      "hash": "ba143e029f35fd9b4cd3d89d007cc834d0d5ba3c",
+      "time": 1685864764
+    }
+  ],
+  "tags": [
+    "library",
+    "networking",
+    "async",
+    "asynchronous",
+    "eventloop",
+    "timers",
+    "sendfile",
+    "tcp",
+    "udp"
+  ]
+}

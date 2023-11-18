@@ -1,0 +1,31 @@
+{
+  "name": "nimroutine",
+  "url": "https://github.com/rogercloud/nim-routine",
+  "method": "git",
+  "description": "A go routine like nim implementation",
+  "license": "MIT",
+  "web": "https://github.com/rogercloud/nim-routine",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "b4badc8fff02a7dfc17be511d6a8fb2868c87a23",
+      "time": 1445227295
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "bcd57eca55a37fcdfc8dfa15081e217237e1c502",
+      "time": 1444879169
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "2cd041b98fd6460b40041a391dc03446edae2a90",
+      "time": 1443412999
+    }
+  ],
+  "tags": [
+    "goroutine",
+    "routine",
+    "lightweight",
+    "thread"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "discord_rpc",
+  "url": "https://github.com/SolitudeSF/discord_rpc",
+  "method": "git",
+  "description": "Discord RPC/Rich Presence client",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/discord_rpc",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "6f3dbd21accde3747410cd65f67355bddeae389c",
+      "time": 1705784327
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "b38d483f43f740e48f69e6fb6be1cac79bfab400",
+      "time": 1641716201
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "c276463f57525d3e40aa635ae009bc78ba90fcf6",
+      "time": 1604935295
+    }
+  ],
+  "tags": [
+    "discord",
+    "rpc",
+    "rich-presence"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "suggest",
+  "url": "https://github.com/c-blake/suggest.git",
+  "method": "git",
+  "description": "mmap-persistent SymSpell spell checking algorithm",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/suggest.git",
+  "versions": [
+    {
+      "tag": "v.13",
+      "hash": "8984bd4528aef767e04cc6c23fd162913757d087",
+      "time": 1673803424
+    },
+    {
+      "tag": "v1.2",
+      "hash": "16099bb3e71fb9dcbc953ca6feb280a4f68cf88a",
+      "time": 1670529536
+    },
+    {
+      "tag": "v1.1",
+      "hash": "da10d37a1cd72768520f4880235b2ca514ceef6d",
+      "time": 1610630714
+    },
+    {
+      "tag": "v1.0",
+      "hash": "fcfcaf65efcd3d1ff4779dac224caaab3d943f42",
+      "time": 1601738943
+    }
+  ],
+  "tags": [
+    "library",
+    "spell-check",
+    "edit-distance"
+  ]
+}

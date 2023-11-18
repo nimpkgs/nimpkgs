@@ -1,0 +1,150 @@
+{
+  "name": "litestore",
+  "url": "https://github.com/h3rald/litestore",
+  "method": "git",
+  "description": "A lightweight, self-contained, RESTful, searchable, multi-format NoSQL document store",
+  "license": "MIT",
+  "web": "https://h3rald.com/litestore",
+  "versions": [
+    {
+      "tag": "v1.13.0",
+      "hash": "d89cc2633622fc3ca8d7595c196e555eb248b2d7",
+      "time": 1704661443
+    },
+    {
+      "tag": "v1.12.2",
+      "hash": "be677aa85aeee8e501e52a14ca508ed54e16f6cd",
+      "time": 1693034463
+    },
+    {
+      "tag": "v1.12.1",
+      "hash": "005e8cf145b1f3c9f10c7725d94b19628d739706",
+      "time": 1672154563
+    },
+    {
+      "tag": "v1.12.0",
+      "hash": "436166f3b162d4d6777e3b3a3691b0fed4b3ae86",
+      "time": 1660922855
+    },
+    {
+      "tag": "v1.11.0",
+      "hash": "f057e3fed088a3008b07017fbd8065276ba5e452",
+      "time": 1625330340
+    },
+    {
+      "tag": "v1.10.0",
+      "hash": "7bc62d29157f2d7e4cd63f3f25aaa862028eb382",
+      "time": 1618430431
+    },
+    {
+      "tag": "v1.9.3",
+      "hash": "f17a27e871c65d2d25b936f1eea2c1c49530faed",
+      "time": 1606752442
+    },
+    {
+      "tag": "v1.9.2, v1.9.1",
+      "hash": "b2b18e78abb6a965031ebfa8036aa1fe962c69cd",
+      "time": 1599384021
+    },
+    {
+      "tag": "v1.9.0",
+      "hash": "5b98df244f67c14c7acbac390c0f22f93f39f2e1",
+      "time": 1584550481
+    },
+    {
+      "tag": "v1.8.0",
+      "hash": "ab5a1bb2885f9f6dd5e9a82b8bc3e72c0d0b2e51",
+      "time": 1583603150
+    },
+    {
+      "tag": "v1.7.0",
+      "hash": "e66a778d2a26a6dfbc7944b6d1b05e339cc2687a",
+      "time": 1578933080
+    },
+    {
+      "tag": "v1.6.0",
+      "hash": "bd81a1f99cc3dcb3eb281f13c22aeec8e2807b04",
+      "time": 1577623710
+    },
+    {
+      "tag": "v1.5.1",
+      "hash": "31898860bad3295eead80aa96ac2787a2c8cfb4d",
+      "time": 1569845680
+    },
+    {
+      "tag": "v1.5.0",
+      "hash": "5294b1bd9a05c0cbdf21a95e490a1abb45f3e14a",
+      "time": 1537696031
+    },
+    {
+      "tag": "v1.4.1",
+      "hash": "a65d5503b7a8ea7b605b209aac55b45bfafc3381",
+      "time": 1531063695
+    },
+    {
+      "tag": "v1.4.0",
+      "hash": "6ae6131855fd32d797d8033783ec3df04dbf73c6",
+      "time": 1525519637
+    },
+    {
+      "tag": "v1.3.1",
+      "hash": "88f6a60af85c9cfbcd5f5a4128dcf813703e6f4e",
+      "time": 1520764092
+    },
+    {
+      "tag": "v1.3.0",
+      "hash": "993e0731828efe3a2a4f04d6a2d05641fcad2263",
+      "time": 1519570458
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "3d7c05929e96de36c2043a2185546a2ff09c8424",
+      "time": 1509293605
+    },
+    {
+      "tag": "v1.1.1",
+      "hash": "a44ee66a865b1ce83b1c8423b301aa294a24517c",
+      "time": 1462711139
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "d1fb3abac771f07f6259e1f645242fef8dd69aba",
+      "time": 1460900770
+    },
+    {
+      "tag": "v1.0.5",
+      "hash": "6cbe13f82397b8f3125d8bc4d6b4d0abf406404d",
+      "time": 1454764753
+    },
+    {
+      "tag": "v1.0.4",
+      "hash": "9a3e59b556f96ffec02ff77f13797d174d054aa8",
+      "time": 1451215083
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "c7caf248dd6b41ebc900a4f28be70f1ea7b29fb2",
+      "time": 1448809759
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "8b1355e4af89aa2d6183e1de8b0a8c4bdfc233dd",
+      "time": 1445972904
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "d364b2ae0124100f5de2ba96608ac9493f5ca5ae",
+      "time": 1443262189
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "7295f850a1f9c73cd8eeaba237bc4a2abff0911d",
+      "time": 1442767129
+    }
+  ],
+  "tags": [
+    "database",
+    "rest",
+    "sqlite"
+  ]
+}

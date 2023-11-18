@@ -1,0 +1,15 @@
+{
+  "name": "gura",
+  "url": "https://github.com/khchen/gura",
+  "method": "git",
+  "description": "Gura Configuration Language for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/gura",
+  "tags": [
+    "configuration",
+    "serialization",
+    "parsing",
+    "toml",
+    "yaml"
+  ]
+}

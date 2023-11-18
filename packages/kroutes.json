@@ -1,0 +1,15 @@
+{
+  "name": "kroutes",
+  "url": "https://github.com/ryukoposting/kroutes",
+  "method": "git",
+  "description": "Karax router supporting both client-side and server-side rendering",
+  "license": "MIT",
+  "web": "https://github.com/ryukoposting/kroutes",
+  "tags": [
+    "karax",
+    "router",
+    "frontend",
+    "routing",
+    "webapp"
+  ]
+}

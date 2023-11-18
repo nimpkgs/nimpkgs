@@ -1,0 +1,20 @@
+{
+  "name": "dogapi",
+  "url": "https://github.com/thechampagne/dogapi-nim",
+  "method": "git",
+  "description": "Dog API client",
+  "license": "Apache-2.0",
+  "web": "https://github.com/thechampagne/dogapi-nim",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "b803a6d57e63568b83460bdc04587ac874983e9c",
+      "time": 1649497644
+    }
+  ],
+  "tags": [
+    "api-client",
+    "api-wrapper",
+    "dogapi"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "metatools",
+  "url": "https://github.com/jxy/metatools",
+  "method": "git",
+  "description": "Metaprogramming tools for Nim",
+  "license": "MIT",
+  "web": "https://github.com/jxy/metatools",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "f006568178f94a31ddcdf0b0d8f9452c9812b6ed",
+      "time": 1550676462
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "a882a8cf5b15feef74d1df8533c47607266286ba",
+      "time": 1508995680
+    }
+  ],
+  "tags": [
+    "macros",
+    "metaprogramming"
+  ]
+}

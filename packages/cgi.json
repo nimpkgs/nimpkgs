@@ -1,0 +1,20 @@
+{
+  "name": "cgi",
+  "url": "https://github.com/nim-lang/cgi",
+  "method": "git",
+  "description": "Helper procs for CGI applications in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/cgi",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "785c0561a2cf8dc962de00dc3902b1940219a35d",
+      "time": 1669630335
+    }
+  ],
+  "tags": [
+    "cgi",
+    "official",
+    "stdlib"
+  ]
+}

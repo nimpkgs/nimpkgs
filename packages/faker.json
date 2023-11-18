@@ -1,0 +1,152 @@
+{
+  "name": "faker",
+  "url": "https://github.com/jiro4989/faker",
+  "method": "git",
+  "description": "faker is a Nim package that generates fake data for you.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/faker",
+  "versions": [
+    {
+      "tag": "v0.16.0",
+      "hash": "e12df334688fff7053d382b68968d861783b7d7c",
+      "time": 1669472086
+    },
+    {
+      "tag": "v0.15.2",
+      "hash": "33b742bfe840b5dfcd3d081e7ae649a8a48af7bd",
+      "time": 1645236333
+    },
+    {
+      "tag": "v0.15.1",
+      "hash": "86b316bd86fa0d706b05f7a5f629a133e17d7f8c",
+      "time": 1641991802
+    },
+    {
+      "tag": "v0.15.0",
+      "hash": "088f47da6d47c32952fd830363b207b79955a98f",
+      "time": 1641989409
+    },
+    {
+      "tag": "v0.14.0",
+      "hash": "293f45213a64321453e91fd6740c3129da085f18",
+      "time": 1610409658
+    },
+    {
+      "tag": "v0.13.2",
+      "hash": "c6c61488159c445cf26562074463f719a1e1e406",
+      "time": 1595095165
+    },
+    {
+      "tag": "v0.13.1",
+      "hash": "b86319ce36ccf53a8ad24de4a65b63df101f7582",
+      "time": 1595094732
+    },
+    {
+      "tag": "v0.13.0",
+      "hash": "240d5f71587d364acd110f3e984c0da42323f395",
+      "time": 1587142417
+    },
+    {
+      "tag": "v0.12.1",
+      "hash": "21648342e902e76d57e8fd6e1e62afacfe950d92",
+      "time": 1583672036
+    },
+    {
+      "tag": "v0.12.0",
+      "hash": "a89300bcde2914be0f13c17c7a6441c96de3529d",
+      "time": 1583665082
+    },
+    {
+      "tag": "v0.11.2",
+      "hash": "b0edc03371a690808a7488e169f875d5c4c984b7",
+      "time": 1581339839
+    },
+    {
+      "tag": "v0.11.1",
+      "hash": "b4554f78d2be8d41ee562ef9615a296bf48268a6",
+      "time": 1581335385
+    },
+    {
+      "tag": "v0.11.0",
+      "hash": "7f382f58572bca55c9304decf7280dc974557e89",
+      "time": 1581317676
+    },
+    {
+      "tag": "v0.10.0",
+      "hash": "916feb1d3b262c9bf710ff17a4e7f798c2a070ec",
+      "time": 1581303867
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "3fa2332962d3dfe847226f6f3fd0c630b0c17542",
+      "time": 1581301676
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "30e4feb76129d94b7a57e119d052e0667d7e0053",
+      "time": 1581133538
+    },
+    {
+      "tag": "v0.7.2",
+      "hash": "70dc85a1991635e3da26f4855674173cd0440bb6",
+      "time": 1578897820
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "b60d3a6e9d8f76d877e079c96acb8f67a1e0cf8f",
+      "time": 1578028599
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "9115a0efc49e0e149d094fbca34e66e342c7b5ab",
+      "time": 1578026389
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "e84a946122c8fb1269cb4b3bc47144cdd6a8e123",
+      "time": 1577709338
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "023964c5a46f922c48c362d8b81b6337434990b2",
+      "time": 1577688606
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "e5e083dbe2e0516ad2802b25b165cbc672592058",
+      "time": 1577687812
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "ddc95963d98cafe985b0edc5284b44af68b8292c",
+      "time": 1577684544
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "f5ea32f55d36da145e83d6d2ea1f4daf434a0b33",
+      "time": 1577276910
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "02661454767328edff15c4e8975639240777d51f",
+      "time": 1577102851
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "82dd50c67ef7fcc3754bacad702941068eb96db2",
+      "time": 1577101489
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "0eb421820ad96b71663324cff20dd94742e72dca",
+      "time": 1577022851
+    }
+  ],
+  "tags": [
+    "faker",
+    "library",
+    "cli",
+    "generator",
+    "fakedata"
+  ]
+}

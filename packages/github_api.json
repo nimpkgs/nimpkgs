@@ -1,0 +1,14 @@
+{
+  "name": "github_api",
+  "url": "https://github.com/watzon/github-api-nim",
+  "method": "git",
+  "description": "Nim wrapper for the GitHub API",
+  "license": "WTFPL",
+  "web": "https://github.com/watzon/github-api-nim",
+  "tags": [
+    "library",
+    "api",
+    "github",
+    "client"
+  ]
+}

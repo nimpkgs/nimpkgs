@@ -1,0 +1,20 @@
+{
+  "name": "breeze",
+  "url": "https://github.com/alehander42/breeze",
+  "method": "git",
+  "description": "A dsl for writing macros in Nim",
+  "license": "MIT",
+  "web": "https://github.com/alehander42/breeze",
+  "versions": [
+    {
+      "tag": "v0.0.4",
+      "hash": "c640c8a20549a1feb6f6b9f2487579dde22be67f",
+      "time": 1506332777
+    }
+  ],
+  "tags": [
+    "dsl",
+    "macro",
+    "metaprogramming"
+  ]
+}

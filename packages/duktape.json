@@ -1,0 +1,15 @@
+{
+  "name": "duktape",
+  "url": "https://github.com/manguluka/duktape-nim",
+  "method": "git",
+  "description": "wrapper for the Duktape embeddable Javascript engine",
+  "license": "MIT",
+  "web": "https://github.com/manguluka/duktape-nim",
+  "tags": [
+    "js",
+    "javascript",
+    "scripting",
+    "language",
+    "interpreter"
+  ]
+}

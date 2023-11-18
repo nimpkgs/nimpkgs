@@ -1,0 +1,17 @@
+{
+  "name": "cron",
+  "url": "https://github.com/c-blake/cron",
+  "method": "git",
+  "description": "Library to ease writing cron-like programs",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/cron",
+  "tags": [
+    "cron",
+    "scheduled-tasks",
+    "task-scheduler",
+    "periodic-jobs",
+    "jobs",
+    "demon",
+    "daemon"
+  ]
+}

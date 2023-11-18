@@ -1,0 +1,15 @@
+{
+  "name": "wiringPiNim",
+  "url": "https://github.com/ThomasTJdev/nim_wiringPiNim",
+  "method": "git",
+  "description": "Wrapper that implements some of wiringPi's function for controlling a Raspberry Pi",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_wiringPiNim",
+  "tags": [
+    "wrapper",
+    "raspberry",
+    "rpi",
+    "wiringpi",
+    "pi"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "voicepeaky4gpt",
+  "url": "https://github.com/solaoi/voicepeaky4gpt",
+  "method": "git",
+  "description": "Voicepeak Server With GPT",
+  "license": "MIT",
+  "web": "https://github.com/solaoi/voicepeaky4gpt",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "f849b017e5d998918c728dde161d2b49f90e9dc4",
+      "time": 1691069607
+    }
+  ],
+  "tags": [
+    "voicepeak",
+    "wrapper",
+    "opeanai",
+    "gpt"
+  ]
+}

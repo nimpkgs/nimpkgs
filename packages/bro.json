@@ -1,0 +1,16 @@
+{
+  "name": "bro",
+  "url": "https://github.com/openpeeps/bro",
+  "method": "git",
+  "description": "A super fast statically typed stylesheet language for cool kids",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/bro",
+  "tags": [
+    "css",
+    "sass",
+    "parser",
+    "css-parser",
+    "css-compiler",
+    "stylesheet"
+  ]
+}

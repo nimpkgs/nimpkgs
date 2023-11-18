@@ -1,0 +1,22 @@
+{
+  "name": "translation",
+  "url": "https://github.com/juancarlospaco/nim-tinyslation",
+  "method": "git",
+  "description": "Text string translation from free online crowdsourced API. Tinyslation a tiny translation.",
+  "license": "LGPLv3",
+  "web": "https://github.com/juancarlospaco/nim-tinyslation",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "09c18c6c1b3d552236dba78a2dbd0b22bc25efc9",
+      "time": 1525302678
+    }
+  ],
+  "tags": [
+    "translation",
+    "tinyslation",
+    "api",
+    "strings",
+    "minimalism"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "name": "cssgrid",
+  "url": "https://github.com/elcritch/cssgrid",
+  "method": "git",
+  "description": "pure Nim CSS Grid layout engine",
+  "license": "MIT",
+  "web": "https://github.com/elcritch/cssgrid",
+  "versions": [
+    {
+      "tag": "v0.5.16",
+      "hash": "4d2d5cfb597fc54948842b732ce401b2a04c0461",
+      "time": 1697776048
+    },
+    {
+      "tag": "v0.5.15",
+      "hash": "50eefeb787fb09ba8fa7ef1de9616dac2dae102b",
+      "time": 1697765078
+    },
+    {
+      "tag": "v0.5.14",
+      "hash": "a2f2f7417678ac204f259b42d0984079a9d8fd62",
+      "time": 1696400976
+    },
+    {
+      "tag": "v0.5.12",
+      "hash": "fa13b24efd793398fbac9198612ed56ad5c7634e",
+      "time": 1696390652
+    },
+    {
+      "tag": "v0.5.11",
+      "hash": "dc2546b3195538c91c94808bd646e13eb040ebf6",
+      "time": 1696389084
+    },
+    {
+      "tag": "v0.5.10",
+      "hash": "30ba2fd4f98397cbb580b2abfffdf9a5c23addca",
+      "time": 1696388946
+    },
+    {
+      "tag": "v0.5.9",
+      "hash": "5d9026410f3272ca8eb01e716ad173db31a01033",
+      "time": 1696385286
+    },
+    {
+      "tag": "v0.5.8",
+      "hash": "79d2e48958506384276be67bb14ae6f9f51bb6cd",
+      "time": 1696384655
+    },
+    {
+      "tag": "v0.5.7",
+      "hash": "2febb75fd95b1a9e55363220e13d4d23d23f4c3a",
+      "time": 1696319590
+    },
+    {
+      "tag": "v0.5.6",
+      "hash": "53f3bd22bc4f43f1a754f28043983142124248fb",
+      "time": 1696319351
+    },
+    {
+      "tag": "v0.5.5",
+      "hash": "013173a0567bc4793e5b3a4133fa6b445f3a42f4",
+      "time": 1696312786
+    },
+    {
+      "tag": "v0.5.4",
+      "hash": "b12b6d20868b55f516829edde2fdb58ebba3cca8",
+      "time": 1696217717
+    },
+    {
+      "tag": "v0.5.3",
+      "hash": "218cb9487b890a0d3c38895e770fc77f9ec73919",
+      "time": 1696217223
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "d17ecab762d0567ac7fd7a1ac9f7e60c90a4e3df",
+      "time": 1696211462
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "e967018919ac9a883ef4f0ce275150ff99c830a3",
+      "time": 1696208493
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "091dd4d36db82327dd85e2834feffe2ce2c52f4c",
+      "time": 1696208404
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "168911f473bb5c90e629663ee6c14a139c873f9c",
+      "time": 1692871014
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "7f8218cecec82ea727ae654ccbf8255fc7895cd6",
+      "time": 1692868360
+    },
+    {
+      "tag": "v0.2.10",
+      "hash": "ecb4be9bcff2d73ff613f078df700268696dbcb3",
+      "time": 1666074637
+    },
+    {
+      "tag": "v0.2.9",
+      "hash": "e21fdc0f24a7673ed37829e56845706a23dae3a4",
+      "time": 1666074494
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "9da174c4e2b8d4b1f8ffb96ca533373515d3ed77",
+      "time": 1665038772
+    },
+    {
+      "tag": "v0.2.7",
+      "hash": "e829c78a9e8e4b40ef5a7417452a577099afbabe",
+      "time": 1665037606
+    },
+    {
+      "tag": "v0.2.6",
+      "hash": "714730b37a71395c119315229c5af41b324ff671",
+      "time": 1665035706
+    },
+    {
+      "tag": "v0.2.5",
+      "hash": "d93f1772bf26260d4ae6e7208e570d05deb67cd2",
+      "time": 1664852039
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "9f875d0311c9670890a143b03ba742287446d806",
+      "time": 1664748584
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "6fe0fb5c51df01e814f73561eaa114fec921549f",
+      "time": 1664682983
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "c228b217a99a92d698473b28e479c04cf54b7de8",
+      "time": 1664667721
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "d46664d3d830e12c2e3d17e7383ddb93a95ec8e5",
+      "time": 1663749756
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "83379eb4cb2e277c29bd6fc3676f80ed5fe41c9a",
+      "time": 1663545303
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "81b6bb6ad114ab7a6c45d881c8580cbf394a3a32",
+      "time": 1663544502
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "874d9911366f10dc4a8ccbcfe1b273a9f1b3e125",
+      "time": 1663543509
+    }
+  ],
+  "tags": [
+    "cssgrid",
+    "css",
+    "layout",
+    "grid",
+    "engine",
+    "ui",
+    "ux",
+    "gui"
+  ]
+}
