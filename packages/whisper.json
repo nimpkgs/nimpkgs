@@ -4,6 +4,13 @@
   "method": "git",
   "description": "Bindings for Whisper.cpp",
   "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "be75e3d9240324596e75f24aa7a93a7f497cc2b7",
+      "time": 1701051375
+    }
+  ],
   "tags": [
     "bindings",
     "whisper.cpp"

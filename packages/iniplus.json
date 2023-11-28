@@ -5,6 +5,13 @@
   "description": "An extended INI parser for Nim.",
   "license": "BSD-3-Clause",
   "web": "https://github.com/systemonia/iniplus",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "74f4e45681aaad6542cb5a07ba672d5ecb6742e3",
+      "time": 1700939802
+    }
+  ],
   "tags": [
     "ini",
     "config",
