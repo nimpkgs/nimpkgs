@@ -7,6 +7,11 @@
   "web": "https://h3rald.com/mn",
   "versions": [
     {
+      "tag": "v0.4.0",
+      "hash": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
+      "time": 1701527978
+    },
+    {
       "tag": "v0.3.0",
       "hash": "db1a0d76fb3d9325f18b9d6ef90cbcc0b6ede092",
       "time": 1668265178

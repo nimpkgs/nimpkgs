@@ -6,6 +6,16 @@
   "license": "MIT",
   "versions": [
     {
+      "tag": "v0.3.5",
+      "hash": "16f8779d9501565fd9950eb6f36536774feb0b55",
+      "time": 1701504146
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "b26dae590b9cd2ad7199243c5b6f8613cb8f58f7",
+      "time": 1701502938
+    },
+    {
       "tag": "v0.3.3",
       "hash": "49b168a013c3c00298b4867eaaa9e2bce5383705",
       "time": 1692496119
