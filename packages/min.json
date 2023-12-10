@@ -7,6 +7,11 @@
   "web": "https://min-lang.org",
   "versions": [
     {
+      "tag": "v0.42.0",
+      "hash": "f05d577d8657699c8d30ac0faee41102b94b57f3",
+      "time": 1701558025
+    },
+    {
       "tag": "v0.41.0",
       "hash": "fd4591c5b329f219b1db55c52821a14a71b92a7d",
       "time": 1700833450

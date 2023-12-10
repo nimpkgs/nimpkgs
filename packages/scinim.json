@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/scinim",
   "versions": [
     {
+      "tag": "v0.2.5",
+      "hash": "67207e89a11a62ceb671da45e8032039f20eef12",
+      "time": 1701685357
+    },
+    {
       "tag": "v0.2.4",
       "hash": "09632b7476e46a097b1dcdb200511fe7f9d3bbec",
       "time": 1679770096

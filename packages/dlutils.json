@@ -7,6 +7,11 @@
   "web": "https://github.com/amnr/dlutils",
   "versions": [
     {
+      "tag": "v2.1.3",
+      "hash": "f0498a20fdf945dd40c743898316d73097824227",
+      "time": 1701727948
+    },
+    {
       "tag": "v2.1.2",
       "hash": "c80f0cc999ad49d91a3700f41a0f2fd9e6a182c9",
       "time": 1701293545
