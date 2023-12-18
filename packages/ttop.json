@@ -7,6 +7,11 @@
   "web": "https://github.com/inv2004/ttop",
   "versions": [
     {
+      "tag": "v1.2.8",
+      "hash": "6ca0dc88467284371431c4a5cb30c2661a59af1c",
+      "time": 1702420411
+    },
+    {
       "tag": "v1.2.7",
       "hash": "5e845f12d735aa631a140d69be4b9281e80f7014",
       "time": 1698794966
