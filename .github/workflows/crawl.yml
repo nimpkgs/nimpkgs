@@ -18,6 +18,9 @@ jobs:
         with:
           nim-version: 2.0.2
 
+      # choosenim cleanup
+      - run: rm -r init.sh
+
       - name: Setup Git Bot
         run: |
           git --version
