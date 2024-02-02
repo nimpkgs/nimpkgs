@@ -1,0 +1,12 @@
+name: 🌙 Nightly Crawl
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    uses: ./.github/workflows/crawl.yml

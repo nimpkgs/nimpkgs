@@ -1,6 +1,7 @@
 name: Run Nimpkgs Crawler
 
 on:
+  workflow_call:
   workflow_dispatch:
 
 permissions:
