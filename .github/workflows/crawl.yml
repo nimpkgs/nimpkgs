@@ -3,6 +3,9 @@ name: Run Nimpkgs Crawler
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
