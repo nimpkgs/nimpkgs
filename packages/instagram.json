@@ -1,0 +1,13 @@
+{
+  "name": "instagram",
+  "url": "https://github.com/thisago/instagram",
+  "method": "git",
+  "description": "Instagram internal web api implementation",
+  "license": "MIT",
+  "web": "https://github.com/thisago/instagram",
+  "tags": [
+    "instagram",
+    "library",
+    "internal-api"
+  ]
+}
