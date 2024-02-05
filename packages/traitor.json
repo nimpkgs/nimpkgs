@@ -1,0 +1,13 @@
+{
+  "name": "traitor",
+  "url": "https://github.com/beef331/traitor",
+  "method": "git",
+  "description": "Trait-like package made without insight",
+  "license": "MIT",
+  "web": "https://github.com/beef331/traitor",
+  "tags": [
+    "trait",
+    "interfaces",
+    "vtable"
+  ]
+}
