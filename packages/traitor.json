@@ -5,6 +5,38 @@
   "description": "Trait-like package made without insight",
   "license": "MIT",
   "web": "https://github.com/beef331/traitor",
+  "versions": [
+    {
+      "tag": "v0.2.5",
+      "hash": "dd64946892408d1a380ada1dcfef17c0cf30eecb",
+      "time": 1707104781
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "8f257050e5ca9168a4e47810303abf50722de202",
+      "time": 1706999004
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "60db97d7113298c25e7b4f9e4f17d292fe498044",
+      "time": 1706602815
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "092ebc7d3f3b1cc18fa1f72da7695e20b0cc5375",
+      "time": 1706602594
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "8fbff8c75d3fef935d878d8cb33cd2b86c3bd8a5",
+      "time": 1705803067
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "c5b4b7a79209c9ff371faf891519323f7f358ae6",
+      "time": 1644822218
+    }
+  ],
   "tags": [
     "trait",
     "interfaces",
