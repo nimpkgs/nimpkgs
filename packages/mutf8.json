@@ -6,6 +6,28 @@
   "license": "Apache-2.0",
   "web": "https://github.com/Yu-Vitaqua-fer-Chronos/MUTF-8",
   "doc": "https://yu-vitaqua-fer-chronos.github.io/MUTF-8/",
+  "versions": [
+    {
+      "tag": "v2.1.0",
+      "hash": "923c289451ef7e42f87fddac0301541b9a548363",
+      "time": 1701633866
+    },
+    {
+      "tag": "v2.0.1",
+      "hash": "3f927bea743c31b4eab58bd52cdeb1f5357f4fd0",
+      "time": 1701624679
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "f498f3aae10c2f78548b87fcb1e24c3eb26b0db0",
+      "time": 1700177861
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "b89fb61568b794128f19699eda859c9857d5c473",
+      "time": 1696285666
+    }
+  ],
   "tags": [
     "encoding",
     "decoding",
