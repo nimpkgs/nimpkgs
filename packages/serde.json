@@ -5,6 +5,23 @@
   "description": "Easy-to-use serialization capabilities (currently json only), with a drop-in replacement for std/json.",
   "license": "MIT",
   "web": "https://github.com/codex-storage/nim-json",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "461602dda726728b1ac6673634c801f618ae39a3",
+      "time": 1707372116
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "377c48f3cad7c509f8afc2af2e78c608931756a5",
+      "time": 1707345143
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "f8260e91545eeaa6fb05bfc44891f53e8178abee",
+      "time": 1707289397
+    }
+  ],
   "tags": [
     "library",
     "serialization",

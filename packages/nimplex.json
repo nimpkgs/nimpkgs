@@ -6,6 +6,88 @@
   "license": "MIT",
   "web": "https://github.com/amkrajewski/nimplex",
   "doc": "https://nimplex.phaseslab.org",
+  "versions": [
+    {
+      "tag": "v0.5.1",
+      "hash": "619ef6211b05208205b41187caf33fb789fc86cc",
+      "time": 1707408369
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "3bc00a7154753096a6af0d0aa1faffc9c17e7ffa",
+      "time": 1707145766
+    },
+    {
+      "tag": "v0.4.4",
+      "hash": "c1b6d3c57282b22c6b00b26a5762e243de4df79e",
+      "time": 1706218134
+    },
+    {
+      "tag": "v0.4.3",
+      "hash": "7a19c304fdf3e8f2c4c5cf8f3738790543606ada",
+      "time": 1706212245
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "104287b84997ec97df884d9ca5e73fef86d7b7ae",
+      "time": 1706110791
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "5e95647a33dd316da56a00fa160d7d7d7f98a75b",
+      "time": 1705954275
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "f6d71b244193e6905019ed793195a75ad7aaae4e",
+      "time": 1705067968
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "b6f85a62bce2070cb5f7b9afab1ea44344c7e273",
+      "time": 1704813392
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "06f88233e60af7448e2b002ce5dad0f0335586c1",
+      "time": 1698979469
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "26ab5166c3057470f2b9e8e098feb3ad90bcfcbd",
+      "time": 1698978519
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "cf77bf17d0f86cba151407009ff51bebe45c3eae",
+      "time": 1698774133
+    },
+    {
+      "tag": "v0.0.5",
+      "hash": "92517ea11e60c2faab5ac9d2150ede391b7eef89",
+      "time": 1697761594
+    },
+    {
+      "tag": "v0.0.4",
+      "hash": "81f14ae173f184cdd4b59dc386a888932941c308",
+      "time": 1692052797
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "5af38ea139de2d885092c6a56b153f3c5f2fd075",
+      "time": 1691717397
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "11436601d422cb4f200cbcca9cef3eaa18a24cb1",
+      "time": 1691710667
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "9d1882535cc7adc0f7319664bb35e06fd522f06b",
+      "time": 1691688992
+    }
+  ],
   "tags": [
     "data",
     "simplex",
