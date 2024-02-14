@@ -7,6 +7,11 @@
   "web": "https://github.com/codex-storage/nim-json",
   "versions": [
     {
+      "tag": "v1.0.0",
+      "hash": "9f36b95ac467b415f1efc96d838714f4ec7f851e",
+      "time": 1707806571
+    },
+    {
       "tag": "v0.1.2",
       "hash": "461602dda726728b1ac6673634c801f618ae39a3",
       "time": 1707372116
