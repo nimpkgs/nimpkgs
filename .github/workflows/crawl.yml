@@ -11,16 +11,12 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: jiro4989/setup-nim-action@v1
-        with:
-          nim-version: 2.0.2
-
-      # choosenim cleanup
-      - run: rm -r init.sh
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@main
 
       - name: Setup Git Bot
         run: |
@@ -29,9 +25,7 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Run Crawler
-        run: |
-          nimble install https://github.com/nimpkgs/crawler -Y
-          crawler
+        run: nix run "github:nimpkgs/crawler"
 
       - name: Commit Updates
         run: |
