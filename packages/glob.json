@@ -7,9 +7,14 @@
   "web": "https://github.com/haltcase/glob",
   "versions": [
     {
+      "tag": "v0.11.3",
+      "hash": "dfb567fe1803d08b2e6272c56f30885c8a63f4d1",
+      "time": 1706638185
+    },
+    {
       "tag": "v0.11.2",
-      "hash": "286726e26ed9c4203bf41e6f1c41d2f0bc947122",
-      "time": 1665763111
+      "hash": "a7d314f71ef1f47fd7526348e194e91e86517d6f",
+      "time": 1665780869
     },
     {
       "tag": "v0.11.1",

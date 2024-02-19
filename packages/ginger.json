@@ -7,6 +7,16 @@
   "web": "https://github.com/Vindaar/ginger",
   "versions": [
     {
+      "tag": "v0.6.1",
+      "hash": "ac3920a9c2005d4ea6f2016677a8edfa8ce0cbb3",
+      "time": 1707656227
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "71f2384e15cc8b7e0d59647b2fb735df8cbdf83f",
+      "time": 1707490880
+    },
+    {
       "tag": "v0.5.3",
       "hash": "569d6aa746962e3de9530505181a09c5f2851837",
       "time": 1697641348

@@ -7,6 +7,11 @@
   "web": "https://github.com/Vindaar/shell",
   "versions": [
     {
+      "tag": "v0.6.0",
+      "hash": "cdd98b9d6e0715fc13a62b1de3f82450cc463679",
+      "time": 1707473567
+    },
+    {
       "tag": "v0.5.2",
       "hash": "7d362c6d50a58f5cccc1499c30a27007ae57a01f",
       "time": 1672237459

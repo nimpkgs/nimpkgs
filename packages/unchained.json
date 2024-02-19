@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/unchained",
   "versions": [
     {
+      "tag": "v0.4.0",
+      "hash": "e657bf3da15b88b0e24ccb6a62be51f0952790e9",
+      "time": 1707474834
+    },
+    {
       "tag": "v0.3.10",
       "hash": "632842324b01b172959fdfd235ddd21487ab23a6",
       "time": 1703094314
