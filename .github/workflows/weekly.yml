@@ -1,9 +1,10 @@
-name: 🌙 Nightly Crawl
+name: Weekly Crawl
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    # At 00:00 on Sunday
+    - cron: '0 0 * * 0'
 
 permissions:
   contents: write
@@ -11,3 +12,5 @@ permissions:
 jobs:
   crawl:
     uses: ./.github/workflows/crawl.yml
+    with:
+      flags: "--all"
