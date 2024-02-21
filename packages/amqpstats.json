@@ -1,0 +1,15 @@
+{
+  "name": "amqpstats",
+  "url": "https://github.com/Q-Master/amqp-stats.nim",
+  "method": "git",
+  "description": "Pure Nim library to read AMQP stats via management plugin API",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/amqp-stats.nim",
+  "tags": [
+    "library",
+    "pure",
+    "rabbitmq",
+    "async",
+    "sync"
+  ]
+}
