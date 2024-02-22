@@ -5,6 +5,13 @@
   "description": "Pure Nim library to read AMQP stats via management plugin API",
   "license": "MIT",
   "web": "https://github.com/Q-Master/amqp-stats.nim",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "c8aa69198a6418e21e1a12c2168dfbfb5ad73a97",
+      "time": 1708464151
+    }
+  ],
   "tags": [
     "library",
     "pure",
