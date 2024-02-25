@@ -7,6 +7,11 @@
   "web": "https://github.com/bung87/zopflipng",
   "versions": [
     {
+      "tag": "v0.1.9",
+      "hash": "e25d39965f8461a1063c35e1876f88ec9a91fb7d",
+      "time": 1708669004
+    },
+    {
       "tag": "v0.1.8",
       "hash": "be28f51b87c2ef2c77eb663086698f13c791fe7e",
       "time": 1689765800

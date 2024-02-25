@@ -7,6 +7,11 @@
   "web": "https://github.com/iffy/nim-keyring",
   "versions": [
     {
+      "tag": "v0.4.2",
+      "hash": "811a2d0d77221f1077e060e802dc681cfa2e8d6e",
+      "time": 1708655916
+    },
+    {
       "tag": "v0.4.1",
       "hash": "72c566ff199e66584ea8a8cea33a8832a186d1a0",
       "time": 1675689528

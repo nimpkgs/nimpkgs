@@ -7,6 +7,11 @@
   "web": "https://nimwc.org/",
   "versions": [
     {
+      "tag": "v6.2.0",
+      "hash": "fe5d5d55648d571206be5b5c00fab6f6a9266b87",
+      "time": 1708677424
+    },
+    {
       "tag": "v6.1.4",
       "hash": "c5ee0ce47fcee22fc0e15985140c93ad805f466a",
       "time": 1700375959

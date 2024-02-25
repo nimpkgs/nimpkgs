@@ -7,6 +7,11 @@
   "web": "https://github.com/ThomasTJdev/mummy_utils",
   "versions": [
     {
+      "tag": "v0.1.0",
+      "hash": "eead09aeadc6e323c6fbbed3c577d973b8cd3b6e",
+      "time": 1708421844
+    },
+    {
       "tag": "v0.0.8",
       "hash": "fe81e28b51726ec50d2ed95ed61914e74506c79b",
       "time": 1705733717
