@@ -5,6 +5,188 @@
   "description": "Puyo Puyo and Nazo Puyo Application",
   "license": "Apache-2.0",
   "web": "https://github.com/izumiya-keisuke/pon2",
+  "versions": [
+    {
+      "tag": "v0.12.5",
+      "hash": "f54c742ccc983c0a18ea215fd40e86724770ae2e",
+      "time": 1709408271
+    },
+    {
+      "tag": "v0.12.4",
+      "hash": "fc78db267a189b08564cd295568abf9405569291",
+      "time": 1709368297
+    },
+    {
+      "tag": "v0.12.3",
+      "hash": "cd08b5f841f6b287b7421f35e871d55c3b3e88e0",
+      "time": 1709367289
+    },
+    {
+      "tag": "v0.12.2",
+      "hash": "f221130c26b71e48423a6a56b215d60d996c1abd",
+      "time": 1709277916
+    },
+    {
+      "tag": "v0.12.1",
+      "hash": "68458254b3455c1e42fd8013e9fb4bc54729e056",
+      "time": 1709273429
+    },
+    {
+      "tag": "v0.12.0",
+      "hash": "88a4fa2617bcd7f6989f288da00612605cacae19",
+      "time": 1709232790
+    },
+    {
+      "tag": "v0.11.5",
+      "hash": "5c6864c54d968c767e01e070b77db73956fcc4dc",
+      "time": 1706879102
+    },
+    {
+      "tag": "v0.11.4",
+      "hash": "9462ebe4c38ebe74574bc8a32869d2b96d5a7a0b",
+      "time": 1706812412
+    },
+    {
+      "tag": "v0.11.3",
+      "hash": "5eee39b28fe69e9d1a5f03326a1c0de58aa50061",
+      "time": 1706347377
+    },
+    {
+      "tag": "v0.11.2",
+      "hash": "9c9c295039522f642e83804b8a8f46a95477e314",
+      "time": 1706297985
+    },
+    {
+      "tag": "v0.11.1",
+      "hash": "20d77b5d3542d85f07086fe53c739388c951e7c3",
+      "time": 1706283230
+    },
+    {
+      "tag": "v0.11.0",
+      "hash": "c50cf6c7e9ba854636327038801749148ed17cf6",
+      "time": 1706210386
+    },
+    {
+      "tag": "v0.10.3",
+      "hash": "c111db43ac2a68517e429b2d54ed975a9abd3c79",
+      "time": 1706118009
+    },
+    {
+      "tag": "v0.10.2",
+      "hash": "4a9f2b50ed1bd8d2b80b450df248744091f28fb2",
+      "time": 1706019712
+    },
+    {
+      "tag": "v0.10.1",
+      "hash": "49139bff763d64f86405bf6e43ba0a9f832af395",
+      "time": 1706014320
+    },
+    {
+      "tag": "v0.10.0",
+      "hash": "28052187bc39cf3ad40dfd72c23991091b4d8c9f",
+      "time": 1706012894
+    },
+    {
+      "tag": "v0.9.0",
+      "hash": "62ca8273d45baa8577c878d81d8bccf7b0621aac",
+      "time": 1705921969
+    },
+    {
+      "tag": "v0.8.2",
+      "hash": "3d7eb9cdd7754f058116d60ba1bb8ab33d5d4b47",
+      "time": 1704724451
+    },
+    {
+      "tag": "v0.8.1",
+      "hash": "69e31a73a46fab97de4668980dbd00c2c5fc0d2b",
+      "time": 1704646844
+    },
+    {
+      "tag": "v0.8.0",
+      "hash": "922d5e3e86b6852bd7d37a269809ae867019d51e",
+      "time": 1704643477
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "df59549690938f679488239ec23b405eacc82d3c",
+      "time": 1704286003
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "dc94d0322b0c330eff42c288e35222ad7435295a",
+      "time": 1701342188
+    },
+    {
+      "tag": "v0.6.3",
+      "hash": "b8524921ca9b3e343dc1b607736e5ea35f31cecc",
+      "time": 1694857051
+    },
+    {
+      "tag": "v0.6.2",
+      "hash": "4c7bf6fdcd0b8b1d9cb7b79c40a14d4a42addac9",
+      "time": 1694804802
+    },
+    {
+      "tag": "v0.6.1",
+      "hash": "4c988b84004454d87db5f3c76b28abdefd9db176",
+      "time": 1694794719
+    },
+    {
+      "tag": "v0.6.0",
+      "hash": "a4999ed145bdc5610ecea046719de29651c5af33",
+      "time": 1694771147
+    },
+    {
+      "tag": "v0.5.4",
+      "hash": "caba38a0d6fc576b6e408ccc3508933d88c8dafb",
+      "time": 1694723002
+    },
+    {
+      "tag": "v0.5.3",
+      "hash": "ed9f3f73e6e276f8ddf68fd487cbb9203f6ad7dd",
+      "time": 1694207398
+    },
+    {
+      "tag": "v0.5.2",
+      "hash": "2eee7c6216138ff8ab5d4289109f82e38af73a7d",
+      "time": 1694205499
+    },
+    {
+      "tag": "v0.5.1",
+      "hash": "18c0c050b18af389aa7d79c2ae8a7065f7ef9e80",
+      "time": 1694176354
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "cdc54895b617090c44d9de11204619f7e854d98b",
+      "time": 1694175156
+    },
+    {
+      "tag": "v0.4.4",
+      "hash": "e0bc12dd1b3016a617ea30f476f477320c1bdd00",
+      "time": 1689085019
+    },
+    {
+      "tag": "v0.4.3",
+      "hash": "dc20ce6806a33e77d6ac4c7178c3a7b6d15e7a7f",
+      "time": 1689080095
+    },
+    {
+      "tag": "v0.4.2",
+      "hash": "f53d78732d81bb12673755a0e1173f489fac76d0",
+      "time": 1689078459
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "711eaa8300a18bdf883c6c89cba5525cc6eca6b2",
+      "time": 1689076850
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "3c645a0aeaec30e3f562f0d0d930b47751197715",
+      "time": 1689076012
+    }
+  ],
   "tags": [
     "puyopuyo",
     "nazopuyo"

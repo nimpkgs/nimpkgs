@@ -1,0 +1,12 @@
+{
+  "name": "selfpipe",
+  "url": "https://github.com/tdely/selfpipe",
+  "method": "git",
+  "description": "Easy safe signal handling",
+  "license": "MIT",
+  "web": "https://github.com/tdely/selfpipe",
+  "tags": [
+    "signal",
+    "signalhandling"
+  ]
+}

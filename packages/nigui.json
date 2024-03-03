@@ -7,6 +7,11 @@
   "web": "https://github.com/trustable-code/NiGui",
   "versions": [
     {
+      "tag": "v0.2.8",
+      "hash": "3cb5598aa7f5c80e5efbdb8bc281af3d310073d0",
+      "time": 1709161677
+    },
+    {
       "tag": "v0.2.7",
       "hash": "8814b51889a6270c94250a6147914f24ebd15aa6",
       "time": 1685463843
