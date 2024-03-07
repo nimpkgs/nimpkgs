@@ -5,6 +5,23 @@
   "description": "Nim wrapper for C++ const-qualified types.",
   "license": "MIT",
   "web": "https://github.com/sls1005/nim-cppconst",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "9ed7067f96594c37a09351aecd81f17059dade0a",
+      "time": 1708948133
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "0747204118298195bc6fce2ec3d26d2ee7b00d17",
+      "time": 1708871774
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "ef1663c030249032d0c2d9305188419d8e67234c",
+      "time": 1708580777
+    }
+  ],
   "tags": [
     "cpp"
   ]

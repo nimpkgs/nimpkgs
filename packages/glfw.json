@@ -7,6 +7,11 @@
   "web": "https://github.com/johnnovak/nim-glfw",
   "versions": [
     {
+      "tag": "v3.4.0.0",
+      "hash": "1f6f0695914adef9b900cce2999d2b6e2825b3d9",
+      "time": 1709721892
+    },
+    {
       "tag": "v3.3.4.0",
       "hash": "f48c53f97ff9fb41700981205c7e28bdebbb4b03",
       "time": 1635337036
