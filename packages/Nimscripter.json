@@ -7,6 +7,11 @@
   "web": "https://github.com/beef331/nimscripter",
   "versions": [
     {
+      "tag": "v1.1.5",
+      "hash": "b0d88978c9216507e74f367a262d1af249d711f6",
+      "time": 1709609702
+    },
+    {
       "tag": "v1.1.4",
       "hash": "c94200c5f9c6d3d7af6e657f43965172d8675c2e",
       "time": 1708765525

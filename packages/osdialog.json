@@ -7,6 +7,11 @@
   "web": "https://github.com/johnnovak/nim-osdialog",
   "versions": [
     {
+      "tag": "v0.2.0",
+      "hash": "dd734e0a431d03164c91bc6538209fcb2e0a034e",
+      "time": 1709722904
+    },
+    {
       "tag": "v0.1.2",
       "hash": "34353b1c4b5b1fb6d0d2f3e03f9d4b87f7263bf3",
       "time": 1663762302

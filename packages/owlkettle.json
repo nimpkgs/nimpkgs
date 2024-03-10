@@ -7,6 +7,11 @@
   "web": "https://github.com/can-lehmann/owlkettle",
   "versions": [
     {
+      "tag": "v3.0.0",
+      "hash": "861092dc931e754650a735af590fbc34becc3942",
+      "time": 1709736244
+    },
+    {
       "tag": "v2.2.0",
       "hash": "e7b3bd55ad1ee2d6fccbff8fa8a0287776bb2d98",
       "time": 1678394749

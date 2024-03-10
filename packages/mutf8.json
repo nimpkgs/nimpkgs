@@ -8,6 +8,11 @@
   "doc": "https://yu-vitaqua-fer-chronos.github.io/MUTF-8/",
   "versions": [
     {
+      "tag": "v3.0.0",
+      "hash": "4b11cda0635580786a2781e0e6d0d0e2a1e8f6f2",
+      "time": 1709666982
+    },
+    {
       "tag": "v2.1.0",
       "hash": "923c289451ef7e42f87fddac0301541b9a548363",
       "time": 1701633866
