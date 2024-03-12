@@ -5,6 +5,13 @@
   "description": "Immediate mode UI for Nim",
   "license": "WTFPL",
   "web": "https://github.com/johnnovak/koi",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "1d0d84241a82d0a31a5eb6cd5d99aa27a2d8d2c4",
+      "time": 1709714841
+    }
+  ],
   "tags": [
     "ui",
     "library",
