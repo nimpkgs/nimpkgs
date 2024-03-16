@@ -1,0 +1,13 @@
+{
+  "name": "flatBuffers",
+  "url": "https://github.com/Vindaar/flatBuffers",
+  "method": "git",
+  "description": "Package to turn (nested) Nim objects to flat buffers and back.",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/flatBuffers",
+  "tags": [
+    "buffers",
+    "serialization",
+    "pickle"
+  ]
+}
