@@ -5,6 +5,13 @@
   "description": "A library to turn Nim data into Org tables",
   "license": "MIT",
   "web": "https://github.com/Vindaar/orgtables",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "034b0c1dd5b3fd24702083862f698679f65f0699",
+      "time": 1710507887
+    }
+  ],
   "tags": [
     "org",
     "org mode",

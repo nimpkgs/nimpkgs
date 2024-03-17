@@ -7,6 +7,31 @@
   "web": "https://github.com/Q-Master/packets.nim",
   "versions": [
     {
+      "tag": "v1.0.4",
+      "hash": "2de49171741fdc2ca74a7dcfde3be7e27240d55f",
+      "time": 1710436705
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "888b37bea2379e333cbbfbdc0774b6ebb0837f24",
+      "time": 1710426143
+    },
+    {
+      "tag": "v1.0.2",
+      "hash": "613b802492f1f4c2faca5aa705473d17929321aa",
+      "time": 1710422906
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "a331830fd108ad40507783fa5a29c495617215ff",
+      "time": 1710421587
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "c8cb353f741f6e35f300d5c7750b5dec67ab94b6",
+      "time": 1710420213
+    },
+    {
       "tag": "v0.9.0",
       "hash": "162c03854bf746ce7d1107911eb6f8efd662a463",
       "time": 1708284214

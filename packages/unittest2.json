@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-unittest2",
   "versions": [
     {
+      "tag": "v0.2.2",
+      "hash": "e96f3215030cbfa13abc2f5827069b6f8ba87e38",
+      "time": 1710165137
+    },
+    {
       "tag": "v0.2.1",
       "hash": "262b697f38d6b6f1e7462d3b3ab81d79b894e336",
       "time": 1699861441

@@ -7,6 +7,16 @@
   "web": "https://github.com/zendbit/nim_uri3",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "141462a995f4cecfe1cf27b7a502866060096b1e",
+      "time": 1710396739
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "50d108b3a2d08134e68e2d84c6f79f534157b22c",
+      "time": 1710371628
+    },
+    {
       "tag": "v0.1.8",
       "hash": "52134fadfc579c1a6dc0b7407263ccf18472e117",
       "time": 1676183309
