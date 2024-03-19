@@ -1,0 +1,16 @@
+{
+  "name": "pnimrp",
+  "url": "https://git.disroot.org/bloomingchad/pnimrp",
+  "method": "git",
+  "description": "terminal based audio station player in nim",
+  "license": "GPL-3.0-or-later",
+  "web": "https://git.disroot.org/bloomingchad/pnimrp",
+  "tags": [
+    "radio",
+    "terminal",
+    "minimal",
+    "mpv",
+    "libmpv",
+    "nim-lang"
+  ]
+}
