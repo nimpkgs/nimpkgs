@@ -7,6 +7,11 @@
   "web": "https://github.com/rockcavera/nim-nint128",
   "versions": [
     {
+      "tag": "v0.3.3",
+      "hash": "a9f23f246fd3a2cdb352cf9b67e970f88ec1507c",
+      "time": 1710992122
+    },
+    {
       "tag": "v0.3.2",
       "hash": "ba5573441973592ab700c4b0c79aaab55ef46f9e",
       "time": 1682004755

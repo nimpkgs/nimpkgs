@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-chronos",
   "versions": [
     {
+      "tag": "v4.0.1",
+      "hash": "0e806d59aea5e49a65524567cfa18de34e37ccca",
+      "time": 1711009311
+    },
+    {
       "tag": "v4.0.0",
       "hash": "672db137b7cad9b384b8f4fb551fb6bbeaabfe1b",
       "time": 1706117593
