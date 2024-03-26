@@ -5,6 +5,13 @@
   "description": "A tool for managing nim and c projects targetting AVR microcontrollers.",
   "license": "BSD-3",
   "web": "https://github.com/Abathargh/avrman",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "93b9bc1e479228883a28bb396cccb063b18639b0",
+      "time": 1710362627
+    }
+  ],
   "tags": [
     "avr",
     "atmega",

@@ -5,6 +5,18 @@
   "description": "library that resolves the inaccuracies of normal float math. ",
   "license": "MIT",
   "web": "https://github.com/nlits-projects/pmath",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "a69262404c63b29c09e3b7628b1b6b0da5acc634",
+      "time": 1711332551
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "509bf75da318f4732f5528117fd0f3a37979d03d",
+      "time": 1711246191
+    }
+  ],
   "tags": [
     "math",
     "fractions",
