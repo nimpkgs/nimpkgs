@@ -7,6 +7,11 @@
   "web": "https://github.com/planetis-m/jsonpak",
   "versions": [
     {
+      "tag": "v1.0.1",
+      "hash": "6ca841877f09ae2555d1b93516a3f3807353915f",
+      "time": 1711711484
+    },
+    {
       "tag": "v1.0.0",
       "hash": "6ea3dd098a4788cd0296c369bcf904fb949adff0",
       "time": 1711526850
