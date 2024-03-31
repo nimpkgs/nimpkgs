@@ -7,6 +7,11 @@
   "web": "https://github.com/bung87/objc_runtime",
   "versions": [
     {
+      "tag": "v0.1.9",
+      "hash": "64802c181c19184ca67d015fc0a28fec27426e69",
+      "time": 1711290358
+    },
+    {
       "tag": "v0.1.8",
       "hash": "62cf4c7b0939cc3d58243f6a8edb9629673308f9",
       "time": 1709729256

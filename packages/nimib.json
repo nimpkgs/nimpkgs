@@ -7,6 +7,11 @@
   "web": "https://github.com/pietroppeter/nimib",
   "versions": [
     {
+      "tag": "v0.3.11",
+      "hash": "c7aa19f10405b6052c2dcfa8490dea2f2284f3bf",
+      "time": 1710542767
+    },
+    {
       "tag": "v0.3.10",
       "hash": "27ee834e22655959bb3ada2d43f30506e8cd08f7",
       "time": 1706355376

@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/rnim",
   "versions": [
     {
+      "tag": "v0.1.6",
+      "hash": "93e77ad997c240dac3c321473f35a889c102ca7d",
+      "time": 1711446770
+    },
+    {
       "tag": "v0.1.5",
       "hash": "f076f4e55e4c52ae71242ba2a1063f00af6dbe36",
       "time": 1634389711

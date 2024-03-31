@@ -7,6 +7,11 @@
   "web": "https://github.com/Q-Master/amqp-stats.nim",
   "versions": [
     {
+      "tag": "v0.1.4",
+      "hash": "417f3314507796f48f1990265a62e87a7a941074",
+      "time": 1711634505
+    },
+    {
       "tag": "v0.1.3",
       "hash": "c2217632fca50fe3fa23b43ece390d5d234b0cb1",
       "time": 1710436791
