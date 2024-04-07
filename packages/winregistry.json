@@ -7,6 +7,11 @@
   "web": "https://github.com/miere43/nim-registry",
   "versions": [
     {
+      "tag": "v2.1.0",
+      "hash": "31c37dd48f6c9eb657f68c0f7b6f44f7adba5b3d",
+      "time": 1712251389
+    },
+    {
       "tag": "v2.0.0",
       "hash": "d5d157b1263de2c558da06ed84c8ac9d70b85da6",
       "time": 1693410323

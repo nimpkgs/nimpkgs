@@ -7,6 +7,11 @@
   "web": "https://github.com/C-NERD/nimBcs",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "5350ce7a3c3782c7a199411949c35be340a0490e",
+      "time": 1711977301
+    },
+    {
       "tag": "v0.2.0",
       "hash": "e9891bd96161365e32627dbc6e0f48dcbe51dc41",
       "time": 1698176739

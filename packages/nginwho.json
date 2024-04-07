@@ -7,6 +7,11 @@
   "web": "https://github.com/pouriyajamshidi/nginwho",
   "versions": [
     {
+      "tag": "v0.7.1",
+      "hash": "f312a3da666447c093e22b400898dc25ef869e42",
+      "time": 1711973348
+    },
+    {
       "tag": "v0.7.0",
       "hash": "643f4dc6cb197e3d2d547ce1c434e038eed2ead1",
       "time": 1710697420

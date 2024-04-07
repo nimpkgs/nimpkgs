@@ -7,6 +7,11 @@
   "web": "https://github.com/planetis-m/cowstrings",
   "versions": [
     {
+      "tag": "v0.7.0",
+      "hash": "a23c7ab80fa0de6c91ca8b442d4c3d283076d74a",
+      "time": 1712321202
+    },
+    {
       "tag": "v0.5.0",
       "hash": "fab2810039b67e385a65da98354d8803a178325f",
       "time": 1665605373

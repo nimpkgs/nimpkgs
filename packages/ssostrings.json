@@ -7,6 +7,11 @@
   "web": "https://github.com/planetis-m/ssostrings",
   "versions": [
     {
+      "tag": "v0.8.0",
+      "hash": "4df9a2d0b2df4b6c610dc1deb06b9d7a9f8a3a04",
+      "time": 1712321173
+    },
+    {
       "tag": "v0.7.0",
       "hash": "a06186c60443a0c96d1eb66750a9feebdb86df79",
       "time": 1670306693
