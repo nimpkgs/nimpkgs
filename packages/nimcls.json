@@ -1,0 +1,19 @@
+{
+  "name": "nimcls",
+  "url": "https://github.com/YaDev/NimCLS",
+  "method": "git",
+  "description": "Classes and dependency injection for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/YaDev/NimCLS",
+  "tags": [
+    "class",
+    "dependency-injection",
+    "oop",
+    "inheritance",
+    "object",
+    "di",
+    "method",
+    "singleton",
+    "inject"
+  ]
+}
