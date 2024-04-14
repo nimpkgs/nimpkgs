@@ -7,6 +7,11 @@
   "web": "https://github.com/itsumura-h/nim-interface-implements",
   "versions": [
     {
+      "tag": "v0.2.5",
+      "hash": "70b25ad4733dff3741db325576868d1c3f0acaaa",
+      "time": 1712759328
+    },
+    {
       "tag": "v0.2.4",
       "hash": "3e15837856118e8c9ee93a3bd9a877afbb2d457a",
       "time": 1706067242

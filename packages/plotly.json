@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/nim-plotly",
   "versions": [
     {
+      "tag": "v0.3.3",
+      "hash": "b9705980965f65e4174ef68c4f93cd082375b623",
+      "time": 1712683449
+    },
+    {
       "tag": "v0.3.2",
       "hash": "35f634279f1f52bbadccf5d9bb9ad55a3c89ea53",
       "time": 1657014570

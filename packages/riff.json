@@ -7,6 +7,11 @@
   "web": "https://github.com/johnnovak/nim-riff",
   "versions": [
     {
+      "tag": "v0.2.2",
+      "hash": "03f0ca35fca4eeb1f32b5f3fae414dd89f65521b",
+      "time": 1712472781
+    },
+    {
       "tag": "v0.2.1",
       "hash": "df3af9dafe7c6a9df496427c102a6aeee66759a7",
       "time": 1711324064

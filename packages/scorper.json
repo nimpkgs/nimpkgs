@@ -7,6 +7,31 @@
   "web": "https://github.com/bung87/scorper",
   "versions": [
     {
+      "tag": "v1.2.3",
+      "hash": "5756d2f73c6616d6930d1b5856cfe32a8ce5ef7f",
+      "time": 1712945666
+    },
+    {
+      "tag": "v1.2.2",
+      "hash": "c4a7fe923cc0ad8d6bbc26913866669e4d5790bc",
+      "time": 1712945476
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "e30142e98cdea5ef3ddcfc55720f5b7516bf751f",
+      "time": 1712937488
+    },
+    {
+      "tag": "v1.2.0",
+      "hash": "9e27b1fda57aef5e5017a037d974cd150880ff8a",
+      "time": 1712934682
+    },
+    {
+      "tag": "v1.1.14",
+      "hash": "7eb199e8ede249060c517988efa26078c5cfa065",
+      "time": 1706099213
+    },
+    {
       "tag": "v1.1.13",
       "hash": "b1d22dff52bc2bfaef539a327c97f87559160085",
       "time": 1702756342
