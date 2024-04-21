@@ -7,6 +7,11 @@
   "web": "https://mratsim.github.io/Arraymancer/",
   "versions": [
     {
+      "tag": "v0.7.29",
+      "hash": "05ae0498fab99ee47c41966a47eef5a13dd03cd6",
+      "time": 1713198309
+    },
+    {
       "tag": "v0.7.28",
       "hash": "800b0f5c5294a071ec6a8eb4df41bbd3e83db52b",
       "time": 1708184840

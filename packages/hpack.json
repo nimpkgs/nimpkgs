@@ -7,6 +7,11 @@
   "web": "https://github.com/nitely/nim-hpack",
   "versions": [
     {
+      "tag": "v0.4.0",
+      "hash": "2ba2e206c636d917ba1066ec4124db867329ff23",
+      "time": 1713319260
+    },
+    {
       "tag": "v0.3.3",
       "hash": "b87257aeadceff19fc7bfc1238020113f429a399",
       "time": 1712026074

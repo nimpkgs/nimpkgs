@@ -7,6 +7,11 @@
   "web": "https://github.com/iffy/changer",
   "versions": [
     {
+      "tag": "v0.9.1",
+      "hash": "8917a07e5ea1140d0cf96be78e5c96f142181484",
+      "time": 1713533734
+    },
+    {
       "tag": "v0.9.0",
       "hash": "24515270169c91c89afcd88346f66eed70619da8",
       "time": 1710001422
