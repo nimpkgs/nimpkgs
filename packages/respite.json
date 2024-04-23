@@ -1,0 +1,16 @@
+{
+  "name": "respite",
+  "url": "https://github.com/guzba/respite",
+  "method": "git",
+  "description": "Redis protocol backed by SQLite",
+  "license": "MIT",
+  "web": "https://github.com/guzba/respite",
+  "tags": [
+    "redis",
+    "resp",
+    "sqlite",
+    "sql",
+    "database",
+    "server"
+  ]
+}
