@@ -5,6 +5,18 @@
   "description": "This project is intended to parse Texas Railroad Commission data provided in an unsuitable and non-transparent format. As of 2024, this code is able to parse Drilling Permit Master and Trailer and Underground Injection Control Data",
   "license": "GPL-3.0",
   "web": "https://codeberg.org/samsamros/RRC-permits",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "9340a9775b6a41e00407d454bd89864edfdb27c9",
+      "time": 1713803740
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "925f52b34e8a101b2db22b387f7bc867f261633d",
+      "time": 1713803342
+    }
+  ],
   "tags": [
     "Texas Railroad Commission",
     "Drilling Permits",
