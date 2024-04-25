@@ -5,6 +5,18 @@
   "description": "Async files and streams tools",
   "license": "MIT",
   "web": "https://github.com/Alogani/asyncio",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "767134e3747a81f4b65f7a8d9407cd93fbd99ccc",
+      "time": 1713800421
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "f55f4d85ae4d5985a0248bdd09ec570597349bbf",
+      "time": 1713708160
+    }
+  ],
   "tags": [
     "library",
     "async",
