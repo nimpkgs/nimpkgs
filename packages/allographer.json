@@ -7,6 +7,11 @@
   "web": "https://github.com/itsumura-h/nim-allographer",
   "versions": [
     {
+      "tag": "v0.30.0",
+      "hash": "4bad06702fdf61e80a789f92d6179b8f96a23b61",
+      "time": 1714151715
+    },
+    {
       "tag": "v0.29.1",
       "hash": "a394d1b935d9cd98c3ff8c9703c2f7f7ee4fbd32",
       "time": 1703036389

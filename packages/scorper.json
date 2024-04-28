@@ -7,6 +7,16 @@
   "web": "https://github.com/bung87/scorper",
   "versions": [
     {
+      "tag": "v1.2.5",
+      "hash": "8a8b873122103e313ce74466e30016df70556e2c",
+      "time": 1713703870
+    },
+    {
+      "tag": "v1.2.4",
+      "hash": "fb9fc0951f7490951f839dc22cae6ad8101aa6d3",
+      "time": 1713692567
+    },
+    {
       "tag": "v1.2.3",
       "hash": "5756d2f73c6616d6930d1b5856cfe32a8ce5ef7f",
       "time": 1712945666
