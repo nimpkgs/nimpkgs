@@ -7,6 +7,16 @@
   "web": "https://github.com/YaDev/NimCLS",
   "versions": [
     {
+      "tag": "v4.0.1",
+      "hash": "aea3c9833b0bf1f49164cd37e9552b867a030145",
+      "time": 1714423216
+    },
+    {
+      "tag": "v4.0.0",
+      "hash": "a355a49baf4f4b82cf3a21586e390706d5d83f87",
+      "time": 1714366094
+    },
+    {
       "tag": "v3.0.1",
       "hash": "c691ae1f503fa404f2c02eb19b968951d5040dc6",
       "time": 1714188438
