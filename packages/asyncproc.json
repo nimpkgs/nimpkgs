@@ -7,6 +7,11 @@
   "web": "https://github.com/Alogani/asyncproc",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "2b1661fd6ec55d02478641c70a9517ed3134a63b",
+      "time": 1714457232
+    },
+    {
       "tag": "v0.3.0",
       "hash": "fbea6d699c37f527c6fa88168fa59ea4d0c28ee9",
       "time": 1714426036
