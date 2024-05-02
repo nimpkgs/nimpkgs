@@ -7,6 +7,11 @@
   "web": "https://github.com/Alogani/shellcmd",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "9366bca83cea5c4b4bd74d703fb28bf399641c0d",
+      "time": 1714557533
+    },
+    {
       "tag": "v0.2.0",
       "hash": "76faa8f5491bc8c6c1c417007c225705874e16bb",
       "time": 1714501376
