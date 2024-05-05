@@ -1,0 +1,19 @@
+{
+  "name": "nimsrvstat",
+  "url": "https://github.com/Minejerik/nimsrvstat",
+  "method": "git",
+  "description": "A nim wrapper around mcsrvstat",
+  "license": "MIT",
+  "web": "https://github.com/Minejerik/nimsrvstat",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "69b1cc31ff9dbab428cc7d07387054e9f9162df3",
+      "time": 1714750530
+    }
+  ],
+  "tags": [
+    "minecraft",
+    "api"
+  ]
+}

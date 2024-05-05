@@ -7,6 +7,11 @@
   "web": "https://github.com/Alogani/asyncsync",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "e668750193beab464b70b2c5e7134aeb82c16a5e",
+      "time": 1714813448
+    },
+    {
       "tag": "v0.3.0",
       "hash": "a1268cd84d1586bac1fd75571650706c93c8cb47",
       "time": 1714674134
