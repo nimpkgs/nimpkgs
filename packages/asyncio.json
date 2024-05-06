@@ -7,6 +7,11 @@
   "web": "https://github.com/Alogani/asyncio",
   "versions": [
     {
+      "tag": "v0.6.0",
+      "hash": "0a08aecc78cf971b285d66ecdde38c68cbc91e10",
+      "time": 1714904937
+    },
+    {
       "tag": "v0.5.0",
       "hash": "ad2ea43336f58fceec0d34478ef381f065ec56a3",
       "time": 1714813985
