@@ -7,6 +7,11 @@
   "web": "https://github.com/Minejerik/nimsrvstat",
   "versions": [
     {
+      "tag": "v0.1.2",
+      "hash": "235ba0460d2f04f181939a007840a842e67aab64",
+      "time": 1715081488
+    },
+    {
       "tag": "v0.1.1",
       "hash": "c52ae9e60cfb97583a14165dee78ce250d6778c5",
       "time": 1715013754
