@@ -1,0 +1,12 @@
+{
+  "name": "easter",
+  "url": "https://github.com/GeK2K/easter",
+  "method": "git",
+  "description": "Easter date calculation engine.",
+  "license": "MIT",
+  "web": "https://github.com/GeK2K/easter",
+  "tags": [
+    "gregorian",
+    "easter"
+  ]
+}
