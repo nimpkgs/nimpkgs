@@ -7,6 +7,11 @@
   "web": "https://github.com/johnnovak/illwill",
   "versions": [
     {
+      "tag": "v0.4.1",
+      "hash": "99a120f7f69868b94f5d35ce7e21dd12535de70c",
+      "time": 1714885389
+    },
+    {
       "tag": "v0.4.0",
       "hash": "631169fe966adcf7d6f4015a71b1a897020d0e47",
       "time": 1710987230

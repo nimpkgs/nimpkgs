@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/datamancer",
   "versions": [
     {
+      "tag": "v0.4.3",
+      "hash": "1f5294d4be609eed24411abff8da1495b9cecb11",
+      "time": 1715177474
+    },
+    {
       "tag": "v0.4.2",
       "hash": "15e42010eb50a346de9a5175fc83b84cbaefe590",
       "time": 1708351202

@@ -7,6 +7,11 @@
   "web": "https://github.com/minamorl/rex",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "6f859f2fa07d59a6fb76707d793c023cee08ea94",
+      "time": 1714986112
+    },
+    {
       "tag": "v0.2.0",
       "hash": "8bc849d8b5f3f6c537fd50d5d045ac08bb8a4943",
       "time": 1713687370
