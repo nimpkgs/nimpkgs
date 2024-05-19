@@ -7,6 +7,11 @@
   "web": "https://github.com/beef331/traitor",
   "versions": [
     {
+      "tag": "v0.2.14",
+      "hash": "a5224b987daeedde83b88b7a93a4cca8d26c65b4",
+      "time": 1715736301
+    },
+    {
       "tag": "v0.2.13",
       "hash": "ce397c659455a3acb4e754b2e37c26f4f817d2b0",
       "time": 1713728598

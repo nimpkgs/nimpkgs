@@ -7,6 +7,11 @@
   "web": "https://github.com/Vindaar/flatBuffers",
   "versions": [
     {
+      "tag": "v0.1.3",
+      "hash": "d5e2299c2767a9449014c9594ae0461c3f9fcf66",
+      "time": 1715949884
+    },
+    {
       "tag": "v0.1.2",
       "hash": "d0d8d9caf053f639084f6cd5d45e5f25e41edf70",
       "time": 1709891217

@@ -5,6 +5,13 @@
   "description": "Rust-style expect procedures",
   "license": "BSD-3-Clause",
   "web": "https://github.com/penguinite/expect",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "04f9367e1656ab63c27f1898467ae53a64be8d9c",
+      "time": 1715942227
+    }
+  ],
   "tags": [
     "rust",
     "expect",
