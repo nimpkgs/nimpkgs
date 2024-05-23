@@ -1,0 +1,15 @@
+{
+  "name": "rng",
+  "url": "https://github.com/penguinite/rng",
+  "method": "git",
+  "description": "Basic wrapper over std/sysrand",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/penguinite/rng",
+  "tags": [
+    "random",
+    "sysrand",
+    "rng",
+    "crypto",
+    "cross"
+  ]
+}
