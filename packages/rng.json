@@ -5,6 +5,13 @@
   "description": "Basic wrapper over std/sysrand",
   "license": "BSD-3-Clause",
   "web": "https://github.com/penguinite/rng",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "ecc5372dce44e3ad01042a624951adc5576acc56",
+      "time": 1716371363
+    }
+  ],
   "tags": [
     "random",
     "sysrand",
