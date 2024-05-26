@@ -7,6 +7,11 @@
   "web": "https://github.com/andreaferretti/nimblas",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "93ffdd705496990983eefa0507d52f6a6c533ca7",
+      "time": 1716451831
+    },
+    {
       "tag": "v0.3.0",
       "hash": "464c65cd001a27d5c364baa86dfcf19597535cf3",
       "time": 1696753066

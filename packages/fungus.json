@@ -7,6 +7,11 @@
   "web": "https://github.com/beef331/fungus",
   "versions": [
     {
+      "tag": "v0.1.14",
+      "hash": "2b394ff6b706a8e044d9fbb149118b34a3cbc4f0",
+      "time": 1716595499
+    },
+    {
       "tag": "v0.1.13",
       "hash": "1131beb185c58db577c329045afa77556f9ef92a",
       "time": 1683232882

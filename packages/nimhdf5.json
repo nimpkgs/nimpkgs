@@ -7,6 +7,11 @@
   "web": "https://github.com/Vindaar/nimhdf5",
   "versions": [
     {
+      "tag": "v0.6.1",
+      "hash": "3cac8b2b358ebf1c5d6f5d013633564bed334e0d",
+      "time": 1716316305
+    },
+    {
       "tag": "v0.5.12",
       "hash": "ecec190beee50e11656786cc4762b8c6e1e34945",
       "time": 1697643444

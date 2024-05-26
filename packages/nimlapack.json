@@ -7,6 +7,11 @@
   "web": "https://github.com/andreaferretti/nimlapack",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "231430b3d2156f5cbe8fe16bb8967cd9a93964c5",
+      "time": 1716451926
+    },
+    {
       "tag": "v0.3.0",
       "hash": "7a86e9aa7b2cecbc56735d80d0574b7516a8206e",
       "time": 1696752876

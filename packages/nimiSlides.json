@@ -7,6 +7,11 @@
   "web": "https://github.com/HugoGranstrom/nimib-reveal/",
   "versions": [
     {
+      "tag": "v0.2.6",
+      "hash": "557f35708044423dc3aec6979e8c0bbb80f527d5",
+      "time": 1716494377
+    },
+    {
       "tag": "v0.2.5",
       "hash": "c9e80b9f590a845bbe6f2ac0d3e5d9801d1551e5",
       "time": 1706292218
