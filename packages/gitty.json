@@ -5,6 +5,38 @@
   "description": "Easily create .gitignore files from your terminal",
   "license": "BSD-3-Clause",
   "web": "https://github.com/chrischtel/gitty",
+  "versions": [
+    {
+      "tag": "v0.1.6-rc",
+      "hash": "c07f7d39b57b6638f2922f241b34870e89d59691",
+      "time": 1716807806
+    },
+    {
+      "tag": "v0.1.5-rc",
+      "hash": "92bd05dbe1914beb5508d4d7047b0960a4833c1a",
+      "time": 1716804917
+    },
+    {
+      "tag": "v0.1.4",
+      "hash": "604c9ac57bb23ca3183bae391ba4e0f9ecc00263",
+      "time": 1716740753
+    },
+    {
+      "tag": "v0.1.3",
+      "hash": "4cbf84a94a756b7d3dcb04789f160ef5f375dd6d",
+      "time": 1716735762
+    },
+    {
+      "tag": "v0.1.2",
+      "hash": "e7ab0f9fe339e226c5a2e9e6d88189c867f55df7",
+      "time": 1716732893
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "6bcf9f7ba8d7928e28495bda6443e4efb333040f",
+      "time": 1716731475
+    }
+  ],
   "tags": [
     "cli",
     "tool",
