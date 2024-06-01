@@ -1,0 +1,14 @@
+{
+  "name": "shobiz",
+  "url": "https://github.com/logavanc/shobiz",
+  "method": "git",
+  "description": "Simple structured console messages for Nim applications.",
+  "license": "MIT",
+  "web": "https://github.com/logavanc/shobiz",
+  "tags": [
+    "cli",
+    "logging",
+    "structured",
+    "json"
+  ]
+}
