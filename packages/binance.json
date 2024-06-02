@@ -5,6 +5,23 @@
   "description": "A Nim library to access the Binance API.",
   "license": "Apache License 2.0",
   "web": "https://github.com/Imperator26/binance",
+  "versions": [
+    {
+      "tag": "v1.0.2",
+      "hash": "245c47d903b05b2111e03191f15351addbe3dd13",
+      "time": 1717077498
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "6d606bae7ed83a3dd1544dd39ae5cd03b399a47a",
+      "time": 1717077231
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "eb2c7f5f9ca2c9c1c1a242ca08561ef7415d8c32",
+      "time": 1717077106
+    }
+  ],
   "tags": [
     "library",
     "api",

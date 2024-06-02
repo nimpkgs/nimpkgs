@@ -7,6 +7,16 @@
   "web": "https://github.com/z-kk/csv2dbsrc",
   "versions": [
     {
+      "tag": "v0.5.1",
+      "hash": "63d7997e7cbaafd357a4350a4c7d4cc68637c0bb",
+      "time": 1716986987
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "fde598b6ec474da3f49bad2932eeb262a3a8c61c",
+      "time": 1702696232
+    },
+    {
       "tag": "v0.4.3",
       "hash": "92ecc8d6645b0067b5d5ece5b39d6c78ddce7dd2",
       "time": 1685879422

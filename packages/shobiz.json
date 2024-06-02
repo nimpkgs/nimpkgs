@@ -5,6 +5,18 @@
   "description": "Simple structured console messages for Nim applications.",
   "license": "MIT",
   "web": "https://github.com/logavanc/shobiz",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "5ebb4802ffa7403451e7179766a20f2d5dc0f31f",
+      "time": 1717217678
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7979adb36804a9a35b9deea8763c91907d89cc59",
+      "time": 1717077221
+    }
+  ],
   "tags": [
     "cli",
     "logging",

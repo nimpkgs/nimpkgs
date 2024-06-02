@@ -7,6 +7,11 @@
   "web": "https://github.com/soasme/nim-markdown",
   "versions": [
     {
+      "tag": "v0.8.8",
+      "hash": "5a7a7bafd1da23b25332316a7b888e6586f4177a",
+      "time": 1716929022
+    },
+    {
       "tag": "v0.8.7",
       "hash": "e6379e25a33d1d79bb62ee285574e41a395ae2d7",
       "time": 1677281822
