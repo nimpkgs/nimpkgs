@@ -7,6 +7,11 @@
   "web": "https://github.com/logavanc/shobiz",
   "versions": [
     {
+      "tag": "v1.1.0",
+      "hash": "7a8d0ab6f74bc9eef86a72e1f133e22f0f72257a",
+      "time": 1717476702
+    },
+    {
       "tag": "v1.0.0",
       "hash": "5ebb4802ffa7403451e7179766a20f2d5dc0f31f",
       "time": 1717217678
