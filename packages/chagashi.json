@@ -5,6 +5,23 @@
   "description": "Implementation of the WHATWG-specified text encoders and decoders",
   "license": "Unlicense",
   "web": "https://git.sr.ht/~bptato/chagashi",
+  "versions": [
+    {
+      "tag": "v0.4.2",
+      "hash": "b2eaf326b280e12e36bc3e9c80bc247458cf8655",
+      "time": 1708968518
+    },
+    {
+      "tag": "v0.4.1",
+      "hash": "98281287215def572df7cf5d87796f3fa12e5400",
+      "time": 1708645483
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "f890f5a3783619b49ad3c71cda162f443694a473",
+      "time": 1708479447
+    }
+  ],
   "tags": [
     "encoding",
     "charset",
