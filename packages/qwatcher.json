@@ -7,6 +7,11 @@
   "web": "https://github.com/pouriyajamshidi/qwatcher",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "0aee20484a446925cb72e53db0a2002cef7f0740",
+      "time": 1675621652
+    },
+    {
       "tag": "v0.2.1",
       "hash": "f10aec0dfd0dae887466e170937c21cf8f66161a",
       "time": 1672777256

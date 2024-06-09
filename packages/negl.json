@@ -5,6 +5,13 @@
   "description": "Nim bindings for EGL",
   "license": "MIT",
   "web": "https://github.com/lualvsil/negl",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "f608d7797d0c26ee8ca1074e1995ad93cd8a3ac7",
+      "time": 1717366559
+    }
+  ],
   "tags": [
     "binding",
     "egl",

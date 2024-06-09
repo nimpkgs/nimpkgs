@@ -8,6 +8,11 @@
   "doc": "https://planety.github.io/prologue",
   "versions": [
     {
+      "tag": "v0.6.6",
+      "hash": "81c8c1d7c7f4947c28eeeac55648f6edd1be37f1",
+      "time": 1717408240
+    },
+    {
       "tag": "v0.6.4",
       "hash": "5995ed9e3e72ec6a4620879cec124bd8f852b7ea",
       "time": 1669360337
