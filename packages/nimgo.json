@@ -7,6 +7,11 @@
   "web": "https://github.com/Alogani/NimGo",
   "versions": [
     {
+      "tag": "v0.0.7",
+      "hash": "ee95cca707b0e07a03ff477156a843ccd9257f62",
+      "time": 1718308945
+    },
+    {
       "tag": "v0.0.6",
       "hash": "05387a8edd8aced94eb65c9566fbf009e7cce6a1",
       "time": 1718088914
