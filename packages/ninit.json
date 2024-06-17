@@ -1,0 +1,12 @@
+{
+  "name": "ninit",
+  "url": "https://github.com/cypherwytch/ninit",
+  "method": "git",
+  "description": "Initialize a Nim package non-interactively (does not require nimble)",
+  "license": "BSD",
+  "web": "https://github.com/cypherwytch/ninit",
+  "tags": [
+    "nimble",
+    "package"
+  ]
+}
