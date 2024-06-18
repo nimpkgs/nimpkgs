@@ -5,6 +5,23 @@
   "description": "Initialize a Nim package non-interactively (does not require nimble)",
   "license": "BSD",
   "web": "https://github.com/cypherwytch/ninit",
+  "versions": [
+    {
+      "tag": "v1.0.2",
+      "hash": "57a56023868d122eff62849f3098aeee2d177ccd",
+      "time": 1718469037
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "afaa86c8ec475e2c99453dcb6ec42016e10a4eff",
+      "time": 1718461775
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "0ac5386209b9f69b120cde0e46f0befc65fcd6de",
+      "time": 1718460982
+    }
+  ],
   "tags": [
     "nimble",
     "package"
