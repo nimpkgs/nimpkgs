@@ -5,6 +5,23 @@
   "description": "Cloths provides the way to process and structure string easily.",
   "license": "MIT",
   "web": "https://github.com/panno8M/cloths",
+  "versions": [
+    {
+      "tag": "v1.2.0",
+      "hash": "37a8073c7d03434ca4b70ff32c77be5d01eaef84",
+      "time": 1718970593
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "d3a64136b18ba6f5c778179b586c7a1bfab65cd4",
+      "time": 1718958623
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "e4811a16740c0b2913aa154b5a8d2531a31f9628",
+      "time": 1718859287
+    }
+  ],
   "tags": [
     "string",
     "format"

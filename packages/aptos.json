@@ -5,6 +5,13 @@
   "description": "aptos library for nim lang",
   "license": "MIT",
   "web": "https://github.com/C-NERD/nimAptos",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "08b838ac9de050aa9576c913d951aa25602378b1",
+      "time": 1718971544
+    }
+  ],
   "tags": [
     "aptos",
     "cryptocurrency",
