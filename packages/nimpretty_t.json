@@ -7,9 +7,14 @@
   "web": "https://github.com/tobealive/nimpretty_t",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "9943917d75ed71997fad6139f6f9362d0656d8cc",
+      "time": 1718712250
+    },
+    {
       "tag": "v0.1.0",
-      "hash": "167a34fc8e93d702bc95b2e3d0f6326403a6077d",
-      "time": 1678959084
+      "hash": "e36dc23f6930c95fe3f84ea23d6fc0ea156c1c10",
+      "time": 1678957740
     }
   ],
   "tags": [

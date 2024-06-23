@@ -7,6 +7,11 @@
   "web": "https://github.com/HapticX/happyx",
   "versions": [
     {
+      "tag": "v4.0.0",
+      "hash": "acfdb62d8aedfdaa7d619b369bcc01af54899ed2",
+      "time": 1718951820
+    },
+    {
       "tag": "v3.11.0",
       "hash": "79680368c89cc6b24c8fe5afac0f3d5f0e198f0b",
       "time": 1715482856
