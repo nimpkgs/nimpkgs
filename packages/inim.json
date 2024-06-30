@@ -7,6 +7,11 @@
   "web": "https://github.com/AndreiRegiani/INim",
   "versions": [
     {
+      "tag": "v1.0.0",
+      "hash": "e3de600e0e96587aaf71d5695a7daec3f7796ecf",
+      "time": 1719613115
+    },
+    {
       "tag": "v0.6.1",
       "hash": "1d7dfa91265be4ab1252b6fa29a3b583683e947e",
       "time": 1601911013
