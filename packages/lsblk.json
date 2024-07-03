@@ -5,6 +5,13 @@
   "description": "List out block-devices, including disks, partitions and their mountpoints",
   "license": "MIT",
   "web": "https://github.com/FyraLabs/lsblk.nim",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "bfb60aba71156bdda8172bb2daff267b5213610a",
+      "time": 1719826700
+    }
+  ],
   "tags": [
     "lsblk",
     "disks",
