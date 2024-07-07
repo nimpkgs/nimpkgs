@@ -5,6 +5,28 @@
   "description": "A drop-in solution to use mimalloc in Nim with ARC/ORC",
   "license": "MIT",
   "web": "https://github.com/planetis-m/mimalloc_nim",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "eb64ebe7981837bf407ab81276913ca43ca59159",
+      "time": 1720204120
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "2d11d935e7e6d71775cc8333a4fee372954cea95",
+      "time": 1720180743
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "f3a267b745c46e5e8be105fa4f5f5e2fc5e30d46",
+      "time": 1720145039
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "e68253006cebde754b9fd0b69850be25e9825c21",
+      "time": 1720142332
+    }
+  ],
   "tags": [
     "allocator",
     "mimalloc",

@@ -7,6 +7,16 @@
   "web": "https://github.com/johnnovak/koi",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "d744097726a2bb6807ac0f50a125cb40afdbd1ad",
+      "time": 1720312010
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "039c2a13b0e3a1454d6617739d7a1b42b1ecb3df",
+      "time": 1720311021
+    },
+    {
       "tag": "v0.1.0",
       "hash": "1d0d84241a82d0a31a5eb6cd5d99aa27a2d8d2c4",
       "time": 1709714841
