@@ -7,6 +7,16 @@
   "web": "https://github.com/panno8M/cloths",
   "versions": [
     {
+      "tag": "v1.5.0",
+      "hash": "8ca381d1a2b7be5d6ee8dea327a48f49cc877bf1",
+      "time": 1720429301
+    },
+    {
+      "tag": "v1.4.1",
+      "hash": "b91e921c7c6b3ccfece51f92ce561c14f58600cf",
+      "time": 1720423745
+    },
+    {
       "tag": "v1.4.0",
       "hash": "27fd510305f41e2038325eabffdd6e2344b900ae",
       "time": 1719469310

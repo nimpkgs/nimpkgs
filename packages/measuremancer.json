@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/Measuremancer",
   "versions": [
     {
+      "tag": "v0.2.8",
+      "hash": "459b531615afd9d6186897fd198a4f278d5243a1",
+      "time": 1720709974
+    },
+    {
       "tag": "v0.2.7",
       "hash": "9e85f0b212bd25b4becf2885ff4267a22be8f32a",
       "time": 1708944115

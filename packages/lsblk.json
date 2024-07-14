@@ -7,6 +7,11 @@
   "web": "https://github.com/FyraLabs/lsblk.nim",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "09e539cbec8ffad20bd14ee17be6e8cbe8318d92",
+      "time": 1720707646
+    },
+    {
       "tag": "v0.2.1",
       "hash": "f8b788e83a16e37bbef6018812fa7ca77adb8046",
       "time": 1720090218
