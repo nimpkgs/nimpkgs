@@ -7,6 +7,11 @@
   "web": "https://github.com/nim-lang/langserver",
   "versions": [
     {
+      "tag": "v1.4.0",
+      "hash": "69e94dd6be48cb2bb4ec814b0b2098cb0c11a03f",
+      "time": 1721299981
+    },
+    {
       "tag": "v1.2.0",
       "hash": "71b59bfa77dabf6b8b381f6e18a1d963a1a658fc",
       "time": 1707141887

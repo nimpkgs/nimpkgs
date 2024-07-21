@@ -7,6 +7,11 @@
   "web": "https://github.com/arnetheduck/nph",
   "versions": [
     {
+      "tag": "v0.6.0",
+      "hash": "31bdced07d3dc3d254669bd94210101c701deeda",
+      "time": 1721397854
+    },
+    {
       "tag": "v0.5.1",
       "hash": "de5cd4823e63424adb58ef3717524348ae6c4d87",
       "time": 1709130232

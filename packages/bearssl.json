@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-bearssl",
   "versions": [
     {
+      "tag": "v0.2.5",
+      "hash": "667b40440a53a58e9f922e29e20818720c62d9ac",
+      "time": 1721320717
+    },
+    {
       "tag": "v0.2.4",
       "hash": "646fa2152b11980c24bf34b3e214b479c9d25f21",
       "time": 1719445791
