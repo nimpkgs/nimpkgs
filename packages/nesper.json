@@ -7,9 +7,34 @@
   "web": "https://github.com/elcritch/nesper",
   "versions": [
     {
+      "tag": "v0.7.2",
+      "hash": "82a2cba7dfff4729b7df998421e6c299b0486bd4",
+      "time": 1721771698
+    },
+    {
+      "tag": "v0.7.1",
+      "hash": "7c7633ad369d1dfcc8e8fa01cfa412cf1793e265",
+      "time": 1721763646
+    },
+    {
+      "tag": "v0.7.0",
+      "hash": "86f7c10f52045d8f703191c73f8a89973f53759a",
+      "time": 1721688963
+    },
+    {
+      "tag": "v0.6.1",
+      "hash": "f8e6e93649061e3a5d8af75b0e61ce08e21ad815",
+      "time": 1618212707
+    },
+    {
       "tag": "v0.6.0",
       "hash": "be4f2ed3e5a3594a8d6eb402ad71dd6be9d2be85",
       "time": 1615848946
+    },
+    {
+      "tag": "v0.5.0",
+      "hash": "e1d9f7ba13eebe45aea43c08fe839dd0544927c2",
+      "time": 1606787883
     },
     {
       "tag": "v0.4.1",
@@ -30,6 +55,11 @@
       "tag": "v0.2.0",
       "hash": "80ac0508222181579d2b32dbfe758fc15d494b75",
       "time": 1602290952
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "a5be2c3b952c7833f842639907aabd6eff393b81",
+      "time": 1600576015
     }
   ],
   "tags": [
