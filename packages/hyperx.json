@@ -7,6 +7,21 @@
   "web": "https://github.com/nitely/nim-hyperx",
   "versions": [
     {
+      "tag": "v0.1.27",
+      "hash": "b0ad28464c0965387b180e4c007c3fbe7b8b3ad3",
+      "time": 1722581424
+    },
+    {
+      "tag": "v0.1.26",
+      "hash": "648f7b4ff101fdd8ab31d77505633f4e8ca8eb1c",
+      "time": 1722433549
+    },
+    {
+      "tag": "v0.1.25",
+      "hash": "49920bbfe71e4d7ed2ee4501702dac9e712122e6",
+      "time": 1722396436
+    },
+    {
       "tag": "v0.1.24",
       "hash": "2c69953a67571a0cd988bf182e352b62fc4cd989",
       "time": 1721724045

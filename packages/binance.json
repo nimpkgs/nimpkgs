@@ -7,6 +7,16 @@
   "web": "https://github.com/Imperator26/binance",
   "versions": [
     {
+      "tag": "v1.0.4",
+      "hash": "b0e86853a1e93ff9c9b37c483af305e93a15bf77",
+      "time": 1722720920
+    },
+    {
+      "tag": "v1.0.3",
+      "hash": "4b0350be1a9522315a5834be8861999e8926ee10",
+      "time": 1722720611
+    },
+    {
       "tag": "v1.0.2",
       "hash": "245c47d903b05b2111e03191f15351addbe3dd13",
       "time": 1717077498
