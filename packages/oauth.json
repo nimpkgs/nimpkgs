@@ -7,6 +7,11 @@
   "web": "https://cordea.github.io/oauth",
   "versions": [
     {
+      "tag": "v0.11",
+      "hash": "ec2e058fc46f04deaf3cb55eca32b3b83c614953",
+      "time": 1722736983
+    },
+    {
       "tag": "v0.10",
       "hash": "2609e710ab76e61a503560b73618fc24eb97e8f9",
       "time": 1581940505
