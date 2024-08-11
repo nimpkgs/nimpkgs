@@ -7,6 +7,11 @@
   "web": "https://github.com/joachimschmidt557/nimmm",
   "versions": [
     {
+      "tag": "v0.4.0",
+      "hash": "ed3423f6b3fec39c88509ec4fe4eefc66b36eae3",
+      "time": 1723287195
+    },
+    {
       "tag": "v0.3.0",
       "hash": "09bc592285e33ec0424a81fdb742db29787fe492",
       "time": 1700944214

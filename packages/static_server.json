@@ -7,6 +7,11 @@
   "web": "https://github.com/bung87/nimhttpd",
   "versions": [
     {
+      "tag": "v2.2.2",
+      "hash": "b74ccd7c72ce6226cd12a63801e726048447015c",
+      "time": 1723091843
+    },
+    {
       "tag": "v2.2.1",
       "hash": "89cb7e33d353238dbc31f3f899dba6303feb71f1",
       "time": 1660741816
