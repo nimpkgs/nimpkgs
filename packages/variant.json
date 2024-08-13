@@ -7,6 +7,11 @@
   "web": "https://github.com/yglukhov/variant",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "097031a499d18d5f4b1fe2f4c16d3f1ded8c7f45",
+      "time": 1723472926
+    },
+    {
       "tag": "v0.2.13",
       "hash": "3e60f6a8600d71b4f6b39b654f31069be7937d67",
       "time": 1673983975

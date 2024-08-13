@@ -1,0 +1,13 @@
+{
+  "name": "tabby",
+  "url": "https://github.com/treeform/tabby",
+  "method": "git",
+  "description": "Fast CSV parser with hooks.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/tabby",
+  "tags": [
+    "csv",
+    "tsv",
+    "excel"
+  ]
+}

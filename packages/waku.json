@@ -7,6 +7,11 @@
   "web": "https://github.com/waku-org/nwaku",
   "versions": [
     {
+      "tag": "v0.31.1-rc.3",
+      "hash": "fde668a6da3530557ece5168e660ad4db9c23944",
+      "time": 1723455070
+    },
+    {
       "tag": "v0.31.1-rc.2",
       "hash": "519d010abb8f9cb58353bdb26f6a2de89d857f73",
       "time": 1723147002
