@@ -7,6 +7,11 @@
   "web": "https://github.com/PMunch/futhark",
   "versions": [
     {
+      "tag": "v0.13.4",
+      "hash": "81b970af04cd27878f010f77be35f5ab29d5e8e6",
+      "time": 1723901445
+    },
+    {
       "tag": "v0.13.3",
       "hash": "783f2aff860f582ca7bc8d6f4801e13822a219c4",
       "time": 1722594952

@@ -7,6 +7,11 @@
   "doc": "https://www.iffycan.com/nim-argparse/argparse.html",
   "versions": [
     {
+      "tag": "v4.0.2",
+      "hash": "8485f8cb9d86de9bfa2406ebf3b06691f8066c35",
+      "time": 1723834605
+    },
+    {
       "tag": "v4.0.1",
       "hash": "98c7c99bfbcaae750ac515a6fd603f85ed68668f",
       "time": 1669660759

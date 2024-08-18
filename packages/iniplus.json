@@ -7,6 +7,11 @@
   "web": "https://github.com/systemonia/iniplus",
   "versions": [
     {
+      "tag": "v0.3.2",
+      "hash": "a1431a2dca4e64f6effc78b590823e6ceb353970",
+      "time": 1723823064
+    },
+    {
       "tag": "v0.3.1",
       "hash": "cf992472fd1b6ccb5b179970b7cae7e8d5216fba",
       "time": 1723026258

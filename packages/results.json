@@ -5,6 +5,18 @@
   "description": "Friendly value-or-error type",
   "license": "MIT",
   "web": "https://github.com/arnetheduck/nim-results",
+  "versions": [
+    {
+      "tag": "v0.5.0",
+      "hash": "57b2392ad69849e3e2d02b74a8a0feee2c3d9570",
+      "time": 1723616678
+    },
+    {
+      "tag": "v0.4.0",
+      "hash": "8a03fb2e00dccbf35807c869e0184933b0cffa37",
+      "time": 1721453618
+    }
+  ],
   "tags": [
     "library",
     "result",
