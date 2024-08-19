@@ -7,6 +7,16 @@
   "web": "https://github.com/planetis-m/sync",
   "versions": [
     {
+      "tag": "v2.0.1",
+      "hash": "55f5526ebdc3c3347199b0f2129a400ab6c4ebcf",
+      "time": 1724006304
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "4d634f28c6961b98f5c9f12ec913719f279d2987",
+      "time": 1724004800
+    },
+    {
       "tag": "v1.5.0",
       "hash": "9b8c2926286377aeca0cc41cd313eaf140ecea64",
       "time": 1639158019
