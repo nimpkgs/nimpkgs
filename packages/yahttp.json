@@ -7,6 +7,11 @@
   "web": "https://github.com/mishankov/yahttp?tab=readme-ov-file#-yahttp---awesome-simple-http-client-for-nim",
   "versions": [
     {
+      "tag": "v0.13.0",
+      "hash": "72aa3efcf3d4fe1b3466341bdfcb83f664f609b7",
+      "time": 1724217705
+    },
+    {
       "tag": "v0.12.0",
       "hash": "433fe7dd097b955db34936740b2d164f9cac320e",
       "time": 1723914219
