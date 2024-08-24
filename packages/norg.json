@@ -1,0 +1,14 @@
+{
+  "name": "norg",
+  "url": "https://codeberg.org/pswilde/norgbackup",
+  "method": "git",
+  "description": "A portable wrapper for borg backup and restic inspired by borgmatic.",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://codeberg.org/pswilde/norgbackup",
+  "tags": [
+    "backup",
+    "system-tools",
+    "borg",
+    "restic"
+  ]
+}
