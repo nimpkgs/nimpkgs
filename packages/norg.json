@@ -5,6 +5,23 @@
   "description": "A portable wrapper for borg backup and restic inspired by borgmatic.",
   "license": "AGPL-3.0-or-later",
   "web": "https://codeberg.org/pswilde/norgbackup",
+  "versions": [
+    {
+      "tag": "v0.1.7",
+      "hash": "1ecdeb6a8293c42b3fadb3637e817b78262aa9af",
+      "time": 1724536461
+    },
+    {
+      "tag": "v0.1.6",
+      "hash": "360f7e502f6e5289012dc6c0e6dfeb56aa485319",
+      "time": 1724418973
+    },
+    {
+      "tag": "v0.1.5",
+      "hash": "ea5ecafee949c30495d1913f4fd3b402bff95894",
+      "time": 1724030688
+    }
+  ],
   "tags": [
     "backup",
     "system-tools",
