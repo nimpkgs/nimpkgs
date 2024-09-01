@@ -5,23 +5,6 @@
   "description": "Modules providing information about the OS.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/osinfo",
-  "versions": [
-    {
-      "tag": "v0.3.2",
-      "hash": "574835154e48ee12dabc91a8ed052b7882cf9aa2",
-      "time": 1578862479
-    },
-    {
-      "tag": "v0.3.1",
-      "hash": "d8c204bd26bbb3a3bdda9cd872914a326c726a32",
-      "time": 1577128488
-    },
-    {
-      "tag": "v0.2.0",
-      "hash": "4560773d9b8d9885ed47f22e08ee8d21c551f2d2",
-      "time": 1505861874
-    }
-  ],
   "tags": [
     "os",
     "library",
