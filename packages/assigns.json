@@ -7,6 +7,11 @@
   "web": "https://metagn.github.io/assigns/assigns.html",
   "versions": [
     {
+      "tag": "v0.8.0",
+      "hash": "1de3ff3701014f5e4fe06f2e5af4c7ef39b357d8",
+      "time": 1725696606
+    },
+    {
       "tag": "v0.7.1",
       "hash": "3c2f99e562282cd8fee96727d2802ab5ca8ec8d1",
       "time": 1663320713
