@@ -1,0 +1,12 @@
+{
+  "name": "spellua",
+  "url": "https://github.com/glassesneo/spellua",
+  "method": "git",
+  "description": "A high level LuaJIT bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/glassesneo/spellua",
+  "tags": [
+    "lua",
+    "metaprogramming"
+  ]
+}
