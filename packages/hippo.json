@@ -1,0 +1,13 @@
+{
+  "name": "hippo",
+  "url": "https://github.com/monofuel/hippo",
+  "method": "git",
+  "description": "HIP / CUDA programming library for Nim.",
+  "license": "MIT",
+  "web": "https://monofuel.github.io/hippo/",
+  "tags": [
+    "cuda",
+    "hip",
+    "gpu"
+  ]
+}
