@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/xrayAttenuation",
   "versions": [
     {
+      "tag": "v0.4.4",
+      "hash": "16ca5505e31e4d344876e23780ccc56128c7cd6e",
+      "time": 1726312926
+    },
+    {
       "tag": "v0.4.3",
       "hash": "d261db08770e2de3da828e8ad938d1c9f9562ffa",
       "time": 1722016200

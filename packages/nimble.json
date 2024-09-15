@@ -7,6 +7,11 @@
   "web": "https://github.com/nim-lang/nimble",
   "versions": [
     {
+      "tag": "v0.16.1",
+      "hash": "4fb6f8e6c33963f6f510fe82d09ad2a61b5e4265",
+      "time": 1726221665
+    },
+    {
       "tag": "v0.16.0",
       "hash": "54a85d47995963b510daf576fc12c2529c4f396f",
       "time": 1721750725
