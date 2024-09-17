@@ -5,6 +5,23 @@
   "description": "Youtube downloader library and CLI.",
   "license": "GPLv3",
   "web": "https://github.com/navid-m/newt",
+  "versions": [
+    {
+      "tag": "v1.0.2",
+      "hash": "3de51eeb05858fc9df5627bb3c2296f97e680346",
+      "time": 1726411909
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "a469e04bcda825d667882f81f2bdc74303a5d1de",
+      "time": 1726396299
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "4f08ca80fe16bf84be4fe87b9c2de44da0390c21",
+      "time": 1726390131
+    }
+  ],
   "tags": [
     "youtube",
     "media",

@@ -7,6 +7,11 @@
   "web": "https://github.com/SciNim/numericalnim/",
   "versions": [
     {
+      "tag": "v0.8.10",
+      "hash": "5156285dc74bfd994627e2dc451632164b6b0632",
+      "time": 1726474793
+    },
+    {
       "tag": "v0.8.9",
       "hash": "bd3c612c736f1ed74f74623a2cb202d9d3bdc441",
       "time": 1711702863
