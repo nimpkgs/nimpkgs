@@ -7,6 +7,11 @@
   "web": "https://github.com/navid-m/newt",
   "versions": [
     {
+      "tag": "v1.0.3",
+      "hash": "52e23c58d90fce8b3448eca311c46d37edd43e10",
+      "time": 1726701266
+    },
+    {
       "tag": "v1.0.2",
       "hash": "3de51eeb05858fc9df5627bb3c2296f97e680346",
       "time": 1726411909
