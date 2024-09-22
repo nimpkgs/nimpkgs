@@ -7,6 +7,11 @@
   "web": "https://github.com/nitely/nim-normalize",
   "versions": [
     {
+      "tag": "v0.9.0",
+      "hash": "08caa2a4da40580ed7fe3ce723b3f7feabcca8e5",
+      "time": 1726676294
+    },
+    {
       "tag": "v0.8.0",
       "hash": "db9a74ad6a301f991c477fc2d90894957f640654",
       "time": 1590869233

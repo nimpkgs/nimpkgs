@@ -7,6 +7,11 @@
   "web": "https://github.com/nitely/nim-unicodedb",
   "versions": [
     {
+      "tag": "v0.13.0",
+      "hash": "15c5e25e2a49a924bc97647481ff50125bba2c76",
+      "time": 1726693717
+    },
+    {
       "tag": "v0.10.0",
       "hash": "675407fa4b6e701ebf9f94e5370ce18c3af40cc3",
       "time": 1635061637

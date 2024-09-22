@@ -7,6 +7,11 @@
   "web": "https://github.com/BigEpsilon/nim-cppstl",
   "versions": [
     {
+      "tag": "v0.7.0",
+      "hash": "45ca8979092e9d93a2cf68484043e64fdd5d5b79",
+      "time": 1726487102
+    },
+    {
       "tag": "v0.6.2",
       "hash": "914d41b7521221be05706e2317f85d6f77728d66",
       "time": 1673535279

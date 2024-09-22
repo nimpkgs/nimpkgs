@@ -7,6 +7,11 @@
   "web": "https://github.com/nitely/nim-graphemes",
   "versions": [
     {
+      "tag": "v0.12.0",
+      "hash": "cc868c314ced482ed88dca2b470aa019480ce4c9",
+      "time": 1726705897
+    },
+    {
       "tag": "v0.11.0",
       "hash": "a9aa9befd7d0adc2bc10796cc6f42007e2ab1339",
       "time": 1680823141
