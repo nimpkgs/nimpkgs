@@ -5,6 +5,28 @@
   "description": "OpenAI ChatGPT API client library.",
   "license": "MIT",
   "web": "https://monofuel.github.io/openai_leap/",
+  "versions": [
+    {
+      "tag": "v2.0.3",
+      "hash": "a26a35b1aa7103eb9c80984124497b7436c8517c",
+      "time": 1727288161
+    },
+    {
+      "tag": "v2.0.2",
+      "hash": "7004ccebd3d774b13f02d20a23c78a947291f9d0",
+      "time": 1727287118
+    },
+    {
+      "tag": "v2.0.1",
+      "hash": "4851c4bac5720daf5110abd45d1bf8bf4c2b2ba6",
+      "time": 1727286953
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "47be72955206d2c92b07409d1b764fb8dcacc3a0",
+      "time": 1724885876
+    }
+  ],
   "tags": [
     "openai",
     "chatgpt",

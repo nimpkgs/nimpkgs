@@ -5,6 +5,13 @@
   "description": "Ollama API client library.",
   "license": "MIT",
   "web": "https://monofuel.github.io/llama_leap/",
+  "versions": [
+    {
+      "tag": "v1.2.0",
+      "hash": "823b0c807d20ce4d71fd47b8990afa3e0bc48f65",
+      "time": 1727293299
+    }
+  ],
   "tags": [
     "ollama",
     "llama2",
