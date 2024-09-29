@@ -8,6 +8,11 @@
   "doc": "https://elijahr.github.io/lockfreequeues/",
   "versions": [
     {
+      "tag": "v3.1.0",
+      "hash": "bc565f51944b19924eca22cb2a1b8fa2f2f30540",
+      "time": 1727567693
+    },
+    {
       "tag": "v3.0.0",
       "hash": "4caa6bc304205e35021249ba5202d1da53e7f8fb",
       "time": 1639511304
