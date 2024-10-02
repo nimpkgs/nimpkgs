@@ -7,6 +7,11 @@
   "web": "https://github.com/samdze/playdate-nim",
   "versions": [
     {
+      "tag": "v0.20.0",
+      "hash": "1a752d3bbd0c10382b90091b032e76512e05445d",
+      "time": 1727797354
+    },
+    {
       "tag": "v0.13.0",
       "hash": "c390085257ae5cea46075d2cef91179c4aaca9aa",
       "time": 1705600090
