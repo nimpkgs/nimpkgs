@@ -7,6 +7,16 @@
   "web": "https://github.com/planetis-m/naylib",
   "versions": [
     {
+      "tag": "v24.40.0",
+      "hash": "5cb4cf8b131f309ca39eaa2333b38a7cd9c64d6b",
+      "time": 1728054865
+    },
+    {
+      "tag": "v24.40",
+      "hash": "fe09fe04e4aa83c3e3963d3cb79ce5834d82f0ee",
+      "time": 1728054466
+    },
+    {
       "tag": "v5.1.6",
       "hash": "f885146f2bb673da8c5ced4499b75a0a2db812a5",
       "time": 1724617696
