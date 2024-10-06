@@ -7,6 +7,11 @@
   "web": "https://github.com/euantorano/semver.nim",
   "versions": [
     {
+      "tag": "v1.2.3",
+      "hash": "ec7732a4810441a937fe3059494ba338090c4957",
+      "time": 1728042125
+    },
+    {
       "tag": "v1.2.2",
       "hash": "fbd04d664e26c749a5ea28b1ca7e83a41fd0a253",
       "time": 1708691741

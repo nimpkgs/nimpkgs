@@ -7,6 +7,11 @@
   "web": "https://git.sr.ht/~bptato/monoucha",
   "versions": [
     {
+      "tag": "v0.5.1",
+      "hash": "6f4f3d99cb1189ac3f6ac86f4b3fda76066c6980",
+      "time": 1727881651
+    },
+    {
       "tag": "v0.4.3",
       "hash": "f2b80f64d9b28c56dc81ab022cfe838f6bfec39f",
       "time": 1726603131
