@@ -7,6 +7,21 @@
   "web": "https://github.com/bung87/crowngui",
   "versions": [
     {
+      "tag": "v0.3.9",
+      "hash": "4018a7efa066dc1e5acb6ae726995fccdb82a712",
+      "time": 1728434655
+    },
+    {
+      "tag": "v0.3.8",
+      "hash": "ad17ae10e7232d71229121f08ac22319b89150e0",
+      "time": 1728433967
+    },
+    {
+      "tag": "v0.3.7",
+      "hash": "761e6fce1b8445ae09a6da8588e14b4f84f40232",
+      "time": 1728408492
+    },
+    {
       "tag": "v0.3.6",
       "hash": "14f14ed1e5e16fe4ddc703584128fb358d92d358",
       "time": 1728135994
