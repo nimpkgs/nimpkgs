@@ -7,6 +7,11 @@
   "web": "https://github.com/andreaferretti/nimcuda",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "ebb88d7689ee9a51c6c3af2b48d301992282d93e",
+      "time": 1728896597
+    },
+    {
       "tag": "v0.2.0",
       "hash": "2ba1770c407ea0e217b1858c11aa8c8b5ebcfdac",
       "time": 1728637265
