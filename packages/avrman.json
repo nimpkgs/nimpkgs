@@ -7,6 +7,11 @@
   "web": "https://github.com/Abathargh/avrman",
   "versions": [
     {
+      "tag": "v0.2.0",
+      "hash": "1106b9a77e6728d075e20944b75c26cde5bb2732",
+      "time": 1729368877
+    },
+    {
       "tag": "v0.1.0",
       "hash": "93b9bc1e479228883a28bb396cccb063b18639b0",
       "time": 1710362627

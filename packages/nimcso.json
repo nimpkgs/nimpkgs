@@ -8,6 +8,11 @@
   "doc": "https://nimcso.phaseslab.org",
   "versions": [
     {
+      "tag": "v0.6.6",
+      "hash": "1cc89cc90a3035b8dc2353d45ed04a34dc4f5260",
+      "time": 1729162042
+    },
+    {
       "tag": "v0.6.5",
       "hash": "68b7c70c148945c61ff2f5b5787217def8409faa",
       "time": 1727189899
