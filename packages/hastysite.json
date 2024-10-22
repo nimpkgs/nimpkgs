@@ -7,6 +7,11 @@
   "web": "https://hastysite.h3rald.com",
   "versions": [
     {
+      "tag": "v1.4.0",
+      "hash": "ab9e4c37a9066d809f021557972daf81aebef79c",
+      "time": 1729488116
+    },
+    {
       "tag": "v1.3.10",
       "hash": "7414cc17ecbf64cdc136b30c121f8ffaa4340e6c",
       "time": 1696836110
