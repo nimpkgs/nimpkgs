@@ -7,6 +7,11 @@
   "web": "https://github.com/Vindaar/LatexDSL",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "97a1f3d8bf0c3a4535e6e0c59afb72ac9fb10296",
+      "time": 1729934668
+    },
+    {
       "tag": "v0.2.0",
       "hash": "f06a89e59761815a27a9a0f32b0db6686065c674",
       "time": 1707476099

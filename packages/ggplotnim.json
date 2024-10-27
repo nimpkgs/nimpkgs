@@ -7,6 +7,11 @@
   "web": "https://github.com/Vindaar/ggplotnim",
   "versions": [
     {
+      "tag": "v0.7.2",
+      "hash": "3f3e5bb40d14e8a43035d71edd09a2e4cb3dbbf4",
+      "time": 1729935739
+    },
+    {
       "tag": "v0.7.1",
       "hash": "dea5bf2ecd375b05d429c8a6ec2132e509d16aed",
       "time": 1725528159

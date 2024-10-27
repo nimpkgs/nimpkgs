@@ -7,6 +7,11 @@
   "web": "https://github.com/jon-edward/box2d.nim",
   "versions": [
     {
+      "tag": "v0.1.1",
+      "hash": "17dcb4c505c738ced32dc8ea03919b1e9e071fff",
+      "time": 1729818173
+    },
+    {
       "tag": "v0.1.0",
       "hash": "f7e246bd439dfca136f1dcbf1841fe506fc8f668",
       "time": 1724639972
