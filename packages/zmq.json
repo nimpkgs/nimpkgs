@@ -7,6 +7,11 @@
   "web": "https://github.com/nim-lang/nim-zmq",
   "versions": [
     {
+      "tag": "v1.5.3",
+      "hash": "4cc1ca3fda59c3a95e8e572317e553306ef5ed98",
+      "time": 1730739183
+    },
+    {
       "tag": "v1.5.2",
       "hash": "6eb2f6e4c7b83fd40991a169408bccadf3af4cfc",
       "time": 1716923020

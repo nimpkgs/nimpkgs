@@ -7,6 +7,11 @@
   "web": "https://github.com/Clonkk/nimjl",
   "versions": [
     {
+      "tag": "v0.8.4",
+      "hash": "4e97e0bc10a8c780561f0915f53285189f33c4cc",
+      "time": 1730728777
+    },
+    {
       "tag": "v0.8.3",
       "hash": "97b8440b12cf1e4a01f74b049882cc2323310d9f",
       "time": 1717007359
