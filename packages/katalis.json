@@ -5,6 +5,18 @@
   "description": "Katalis is nim lang micro web framework",
   "license": "MIT",
   "web": "https://github.com/zendbit/katalis",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "53fd7884713d2073636af27f4fc23ffa7f21e98d",
+      "time": 1731448185
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "afbeb45b2104b3281a102a34ff5287bb71312ab2",
+      "time": 1731439965
+    }
+  ],
   "tags": [
     "web",
     "framework",
