@@ -7,6 +7,11 @@
   "web": "https://github.com/zendbit/katalis",
   "versions": [
     {
+      "tag": "v0.2.2",
+      "hash": "0039557f185f763740e77087fd8a23090edca1b5",
+      "time": 1731801818
+    },
+    {
       "tag": "v0.2.1",
       "hash": "b65af4c4b86b66004b42b25f631fa3a3694a9553",
       "time": 1731664612

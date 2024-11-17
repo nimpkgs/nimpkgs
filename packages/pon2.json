@@ -7,6 +7,11 @@
   "web": "https://github.com/izumiya-keisuke/pon2",
   "versions": [
     {
+      "tag": "v0.23.14",
+      "hash": "d84f076924a318ddacbbb899fa66595afdf30fe3",
+      "time": 1731620533
+    },
+    {
       "tag": "v0.23.13",
       "hash": "fd1a03e8ae0cdc5c8dd90c28d903344bf6982259",
       "time": 1730745096
