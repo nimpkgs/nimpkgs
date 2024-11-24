@@ -7,6 +7,11 @@
   "web": "https://github.com/Q-Master/packets.nim",
   "versions": [
     {
+      "tag": "v2.3.0",
+      "hash": "748cea8d4a50bf4327f727710e8fd377b1de501f",
+      "time": 1731945439
+    },
+    {
       "tag": "v2.2.2",
       "hash": "2b62bdf7164dd0ea321a339a7abe9e722c0f693e",
       "time": 1730047405

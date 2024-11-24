@@ -7,6 +7,21 @@
   "web": "https://github.com/nitely/nim-unicodeplus",
   "versions": [
     {
+      "tag": "v0.14.2",
+      "hash": "f802d012290c32a69a774f2e7ea889546c1132e7",
+      "time": 1732223211
+    },
+    {
+      "tag": "v0.14.1",
+      "hash": "75c5b571d0e2ab5b20cd3f0e7a660a46aca4c19f",
+      "time": 1732218365
+    },
+    {
+      "tag": "v0.14.0",
+      "hash": "4d83cf0f18a13d3eb7fc668e17c976724b36db97",
+      "time": 1732216446
+    },
+    {
       "tag": "v0.13.0",
       "hash": "dc0c62d5642f63408f18405b86ee0c4a883dff9f",
       "time": 1698270250

@@ -6,6 +6,21 @@
   "license": "Unlicense",
   "versions": [
     {
+      "tag": "v1.3.0",
+      "hash": "0a441923d79cecce02859367b99e3a2d17e0eadc",
+      "time": 1731987695
+    },
+    {
+      "tag": "v1.2.2",
+      "hash": "b139d72a4bfb62e5c6d877ef1323d3bcb9ec697c",
+      "time": 1731901926
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "caca68fbd7035cc33c1f472ab897760a7caa3eaa",
+      "time": 1731899681
+    },
+    {
       "tag": "v1.2.0",
       "hash": "7d520a4f9b0d9fdfe5497027e592eed893fd0c92",
       "time": 1703724407

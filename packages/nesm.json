@@ -7,6 +7,11 @@
   "web": "https://xomachine.gitlab.io/NESM/",
   "versions": [
     {
+      "tag": "v0.4.11",
+      "hash": "ad309b0db84ea6a77722d4699d7e529e63a982ff",
+      "time": 1731869102
+    },
+    {
       "tag": "v0.4.10",
       "hash": "5ee2aedef522a2840ab9d858f95f9c4f4818c3bb",
       "time": 1644738619
