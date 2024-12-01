@@ -5,6 +5,13 @@
   "description": "Hot reloading for development of applications in Nim",
   "license": "GPLv3",
   "web": "https://github.com/navid-m/fox",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "ddd533414f1d315907ac15e3762792ea2b3f1b66",
+      "time": 1732557466
+    }
+  ],
   "tags": [
     "hot-reload",
     "debugging",

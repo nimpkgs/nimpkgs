@@ -7,6 +7,11 @@
   "web": "https://github.com/Q-Master/rmq-statsd.nim",
   "versions": [
     {
+      "tag": "v0.2.2",
+      "hash": "99801806ba65a12430262da8d8a26116511e80b2",
+      "time": 1732545992
+    },
+    {
       "tag": "v0.2.1",
       "hash": "0299fdab05a9befea7d242fdebafe792d1100af0",
       "time": 1730063795

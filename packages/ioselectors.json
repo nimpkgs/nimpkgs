@@ -7,6 +7,11 @@
   "web": "https://github.com/ringabout/ioselectors",
   "versions": [
     {
+      "tag": "v0.2.0",
+      "hash": "c9344036936a49db3ff1bce97e0896d6aabcf22d",
+      "time": 1732611303
+    },
+    {
       "tag": "v0.1.8",
       "hash": "6fcdbf3fddeb239885cd8bce15a0ab63c00647c0",
       "time": 1604484256

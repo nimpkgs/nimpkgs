@@ -7,6 +7,11 @@
   "web": "https://github.com/ringabout/httpx",
   "versions": [
     {
+      "tag": "v0.3.8",
+      "hash": "47cb5e79c6070153240f7395134885a114b0f039",
+      "time": 1732611418
+    },
+    {
       "tag": "v0.3.7",
       "hash": "9fab2c3c387e39ecf27129d390ff635eab9d10a3",
       "time": 1690770242
