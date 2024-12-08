@@ -7,6 +7,11 @@
   "web": "https://github.com/arnetheduck/nim-results",
   "versions": [
     {
+      "tag": "v0.5.1",
+      "hash": "df8113dda4c2d74d460a8fa98252b0b771bf1f27",
+      "time": 1733582743
+    },
+    {
       "tag": "v0.5.0",
       "hash": "57b2392ad69849e3e2d02b74a8a0feee2c3d9570",
       "time": 1723616678

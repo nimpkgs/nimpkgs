@@ -5,6 +5,13 @@
   "description": "A collection of Ethereum related libraries",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-eth",
+  "versions": [
+    {
+      "tag": "v0.5.0",
+      "hash": "dcfbc4291d39b59563828c3e32be4d51a2f25931",
+      "time": 1733312444
+    }
+  ],
   "tags": [
     "library",
     "ethereum",
