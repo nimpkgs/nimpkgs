@@ -7,6 +7,11 @@
   "web": "https://github.com/daylinmorgan/forge",
   "versions": [
     {
+      "tag": "v2024.1004",
+      "hash": "674813e9b798c88e69da41e3d502fd64578dd8b2",
+      "time": 1733929540
+    },
+    {
       "tag": "v2024.1003",
       "hash": "e60415e9b013e47f89a7156b3e6fb5be8712b9c4",
       "time": 1727448406

@@ -7,6 +7,11 @@
   "web": "https://github.com/nitely/nim-regex",
   "versions": [
     {
+      "tag": "v0.26.0",
+      "hash": "09c5d12f49763eacff0c337d8832c05a3348e6d6",
+      "time": 1733772622
+    },
+    {
       "tag": "v0.25.0",
       "hash": "cb8b7bfdcdc2272aadf92153c668acd3c901bd6b",
       "time": 1712578030

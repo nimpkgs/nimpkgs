@@ -7,6 +7,11 @@
   "web": "https://github.com/jfilby/nexus",
   "versions": [
     {
+      "tag": "v2.0.1",
+      "hash": "964c06f6adf54ccb46e4a396575c7dc4d39479e6",
+      "time": 1733718545
+    },
+    {
       "tag": "v2.0.0",
       "hash": "ca09eec59c30418c79da2cc8c08793630045ce0c",
       "time": 1703741314
