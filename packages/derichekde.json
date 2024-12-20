@@ -1,0 +1,15 @@
+{
+  "name": "derichekde",
+  "url": "https://github.com/chancyk/deriche-kde",
+  "method": "git",
+  "description": "Fast KDE implementation in pure Nim using linear binning and Deriche approximation",
+  "license": "BSD-3-Clause",
+  "tags": [
+    "kde",
+    "density",
+    "kernel",
+    "estimation",
+    "deriche",
+    "plot"
+  ]
+}
