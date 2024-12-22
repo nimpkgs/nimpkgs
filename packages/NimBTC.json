@@ -1,0 +1,12 @@
+{
+  "name": "NimBTC",
+  "url": "https://git.dog/Caroline/NimBTC",
+  "method": "git",
+  "description": "A BTC RPC Wrapper for Nim",
+  "license": "MIT",
+  "tags": [
+    "Crypto",
+    "BTC",
+    "Bitcoin"
+  ]
+}
