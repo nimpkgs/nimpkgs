@@ -7,6 +7,11 @@
   "web": "https://github.com/nim-lang/Nim",
   "versions": [
     {
+      "tag": "v2.0.14",
+      "hash": "bf4de6a394e040d9810cba8c69fb2829ff04dcc6",
+      "time": 1734937661
+    },
+    {
       "tag": "v2.0.12",
       "hash": "ce7c6f4f3365db2cc63bdd9d460c71ed937ee9e9",
       "time": 1730366896
