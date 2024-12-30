@@ -1,0 +1,14 @@
+{
+  "name": "gdext",
+  "url": "https://github.com/godot-nim/gdext-nim",
+  "method": "git",
+  "description": "Nim for Godot GDExtension. A pure library and a CLI tool.",
+  "license": "MIT",
+  "web": "https://github.com/godot-nim/gdext-nim",
+  "tags": [
+    "godot",
+    "godot4",
+    "gdextension",
+    "game"
+  ]
+}
