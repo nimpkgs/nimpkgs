@@ -5,6 +5,38 @@
   "description": "Learn and understand compute shader operations and control flow.",
   "license": "MIT",
   "web": "https://github.com/planetis-m/compute-sim",
+  "versions": [
+    {
+      "tag": "v1.0.2",
+      "hash": "bcf9d759f96d4d0d325404944c2b01970e4de542",
+      "time": 1735860194
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "3e1fd0ca57bd7be76a832c2c51f5c01f10d2d9b9",
+      "time": 1735855185
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "19b7f34e8da0793fbff5107d17421d6c9617c809",
+      "time": 1735774051
+    },
+    {
+      "tag": "v0.0.3",
+      "hash": "88e808ec41c94e6c95e59e18ab5e610e907ee81c",
+      "time": 1735760453
+    },
+    {
+      "tag": "v0.0.2",
+      "hash": "cbe8db5d0830cf43ca05e4002de586eddb471b05",
+      "time": 1735757540
+    },
+    {
+      "tag": "v0.0.1",
+      "hash": "25c8f4ec8c2d5042cbb99b925c517e010d275206",
+      "time": 1735676445
+    }
+  ],
   "tags": [
     "gpu-simulation",
     "compute-shaders",
