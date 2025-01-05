@@ -7,6 +7,11 @@
   "web": "https://github.com/planety/cookiejar",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "372b0ab1a6036a9f48f7540e7f3090e61796d947",
+      "time": 1735656531
+    },
+    {
       "tag": "v0.3.0",
       "hash": "aa96ca83a7c154f08803c7715f054d77f2d623cf",
       "time": 1601612291
