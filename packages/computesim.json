@@ -7,6 +7,11 @@
   "web": "https://github.com/planetis-m/compute-sim",
   "versions": [
     {
+      "tag": "v1.1.9",
+      "hash": "b35fc2910fb28807723baad5bd3f3160b8f0e0c8",
+      "time": 1736378464
+    },
+    {
       "tag": "v1.1.0",
       "hash": "84e846969d6feba1d1081b5aff6878657ed78258",
       "time": 1736199378

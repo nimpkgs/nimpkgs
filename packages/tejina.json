@@ -1,0 +1,14 @@
+{
+  "name": "tejina",
+  "url": "https://github.com/bctnry/tejina",
+  "method": "git",
+  "description": "Minimal web framework for Nim",
+  "license": "MIT",
+  "web": "https://github.com/bctnry/tejina",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "template"
+  ]
+}
