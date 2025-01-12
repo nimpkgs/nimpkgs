@@ -7,6 +7,11 @@
   "web": "https://github.com/arnetheduck/nim-sqlite3-abi",
   "versions": [
     {
+      "tag": "v3.47.2.0",
+      "hash": "cc4fefd538aa43814c5864c540fb75b567c2dcc3",
+      "time": 1736153597
+    },
+    {
       "tag": "v3.47.1.0",
       "hash": "38061875f7b7c5dad465933c329748013c52ea7c",
       "time": 1733144339
