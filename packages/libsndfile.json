@@ -1,0 +1,14 @@
+{
+  "name": "libsndfile",
+  "url": "https://github.com/bctnry/nim-libsndfile",
+  "method": "git",
+  "description": "A C-style wrapper of libsndfile for Nim",
+  "license": "MIT",
+  "web": "https://github.com/bctnry/nim-libsndfile",
+  "tags": [
+    "audio",
+    "wav",
+    "wrapper",
+    "libsndfile"
+  ]
+}
