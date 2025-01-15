@@ -5,6 +5,13 @@
   "description": "A C-style wrapper of libsndfile for Nim",
   "license": "MIT",
   "web": "https://github.com/bctnry/nim-libsndfile",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "9cdd804235728785ab1a613a6cd851d7caa313f6",
+      "time": 1736644894
+    }
+  ],
   "tags": [
     "audio",
     "wav",
