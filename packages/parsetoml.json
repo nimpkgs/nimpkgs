@@ -7,6 +7,11 @@
   "web": "https://github.com/NimParsers/parsetoml",
   "versions": [
     {
+      "tag": "v0.7.2",
+      "hash": "d297f5a81be2472905d367aa675dcbbca6e7a5d2",
+      "time": 1736706623
+    },
+    {
       "tag": "v0.7.1",
       "hash": "6e5e16179fa2db60f2f37d8b1af4128aaa9c8aaf",
       "time": 1691274487

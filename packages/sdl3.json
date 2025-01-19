@@ -5,6 +5,23 @@
   "description": "SDl3 bindings for Nim",
   "license": "MIT",
   "web": "https://github.com/transmutrix/nim-sdl3",
+  "versions": [
+    {
+      "tag": "v1.0.2",
+      "hash": "9069853a82e30381a92738107469b224b0b38a09",
+      "time": 1737239230
+    },
+    {
+      "tag": "v1.0.1",
+      "hash": "544f2809046f3aa829fd203fc9a92e6fcd251407",
+      "time": 1737236948
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "1703dc55047f48a1a68955f86caf509234f4a1ca",
+      "time": 1737126680
+    }
+  ],
   "tags": [
     "sdl",
     "game-dev",
