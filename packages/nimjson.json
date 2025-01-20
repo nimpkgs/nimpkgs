@@ -7,6 +7,11 @@
   "web": "https://github.com/jiro4989/nimjson",
   "versions": [
     {
+      "tag": "v3.3.0",
+      "hash": "0de437f9955d03f92b6758b803e255b4d82aba90",
+      "time": 1737330239
+    },
+    {
       "tag": "v3.2.0",
       "hash": "c7b681ac503c1c125ddc3e94e471a1d4f71f91f4",
       "time": 1691328934
