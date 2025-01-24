@@ -1,0 +1,14 @@
+{
+  "name": "icu4nim",
+  "url": "https://github.com/ferus-web/icu4nim",
+  "method": "git",
+  "description": "Non-mature ICU 76.x bindings in Nim",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/icu4nim",
+  "tags": [
+    "unicode",
+    "icu",
+    "timezones",
+    "i18n"
+  ]
+}
