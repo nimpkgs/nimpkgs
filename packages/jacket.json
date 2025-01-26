@@ -7,6 +7,11 @@
   "web": "https://github.com/SpotlightKid/jacket",
   "versions": [
     {
+      "tag": "v0.2.0",
+      "hash": "3b40310afd4a8ed453cfe262bbd1ddd8582e0ef1",
+      "time": 1737336225
+    },
+    {
       "tag": "v0.1.0",
       "hash": "20aed9e3730de0cc3a662f00108b0d7b5cac559d",
       "time": 1700757016

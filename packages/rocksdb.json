@@ -5,6 +5,13 @@
   "description": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
   "license": "Apache 2.0 or GPLv2",
   "web": "https://github.com/status-im/nim-rocksdb",
+  "versions": [
+    {
+      "tag": "v9.8.4.0",
+      "hash": "6149edce39b73f8a16b65970fad38eb992550aca",
+      "time": 1737440644
+    }
+  ],
   "tags": [
     "library",
     "wrapper",
