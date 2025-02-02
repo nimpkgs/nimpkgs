@@ -7,6 +7,11 @@
   "web": "https://github.com/mratsim/constantine",
   "versions": [
     {
+      "tag": "v0.2.0",
+      "hash": "8d6a6a38b90fb8ee3ec2230839773e69aab36d80",
+      "time": 1737931921
+    },
+    {
       "tag": "v0.1.0",
       "hash": "1b4d969fca86a8756cf35ec8a116f4d6a9285464",
       "time": 1720214364

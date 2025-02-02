@@ -7,6 +7,16 @@
   "web": "https://github.com/nitely/nim-grpc",
   "versions": [
     {
+      "tag": "v0.1.15",
+      "hash": "549eaea6127059cec6b25907068fce76be915321",
+      "time": 1738340995
+    },
+    {
+      "tag": "v0.1.14",
+      "hash": "ae90a3c7313bcb727cff663a78d23675b398dec0",
+      "time": 1738171855
+    },
+    {
       "tag": "v0.1.13",
       "hash": "7c3dda52db8804ebc3142900b2df7c6bb2bf215a",
       "time": 1736470316
