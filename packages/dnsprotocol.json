@@ -7,6 +7,11 @@
   "web": "https://github.com/rockcavera/nim-dnsprotocol",
   "versions": [
     {
+      "tag": "v0.2.2",
+      "hash": "f1aa2d6f809fca124d5902f29ae0f37d645e1685",
+      "time": 1738881199
+    },
+    {
       "tag": "v0.2.1",
       "hash": "d2abbe737a69d2dfe25bebea2623a8e3bd5c0f96",
       "time": 1714518059
