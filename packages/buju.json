@@ -7,6 +7,11 @@
   "web": "https://github.com/haoyu234/buju",
   "versions": [
     {
+      "tag": "v0.2.3",
+      "hash": "f394b4f2d8042b355f624ae680b5c6214fa72449",
+      "time": 1739156139
+    },
+    {
       "tag": "v0.2.2",
       "hash": "622493909eb6222122931bf68c585ed622530a69",
       "time": 1733117995
