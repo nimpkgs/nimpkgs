@@ -5,6 +5,13 @@
   "description": "Implementation of KYBER in NIM",
   "license": "MIT",
   "web": "https://roger-padrell.github.io/nim-kyber/",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "91ba6d124721dbf456e4dba0ec7d3d31b1d7620f",
+      "time": 1739309621
+    }
+  ],
   "tags": [
     "crypto",
     "encrypting",
