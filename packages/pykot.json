@@ -7,6 +7,11 @@
   "web": "https://github.com/jabbalaci/nimpykot",
   "versions": [
     {
+      "tag": "v0.2.2",
+      "hash": "34935c50b67a4c8f5ed680a4a2d3f9aa280c44ff",
+      "time": 1739461616
+    },
+    {
       "tag": "v0.2.1",
       "hash": "db7be90919921355321608603e3ec48c1be67f06",
       "time": 1540032837
