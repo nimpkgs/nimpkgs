@@ -7,6 +7,11 @@
   "web": "https://github.com/ThomasTJdev/nim_awsSigV4",
   "versions": [
     {
+      "tag": "v0.0.3",
+      "hash": "6e23455792456a22ef72d9d3309b473290325387",
+      "time": 1739517264
+    },
+    {
       "tag": "v0.0.2",
       "hash": "6be9c1a07057503e849492188b99175280bbcb03",
       "time": 1706422809

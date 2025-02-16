@@ -5,6 +5,13 @@
   "description": "SIMD-accelerated multithreaded fuzzy search thats fast as f*ck",
   "license": "BSD-3-Clause",
   "web": "https://github.com/arashi-software/floof",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "7a5d2487acffab6063c0a44d2208b7f1d40d6a44",
+      "time": 1739504741
+    }
+  ],
   "tags": [
     "fuzzy",
     "search",
