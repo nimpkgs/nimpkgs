@@ -7,6 +7,11 @@
   "web": "https://github.com/transmutrix/nim-sdl3",
   "versions": [
     {
+      "tag": "v1.1.0",
+      "hash": "915ff59eb4250c5f5b9eed80841cc9a98c19b266",
+      "time": 1739812804
+    },
+    {
       "tag": "v1.0.4",
       "hash": "6a88f038a74950fcd3e2bb4de2d74dfd0ed310a2",
       "time": 1737560524

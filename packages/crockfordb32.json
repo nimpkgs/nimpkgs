@@ -8,6 +8,11 @@
   "doc": "https://yu-vitaqua-fer-chronos.github.io/Crockford-Base32-Nim/",
   "versions": [
     {
+      "tag": "v2.0.0",
+      "hash": "97d87dadda5bf0e98ab2393882cc67eb538bb897",
+      "time": 1739988084
+    },
+    {
       "tag": "v1.1.0",
       "hash": "f1b4b3d923056993dd1491a0e007e3f4c31b84a2",
       "time": 1698746910

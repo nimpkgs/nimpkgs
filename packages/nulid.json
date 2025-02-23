@@ -8,6 +8,11 @@
   "doc": "https://yu-vitaqua-fer-chronos.github.io/NULID/",
   "versions": [
     {
+      "tag": "v1.3.1",
+      "hash": "59d884d18fc9f7679d0bc9b317c2376bf1d5d257",
+      "time": 1739989762
+    },
+    {
       "tag": "v1.3.0",
       "hash": "8c3165a000e9ee1fd1489b5746b2c647c25d0776",
       "time": 1706219604

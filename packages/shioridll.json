@@ -7,6 +7,11 @@
   "web": "https://github.com/Narazaka/shioridll-nim",
   "versions": [
     {
+      "tag": "v3.0.1",
+      "hash": "6ab7dc0ac279cc2b6cb2995c55b612d3ae24b5b0",
+      "time": 1739895711
+    },
+    {
       "tag": "v3.0.0",
       "hash": "bde72bafccae843feaf5d9b79d0cc437f40d312e",
       "time": 1516437990
