@@ -7,6 +7,11 @@
   "web": "https://github.com/Q-Master/networkutils.nim",
   "versions": [
     {
+      "tag": "v0.6.2",
+      "hash": "32db7c01c2b9e560a3f2a547f0e6e50443cd8c21",
+      "time": 1740825962
+    },
+    {
       "tag": "v0.6.1",
       "hash": "da0185f3a1f1416bb727f60cadc1f92f8e7d325b",
       "time": 1657201249

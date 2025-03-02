@@ -7,6 +7,11 @@
   "web": "https://github.com/luisacosta828/plnim",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "37847ca1f0bc6c9eb04c5c3f20616a796bcf848f",
+      "time": 1740595712
+    },
+    {
       "tag": "v0.2.0",
       "hash": "f2589ba21b7d43d27a09b9d7a3fcdee7a8663903",
       "time": 1633314946
