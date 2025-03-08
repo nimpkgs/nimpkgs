@@ -5,6 +5,13 @@
   "description": "Modern networking interfaces for Nim.",
   "license": "MIT",
   "web": "https://github.com/WKHAllen/nimdtp",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "19cd209086fba47295186aa00d3c3390a6d0513e",
+      "time": 1741237976
+    }
+  ],
   "tags": [
     "socket",
     "networking",
