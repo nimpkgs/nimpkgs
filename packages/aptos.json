@@ -7,6 +7,11 @@
   "web": "https://github.com/C-NERD/nimAptos",
   "versions": [
     {
+      "tag": "v0.3.1",
+      "hash": "962d512d7ca1bf57f5c0ed0b4472d74a9b6bf7c6",
+      "time": 1740928451
+    },
+    {
       "tag": "v0.3.0",
       "hash": "08b838ac9de050aa9576c913d951aa25602378b1",
       "time": 1718971544

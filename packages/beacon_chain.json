@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nimbus-eth2",
   "versions": [
     {
+      "tag": "v25.3.0",
+      "hash": "fad7b9a7133faf63efb552b6caaa3fb1554aba19",
+      "time": 1740885356
+    },
+    {
       "tag": "v25.2.0",
       "hash": "c668800479296e8cebb9f79be6b7be51512911eb",
       "time": 1739450976
