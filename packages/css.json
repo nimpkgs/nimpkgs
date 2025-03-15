@@ -1,0 +1,14 @@
+{
+  "name": "css",
+  "url": "https://github.com/thing-king/css",
+  "method": "git",
+  "description": "CSS parser and validator",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/css",
+  "tags": [
+    "css",
+    "parser",
+    "validaator",
+    "validation"
+  ]
+}
