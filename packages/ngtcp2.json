@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-ngtcp2",
   "versions": [
     {
+      "tag": "v0.36.0",
+      "hash": "eb044940470a3a848e8d12a9ca8cfa82cec12ae5",
+      "time": 1741726896
+    },
+    {
       "tag": "v0.35.0",
       "hash": "b9dbc3ad58bc31bc1767f0030f136859a753ccbc",
       "time": 1740771415

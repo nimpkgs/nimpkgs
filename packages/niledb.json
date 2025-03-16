@@ -7,6 +7,11 @@
   "web": "https://github.com/JeffersonLab/niledb.git",
   "versions": [
     {
+      "tag": "v1.3.2",
+      "hash": "92d058ee0a776f6e84ec20a41b2cd774a26d6a12",
+      "time": 1741954807
+    },
+    {
       "tag": "v1.3.1",
       "hash": "03f683dc257aa5fa7accece7910d80541b2dde29",
       "time": 1609368470
