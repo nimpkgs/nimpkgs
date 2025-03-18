@@ -1,0 +1,16 @@
+{
+  "name": "vecray",
+  "url": "https://github.com/morganholly/vecray",
+  "method": "git",
+  "description": "2d/3d array and vector types with basic math for them",
+  "license": "MIT",
+  "web": "https://github.com/morganholly/vecray",
+  "tags": [
+    "vector",
+    "matrix",
+    "array",
+    "array2d",
+    "array3d",
+    "multidimensional-array"
+  ]
+}
