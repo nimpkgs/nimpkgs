@@ -1,0 +1,13 @@
+{
+  "name": "md4",
+  "url": "https://github.com/infinoid/md4.nim",
+  "method": "git",
+  "description": "dumb MD4 digest calculation",
+  "license": "MIT",
+  "web": "https://github.com/infinoid/md4.nim",
+  "tags": [
+    "md4",
+    "digest",
+    "hash"
+  ]
+}

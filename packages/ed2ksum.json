@@ -1,0 +1,12 @@
+{
+  "name": "ed2ksum",
+  "url": "https://github.com/infinoid/ed2ksum.nim",
+  "method": "git",
+  "description": "ED2Ksum hash calculation",
+  "license": "MIT",
+  "web": "https://github.com/infinoid/ed2ksum.nim",
+  "tags": [
+    "ed2ksum",
+    "hash"
+  ]
+}
