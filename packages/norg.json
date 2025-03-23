@@ -7,6 +7,16 @@
   "web": "https://codeberg.org/pswilde/norgbackup",
   "versions": [
     {
+      "tag": "v0.1.19",
+      "hash": "b739bfd667078bc426d6951b4f76d337ba5493c2",
+      "time": 1742680428
+    },
+    {
+      "tag": "v0.1.18",
+      "hash": "b0e035f1c7e83a15f3851fd1f60dcbc1475d823f",
+      "time": 1742679046
+    },
+    {
       "tag": "v0.1.17",
       "hash": "6f98ee4d34afaab49c7f958f84bc251fbb96982d",
       "time": 1738592431

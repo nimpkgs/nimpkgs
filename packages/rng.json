@@ -7,6 +7,11 @@
   "web": "https://github.com/penguinite/rng",
   "versions": [
     {
+      "tag": "v0.2.0",
+      "hash": "e05ba446319e474af8cbb61d2e6562335d9fdf3e",
+      "time": 1742468825
+    },
+    {
       "tag": "v0.1.0",
       "hash": "ecc5372dce44e3ad01042a624951adc5576acc56",
       "time": 1716371363
