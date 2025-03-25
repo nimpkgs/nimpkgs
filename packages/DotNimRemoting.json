@@ -1,0 +1,14 @@
+{
+  "name": "DotNimRemoting",
+  "url": "https://github.com/filvyb/DotNimRemoting",
+  "method": "git",
+  "description": "library for communicating with .NET applications using MS-NRTP",
+  "license": "MIT",
+  "web": "https://github.com/filvyb/DotNimRemoting",
+  "tags": [
+    "dotnet",
+    "remoting",
+    "nrbf",
+    "nrtp"
+  ]
+}
