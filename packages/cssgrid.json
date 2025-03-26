@@ -7,6 +7,16 @@
   "web": "https://github.com/elcritch/cssgrid",
   "versions": [
     {
+      "tag": "v0.10.2",
+      "hash": "a1551d212c4213d99848a37d16689b68228038f5",
+      "time": 1742875141
+    },
+    {
+      "tag": "v0.10.1",
+      "hash": "bd6944be97840b0983810d694612dad38b090028",
+      "time": 1742870135
+    },
+    {
       "tag": "v0.10.0",
       "hash": "3a8637254ecfd21ba4a83bc7f53c59efb878624b",
       "time": 1740991796
