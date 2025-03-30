@@ -7,6 +7,11 @@
   "web": "https://github.com/SolitudeSF/colorcol",
   "versions": [
     {
+      "tag": "v0.5.3",
+      "hash": "5a7dda9d40f0456c47ba1e2c65dc791311b83e4f",
+      "time": 1742816235
+    },
+    {
       "tag": "v0.5.2",
       "hash": "7caa19b140b95887fe4cbdd6322665fe1620871d",
       "time": 1616279849

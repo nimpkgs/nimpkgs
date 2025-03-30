@@ -7,6 +7,11 @@
   "web": "https://github.com/lualvsil/negl",
   "versions": [
     {
+      "tag": "v0.1.2",
+      "hash": "01a9353b15c88ed5c4c47506440f11d84306053d",
+      "time": 1743268034
+    },
+    {
       "tag": "v0.1.1",
       "hash": "f608d7797d0c26ee8ca1074e1995ad93cd8a3ac7",
       "time": 1717366559
