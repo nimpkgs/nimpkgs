@@ -5,6 +5,13 @@
   "description": "System metrics library for macOS (Darwin) written in pure Nim — CPU, memory, disk, processes, and more.",
   "license": "MIT",
   "web": "https://github.com/sm-moshi/darwinmetrics",
+  "versions": [
+    {
+      "tag": "v0.0.6",
+      "hash": "b0e23deb768df60b0ae9b95e4b5035c51cd217c2",
+      "time": 1743508218
+    }
+  ],
   "tags": [
     "macos",
     "nim",

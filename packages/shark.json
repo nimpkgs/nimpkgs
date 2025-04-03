@@ -5,6 +5,13 @@
   "description": "Convert nim source file content from camel to snake case and vice versa",
   "license": "GPL-3.0-only",
   "web": "https://github.com/navid-m/shark",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "60c7bd4d35abee4dbf8e2265497f8b845ea6659f",
+      "time": 1743371685
+    }
+  ],
   "tags": [
     "formatting",
     "formatter",

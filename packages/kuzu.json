@@ -5,6 +5,18 @@
   "description": "A wrapper for Kuzu: an embedded graph database built for query speed and scalability.",
   "license": "BSD-3-Clause",
   "web": "https://kuzudb.com/",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "c46d76ea4a34551dff7ae012495c36368c6b7b49",
+      "time": 1743560794
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "c7c60aed71d411a61892f9b65e9bdf7d056c85c3",
+      "time": 1743462981
+    }
+  ],
   "tags": [
     "kuzu",
     "kuzudb",
