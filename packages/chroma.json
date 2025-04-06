@@ -7,6 +7,11 @@
   "web": "https://github.com/treeform/chroma",
   "versions": [
     {
+      "tag": "v1.0.0",
+      "hash": "8bf4a0933ff405f83dc3a176199f528601e5b796",
+      "time": 1743538356
+    },
+    {
       "tag": "v0.1.0",
       "hash": "b5709b38abe18351f4073ce093304154b8aad13a",
       "time": 1572051446

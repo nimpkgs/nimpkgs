@@ -7,6 +7,11 @@
   "web": "https://github.com/binhonglee/wings",
   "versions": [
     {
+      "tag": "v0.0.9-alpha",
+      "hash": "3719416efaaa0edefdceafe5ccff5d37c432abee",
+      "time": 1743622334
+    },
+    {
       "tag": "v0.0.8-alpha",
       "hash": "47505ae57673fe12289f3740c52353dd56df2f1c",
       "time": 1739954738

@@ -5,6 +5,18 @@
   "description": "Parsing and serializing for the TNetstring format.",
   "license": "MIT",
   "web": "https://github.com/mahlonsmith/nim-tnetstring",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "68e271f8f48817e543ddb7a00ee2970284cd0885",
+      "time": 1743705205
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "56613cf3fc760cec13dc1406e9144da3b546dd19",
+      "time": 1432140563
+    }
+  ],
   "tags": [
     "tnetstring",
     "library",

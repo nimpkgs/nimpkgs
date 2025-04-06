@@ -7,6 +7,11 @@
   "web": "https://github.com/godot-nim/gdext-nim",
   "versions": [
     {
+      "tag": "v0.10.1",
+      "hash": "652211999791030d4a234b3a486bbd1e2f6cce25",
+      "time": 1743820361
+    },
+    {
       "tag": "v0.10.0",
       "hash": "70cdba3d1f6ab567227c0eacc98102f9c754ec7d",
       "time": 1743749093
