@@ -7,6 +7,11 @@
   "web": "https://github.com/luisacosta828/pgxcrown",
   "versions": [
     {
+      "tag": "v0.9.1",
+      "hash": "8b3a51a5fa87f77eb8077736d2435cd5ddf82ff5",
+      "time": 1744057605
+    },
+    {
       "tag": "v0.9.0",
       "hash": "d150f86fb825b9520db51a9bd3692cd212153ebb",
       "time": 1742935671
