@@ -5,6 +5,18 @@
   "description": "A simple daemon to notify you about changed to your battery's status. ",
   "license": "BSD-3",
   "web": "https://codeberg.org/pswilde/batmon",
+  "versions": [
+    {
+      "tag": "v0.2.2",
+      "hash": "1477e1bd13c83ab10704f56081fd1e627c63f94f",
+      "time": 1744633941
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "e31fccd4d4544c3f465560d8d56c96c8b0cbeed2",
+      "time": 1744633645
+    }
+  ],
   "tags": [
     "battery",
     "notification"

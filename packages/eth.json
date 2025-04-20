@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-eth",
   "versions": [
     {
+      "tag": "v0.7.0",
+      "hash": "a1f7d63ababa6ce90798e16a110fc4e43ac93f03",
+      "time": 1744701364
+    },
+    {
       "tag": "v0.6.0",
       "hash": "57fa21263a50a325e80636280f976e8077f6627c",
       "time": 1741596867
