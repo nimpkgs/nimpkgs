@@ -5,6 +5,38 @@
   "description": "Programmatically manage jobs in a Nomad cluster",
   "license": "GPL-3.0-only",
   "web": "https://github.com/cycneuramus/nmgr",
+  "versions": [
+    {
+      "tag": "v1.0.0",
+      "hash": "808c6c313cfcd96e616e4ad0c725c5eff48fa94e",
+      "time": 1745230097
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "c11f46cec433380210efaf994bb052032c13ace4",
+      "time": 1742054979
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "44dece7d374f1328467fa9990fcdb74c4baacd98",
+      "time": 1741090666
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "6b6ac17bc69649d35801139606b130e8d00c6948",
+      "time": 1739959454
+    },
+    {
+      "tag": "v0.1.1",
+      "hash": "e206c986e40f2f2c70e302d34b41ee8801471867",
+      "time": 1739873295
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "3ea98684621fb1dafc05885161520c077d8ebb13",
+      "time": 1739785968
+    }
+  ],
   "tags": [
     "nomad",
     "cli"

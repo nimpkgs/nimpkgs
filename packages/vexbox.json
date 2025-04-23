@@ -5,6 +5,13 @@
   "description": "VexBox is a code snapping software.",
   "license": "MIT",
   "web": "https://github.com/roger-padrell/vexbox",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "a8a916ae76b266641ade239cba412322c248261d",
+      "time": 1745172928
+    }
+  ],
   "tags": [
     "vexbox",
     "vex",
