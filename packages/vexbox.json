@@ -7,6 +7,11 @@
   "web": "https://github.com/roger-padrell/vexbox",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "b46aa6ec34cf9dfc035327ab93587efdccbc9d21",
+      "time": 1745415305
+    },
+    {
       "tag": "v0.1.1",
       "hash": "a8a916ae76b266641ade239cba412322c248261d",
       "time": 1745172928
