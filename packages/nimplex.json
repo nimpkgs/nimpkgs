@@ -8,6 +8,11 @@
   "doc": "https://nimplex.phaseslab.org",
   "versions": [
     {
+      "tag": "v0.8.0",
+      "hash": "d704a339566008a2211a039a01b429f16c0c06cc",
+      "time": 1745234150
+    },
+    {
       "tag": "v0.7.1.nimble",
       "hash": "951b0412dd619bfe4dcb3796d20bba78b41999b8",
       "time": 1729159581

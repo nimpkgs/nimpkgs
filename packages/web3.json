@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-web3",
   "versions": [
     {
+      "tag": "v0.6.0",
+      "hash": "d35250bef5549a5535b996fe06e72748a2a5ca4a",
+      "time": 1745321390
+    },
+    {
       "tag": "v0.5.0",
       "hash": "d8a91d040975cd3dd2a10c26456fab2d7523e8dd",
       "time": 1741671156
