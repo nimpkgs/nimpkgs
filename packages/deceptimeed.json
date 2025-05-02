@@ -5,6 +5,13 @@
   "description": "Loads IP blocklists into nftables from plain text or JSON feeds",
   "license": "AGPL-3.0-only",
   "web": "https://github.com/cycneuramus/deceptimeed",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "e0ae03ce9d2af8d40cebe56a1b8309521a713a3e",
+      "time": 1746026337
+    }
+  ],
   "tags": [
     "blocklist",
     "ip-blocking",
