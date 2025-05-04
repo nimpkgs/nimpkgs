@@ -7,6 +7,11 @@
   "web": "https://github.com/crashappsec/chalk",
   "versions": [
     {
+      "tag": "v0.5.6",
+      "hash": "580b43ee745afac866def3634ccb5a0fcb34e780",
+      "time": 1746030450
+    },
+    {
       "tag": "v0.5.5",
       "hash": "dac1c516a03141dbf41e782820a8e4035a4e2a4a",
       "time": 1744724597
