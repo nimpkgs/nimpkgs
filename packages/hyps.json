@@ -1,0 +1,13 @@
+{
+  "name": "hyps",
+  "url": "https://github.com/nitely/nim-hyps",
+  "method": "git",
+  "description": "An async pub/sub client and server",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-hyps",
+  "tags": [
+    "pubsub",
+    "web",
+    "async"
+  ]
+}
