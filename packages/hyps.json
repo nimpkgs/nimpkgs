@@ -5,6 +5,13 @@
   "description": "An async pub/sub client and server",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-hyps",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "39379574b8faa1a18706275d337ef914cb42dbb0",
+      "time": 1746488974
+    }
+  ],
   "tags": [
     "pubsub",
     "web",
