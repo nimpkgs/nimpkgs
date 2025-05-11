@@ -7,6 +7,11 @@
   "web": "https://github.com/ThomasTJdev/nim_awsS3",
   "versions": [
     {
+      "tag": "v3.2.2",
+      "hash": "156d0246b22d7e71e067f5e4eff93d34d8bf1399",
+      "time": 1746812638
+    },
+    {
       "tag": "v3.2.1",
       "hash": "760a2fd87fd78277e13280b10a2854af63ac3be3",
       "time": 1739528602

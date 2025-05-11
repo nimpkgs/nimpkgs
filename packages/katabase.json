@@ -7,6 +7,41 @@
   "web": "https://github.com/zendbit/katabase",
   "versions": [
     {
+      "tag": "v0.1.19",
+      "hash": "cae80b29d026247aa437d29919a653c112b42266",
+      "time": 1746826644
+    },
+    {
+      "tag": "v0.1.18",
+      "hash": "f7fba6d8afafbdb95d26bcee273fea8a7fbdfcb2",
+      "time": 1746743035
+    },
+    {
+      "tag": "v0.1.17",
+      "hash": "ed30e1c21578311f43b0850c6f799dc0e9fdda62",
+      "time": 1746718733
+    },
+    {
+      "tag": "v0.1.16",
+      "hash": "f53dacba768355858bc81936c4992d2e746c9372",
+      "time": 1746713807
+    },
+    {
+      "tag": "v0.1.15",
+      "hash": "ad7c27557aef92251377a1d93b338dc924d0d8d3",
+      "time": 1746696125
+    },
+    {
+      "tag": "v0.1.14",
+      "hash": "0200fadca26b500c16b9780e44244ddd8c0a6092",
+      "time": 1746648378
+    },
+    {
+      "tag": "v0.1.13",
+      "hash": "aa9e9ea3b1b010ae95ba94ab20da17cfcc5a5354",
+      "time": 1746592312
+    },
+    {
       "tag": "v0.1.12",
       "hash": "ce39111d770a307d45fc45a4b8b319a054eaadd1",
       "time": 1744944749

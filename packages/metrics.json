@@ -5,6 +5,13 @@
   "description": "Nim metrics client library supporting the Prometheus monitoring toolkit",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-metrics",
+  "versions": [
+    {
+      "tag": "v0.1.2",
+      "hash": "11d0cddfb0e711aa2a8c75d1892ae24a64c299fc",
+      "time": 1746518714
+    }
+  ],
   "tags": [
     "library",
     "metrics",
