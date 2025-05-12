@@ -1,0 +1,14 @@
+{
+  "name": "fur",
+  "url": "https://github.com/capocasa/fur",
+  "method": "git",
+  "description": "Fur is a pure Nim set of finite impulse response filters (FIR) for realtime use.",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/fur",
+  "tags": [
+    "dsp",
+    "filter",
+    "fir",
+    "realtime"
+  ]
+}
