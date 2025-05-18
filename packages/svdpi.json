@@ -7,6 +7,11 @@
   "web": "https://github.com/kaushalmodi/nim-svdpi",
   "versions": [
     {
+      "tag": "v1.0.0",
+      "hash": "bffb0936361a8a2f7b3e996f3c0b5429ad3f2444",
+      "time": 1747398660
+    },
+    {
       "tag": "v0.6.0",
       "hash": "b8287c72a82ef02a1edb7123c40bbf93dd96a9d7",
       "time": 1662435505
