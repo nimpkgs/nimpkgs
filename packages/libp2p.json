@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-libp2p",
   "versions": [
     {
+      "tag": "v1.10.1",
+      "hash": "cd60b254a0700b0daac7a6cb2c0c48860b57c539",
+      "time": 1747827611
+    },
+    {
       "tag": "v1.10.0",
       "hash": "b0f77d24f9b061c18a0c28ca3f03ba55b6dcdc16",
       "time": 1746092398
