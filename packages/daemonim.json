@@ -5,6 +5,13 @@
   "description": "daemonizer for Unix, Linux and OS X",
   "license": "MIT",
   "web": "https://github.com/bung87/daemon",
+  "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "7d4e0be0902c4f42bcc9b5fac7648886e22fffb0",
+      "time": 1747768744
+    }
+  ],
   "tags": [
     "unix",
     "library"

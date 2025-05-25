@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-libbacktrace",
   "versions": [
     {
+      "tag": "v0.0.9",
+      "hash": "d8bd4ce5c46bb6d2f984f6b3f3d7380897d95ecb",
+      "time": 1747829075
+    },
+    {
       "tag": "v0.0.8",
       "hash": "ce966b1c469dda179b54346feaaf1a62202c984f",
       "time": 1619655635

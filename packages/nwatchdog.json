@@ -7,6 +7,56 @@
   "web": "https://github.com/zendbit/nim_nwatchdog",
   "versions": [
     {
+      "tag": "v0.2.14",
+      "hash": "81518a3607302db33c6b8bcb09c533283dbfd82e",
+      "time": 1748129867
+    },
+    {
+      "tag": "v0.2.13",
+      "hash": "dece831dc166fef356180c1547d5054969173bbc",
+      "time": 1748129463
+    },
+    {
+      "tag": "v0.2.12",
+      "hash": "1b6df002f48cfe90b81da6d075c4880569348891",
+      "time": 1747897318
+    },
+    {
+      "tag": "v0.2.11",
+      "hash": "4aa1296bea33b22787d0b482c17839cbb1bee91a",
+      "time": 1747888940
+    },
+    {
+      "tag": "v0.2.10",
+      "hash": "056c1dfa926d83a606581e9c5ff526505d968b27",
+      "time": 1747871653
+    },
+    {
+      "tag": "v0.2.9",
+      "hash": "9f9b8e2779dd207bf75366053dd59d0561729007",
+      "time": 1747800835
+    },
+    {
+      "tag": "v0.2.8",
+      "hash": "b57710ec2b22548a3e39312651cf25f2e9dde9fd",
+      "time": 1747763101
+    },
+    {
+      "tag": "v0.2.7",
+      "hash": "757180a39c9d2cb79f4efa4ce66fab4e331b812b",
+      "time": 1747762809
+    },
+    {
+      "tag": "v0.2.6",
+      "hash": "8a84e3908e90bd40e87d98401eae10d50f8b1fcd",
+      "time": 1747753659
+    },
+    {
+      "tag": "v0.2.5",
+      "hash": "b5ce4d94635ff96dcf9d8c9444b5c42f961ef109",
+      "time": 1747752678
+    },
+    {
       "tag": "v0.2.4",
       "hash": "05f91ca9901044297f94cfc2315f490a825d6d2e",
       "time": 1722739759
