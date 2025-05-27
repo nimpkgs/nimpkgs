@@ -7,6 +7,11 @@
   "web": "https://github.com/zendbit/nim_nwatchdog",
   "versions": [
     {
+      "tag": "v0.2.15",
+      "hash": "1e7be81942c8ada74f2b638b27c2973122c67cb3",
+      "time": 1748265996
+    },
+    {
       "tag": "v0.2.14",
       "hash": "81518a3607302db33c6b8bcb09c533283dbfd82e",
       "time": 1748129867

@@ -1,0 +1,11 @@
+{
+  "name": "quic",
+  "url": "https://github.com/vacp2p/nim-quic",
+  "method": "git",
+  "description": "QUIC protocol implementation",
+  "license": "MIT",
+  "web": "https://github.com/vacp2p/nim-quic",
+  "tags": [
+    "quic"
+  ]
+}

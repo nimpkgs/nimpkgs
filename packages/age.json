@@ -7,6 +7,16 @@
   "web": "https://age.attakei.dev",
   "versions": [
     {
+      "tag": "v0.10.2",
+      "hash": "972e0f2702354747c6b748ed304a15b9aa82a1a7",
+      "time": 1748285640
+    },
+    {
+      "tag": "v0.10.1",
+      "hash": "4d8f4812df18303da8df4470123c9c8fc8cd7095",
+      "time": 1748282272
+    },
+    {
       "tag": "v0.10.0",
       "hash": "ca53472ce32a3009de9a7f92bd7d34b9377e4e38",
       "time": 1748107370
