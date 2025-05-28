@@ -5,6 +5,43 @@
   "description": "QUIC protocol implementation",
   "license": "MIT",
   "web": "https://github.com/vacp2p/nim-quic",
+  "versions": [
+    {
+      "tag": "v0.2.5",
+      "hash": "488aebdcc338d242400b358b5c817bb3c3444bb3",
+      "time": 1748273696
+    },
+    {
+      "tag": "v0.2.4",
+      "hash": "c80a963d055add75cca6bd376d8f1093f124d33d",
+      "time": 1743424353
+    },
+    {
+      "tag": "v0.2.3",
+      "hash": "51f20d2cbd79d02ec25ff29d87ee192d2b4cc2af",
+      "time": 1742991982
+    },
+    {
+      "tag": "v0.2.2",
+      "hash": "c3bf40344bb03f692ba7b36e60625678a0de3c8f",
+      "time": 1742960280
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "52b8a217c8cadc013b8a0290fb8c84e35e311830",
+      "time": 1742870865
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "f5f13c441a60ed54f37e656616c8cd3346cc46f5",
+      "time": 1741191522
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "8d96897a9c14519c3684ce804f761146cbb58ed1",
+      "time": 1723644092
+    }
+  ],
   "tags": [
     "quic"
   ]
