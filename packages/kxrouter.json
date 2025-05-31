@@ -5,6 +5,13 @@
   "description": "A karax router with life-time events",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-kxrouter",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "e5b68c256185c24ba0bd8e713778943166cf450e",
+      "time": 1748535529
+    }
+  ],
   "tags": [
     "karax",
     "web",
