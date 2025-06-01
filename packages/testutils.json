@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-testutils",
   "versions": [
     {
+      "tag": "v0.7.0",
+      "hash": "382d740ac9fc0d162a120bb07b1cb8afd17a8c01",
+      "time": 1748531527
+    },
+    {
       "tag": "v0.6.0",
       "hash": "94d68e796c045d5b37cabc6be32d7bfa168f8857",
       "time": 1739797290
