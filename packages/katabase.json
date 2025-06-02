@@ -7,6 +7,11 @@
   "web": "https://github.com/zendbit/katabase",
   "versions": [
     {
+      "tag": "v0.1.28",
+      "hash": "19bf2c7cead89c50c7503bc05ac6d169b46925a8",
+      "time": 1748751747
+    },
+    {
       "tag": "v0.1.27",
       "hash": "9ab0539568befd72affd2186bf2e4d7d06b982db",
       "time": 1748526793
