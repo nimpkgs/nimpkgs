@@ -1,0 +1,14 @@
+{
+  "name": "scope",
+  "url": "https://github.com/thing-king/scope",
+  "method": "git",
+  "description": "Scope tracking for untyped macros",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/scope",
+  "tags": [
+    "macro",
+    "untyped",
+    "scope",
+    "tracker"
+  ]
+}
