@@ -5,6 +5,18 @@
   "description": "ThorVG Nim Wrapper",
   "license": "Unlicense",
   "web": "https://github.com/elcritch/thorvg-nim",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "d5805177d12b79aec3ce040b14ed9a5dfa2fe928",
+      "time": 1749250800
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7b27a951ec60ea6803c3de9ffccc30e313f545f0",
+      "time": 1748409595
+    }
+  ],
   "tags": [
     "thorvg",
     "vector-graphics",
