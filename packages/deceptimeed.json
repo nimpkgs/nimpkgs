@@ -7,6 +7,11 @@
   "web": "https://github.com/cycneuramus/deceptimeed",
   "versions": [
     {
+      "tag": "v1.1.2",
+      "hash": "147e33bec4c3cda008324269ab0d8a655052f236",
+      "time": 1748863712
+    },
+    {
       "tag": "v1.1.1",
       "hash": "d8b45e7ef5ef6f46c8245e9b56c0775c55b92ba2",
       "time": 1746949522

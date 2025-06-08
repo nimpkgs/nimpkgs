@@ -7,6 +7,11 @@
   "web": "https://github.com/elcritch/thorvg-nim",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "24729ee8bd2a598404abc1610a4f7cae236bf873",
+      "time": 1749264653
+    },
+    {
       "tag": "v0.2.0",
       "hash": "d5805177d12b79aec3ce040b14ed9a5dfa2fe928",
       "time": 1749250800
