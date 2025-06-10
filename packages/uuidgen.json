@@ -1,0 +1,13 @@
+{
+  "name": "uuidgen",
+  "url": "https://github.com/jamesfrancis2004/uuidgen",
+  "method": "git",
+  "description": "A comprehensive and standards-compliant UUID library",
+  "license": "MIT",
+  "web": "https://github.com/jamesfrancis2004/uuidgen",
+  "tags": [
+    "uuid",
+    "library",
+    "id"
+  ]
+}
