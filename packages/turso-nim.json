@@ -5,6 +5,13 @@
   "description": "A new awesome nimble client for libsql and turso",
   "license": "BSD-3-Clause",
   "web": "https://codeberg.org/13thab/turso-nim",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "4a5d369e2e15516b99728138be151ae884b62e12",
+      "time": 1749933789
+    }
+  ],
   "tags": [
     "client",
     "sdk",
