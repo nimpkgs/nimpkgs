@@ -5,6 +5,13 @@
   "description": "Nearly zero-overhead input/output streams for Nim",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-faststreams",
+  "versions": [
+    {
+      "tag": "v0.3.0",
+      "hash": "308b9803ec9f38e1f2447d59557ef160185664a5",
+      "time": 1750365969
+    }
+  ],
   "tags": [
     "library",
     "I/O",
