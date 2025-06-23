@@ -7,6 +7,11 @@
   "web": "https://github.com/Infinitybeond1/dye",
   "versions": [
     {
+      "tag": "v0.1.0",
+      "hash": "ea0df38134d182ee1f7e1e94188f6c4d82e43234",
+      "time": 1750577435
+    },
+    {
       "tag": "v1.2.1",
       "hash": "f9511b01b81f0b166a73ed8e2b15c09dd5da08c4",
       "time": 1684600719
