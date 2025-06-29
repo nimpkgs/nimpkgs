@@ -7,6 +7,11 @@
   "web": "https://github.com/quadram-institute-bioscience/readfx",
   "versions": [
     {
+      "tag": "v0.3.0",
+      "hash": "a9d4ac571b5a391ba3d5cc6660b172d62cbea529",
+      "time": 1751029782
+    },
+    {
       "tag": "v0.2.0",
       "hash": "ccdd522722f25ce2adf7d5696557fadea1a4addb",
       "time": 1745690680

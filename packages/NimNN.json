@@ -8,12 +8,12 @@
   "versions": [
     {
       "tag": "v1.1.0",
-      "hash": "91b6966c9a55f97cc5829b11f0b81054db889595",
+      "hash": "4e0fc1e560bbc65b2b9c3de86cf4c9118cbca64e",
       "time": 1659890745
     },
     {
       "tag": "v1.0.0",
-      "hash": "bf8f3b1621f450cca292b61d9fb4669f3988800e",
+      "hash": "b43f6bd43b3f2ac6514e1a505ac2e6a39be4d795",
       "time": 1659442814
     }
   ],
