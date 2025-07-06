@@ -7,6 +7,11 @@
   "web": "https://github.com/ThomasTJdev/nim_sqlbuilder",
   "versions": [
     {
+      "tag": "v1.1.4",
+      "hash": "653ef304d7d68e7ef624bfe1bfdb3a4b079258c7",
+      "time": 1751469738
+    },
+    {
       "tag": "v1.1.3",
       "hash": "3ba3bb2d51714df31990987a9554ed106765be6b",
       "time": 1741500551
