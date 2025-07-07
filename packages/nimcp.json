@@ -1,0 +1,13 @@
+{
+  "name": "nimcp",
+  "url": "https://github.com/gokr/nimcp",
+  "method": "git",
+  "description": "Easy-to-use Model Context Protocol (MCP) server library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/gokr/nimcp",
+  "tags": [
+    "mcp",
+    "library",
+    "protocol"
+  ]
+}
