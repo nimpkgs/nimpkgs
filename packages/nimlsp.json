@@ -7,6 +7,11 @@
   "web": "https://github.com/PMunch/nimlsp",
   "versions": [
     {
+      "tag": "v0.4.7",
+      "hash": "20205a927b8485d169e78a176e9d534e3a2436d0",
+      "time": 1751979477
+    },
+    {
       "tag": "v0.4.6",
       "hash": "32fe84e8a5d6621ca207863bde780fec6cb2e46c",
       "time": 1699535548
