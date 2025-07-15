@@ -4,6 +4,38 @@
   "method": "git",
   "description": "A CLI tool and library for interacting with various LLMs",
   "license": "MIT",
+  "versions": [
+    {
+      "tag": "v0.3.2",
+      "hash": "bc5f92913f82d2531e30f5289a3272a73165e126",
+      "time": 1752534474
+    },
+    {
+      "tag": "v0.3.1",
+      "hash": "6439c137f929bffadacf1f31ad49829c248c407a",
+      "time": 1752524156
+    },
+    {
+      "tag": "v0.3.0",
+      "hash": "bd3bd68edf431719048137d8c71ae3618e79ae56",
+      "time": 1752465272
+    },
+    {
+      "tag": "v0.2.1",
+      "hash": "4cc2ea9c601dcd6aa23821563723be521075f737",
+      "time": 1752446264
+    },
+    {
+      "tag": "v0.2.0",
+      "hash": "633fc9e0df05c8852c892181fbc57e7019f6d1d6",
+      "time": 1752369710
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "7f214386ef10c382143fbab3cff9686f25ca90df",
+      "time": 1752297032
+    }
+  ],
   "tags": [
     "llm"
   ]
