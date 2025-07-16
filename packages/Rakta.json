@@ -1,0 +1,12 @@
+{
+  "name": "Rakta",
+  "url": "https://github.com/DitzDev/Rakta",
+  "method": "git",
+  "description": "Powerfull, Fast, and Minimalist web Framework for Nim. Focus on your Backend.",
+  "license": "MIT",
+  "web": "https://github.com/DitzDev/Rakta",
+  "tags": [
+    "web",
+    "library"
+  ]
+}

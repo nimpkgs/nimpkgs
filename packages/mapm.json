@@ -7,6 +7,11 @@
   "web": "https://github.com/PMunch/mapm-nim",
   "versions": [
     {
+      "tag": "v0.4.0",
+      "hash": "b9d4c2a90dbbbac29c51c7fe927d6b97e4a2bf5f",
+      "time": 1752673413
+    },
+    {
       "tag": "v0.3.6",
       "hash": "78b9931923460245d339a85ea8ed84c3fb55db83",
       "time": 1722323102
