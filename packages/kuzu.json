@@ -7,6 +7,11 @@
   "web": "https://kuzudb.com/",
   "versions": [
     {
+      "tag": "v0.6.0",
+      "hash": "02894cf8fe42e853be1ea16bfe3c38fe763eb51d",
+      "time": 1752796234
+    },
+    {
       "tag": "v0.5.0",
       "hash": "f63712306f8855ec67c18f42926264a7195e6c8b",
       "time": 1752440228
