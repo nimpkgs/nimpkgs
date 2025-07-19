@@ -5,6 +5,13 @@
   "description": "Powerfull, Fast, and Minimalist web Framework for Nim. Focus on your Backend.",
   "license": "MIT",
   "web": "https://github.com/DitzDev/Rakta",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "41c14068decbf22c669d8ac198ff7b46d9b8881a",
+      "time": 1752851504
+    }
+  ],
   "tags": [
     "web",
     "library"
