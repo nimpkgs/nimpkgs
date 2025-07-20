@@ -7,6 +7,11 @@
   "web": "https://github.com/DitzDev/Rakta",
   "versions": [
     {
+      "tag": "v0.2.1",
+      "hash": "ef28f0f43205ad323213f83bd04c4a7b5ab5a9a7",
+      "time": 1752952253
+    },
+    {
       "tag": "v0.2.0",
       "hash": "41c14068decbf22c669d8ac198ff7b46d9b8881a",
       "time": 1752851504
