@@ -7,6 +7,11 @@
   "web": "https://github.com/vacp2p/nim-quic",
   "versions": [
     {
+      "tag": "v0.2.9",
+      "hash": "dd4e715ab4b32de6f9e93208d6ba9d52ed2c2d7a",
+      "time": 1753187613
+    },
+    {
       "tag": "v0.2.8",
       "hash": "128645547dd91235ca9ba2f91698a6639430a904",
       "time": 1752786871
