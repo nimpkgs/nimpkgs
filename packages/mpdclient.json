@@ -7,6 +7,11 @@
   "web": "https://github.com/SolitudeSF/mpdclient",
   "versions": [
     {
+      "tag": "v0.3.2",
+      "hash": "61215096f4fb372c49190ac7b7f17febf76297ed",
+      "time": 1753347860
+    },
+    {
       "tag": "v0.3.1",
       "hash": "c1781622e9bf259d890b9b2c5077ee90b71956cf",
       "time": 1672248204
