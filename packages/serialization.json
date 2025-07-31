@@ -7,6 +7,16 @@
   "web": "https://github.com/status-im/nim-serialization",
   "versions": [
     {
+      "tag": "v0.4.6",
+      "hash": "de6c74b18228c1f25d0abe58eafdba1d64861fec",
+      "time": 1753879674
+    },
+    {
+      "tag": "v0.4.4",
+      "hash": "2773744212584c5996131ba6e19006f66be3604a",
+      "time": 1753850976
+    },
+    {
       "tag": "v0.4.2",
       "hash": "c7f585a1a77a8a0059955019e26adb576ffa01d9",
       "time": 1753769521
