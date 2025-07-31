@@ -22,12 +22,6 @@ jobs:
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@main
 
-      - name: Setup Git Bot
-        run: |
-          git --version
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-
       - name: Build Crawler
         run: nix build "github:nimpkgs/crawler"
 
@@ -35,9 +29,6 @@ jobs:
         run: nix run "github:nimpkgs/crawler" -- ${{ inputs.flags }}
 
       - name: Commit Updates
-        run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git add -A
-            git commit -m "crawler-bot: update nimpkgs"
-            git push
-          fi
+        uses: daylin-bot/actions/commit-and-push@main
+        with:
+          message: "update nimpkgs"
