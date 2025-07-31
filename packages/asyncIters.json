@@ -7,6 +7,16 @@
   "doc": "https://sirnickolas.github.io/asyncIters-Nim/asyncIters",
   "versions": [
     {
+      "tag": "v2.0.0",
+      "hash": "2c8536dc14ec2db5e150dad227169db378e370f9",
+      "time": 1753605687
+    },
+    {
+      "tag": "v1.3.1",
+      "hash": "829c2a390cfc8bc803eed2c0efb6f2e41720f591",
+      "time": 1753549809
+    },
+    {
       "tag": "v1.3.0",
       "hash": "fac16f5be0987b2c1e2fa36305871dbf14cafa65",
       "time": 1710437307

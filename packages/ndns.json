@@ -7,6 +7,11 @@
   "web": "https://github.com/rockcavera/nim-ndns",
   "versions": [
     {
+      "tag": "v0.1.4",
+      "hash": "5805dfcdae0f209d43d9157b2a864e208e3827eb",
+      "time": 1753831741
+    },
+    {
       "tag": "v0.1.3",
       "hash": "255826e0d8698e4e3256f038225f5e9f0a64f7e5",
       "time": 1718817743

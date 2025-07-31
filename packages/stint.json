@@ -7,6 +7,11 @@
   "web": "https://github.com/status-im/nim-stint",
   "versions": [
     {
+      "tag": "v0.8.2",
+      "hash": "470b7892561b5179ab20bd389a69217d6213fe58",
+      "time": 1753796463
+    },
+    {
       "tag": "v0.8.1",
       "hash": "1a2c661e3f50ff696b0b6692fab0d7bb2abf10cc",
       "time": 1736343197
