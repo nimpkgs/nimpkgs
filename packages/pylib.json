@@ -1,14 +1,16 @@
 {
   "name": "pylib",
-  "url": "https://github.com/Yardanico/nimpylib",
+  "url": "https://github.com/nimpylib/nimpylib",
   "method": "git",
-  "description": "Nim library with python-like functions and operators",
+  "description": "Nim library with python-like functions, syntax sugars and libraries",
   "license": "MIT",
-  "web": "https://github.com/Yardanico/nimpylib",
+  "web": "https://nimpylib.org",
   "tags": [
     "python",
     "compatibility",
     "library",
-    "pure"
+    "pure",
+    "macros",
+    "metaprogramming"
   ]
 }

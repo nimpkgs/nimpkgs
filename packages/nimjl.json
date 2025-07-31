@@ -1,10 +1,10 @@
 {
   "name": "nimjl",
-  "url": "https://github.com/Clonkk/nimjl",
+  "url": "https://github.com/SciNim/nimjl",
   "method": "git",
   "description": "Nim Julia bridge",
   "license": "MIT",
-  "web": "https://github.com/Clonkk/nimjl",
+  "web": "https://github.com/SciNim/nimjl",
   "versions": [
     {
       "tag": "v0.8.4",
@@ -173,8 +173,11 @@
     }
   ],
   "tags": [
-    "Nim",
     "Julia",
-    "Bridge"
+    "Nim",
+    "Bridge",
+    "SciNim",
+    "Scientific",
+    "Computing"
   ]
 }

@@ -1,11 +1,51 @@
 {
   "name": "choosenim",
-  "url": "https://github.com/dom96/choosenim",
+  "url": "https://github.com/nim-lang/choosenim",
   "method": "git",
   "description": "The Nim toolchain installer.",
   "license": "MIT",
-  "web": "https://github.com/dom96/choosenim",
+  "web": "https://github.com/nim-lang/choosenim",
   "versions": [
+    {
+      "tag": "v0.8.16",
+      "hash": "ee2461d6a9e3762e53717959203d908fd0adda37",
+      "time": 1752285713
+    },
+    {
+      "tag": "v0.8.14",
+      "hash": "16b2424619242bfce15f0107d9b1974d87da6ba3",
+      "time": 1751951768
+    },
+    {
+      "tag": "v0.8.12",
+      "hash": "832d26baba6917ab6622a06f490d8a06c8a9d8bb",
+      "time": 1738826018
+    },
+    {
+      "tag": "v0.8.10",
+      "hash": "cf7b59b3eaf5c194d6747c09e6e0c51b735fe830",
+      "time": 1730811585
+    },
+    {
+      "tag": "v0.8.9",
+      "hash": "d62cce586c5308818b3f6dee2d327b5308305214",
+      "time": 1727870830
+    },
+    {
+      "tag": "v0.8.7",
+      "hash": "81863fc50717d49da77506e1089e5b2421d65d7b",
+      "time": 1726707843
+    },
+    {
+      "tag": "v0.8.6",
+      "hash": "be7a66df132b422d5b3707bae8b23abc9cfdc100",
+      "time": 1726662578
+    },
+    {
+      "tag": "v0.8.5",
+      "hash": "3d5de574fe9794b6bf0c508ae2cae883cc448638",
+      "time": 1724062862
+    },
     {
       "tag": "v0.8.4",
       "hash": "e9ed20d517f7f56299d961c7a47eed102c4ff676",

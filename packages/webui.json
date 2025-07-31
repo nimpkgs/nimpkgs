@@ -1,10 +1,10 @@
 {
   "name": "webui",
-  "url": "https://github.com/neroist/webui",
+  "url": "https://github.com/webui-dev/nim-webui",
   "method": "git",
   "description": "Nim wrapper for WebUI",
   "license": "MIT",
-  "web": "https://github.com/neroist/webui#readme",
+  "web": "https://webui.me/",
   "tags": [
     "webui",
     "web",

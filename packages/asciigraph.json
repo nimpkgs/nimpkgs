@@ -1,10 +1,10 @@
 {
   "name": "asciigraph",
-  "url": "https://github.com/Yardanico/asciigraph",
+  "url": "https://github.com/nimbackup/asciigraph",
   "method": "git",
   "description": "Console ascii line charts in pure nim",
   "license": "MIT",
-  "web": "https://github.com/Yardanico/asciigraph",
+  "web": "https://github.com/nimbackup/asciigraph",
   "tags": [
     "graph",
     "plot",

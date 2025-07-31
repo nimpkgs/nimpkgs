@@ -1,10 +1,10 @@
 {
   "name": "mathexpr",
-  "url": "https://github.com/Yardanico/nim-mathexpr",
+  "url": "https://github.com/nimbackup/nim-mathexpr",
   "method": "git",
   "description": "MathExpr - pure-Nim mathematical expression evaluator library",
   "license": "MIT",
-  "web": "https://github.com/Yardanico/nim-mathexpr",
+  "web": "https://github.com/nimbackup/nim-mathexpr",
   "tags": [
     "math",
     "mathparser",

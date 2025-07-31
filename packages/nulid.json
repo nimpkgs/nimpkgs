@@ -1,11 +1,11 @@
 {
   "name": "nulid",
-  "url": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
+  "url": "https://github.com/The-Ticking-Clockwork/NULID",
   "method": "git",
   "description": "A ULID implementation in Nim!",
   "license": "CC0",
-  "web": "https://github.com/Yu-Vitaqua-fer-Chronos/NULID",
-  "doc": "https://yu-vitaqua-fer-chronos.github.io/NULID/",
+  "web": "https://github.com/The-Ticking-Clockwork/NULID",
+  "doc": "https://the-ticking-clockwork.github.io/NULID/",
   "versions": [
     {
       "tag": "v1.3.1",

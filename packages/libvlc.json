@@ -1,10 +1,10 @@
 {
   "name": "libvlc",
-  "url": "https://github.com/Yardanico/nim-libvlc",
+  "url": "https://github.com/nimbackup/nim-libvlc",
   "method": "git",
   "description": "libvlc bindings for Nim",
   "license": "MIT",
-  "web": "https://github.com/Yardanico/nim-libvlc",
+  "web": "https://github.com/nimbackup/nim-libvlc",
   "tags": [
     "vlc",
     "libvlc",

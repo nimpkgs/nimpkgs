@@ -1,10 +1,10 @@
 {
   "name": "adb",
-  "url": "https://github.com/Yardanico/nim-adb",
+  "url": "https://github.com/nimbackup/nim-adb",
   "method": "git",
   "description": "ADB protocol implementation in Nim",
   "license": "MIT",
-  "web": "https://github.com/Yardanico/nim-adb",
+  "web": "https://github.com/nimbackup/nim-adb",
   "versions": [
     {
       "tag": "v0.1.0",

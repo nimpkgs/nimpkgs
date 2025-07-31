@@ -1,10 +1,10 @@
 {
   "name": "vkapi",
-  "url": "https://github.com/Yardanico/nimvkapi",
+  "url": "https://github.com/nimbackup/nimvkapi",
   "method": "git",
   "description": "A wrapper for the vk.com API (russian social network)",
   "license": "MIT",
-  "web": "https://github.com/Yardanico/nimvkapi",
+  "web": "https://github.com/nimbackup/nimvkapi",
   "versions": [
     {
       "tag": "v1.3.1",
