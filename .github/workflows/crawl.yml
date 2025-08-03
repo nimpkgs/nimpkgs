@@ -23,7 +23,7 @@ jobs:
         uses: DeterminateSystems/nix-installer-action@main
 
       - name: Build Crawler
-        run: nix build "github:nimpkgs/crawler"
+        run: nix build "github:nimpkgs/crawler" --no-link
 
       - name: Run Crawler
         run: nix run "github:nimpkgs/crawler" -- ${{ inputs.flags }}
