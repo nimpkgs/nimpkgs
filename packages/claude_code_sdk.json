@@ -1,0 +1,26 @@
+{
+  "name": "claude_code_sdk",
+  "url": "https://github.com/Apothic-AI/claude-code-sdk-nim",
+  "method": "git",
+  "description": "Nim SDK for Claude Code - provides seamless integration with Claude Code functionality through a native Nim interface",
+  "license": "Apache-2.0",
+  "web": "https://github.com/Apothic-AI/claude-code-sdk-nim",
+  "versions": [
+    {
+      "tag": "v0.0.19",
+      "hash": "11e3afe1ac42810282771af34beb7397300fd3ed",
+      "time": 1754081244
+    }
+  ],
+  "tags": [
+    "claude",
+    "ai",
+    "sdk",
+    "api",
+    "anthropic",
+    "llm",
+    "chatbot",
+    "assistant",
+    "code-generation"
+  ]
+}

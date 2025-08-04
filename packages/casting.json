@@ -5,6 +5,13 @@
   "description": "A wrapper of the C++ cast operators",
   "license": "MIT",
   "web": "https://github.com/sls1005/nim-casting",
+  "versions": [
+    {
+      "tag": "v0.2.0",
+      "hash": "4cb082f83b33f8d461cc72e4c95933e511451467",
+      "time": 1669184740
+    }
+  ],
   "tags": [
     "cpp",
     "cast"

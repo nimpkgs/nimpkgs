@@ -7,7 +7,7 @@
   "web": "https://github.com/Graveflo/nim-littlefs",
   "tags": [
     "littlefs",
-    "embeded",
+    "embedded",
     "filesystem",
     "fuse"
   ]

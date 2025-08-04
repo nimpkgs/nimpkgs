@@ -5,13 +5,6 @@
   "description": "Provides a system.cmp like function that can be used with std/algorithm.sort to smartly sort string sequences based on their contents rather than exact match",
   "license": "MIT",
   "web": "https://github.com/amaank404/namenumbersort",
-  "versions": [
-    {
-      "tag": "v1.0.0",
-      "hash": "f1bf44ac585e0d03efe4e6a31d1d822658c77dfa",
-      "time": 1691835564
-    }
-  ],
   "tags": [
     "sorting",
     "hybrid",

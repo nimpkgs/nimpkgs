@@ -7,6 +7,11 @@
   "web": "https://github.com/brentp/nim-lapper",
   "versions": [
     {
+      "tag": "v0.1.8",
+      "hash": "bdd43a522d2bf1730794e3a68a45673f83a42cfe",
+      "time": 1750430429
+    },
+    {
       "tag": "v0.1.7",
       "hash": "36d12438d92bd90af0b4e592dc2ba6b6de21bb38",
       "time": 1604497367

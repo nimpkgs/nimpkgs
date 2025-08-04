@@ -2,7 +2,7 @@
   "name": "unittest2",
   "url": "https://github.com/status-im/nim-unittest2",
   "method": "git",
-  "description": "unittest fork focused on parallel test execution",
+  "description": "Unit test framework evolved from std/unittest",
   "license": "MIT",
   "web": "https://github.com/status-im/nim-unittest2",
   "versions": [

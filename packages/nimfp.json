@@ -7,6 +7,11 @@
   "web": "https://github.com/vegansk/nimfp",
   "versions": [
     {
+      "tag": "v0.4.5",
+      "hash": "a91c1cc4fd1466346b4ae85c441ed20a94a8b47d",
+      "time": 1718770184
+    },
+    {
       "tag": "v0.4.4",
       "hash": "afcfbc189ed6d4aa08fbfa41f4e4273c6b52d3c5",
       "time": 1553506253

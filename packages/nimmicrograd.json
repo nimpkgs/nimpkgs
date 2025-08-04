@@ -5,28 +5,6 @@
   "description": "Nim implementation of micrograd autograd engine.",
   "license": "MIT",
   "web": "https://github.com/soheil555/nimmicrograd",
-  "versions": [
-    {
-      "tag": "v0.1.5",
-      "hash": "78979509a7da29ee421a1664bc859d8c4b3fa02d",
-      "time": 1686821388
-    },
-    {
-      "tag": "v0.1.4",
-      "hash": "5cb226995d0365b53ebc2d990882340c5f5019ad",
-      "time": 1686774755
-    },
-    {
-      "tag": "v0.1.3",
-      "hash": "db10287cc43f7839e0c54703394910cfb84daf52",
-      "time": 1686749308
-    },
-    {
-      "tag": "v0.1.2",
-      "hash": "f9f5ac2edbdcc975b978bf6e70ae679f847cf01b",
-      "time": 1686746101
-    }
-  ],
   "tags": [
     "micrograd",
     "neural-network",

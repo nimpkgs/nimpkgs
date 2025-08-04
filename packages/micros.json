@@ -7,6 +7,16 @@
   "web": "https://github.com/beef331/micros",
   "versions": [
     {
+      "tag": "v0.1.18",
+      "hash": "7310016034a47d10ec1044b6ccae7a2efd1386ff",
+      "time": 1754279532
+    },
+    {
+      "tag": "v0.1.17",
+      "hash": "d3313119a0c78e5377971ba73a7dcdaa49302c5f",
+      "time": 1754278861
+    },
+    {
       "tag": "v0.1.16",
       "hash": "4dfeac6a47ba8b6287081b048158981a07832063",
       "time": 1710306087

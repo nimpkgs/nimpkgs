@@ -5,6 +5,13 @@
   "description": "A wrapper for <stdarg.h>",
   "license": "MIT",
   "web": "https://github.com/sls1005/stdarg",
+  "versions": [
+    {
+      "tag": "v0.3.1",
+      "hash": "7d3318a7b3e7577d8800b10da64c5b51fd0b3efe",
+      "time": 1669459316
+    }
+  ],
   "tags": [
     "wrapper"
   ]

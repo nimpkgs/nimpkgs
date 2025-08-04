@@ -5,23 +5,6 @@
   "description": "Nim math library",
   "license": "MIT",
   "web": "https://github.com/achesak/extmath.nim",
-  "versions": [
-    {
-      "tag": "v1.2",
-      "hash": "00bbc5b5611a963a2bdde16d19fc0c3c1b050131",
-      "time": 1381675772
-    },
-    {
-      "tag": "v1.1",
-      "hash": "7c12c4739a69b101c7fdbbc7a75bdd344b3323a0",
-      "time": 1381362920
-    },
-    {
-      "tag": "v1.0",
-      "hash": "5f6aaee721e3dff4eaa3875811ad6e03899635cd",
-      "time": 1378854727
-    }
-  ],
   "tags": [
     "library",
     "math",

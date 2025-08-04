@@ -7,7 +7,7 @@
   "web": "https://github.com/nim-lang/checksums",
   "versions": [
     {
-      "tag": "v2.0.1",
+      "tag": "v0.2.1",
       "hash": "f8f6bd34bfa3fe12c64b919059ad856a96efcba0",
       "time": 1724312079
     },

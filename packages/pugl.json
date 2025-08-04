@@ -2,7 +2,7 @@
   "name": "pugl",
   "url": "https://github.com/NimAudio/nim-pugl",
   "method": "git",
-  "description": "Clap audio plugin bindings",
+  "description": "PUGL plugin graphics bindings",
   "license": "MIT",
   "web": "https://github.com/NimAudio/nim-pugl",
   "tags": [

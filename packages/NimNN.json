@@ -5,18 +5,6 @@
   "description": "Neural Networks from scratch",
   "license": "MIT",
   "web": "https://github.com/amaank404/NimNN",
-  "versions": [
-    {
-      "tag": "v1.1.0",
-      "hash": "4e0fc1e560bbc65b2b9c3de86cf4c9118cbca64e",
-      "time": 1659890745
-    },
-    {
-      "tag": "v1.0.0",
-      "hash": "b43f6bd43b3f2ac6514e1a505ac2e6a39be4d795",
-      "time": 1659442814
-    }
-  ],
   "tags": [
     "neural",
     "networks",

@@ -4,6 +4,7 @@
   "method": "git",
   "description": "Bindings for Whisper.cpp",
   "license": "MIT",
+  "web": "https://github.com/maleyva1/whisper",
   "versions": [
     {
       "tag": "v1.1.1",

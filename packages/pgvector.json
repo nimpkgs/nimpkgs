@@ -1,0 +1,19 @@
+{
+  "name": "pgvector",
+  "url": "https://github.com/pgvector/pgvector-nim",
+  "method": "git",
+  "description": "pgvector support for Nim",
+  "license": "MIT",
+  "web": "https://github.com/pgvector/pgvector-nim",
+  "versions": [
+    {
+      "tag": "v0.1.0",
+      "hash": "895b26e9c258e8f3fcd3d700315c7c30bd4cbf96",
+      "time": 1754114782
+    }
+  ],
+  "tags": [
+    "postgres",
+    "vector"
+  ]
+}
