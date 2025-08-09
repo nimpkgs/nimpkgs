@@ -1,10 +1,10 @@
 {
   "name": "iniplus",
-  "url": "https://github.com/systemonia/iniplus",
+  "url": "https://codeberg.org/onbox/iniplus",
   "method": "git",
   "description": "An extended INI parser for Nim.",
   "license": "BSD-3-Clause",
-  "web": "https://github.com/systemonia/iniplus",
+  "web": "https://pony.biz/iniplus/",
   "versions": [
     {
       "tag": "v0.3.3",

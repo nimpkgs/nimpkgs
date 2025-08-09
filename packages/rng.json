@@ -1,10 +1,10 @@
 {
   "name": "rng",
-  "url": "https://github.com/penguinite/rng",
+  "url": "https://codeberg.org/onbox/rng",
   "method": "git",
   "description": "Basic wrapper over std/sysrand",
   "license": "BSD-3-Clause",
-  "web": "https://github.com/penguinite/rng",
+  "web": "https://pony.biz/rng/",
   "versions": [
     {
       "tag": "v0.2.0",
