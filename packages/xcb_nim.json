@@ -1,0 +1,32 @@
+{
+  "name": "xcb_nim",
+  "url": "https://github.com/heysokam/xcb.nim",
+  "method": "git",
+  "description": "xcb.nim | Nimmified bindings for XCB",
+  "license": "MPL-2.0",
+  "web": "https://github.com/heysokam/xcb.nim",
+  "versions": [
+    {
+      "tag": "v0.1.1",
+      "hash": "5ea4f06f24bff353cb591bf9e3eacbf361b2759b",
+      "time": 1754733425
+    },
+    {
+      "tag": "v0.1.0",
+      "hash": "c2e3ebd4da7f8c45f057628f59ca6b5062df972e",
+      "time": 1754715352
+    }
+  ],
+  "tags": [
+    "xcb",
+    "X11",
+    "linux",
+    "libxcb",
+    "nimmified",
+    "ergonomic",
+    "library",
+    "bindings",
+    "wrapper",
+    "futhark"
+  ]
+}
