@@ -19,8 +19,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install Nix
-        uses: DeterminateSystems/nix-installer-action@main
+      - name: Install Lix
+        uses: canidae-solutions/lix-quick-install-action@v3
 
       - name: Build Crawler
         run: nix build "github:nimpkgs/crawler" --no-link
