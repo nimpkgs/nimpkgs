@@ -7,6 +7,11 @@
   "web": "https://github.com/jjv360/nim-termui",
   "versions": [
     {
+      "tag": "v0.1.10",
+      "hash": "5564f27c32cc1f650094d7da5f35a65ca3738263",
+      "time": 1754829635
+    },
+    {
       "tag": "v0.1.9",
       "hash": "7e9ea2c26a39ef9ec4851a804aacf5a2b8854e49",
       "time": 1674308754

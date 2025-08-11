@@ -7,6 +7,11 @@
   "web": "https://monofuel.github.io/openai_leap/",
   "versions": [
     {
+      "tag": "v7.3.2",
+      "hash": "afdd4e467057d2f6fe8a2247e03da6b94e011aa5",
+      "time": 1754521385
+    },
+    {
       "tag": "v7.2.2",
       "hash": "15ab9a31b83ac42433de30493d062fa666020ac7",
       "time": 1753383479

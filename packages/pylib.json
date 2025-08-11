@@ -7,6 +7,11 @@
   "web": "https://nimpylib.org",
   "versions": [
     {
+      "tag": "v0.9.13",
+      "hash": "a940c1624b7766e028acec4eba646351014da093",
+      "time": 1754663927
+    },
+    {
       "tag": "v0.9.12",
       "hash": "21d992cfd51d71a505ec6dbb27fe0fba89cc30a2",
       "time": 1750953723

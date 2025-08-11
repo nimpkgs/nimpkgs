@@ -7,6 +7,11 @@
   "web": "https://github.com/zevv/nmqtt",
   "versions": [
     {
+      "tag": "v1.0.7",
+      "hash": "a704fa997184fcd16fc7043e52518462cf835aed",
+      "time": 1754537277
+    },
+    {
       "tag": "v1.0.6",
       "hash": "3e4157e0193269a3bdef2965b14862a92497853c",
       "time": 1707649603

@@ -7,6 +7,11 @@
   "web": "https://github.com/jjv360/nim-simpledb",
   "versions": [
     {
+      "tag": "v0.1.1",
+      "hash": "3945b9223683d6118ac2f0065c27aa9fca342efd",
+      "time": 1754828521
+    },
+    {
       "tag": "v0.1.0",
       "hash": "6c3fb6dec9047c2605600bbc588481322fd0acb0",
       "time": 1673732662

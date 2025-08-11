@@ -7,6 +7,21 @@
   "web": "https://github.com/planetis-m/mimalloc_nim",
   "versions": [
     {
+      "tag": "v0.3.5",
+      "hash": "63a5257d8744c06a5b630863e25f1c8185a402ee",
+      "time": 1754918652
+    },
+    {
+      "tag": "v0.3.4",
+      "hash": "cdab66a5c9196fcf0d4d13271b84222c126a8da2",
+      "time": 1754910033
+    },
+    {
+      "tag": "v0.3.3",
+      "hash": "4d7665093e843081f66aa70b3416acb478767975",
+      "time": 1754906317
+    },
+    {
       "tag": "v0.3.2",
       "hash": "6c15091a0c75fd1db411dcd69f45c1b16bc77054",
       "time": 1720672824
