@@ -13,4 +13,4 @@ jobs:
   crawl:
     uses: ./.github/workflows/crawl.yml
     with:
-      flags: "--all"
+      flags: "--check:@valid"
