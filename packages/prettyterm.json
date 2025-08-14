@@ -5,6 +5,18 @@
   "description": "Make your terminal interfaces prettier!",
   "license": "MIT",
   "web": "https://github.com/CodeLibraty/prettyterm",
+  "versions": [
+    {
+      "tag": "v1.0.1",
+      "hash": "a8ee484cf6c4338da8bdbbe01416bf6324a2808a",
+      "time": 1755098646
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "c7a9d656e23d736f2a2504b84137bbace128013f",
+      "time": 1755077290
+    }
+  ],
   "tags": [
     "terminal",
     "tui",
