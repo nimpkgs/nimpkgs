@@ -7,6 +7,11 @@
   "web": "https://github.com/heysokam/xcb.nim",
   "versions": [
     {
+      "tag": "v0.1.2",
+      "hash": "2ad55753a2da43736b768249e0bb22634bdfa167",
+      "time": 1755378349
+    },
+    {
       "tag": "v0.1.1",
       "hash": "5ea4f06f24bff353cb591bf9e3eacbf361b2759b",
       "time": 1754733425
