@@ -11,3 +11,5 @@ permissions:
 jobs:
   crawl:
     uses: ./.github/workflows/crawl.yml
+    with:
+      flags: "--check:@valid"
