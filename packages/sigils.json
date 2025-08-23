@@ -7,6 +7,26 @@
   "web": "https://github.com/elcritch/sigils",
   "versions": [
     {
+      "tag": "v0.14.4",
+      "hash": "c90774030d119dc42d476189879db423118ca16b",
+      "time": 1755918571
+    },
+    {
+      "tag": "v0.14.3",
+      "hash": "bf5342c85c06fa03e727c57e07180cdb9174b93e",
+      "time": 1755911855
+    },
+    {
+      "tag": "v0.14.2",
+      "hash": "12b26439ca24cd5f421f45b4989bb1f5569f095f",
+      "time": 1755907091
+    },
+    {
+      "tag": "v0.14.1",
+      "hash": "dde417e4f8cdd326a1c7edc859a521e494657702",
+      "time": 1755883651
+    },
+    {
       "tag": "v0.14.0",
       "hash": "cdb5df09d04c7051496e38817c671c9ba174634d",
       "time": 1755559718
