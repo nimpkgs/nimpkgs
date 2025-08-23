@@ -23,10 +23,10 @@ jobs:
         uses: canidae-solutions/lix-quick-install-action@v3
 
       - name: Build Crawler
-        run: nix build "github:nimpkgs/crawler" --no-link
+        run: nix build "github:nimpkgs/crawler#aefc1a691e18fd08b29e5eb9abe2c9905a72ece2" --no-link
 
       - name: Run Crawler
-        run: nix run "github:nimpkgs/crawler" -- ${{ inputs.flags }}
+        run: nix run "github:nimpkgs/crawler#aefc1a691e18fd08b29e5eb9abe2c9905a72ece2" -- ${{ inputs.flags }}
 
       - name: Commit Updates
         uses: daylin-bot/actions/commit-and-push@main
