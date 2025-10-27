@@ -16,7 +16,6 @@ jobs:
 
       - name: Build Site
         run: |
-          mkdir site
           cp nimpkgs.json site/
 
       - name: Upload artifact
