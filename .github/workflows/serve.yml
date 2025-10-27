@@ -16,13 +16,13 @@ jobs:
 
       - name: Build Site
         run: |
-          mkdir public
-          cp nimpkgs.json public/
+          mkdir site
+          cp nimpkgs.json site/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./public
+          path: ./site
 
   deploy:
     needs: build
