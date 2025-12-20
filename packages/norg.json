@@ -8,6 +8,11 @@
   "doc": "https://norgbackup.net/usage/",
   "versions": [
     {
+      "tag": "v0.2.3",
+      "hash": "72c5be6295a7b733d5a0babf513f5aa683415303",
+      "time": 1766166738
+    },
+    {
       "tag": "v0.2.2",
       "hash": "3cd209846db321ff56a5c75494c38ef26711927e",
       "time": 1752675249
