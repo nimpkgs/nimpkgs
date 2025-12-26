@@ -1,0 +1,58 @@
+{
+  "name": "nimkdl",
+  "url": "https://github.com/greenm01/nimkdl",
+  "method": "git",
+  "description": "KDL 2.0 document parser with 100% spec compliance (670/670 tests)",
+  "license": "MIT",
+  "web": "https://github.com/greenm01/nimkdl",
+  "versions": [
+    {
+      "tag": "v2.0.7",
+      "hash": "0a2ee65a3f53130091c7fe44b4385e913a05dc85",
+      "time": 1766690884
+    },
+    {
+      "tag": "v2.0.6",
+      "hash": "7a1b3cb4a173f22318a3ed0046c7aba4471fdddf",
+      "time": 1766681833
+    },
+    {
+      "tag": "v2.0.5",
+      "hash": "dcceaa1566fad8bdb1f521c8080ef3bf9893f6d4",
+      "time": 1766680638
+    },
+    {
+      "tag": "v2.0.4",
+      "hash": "d7fcb683e3f80816c46d66f807cbadb30873367f",
+      "time": 1766679166
+    },
+    {
+      "tag": "v2.0.3",
+      "hash": "9657d55eda1833f22ea763398e78d84da9ff1f6b",
+      "time": 1766678946
+    },
+    {
+      "tag": "v2.0.2",
+      "hash": "f603e7d9eb972b4283c619ee18eea4acbd855bf8",
+      "time": 1766677420
+    },
+    {
+      "tag": "v2.0.1",
+      "hash": "64fc6f9ce67e1311fe67dc48b7ed7a0bf51b0ab9",
+      "time": 1766639593
+    },
+    {
+      "tag": "v2.0.0",
+      "hash": "68ca37ea9c576f85ec64842a43677a0329092ecc",
+      "time": 1766530247
+    }
+  ],
+  "tags": [
+    "kdl",
+    "parser",
+    "config",
+    "serialization",
+    "data",
+    "v2"
+  ]
+}
