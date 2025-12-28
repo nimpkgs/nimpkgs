@@ -7,6 +7,11 @@
   "web": "https://github.com/cheatfate/nimcrypto",
   "versions": [
     {
+      "tag": "v0.7.3",
+      "hash": "b3dbc9c4d08e58c5b7bfad6dc7ef2ee52f2f4c08",
+      "time": 1766841358
+    },
+    {
       "tag": "v0.7.2",
       "hash": "8085515e717b07e29de1ef50d5e9f15a3f6004c0",
       "time": 1758534019
