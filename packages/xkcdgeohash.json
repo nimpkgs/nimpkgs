@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/Naitsabot/xkcdgeohashing.nim",
   "doc": "https://naitsabot.github.io/xkcdgeohash/xkcdgeohash.html",
+  "commit": {
+    "hash": "71e7c9cfad9ceca55e38515e2df50e1f2c82d294",
+    "time": 1756222546
+  },
   "versions": [
     {
       "tag": "v1.1.3",

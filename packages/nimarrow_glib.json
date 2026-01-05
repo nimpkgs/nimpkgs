@@ -5,6 +5,10 @@
   "description": "apache arrow and parquet c api bindings",
   "license": "Apache-2.0",
   "web": "https://github.com/emef/nimarrow_glib",
+  "commit": {
+    "hash": "bce244fe7ef3bb872b93b2947bbe72c92a56244f",
+    "time": 1625610709
+  },
   "versions": [
     {
       "tag": "v0.1.3",

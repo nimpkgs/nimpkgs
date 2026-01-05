@@ -5,6 +5,10 @@
   "description": "A Nim implementation of Ethash, the ethereum proof-of-work hashing function",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-ethash",
+  "commit": {
+    "hash": "c2658d579295dff1d4b5f19c287c0cd3224ff701",
+    "time": 1740390914
+  },
   "tags": [
     "library",
     "ethereum",

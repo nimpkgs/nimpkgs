@@ -5,6 +5,10 @@
   "description": "A Nim-based, non-graphical application designed to measure the amount of time elapsed from its activation to deactivation, includes total elapsed time, lap, and split times.",
   "license": "LGPL",
   "web": "https://github.com/twist-vector/nim-stopwatch",
+  "commit": {
+    "hash": "6a06320cecd19ea413415b9c0fb3340a53673d52",
+    "time": 1448391345
+  },
   "tags": [
     "app",
     "timer"

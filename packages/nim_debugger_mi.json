@@ -5,6 +5,10 @@
   "description": "A gdb/lldb machine interface proxy to deal with nim symbol name mangle/demangle.",
   "license": "MIT",
   "web": "https://github.com/YesDrX/nimdebugger",
+  "commit": {
+    "hash": "d9d03e7d0f83af254d4395b3e581f39832488454",
+    "time": 1765999460
+  },
   "tags": [
     "gdb",
     "lldb",

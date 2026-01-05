@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A CLI tool and library for interacting with various LLMs",
   "license": "MIT",
+  "commit": {
+    "hash": "2977e5bb4a4dcf8a36012c60c4b85dffff799bb4",
+    "time": 1755007878
+  },
   "versions": [
     {
       "tag": "v0.5.1",

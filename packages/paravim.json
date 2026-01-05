@@ -4,6 +4,10 @@
   "method": "git",
   "description": "An embedded text editor for paranim games",
   "license": "Public Domain",
+  "commit": {
+    "hash": "b43b6a7493880739bce50ac53cd321ed17b6d935",
+    "time": 1696522017
+  },
   "tags": [
     "editor",
     "games"

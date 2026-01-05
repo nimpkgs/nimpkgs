@@ -5,6 +5,10 @@
   "description": "A Jester web plugin that gets a pooled MongoDB connection for each web query.",
   "license": "MIT",
   "web": "https://github.com/JohnAD/jestermongopool",
+  "commit": {
+    "hash": "a6503a5eaea3525a028f70b27a91760b188973e7",
+    "time": 1592095631
+  },
   "versions": [
     {
       "tag": "v1.0.1",

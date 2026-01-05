@@ -5,6 +5,10 @@
   "description": "Export Nim functions to sqlite3",
   "license": "MIT",
   "web": "https://github.com/niklaskorz/nim-exporttosqlite3",
+  "commit": {
+    "hash": "03c9081d6e3192a30adacb4ffec14caaa226a2d8",
+    "time": 1624523649
+  },
   "tags": [
     "sqlite3",
     "export",

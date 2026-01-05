@@ -5,6 +5,10 @@
   "description": "Simplified handling of command line options and config files",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-confutils",
+  "commit": {
+    "hash": "5286ed67d363a3630ece85a0e8c1141d1d52b434",
+    "time": 1767641151
+  },
   "tags": [
     "library",
     "configuration"

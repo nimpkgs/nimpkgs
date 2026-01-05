@@ -5,6 +5,10 @@
   "description": "Secure multi-party computation",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/nimpc",
+  "commit": {
+    "hash": "fd3af16e025259ed1da11fb65e7c6e1af33384fc",
+    "time": 1592471103
+  },
   "versions": [
     {
       "tag": "v0.4.1",

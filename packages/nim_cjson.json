@@ -5,6 +5,10 @@
   "description": "cjson wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/muxueqz/nim_cjson",
+  "commit": {
+    "hash": "148afad6c531e50d2cd70cfd3c797075441fca22",
+    "time": 1534927437
+  },
   "tags": [
     "cjson",
     "json"

@@ -5,6 +5,10 @@
   "description": "mctranslog - Transaction Log Package",
   "license": "MIT",
   "web": "https://github.com/abbeymart/mctranslog",
+  "commit": {
+    "hash": "0e122d12736fe61f27089465c196f2add74a0d72",
+    "time": 1612967173
+  },
   "versions": [
     {
       "tag": "v0.1.4",

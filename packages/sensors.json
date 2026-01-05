@@ -5,6 +5,10 @@
   "description": "libsensors wrapper",
   "license": "MIT",
   "web": "https://github.com//inv2004/sensors",
+  "commit": {
+    "hash": "94affc14aa003ec3fe19a5286026e0472e51bc8f",
+    "time": 1674427023
+  },
   "versions": [
     {
       "tag": "v0.2.4",

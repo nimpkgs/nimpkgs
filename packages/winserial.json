@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/bunkford/winserial",
   "doc": "https://bunkford.github.io/winserial/winserial.html",
+  "commit": {
+    "hash": "7603076ae8144861f660219375048dda4e8e4bfd",
+    "time": 1583176004
+  },
   "tags": [
     "windows",
     "serial"

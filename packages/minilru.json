@@ -5,6 +5,10 @@
   "description": "Minim(al/ized) LRU cache",
   "license": "MIT",
   "web": "https://github.com/status-im/nim-minilru",
+  "commit": {
+    "hash": "e3d6e6eb5f119a0b22fdab418f7a588be462ea66",
+    "time": 1766404982
+  },
   "tags": [
     "cache",
     "lru",

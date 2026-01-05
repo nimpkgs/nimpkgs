@@ -5,6 +5,10 @@
   "description": "BSON Binary JSON Serialization",
   "license": "MIT",
   "web": "https://github.com/JohnAD/bson",
+  "commit": {
+    "hash": "38babfaaf8ebffefd223d63c313bcbf2f3a992c3",
+    "time": 1580958974
+  },
   "versions": [
     {
       "tag": "v1.1.2",

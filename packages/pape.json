@@ -5,6 +5,10 @@
   "description": "Pure Nim PE parsing library",
   "license": "MIT",
   "web": "https://github.com/hdbg/pape",
+  "commit": {
+    "hash": "9ba289d60619593cb0f1d19d4133afc0d82d6b0c",
+    "time": 1673894118
+  },
   "tags": [
     "windows",
     "internal",

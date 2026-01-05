@@ -5,6 +5,10 @@
   "description": "Nim interface to plotly",
   "license": "MIT",
   "web": "https://github.com/SciNim/nim-plotly",
+  "commit": {
+    "hash": "b9705980965f65e4174ef68c4f93cd082375b623",
+    "time": 1712683449
+  },
   "versions": [
     {
       "tag": "v0.3.3",

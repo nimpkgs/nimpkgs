@@ -5,6 +5,10 @@
   "description": "etcd client library",
   "license": "LGPLv3",
   "web": "https://github.com/FedericoCeratto/nim-etcd-client",
+  "commit": {
+    "hash": "62fc98faca9e98b63afa191ebc319247b7a9a06d",
+    "time": 1588447336
+  },
   "tags": [
     "library",
     "etcd"

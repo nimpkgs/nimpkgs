@@ -5,6 +5,10 @@
   "description": "Bindings to the Keystone Assembler.",
   "license": "MIT",
   "web": "https://github.com/6A/Keystone.nim",
+  "commit": {
+    "hash": "be01fa7e4a90e5a340d2e999dd2d257a6f300e7e",
+    "time": 1606145558
+  },
   "tags": [
     "binding",
     "keystone",

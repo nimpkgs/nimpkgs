@@ -5,6 +5,10 @@
   "description": "Kakoune plugin for color preview",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/colorcol",
+  "commit": {
+    "hash": "403549f18b9108bed2e9483afb84ca5baefc6a4c",
+    "time": 1743683730
+  },
   "versions": [
     {
       "tag": "v0.5.4",

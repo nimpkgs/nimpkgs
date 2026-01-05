@@ -5,6 +5,10 @@
   "description": "A front-end web server specialized for real-time message exchange",
   "license": "MIT",
   "web": "https://github.com/zenywallet/caprese",
+  "commit": {
+    "hash": "5b7e33ce22d208d388632e18cd2dd7aecb280c0c",
+    "time": 1767111747
+  },
   "tags": [
     "web",
     "http",

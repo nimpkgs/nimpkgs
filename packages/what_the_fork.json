@@ -5,6 +5,10 @@
   "description": "What_the_fork is a terminal tool that analyses forks of a given github repo to extract changes like bugfixes, new features etc.",
   "license": "MIT",
   "web": "https://github.com/Luteva-ssh/what_the_fork",
+  "commit": {
+    "hash": "96ca51c6a5e1c2f91ae51e0c110a1da39520858d",
+    "time": 1753185499
+  },
   "tags": [
     "analyse",
     "forks"

@@ -5,6 +5,10 @@
   "description": "wrapper for libclang (the C-interface of the clang LLVM frontend)",
   "license": "MIT",
   "web": "https://github.com/cowboy-coders/nim-libclang",
+  "commit": {
+    "hash": "ff854c51551d46ff9c48f3e6d4b6cccb2f4eec10",
+    "time": 1451849198
+  },
   "tags": [
     "wrapper",
     "bindings",

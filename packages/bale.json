@@ -5,6 +5,10 @@
   "description": "Bale.ai bot API",
   "license": "MIT",
   "web": "https://github.com/hamidb80/bale",
+  "commit": {
+    "hash": "a2cb0b5a5f2ee0d313eeea9def1c13f768802ebf",
+    "time": 1696597954
+  },
   "tags": [
     "bale",
     "bale.ai",

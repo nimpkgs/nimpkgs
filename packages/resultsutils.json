@@ -5,6 +5,10 @@
   "description": "Utility macros for easier handling of Result",
   "license": "MIT",
   "web": "https://github.com/nonnil/resultsutils",
+  "commit": {
+    "hash": "35822a2355a6c9821050ade0517312a6f3356fa1",
+    "time": 1652456097
+  },
   "versions": [
     {
       "tag": "v0.1.6",

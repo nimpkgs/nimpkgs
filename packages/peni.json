@@ -5,6 +5,10 @@
   "description": "PE tool based on libpe (with no S)",
   "license": "MIT",
   "web": "https://github.com/srozb/peni",
+  "commit": {
+    "hash": "a278e361db1c34856a70e32f28317952930a0d4d",
+    "time": 1665491714
+  },
   "versions": [
     {
       "tag": "v0.4.5",

@@ -1,0 +1,49 @@
+{
+  "name": "cueconfig",
+  "url": "https://github.com/WaywardWizard/cueconfig",
+  "method": "git",
+  "description": "Cue configuration with JSON fallback for Nim projects",
+  "license": "MIT",
+  "web": "https://github.com/WaywardWizard/cueconfig",
+  "commit": {
+    "hash": "cc4effb8e6715ccf0dd67218bd0d042765c3d67b",
+    "time": 1767500437
+  },
+  "versions": [
+    {
+      "tag": "v1.3.0",
+      "hash": "6259dd5d3e8784dc90db8d7597c13688c214b706",
+      "time": 1767347098
+    },
+    {
+      "tag": "v1.2.1",
+      "hash": "4c1b7b72610e0cf426207df835565462b14f27b3",
+      "time": 1767337754
+    },
+    {
+      "tag": "v1.2.0, v1.2",
+      "hash": "9d702a0ca7ea3a767126304945d4a37264331390",
+      "time": 1767293984
+    },
+    {
+      "tag": "v1.1.0",
+      "hash": "4f08388a345cbc4c44ab570887cbc69a8e1ac787",
+      "time": 1767238303
+    },
+    {
+      "tag": "v1.0.0",
+      "hash": "9ec28837eab8d4a80969be3e518d0f8ee386bddc",
+      "time": 1767214887
+    }
+  ],
+  "tags": [
+    "configuration",
+    "config",
+    "compiletime",
+    "cue",
+    "cuelang",
+    "json",
+    "reload",
+    "management"
+  ]
+}

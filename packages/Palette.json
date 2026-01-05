@@ -5,6 +5,10 @@
   "description": "Color Library",
   "license": "MIT",
   "web": "https://github.com/momeemt/Palette",
+  "commit": {
+    "hash": "836c36972e6ce8b06372651b959e8a9d41e8f50b",
+    "time": 1651052565
+  },
   "tags": [
     "color",
     "library",

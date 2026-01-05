@@ -5,6 +5,10 @@
   "description": "An unofficial wrapper to Hyprland's IPC layer",
   "license": "GPLv3",
   "web": "https://github.com/xTrayambak/hyprland_ipc",
+  "commit": {
+    "hash": "006140898a2aaf6705e57427fcc1480bc639c696",
+    "time": 1723351686
+  },
   "tags": [
     "ipc",
     "hyprland",

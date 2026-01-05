@@ -5,6 +5,10 @@
   "description": "curl statistics made simple ",
   "license": "MIT",
   "web": "https://github.com/ucpr/httpstat",
+  "commit": {
+    "hash": "7d695685cc6fcbae25f5eb0ecb7c812a3aa58c98",
+    "time": 1674631921
+  },
   "tags": [
     "curl",
     "httpstat",

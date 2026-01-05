@@ -5,6 +5,10 @@
   "description": "Various networking utils",
   "license": "MIT",
   "web": "https://github.com/Q-Master/networkutils.nim",
+  "commit": {
+    "hash": "7a2e5c255d4e40e5a6431c11b86e9d3cb7e0ce06",
+    "time": 1742239105
+  },
   "versions": [
     {
       "tag": "v0.6.2",

@@ -5,6 +5,10 @@
   "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/nmi",
+  "commit": {
+    "hash": "54fdd4730965908ddc598fa06fb4e607d9075db8",
+    "time": 1596028003
+  },
   "versions": [
     {
       "tag": "v1.1.0",

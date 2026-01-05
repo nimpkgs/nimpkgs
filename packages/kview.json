@@ -5,6 +5,10 @@
   "description": "For karax html preview.",
   "license": "BSD-3-Clause",
   "web": "https://github.com/planety/kview",
+  "commit": {
+    "hash": "f6bbd5103e2db7f426239d1c207ce636eb7ac016",
+    "time": 1582415102
+  },
   "versions": [
     {
       "tag": "v0.1.2",

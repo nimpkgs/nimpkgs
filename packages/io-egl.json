@@ -5,6 +5,10 @@
   "description": "Obsolete - please use egl instead!",
   "license": "MIT",
   "web": "https://github.com/nimious/io-egl",
+  "commit": {
+    "hash": "83439cd11aceb1b76b50f628d80fdd740b1077e3",
+    "time": 1561091370
+  },
   "tags": [
     "binding",
     "khronos",

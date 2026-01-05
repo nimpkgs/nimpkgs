@@ -5,6 +5,10 @@
   "description": "Async Telegram Bot API Client",
   "license": "MIT",
   "web": "https://github.com/ba0f3/telebot.nim",
+  "commit": {
+    "hash": "78ba7773fc8e316aea002e7c260956d7067dd01d",
+    "time": 1740234115
+  },
   "tags": [
     "telebot",
     "telegram",

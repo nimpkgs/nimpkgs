@@ -5,6 +5,10 @@
   "description": "Termbox wrapper.",
   "license": "MIT",
   "web": "https://github.com/fowlmouth/nim-termbox",
+  "commit": {
+    "hash": "20286d55776e1b46c88cf0622541fa968a286d16",
+    "time": 1449014555
+  },
   "tags": [
     "library",
     "terminal",

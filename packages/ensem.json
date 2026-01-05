@@ -5,6 +5,10 @@
   "description": "Support for ensemble file format and arithmetic using jackknife/bootstrap propagation of errors",
   "license": "BSD3",
   "web": "https://github.com/JeffersonLab/ensem",
+  "commit": {
+    "hash": "88c0fbaa4cc7f6e7bb5c8b8aad0406f3a8c24bfa",
+    "time": 1608674553
+  },
   "versions": [
     {
       "tag": "v1.4.0",

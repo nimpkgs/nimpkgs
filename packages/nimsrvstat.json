@@ -5,6 +5,10 @@
   "description": "A nim wrapper around mcsrvstat",
   "license": "MIT",
   "web": "https://github.com/Minejerik/nimsrvstat",
+  "commit": {
+    "hash": "57d2f70aff367c0b400a75966871838534e5312e",
+    "time": 1715094498
+  },
   "versions": [
     {
       "tag": "v0.1.2",

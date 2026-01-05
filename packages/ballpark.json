@@ -5,6 +5,10 @@
   "description": "An amateur radio tool to get you a ballpark estimate of where a given Maidenhead grid square is.",
   "license": "MIT",
   "web": "https://github.com/Mihara/ballpark",
+  "commit": {
+    "hash": "a73d402ce76642c8792faa265e3e0c232dac75bd",
+    "time": 1686670480
+  },
   "versions": [
     {
       "tag": "v1.0.1",

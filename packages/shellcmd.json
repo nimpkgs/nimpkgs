@@ -5,6 +5,10 @@
   "description": "Collection of Terminal commands to be used inside nim",
   "license": "MIT",
   "web": "https://github.com/Alogani/shellcmd",
+  "commit": {
+    "hash": "b7d8b0da149bbc23f8e7adb8f4a5236dd7ed2ece",
+    "time": 1716543808
+  },
   "versions": [
     {
       "tag": "v0.2.1",

@@ -5,6 +5,10 @@
   "description": "A string formatting library inspired by Python's `format`.",
   "license": "MIT",
   "web": "https://github.com/bio-nim/nim-strfmt",
+  "commit": {
+    "hash": "8d4d200bc3369d3bd07b9904c278e958261b4252",
+    "time": 1564028285
+  },
   "tags": [
     "library"
   ]

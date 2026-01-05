@@ -5,6 +5,10 @@
   "description": "Terse and composable error handling.",
   "license": "MIT",
   "web": "https://github.com/quelklef/nim-sugerror",
+  "commit": {
+    "hash": "14c5a2ad13bebc3ea0a57958d7cb59a0055b21d6",
+    "time": 1542304863
+  },
   "tags": [
     "errors",
     "expr"

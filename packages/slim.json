@@ -5,6 +5,10 @@
   "description": "nim package manager",
   "license": "MIT",
   "web": "https://github.com/bung87/slim",
+  "commit": {
+    "hash": "2f466d9d220ac4ff234da1020b9a87eeffe2cafc",
+    "time": 1684412395
+  },
   "versions": [
     {
       "tag": "v0.1.12",

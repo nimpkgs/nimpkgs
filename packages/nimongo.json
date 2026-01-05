@@ -5,6 +5,10 @@
   "description": "MongoDB driver in pure Nim language with synchronous and asynchronous I/O support",
   "license": "MIT",
   "web": "https://github.com/SSPkrolik/nimongo",
+  "commit": {
+    "hash": "c07fafba7a20c61cba07f126548923a898880151",
+    "time": 1603460380
+  },
   "versions": [
     {
       "tag": "v0.2.0",

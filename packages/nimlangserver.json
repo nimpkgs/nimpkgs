@@ -5,6 +5,10 @@
   "description": "The Nim language server implementation (based on nimsuggest)",
   "license": "MIT",
   "web": "https://github.com/nim-lang/langserver",
+  "commit": {
+    "hash": "1db5dfa86bee34e862a27375ab90ab318cc42ad5",
+    "time": 1765213997
+  },
   "versions": [
     {
       "tag": "v1.12.0",

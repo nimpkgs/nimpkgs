@@ -5,6 +5,10 @@
   "description": "FastCGI Web Framework for Nim.",
   "license": "MIT",
   "web": "https://github.com/mrhdias/fastkiss",
+  "commit": {
+    "hash": "9f5916edb782d2c0fc828dcbf29df779a1300690",
+    "time": 1708725726
+  },
   "tags": [
     "fastcgi",
     "framework",

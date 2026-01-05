@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/bunkford/wChart",
   "doc": "https://bunkford.github.io/wChart/wChart.html",
+  "commit": {
+    "hash": "85ddc33c8e88d66c3a658ecdae23d129dfcefd30",
+    "time": 1568382156
+  },
   "tags": [
     "library",
     "windows",

@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/khchen/wAuto",
   "doc": "https://khchen.github.io/wAuto",
+  "commit": {
+    "hash": "a753426d25636601e439df993fe652ec8a82681f",
+    "time": 1692198011
+  },
   "tags": [
     "automation",
     "windows",

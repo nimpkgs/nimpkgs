@@ -5,6 +5,10 @@
   "description": "An implementation of the observer pattern",
   "license": "MIT",
   "web": "https://github.com/Tangdongle/nimobserver",
+  "commit": {
+    "hash": "9567652bc7f1c50a7b62584b033f90566cf779dd",
+    "time": 1535006222
+  },
   "versions": [
     {
       "tag": "v0.1.1",

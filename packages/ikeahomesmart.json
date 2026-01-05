@@ -5,6 +5,10 @@
   "description": "IKEA Home Smart library to monitor and control lights through the IKEA Gateway",
   "license": "MIT",
   "web": "https://github.com/PMunch/ikeahomesmart",
+  "commit": {
+    "hash": "22109a5abb70937dd640e046d4d5f2bd4dbf4b3e",
+    "time": 1654696251
+  },
   "tags": [
     "library",
     "ikea",

@@ -5,6 +5,10 @@
   "description": "CircleCI API client",
   "license": "LGPLv3",
   "web": "https://github.com/FedericoCeratto/nim-circleci",
+  "commit": {
+    "hash": "6da50b7f8f60fb3b8c6cad6f003c6278c76e0900",
+    "time": 1468274926
+  },
   "tags": [
     "circleci",
     "client"

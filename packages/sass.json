@@ -5,6 +5,10 @@
   "description": "A wrapper for the libsass library.",
   "license": "MIT",
   "web": "https://github.com/dom96/sass",
+  "commit": {
+    "hash": "c466216018d45acbfd5381c7ee55fd03db300fa3",
+    "time": 1673953063
+  },
   "versions": [
     {
       "tag": "v0.2.0",

@@ -5,6 +5,10 @@
   "description": "Nim library that adds a PDF backend for nimib",
   "license": "MIT",
   "web": "https://neroist.github.io/nimipdf/index.pdf",
+  "commit": {
+    "hash": "2d42e80a45020276ff38879c458615684bd3cc41",
+    "time": 1684089908
+  },
   "tags": [
     "nimib",
     "pdf",

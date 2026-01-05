@@ -5,6 +5,10 @@
   "description": "utility macros mostly for object variants",
   "license": "MIT",
   "web": "https://github.com/metagn/skinsuit",
+  "commit": {
+    "hash": "62fb99103ed934ce08ab3b7e03cd0e56e1fd3539",
+    "time": 1764440542
+  },
   "versions": [
     {
       "tag": "v0.2.5",

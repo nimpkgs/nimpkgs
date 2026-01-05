@@ -5,6 +5,10 @@
   "description": "Nim wrapper for Bash language support within tree-sitter",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimtreesitter",
+  "commit": {
+    "hash": "c6975d8c8d288e3499e665f1b3f5cdd299df1e8f",
+    "time": 1563492067
+  },
   "versions": [
     {
       "tag": "v0.1.1",

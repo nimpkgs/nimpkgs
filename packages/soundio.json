@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Bindings for libsoundio",
   "license": "MIT",
+  "commit": {
+    "hash": "dba4aea9ce33b049522f12023108dc4779a4fef2",
+    "time": 1630751828
+  },
   "tags": [
     "library",
     "wrapper",

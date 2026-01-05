@@ -5,6 +5,10 @@
   "description": "Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.",
   "license": "MIT",
   "web": "https://github.com/planetis-m/libfuzzer",
+  "commit": {
+    "hash": "d3f05f9697adcf0f453eb014c9cf26ed4c01209b",
+    "time": 1676142796
+  },
   "tags": [
     "fuzzing",
     "unit-testing",

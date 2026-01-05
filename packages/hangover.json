@@ -5,6 +5,10 @@
   "description": "A game engine in Nim with an opengl backend",
   "license": "MIT",
   "web": "https://github.com/bob16795/hangover",
+  "commit": {
+    "hash": "943ba35907685e6fe21019d6f348fddfc3b8e096",
+    "time": 1703957596
+  },
   "tags": [
     "game",
     "engine",

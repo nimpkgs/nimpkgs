@@ -5,6 +5,10 @@
   "description": "A library that provides unit types in nim",
   "license": "MIT",
   "web": "https://github.com/momeemt/Unit",
+  "commit": {
+    "hash": "939807e102cbb1253310244e661d3238d97490d6",
+    "time": 1659096684
+  },
   "versions": [
     {
       "tag": "ver.0.3.0",

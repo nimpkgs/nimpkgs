@@ -5,6 +5,10 @@
   "description": "Simple wrapper of the Imlib2 library",
   "license": "MIT",
   "web": "https://github.com/PMunch/Imlib2",
+  "commit": {
+    "hash": "207dc2ab509044c8653f952a5daa9464d57f59f9",
+    "time": 1678970279
+  },
   "tags": [
     "library",
     "wrapper",

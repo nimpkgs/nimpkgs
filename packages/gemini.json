@@ -5,6 +5,10 @@
   "description": "Building blocks for making async Gemini servers",
   "license": "MIT",
   "web": "https://github.com/benob/gemini",
+  "commit": {
+    "hash": "165db7ab5846265b12e9cfa7b7b07e45941fd647",
+    "time": 1616246105
+  },
   "tags": [
     "gemini,",
     "server,",

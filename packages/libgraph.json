@@ -5,6 +5,10 @@
   "description": "Converts 2D linear graph coordinates to pixels on screen",
   "license": "MIT",
   "web": "https://github.com/Mnenmenth/libgraphnim",
+  "commit": {
+    "hash": "b17c4c31734455bf9a094c2b0376adb060cec51b",
+    "time": 1580537721
+  },
   "tags": [
     "graph",
     "math",

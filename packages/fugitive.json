@@ -5,6 +5,10 @@
   "description": "Simple command line tool to make git more intuitive, along with useful GitHub addons.",
   "license": "MIT",
   "web": "https://github.com/haltcase/fugitive",
+  "commit": {
+    "hash": "cbb00517008ac42fe6f29a3f8e8718529583de6c",
+    "time": 1706636900
+  },
   "versions": [
     {
       "tag": "v0.11.4",

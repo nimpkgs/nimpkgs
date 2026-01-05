@@ -5,6 +5,10 @@
   "description": "Drag and drop source / target",
   "license": "GPL-3.0-only",
   "web": "https://github.com/adokitkat/dnd",
+  "commit": {
+    "hash": "de4ac31831fdfa87120f263fb9e7ca4277b69f8c",
+    "time": 1740073938
+  },
   "versions": [
     {
       "tag": "v0.7.0",

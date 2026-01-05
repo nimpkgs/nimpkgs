@@ -5,6 +5,11 @@
   "description": "Nim library with python-like functions, syntax sugars and libraries",
   "license": "MIT",
   "web": "https://nimpylib.org",
+  "doc": "https://docs.nimpylib.org",
+  "commit": {
+    "hash": "4343a509340dd34f03d54e908cba3866628271ba",
+    "time": 1766829682
+  },
   "versions": [
     {
       "tag": "v0.9.14",
@@ -98,6 +103,7 @@
     }
   ],
   "tags": [
+    "pylib",
     "python",
     "compatibility",
     "library",

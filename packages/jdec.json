@@ -5,6 +5,10 @@
   "description": "Flexible JSON manshal/unmarshal library for nim",
   "license": "MIT",
   "web": "https://github.com/diegogub/jdec",
+  "commit": {
+    "hash": "ade4bd9f3f285a1367a5245b714ba2baa6565fbb",
+    "time": 1530115798
+  },
   "versions": [
     {
       "tag": "v0.1.0",

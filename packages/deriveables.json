@@ -5,6 +5,10 @@
   "description": "Small library to generate procedures with a type derivation system",
   "license": "MIT",
   "web": "https://github.com/PMunch/deriveables",
+  "commit": {
+    "hash": "e6629c6a71ba4c8a41d5e003ba294182132e4659",
+    "time": 1662106204
+  },
   "tags": [
     "library",
     "types"

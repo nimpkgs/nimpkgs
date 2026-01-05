@@ -5,6 +5,10 @@
   "description": "Converts HTML to Karax representation",
   "license": "MIT",
   "web": "https://github.com/thisago/tokarax",
+  "commit": {
+    "hash": "b63616c53335f48cdc153ecb4abe5e7f098d6edc",
+    "time": 1635328684
+  },
   "tags": [
     "html",
     "converter",

@@ -5,6 +5,10 @@
   "description": "Wrapper for the markdown rendering hoedown library",
   "license": "MIT",
   "web": "https://github.com/Araq/midnight_dynamite",
+  "commit": {
+    "hash": "a9f4ef156cd2b5e14ffa44d281842f95cd89e2ab",
+    "time": 1421703752
+  },
   "versions": [
     {
       "tag": "v1.0.0",

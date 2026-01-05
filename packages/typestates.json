@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/elijahr/nim-typestates",
   "doc": "https://elijahr.github.io/nim-typestates/",
+  "commit": {
+    "hash": "d065293f04c81ee8cff53d51533461bd2ea51f7e",
+    "time": 1766312728
+  },
   "versions": [
     {
       "tag": "v0.3.1",

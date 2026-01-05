@@ -5,6 +5,10 @@
   "description": "Nim SDK to interact with the Status Keycard",
   "license": "MIT",
   "web": "https://github.com/mmlado/keycard-nim",
+  "commit": {
+    "hash": "7f3d352f2fc0cb29564224239720fa1f28929b19",
+    "time": 1762791408
+  },
   "tags": [
     "library",
     "Keycard",

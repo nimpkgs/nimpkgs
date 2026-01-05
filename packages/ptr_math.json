@@ -5,6 +5,10 @@
   "description": "Pointer arithmetic library",
   "license": "MIT",
   "web": "https://github.com/kaushalmodi/ptr_math",
+  "commit": {
+    "hash": "1ee3b7fe12f394edd5a1e2841491e8c2e9fd193b",
+    "time": 1635774136
+  },
   "versions": [
     {
       "tag": "v0.3.0",

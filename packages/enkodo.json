@@ -5,6 +5,10 @@
   "description": "A cross platform encyption and serialization library",
   "license": "MIT",
   "web": "https://github.com/hortinstein/enkodo",
+  "commit": {
+    "hash": "6f9797764aef28380f5fef0882a24e11a45a3a88",
+    "time": 1754834477
+  },
   "versions": [
     {
       "tag": "v0.1.8",

@@ -5,6 +5,10 @@
   "description": "libxslxwriter wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nimlibxlsxwriter",
+  "commit": {
+    "hash": "44f357bf39a478b907ad3b2722725665b4afe249",
+    "time": 1675508085
+  },
   "versions": [
     {
       "tag": "v0.3.0",

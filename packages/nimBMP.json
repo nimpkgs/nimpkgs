@@ -5,6 +5,10 @@
   "description": "BMP encoder and decoder",
   "license": "MIT",
   "web": "https://github.com/jangko/nimBMP",
+  "commit": {
+    "hash": "3be4e68678cd62d0f197911aedfc1dc1778803ec",
+    "time": 1611388197
+  },
   "versions": [
     {
       "tag": "v0.1.8",

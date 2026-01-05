@@ -5,6 +5,10 @@
   "description": "2d collision library for Nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/bumpy",
+  "commit": {
+    "hash": "dc9a3d6d15680ec7f603959d65ba8ee4f1ddbc72",
+    "time": 1758391972
+  },
   "tags": [
     "2d",
     "collision"

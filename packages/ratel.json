@@ -5,6 +5,10 @@
   "description": "Zero-cost abstractions for microcontrollers",
   "license": "MIT",
   "web": "https://github.com/PMunch/ratel",
+  "commit": {
+    "hash": "8649f0a7bf712ddc56925e41521647a1706a7186",
+    "time": 1665947935
+  },
   "versions": [
     {
       "tag": "v0.2.1",

@@ -5,6 +5,10 @@
   "description": "Nim wrapper for rofi, open fabrics interface; provides distributed computing interface for high performance computing (HPC) environments",
   "license": "boost",
   "web": "https://github.com/ct-clmsn/nofi/",
+  "commit": {
+    "hash": "28fc1d6cf95e807f5745ea5340ad5ae40c27e7a6",
+    "time": 1646878275
+  },
   "tags": [
     "hpc",
     "supercomputing",

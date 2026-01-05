@@ -5,6 +5,10 @@
   "description": "A simple timing library for benchmarking code and other things.",
   "license": "MIT",
   "web": "https://gitlab.com/define-private-public/stopwatch",
+  "commit": {
+    "hash": "7d0d5ff1dbacd678b108e10613e2ddb1e71a11c1",
+    "time": 1650216515
+  },
   "versions": [
     {
       "tag": "v3.6",

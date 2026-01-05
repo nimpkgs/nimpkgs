@@ -5,6 +5,10 @@
   "description": "Raw system calls for Nim",
   "license": "MPL",
   "web": "https://github.com/def-/nim-syscall",
+  "commit": {
+    "hash": "5bec5bc6fd4016fdea7d1ada0f19f4fb0db6cb79",
+    "time": 1720340240
+  },
   "tags": [
     "library"
   ]

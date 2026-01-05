@@ -5,6 +5,10 @@
   "description": "This library is a wrapper to C GDBM library",
   "license": "MIT",
   "web": "https://github.com/vycb/gdbmc.nim",
+  "commit": {
+    "hash": "5574c4db6b71f4b4c0b6de6626b575be15e6271b",
+    "time": 1586339254
+  },
   "versions": [
     {
       "tag": "v0.9.9",

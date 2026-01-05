@@ -5,6 +5,10 @@
   "description": "A pure nim version of C++'s std::bitset",
   "license": "MIT",
   "web": "https://github.com/joryschossau/bitset",
+  "commit": {
+    "hash": "637612d288d4320495cfa0c3b1b47a6b0fcca674",
+    "time": 1604947330
+  },
   "tags": [
     "c++",
     "library",

@@ -5,6 +5,10 @@
   "description": "CSS parser and validator",
   "license": "MIT",
   "web": "https://github.com/thing-king/css",
+  "commit": {
+    "hash": "a6e195afd1bb85f768cfbdc5c8a0faced54cbec9",
+    "time": 1754532682
+  },
   "tags": [
     "css",
     "parser",

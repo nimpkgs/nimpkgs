@@ -6,6 +6,10 @@
   "license": "GPL-3.0-or-later",
   "web": "https://github.com/nirokay/bttrwttrin",
   "doc": "https://nirokay.github.io/nim-docs/bttrwttrin/bttrwttrin.html",
+  "commit": {
+    "hash": "8e5605496406d619c7a470511ce820251e1fbd77",
+    "time": 1707212233
+  },
   "tags": [
     "weather",
     "weather-api",

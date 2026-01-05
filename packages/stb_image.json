@@ -5,6 +5,10 @@
   "description": "A wrapper for stb_image and stb_image_write.",
   "license": "Unlicense",
   "web": "https://gitlab.com/define-private-public/stb_image-Nim",
+  "commit": {
+    "hash": "ba5f45286bfa9bed93d8d6b941949cd6218ec888",
+    "time": 1577121470
+  },
   "tags": [
     "stb",
     "image",

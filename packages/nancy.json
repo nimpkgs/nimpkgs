@@ -5,6 +5,10 @@
   "description": "Nancy - Nim fancy ANSI tables",
   "license": "MIT",
   "web": "https://github.com/PMunch/nancy",
+  "commit": {
+    "hash": "9918716a563f64d740df6a02db42662781e94fc8",
+    "time": 1683288548
+  },
   "tags": [
     "ansi",
     "library",

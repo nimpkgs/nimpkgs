@@ -5,6 +5,10 @@
   "description": "Integrator framework for Molecular Dynamic evolutions",
   "license": "MIT",
   "web": "https://github.com/jxy/MDevolve",
+  "commit": {
+    "hash": "e6e1b4f5543e50e5738c5453ad01eb0ea7ca2cee",
+    "time": 1671751008
+  },
   "versions": [
     {
       "tag": "v1.0.0",

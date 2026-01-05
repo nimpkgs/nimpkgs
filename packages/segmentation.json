@@ -5,6 +5,10 @@
   "description": "Unicode text segmentation tr29",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-segmentation",
+  "commit": {
+    "hash": "8ac8570ea17bbbf1f737b2372a6b7e172a5afa6f",
+    "time": 1726706361
+  },
   "versions": [
     {
       "tag": "v0.1.0",

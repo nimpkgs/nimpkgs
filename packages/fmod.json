@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the FMOD Low Level C API",
   "license": "MIT",
   "web": "https://github.com/johnnovak/nim-fmod",
+  "commit": {
+    "hash": "40d70b2dd6c3a7e5123b1e08b724ad8ab7521cd2",
+    "time": 1562815189
+  },
   "versions": [
     {
       "tag": "v0.1.1",

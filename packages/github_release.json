@@ -5,6 +5,10 @@
   "description": "github-release package",
   "license": "MIT",
   "web": "https://github.com/kdheepak/github-release",
+  "commit": {
+    "hash": "88ba12a63b6a8b2d8a9ecae25a815e6abf66af6b",
+    "time": 1538633377
+  },
   "versions": [
     {
       "tag": "v0.1.4",

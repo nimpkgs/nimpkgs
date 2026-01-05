@@ -5,6 +5,10 @@
   "description": "Thread-safe database connection pools",
   "license": "MIT",
   "web": "https://github.com/guzba/waterpark",
+  "commit": {
+    "hash": "71a579673f987e72354d33d4fba9e5e2c2f1ff66",
+    "time": 1707633471
+  },
   "tags": [
     "threads",
     "postgres",

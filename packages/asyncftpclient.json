@@ -5,6 +5,10 @@
   "description": "FTP client implementation (originally in the stdlib).",
   "license": "MIT",
   "web": "https://github.com/nim-lang/asyncftpclient",
+  "commit": {
+    "hash": "0350c36d9545040f1038258d7a815493a6103de0",
+    "time": 1669978756
+  },
   "tags": [
     "stdlib",
     "ftpclient",

@@ -5,6 +5,10 @@
   "description": "Type-safe commandline parsing with minimal magic",
   "license": "MIT",
   "web": "https://bitbucket.org/maxgrenderjones/therapist",
+  "commit": {
+    "hash": "cf1b4b257fde6a7abe01c3ac1e82f8b8300298ea",
+    "time": 1704897937
+  },
   "versions": [
     {
       "tag": "v0.2.0",

@@ -5,6 +5,10 @@
   "description": "SHIORI Protocol Parser/Builder",
   "license": "MIT",
   "web": "https://github.com/Narazaka/shiori-nim",
+  "commit": {
+    "hash": "9de11d4b4767d2f817bdc62887e31b759bc18e48",
+    "time": 1516483189
+  },
   "versions": [
     {
       "tag": "v1.3.0",

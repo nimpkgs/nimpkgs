@@ -5,6 +5,10 @@
   "description": "Windowing library for Nim using OS native APIs.",
   "license": "MIT",
   "web": "https://github.com/treeform/windy",
+  "commit": {
+    "hash": "7bced62dcc4fca9ebabd00bc593f89e3e6770bee",
+    "time": 1767414895
+  },
   "tags": [
     "win32",
     "macOS",

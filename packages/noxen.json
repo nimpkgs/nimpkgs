@@ -5,6 +5,10 @@
   "description": "highly customizable terminal boxes for nim!",
   "license": "MIT",
   "web": "https://github.com/ptVoid/noxen",
+  "commit": {
+    "hash": "9e586d23ce5bfa4b49904d4a5bd78992a89c2918",
+    "time": 1700505910
+  },
   "tags": [
     "libary",
     "terminal",

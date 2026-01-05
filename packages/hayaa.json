@@ -5,6 +5,10 @@
   "description": "Conway's Game of Life implemented in Nim",
   "license": "MIT",
   "web": "https://github.com/angus-lherrou/hayaa",
+  "commit": {
+    "hash": "878240588e1655d462431f1c053710fe5c95be85",
+    "time": 1596328445
+  },
   "versions": [
     {
       "tag": "v0.3.0",

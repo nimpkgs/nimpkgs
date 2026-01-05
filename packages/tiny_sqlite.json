@@ -5,6 +5,10 @@
   "description": "A thin SQLite wrapper with proper type safety",
   "license": "MIT",
   "web": "https://github.com/GULPF/tiny_sqlite",
+  "commit": {
+    "hash": "a4977e9ab4fbc52e1db2f311391bbfa119f8e4bd",
+    "time": 1670368668
+  },
   "versions": [
     {
       "tag": "v0.2.0",

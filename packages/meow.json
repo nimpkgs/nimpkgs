@@ -5,6 +5,10 @@
   "description": "meowhash wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/disruptek/meow",
+  "commit": {
+    "hash": "d62bfb605a8bcea67d58e7b930c41cbfdab17f88",
+    "time": 1597344406
+  },
   "versions": [
     {
       "tag": "v0.1.0",

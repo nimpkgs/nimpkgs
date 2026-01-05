@@ -5,6 +5,10 @@
   "description": "Trait system for nim",
   "license": "Apache-2.0",
   "web": "https://github.com/haxscramper/nimtraits",
+  "commit": {
+    "hash": "b72a9be1762b237f759c87917d4bef9f602d2bc2",
+    "time": 1630255891
+  },
   "versions": [
     {
       "tag": "v0.1.5",

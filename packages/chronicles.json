@@ -5,6 +5,10 @@
   "description": "A crafty implementation of structured logging for Nim",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-chronicles",
+  "commit": {
+    "hash": "e7f87336d2fa47b7752b42f0be4cabd5663a5e5c",
+    "time": 1763380219
+  },
   "versions": [
     {
       "tag": "v0.12.2",

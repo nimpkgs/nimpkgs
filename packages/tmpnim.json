@@ -5,6 +5,10 @@
   "description": "Create and remove ramdisks easily",
   "license": "MPL-2.0",
   "web": "https://github.com/ment1na/tmpnim",
+  "commit": {
+    "hash": "1e7b20e97a124f3dd85885ab2a906928990964f8",
+    "time": 1652081815
+  },
   "tags": [
     "library",
     "tmpfs",

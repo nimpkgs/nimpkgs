@@ -5,6 +5,10 @@
   "description": "Fast as Fuck interpolated LUT generator and applier",
   "license": "GPL-3.0-only",
   "web": "https://github.com/arashi-software/clutter",
+  "commit": {
+    "hash": "2ec0f24b227e26d7781011876715fadb086966ec",
+    "time": 1750579587
+  },
   "versions": [
     {
       "tag": "v0.1.0",

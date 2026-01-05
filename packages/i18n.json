@@ -5,6 +5,10 @@
   "description": "Bring a gettext-like internationalisation module to Nim",
   "license": "MIT",
   "web": "https://github.com/Parashurama/nim-i18n",
+  "commit": {
+    "hash": "4fa3648fa318c295fa67082df63c804974814772",
+    "time": 1593500131
+  },
   "tags": [
     "gettext",
     "i18n",

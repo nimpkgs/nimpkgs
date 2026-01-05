@@ -5,6 +5,10 @@
   "description": "tool to generate installers for Nim programs",
   "license": "MIT",
   "web": "https://github.com/nim-lang/niminst",
+  "commit": {
+    "hash": "b30ea9685f34fce3d827f9fe016a14cb47f405ef",
+    "time": 1575278897
+  },
   "tags": [
     "app",
     "binary",

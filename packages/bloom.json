@@ -5,6 +5,10 @@
   "description": "Efficient Bloom filter implementation in Nim using MurmurHash3.",
   "license": "MIT",
   "web": "https://www.github.com/boydgreenfield/nimrod-bloom",
+  "commit": {
+    "hash": "e4cab54b65a5c3f3efe878beab70d97e0da75709",
+    "time": 1595871112
+  },
   "versions": [
     {
       "tag": "v0.1.0",

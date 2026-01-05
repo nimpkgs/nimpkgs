@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/foxoman/mersal",
   "doc": "https://mersal-doc.surge.sh/mersal",
+  "commit": {
+    "hash": "4e58599ed2197dabc171ef49e53db8faea14109f",
+    "time": 1743171758
+  },
   "versions": [
     {
       "tag": "v0.1.0",

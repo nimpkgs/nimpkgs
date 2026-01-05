@@ -5,6 +5,10 @@
   "description": "HQ Trivia API wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/sillibird/nimhq",
+  "commit": {
+    "hash": "57856e68ce2d203e6451051c9e0cb5ee27e8c14c",
+    "time": 1547588033
+  },
   "tags": [
     "library",
     "api",

@@ -5,6 +5,10 @@
   "description": "Loads environment variables from `.env`.",
   "license": "BSD3",
   "web": "https://github.com/euantorano/dotenv.nim",
+  "commit": {
+    "hash": "a3c6726147276ea1447dee292fd27bb036242b78",
+    "time": 1716497473
+  },
   "versions": [
     {
       "tag": "v1.1.1",

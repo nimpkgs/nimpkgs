@@ -5,6 +5,10 @@
   "description": "Netty is a reliable UDP connection for games.",
   "license": "MIT",
   "web": "https://github.com/treeform/netty/",
+  "commit": {
+    "hash": "76ca7f55611b092265ec6f09fe918d8fdc16d40f",
+    "time": 1758342218
+  },
   "versions": [
     {
       "tag": "v0.1.0",

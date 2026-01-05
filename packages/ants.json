@@ -5,6 +5,10 @@
   "description": "ANT: statically typed configurations for Nim (and others)",
   "license": "MIT",
   "web": "https://github.com/elcritch/ants",
+  "commit": {
+    "hash": "e36f88e4332354d041103ac8c653a36150805a64",
+    "time": 1681029404
+  },
   "versions": [
     {
       "tag": "v0.3.21",

@@ -5,6 +5,10 @@
   "description": "mmap-backed bitarray implementation in Nim.",
   "license": "MIT",
   "web": "https://www.github.com/onecodex/nim-bitarray",
+  "commit": {
+    "hash": "127928ec4962ce96b30a678febbd6ed85aa69d0f",
+    "time": 1554751496
+  },
   "versions": [
     {
       "tag": "v0.6.0",

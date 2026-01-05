@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the UK Police Data API",
   "license": "MIT",
   "web": "https://github.com/nemuelw/ukpolice",
+  "commit": {
+    "hash": "f770a489d8f0b7bfc60bcb496870a54bffb6cdd3",
+    "time": 1750911856
+  },
   "tags": [
     "ukpolice",
     "nim",

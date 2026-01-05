@@ -5,6 +5,10 @@
   "description": "typeclasses for Nim",
   "license": "Unlicense",
   "web": "https://github.com/nigredo-tori/classy",
+  "commit": {
+    "hash": "2a4c5ec004ff58a63ad452255311624f86e3d3c9",
+    "time": 1617282537
+  },
   "versions": [
     {
       "tag": "v0.0.4",

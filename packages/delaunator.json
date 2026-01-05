@@ -6,6 +6,10 @@
   "license": "Unlicense",
   "web": "https://github.com/patternspandemic/delaunator-nim",
   "doc": "https://patternspandemic.github.io/delaunator-nim/",
+  "commit": {
+    "hash": "539f0765bbcbae8de69c27fc9f28d895dcf0e8c5",
+    "time": 1687558384
+  },
   "tags": [
     "delaunay",
     "voronoi",

@@ -5,6 +5,10 @@
   "description": "A client for the Pwned passwords API.",
   "license": "MIT",
   "web": "https://github.com/dom96/pwned",
+  "commit": {
+    "hash": "492c7d6e0bf9761fb2a81fd3b75b2e805757ab4b",
+    "time": 1519315744
+  },
   "versions": [
     {
       "tag": "v1.0.0",

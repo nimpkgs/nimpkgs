@@ -5,6 +5,10 @@
   "description": "A nimrod wrapper for libalpm",
   "license": "GPLv2",
   "web": "https://www.github.com/barcharcraz/nimalpm/",
+  "commit": {
+    "hash": "c60e1347110b73421204a2c0f0bab357789f91cb",
+    "time": 1390844432
+  },
   "tags": [
     "alpm",
     "wrapper",

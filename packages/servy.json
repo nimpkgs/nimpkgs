@@ -5,6 +5,10 @@
   "description": "a down to earth webframework in nim",
   "license": "MIT",
   "web": "https://github.com/xmonader/nim-servy",
+  "commit": {
+    "hash": "f097cdb5a0263b5592e36f65928ee53f00097613",
+    "time": 1604069893
+  },
   "tags": [
     "webframework",
     "microwebframework",

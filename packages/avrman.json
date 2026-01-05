@@ -5,6 +5,10 @@
   "description": "A tool for managing nim and c projects targetting AVR microcontrollers.",
   "license": "BSD-3",
   "web": "https://github.com/Abathargh/avrman",
+  "commit": {
+    "hash": "c6d3cbdc3a309c42986ee01f66773db473b73a5e",
+    "time": 1761326148
+  },
   "versions": [
     {
       "tag": "v0.3.0",

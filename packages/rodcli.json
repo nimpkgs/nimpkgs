@@ -5,6 +5,10 @@
   "description": "making Nim development easier in the command-line",
   "license": "MIT",
   "web": "https://github.com/jabbalaci/NimCliHelper",
+  "commit": {
+    "hash": "39ab2fada7299db3bfce651e6ec467722b195b9a",
+    "time": 1740996872
+  },
   "versions": [
     {
       "tag": "v0.1.9",

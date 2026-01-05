@@ -5,6 +5,10 @@
   "description": "Simple Role-based Access Control Library",
   "license": "MIT",
   "web": "https://github.com/ba0f3/rbac.nim",
+  "commit": {
+    "hash": "823154f5abebd865773c99699d6cbe4a24e44401",
+    "time": 1746886252
+  },
   "tags": [
     "rbac",
     "acl",

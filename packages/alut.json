@@ -5,6 +5,10 @@
   "description": "OpenAL Utility Toolkit (ALUT)",
   "license": "LGPL-2.1",
   "web": "https://github.com/rmt/alut",
+  "commit": {
+    "hash": "d03e506af02e2bb85cde9e65bcca13495b7e8629",
+    "time": 1585210734
+  },
   "tags": [
     "alut",
     "openal",

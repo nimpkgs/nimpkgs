@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the GitHub API",
   "license": "WTFPL",
   "web": "https://github.com/watzon/github-api-nim",
+  "commit": {
+    "hash": "56cb4de7706a5322c72ff64fb4fda2604f4fff84",
+    "time": 1519754105
+  },
   "tags": [
     "library",
     "api",

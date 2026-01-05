@@ -5,6 +5,10 @@
   "description": "Lexer Generator and Parser Generator as a Macro Library in Nim.",
   "license": "MIT",
   "web": "https://github.com/loloicci/nimly",
+  "commit": {
+    "hash": "952f083b76e42288326173bc8c50e4b845dad04b",
+    "time": 1645419460
+  },
   "versions": [
     {
       "tag": "v0.7.0",

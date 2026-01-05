@@ -5,6 +5,10 @@
   "description": "Special iterators that use move semantics",
   "license": "MIT",
   "web": "https://github.com/sls1005/moveiterators",
+  "commit": {
+    "hash": "85b106139895c1ca55d3c40b020cc787dc202ca7",
+    "time": 1709136707
+  },
   "versions": [
     {
       "tag": "v0.2.1",

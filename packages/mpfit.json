@@ -5,6 +5,10 @@
   "description": "A wrapper for the cMPFIT non-linear least squares fitting library",
   "license": "MIT",
   "web": "https://github.com/Vindaar/nim-mpfit",
+  "commit": {
+    "hash": "492f36a52af8356a1d5684355fdefbf5b76b67ff",
+    "time": 1742324232
+  },
   "versions": [
     {
       "tag": "v0.2.0",

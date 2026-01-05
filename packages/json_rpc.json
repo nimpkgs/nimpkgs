@@ -5,6 +5,10 @@
   "description": "Nim library for implementing JSON-RPC clients and servers",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-json-rpc",
+  "commit": {
+    "hash": "841d1c9fcc7ce7ebbd1f9a774cfdcd7470e5e976",
+    "time": 1767117336
+  },
   "versions": [
     {
       "tag": "v0.5.4",

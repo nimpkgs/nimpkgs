@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/zielmicha/leveldb.nim",
   "doc": "https://zielmicha.github.io/leveldb.nim/",
+  "commit": {
+    "hash": "69f86fe38c71afb391a0334130e421df8099bc50",
+    "time": 1612776301
+  },
   "tags": [
     "leveldb",
     "database"

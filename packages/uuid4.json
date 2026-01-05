@@ -5,6 +5,10 @@
   "description": "UUIDs in pure Nim",
   "license": "MIT",
   "web": "https://github.com/vtbassmatt/nim-uuid4",
+  "commit": {
+    "hash": "b3d820fd8800c4b7bd3b236db1526434aa652bff",
+    "time": 1644686069
+  },
   "versions": [
     {
       "tag": "v0.9.3",

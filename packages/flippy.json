@@ -5,6 +5,10 @@
   "description": "Flippy is a simple 2d image and drawing library.",
   "license": "MIT",
   "web": "https://github.com/treeform/flippy",
+  "commit": {
+    "hash": "410578cdeb9a166e33c5e92cd9e5a1460b321f7c",
+    "time": 1622733633
+  },
   "versions": [
     {
       "tag": "v0.4.1",

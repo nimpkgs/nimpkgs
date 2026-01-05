@@ -5,6 +5,10 @@
   "description": "A correctly-rounded arbitrary precision decimal floating point arithmetic library",
   "license": "(MIT or Apache License 2.0) and Simplified BSD",
   "web": "https://github.com/inv2004/nim-decimal",
+  "commit": {
+    "hash": "33cc31bd21f9ab6d2fbe199a6e8bb1fd218a794b",
+    "time": 1749556441
+  },
   "tags": [
     "decimal",
     "arithmetic",

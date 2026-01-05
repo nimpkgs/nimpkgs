@@ -5,6 +5,10 @@
   "description": "Sitmo parallel random number generator in Nim",
   "license": "MIT",
   "web": "https://github.com/jxy/sitmo",
+  "commit": {
+    "hash": "4f8aaf1378ed8d461b1d92c71109d431dff73250",
+    "time": 1574890194
+  },
   "versions": [
     {
       "tag": "v0.0.2",

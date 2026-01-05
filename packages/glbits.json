@@ -5,6 +5,10 @@
   "description": "A light interface and selection of utilities for working with OpenGL and SDL2",
   "license": "Apache-2.0",
   "web": "https://github.com/rlipsc/glbits",
+  "commit": {
+    "hash": "456a3c8962d2447e48e5c4f4e4b7da1b2ec3010a",
+    "time": 1666399966
+  },
   "versions": [
     {
       "tag": "v0.1.5",

@@ -6,6 +6,10 @@
   "license": "Apache-2.0",
   "web": "https://github.com/Nimberite-Development/ModernNet",
   "doc": "https://nimberite-development.github.io/ModernNet/",
+  "commit": {
+    "hash": "5cab19278329a316e41211e2e2315bad559c9611",
+    "time": 1756262598
+  },
   "versions": [
     {
       "tag": "v3.2.3",

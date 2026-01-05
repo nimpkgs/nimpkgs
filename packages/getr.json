@@ -5,6 +5,10 @@
   "description": "Benchmarking wrapper around getrusage()",
   "license": "MIT",
   "web": "https://github.com/jrfondren/getr-nim",
+  "commit": {
+    "hash": "bcfb2786d0ec3b21e9dff570460d439aa7de8050",
+    "time": 1716005213
+  },
   "versions": [
     {
       "tag": "v0.1.1",

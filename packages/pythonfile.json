@@ -5,6 +5,10 @@
   "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-pythonfile",
+  "commit": {
+    "hash": "417bdf54d4da8fc79577018f1eef6e8a2f39a008",
+    "time": 1570335682
+  },
   "tags": [
     "library",
     "python",

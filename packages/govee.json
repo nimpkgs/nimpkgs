@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/neroist/nim-govee",
   "doc": "https://neroist.github.io/nim-govee/",
+  "commit": {
+    "hash": "0af54ab85762e2cbe7e856db290ce2d764d66ac4",
+    "time": 1677354941
+  },
   "tags": [
     "govee",
     "wrapper",

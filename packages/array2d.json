@@ -5,6 +5,10 @@
   "description": "A 2D Array Implementation",
   "license": "GPL-2.0-only",
   "web": "https://github.com/avahe-kellenberger/array2d",
+  "commit": {
+    "hash": "8ef8209e01855a51729d30880c1c2f4eebf1ce4c",
+    "time": 1658543521
+  },
   "tags": [
     "nim",
     "array2d",

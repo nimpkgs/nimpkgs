@@ -5,6 +5,10 @@
   "description": "Very simple browser Javascript TTY web terminal",
   "license": "MIT",
   "web": "https://github.com/JohnAD/webterminal",
+  "commit": {
+    "hash": "5c07ea85d2cfdd055cde755a117f50244d6c0021",
+    "time": 1582330319
+  },
   "versions": [
     {
       "tag": "v0.0.2",

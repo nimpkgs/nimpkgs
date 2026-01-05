@@ -5,6 +5,10 @@
   "description": "DNS /etc/hosts file manager, Block 1 Million malicious domains with 1 command",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-dnsprotec",
+  "commit": {
+    "hash": "a0044f179361f2000fb85ce608b7a90bd7032249",
+    "time": 1572864950
+  },
   "tags": [
     "dns",
     "hosts"

@@ -5,6 +5,10 @@
   "description": "Nim bindings for ROS2",
   "license": "MIT",
   "web": "https://github.com/Pylgos/rclnim",
+  "commit": {
+    "hash": "46d09a4eada14aca53209fb8637fbef83c535f42",
+    "time": 1700119165
+  },
   "tags": [
     "library",
     "embedded",

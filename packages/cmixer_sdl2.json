@@ -5,6 +5,10 @@
   "description": "Lightweight audio mixer for SDL2",
   "license": "MIT",
   "web": "https://github.com/rxi/cmixer_sdl2-nim",
+  "commit": {
+    "hash": "be81a400bed1f1d0ae6da58db6f5d4095041cdfb",
+    "time": 1498319007
+  },
   "tags": [
     "library",
     "audio",

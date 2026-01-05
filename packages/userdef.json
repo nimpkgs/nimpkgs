@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A more advanced adduser for your Alpine based Docker images.",
   "license": "GPL-3.0-or-later",
+  "commit": {
+    "hash": "d4f2371a4f1b4123a2085020660848d4922f28f3",
+    "time": 1697315634
+  },
   "tags": [
     "akito",
     "gosu",

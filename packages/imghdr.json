@@ -5,6 +5,10 @@
   "description": "Library for detecting the format of an image",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-imghdr",
+  "commit": {
+    "hash": "de6463188468b83ddc9b1ec28976bb3fc598e1ee",
+    "time": 1556137700
+  },
   "tags": [
     "image",
     "formats",

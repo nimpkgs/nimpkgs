@@ -5,6 +5,10 @@
   "description": "Indie assembler/linker for Android's Dalvik VM .dex & .apk files",
   "license": "AGPL-3.0",
   "web": "https://github.com/akavel/dali",
+  "commit": {
+    "hash": "911fea3b41ca4f9bc8eb2013f7456dff38a65af0",
+    "time": 1571860535
+  },
   "versions": [
     {
       "tag": "v0.4.0",

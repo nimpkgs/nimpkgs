@@ -5,6 +5,10 @@
   "description": "See pictures in your console",
   "license": "MIT",
   "web": "https://github.com/not-lum/imgcat",
+  "commit": {
+    "hash": "37b1e7d2688a75a589671f1f5b5c9a992b908db5",
+    "time": 1689179204
+  },
   "tags": [
     "hybrid",
     "crossplatform",

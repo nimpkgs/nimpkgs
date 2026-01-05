@@ -5,6 +5,10 @@
   "description": "Classical Graph Algos in Nim",
   "license": "MIT/ISC",
   "web": "https://github.com/c-blake/gralg",
+  "commit": {
+    "hash": "f1f7d991295448502e8aee723dd2aa41c02634d7",
+    "time": 1757426498
+  },
   "tags": [
     "graph",
     "digraph",

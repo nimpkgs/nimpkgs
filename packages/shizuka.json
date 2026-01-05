@@ -5,6 +5,10 @@
   "description": "The Nim framework for VK API.",
   "license": "AGPLv3",
   "web": "https://github.com/ethosa/shizuka",
+  "commit": {
+    "hash": "3ce6fe7df26cdc1df116f4c2d3456917d1c237fd",
+    "time": 1656566210
+  },
   "versions": [
     {
       "tag": "v0.2.2",

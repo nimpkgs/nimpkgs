@@ -5,6 +5,10 @@
   "description": "Ping hosts using tcp packets",
   "license": "MIT",
   "web": "https://github.com/pdrb/tcping",
+  "commit": {
+    "hash": "9b3aeeddfb78d1c8e993b891a5aaca56078554b2",
+    "time": 1569553225
+  },
   "versions": [
     {
       "tag": "v1.0.0",

@@ -5,6 +5,10 @@
   "description": "A fast Hyper Server & Web Framework",
   "license": "MIT",
   "web": "https://github.com/supranim/supranim",
+  "commit": {
+    "hash": "2c1bbe24dcec9572fbf5e5487701fb31ffc2fad9",
+    "time": 1766498390
+  },
   "tags": [
     "framework",
     "web-development",

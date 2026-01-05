@@ -5,6 +5,10 @@
   "description": "Nim wrapper for libssh2",
   "license": "MIT",
   "web": "https://github.com/ba0f3/libssh2.nim",
+  "commit": {
+    "hash": "a570d088d7597d1f9e69d59445c71a585a0f5817",
+    "time": 1742383359
+  },
   "tags": [
     "lib",
     "ssh",

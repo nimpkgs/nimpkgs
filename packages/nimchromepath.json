@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/felipetesc/NimChromePath",
   "doc": "https://github.com/felipetesc/NimChromePath",
+  "commit": {
+    "hash": "ddd68d4842f1ec31a5f59ea4b4418c7afc21169d",
+    "time": 1600886059
+  },
   "tags": [
     "chrome",
     "path",

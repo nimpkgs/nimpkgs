@@ -5,6 +5,10 @@
   "description": "The fastest Fourier transform in the Rhein (so far)",
   "license": "MIT",
   "web": "https://github.com/arnetheduck/nim-fftr",
+  "commit": {
+    "hash": "c75c3a377e167672f6d5d457cdc18d94aec7915a",
+    "time": 1696969828
+  },
   "tags": [
     "fft",
     "dft"

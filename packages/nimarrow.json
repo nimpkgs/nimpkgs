@@ -5,6 +5,10 @@
   "description": "apache arrow bindings for nim",
   "license": "Apache-2.0",
   "web": "https://github.com/emef/nimarrow",
+  "commit": {
+    "hash": "6d41a550a09845a91df645507588adf599830da0",
+    "time": 1625778486
+  },
   "versions": [
     {
       "tag": "v0.1.3",

@@ -5,6 +5,10 @@
   "description": "LibFixMath 16:16 fixed point support for nim",
   "license": "MIT",
   "web": "https://github.com/Jeff-Ciesielski/fixmath",
+  "commit": {
+    "hash": "e51e50a4baa63617e8308aed3491986e13672234",
+    "time": 1466101844
+  },
   "tags": [
     "math"
   ]

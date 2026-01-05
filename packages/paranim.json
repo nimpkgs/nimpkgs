@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A game library",
   "license": "Public Domain",
+  "commit": {
+    "hash": "fd28a5acf75f9fca32f1acc828c89c651dd9ce05",
+    "time": 1696521648
+  },
   "tags": [
     "games",
     "opengl"

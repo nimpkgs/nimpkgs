@@ -5,6 +5,10 @@
   "description": "libgcrypt wrapper",
   "license": "LGPLv2.1",
   "web": "https://github.com/FedericoCeratto/nim-libgcrypt",
+  "commit": {
+    "hash": "8f9662a004c3078b1d3eff4e7bd2597f0bae7955",
+    "time": 1570877280
+  },
   "tags": [
     "wrapper",
     "library",

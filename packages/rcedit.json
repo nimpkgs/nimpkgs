@@ -5,6 +5,10 @@
   "description": "A new awesome nimble package",
   "license": "MIT",
   "web": "https://github.com/bung87/rcedit",
+  "commit": {
+    "hash": "1713a9a60fa8e939800bb2c8c724ea0665fcb0d1",
+    "time": 1708498020
+  },
   "versions": [
     {
       "tag": "v0.2.0",

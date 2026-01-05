@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Nim bindings for libass.",
   "license": "ISC",
+  "commit": {
+    "hash": "13e3c29ca782dbe798730116bb10a9b5ac9a99b8",
+    "time": 1622383188
+  },
   "tags": [
     "multimedia",
     "video"

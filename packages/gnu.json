@@ -5,6 +5,10 @@
   "description": "Godot-Nim Utility - Godot gamedev with Nim",
   "license": "MIT",
   "web": "https://github.com/tonogram/gnu",
+  "commit": {
+    "hash": "bcfa1a5879c2c05b7a4918d507e3859fa8f14c3d",
+    "time": 1628862868
+  },
   "versions": [
     {
       "tag": "v0.1.2",

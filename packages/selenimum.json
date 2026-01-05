@@ -5,6 +5,10 @@
   "description": "WebDriver for Selenium(selenium-hub).",
   "license": "MIT",
   "web": "https://github.com/myamyu/selenimum",
+  "commit": {
+    "hash": "df2f5d013ba5475c3b771e156fd23eabe3067b38",
+    "time": 1643648573
+  },
   "versions": [
     {
       "tag": "v0.2.0",

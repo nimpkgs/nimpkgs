@@ -5,6 +5,10 @@
   "description": "Library for data analysis and manipulation, equivalent to Pandas.",
   "license": "GPL-3.0-only",
   "web": "https://github.com/navid-m/razor",
+  "commit": {
+    "hash": "05a0fff002166967188632aeb7e8e17041cd80b0",
+    "time": 1762869535
+  },
   "tags": [
     "pandas",
     "polars",

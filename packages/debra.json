@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/elijahr/nim-debra",
   "doc": "https://elijahr.github.io/nim-debra/",
+  "commit": {
+    "hash": "f231630b2054d68a02533149d455eaa25d7c4ff5",
+    "time": 1766312719
+  },
   "versions": [
     {
       "tag": "v0.2.0",

@@ -5,6 +5,10 @@
   "description": "small/tiny, flatfile, jsonl based, inprogress database for nim",
   "license": "MIT",
   "web": "https://github.com/enthus1ast/flatdb",
+  "commit": {
+    "hash": "732574d4e3b15da59a82ad508638981490d3ad7c",
+    "time": 1692432391
+  },
   "tags": [
     "database",
     "json",

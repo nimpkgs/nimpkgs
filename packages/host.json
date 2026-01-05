@@ -5,6 +5,10 @@
   "description": "A program to staticlly host files or directories over HTTP",
   "license": "GPL-3.0",
   "web": "https://github.com/RainbowAsteroids/host",
+  "commit": {
+    "hash": "5739f866ab3e0bf784345969225a4f91daf71a28",
+    "time": 1612484084
+  },
   "tags": [
     "web",
     "server",

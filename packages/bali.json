@@ -5,6 +5,10 @@
   "description": "Bali is an embeddable JavaScript engine written in Nim from scratch.",
   "license": "LGPL-3.0",
   "web": "https://ferus-web.github.io/bali/",
+  "commit": {
+    "hash": "bacd973227898a68e8cb7bb6342e0e1d15348d1a",
+    "time": 1767541622
+  },
   "tags": [
     "javascript",
     "interpreter",

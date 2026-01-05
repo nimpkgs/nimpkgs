@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/amkrajewski/nimplex",
   "doc": "https://nimplex.phaseslab.org",
+  "commit": {
+    "hash": "1b540ceb23d5e40e5411e7fc4a2c3efdc8838167",
+    "time": 1761370761
+  },
   "versions": [
     {
       "tag": "v0.8.0",

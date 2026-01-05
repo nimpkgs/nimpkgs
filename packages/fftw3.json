@@ -5,6 +5,10 @@
   "description": "Bindings to the FFTW library",
   "license": "LGPL",
   "web": "https://github.com/SciNim/nimfftw3",
+  "commit": {
+    "hash": "984471bb4a763a7b1548dc4aa85dac106ee93f05",
+    "time": 1751542891
+  },
   "versions": [
     {
       "tag": "v0.5.3",

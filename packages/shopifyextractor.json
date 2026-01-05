@@ -5,6 +5,10 @@
   "description": "Shopify ecommerces data in a instant",
   "license": "GPL-3.0-only",
   "web": "https://github.com/thisago/shopifyextractor",
+  "commit": {
+    "hash": "5b23a11c4ce1bc9eec59434b74913ec00befb76f",
+    "time": 1693164726
+  },
   "tags": [
     "shopify",
     "extractor",

@@ -5,6 +5,10 @@
   "description": "Blitz3D-esque DX9 engine for Nim",
   "license": "MIT",
   "web": "https://github.com/Guevara-chan/Xors3D-for-Nim",
+  "commit": {
+    "hash": "d1a30a5f6d69cc634e466ef22b02e89120ddb919",
+    "time": 1596434884
+  },
   "tags": [
     "3d",
     "game",

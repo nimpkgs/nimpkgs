@@ -5,6 +5,10 @@
   "description": "A template processor and language.",
   "license": "MIT",
   "web": "https://github.com/flenniken/statictea",
+  "commit": {
+    "hash": "a92995451c7d88558f04d02dea0cf97923c50775",
+    "time": 1759188723
+  },
   "versions": [
     {
       "tag": "v0.1.4",

@@ -5,6 +5,10 @@
   "description": "Nanosecond-percision time using timespec_get",
   "license": "0BSD",
   "web": "https://github.com/Matceporial/nim-timespec_get",
+  "commit": {
+    "hash": "76021234c2f0678c093a83f777c4936072444e70",
+    "time": 1543670767
+  },
   "tags": [
     "time",
     "timespec_get"

@@ -5,6 +5,10 @@
   "description": "Easily use Animate.css classes",
   "license": "MIT",
   "web": "https://github.com/thisago/animatecss",
+  "commit": {
+    "hash": "7d03f0d2465d48f99a8270a53dc027197e68e85e",
+    "time": 1636379493
+  },
   "tags": [
     "javascript",
     "animatecss"

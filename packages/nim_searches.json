@@ -5,6 +5,10 @@
   "description": "search algorithms",
   "license": "MIT",
   "web": "https://github.com/nnahito/nim_searched",
+  "commit": {
+    "hash": "915bae8bb207e9e4a530dfa0c5d10c25a25cf05f",
+    "time": 1593510761
+  },
   "tags": [
     "search"
   ]

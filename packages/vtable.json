@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Implement dynamic dispatch through vtable, should works for dynlib.",
   "license": "LGPL-3.0",
+  "commit": {
+    "hash": "3d8dd914f86662816df0ea3186eee5c3cbd3efcc",
+    "time": 1609401666
+  },
   "versions": [
     {
       "tag": "v0.3.3",

@@ -5,6 +5,10 @@
   "description": "Package to turn (nested) Nim objects to flat buffers and back.",
   "license": "MIT",
   "web": "https://github.com/Vindaar/flatBuffers",
+  "commit": {
+    "hash": "129948c27e3d1231499f2ccd7c6f4836afedd1b7",
+    "time": 1716563959
+  },
   "versions": [
     {
       "tag": "v0.1.5",

@@ -5,6 +5,10 @@
   "description": "A sinatra-like web framework for Nim with plugins.",
   "license": "MIT",
   "web": "https://github.com/JohnAD/jesterwithplugins/",
+  "commit": {
+    "hash": "26b4df37c421ec12f994340910dfde75bfbe300c",
+    "time": 1619285995
+  },
   "versions": [
     {
       "tag": "v0.5.2",

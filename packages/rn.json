@@ -5,6 +5,10 @@
   "description": "minimal, performant mass file renamer",
   "license": "MIT",
   "web": "https://github.com/xioren/rn",
+  "commit": {
+    "hash": "06384d221b36b5ed18b9aa4d0fc024323b095df7",
+    "time": 1643220382
+  },
   "versions": [
     {
       "tag": "v0.2.2",

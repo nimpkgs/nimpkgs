@@ -5,6 +5,10 @@
   "description": "Pure library for matching file paths against Unix style glob patterns.",
   "license": "MIT",
   "web": "https://github.com/haltcase/glob",
+  "commit": {
+    "hash": "ab6087b0cfb56096258cb48f7e756a8c3e8e40cf",
+    "time": 1709049464
+  },
   "versions": [
     {
       "tag": "v0.11.3",

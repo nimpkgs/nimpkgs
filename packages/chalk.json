@@ -5,6 +5,10 @@
   "description": "Software artifact metadata to make it easy to tie deployments to source code and collect metadata.",
   "license": "GPLv3",
   "web": "https://github.com/crashappsec/chalk",
+  "commit": {
+    "hash": "97b4d91da954d6eaeb87c17f2928d815750c2b4a",
+    "time": 1766168443
+  },
   "versions": [
     {
       "tag": "v0.6.5",

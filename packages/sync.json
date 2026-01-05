@@ -5,6 +5,10 @@
   "description": "Useful synchronization primitives",
   "license": "MIT",
   "web": "https://github.com/planetis-m/sync",
+  "commit": {
+    "hash": "a23d970fdac860ff2173aa48deae9fa064928376",
+    "time": 1754548719
+  },
   "versions": [
     {
       "tag": "v2.0.3",

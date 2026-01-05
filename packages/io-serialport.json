@@ -5,6 +5,10 @@
   "description": "Obsolete - please use serialport instead!",
   "license": "MIT",
   "web": "https://github.com/nimious/io-serialport",
+  "commit": {
+    "hash": "3445ecd3e553183f53905cb7e6795f326711960c",
+    "time": 1454173195
+  },
   "tags": [
     "binding",
     "libserialport",

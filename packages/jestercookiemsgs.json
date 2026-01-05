@@ -5,6 +5,10 @@
   "description": "A Jester web plugin that allows easy message passing between pages using a browser cookie.",
   "license": "MIT",
   "web": "https://github.com/JohnAD/jestercookiemsgs",
+  "commit": {
+    "hash": "27a6b7c5bc5dfe4520183bfa31a627070dd8d3af",
+    "time": 1592091737
+  },
   "versions": [
     {
       "tag": "v1.0.1",

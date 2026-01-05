@@ -5,6 +5,10 @@
   "description": "Nim wrappers for ESP-IDF (ESP32)",
   "license": "Apache-2.0",
   "web": "https://github.com/elcritch/nesper",
+  "commit": {
+    "hash": "117871c3a7e704ec1056b032b77bb13d7407eeba",
+    "time": 1764785648
+  },
   "versions": [
     {
       "tag": "v0.9.14",

@@ -5,6 +5,10 @@
   "description": "Minimalistic Kernel-Syslogd For Linux in Nim",
   "license": "MIT",
   "web": "https://github.com/c-blake/kslog",
+  "commit": {
+    "hash": "0b3c823ccc250c684bc5e33184987a73c863b315",
+    "time": 1740087726
+  },
   "versions": [
     {
       "tag": "v0.7",

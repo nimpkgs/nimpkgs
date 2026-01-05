@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/ire4ever1190/anano",
   "doc": "https://tempdocs.netlify.app/anano/stable",
+  "commit": {
+    "hash": "9ca46a5ca963fb0b176d08ef743a175ff915d90b",
+    "time": 1699067513
+  },
   "tags": [
     "identifier",
     "random"

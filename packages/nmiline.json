@@ -5,6 +5,10 @@
   "description": "Plotting tool using NiGui",
   "license": "MIT",
   "web": "https://github.com/mzteruru52/NmiLine",
+  "commit": {
+    "hash": "ba6246686f91335897e039d49a8df31f79fce502",
+    "time": 1537032035
+  },
   "versions": [
     {
       "tag": "v1.1",

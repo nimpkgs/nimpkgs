@@ -5,6 +5,10 @@
   "description": "Pleasant Nim bindings for SIMD instruction sets",
   "license": "MIT",
   "web": "https://github.com/guzba/nimsimd",
+  "commit": {
+    "hash": "3f6b2668ffb0867d0bf786a658b817763e611350",
+    "time": 1734838805
+  },
   "tags": [
     "simd",
     "sse",

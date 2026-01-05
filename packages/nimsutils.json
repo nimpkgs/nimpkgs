@@ -5,6 +5,10 @@
   "description": "Common utils for Nimscript",
   "license": "MIT",
   "web": "https://github.com/FyraLabs/nimsutils",
+  "commit": {
+    "hash": "a24c77999e501cb10847312d393f35f4c106cd6a",
+    "time": 1741968263
+  },
   "tags": [
     "nimscript",
     "nims",

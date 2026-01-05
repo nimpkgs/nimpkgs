@@ -5,6 +5,10 @@
   "description": "Allocate closures on stack",
   "license": "MIT",
   "web": "https://github.com/guibar64/stackclosures",
+  "commit": {
+    "hash": "a930e8b0ba6ac0635632e83cbef7d31b196b429b",
+    "time": 1698676320
+  },
   "versions": [
     {
       "tag": "v0.1.2",

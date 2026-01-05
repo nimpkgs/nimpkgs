@@ -5,6 +5,10 @@
   "description": "Image transformation and visualization utilities for arraymancer",
   "license": "Apache License 2.0",
   "web": "https://github.com/edubart/arraymancer-vision",
+  "commit": {
+    "hash": "a52496691b81679cc7da5578f4aed0af25e9c48a",
+    "time": 1507461648
+  },
   "tags": [
     "arraymancer",
     "image",

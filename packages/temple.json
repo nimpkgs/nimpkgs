@@ -5,6 +5,10 @@
   "description": "A templating library for run-time templating with support for simple conditionals and attributes.",
   "license": "BSD-3-Clause",
   "web": "https://pony.biz/temple/",
+  "commit": {
+    "hash": "76a966e413fc558f5c9787e82a820523fe29862b",
+    "time": 1732306021
+  },
   "versions": [
     {
       "tag": "v0.2.3",

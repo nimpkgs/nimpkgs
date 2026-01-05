@@ -5,6 +5,10 @@
   "description": "Cross-platform git repository manager.",
   "license": "GPL-3.0-only",
   "web": "https://github.com/nirokay/gitman",
+  "commit": {
+    "hash": "430a9f4b33b8ec4650706c46b502a8aa38dda73d",
+    "time": 1750670149
+  },
   "tags": [
     "git",
     "manager",

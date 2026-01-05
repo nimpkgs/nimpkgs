@@ -5,6 +5,10 @@
   "description": "Additions to the Nim's standard library, like boost for C++",
   "license": "MIT",
   "web": "https://vegansk.github.io/nimboost/",
+  "commit": {
+    "hash": "e3a6a736197ab97411d2f7ede7af4d6be76fdf6b",
+    "time": 1553500020
+  },
   "versions": [
     {
       "tag": "v0.5.5",

@@ -5,6 +5,10 @@
   "description": "Converts html to karax.",
   "license": "MIT",
   "web": "https://github.com/nim-lang-cn/html2karax",
+  "commit": {
+    "hash": "b801546ea3f1c73ccefe40f918cf1d8428b5e401",
+    "time": 1646458441
+  },
   "versions": [
     {
       "tag": "v1.2.1",

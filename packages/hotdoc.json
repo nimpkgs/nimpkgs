@@ -5,6 +5,10 @@
   "description": "Single Page Documentation Generator",
   "license": "MIT",
   "web": "https://github.com/willyboar/hotdoc",
+  "commit": {
+    "hash": "2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
+    "time": 1621371246
+  },
   "tags": [
     "static",
     "docs",

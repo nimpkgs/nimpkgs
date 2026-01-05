@@ -5,6 +5,10 @@
   "description": "Easter date calculation engine.",
   "license": "MIT",
   "web": "https://github.com/GeK2K/easter",
+  "commit": {
+    "hash": "b8c4b796b71d8ddf8b7a4e1de8e91f0e2483cd97",
+    "time": 1716625852
+  },
   "tags": [
     "gregorian",
     "easter"

@@ -5,6 +5,10 @@
   "description": "A Nim interface to gnuplot loosely based on pygnuplot.",
   "license": "MIT",
   "web": "https://github.com/nervecenter/nimgnuplot",
+  "commit": {
+    "hash": "8f15a7cd71a93720bc3771f964f6546146d729a9",
+    "time": 1760660891
+  },
   "versions": [
     {
       "tag": "v2025.9.30",

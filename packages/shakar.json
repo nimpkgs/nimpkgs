@@ -5,6 +5,10 @@
   "description": "Syntactical sugar that's too sweet for the Nim standard library.",
   "license": "MIT",
   "web": "https://github.com/ferus-web/shakar",
+  "commit": {
+    "hash": "c89ac725ae03c52ac2bb3dfb95c4b0285d0691e7",
+    "time": 1745041041
+  },
   "tags": [
     "sugar",
     "options"

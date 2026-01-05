@@ -5,6 +5,10 @@
   "description": "Yet Another WebDriver (YAWD) for nim lang.",
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_yawd",
+  "commit": {
+    "hash": "56b24e8ee039188d9aa7c9612ed848c14a3355a3",
+    "time": 1676184513
+  },
   "versions": [
     {
       "tag": "v0.1.0",

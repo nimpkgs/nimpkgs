@@ -5,6 +5,10 @@
   "description": "Time ago in words in Nim",
   "license": "MIT",
   "web": "https://github.com/daehee/ago",
+  "commit": {
+    "hash": "de420118c02fe2ad57f4b7e3d0affdb4e3bc60ee",
+    "time": 1611868110
+  },
   "tags": [
     "web",
     "time",

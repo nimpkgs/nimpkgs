@@ -5,6 +5,10 @@
   "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
   "license": "MIT",
   "web": "https://github.com/jabbalaci/libclip",
+  "commit": {
+    "hash": "842e0863f3d418e79aef44ed4b8aa205792d0cc9",
+    "time": 1757333954
+  },
   "tags": [
     "clipboard",
     "library",

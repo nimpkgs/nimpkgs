@@ -5,6 +5,10 @@
   "description": "View nim packages in your browser.",
   "license": "MIT",
   "web": "https://github.com/flenniken/nimlist",
+  "commit": {
+    "hash": "f036dc9e9070d4a35f955f2ccedcd0f8617c00a1",
+    "time": 1685317435
+  },
   "versions": [
     {
       "tag": "v0.1.5",

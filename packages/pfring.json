@@ -5,6 +5,10 @@
   "description": "PF_RING wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/ba0f3/pfring.nim",
+  "commit": {
+    "hash": "c3fbbd27686d24830d45c4c2ad642a9263433873",
+    "time": 1633049827
+  },
   "tags": [
     "pf_ring",
     "packet",

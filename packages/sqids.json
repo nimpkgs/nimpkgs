@@ -5,6 +5,10 @@
   "description": "Official Nim port of Sqids. Generate short YouTube-looking IDs from numbers.",
   "license": "MIT",
   "web": "https://github.com/sqids/sqids-nim",
+  "commit": {
+    "hash": "df2ac211bb9593081f58a1649aba71f30175517f",
+    "time": 1701026724
+  },
   "versions": [
     {
       "tag": "v0.1.0",

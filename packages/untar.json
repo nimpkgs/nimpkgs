@@ -5,6 +5,10 @@
   "description": "Library for decompressing tar.gz files.",
   "license": "MIT",
   "web": "https://github.com/dom96/untar",
+  "commit": {
+    "hash": "b49f6ac94974fe11cb3d396a8a9c533824a497a7",
+    "time": 1651510994
+  },
   "tags": [
     "library",
     "tar",

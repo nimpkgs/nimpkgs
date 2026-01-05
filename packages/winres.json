@@ -5,6 +5,10 @@
   "description": "Windows resource file generator",
   "license": "MIT",
   "web": "https://github.com/codehz/nim-winres",
+  "commit": {
+    "hash": "6507007a2bb26004ae9f15bec53b64d4a98b161f",
+    "time": 1612990460
+  },
   "versions": [
     {
       "tag": "v0.1.0",

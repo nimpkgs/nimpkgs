@@ -5,6 +5,10 @@
   "description": "webidl to Nim bindings generator",
   "license": "MIT",
   "web": "https://github.com/ASVIEST/webidl2nim",
+  "commit": {
+    "hash": "a50303ea276ad77b1ee151b4d1475892133e4927",
+    "time": 1706399413
+  },
   "tags": [
     "web",
     "webidl",

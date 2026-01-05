@@ -5,7 +5,16 @@
   "description": "Low-level ABI package for hashtree, a SHA256 implementation specialized for merkle trees and 64-byte chunks",
   "license": "MIT",
   "web": "https://github.com/OffchainLabs/hashtree",
+  "commit": {
+    "hash": "a3d1915488c6ecd159e15acc235b2783995e5431",
+    "time": 1765296956
+  },
   "versions": [
+    {
+      "tag": "v0.2.1",
+      "hash": "a3d1915488c6ecd159e15acc235b2783995e5431",
+      "time": 1765296956
+    },
     {
       "tag": "v0.2.0",
       "hash": "67979dccfc99b02b488ed8f5fddee9f09aea411e",

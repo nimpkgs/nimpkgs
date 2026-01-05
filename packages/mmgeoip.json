@@ -5,6 +5,10 @@
   "description": "MaxMind GeoIP library",
   "license": "LGPLv2.1",
   "web": "https://github.com/FedericoCeratto/nim-mmgeoip",
+  "commit": {
+    "hash": "c7b84ce31a2f5d240f97294459d63ed9849e8447",
+    "time": 1478628521
+  },
   "tags": [
     "geoip"
   ]

@@ -5,6 +5,10 @@
   "description": "A simple docx reader.",
   "license": "MIT",
   "web": "https://github.com/ringabout/docx",
+  "commit": {
+    "hash": "63f9aa83183a8277c0885121bff41313926b05f4",
+    "time": 1581142343
+  },
   "versions": [
     {
       "tag": "v0.1.8",

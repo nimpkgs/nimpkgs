@@ -5,6 +5,10 @@
   "description": "Adds class support to Nim.",
   "license": "MIT",
   "web": "https://github.com/jjv360/nim-classes",
+  "commit": {
+    "hash": "bb937356eb914480a9e7bb9204f01b529ff713b1",
+    "time": 1756557202
+  },
   "versions": [
     {
       "tag": "v0.3.17",

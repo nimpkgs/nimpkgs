@@ -5,6 +5,10 @@
   "description": "Word2vec implemented in nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/word2vec",
+  "commit": {
+    "hash": "53e079a33be718d17a3769734c52b02cdbb2364d",
+    "time": 1633046191
+  },
   "versions": [
     {
       "tag": "v0.0.1",

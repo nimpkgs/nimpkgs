@@ -5,6 +5,10 @@
   "description": "nimjson generates nim object definitions from json documents.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/nimjson",
+  "commit": {
+    "hash": "e68d907506c2094823e153df97ff2fd92f5569f7",
+    "time": 1764260155
+  },
   "versions": [
     {
       "tag": "v3.3.0",

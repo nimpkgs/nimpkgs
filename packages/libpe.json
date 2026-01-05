@@ -5,6 +5,10 @@
   "description": "Nim wrapper for libpe library",
   "license": "GPL-3.0",
   "web": "https://github.com/srozb/nim-libpe",
+  "commit": {
+    "hash": "4c01a7f4b161493cf48138973505b97834f8bae2",
+    "time": 1665042642
+  },
   "versions": [
     {
       "tag": "v0.3.6",

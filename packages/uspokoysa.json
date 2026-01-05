@@ -5,6 +5,10 @@
   "description": "Dead simple Nim app for making timebreaks",
   "license": "BSD-3-Clause",
   "web": "https://github.com/ioplker/uspokoysa",
+  "commit": {
+    "hash": "57be76666f4e40b98e0d29d6dc3eef9989063d3c",
+    "time": 1651855066
+  },
   "tags": [
     "timebreaks",
     "nigui"

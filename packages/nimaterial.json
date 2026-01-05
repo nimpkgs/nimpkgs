@@ -5,6 +5,10 @@
   "description": "nimaterial is a CSS output library based on material design.",
   "license": "MIT",
   "web": "https://github.com/momeemt/nimaterial",
+  "commit": {
+    "hash": "b00288ec19905cfb3e740903ea898fe5180874c3",
+    "time": 1609371021
+  },
   "versions": [
     {
       "tag": "ver.0.3.0",

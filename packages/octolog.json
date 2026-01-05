@@ -6,6 +6,10 @@
   "license": "GPL3",
   "web": "https://github.com/jaar23/octolog",
   "doc": "https://jaar23.github.io/octolog",
+  "commit": {
+    "hash": "0eeb32007532a8018f4af3b161e4b4880cee5726",
+    "time": 1712428295
+  },
   "tags": [
     "std-logging",
     "thread",

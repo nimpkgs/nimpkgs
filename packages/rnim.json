@@ -5,6 +5,10 @@
   "description": "A bridge between R and Nim",
   "license": "MIT",
   "web": "https://github.com/SciNim/rnim",
+  "commit": {
+    "hash": "93e77ad997c240dac3c321473f35a889c102ca7d",
+    "time": 1711446770
+  },
   "versions": [
     {
       "tag": "v0.1.6",

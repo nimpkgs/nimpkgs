@@ -5,6 +5,10 @@
   "description": "PocketLang binding for Nim",
   "license": "MIT",
   "web": "https://github.com/khchen/nimpk",
+  "commit": {
+    "hash": "8bf87fbc8204b90c5a078ea31a7a0bd745266cdd",
+    "time": 1721364271
+  },
   "tags": [
     "pocketlang",
     "script",

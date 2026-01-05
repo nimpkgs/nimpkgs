@@ -5,6 +5,10 @@
   "description": "rect is a command to crop/paste rectangle text.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/rect",
+  "commit": {
+    "hash": "8d8eb05b631ed3974833b6d0cab021e879c7f09b",
+    "time": 1563976192
+  },
   "versions": [
     {
       "tag": "v1.0.1",

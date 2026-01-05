@@ -5,6 +5,10 @@
   "description": "Generates a GitHub documentation website for Nim projects.",
   "license": "MIT",
   "web": "https://github.com/Araq/gh_nimrod_doc_pages",
+  "commit": {
+    "hash": "2e716592b213c4716b9e786714c70629928a204e",
+    "time": 1431885594
+  },
   "versions": [
     {
       "tag": "v0.2.4",

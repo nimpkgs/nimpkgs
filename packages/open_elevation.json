@@ -5,6 +5,10 @@
   "description": "OpenStreetMap Elevation API MultiSync Client for Nim",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-open-elevation",
+  "commit": {
+    "hash": "74551b54991570c0103665bec7cfb19b195fd326",
+    "time": 1559844276
+  },
   "tags": [
     "openstreetmap",
     "geo",

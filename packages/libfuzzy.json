@@ -5,6 +5,10 @@
   "description": "libfuzzy/ssdeep wrapper",
   "license": "GPL-2.0-only",
   "web": "https://github.com/srozb/nim-libfuzzy",
+  "commit": {
+    "hash": "362d39ac496754489e93dd441e3e7810a2ff91fa",
+    "time": 1665000468
+  },
   "versions": [
     {
       "tag": "v0.1.1",

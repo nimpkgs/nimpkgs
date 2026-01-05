@@ -5,6 +5,10 @@
   "description": "pas2nim is a tool to translate Pascal code to Nim.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/pas2nim",
+  "commit": {
+    "hash": "cec4c960267e19fb7248f025b776644686da850b",
+    "time": 1424968606
+  },
   "tags": [
     "app",
     "binary",

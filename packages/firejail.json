@@ -5,6 +5,10 @@
   "description": "Firejail wrapper for Nim, Isolate your Production App before its too late!",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-firejail",
+  "commit": {
+    "hash": "f716b534a55b0fefb7401d0a7a29f4ffebfbdae6",
+    "time": 1686011489
+  },
   "tags": [
     "firejail",
     "security",

@@ -5,6 +5,10 @@
   "description": "libsodium wrapper",
   "license": "LGPLv3",
   "web": "https://github.com/FedericoCeratto/nim-libsodium",
+  "commit": {
+    "hash": "144d6d8d8d0d789e5e2649385276d83f61e9dc26",
+    "time": 1700588742
+  },
   "tags": [
     "wrapper",
     "library",

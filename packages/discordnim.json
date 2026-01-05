@@ -5,6 +5,10 @@
   "description": "Discord library for Nim",
   "license": "MIT",
   "web": "https://github.com/Krognol/discordnim",
+  "commit": {
+    "hash": "dab2e9fe6a0fd190d17e1d96f92168aa78398c7f",
+    "time": 1579184271
+  },
   "tags": [
     "library",
     "discord"

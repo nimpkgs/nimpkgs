@@ -5,6 +5,10 @@
   "description": "Tor helper library",
   "license": "LGPLv3",
   "web": "https://github.com/FedericoCeratto/nim-tor",
+  "commit": {
+    "hash": "f3e20d2c71f21ca17cac109e22120cf9ad37801c",
+    "time": 1602436761
+  },
   "tags": [
     "library",
     "security",

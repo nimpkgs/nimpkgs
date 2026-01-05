@@ -5,6 +5,10 @@
   "description": "A fast compressor for short strings",
   "license": "MIT",
   "web": "https://github.com/onionhammer/shoconim",
+  "commit": {
+    "hash": "f398de07893fe09a9d921dd3f354adb62b0e3a56",
+    "time": 1398476175
+  },
   "tags": [
     "compression",
     "shoco"

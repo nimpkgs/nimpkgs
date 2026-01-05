@@ -5,6 +5,10 @@
   "description": "Implementation of XML DOM Level 2 Core specification (https://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html)",
   "license": "MIT",
   "web": "https://github.com/nim-lang/graveyard/tree/master/xmldom",
+  "commit": {
+    "hash": "cca4055a063e2469de820495ec403a0c11ba837f",
+    "time": 1661381415
+  },
   "tags": [
     "graveyard",
     "xml",

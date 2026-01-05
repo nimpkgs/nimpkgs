@@ -5,6 +5,10 @@
   "description": "HIP / CUDA programming library for Nim.",
   "license": "MIT",
   "web": "https://monofuel.github.io/hippo/",
+  "commit": {
+    "hash": "75e27942a6f1b2f094cb8dcbc6555845ff4e6ea2",
+    "time": 1762582992
+  },
   "tags": [
     "cuda",
     "hip",

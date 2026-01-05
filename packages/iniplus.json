@@ -5,6 +5,10 @@
   "description": "An extended INI parser for Nim.",
   "license": "BSD-3-Clause",
   "web": "https://pony.biz/iniplus/",
+  "commit": {
+    "hash": "d02192d740655734d02852e981eef26d0a468fe5",
+    "time": 1745790813
+  },
   "versions": [
     {
       "tag": "v0.3.3",

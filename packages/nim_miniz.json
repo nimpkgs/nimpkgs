@@ -5,6 +5,10 @@
   "description": "Nim wrapper for miniz",
   "license": "MIT",
   "web": "https://github.com/h3rald/nim-miniz",
+  "commit": {
+    "hash": "b47edf871f2c780b72dcce7da232ef5afee57d56",
+    "time": 1584802429
+  },
   "versions": [
     {
       "tag": "v1.0.0",

@@ -5,6 +5,10 @@
   "description": "A simple terminal tetris in Nim",
   "license": "MIT",
   "web": "https://github.com/jiro4989/nimtetris",
+  "commit": {
+    "hash": "fc40d5b92729eab20f936a485259f76d6845bfb4",
+    "time": 1595097179
+  },
   "versions": [
     {
       "tag": "v1.2.0",

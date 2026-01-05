@@ -5,6 +5,10 @@
   "description": "buju (布局) is a simple layout engine, based on layout.h",
   "license": "MIT",
   "web": "https://github.com/haoyu234/buju",
+  "commit": {
+    "hash": "d4d214ec3f1d545fe3fc13f2ca8d47c32848bd57",
+    "time": 1763389455
+  },
   "versions": [
     {
       "tag": "v0.2.3",

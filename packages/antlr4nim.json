@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/jan0sc/antlr4nim",
   "doc": "https://jan0sc.github.io/antlr4nim.html",
+  "commit": {
+    "hash": "2fae39da82e97eec9ac496a3b5227db761bb4c18",
+    "time": 1613582651
+  },
   "versions": [
     {
       "tag": "v0.1.0",

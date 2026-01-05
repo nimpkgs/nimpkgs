@@ -5,6 +5,10 @@
   "description": "Library for reading KeePass files and decrypt the passwords within it",
   "license": "MIT",
   "web": "https://github.com/PMunch/libkeepass",
+  "commit": {
+    "hash": "a4de15a9121e50d782ddb108c4f8ba14bb61dbb1",
+    "time": 1719345634
+  },
   "versions": [
     {
       "tag": "v0.4.0",

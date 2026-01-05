@@ -5,6 +5,10 @@
   "description": "Nim's function chaining and method cascading",
   "license": "MIT",
   "web": "https://github.com/khchen/chain",
+  "commit": {
+    "hash": "09bfc377c8294c9bb3ddd1e14f61746bcd5da739",
+    "time": 1624562199
+  },
   "tags": [
     "macro",
     "with",

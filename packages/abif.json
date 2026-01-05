@@ -5,6 +5,10 @@
   "description": "Parser for ABIF traces (output of capillary DNA sequencing machines)",
   "license": "MIT",
   "web": "https://quadram-institute-bioscience.github.io/nim-abif",
+  "commit": {
+    "hash": "45f17023cd9acb04b0c177865129b6694450b631",
+    "time": 1761473356
+  },
   "tags": [
     "abif",
     "fastq",

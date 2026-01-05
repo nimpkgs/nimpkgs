@@ -5,6 +5,10 @@
   "description": "Amazon Web Services (AWS) APIs",
   "license": "MIT",
   "web": "https://github.com/disruptek/atoz",
+  "commit": {
+    "hash": "0b480b90e42e3aedabd29c30000964431b8bd161",
+    "time": 1716329699
+  },
   "tags": [
     "aws",
     "api",

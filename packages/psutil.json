@@ -5,6 +5,10 @@
   "description": "psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network). Since 2018 maintained by Juan Carlos because was abandoned.",
   "license": "BSD",
   "web": "https://github.com/johnscillieri/psutil-nim",
+  "commit": {
+    "hash": "65098a9a8f0de164cbbfcc0256cb6b458e1b6535",
+    "time": 1705060016
+  },
   "tags": [
     "psutil",
     "process",

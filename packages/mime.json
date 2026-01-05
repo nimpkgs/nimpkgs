@@ -5,6 +5,10 @@
   "description": "Library for attaching files to emails.",
   "license": "MIT",
   "web": "https://github.com/enthus1ast/nimMime",
+  "commit": {
+    "hash": "7bc2fcf5b60e9212b602508efd19cd8640decb77",
+    "time": 1692902061
+  },
   "versions": [
     {
       "tag": "v0.0.3",

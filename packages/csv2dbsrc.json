@@ -5,6 +5,10 @@
   "description": "create db util sources from csv",
   "license": "MIT",
   "web": "https://github.com/z-kk/csv2dbsrc",
+  "commit": {
+    "hash": "33ec1db36381b344b80bdf87b51aaf100159f075",
+    "time": 1743942834
+  },
   "versions": [
     {
       "tag": "v0.5.3",

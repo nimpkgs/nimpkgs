@@ -5,6 +5,10 @@
   "description": "A sinatra-like web framework for Nim.",
   "license": "MIT",
   "web": "https://github.com/dom96/jester",
+  "commit": {
+    "hash": "ac9b8541dce64feff9b53b700cab8496c1816651",
+    "time": 1702337460
+  },
   "versions": [
     {
       "tag": "v0.6.0",

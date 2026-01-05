@@ -5,6 +5,10 @@
   "description": "RPC implementation for Nim based on msgpack4nim",
   "license": "MIT",
   "web": "https://github.com/milisarge/nimrpc_milis",
+  "commit": {
+    "hash": "a5cb5d7e8b5d1509ce376b893d5bfbdaf720473c",
+    "time": 1502394735
+  },
   "tags": [
     "msgpack",
     "library",

@@ -5,6 +5,10 @@
   "description": "A CLI tool to check files (and registry in Windows)",
   "license": "MIT",
   "web": "https://github.com/thisago/checkif",
+  "commit": {
+    "hash": "c534e6428dc3fb72dc22f003c86de6f4d2792bef",
+    "time": 1662505393
+  },
   "tags": [
     "windows",
     "fs",

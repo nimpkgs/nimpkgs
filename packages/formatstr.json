@@ -5,6 +5,10 @@
   "description": "string interpolation, complement of std/strformat for runtime strings",
   "license": "MIT",
   "web": "https://github.com/guibar64/formatstr",
+  "commit": {
+    "hash": "6e04abf1f4f778e5bfb75d8d040947971a305f0e",
+    "time": 1674030616
+  },
   "versions": [
     {
       "tag": "v0.2.1",

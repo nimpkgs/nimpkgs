@@ -5,6 +5,10 @@
   "description": "timsort algorithm implemented in Nim",
   "license": "Apache-2.0",
   "web": "https://github.com/xrfez/timsort",
+  "commit": {
+    "hash": "0d3bd10951e6a7daa1f2b9655aead53d1e217bb5",
+    "time": 1662930096
+  },
   "tags": [
     "sort",
     "timsort",

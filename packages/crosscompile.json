@@ -5,6 +5,10 @@
   "description": "Crosscompile Nim source code into multiple targets on Linux with this proc.",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-crosscompile",
+  "commit": {
+    "hash": "11fc502471f4384f14f9606c243e84cfd4b20b5f",
+    "time": 1539559984
+  },
   "tags": [
     "crosscompile",
     "compile"

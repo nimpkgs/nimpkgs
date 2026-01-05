@@ -5,6 +5,10 @@
   "description": "Red/Black Trees",
   "license": "MIT",
   "web": "https://github.com/Nycto/RBTreeNim",
+  "commit": {
+    "hash": "8f702af02aadb45b53d2bbcbead028332538f569",
+    "time": 1696098365
+  },
   "tags": [
     "tree",
     "binary search tree",

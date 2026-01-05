@@ -5,6 +5,10 @@
   "description": "Convert big numbers to what's pleasant to see (an adorable, little girl, perhaps?) ... in Nim!",
   "license": "MIT",
   "web": "https://github.com/bichanna/millie.nim",
+  "commit": {
+    "hash": "5b2b65b5f2bbe2611e5ecefd2d1c1a7ef5333020",
+    "time": 1650387368
+  },
   "tags": [
     "millify",
     "number",

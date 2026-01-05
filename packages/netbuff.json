@@ -5,6 +5,10 @@
   "description": "Fast and unsafe byte buffering for intensive network data transfer.",
   "license": "MIT",
   "web": "https://github.com/jakubDoka/netbuff",
+  "commit": {
+    "hash": "fd344f9cadc594957f74d75568651b31e9d1c066",
+    "time": 1622756180
+  },
   "versions": [
     {
       "tag": "v0.1.1",

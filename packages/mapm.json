@@ -5,6 +5,10 @@
   "description": "Nim wrapper for MAPM, an arbitrary maths library with support for trig functions",
   "license": "MIT+Freeware",
   "web": "https://github.com/PMunch/mapm-nim",
+  "commit": {
+    "hash": "b9d4c2a90dbbbac29c51c7fe927d6b97e4a2bf5f",
+    "time": 1752673413
+  },
   "versions": [
     {
       "tag": "v0.4.0",

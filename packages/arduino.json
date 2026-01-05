@@ -5,6 +5,10 @@
   "description": "Arduino bindings for Nim",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/nim-arduino",
+  "commit": {
+    "hash": "ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
+    "time": 1622193361
+  },
   "tags": [
     "arduino",
     "platformio",

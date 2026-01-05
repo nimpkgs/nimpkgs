@@ -5,6 +5,10 @@
   "description": "uleb128 decoding/encoding for Nim.",
   "license": "MIT",
   "web": "https://github.com/bk20x/uleb128",
+  "commit": {
+    "hash": "ac95a85eff64d85190e7548acbd55dc0fad6574f",
+    "time": 1762699886
+  },
   "tags": [
     "encode",
     "decode",

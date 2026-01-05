@@ -5,6 +5,10 @@
   "description": "Rust-like tuple enums",
   "license": "MIT",
   "web": "https://github.com/beef331/fungus",
+  "commit": {
+    "hash": "6f2fa4947b9025cfed7d4cf4da7cf639778155e3",
+    "time": 1751910414
+  },
   "versions": [
     {
       "tag": "v0.1.19",

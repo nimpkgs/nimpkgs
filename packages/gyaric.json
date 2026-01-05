@@ -5,6 +5,10 @@
   "description": "gyaric is a module to encode/decode text to unreadable gyaru's text.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/gyaric",
+  "commit": {
+    "hash": "daf1a4dc68dae6b7469197ff92573d6095fbe9f2",
+    "time": 1595579408
+  },
   "versions": [
     {
       "tag": "v1.0.2",

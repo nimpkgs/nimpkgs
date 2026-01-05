@@ -5,6 +5,10 @@
   "description": "Yet another raylib Nim wrapper",
   "license": "MIT",
   "web": "https://github.com/planetis-m/naylib",
+  "commit": {
+    "hash": "88d6b66dba243d14ba870e726e3646cdf7c9d6cb",
+    "time": 1766494589
+  },
   "versions": [
     {
       "tag": "v25.51.1",

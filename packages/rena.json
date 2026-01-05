@@ -5,6 +5,10 @@
   "description": "rena is a tiny fire/directory renaming command.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/rena",
+  "commit": {
+    "hash": "4b45cda084d2ee6ee897687197527162b1d6ae78",
+    "time": 1614992083
+  },
   "versions": [
     {
       "tag": "v1.0.1",

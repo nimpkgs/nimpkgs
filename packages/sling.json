@@ -5,6 +5,10 @@
   "description": "Signal and Slot library for Nim.",
   "license": "unlicense",
   "web": "https://github.com/Druage/sling",
+  "commit": {
+    "hash": "d73bed23a55755b562576d4a8e86f3700409e3cf",
+    "time": 1457325558
+  },
   "tags": [
     "signal",
     "slots",

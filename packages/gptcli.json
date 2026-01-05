@@ -5,6 +5,10 @@
   "description": "chatgpt cli client written in nim",
   "license": "GPL-3.0-or-later",
   "web": "https://github.com/jaredmontoya/gptcli",
+  "commit": {
+    "hash": "0612ccc141f45e70f766dbe92a748542cb7ad6a2",
+    "time": 1709220573
+  },
   "tags": [
     "client",
     "cli",

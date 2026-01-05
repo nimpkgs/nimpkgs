@@ -5,6 +5,10 @@
   "description": "Systemd service notification helper",
   "license": "MIT",
   "web": "https://github.com/FedericoCeratto/nim-sdnotify",
+  "commit": {
+    "hash": "e1e6861f88a4546db640f5fc88572ccdb933f794",
+    "time": 1485123370
+  },
   "tags": [
     "os",
     "linux",

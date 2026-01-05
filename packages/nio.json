@@ -5,6 +5,10 @@
   "description": "Low Overhead Numerical/Native IO library & tools",
   "license": "MIT",
   "web": "https://github.com/c-blake/nio",
+  "commit": {
+    "hash": "0be97eefd69d41178dd90d80bd1c51ed2bcdefc1",
+    "time": 1758202095
+  },
   "tags": [
     "mmap",
     "memory-mapping",

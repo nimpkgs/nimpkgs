@@ -5,6 +5,10 @@
   "description": "A nimble package for improving your Nim code",
   "license": "MIT",
   "web": "https://github.com/glassesneo/seiryu",
+  "commit": {
+    "hash": "06bf3068aaa3d6fbd0cbe9cd091f94e60d7526b3",
+    "time": 1741185752
+  },
   "tags": [
     "assertions",
     "design-by-contract",

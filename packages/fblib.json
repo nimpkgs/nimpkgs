@@ -5,6 +5,10 @@
   "description": "FictionBook2 library and tools.",
   "license": "MIT",
   "web": "https://github.com/survivorm/fblib",
+  "commit": {
+    "hash": "34a3b07626bc65649cbe0ae376b9785dfe9ac014",
+    "time": 1674574881
+  },
   "tags": [
     "fb2",
     "fictionbook",

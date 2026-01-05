@@ -5,6 +5,10 @@
   "description": "Nim / Python library to feed HTTP server quickly with custom messages",
   "license": "MIT",
   "web": "https://github.com/marcomq/batchsend",
+  "commit": {
+    "hash": "95337cf49dd4d000b01ae16925ba82831026b853",
+    "time": 1647083838
+  },
   "tags": [
     "fast",
     "multithreaded",

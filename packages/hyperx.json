@@ -5,6 +5,10 @@
   "description": "Pure Nim http2 client and server",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-hyperx",
+  "commit": {
+    "hash": "3d201afa8998a9537e3928f487d0ff765960c49c",
+    "time": 1751339132
+  },
   "versions": [
     {
       "tag": "v0.1.57",

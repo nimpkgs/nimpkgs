@@ -5,6 +5,10 @@
   "description": "A small but practical concatenative programming language and shell.",
   "license": "MIT",
   "web": "https://min-lang.org",
+  "commit": {
+    "hash": "f28cc1c9ec53d7afc90851e4fd066664bece962e",
+    "time": 1730125501
+  },
   "versions": [
     {
       "tag": "v0.46.0",

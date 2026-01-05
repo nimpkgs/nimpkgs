@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A system for generating remote-procedure-calls for any pair of server and client",
   "license": "MIT",
+  "commit": {
+    "hash": "a39f0ad8dbf6ed5ba55452968584279d2324cb8c",
+    "time": 1687723762
+  },
   "versions": [
     {
       "tag": "v0.2.2",

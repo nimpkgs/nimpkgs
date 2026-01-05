@@ -5,6 +5,10 @@
   "description": "Allows to write distributed programs for number crunching easily.",
   "license": "MIT",
   "web": "https://github.com/willi-kappler/num_crunch",
+  "commit": {
+    "hash": "8ab6584e268aef86d16711f3b930d8a907ee3eef",
+    "time": 1703002531
+  },
   "versions": [
     {
       "tag": "v0.1.0",

@@ -5,6 +5,10 @@
   "description": "MacOS/OSX system util wrappers for CFCore and the like",
   "license": "Apache-2.0",
   "web": "https://github.com/elcritch/macosutils",
+  "commit": {
+    "hash": "bb2c2ca53b6650a4a82f63db09b527e6fd570ac8",
+    "time": 1736992582
+  },
   "versions": [
     {
       "tag": "v0.3.2",

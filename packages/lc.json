@@ -5,6 +5,10 @@
   "description": "A post-modern, \"multi-dimensional\" configurable ls/file lister",
   "license": "MIT",
   "web": "https://github.com/c-blake/lc",
+  "commit": {
+    "hash": "014795aec68d643a98f512af0007aaebe2fbc4c5",
+    "time": 1752933446
+  },
   "versions": [
     {
       "tag": "v0.9.3",

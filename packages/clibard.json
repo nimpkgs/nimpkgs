@@ -5,6 +5,10 @@
   "description": "Command line interface for Google Bard",
   "license": "GPL-3.0-or-later",
   "web": "https://github.com/thisago/clibard",
+  "commit": {
+    "hash": "8b52e626b033848fbe7fecb554f22e5e366a780e",
+    "time": 1695082438
+  },
   "tags": [
     "cli",
     "bard",

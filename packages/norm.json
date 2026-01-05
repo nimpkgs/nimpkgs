@@ -5,6 +5,10 @@
   "description": "Nim ORM.",
   "license": "MIT",
   "web": "https://github.com/moigagoo/norm",
+  "commit": {
+    "hash": "a85322a5e0b472356603d83c1efa36f00d923a5c",
+    "time": 1759938627
+  },
   "tags": [
     "orm",
     "db",

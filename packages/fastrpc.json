@@ -5,6 +5,10 @@
   "description": "fast binary rpc designed for embedded",
   "license": "Apache-2.0",
   "web": "https://github.com/elcritch/fastrpc",
+  "commit": {
+    "hash": "73365a4c14eb0db4400c008889560638911d3ac1",
+    "time": 1761397392
+  },
   "tags": [
     "rpc",
     "msgpack",

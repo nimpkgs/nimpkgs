@@ -5,6 +5,10 @@
   "description": "Simple reST HTML generation with some extras.",
   "license": "MIT",
   "web": "https://github.com/Araq/lazy_rest",
+  "commit": {
+    "hash": "dddffda34b56a640d8f30f6d50796fdc93b344f9",
+    "time": 1421691105
+  },
   "versions": [
     {
       "tag": "v0.2.2",

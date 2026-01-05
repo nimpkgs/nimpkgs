@@ -5,6 +5,10 @@
   "description": "Simple web to share books, Calibre, Jester, Spectre CSS, No JavaScript, WebP & ZIP to reduce bandwidth",
   "license": "GPL",
   "web": "https://github.com/juancarlospaco/biblioteca-guarrilla",
+  "commit": {
+    "hash": "1fc83dc423b5b2452c414e224c068bbd081fbd4f",
+    "time": 1559847682
+  },
   "tags": [
     "books",
     "calibre",

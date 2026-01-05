@@ -5,6 +5,10 @@
   "description": "The fast, small and liberally licensed pffft fast-fourier-transform (FFT) library wrapped for Nim",
   "license": "BSD-3-Clause",
   "web": "https://github.com/capocasa/pffft",
+  "commit": {
+    "hash": "d473bafc3ea6712707c5b2b0850bf81ed2f2b912",
+    "time": 1750684737
+  },
   "tags": [
     "fft",
     "math",

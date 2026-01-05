@@ -5,6 +5,10 @@
   "description": "A nice and icy ZSH prompt in Nim",
   "license": "MIT",
   "web": "https://github.com/icyphox/nicy",
+  "commit": {
+    "hash": "530072eeebb4d801dc4ffc5f62447c12c8799073",
+    "time": 1595859384
+  },
   "versions": [
     {
       "tag": "v2.5.1",

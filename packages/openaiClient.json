@@ -5,6 +5,10 @@
   "description": "Openai API client For Nim",
   "license": "MIT",
   "web": "https://github.com/Uzo2005/openai",
+  "commit": {
+    "hash": "4ca96b9adaae4d034fd1a7b0ff3da605be57663c",
+    "time": 1725292103
+  },
   "tags": [
     "openai",
     "webclient",

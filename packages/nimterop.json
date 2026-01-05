@@ -5,6 +5,10 @@
   "description": "Nimterop makes C/C++ interop within Nim seamless",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimterop",
+  "commit": {
+    "hash": "2532ce0d3c4b7e5a2be94ebde22d63ec9f0eb6d3",
+    "time": 1680546041
+  },
   "versions": [
     {
       "tag": "v0.6.13",

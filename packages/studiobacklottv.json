@@ -5,6 +5,10 @@
   "description": "Studio Backlot TV video extractor",
   "license": "MIT",
   "web": "https://github.com/thisago/studiobacklottv",
+  "commit": {
+    "hash": "d985d244d4013b5cf640361d7bb8f10cff1b3443",
+    "time": 1661703986
+  },
   "tags": [
     "video",
     "studiobacklot",

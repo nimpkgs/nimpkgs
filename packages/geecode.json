@@ -5,6 +5,10 @@
   "description": "G-Code parser",
   "license": "MIT",
   "web": "https://github.com/elcritch/geecode",
+  "commit": {
+    "hash": "77110cfdc7f72e07f780b7aa367384a9d1f34a3f",
+    "time": 1764175456
+  },
   "tags": [
     "gcode",
     "parser",

@@ -5,6 +5,10 @@
   "description": "X-Pixmap & NetPBM",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/xpm",
+  "commit": {
+    "hash": "6c46c93f28e54a466b76acf4689f17451f64c68b",
+    "time": 1585779413
+  },
   "tags": [
     "netpbm",
     "xpm"

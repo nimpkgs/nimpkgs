@@ -5,6 +5,10 @@
   "description": "A cache library.",
   "license": "MIT",
   "web": "https://github.com/planety/cached",
+  "commit": {
+    "hash": "86832d22e5cbd66d4922500fb04f4391475b852b",
+    "time": 1581649596
+  },
   "tags": [
     "cache"
   ]

@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Checks if a provided string is actually a correct IP address. Supports detection of Class A to D of IPv4 addresses.",
   "license": "GPL-3.0-or-later",
+  "commit": {
+    "hash": "ead604c504bce6eb149ab42191bdde2de652569a",
+    "time": 1625270806
+  },
   "tags": [
     "akito",
     "ip",

@@ -5,6 +5,10 @@
   "description": "Nim library to get/set a hostname",
   "license": "Apache-2.0",
   "web": "https://github.com/rominf/nim-hostname",
+  "commit": {
+    "hash": "d517210adedf7f6c708393ddd20fd7a93504f262",
+    "time": 1610267887
+  },
   "tags": [
     "android",
     "bsd",

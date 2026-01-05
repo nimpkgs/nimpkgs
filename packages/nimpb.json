@@ -5,6 +5,10 @@
   "description": "A Protocol Buffers library for Nim",
   "license": "MIT",
   "web": "https://github.com/oswjk/nimpb",
+  "commit": {
+    "hash": "67e38c9fb76e45423078f8cfc89df743b0518367",
+    "time": 1630228971
+  },
   "tags": [
     "serialization",
     "protocol-buffers",

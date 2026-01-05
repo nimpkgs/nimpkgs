@@ -5,6 +5,10 @@
   "description": "Nim bindings for GLFW library.",
   "license": "MIT",
   "web": "https://github.com/rafaelvasco/nimrod-glfw",
+  "commit": {
+    "hash": "b5d128f3620a9f535ba30330ac8616719bbe10e7",
+    "time": 1537583156
+  },
   "tags": [
     "library",
     "glfw",

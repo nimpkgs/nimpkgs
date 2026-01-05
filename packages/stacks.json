@@ -5,6 +5,10 @@
   "description": "Pure Nim stack implementation based on sequences.",
   "license": "MIT",
   "web": "https://github.com/rustomax/nim-stacks",
+  "commit": {
+    "hash": "3562d2d98c3cb282a9f20e985c83d34a8ec5f2b9",
+    "time": 1733286519
+  },
   "tags": [
     "stack",
     "data-structure"

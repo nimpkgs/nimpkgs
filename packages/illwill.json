@@ -5,6 +5,10 @@
   "description": "A curses inspired simple cross-platform console library for Nim",
   "license": "WTFPL",
   "web": "https://github.com/johnnovak/illwill",
+  "commit": {
+    "hash": "99a120f7f69868b94f5d35ce7e21dd12535de70c",
+    "time": 1714885389
+  },
   "versions": [
     {
       "tag": "v0.4.1",

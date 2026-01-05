@@ -5,6 +5,10 @@
   "description": "A collection of geometry utilities for nim",
   "license": "MIT",
   "web": "https://github.com/pseudo-random/geometryutils",
+  "commit": {
+    "hash": "553ff09471fd2646aad8443c9639ea7b91fca626",
+    "time": 1603660107
+  },
   "versions": [
     {
       "tag": "v1.2.0",

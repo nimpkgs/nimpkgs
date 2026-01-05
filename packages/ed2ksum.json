@@ -5,6 +5,10 @@
   "description": "ED2Ksum hash calculation",
   "license": "MIT",
   "web": "https://github.com/infinoid/ed2ksum.nim",
+  "commit": {
+    "hash": "ff2cd6242933156ae796737f58e46c3269f63254",
+    "time": 1742347714
+  },
   "tags": [
     "ed2ksum",
     "hash"

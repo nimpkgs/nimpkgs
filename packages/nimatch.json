@@ -5,6 +5,10 @@
   "description": "Rust-like match syntax macros for Nim",
   "license": "MIT",
   "web": "https://github.com/voidpunk/NiMatch",
+  "commit": {
+    "hash": "a34dc184557e9bf52ff2e3650405a906ecc74aba",
+    "time": 1744586878
+  },
   "tags": [
     "match",
     "rust",

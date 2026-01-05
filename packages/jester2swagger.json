@@ -5,6 +5,10 @@
   "description": "Converts a file with Jester routes to Swagger JSON which can be imported in Postman.",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/jester2swagger",
+  "commit": {
+    "hash": "88dd86859c47730773f4507d7a986a1c0fc7963a",
+    "time": 1638005395
+  },
   "tags": [
     "jester",
     "swagger",

@@ -5,6 +5,10 @@
   "description": "KDialog Qt5 Wrapper, easy API, KISS design",
   "license": "LGPLv3",
   "web": "https://github.com/juancarlospaco/nim-kdialog",
+  "commit": {
+    "hash": "6bd827130c48e3ddf4aaa29adfd395bed0d1afe4",
+    "time": 1559844413
+  },
   "tags": [
     "kdialog",
     "qt5",

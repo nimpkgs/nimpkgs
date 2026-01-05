@@ -5,6 +5,10 @@
   "description": "Play MineSweeper on CLI",
   "license": "MIT",
   "web": "https://github.com/KerorinNorthFox/MineSweeper_on_CLI",
+  "commit": {
+    "hash": "1e3248ac4d60b65c17e3e0d58ace9c97c716eeee",
+    "time": 1695027189
+  },
   "versions": [
     {
       "tag": "v1.2.2",

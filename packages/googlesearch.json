@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/xyb/googlesearch.nim",
   "doc": "https://xyb.github.io/googlesearch.nim/",
+  "commit": {
+    "hash": "222b7b9aaf48b13c491d65f6d0eb1948cf35947b",
+    "time": 1647528448
+  },
   "versions": [
     {
       "tag": "v0.4.2",

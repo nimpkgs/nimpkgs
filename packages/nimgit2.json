@@ -5,6 +5,10 @@
   "description": "libgit2 wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimgit2",
+  "commit": {
+    "hash": "f217acf5dbecb887205f57b7c20e228009ac18f4",
+    "time": 1603912960
+  },
   "versions": [
     {
       "tag": "v0.3.4",

@@ -5,6 +5,10 @@
   "description": "Genetic Algorithm Library for Nim.",
   "license": "MIT",
   "web": "https://github.com/toshikiohnogi/nimga",
+  "commit": {
+    "hash": "b3721f321bb0c716ecfb7c8d9250452bb2756bb8",
+    "time": 1569201712
+  },
   "tags": [
     "GeneticAlgorithm",
     "nimga"

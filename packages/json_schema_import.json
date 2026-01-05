@@ -5,6 +5,10 @@
   "description": "Converts JSON schema definitions to nim types",
   "license": "MIT",
   "web": "https://github.com/Nycto/NimJsonSchemaImporter",
+  "commit": {
+    "hash": "6875be792dd9d7bb119b104a79a08863d6954d6b",
+    "time": 1765298037
+  },
   "tags": [
     "json",
     "schema"

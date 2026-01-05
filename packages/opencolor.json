@@ -5,6 +5,10 @@
   "description": "Nim bindings for Open color",
   "license": "MIT",
   "web": "https://github.com/Double-oxygeN/opencolor.nim",
+  "commit": {
+    "hash": "dacf2cfc1662735567f9427e5165814aee9ca912",
+    "time": 1634796471
+  },
   "versions": [
     {
       "tag": "v1.9.1.1",

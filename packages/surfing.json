@@ -5,6 +5,10 @@
   "description": "Surfing is a highly functional CLI for Base64.",
   "license": "MIT",
   "web": "https://github.com/momeemt/surfing",
+  "commit": {
+    "hash": "7506e9cd5297747565d8214bee9cbd81afa51af7",
+    "time": 1631992227
+  },
   "versions": [
     {
       "tag": "ver.0.1.0",

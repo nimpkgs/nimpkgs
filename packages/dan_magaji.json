@@ -14,5 +14,6 @@
     "udp",
     "extensible",
     "server"
-  ]
+  ],
+  "status": "Unreachable"
 }

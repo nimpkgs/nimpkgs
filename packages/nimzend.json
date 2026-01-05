@@ -5,6 +5,10 @@
   "description": "Native Nim Zend API glue for easy PHP extension development.",
   "license": "MIT",
   "web": "https://github.com/metatexx/nimzend",
+  "commit": {
+    "hash": "a418e30936772c2cb975696f5388475cf94214e0",
+    "time": 1466435080
+  },
   "tags": [
     "zend",
     "php",

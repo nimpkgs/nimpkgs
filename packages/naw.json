@@ -5,6 +5,10 @@
   "description": "A glue wrapper to do awk-style text processing with Nim",
   "license": "MIT",
   "web": "https://github.com/capocasa/naw",
+  "commit": {
+    "hash": "dfa0a9c6b99b87fe6c737525c58757655bdcf8c2",
+    "time": 1592212479
+  },
   "tags": [
     "awk",
     "csv",

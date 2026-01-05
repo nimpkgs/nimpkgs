@@ -5,6 +5,10 @@
   "description": "library for libharu",
   "license": "MIT",
   "web": "https://github.com/z-kk/libharu",
+  "commit": {
+    "hash": "c2adeb84243a21064542f405c7fae9da0d620166",
+    "time": 1652962988
+  },
   "versions": [
     {
       "tag": "v0.1.0",

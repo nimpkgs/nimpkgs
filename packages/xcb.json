@@ -5,6 +5,10 @@
   "description": "xcb bindings",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/xcb",
+  "commit": {
+    "hash": "253bb6afedbe743b64ca76da1c3a76949ee6be07",
+    "time": 1688757307
+  },
   "versions": [
     {
       "tag": "v0.2.1",

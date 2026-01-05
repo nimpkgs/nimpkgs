@@ -5,6 +5,10 @@
   "description": "Python-like repr, ascii, hex/oct/bin, ...",
   "license": "MIT",
   "web": "https://nimpylib.org",
+  "commit": {
+    "hash": "e940365283150b421a997b1fb69df53e5d8aabba",
+    "time": 1766156848
+  },
   "versions": [
     {
       "tag": "v0.1.1",

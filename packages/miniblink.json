@@ -5,6 +5,10 @@
   "description": "A miniblink library for nim.",
   "license": "MIT",
   "web": "https://github.com/lihf8515/miniblink",
+  "commit": {
+    "hash": "78bd220395bff34e4edd1eec450b302b257e1603",
+    "time": 1588983154
+  },
   "tags": [
     "miniblink",
     "nim"

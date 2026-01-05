@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
   "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/",
+  "commit": {
+    "hash": "427aaba97a5c39148bfda0c1843773bbb852a888",
+    "time": 1662013853
+  },
   "tags": [
     "listenbrainz",
     "api"

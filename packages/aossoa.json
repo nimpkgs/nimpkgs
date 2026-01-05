@@ -5,6 +5,10 @@
   "description": "Use a Structure of Arrays like an Array of Structures",
   "license": "MIT",
   "web": "https://github.com/guibar64/aossoa",
+  "commit": {
+    "hash": "444e6cdf71f4af898f64340b3daf23f72cd94e39",
+    "time": 1636305111
+  },
   "versions": [
     {
       "tag": "v0.1.0",

@@ -5,6 +5,10 @@
   "description": "xam",
   "license": "MIT",
   "web": "https://github.com/j-a-s-d/xam",
+  "commit": {
+    "hash": "9d44f7851511e41bd6ecf8fb6754433e80f25d2e",
+    "time": 1678721694
+  },
   "tags": [
     "multipurpose",
     "productivity",

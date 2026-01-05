@@ -5,6 +5,10 @@
   "description": "A simple clap-like command line argument parser written in Nim",
   "license": "MIT",
   "web": "https://github.com/AinTEAsports/nclap",
+  "commit": {
+    "hash": "099573fee6ead6acf9ac8778d9d387aab8d45dc5",
+    "time": 1757859267
+  },
   "tags": [
     "cli",
     "argument",

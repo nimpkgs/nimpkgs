@@ -5,6 +5,10 @@
   "description": "Implementation of wcwidth with Nim.",
   "license": "MIT",
   "web": "https://github.com/shoyu777/wcwidth-nim",
+  "commit": {
+    "hash": "86f8db1a883f6a64e590a56aed81e788389b7196",
+    "time": 1665667912
+  },
   "versions": [
     {
       "tag": "v0.1.3",

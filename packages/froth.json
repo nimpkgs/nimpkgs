@@ -5,6 +5,10 @@
   "description": "tagged pointer types with destructors",
   "license": "MIT",
   "web": "https://github.com/metagn/froth",
+  "commit": {
+    "hash": "53ce2d0b338750650613568e6333a416cc3b6c5c",
+    "time": 1729938731
+  },
   "tags": [
     "pointer",
     "taggedpointer",

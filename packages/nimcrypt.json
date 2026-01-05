@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/napalu/nimcrypt",
   "doc": "https://github.com/napalu/nimcrypt",
+  "commit": {
+    "hash": "e92a62f67ee13e2484e18117924395c9c347e88d",
+    "time": 1692107662
+  },
   "versions": [
     {
       "tag": "v1.0.1",

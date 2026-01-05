@@ -5,6 +5,10 @@
   "description": "Awaitable threadpool",
   "license": "MIT",
   "web": "https://github.com/yglukhov/asyncthreadpool",
+  "commit": {
+    "hash": "a215c48fa516593ede9a706c60a31b39435587a3",
+    "time": 1747405635
+  },
   "tags": [
     "async",
     "threadpool",

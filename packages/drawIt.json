@@ -5,6 +5,10 @@
   "description": "Nim Terminal User Interface library for plotting graphs and drawing shapes in the terminal, uses unicode chars and colours!",
   "license": "Apache-2.0",
   "web": "https://gitlab.com/OFThomas/drawIt",
+  "commit": {
+    "hash": "fcca80d648e409d0015b687d7d4356f640e79754",
+    "time": 1750892282
+  },
   "versions": [
     {
       "tag": "v0.6.1",

@@ -5,6 +5,10 @@
   "description": "Simple package for query HTML/XML elements using a CSS3 or jQuery-like selector syntax",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/q.nim",
+  "commit": {
+    "hash": "7931d15c8e5bbd50a3d1188fc95fd9fd347cb130",
+    "time": 1642128133
+  },
   "tags": [
     "css",
     "selector",

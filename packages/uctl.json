@@ -4,6 +4,10 @@
   "method": "git",
   "description": "a small UNIX control & query cli, for battery status, screen brightness, console font, etc.",
   "license": "MIT",
+  "commit": {
+    "hash": "58a547df2ba5da6f86726c3688317562083aa941",
+    "time": 1767623128
+  },
   "versions": [
     {
       "tag": "v0.1.1",

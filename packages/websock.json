@@ -5,6 +5,10 @@
   "description": " Websocket server and client implementation",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-websock",
+  "commit": {
+    "hash": "5e9bcac3257afc53e91bf4d79e9804eafe0728d0",
+    "time": 1763706471
+  },
   "versions": [
     {
       "tag": "v0.2.1",

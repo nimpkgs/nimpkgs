@@ -5,6 +5,10 @@
   "description": "Protobuf implementation in pure Nim that leverages the power of the macro system to not depend on any external tools",
   "license": "MIT",
   "web": "https://github.com/PMunch/protobuf-nim",
+  "commit": {
+    "hash": "b09f1c9503b4ccfb39079504ea0eac5eb2a4e209",
+    "time": 1697533541
+  },
   "versions": [
     {
       "tag": "v0.5.4",

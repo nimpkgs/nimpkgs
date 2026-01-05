@@ -5,6 +5,10 @@
   "description": "Bindings for CFITSIO, a library to read/write FITSIO images and tables.",
   "license": "MIT",
   "web": "https://github.com/ziotom78/nimcfitsio",
+  "commit": {
+    "hash": "b4f2c41382185c9883d310c13d6e7afb8193d0b9",
+    "time": 1686825961
+  },
   "tags": [
     "library",
     "binding",

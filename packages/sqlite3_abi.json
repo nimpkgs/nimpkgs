@@ -5,6 +5,10 @@
   "description": "A wrapper for SQLite",
   "license": "Apache License 2.0 or MIT",
   "web": "https://github.com/arnetheduck/nim-sqlite3-abi",
+  "commit": {
+    "hash": "6797c31836bff377bf50f1ac7bf8122449bf99ba",
+    "time": 1764393746
+  },
   "versions": [
     {
       "tag": "v3.51.1.0",

@@ -5,6 +5,10 @@
   "description": "Basic power menu for Linux (with systemd)",
   "license": "BSD-2-Clause",
   "web": "https://codeberg.org/wreed/powernim",
+  "commit": {
+    "hash": "d6dc45cc57a6c6ca72b3ff40371961e4d89e2882",
+    "time": 1662099418
+  },
   "tags": [
     "menu",
     "powermenu",

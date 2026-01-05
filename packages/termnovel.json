@@ -5,6 +5,10 @@
   "description": "A command that to read novel on terminal",
   "license": "MIT",
   "web": "https://github.com/jiro4989/termnovel",
+  "commit": {
+    "hash": "56efda80499338c2e11e733aa70ea221afaa7f7b",
+    "time": 1569226115
+  },
   "tags": [
     "cli",
     "novel",

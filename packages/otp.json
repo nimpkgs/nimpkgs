@@ -5,6 +5,10 @@
   "description": "One Time Password library for Nim",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/otp.nim",
+  "commit": {
+    "hash": "8dc44b06f89b0006811d376a85013dc615f690af",
+    "time": 1696646650
+  },
   "tags": [
     "otp",
     "hotp",

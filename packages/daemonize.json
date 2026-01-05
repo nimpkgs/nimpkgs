@@ -5,6 +5,10 @@
   "description": "This library makes your code run as a daemon process on Unix-like systems",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/daemonize.nim",
+  "commit": {
+    "hash": "61dc74960cf5b3f2e34fad85a0e5e0076a1c61e9",
+    "time": 1633050235
+  },
   "tags": [
     "daemonize",
     "background",

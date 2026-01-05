@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/stisa/jupyternim/blob/master/README.md",
   "doc": "https://github.com/stisa/jupyternim",
+  "commit": {
+    "hash": "cd931cc85593b1cef58e36e306b69c6e0015c433",
+    "time": 1672439340
+  },
   "versions": [
     {
       "tag": "v0.4.1",

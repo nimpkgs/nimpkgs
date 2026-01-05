@@ -5,6 +5,10 @@
   "description": "Very simple PostgreSQL async api for nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/pg",
+  "commit": {
+    "hash": "77aa815c66fbded8bcebb5aaa11e1ed55ea6e927",
+    "time": 1699035934
+  },
   "versions": [
     {
       "tag": "v0.1.0",

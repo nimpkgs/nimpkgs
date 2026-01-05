@@ -5,6 +5,10 @@
   "description": "Non-mature SIMD-accelerated drop-ins for std/strutils functions",
   "license": "MIT",
   "web": "https://github.com/xTrayambak/kaleidoscope",
+  "commit": {
+    "hash": "ceaa27e1478b08355970f56985bddbac842603c3",
+    "time": 1758961272
+  },
   "tags": [
     "simd",
     "strutils",

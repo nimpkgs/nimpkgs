@@ -10,5 +10,6 @@
     "unix",
     "pwd",
     "password"
-  ]
+  ],
+  "status": "Unreachable"
 }

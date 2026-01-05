@@ -5,6 +5,10 @@
   "description": "Low level wrapper for the fontconfig library.",
   "license": "Fontconfig",
   "web": "https://github.com/Parashurama/fontconfig",
+  "commit": {
+    "hash": "9382f81571f7d8016bf7d871361563981efa7c69",
+    "time": 1490636887
+  },
   "tags": [
     "fontconfig",
     "font"

@@ -5,6 +5,10 @@
   "description": "Transform XML trees into performant JavaScript DOM calls at compile-time.",
   "license": "MIT",
   "web": "https://github.com/schneiderfelipe/xom",
+  "commit": {
+    "hash": "a132f627946ba51d75b80f16ca620bb2ab9023e1",
+    "time": 1626537605
+  },
   "versions": [
     {
       "tag": "v0.1-alpha",

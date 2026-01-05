@@ -5,6 +5,10 @@
   "description": "A terminal file manager written in nim",
   "license": "GPL-3.0",
   "web": "https://github.com/joachimschmidt557/nimmm",
+  "commit": {
+    "hash": "b25b3c47f61241a694c8ed9b52b68bce6ab7b964",
+    "time": 1759665330
+  },
   "versions": [
     {
       "tag": "v0.4.0",

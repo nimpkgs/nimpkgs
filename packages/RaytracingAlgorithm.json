@@ -5,6 +5,10 @@
   "description": "RayTracing Algorith in Nim",
   "license": "GPL-3.0",
   "web": "https://github.com/lorycontixd/RaytracingAlgorithm",
+  "commit": {
+    "hash": "23fd19006e24d7efec3363d76a55dd1d6272825f",
+    "time": 1657974669
+  },
   "versions": [
     {
       "tag": "v2.1.1",

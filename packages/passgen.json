@@ -5,6 +5,10 @@
   "description": "Password generation library in Nim",
   "license": "MIT",
   "web": "https://github.com/rustomax/nim-passgen",
+  "commit": {
+    "hash": "df11ba35b14d2fb316c34502b9592302e6ad4e6f",
+    "time": 1733285500
+  },
   "tags": [
     "password-generator"
   ]

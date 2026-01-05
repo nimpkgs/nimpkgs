@@ -5,6 +5,10 @@
   "description": "Access bit mapped portions of bytes in binary data as int variables",
   "license": "MIT",
   "web": "https://github.com/jlp765/mapbits",
+  "commit": {
+    "hash": "e27d7d3cdea6030d80c46e653ec63848833714c1",
+    "time": 1471041293
+  },
   "tags": [
     "map",
     "bits",

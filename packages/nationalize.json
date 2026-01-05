@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the Nationalize.io API",
   "license": "GPL-3.0-only",
   "web": "https://github.com/nemuelw/nationalize",
+  "commit": {
+    "hash": "2c70ff6fe38ec422d773b4af95dd04255124db18",
+    "time": 1752165971
+  },
   "tags": [
     "nationalize",
     "nationalizeio",

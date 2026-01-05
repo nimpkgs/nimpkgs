@@ -5,6 +5,10 @@
   "description": "XXTEA encryption algorithm library written in pure Nim.",
   "license": "MIT",
   "web": "https://github.com/xxtea/xxtea-nim",
+  "commit": {
+    "hash": "5afa2d679ac6f2eb34714ce894a4eb51bc6e0162",
+    "time": 1621842385
+  },
   "tags": [
     "xxtea",
     "encrypt",

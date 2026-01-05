@@ -5,6 +5,10 @@
   "description": "grab statement for importing Nimble packages, similar to Groovy's Grape",
   "license": "MIT",
   "web": "https://github.com/metagn/grab",
+  "commit": {
+    "hash": "a9d81cf4f265d3990cbd79b61bfaaf2c97851151",
+    "time": 1663402432
+  },
   "versions": [
     {
       "tag": "v0.1.1",

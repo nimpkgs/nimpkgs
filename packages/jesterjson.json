@@ -5,6 +5,10 @@
   "description": "A Jester web plugin that embeds key information into a JSON object.",
   "license": "MIT",
   "web": "https://github.com/JohnAD/jesterjson",
+  "commit": {
+    "hash": "b55bf1d4584e1f715d8a80dddc573fc6bfd17f37",
+    "time": 1592095424
+  },
   "versions": [
     {
       "tag": "v1.0.1",

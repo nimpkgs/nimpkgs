@@ -5,6 +5,10 @@
   "description": "Mustache templating for Nim.",
   "license": "MIT",
   "web": "https://github.com/fenekku/moustachu",
+  "commit": {
+    "hash": "f5d3a1e6454f6c0436b54503bd5f560c178aea2a",
+    "time": 1581180342
+  },
   "tags": [
     "web",
     "html",

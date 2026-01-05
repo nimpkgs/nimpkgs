@@ -5,6 +5,10 @@
   "description": "fs memory zip finder implement in Nim",
   "license": "MIT",
   "web": "https://github.com/bung87/finder",
+  "commit": {
+    "hash": "03be27007be27b2e4f101cfcfe0bde0e90bd4582",
+    "time": 1723092246
+  },
   "versions": [
     {
       "tag": "v0.2.2",

@@ -5,6 +5,10 @@
   "description": "A full tree-sitter (parser generator) clone/re-implementation for nim with powerful macros.",
   "license": "MIT",
   "web": "https://github.com/YesDrX/nim-treestand",
+  "commit": {
+    "hash": "7fb9be48deec3e18128d7f9bbf9c929d89f560db",
+    "time": 1766864645
+  },
   "tags": [
     "tree-sitter",
     "treesitter",

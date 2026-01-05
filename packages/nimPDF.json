@@ -5,6 +5,10 @@
   "description": "library for generating PDF files",
   "license": "MIT",
   "web": "https://github.com/jangko/nimpdf",
+  "commit": {
+    "hash": "9e39d66c334709d51034a249e437cf4ad123dbbe",
+    "time": 1764144923
+  },
   "tags": [
     "library",
     "PDF",

@@ -5,6 +5,10 @@
   "description": "C Tox core wrapper",
   "license": "GPL-3.0",
   "web": "https://git.sr.ht/~ehmry/nim-toxcore",
+  "commit": {
+    "hash": "d4cd34cc618f0a6b6c684c0a17990834dcb0b599",
+    "time": 1647453431
+  },
   "versions": [
     {
       "tag": "v0.4.0",

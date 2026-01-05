@@ -5,6 +5,10 @@
   "description": "Wrapper for SystemVerilog VPI headers vpi_user.h and sv_vpi_user.h",
   "license": "MIT",
   "web": "https://github.com/kaushalmodi/nim-svvpi",
+  "commit": {
+    "hash": "c27f789ef06f477b0cd428f8e70c27782fe07641",
+    "time": 1643211425
+  },
   "versions": [
     {
       "tag": "v0.0.6",

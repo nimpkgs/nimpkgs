@@ -5,6 +5,10 @@
   "description": "A nice way to manage your ImGui application's style",
   "license": "MIT",
   "web": "https://github.com/Patitotective/ImStyle",
+  "commit": {
+    "hash": "72e17f5fc25595a264d068946beff651432cf5c0",
+    "time": 1760092461
+  },
   "tags": [
     "style",
     "imgui",

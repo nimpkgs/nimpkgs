@@ -5,6 +5,10 @@
   "description": "WIP strongly-typed argument parser with sub command support",
   "license": "MIT",
   "doc": "https://www.iffycan.com/nim-argparse/argparse.html",
+  "commit": {
+    "hash": "8485f8cb9d86de9bfa2406ebf3b06691f8066c35",
+    "time": 1723834605
+  },
   "versions": [
     {
       "tag": "v4.0.2",

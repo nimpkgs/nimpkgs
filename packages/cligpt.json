@@ -5,6 +5,10 @@
   "description": "Command line interface for ChatGPT",
   "license": "GPL-3.0",
   "web": "https://github.com/thisago/cligpt",
+  "commit": {
+    "hash": "b9ec584eb35a085d076d76c6c249625d87de26f8",
+    "time": 1694399751
+  },
   "tags": [
     "cli",
     "chatgpt",

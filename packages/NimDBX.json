@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Fast persistent key-value store, based on libmdbx",
   "license": "Apache-2.0",
+  "commit": {
+    "hash": "3a0cabd39297b8d21b225cd0a76a3cac19beac2e",
+    "time": 1680985697
+  },
   "tags": [
     "database",
     "libmdbx",

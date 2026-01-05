@@ -5,6 +5,10 @@
   "description": "Spotlightr basic extractor to get the video",
   "license": "MIT",
   "web": "https://github.com/thisago/spotlightr",
+  "commit": {
+    "hash": "d12ecf7dc4f8bf146fa00248941700278392c5c5",
+    "time": 1689544383
+  },
   "tags": [
     "library",
     "extractor",

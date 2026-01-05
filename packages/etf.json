@@ -5,6 +5,10 @@
   "description": "ETF (Erlang Term Format) library for nim",
   "license": "MIT",
   "web": "https://github.com/metagn/etf",
+  "commit": {
+    "hash": "e0b77f78180e5c4d18e4b51d17fc95861035c1da",
+    "time": 1692378624
+  },
   "tags": [
     "etf",
     "erlang",

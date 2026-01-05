@@ -5,6 +5,10 @@
   "description": "ANOther pure NIm MONGO driver.",
   "license": "MIT",
   "web": "https://mashingan.github.io/anonimongo/src/htmldocs/anonimongo.html",
+  "commit": {
+    "hash": "c7ad1ff0369e81b0d20090aa1b254ddf62776e24",
+    "time": 1705256129
+  },
   "versions": [
     {
       "tag": "v0.7.2",

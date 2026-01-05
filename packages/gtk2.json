@@ -5,6 +5,10 @@
   "description": "Wrapper for gtk2, a feature rich toolkit for creating graphical user interfaces",
   "license": "MIT",
   "web": "https://github.com/nim-lang/gtk2",
+  "commit": {
+    "hash": "f953f3a6a117e8a9dbdb5cc98adf564e6d8f6509",
+    "time": 1615203690
+  },
   "versions": [
     {
       "tag": "v1.3",

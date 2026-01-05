@@ -5,6 +5,10 @@
   "description": "Write HTML templates easily",
   "license": "MIT",
   "web": "https://github.com/ajusa/dekao",
+  "commit": {
+    "hash": "64f392fc6af423d949d3c99ee0343b8b7fdba59e",
+    "time": 1733381992
+  },
   "tags": [
     "html",
     "template",

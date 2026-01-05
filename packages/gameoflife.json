@@ -5,6 +5,10 @@
   "description": "gameoflife is library for Game of Life.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/gameoflife",
+  "commit": {
+    "hash": "9d45f2784dfe6f677941ae9d61344486f723e2b6",
+    "time": 1710910769
+  },
   "versions": [
     {
       "tag": "v1.4.0",

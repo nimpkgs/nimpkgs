@@ -5,6 +5,10 @@
   "description": "calendar with local holidays via ip location",
   "license": "MIT",
   "web": "https://github.com/inv2004/ccal",
+  "commit": {
+    "hash": "3dad50ec017bea659be2cb70f59c9b57ad2b4fd8",
+    "time": 1764802650
+  },
   "versions": [
     {
       "tag": "v0.4.6",

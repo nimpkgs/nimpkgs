@@ -5,6 +5,10 @@
   "description": "Unsafe in-place slicing",
   "license": "MIT",
   "web": "https://github.com/ReneSac/memviews",
+  "commit": {
+    "hash": "21b91e87eec1a29608c22c068cb126712bc2fe0f",
+    "time": 1678231283
+  },
   "tags": [
     "library",
     "slice",

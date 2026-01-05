@@ -5,6 +5,10 @@
   "description": "Nim module for parsing SRT (SubRip) subtitle files",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-srt",
+  "commit": {
+    "hash": "b067afa091088fb52cc37cb44515f265b1aa0e0e",
+    "time": 1556138509
+  },
   "tags": [
     "srt",
     "subrip",

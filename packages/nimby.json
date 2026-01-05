@@ -5,6 +5,10 @@
   "description": "Unofficial package manager and installer.",
   "license": "MIT",
   "web": "https://github.com/treeform/nimby",
+  "commit": {
+    "hash": "aaf58a87385ab006fc20698d9c75112a40080ef0",
+    "time": 1763763969
+  },
   "versions": [
     {
       "tag": "v0.1.5",

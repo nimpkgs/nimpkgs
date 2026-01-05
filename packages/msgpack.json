@@ -5,6 +5,10 @@
   "description": "A MessagePack binding for Nim",
   "license": "MIT",
   "web": "https://github.com/akiradeveloper/msgpack-nim",
+  "commit": {
+    "hash": "3e36b57f1755be629ee07da74f5f14df5a321c0c",
+    "time": 1570876453
+  },
   "tags": [
     "msgpack",
     "library",

@@ -5,6 +5,10 @@
   "description": "IMAP client library",
   "license": "GPL2",
   "web": "https://git.sr.ht/~ehmry/nim_imap",
+  "commit": {
+    "hash": "dfd95505661052a86c9acf728669395846ce8cdf",
+    "time": 1539204503
+  },
   "versions": [
     {
       "tag": "v0.3.0",

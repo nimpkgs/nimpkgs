@@ -5,6 +5,10 @@
   "description": "Sampling profiler that finds hot paths in your code.",
   "license": "MIT",
   "web": "https://github.com/treeform/hottie",
+  "commit": {
+    "hash": "86a839f60f90e65bd39cc79a4958dadccca40bb7",
+    "time": 1686850597
+  },
   "tags": [
     "profile",
     "timing",

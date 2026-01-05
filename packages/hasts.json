@@ -5,6 +5,10 @@
   "description": "AST for various languages",
   "license": "Apache-2.0",
   "web": "https://github.com/haxscramper/hasts",
+  "commit": {
+    "hash": "e526a3b4f0b95285dea3435576d59a547d8b6289",
+    "time": 1644907846
+  },
   "versions": [
     {
       "tag": "v0.1.6",

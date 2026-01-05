@@ -5,6 +5,10 @@
   "description": "A comprehensive toolkit for all your testing needs",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-testutils",
+  "commit": {
+    "hash": "e4d37dc1652d5c63afb89907efb5a5e812261797",
+    "time": 1752489767
+  },
   "versions": [
     {
       "tag": "v0.8.0",

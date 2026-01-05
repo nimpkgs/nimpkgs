@@ -5,6 +5,10 @@
   "description": "A package that makes creating macros easier",
   "license": "MIT",
   "web": "https://github.com/PMunch/macroutils",
+  "commit": {
+    "hash": "e6357d428f3888c3b0c068a9e2bd0cf66d25e3cd",
+    "time": 1638527206
+  },
   "versions": [
     {
       "tag": "v1.2.0",

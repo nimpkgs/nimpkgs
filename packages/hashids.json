@@ -5,6 +5,10 @@
   "description": "Nim implementation of Hashids",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-hashids",
+  "commit": {
+    "hash": "e83754f45d2a2efb5efdef569e17ff80240261ca",
+    "time": 1538871789
+  },
   "tags": [
     "library",
     "hashids"

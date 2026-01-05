@@ -5,6 +5,10 @@
   "description": "Say hissatsuwaza (special attack) on your terminal.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/sayhissatsuwaza",
+  "commit": {
+    "hash": "6a8ede292ed448ea2e1284fb06de9d5642285c3f",
+    "time": 1623110884
+  },
   "versions": [
     {
       "tag": "v0.8.0",

@@ -5,6 +5,10 @@
   "description": "WebDAV Client for Nim",
   "license": "MIT",
   "web": "https://github.com/beshrkayali/webdavclient",
+  "commit": {
+    "hash": "bbdd40250a8bb7448ffb0c4e1017e43924ea81eb",
+    "time": 1603115137
+  },
   "tags": [
     "webdav",
     "library",

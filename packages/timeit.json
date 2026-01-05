@@ -5,6 +5,10 @@
   "description": "measuring execution times written in nim.",
   "license": "MIT",
   "web": "https://github.com/ringabout/timeit",
+  "commit": {
+    "hash": "a4e4d5def29feddccc3cff93ebb0e946bfe64f27",
+    "time": 1667736348
+  },
   "versions": [
     {
       "tag": "v0.3.6",

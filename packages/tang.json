@@ -5,6 +5,10 @@
   "description": "Elegant sugar",
   "license": "MIT",
   "web": "https://github.com/5-6-1/tang-nim",
+  "commit": {
+    "hash": "e4be17e835e72e59ecd8c9adb396f63211e67112",
+    "time": 1749121616
+  },
   "versions": [
     {
       "tag": "v0.1.0",

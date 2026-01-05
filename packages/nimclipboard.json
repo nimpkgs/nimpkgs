@@ -5,6 +5,10 @@
   "description": "Nim wrapper for libclipboard",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimclipboard",
+  "commit": {
+    "hash": "666f37ce461d6914a7c1818bc31e1ec97593e7bb",
+    "time": 1541219699
+  },
   "versions": [
     {
       "tag": "v0.1.2",

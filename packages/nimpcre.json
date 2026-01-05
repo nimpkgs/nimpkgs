@@ -5,6 +5,10 @@
   "description": "PCRE wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimpcre",
+  "commit": {
+    "hash": "45bec139aaac903cb0619b7923cf12f6d4b65c77",
+    "time": 1590007005
+  },
   "versions": [
     {
       "tag": "v0.2.1",

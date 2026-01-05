@@ -5,6 +5,10 @@
   "description": "Euclidean Division & Euclidean Modulo",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-euclidean",
+  "commit": {
+    "hash": "62d18ebf79434dc382a75effa5a7f936e9515893",
+    "time": 1572867029
+  },
   "tags": [
     "euclidean",
     "modulo",

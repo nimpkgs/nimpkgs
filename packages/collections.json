@@ -5,6 +5,10 @@
   "description": "Various collections and utilities",
   "license": "MIT",
   "web": "https://github.com/zielmicha/collections.nim",
+  "commit": {
+    "hash": "11d16f6418ce6b3adbd02e3e5fcebbba377fd0ba",
+    "time": 1547960330
+  },
   "versions": [
     {
       "tag": "v0.5.2",

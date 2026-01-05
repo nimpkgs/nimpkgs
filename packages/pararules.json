@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A rules engine",
   "license": "Public Domain",
+  "commit": {
+    "hash": "32201d723f59a8f695e7cae6d66892f51ed97b4a",
+    "time": 1696521987
+  },
   "tags": [
     "rules",
     "rete"

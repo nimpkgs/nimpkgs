@@ -5,6 +5,10 @@
   "description": "Game Library in Nim with SDL2",
   "license": "MIT",
   "web": "https://github.com/Double-oxygeN/tinamou",
+  "commit": {
+    "hash": "e951247b8cd3bbe0ad5d5add334d0ce8c1358bd5",
+    "time": 1553829818
+  },
   "tags": [
     "game",
     "sdl2"

@@ -5,6 +5,10 @@
   "description": "Wrapper for the DevIL image library",
   "license": "MIT",
   "web": "https://github.com/Varriount/DevIL",
+  "commit": {
+    "hash": "23b5c1fd9012244411435587d43bb33089b02f12",
+    "time": 1395364918
+  },
   "tags": [
     "image",
     "library",

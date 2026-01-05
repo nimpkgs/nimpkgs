@@ -5,6 +5,10 @@
   "description": "A tool to capture and replay command line terminal sessions",
   "license": "Apache-2.0",
   "web": "https://github.com/crashappsec/cap10",
+  "commit": {
+    "hash": "ff5eab30d6069f98c850b09688886958b1c9c085",
+    "time": 1701797516
+  },
   "versions": [
     {
       "tag": "v0.2.0",

@@ -5,6 +5,10 @@
   "description": "Pure Nim asyncronous driver for Redis DB",
   "license": "MIT",
   "web": "https://github.com/Q-Master/redis.nim",
+  "commit": {
+    "hash": "07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
+    "time": 1645043860
+  },
   "versions": [
     {
       "tag": "v0.8.2",

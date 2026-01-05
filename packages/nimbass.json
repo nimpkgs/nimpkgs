@@ -5,6 +5,10 @@
   "description": "Bass wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimbass",
+  "commit": {
+    "hash": "0e0786bb2959a130c2d78fe14c9ae087f36449ea",
+    "time": 1593842983
+  },
   "versions": [
     {
       "tag": "v0.2.0",

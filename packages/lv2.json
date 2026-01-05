@@ -5,6 +5,10 @@
   "description": "Nim bindings for LV2",
   "license": "GPL-3.0",
   "web": "https://gitlab.com/lpirl/lv2-nim",
+  "commit": {
+    "hash": "bfbd72608528fd540d4375d1217ac69bc9410867",
+    "time": 1621255637
+  },
   "versions": [
     {
       "tag": "v0.1",

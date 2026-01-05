@@ -5,6 +5,10 @@
   "description": "Library for displaying notifications on the desktop",
   "license": "MIT",
   "web": "https://github.com/dom96/notifications",
+  "commit": {
+    "hash": "5c30d45ea7235446647858bc50b2a24f0b5b1cb8",
+    "time": 1520547240
+  },
   "versions": [
     {
       "tag": "v0.1.0",

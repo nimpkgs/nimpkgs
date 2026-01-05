@@ -5,6 +5,10 @@
   "description": "Nim wrapper around the ngtcp2 library",
   "license": "MIT",
   "web": "https://github.com/status-im/nim-ngtcp2",
+  "commit": {
+    "hash": "791eb859145f9f268eb23eb9cbe777bdd7699c4d",
+    "time": 1760578854
+  },
   "versions": [
     {
       "tag": "v0.39.0",

@@ -5,6 +5,10 @@
   "description": "Cozy Task Pool for threaded concurrency based on tasks and channels.",
   "license": "GPL-2.0-or-later",
   "web": "https://github.com/indiscipline/cozytaskpool",
+  "commit": {
+    "hash": "0bf6f6b0af4cc72b8986153e845742588a5cf3ca",
+    "time": 1714651685
+  },
   "versions": [
     {
       "tag": "v0.1.1",

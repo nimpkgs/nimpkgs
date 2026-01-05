@@ -5,6 +5,10 @@
   "description": "Calculate the next semver version given the git log and previous version",
   "license": "MIT",
   "web": "https://gitlab.com/SimplyZ/conventional_semver",
+  "commit": {
+    "hash": "fa6385a7e8f7f9fb3d78c5b51546fe775c5a1e3f",
+    "time": 1641770823
+  },
   "tags": [
     "semver",
     "conventional",

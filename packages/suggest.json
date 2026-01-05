@@ -5,6 +5,10 @@
   "description": "mmap-persistent SymSpell spell checking algorithm",
   "license": "MIT",
   "web": "https://github.com/c-blake/suggest.git",
+  "commit": {
+    "hash": "4e459aa423fb076cbad58a07145bc13b53d54adc",
+    "time": 1740087720
+  },
   "versions": [
     {
       "tag": "v.13",

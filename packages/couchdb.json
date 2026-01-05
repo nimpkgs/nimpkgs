@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A library for managing your CouchDB. Easy & comfortably to use.",
   "license": "GPL-3.0-or-later",
+  "commit": {
+    "hash": "f89ca16c6c8f3661c082659efc2f5402f20c5c40",
+    "time": 1640040819
+  },
   "tags": [
     "akito",
     "database",

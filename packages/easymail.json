@@ -5,6 +5,10 @@
   "description": "wrapper for the sendmail command",
   "license": "MIT",
   "web": "https://github.com/coocheenin/easymail",
+  "commit": {
+    "hash": "e33edbe62ddadfdf359c9cb423594a72840132ac",
+    "time": 1553616422
+  },
   "versions": [
     {
       "tag": "v0.1.0",

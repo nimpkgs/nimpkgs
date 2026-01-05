@@ -5,6 +5,10 @@
   "description": "Plugin system for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/plugins",
+  "commit": {
+    "hash": "d35f59eb772250d852ed1a786f1c8b97b4143c98",
+    "time": 1594502492
+  },
   "versions": [
     {
       "tag": "v0.1.2",

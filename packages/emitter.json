@@ -5,6 +5,10 @@
   "description": "Supranim's Event Emitter - Subscribe & listen for various events within your application",
   "license": "MIT",
   "web": "https://github.com/supranim/emitter",
+  "commit": {
+    "hash": "3cff217bc430a925940602e046363f938b296d10",
+    "time": 1712849680
+  },
   "tags": [
     "events",
     "event-emitter",

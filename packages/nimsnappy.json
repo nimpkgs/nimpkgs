@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the snappy compression library. there is also a high-level API for easy use",
   "license": "BSD",
   "web": "https://github.com/dfdeshom/nimsnappy",
+  "commit": {
+    "hash": "afe16cc7a0f9568a5451a0fb600c843cbedae9c4",
+    "time": 1515432850
+  },
   "tags": [
     "wrapper",
     "compression"

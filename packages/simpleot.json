@@ -5,6 +5,10 @@
   "description": "Simple OT wrapper",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/simpleot.nim",
+  "commit": {
+    "hash": "2f4671f378bf6ef3e1c1241c09243c72bd42ed29",
+    "time": 1592469588
+  },
   "versions": [
     {
       "tag": "v0.5.1",

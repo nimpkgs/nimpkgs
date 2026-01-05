@@ -6,6 +6,10 @@
   "license": "GPL-3.0",
   "web": "https://github.com/markpbaggett/oaitools.nim",
   "doc": "https://markpbaggett.github.io/oaitools.nim/",
+  "commit": {
+    "hash": "078941b81383118a6dd3cb35b64dbe3ed5835367",
+    "time": 1583080746
+  },
   "versions": [
     {
       "tag": "v0.2.5",

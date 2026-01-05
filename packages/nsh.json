@@ -5,6 +5,10 @@
   "description": "nsh: Nim SHell(cross platform)",
   "license": "MIT",
   "web": "https://github.com/gmshiba/nish",
+  "commit": {
+    "hash": "3687312f5cbdb8fe982dc3ed2e82ceada1650ec8",
+    "time": 1544777963
+  },
   "tags": [
     "shell",
     "repl"

@@ -5,6 +5,10 @@
   "description": "IPC interface to sway (or i3) compositors",
   "license": "MIT",
   "web": "https://github.com/disruptek/swayipc",
+  "commit": {
+    "hash": "8a79447278569593e02f2dae5678ade9cbf3f0d6",
+    "time": 1609348212
+  },
   "tags": [
     "wayland",
     "sway",

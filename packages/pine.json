@@ -5,6 +5,10 @@
   "description": "Nim Static Blog & Site Generator",
   "license": "MIT",
   "web": "https://github.com/Willyboar/pine",
+  "commit": {
+    "hash": "1142e06fdcffe1bacb461d712a5b59df58c0612a",
+    "time": 1573005093
+  },
   "versions": [
     {
       "tag": "v0.2.0",

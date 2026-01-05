@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A library for using YAML with Nim",
   "license": "Unlicense",
+  "commit": {
+    "hash": "4304089cabbc61bac64192874faf34250a56a6e2",
+    "time": 1731988232
+  },
   "versions": [
     {
       "tag": "v1.3.0",

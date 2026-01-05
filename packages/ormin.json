@@ -5,6 +5,10 @@
   "description": "Prepared SQL statement generator. A lightweight ORM.",
   "license": "MIT",
   "web": "https://github.com/Araq/ormin",
+  "commit": {
+    "hash": "2f584239731dc84ddb7bbbbd5c91fbbced5ec30e",
+    "time": 1762284389
+  },
   "tags": [
     "ORM",
     "SQL",

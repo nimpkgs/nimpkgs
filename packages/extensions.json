@@ -5,6 +5,10 @@
   "description": "A library that will add useful tools to Nim's arsenal.",
   "license": "MIT",
   "web": "https://github.com/jyapayne/nim-extensions",
+  "commit": {
+    "hash": "45a9fad9616a342f3a67f2fa7b581c899dcab7c7",
+    "time": 1600272799
+  },
   "tags": [
     "library",
     "extensions",

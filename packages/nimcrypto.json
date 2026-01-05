@@ -5,6 +5,10 @@
   "description": "Nim cryptographic library",
   "license": "MIT",
   "web": "https://github.com/cheatfate/nimcrypto",
+  "commit": {
+    "hash": "423ea4fed8de6f4544b7e3b30d868f527ed3b947",
+    "time": 1767620777
+  },
   "versions": [
     {
       "tag": "v0.7.3",

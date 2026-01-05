@@ -5,6 +5,10 @@
   "description": "A wrapper around liblo for the Open Sound Control (OSC) protocol",
   "license": "MIT",
   "web": "https://github.com/Psirus/NimOSC",
+  "commit": {
+    "hash": "ccb70fd05b5632df81bf323f252d6c719f8d60cf",
+    "time": 1612467449
+  },
   "tags": [
     "OSC",
     "sound",

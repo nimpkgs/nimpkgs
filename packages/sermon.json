@@ -5,6 +5,10 @@
   "description": "Monitor the state and memory of processes and URL response.",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_sermon",
+  "commit": {
+    "hash": "1ea2211f54379c66013979eadac26b08ea25bb4f",
+    "time": 1567331635
+  },
   "versions": [
     {
       "tag": "v0.3.1",

@@ -5,6 +5,10 @@
   "description": "REXPaint .xp parser",
   "license": "MIT",
   "web": "https://github.com/irskep/rexpaint_nim",
+  "commit": {
+    "hash": "b176b54274ac7527adf62ca75f139fa179c44852",
+    "time": 1539495631
+  },
   "tags": [
     "rexpaint",
     "roguelike",

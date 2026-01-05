@@ -5,6 +5,10 @@
   "description": "event emitter for nim",
   "license": "MIT",
   "web": "https://github.com/al-bimani/eventemitter",
+  "commit": {
+    "hash": "f498d8531afe5f41b1d6dfbbd8ba45eb859510a9",
+    "time": 1761325906
+  },
   "tags": [
     "eventemitter",
     "events",

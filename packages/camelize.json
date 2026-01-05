@@ -5,6 +5,10 @@
   "description": "Convert json node to camelcase",
   "license": "MIT",
   "web": "https://github.com/kixixixixi/camelize",
+  "commit": {
+    "hash": "0be04a7ffcb86994f9787431fe0f8a3a26f2db67",
+    "time": 1600335636
+  },
   "versions": [
     {
       "tag": "v0.2.1",

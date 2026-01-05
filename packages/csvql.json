@@ -5,6 +5,10 @@
   "description": "csvql.",
   "license": "MIT",
   "web": "https://github.com/Bennyelg/csvql",
+  "commit": {
+    "hash": "171cf3dd68beeb15112a4264b7f23cd09ee7f1c5",
+    "time": 1576271952
+  },
   "tags": [
     "csv",
     "read",

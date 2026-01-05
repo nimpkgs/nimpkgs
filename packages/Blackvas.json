@@ -5,6 +5,10 @@
   "description": "declarative UI framework for building Canvas",
   "license": "MIT",
   "web": "https://github.com/momeemt/Blackvas",
+  "commit": {
+    "hash": "79b4bf2ae763d2acd0fb67e73838b858a722e519",
+    "time": 1599975696
+  },
   "tags": [
     "canvas",
     "html",

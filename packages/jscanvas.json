@@ -5,6 +5,10 @@
   "description": "a wrapper for the Canvas API",
   "license": "MIT",
   "web": "https://github.com/planetis-m/jscanvas",
+  "commit": {
+    "hash": "8fb011b5da355236484ffd6263bb037dafb18553",
+    "time": 1570546731
+  },
   "versions": [
     {
       "tag": "v0.1.0",

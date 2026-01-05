@@ -5,6 +5,10 @@
   "description": "Various Layonara related functions for NWN Development",
   "license": "MIT",
   "web": "https://github.com/plenarius/layonara_nwn",
+  "commit": {
+    "hash": "74e32813181deda77523c64c2245ca523e5e1f82",
+    "time": 1609575103
+  },
   "tags": [
     "layonara",
     "nwn",

@@ -5,6 +5,10 @@
   "description": "Wrapper for Allegro version 5.X",
   "license": "MIT",
   "web": "https://github.com/fowlmouth/allegro5",
+  "commit": {
+    "hash": "61083998d02abc03e6fc0ac1e08525aa171c8585",
+    "time": 1425555679
+  },
   "versions": [
     {
       "tag": "v1.0",

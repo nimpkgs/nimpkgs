@@ -5,6 +5,10 @@
   "description": "CRC32, 2 proc, copied from RosettaCode.",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-crc32",
+  "commit": {
+    "hash": "bc075990b8a1d4547560fd42c4238ce0514f1802",
+    "time": 1767015219
+  },
   "tags": [
     "crc32",
     "checksum",

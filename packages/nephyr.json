@@ -5,6 +5,10 @@
   "description": "Nim wrapper for Zephyr RTOS",
   "license": "Apache-2.0",
   "web": "https://github.com/EmbeddedNim/nephyr",
+  "commit": {
+    "hash": "c2c29c5acaad56ee78e798d5b1c5b695ddc71b82",
+    "time": 1658969727
+  },
   "versions": [
     {
       "tag": "v0.1.0-alpha",

@@ -5,6 +5,10 @@
   "description": "Ethereum Web3 API",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-web3",
+  "commit": {
+    "hash": "5c3bbadd9c0179f1a2ef828afebdf58d88d2ec03",
+    "time": 1766397744
+  },
   "versions": [
     {
       "tag": "v0.8.0",

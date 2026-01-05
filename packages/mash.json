@@ -5,6 +5,10 @@
   "description": "A very precise musical virtual keyboard for Jack MIDI",
   "license": "MIT",
   "web": "https://github.com/capocasa/mash",
+  "commit": {
+    "hash": "ef0867f3381295a15400f879da42f982baaf3d3e",
+    "time": 1750365754
+  },
   "tags": [
     "MIDI",
     "jack",

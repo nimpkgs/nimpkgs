@@ -5,6 +5,10 @@
   "description": "Wrapper of the libtcod library for the Nim language.",
   "license": "zlib",
   "web": "https://github.com/Vladar4/libtcod_nim",
+  "commit": {
+    "hash": "3f9be2188ff08fa503af9f9d8cc83ac0a1dffc1f",
+    "time": 1608237784
+  },
   "versions": [
     {
       "tag": "v1.112.1",

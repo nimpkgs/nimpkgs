@@ -5,6 +5,10 @@
   "description": "NodeJS Standard Library for Nim",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nodestdlib",
+  "commit": {
+    "hash": "51b3ea20a98a3779126f3a2422f5dcd27da4c1b6",
+    "time": 1766059835
+  },
   "tags": [
     "javascript",
     "node"

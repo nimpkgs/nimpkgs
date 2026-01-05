@@ -5,6 +5,10 @@
   "description": "Bindings for the IUP widget toolkit",
   "license": "MIT",
   "web": "https://github.com/nim-lang/iup",
+  "commit": {
+    "hash": "06a282580f50099b7bd712d7c0db1541dd548c40",
+    "time": 1632142228
+  },
   "tags": [
     "GUI",
     "IUP"

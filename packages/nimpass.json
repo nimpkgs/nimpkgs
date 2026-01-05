@@ -5,6 +5,10 @@
   "description": "quickly generate cryptographically secure passwords and phrases",
   "license": "MIT",
   "web": "https://github.com/xioren/NimPass",
+  "commit": {
+    "hash": "00896cf6535ecf15ff5406ff0bf7fb98d308bfe2",
+    "time": 1636207189
+  },
   "versions": [
     {
       "tag": "v1.2.1",

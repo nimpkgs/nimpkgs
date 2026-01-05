@@ -5,6 +5,10 @@
   "description": "Microsoft Azure Cloud Computing Platform and Services (MAC) APIs",
   "license": "MIT",
   "web": "https://github.com/disruptek/bluu",
+  "commit": {
+    "hash": "f6accb5b57ec68c199e2a011b5e9156e08f4f173",
+    "time": 1579929218
+  },
   "tags": [
     "microsoft",
     "azure",

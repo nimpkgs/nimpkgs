@@ -5,6 +5,10 @@
   "description": "Fast and simple calculation of polygenic scores",
   "license": "MIT",
   "web": "https://github.com/mpinese/nimpress/",
+  "commit": {
+    "hash": "5b7f150565b93852396f2ab8fcd2864422825340",
+    "time": 1606037638
+  },
   "versions": [
     {
       "tag": "v1.0.0",

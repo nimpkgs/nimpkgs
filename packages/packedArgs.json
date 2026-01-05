@@ -5,6 +5,10 @@
   "description": "a convention mainly created for `createThread` proc",
   "license": "MIT",
   "web": "https://github.com/hamidb80/packedArgs",
+  "commit": {
+    "hash": "ec10c257925f80e6dd9be98e32ce2a2bb35118e3",
+    "time": 1668960656
+  },
   "tags": [
     "thread",
     "convention",

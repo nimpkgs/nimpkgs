@@ -4,6 +4,10 @@
   "method": "git",
   "description": "unroll for-loops (and map into seq/array) at compile-time in nim",
   "license": "MIT",
+  "commit": {
+    "hash": "0216f30847976da0d67fd905c6b3487e44c45564",
+    "time": 1701023334
+  },
   "versions": [
     {
       "tag": "v0.1.1",

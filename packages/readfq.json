@@ -5,6 +5,10 @@
   "description": "Wrapper for Heng Li's kseq",
   "license": "MIT",
   "web": "https://github.com/andreas-wilm/nimreadfq",
+  "commit": {
+    "hash": "5a685b578fd57e286d3e88df979c6591b9f5f6ba",
+    "time": 1687945580
+  },
   "versions": [
     {
       "tag": "v0.1.1",

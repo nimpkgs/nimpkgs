@@ -5,6 +5,10 @@
   "description": "High level, asynchronous file API mimicking Python's file interface.",
   "license": "ISC",
   "web": "https://github.com/fallingduck/asyncpythonfile-nim",
+  "commit": {
+    "hash": "47232f14d8625ccd13c3159e0a174edb50de4633",
+    "time": 1497137261
+  },
   "versions": [
     {
       "tag": "v0.1.0",

@@ -5,6 +5,10 @@
   "description": "Old Win API library for Nim",
   "license": "LGPL with static linking exception",
   "web": "https://github.com/nim-lang/oldwinapi",
+  "commit": {
+    "hash": "8b34de48ac98702708a2ee20305d327416725d1e",
+    "time": 1519951720
+  },
   "versions": [
     {
       "tag": "v2.1.0",

@@ -5,6 +5,10 @@
   "description": "A command and library to generate mazes",
   "license": "MIT",
   "web": "https://github.com/jiro4989/maze",
+  "commit": {
+    "hash": "6d8f56837f4ece89703ccfc4dae1b22413a303be",
+    "time": 1574694245
+  },
   "tags": [
     "maze",
     "cli",

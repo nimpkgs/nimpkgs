@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/JohnAD/ur",
   "doc": "https://github.com/JohnAD/ur/blob/master/docs/ur.rst",
+  "commit": {
+    "hash": "d5a3a6fc1e1f0af3ab4c71868b97f0e92c2bdcb4",
+    "time": 1531013808
+  },
   "versions": [
     {
       "tag": "v0.1.1",

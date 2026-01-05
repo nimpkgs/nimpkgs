@@ -5,6 +5,10 @@
   "description": "Tiny random number generator.",
   "license": "CC0",
   "web": "https://github.com/IcedQuinn/splitmix64",
+  "commit": {
+    "hash": "63d49f1792f075a41b935d5669660809eb6f5012",
+    "time": 1647648762
+  },
   "tags": [
     "random"
   ]

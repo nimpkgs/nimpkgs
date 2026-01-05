@@ -5,6 +5,10 @@
   "description": "A db_sqlite fork with a proper typing",
   "license": "MIT",
   "web": "https://github.com/xzfc/ndb.nim",
+  "commit": {
+    "hash": "d942f882c63e9abebe9b2dd8fa5be597c46763b1",
+    "time": 1671902737
+  },
   "versions": [
     {
       "tag": "v0.19.9",

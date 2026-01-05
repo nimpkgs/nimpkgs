@@ -5,6 +5,10 @@
   "description": "A website management tool. Run the file and access your webpage.",
   "license": "PPL",
   "web": "https://nimwc.org/",
+  "commit": {
+    "hash": "fe5d5d55648d571206be5b5c00fab6f6a9266b87",
+    "time": 1708677424
+  },
   "versions": [
     {
       "tag": "v6.2.0",

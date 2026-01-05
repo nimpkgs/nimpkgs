@@ -5,6 +5,10 @@
   "description": "Simple validator and utils for Yubikey OTP",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_yubikey_otp",
+  "commit": {
+    "hash": "280d12cfd035910317c09d8b4d95c116233c3f29",
+    "time": 1739285695
+  },
   "versions": [
     {
       "tag": "v0.1.3",

@@ -5,6 +5,10 @@
   "description": "A library to handle measurement uncertainties",
   "license": "MIT",
   "web": "https://github.com/SciNim/Measuremancer",
+  "commit": {
+    "hash": "9d9dacb0f131f099704d026cbbddc97024985a59",
+    "time": 1729010356
+  },
   "versions": [
     {
       "tag": "v0.2.9",

@@ -5,6 +5,10 @@
   "description": "Zero-wrapping C imports in Nim",
   "license": "MIT",
   "web": "https://github.com/PMunch/futhark",
+  "commit": {
+    "hash": "0bdce95552b99c139ae5cbd34feb5c7e294a8124",
+    "time": 1763971184
+  },
   "versions": [
     {
       "tag": "v0.15.0",

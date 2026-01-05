@@ -5,6 +5,10 @@
   "description": "Production-ready async runtime with lock-free SPSC channels (615M ops/sec, 31ns P99)",
   "license": "MIT",
   "web": "https://github.com/codenimja/nimsync",
+  "commit": {
+    "hash": "4ab10b19deabf12bdf2fe65ddc4ce4cda13deb6c",
+    "time": 1762461795
+  },
   "versions": [
     {
       "tag": "v1.1.0",

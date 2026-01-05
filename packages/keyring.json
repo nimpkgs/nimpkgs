@@ -5,6 +5,10 @@
   "description": "Cross-platform access to OS keychain",
   "license": "MIT",
   "web": "https://github.com/iffy/nim-keyring",
+  "commit": {
+    "hash": "811a2d0d77221f1077e060e802dc681cfa2e8d6e",
+    "time": 1708655916
+  },
   "versions": [
     {
       "tag": "v0.4.2",

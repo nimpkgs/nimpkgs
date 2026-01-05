@@ -5,6 +5,10 @@
   "description": "Implementation of KYBER in NIM",
   "license": "MIT",
   "web": "https://roger-padrell.github.io/nim-kyber/",
+  "commit": {
+    "hash": "db1e62a80bc2ecf228cd72125c7d4ee91b18aa6b",
+    "time": 1739610185
+  },
   "versions": [
     {
       "tag": "v1.1.0",

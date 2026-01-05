@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/Patitotective/niprefs",
   "doc": "https://github.com/Patitotective/NiPrefs",
+  "commit": {
+    "hash": "74e130ef0106036cc4d59447755ec4e07937e2ef",
+    "time": 1698102487
+  },
   "tags": [
     "preferences",
     "prefs"

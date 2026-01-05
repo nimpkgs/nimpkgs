@@ -5,6 +5,10 @@
   "description": "Game Engine",
   "license": "MIT",
   "web": "https://github.com/abisxir/alasgar",
+  "commit": {
+    "hash": "766858a8160fa75d57a48730e101639885ba5096",
+    "time": 1735986278
+  },
   "tags": [
     "game",
     "engine",

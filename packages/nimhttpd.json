@@ -5,6 +5,10 @@
   "description": "A tiny static file web server.",
   "license": "MIT",
   "web": "https://github.com/h3rald/nimhttpd",
+  "commit": {
+    "hash": "47e8c75582e18074fbb77486388d7993a5b6c0a0",
+    "time": 1711297769
+  },
   "versions": [
     {
       "tag": "v1.5.1",

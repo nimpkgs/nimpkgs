@@ -5,6 +5,10 @@
   "description": "Static GLFW for nim",
   "license": "MIT",
   "web": "https://github.com/treeform/staticglfw",
+  "commit": {
+    "hash": "f6a40acf98466c3a11ab3f074a70d570c297f82b",
+    "time": 1633537402
+  },
   "versions": [
     {
       "tag": "v3.3.0.2",

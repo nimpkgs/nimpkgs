@@ -5,6 +5,10 @@
   "description": "Fork of jester with Nim v2.x support",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/jester_fork",
+  "commit": {
+    "hash": "ef5cb5e22be99140824b06cf01baeb0c82dc8851",
+    "time": 1705739898
+  },
   "versions": [
     {
       "tag": "v1.0.0",

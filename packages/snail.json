@@ -5,6 +5,10 @@
   "description": "Simple linear algebra for nim. Js too.",
   "license": "MIT",
   "web": "https://stisa.space/snail/",
+  "commit": {
+    "hash": "c1c541f84aeeb3b6f0c52f93cc5d9689984d77e7",
+    "time": 1600693419
+  },
   "tags": [
     "js",
     "matrix",

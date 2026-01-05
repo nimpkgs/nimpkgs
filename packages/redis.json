@@ -5,6 +5,10 @@
   "description": "official redis client for Nim",
   "license": "MIT",
   "web": "https://github.com/nim-lang/redis",
+  "commit": {
+    "hash": "5b16cb1885f2de3652cd5008def8771e14a661e6",
+    "time": 1752060849
+  },
   "versions": [
     {
       "tag": "v0.5.0",

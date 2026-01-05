@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Nim macros to aid in object construction including event programming, and constructors.",
   "license": "MIT",
+  "commit": {
+    "hash": "f97bbbc90fe4e5097b7678d8a540d6f155a5eaa6",
+    "time": 1758774032
+  },
   "versions": [
     {
       "tag": "v2.2.1",

@@ -5,6 +5,10 @@
   "description": "word size strings stored in an integer",
   "license": "MIT",
   "web": "https://github.com/metagn/shorteststring",
+  "commit": {
+    "hash": "8e74088d20b53c3e5a944d8d293a7606e85634e7",
+    "time": 1663050029
+  },
   "versions": [
     {
       "tag": "v0.1.0",

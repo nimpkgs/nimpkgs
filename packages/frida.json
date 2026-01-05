@@ -5,6 +5,10 @@
   "description": "Frida wrapper",
   "license": "MIT",
   "web": "https://github.com/ba0f3/frida.nim",
+  "commit": {
+    "hash": "210823cc570c149bd19bfd90b9a6da8cf803ebe7",
+    "time": 1709263413
+  },
   "tags": [
     "frida",
     "frida-core",

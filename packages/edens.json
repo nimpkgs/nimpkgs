@@ -5,6 +5,10 @@
   "description": "A command to encode / decode text with your dictionary",
   "license": "MIT",
   "web": "https://github.com/jiro4989/edens",
+  "commit": {
+    "hash": "19d8574deb4f95f1321bb0ef8295254d1221554a",
+    "time": 1573578044
+  },
   "tags": [
     "cli",
     "command",

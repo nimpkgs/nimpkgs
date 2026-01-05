@@ -5,6 +5,10 @@
   "description": "Binary serialization framework",
   "license": "MIT",
   "web": "https://github.com/planetis-m/bingo",
+  "commit": {
+    "hash": "11dce1fdbae88b9a49b41e97a032462fcc43a108",
+    "time": 1712319972
+  },
   "versions": [
     {
       "tag": "v0.5.0",

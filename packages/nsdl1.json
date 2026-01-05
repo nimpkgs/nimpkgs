@@ -5,6 +5,10 @@
   "description": "High level SDL 1.2 shared library wrapper",
   "license": "NCSA",
   "web": "https://github.com/amnr/nsdl1",
+  "commit": {
+    "hash": "0f6ab0f6fab36b7c59eac70dec0d84f93fbae304",
+    "time": 1744455820
+  },
   "versions": [
     {
       "tag": "v0.9.3",

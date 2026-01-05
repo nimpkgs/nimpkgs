@@ -5,6 +5,10 @@
   "description": "Wrapper for libsvm.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/libsvm_legacy",
+  "commit": {
+    "hash": "cbc384e1842ceaf90968019eef44441b64320753",
+    "time": 1518889157
+  },
   "tags": [
     "wrapper",
     "library",

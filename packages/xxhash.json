@@ -5,6 +5,10 @@
   "description": "xxhash wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/xxhash.nim",
+  "commit": {
+    "hash": "dbe31c708115cd0e065e72f22c25cd7b1bdc491c",
+    "time": 1742459585
+  },
   "tags": [
     "fast",
     "hash",

@@ -5,6 +5,10 @@
   "description": "Nim bindings for libOVR (Oculus Rift)",
   "license": "MIT",
   "web": "https://github.com/bluenote10/nim-ovr",
+  "commit": {
+    "hash": "187c574648ffcf1969d1bbe7a67e9ceb276fc201",
+    "time": 1433177887
+  },
   "tags": [
     "Oculus Rift",
     "virtual reality"

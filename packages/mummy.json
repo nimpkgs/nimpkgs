@@ -5,6 +5,10 @@
   "description": "Multithreaded HTTP + WebSocket server",
   "license": "MIT",
   "web": "https://github.com/guzba/mummy",
+  "commit": {
+    "hash": "a6662e94cd50df7b88b5cae79f04fdb4e967cd36",
+    "time": 1751234053
+  },
   "tags": [
     "web",
     "http",

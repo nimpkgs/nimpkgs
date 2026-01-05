@@ -6,6 +6,10 @@
   "license": "GPL-3.0-only",
   "web": "https://github.com/nirokay/nimcatapi",
   "doc": "https://nirokay.github.io/nim-docs/nimcatapi/nimcatapi.html",
+  "commit": {
+    "hash": "06e810b38c558055df8882f535b7308fc4e7be59",
+    "time": 1687181733
+  },
   "tags": [
     "thecatapi",
     "thedogapi",

@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/vanyle/RangeQueriesNim/",
   "doc": "https://vanyle.github.io/RangeQueriesNim/rangequeries.html",
+  "commit": {
+    "hash": "576f820068966964390b30afe2a24caa1bccc282",
+    "time": 1640203340
+  },
   "tags": [
     "range",
     "query",

@@ -5,6 +5,10 @@
   "description": "Seq that can safely add and remove elements while iterating.",
   "license": "GPL-2.0-only",
   "web": "https://github.com/avahe-kellenberger/safeseq",
+  "commit": {
+    "hash": "c8fd9795b31ea9b905742a48b002e9f81dabd0f6",
+    "time": 1693471620
+  },
   "versions": [
     {
       "tag": "v1.0.0",

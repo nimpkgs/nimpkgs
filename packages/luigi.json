@@ -5,6 +5,10 @@
   "description": "Nim bindings for the barebones single-header GUI library for Win32, X11, and Essence: Luigi.",
   "license": "MIT",
   "web": "https://github.com/neroist/luigi",
+  "commit": {
+    "hash": "92af8103ac9a4faa47af23a8e8cb15e73ada3ae2",
+    "time": 1746095678
+  },
   "tags": [
     "ui",
     "gui",

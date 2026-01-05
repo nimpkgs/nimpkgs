@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the libpng library",
   "license": "libpng",
   "web": "https://github.com/barcharcraz/nimlibpng",
+  "commit": {
+    "hash": "011673a6e7b25e14cf5047d8f9ab6a84040239b6",
+    "time": 1512164644
+  },
   "tags": [
     "png",
     "wrapper",

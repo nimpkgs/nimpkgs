@@ -5,6 +5,10 @@
   "description": "Asynchronous docker client written by Nim-lang",
   "license": "MIT",
   "web": "https://tulayang.github.io/asyncdocker.html",
+  "commit": {
+    "hash": "36343818e2103ed3e73b9a872cb831886b269888",
+    "time": 1466738680
+  },
   "tags": [
     "async",
     "docker"

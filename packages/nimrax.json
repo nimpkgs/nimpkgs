@@ -5,6 +5,10 @@
   "description": "Radix tree wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimrax",
+  "commit": {
+    "hash": "173032745766bf30e56b1696fc3a2aade2306350",
+    "time": 1541279846
+  },
   "versions": [
     {
       "tag": "v0.1.1",

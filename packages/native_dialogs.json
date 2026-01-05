@@ -5,6 +5,10 @@
   "description": "Implements framework-agnostic native operating system dialogs calls",
   "license": "MIT",
   "web": "https://github.com/SSPkrolik/nim-native-dialogs",
+  "commit": {
+    "hash": "de021f1f3915f648a036b9a6642762db2ca763e4",
+    "time": 1672921994
+  },
   "versions": [
     {
       "tag": "v0.2.0",

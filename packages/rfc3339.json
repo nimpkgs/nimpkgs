@@ -5,6 +5,10 @@
   "description": "RFC3339 (dates and times) implementation for Nim.",
   "license": "BSD",
   "web": "https://github.com/Skrylar/rfc3339",
+  "commit": {
+    "hash": "bc89d93f4072c6b6cb692381734d66a9f1f1b82c",
+    "time": 1595422130
+  },
   "tags": [
     "rfc3339",
     "datetime"

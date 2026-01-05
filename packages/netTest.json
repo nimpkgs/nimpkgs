@@ -5,6 +5,10 @@
   "description": "Connection Test for Nim Web Applications",
   "license": "MIT",
   "web": "https://github.com/blmvxer/netTest",
+  "commit": {
+    "hash": "d1af7c8d78549e0c125f69bd6a4d597993f49ba0",
+    "time": 1602906355
+  },
   "tags": [
     "library",
     "web",

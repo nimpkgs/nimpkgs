@@ -5,6 +5,10 @@
   "description": "Generalized linear models in Nim.",
   "license": "Apache-2.0 License",
   "web": "https://github.com/ayman-albaz/linear-models",
+  "commit": {
+    "hash": "5e2da6d3134819f396f362e3a30e91a4df2aabc7",
+    "time": 1657991148
+  },
   "versions": [
     {
       "tag": "v0.2.0",

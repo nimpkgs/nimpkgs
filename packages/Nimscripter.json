@@ -5,6 +5,10 @@
   "description": "Easy to use Nim/Nimscript interop, for scripting logic in compiled binaries.",
   "license": "MIT",
   "web": "https://github.com/beef331/nimscripter",
+  "commit": {
+    "hash": "3e575d9c973ced2ca25ad3fa2ee62a6a3a22954c",
+    "time": 1763875449
+  },
   "versions": [
     {
       "tag": "v1.1.6",

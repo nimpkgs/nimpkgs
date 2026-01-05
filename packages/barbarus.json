@@ -5,6 +5,10 @@
   "description": "A simple extensible i18n engine.",
   "license": "MIT",
   "web": "https://github.com/cjxgm/barbarus",
+  "commit": {
+    "hash": "4e9224e2603470bc65080bb332bde6d76a7061c5",
+    "time": 1468504864
+  },
   "tags": [
     "i18n",
     "internationalization"

@@ -5,6 +5,10 @@
   "description": "A Redis client for multi-threaded servers",
   "license": "MIT",
   "web": "https://github.com/guzba/ready",
+  "commit": {
+    "hash": "82f12ce64b9c8a03a60382118ce4b6a014fc9aa0",
+    "time": 1705985047
+  },
   "tags": [
     "redis"
   ]

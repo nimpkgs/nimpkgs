@@ -5,6 +5,10 @@
   "description": "A simple 2D game engine for Nim language. Deprecated, use nimgame2 instead.",
   "license": "MIT",
   "web": "https://github.com/Vladar4/nimgame",
+  "commit": {
+    "hash": "a8d2709873936d0eadf16d93c06777de48b601fe",
+    "time": 1470035448
+  },
   "versions": [
     {
       "tag": "v0.3",

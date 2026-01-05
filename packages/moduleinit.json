@@ -5,6 +5,10 @@
   "description": "Nim module/thread initialisation ordering library",
   "license": "MIT",
   "web": "https://github.com/skunkiferous/moduleinit",
+  "commit": {
+    "hash": "b394ee33650c765c541901032291bb2f49b69102",
+    "time": 1521310390
+  },
   "versions": [
     {
       "tag": "v0.4.0",

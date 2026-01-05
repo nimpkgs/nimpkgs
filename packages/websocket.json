@@ -5,6 +5,10 @@
   "description": "websockets for nim",
   "license": "MIT",
   "web": "https://github.com/niv/websocket.nim",
+  "commit": {
+    "hash": "405f49382fbd482901a3d72bd7775569ae433413",
+    "time": 1670145016
+  },
   "versions": [
     {
       "tag": "v0.5.2",

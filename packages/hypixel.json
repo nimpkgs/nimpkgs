@@ -5,6 +5,10 @@
   "description": "The Hypixel API, in Nim.",
   "license": "MIT",
   "web": "https://github.com/tonogram/hypixel-nim",
+  "commit": {
+    "hash": "6bee38894ea490233d72d99629f4613c81826b7b",
+    "time": 1638799802
+  },
   "versions": [
     {
       "tag": "v0.3.2",

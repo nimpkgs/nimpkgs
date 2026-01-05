@@ -5,6 +5,10 @@
   "description": "Clear range maker",
   "license": "MIT",
   "web": "https://github.com/PegasusPlusUS/rangex-nim",
+  "commit": {
+    "hash": "a4af31d2ad147485a7a44e1bf9ece2b410e09659",
+    "time": 1731461782
+  },
   "tags": [
     "Snippet"
   ]

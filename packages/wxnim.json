@@ -5,6 +5,10 @@
   "description": "Nim wrapper for wxWidgets. Also contains high-level genui macro",
   "license": "MIT",
   "web": "https://github.com/PMunch/wxnim",
+  "commit": {
+    "hash": "64776687361c7381a80e27c042e4deaadc11772d",
+    "time": 1718742771
+  },
   "tags": [
     "wrapper",
     "library",

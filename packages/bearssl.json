@@ -5,6 +5,10 @@
   "description": "Bindings to BearSSL library",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-bearssl",
+  "commit": {
+    "hash": "f08d72203f9e110c099c6f393e1c0640fcbe176f",
+    "time": 1765393868
+  },
   "versions": [
     {
       "tag": "v0.2.6",

@@ -5,6 +5,10 @@
   "description": "CrossDB Driver for Nim",
   "license": "MIT",
   "web": "https://github.com/openpeeps/crossdb-nim",
+  "commit": {
+    "hash": "45522009cdeb38105d4d0cfffb4af639b405807f",
+    "time": 1730931096
+  },
   "tags": [
     "database",
     "sql",

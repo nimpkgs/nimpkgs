@@ -5,6 +5,10 @@
   "description": "Nim wrapper for libtess2",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimtess2",
+  "commit": {
+    "hash": "f536ab14e6df9c65c104dc4f0c8845e79119a840",
+    "time": 1546619076
+  },
   "versions": [
     {
       "tag": "v0.1.1",

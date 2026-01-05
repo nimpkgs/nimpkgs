@@ -5,6 +5,10 @@
   "description": "A declarative user interface framework based on GTK",
   "license": "MIT",
   "web": "https://github.com/can-lehmann/owlkettle",
+  "commit": {
+    "hash": "fa76e0af5bea074f0f24e468af8f9c2bf830825c",
+    "time": 1760742295
+  },
   "versions": [
     {
       "tag": "v3.0.0",

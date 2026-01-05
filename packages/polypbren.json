@@ -5,6 +5,10 @@
   "description": "Renormalization of colloidal charges of polydipserse dispersions using the Poisson-Boltzmann equation",
   "license": "MIT",
   "web": "https://github.com/guibar64/polypbren",
+  "commit": {
+    "hash": "5b98684d21325580576bc7aa0cd0927bdaf37843",
+    "time": 1656660165
+  },
   "versions": [
     {
       "tag": "v0.5.1",

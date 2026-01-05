@@ -5,6 +5,10 @@
   "description": "Develop SuperCollider UGens in Nim",
   "license": "MIT",
   "web": "https://github.com/capocasa/scnim",
+  "commit": {
+    "hash": "93c45a5730f5e3d3cbcecd50509ac21f27f61b3b",
+    "time": 1574623851
+  },
   "tags": [
     "music",
     "synthesizer",

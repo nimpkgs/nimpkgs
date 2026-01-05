@@ -5,6 +5,10 @@
   "description": "A highlighter for diff -u-like output & port of Python difflib",
   "license": "MIT/ISC",
   "web": "https://github.com/c-blake/hldiff",
+  "commit": {
+    "hash": "cc1fc22a18c57e16d89c580cf78478c38c394c66",
+    "time": 1762237816
+  },
   "versions": [
     {
       "tag": "v0.8.1",

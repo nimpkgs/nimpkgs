@@ -5,6 +5,10 @@
   "description": "Nim bindings for Erin Catto's Box2D physics engine. ",
   "license": "MIT",
   "web": "https://github.com/jon-edward/box2d.nim",
+  "commit": {
+    "hash": "2da3564d43c9df772e643f29a8b3b02179b08d1f",
+    "time": 1752344912
+  },
   "versions": [
     {
       "tag": "v0.1.4",

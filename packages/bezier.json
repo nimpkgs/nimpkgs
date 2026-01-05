@@ -5,6 +5,10 @@
   "description": "Bezier curve tools",
   "license": "Apache-2.0",
   "web": "https://github.com/Nycto/bezier-nim",
+  "commit": {
+    "hash": "7d5f80f2cf0ecebd429511e370b155c33e710f85",
+    "time": 1676610151
+  },
   "tags": [
     "bezier",
     "curve"

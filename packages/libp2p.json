@@ -5,6 +5,10 @@
   "description": "libp2p implementation in Nim",
   "license": "Apache License 2.0",
   "web": "https://github.com/vacp2p/nim-libp2p",
+  "commit": {
+    "hash": "a7a7ddd4155bdab46841f3659ba498d0673d804f",
+    "time": 1767622745
+  },
   "versions": [
     {
       "tag": "v1.14.3",

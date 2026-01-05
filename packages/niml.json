@@ -5,6 +5,10 @@
   "description": "html dsl",
   "license": "MIT",
   "web": "https://github.com/jakubDoka/niml",
+  "commit": {
+    "hash": "ff1137ab890622440346c94cf144002439463446",
+    "time": 1620475822
+  },
   "tags": [
     "html",
     "library",

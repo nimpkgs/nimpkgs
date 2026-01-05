@@ -5,6 +5,10 @@
   "description": "Near-Duplicate File Detection",
   "license": "MIT/ISC",
   "web": "https://github.com/c-blake/ndup",
+  "commit": {
+    "hash": "1929e7b8c4f9d81cb6c4214936d93f0ae9e5bff1",
+    "time": 1767386471
+  },
   "tags": [
     "rolling hash",
     "content-sensitive framing",

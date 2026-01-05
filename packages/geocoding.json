@@ -5,6 +5,10 @@
   "description": "A simple library for Google Maps Geocoding API",
   "license": "MIT",
   "web": "https://github.com/saratchandra92/nim-geocoding",
+  "commit": {
+    "hash": "f889f7116afc59d3c3a821d05d07dfe129c7a94d",
+    "time": 1432022292
+  },
   "versions": [
     {
       "tag": "v0.1.2",

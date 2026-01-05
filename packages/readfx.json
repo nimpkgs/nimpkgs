@@ -5,6 +5,10 @@
   "description": "FASTX parser for SeqFu (klib)",
   "license": "MIT",
   "web": "https://github.com/quadram-institute-bioscience/readfx",
+  "commit": {
+    "hash": "e1517853f5dff22856a0ff494d98ceccfaff6484",
+    "time": 1751105006
+  },
   "versions": [
     {
       "tag": "v0.3.0",

@@ -5,6 +5,10 @@
   "description": "Hashicorp Vault HTTP Client",
   "license": "MIT",
   "web": "https://github.com/jackhftang/vaultclient.nim",
+  "commit": {
+    "hash": "3003d2c30b7d1e9bae34da37b8b66bd5f93d4f52",
+    "time": 1604558123
+  },
   "tags": [
     "vault",
     "secret",

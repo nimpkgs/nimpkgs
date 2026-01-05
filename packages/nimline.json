@@ -5,6 +5,10 @@
   "description": "Wrapper-less C/C++ interop for Nim",
   "license": "MIT",
   "web": "https://github.com/sinkingsugar/nimline",
+  "commit": {
+    "hash": "703d6aec1f466a3ccbc757243185ea7349f7345c",
+    "time": 1582091242
+  },
   "versions": [
     {
       "tag": "v0.1.7",

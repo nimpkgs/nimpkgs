@@ -5,6 +5,10 @@
   "description": "Useful Variant Type and Powerful Pattern Matching for Nim",
   "license": "MIT",
   "web": "https://github.com/zer0-star/matsuri",
+  "commit": {
+    "hash": "d74bbc2b2a95034eb4ad5d2479e87eb43634fde0",
+    "time": 1591362848
+  },
   "versions": [
     {
       "tag": "v0.3.0",

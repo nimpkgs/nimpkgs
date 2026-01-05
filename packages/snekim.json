@@ -5,6 +5,10 @@
   "description": "A simple implementation of the classic snake game",
   "license": "LGPLv3",
   "web": "https://codeberg.org/annaaurora/snekim",
+  "commit": {
+    "hash": "d4754dadcd3671d220ead3e564998f2400017634",
+    "time": 1668121404
+  },
   "versions": [
     {
       "tag": "v1.2.0",

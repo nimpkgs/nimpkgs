@@ -5,6 +5,10 @@
   "description": "A simple but powerful task runner that lets you define your own commands by editing a YAML configuration file.",
   "license": "MIT",
   "web": "https://h3rald.com/pls",
+  "commit": {
+    "hash": "b86933c01da63ebd83a93b27c94fd4e5d5ca7bee",
+    "time": 1691809292
+  },
   "versions": [
     {
       "tag": "v1.0.0",

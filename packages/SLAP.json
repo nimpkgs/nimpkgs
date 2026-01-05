@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/bichanna/slap/blob/master/docs/index.md#slap",
   "doc": "https://github.com/bichanna/slap/blob/master/docs/index.md#syntax",
+  "commit": {
+    "hash": "6fdffa47aa9f7c537767c146d4ff5c3bd0ffd6df",
+    "time": 1666013155
+  },
   "tags": [
     "language",
     "interpreter"

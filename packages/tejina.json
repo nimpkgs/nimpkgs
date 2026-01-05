@@ -5,6 +5,10 @@
   "description": "Minimal web framework for Nim",
   "license": "MIT",
   "web": "https://github.com/bctnry/tejina",
+  "commit": {
+    "hash": "7e789d51a4951cb8e7f591ef94b8e5a515f6391c",
+    "time": 1750073940
+  },
   "versions": [
     {
       "tag": "v0.1.2",

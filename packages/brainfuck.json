@@ -5,6 +5,10 @@
   "description": "A brainfuck interpreter and compiler",
   "license": "MIT",
   "web": "https://github.com/def-/nim-brainfuck",
+  "commit": {
+    "hash": "62d0175881b3dbd80d1c48eb36aa0050a07c85dc",
+    "time": 1512726242
+  },
   "tags": [
     "library",
     "binary",

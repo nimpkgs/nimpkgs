@@ -5,6 +5,10 @@
   "description": "Collection of helper utilities",
   "license": "Apache-2.0",
   "web": "https://github.com/haxscramper/hmisc",
+  "commit": {
+    "hash": "e9024694a00f15e16cc9fa415bdbde7d31b64aeb",
+    "time": 1663858038
+  },
   "versions": [
     {
       "tag": "v0.14.6",

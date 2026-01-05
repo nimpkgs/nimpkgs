@@ -5,6 +5,10 @@
   "description": "Low level db_sqlite and db_postgres forks with a proper typing",
   "license": "MIT",
   "web": "https://github.com/PhilippMDoerner/lowdb",
+  "commit": {
+    "hash": "c8bd2c631ed923b25c0bab4cd1ccbe84bf56400b",
+    "time": 1691318934
+  },
   "tags": [
     "sqlite",
     "postgres",

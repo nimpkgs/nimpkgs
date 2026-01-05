@@ -5,6 +5,10 @@
   "description": "A QR code generation library.",
   "license": "MIT",
   "web": "https://github.com/aruZeta/QRgen",
+  "commit": {
+    "hash": "4445bb93a126ec33004901e9486963a40cbb97fc",
+    "time": 1706548275
+  },
   "versions": [
     {
       "tag": "v3.1.0",

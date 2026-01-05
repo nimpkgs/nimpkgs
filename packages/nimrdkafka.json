@@ -5,6 +5,10 @@
   "description": "Nim wrapper for librdkafka",
   "license": "Apache License 2.0",
   "web": "https://github.com/dfdeshom/nimrdkafka",
+  "commit": {
+    "hash": "6a7e02fa231223a2ecb6bbffdd62111f9e946398",
+    "time": 1703783808
+  },
   "tags": [
     "library",
     "wrapper",

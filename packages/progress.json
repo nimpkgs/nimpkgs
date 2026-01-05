@@ -5,6 +5,10 @@
   "description": "A simple progress bar for Nim.",
   "license": "BSD3",
   "web": "https://github.com/euantorano/progress.nim",
+  "commit": {
+    "hash": "ef9406ff02d23499ae7c1a24aaa369a8c23cbce9",
+    "time": 1613151108
+  },
   "versions": [
     {
       "tag": "v1.1.3",

@@ -5,6 +5,10 @@
   "description": "Everything to do with HTML and XML",
   "license": "MIT",
   "web": "https://github.com/treeform/taggy",
+  "commit": {
+    "hash": "bb1608ad866d5d4ac076cd7bcec3e64ae7d568e5",
+    "time": 1704571706
+  },
   "tags": [
     "html",
     "xml",

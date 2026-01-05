@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A cross-platform terminal UI library",
   "license": "WTFPL",
+  "commit": {
+    "hash": "7558f89925f7c10e52559c80b26c7c090433a5c2",
+    "time": 1671571963
+  },
   "tags": [
     "tui",
     "terminal"

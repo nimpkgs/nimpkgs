@@ -5,6 +5,10 @@
   "description": "Syntax sugar which supports auto-dereferencing",
   "license": "MIT",
   "web": "https://github.com/sls1005/autoderef",
+  "commit": {
+    "hash": "3d9448c9adb3dd0ebb089a37edff10e8ecda0b34",
+    "time": 1656140410
+  },
   "versions": [
     {
       "tag": "v0.1.0",

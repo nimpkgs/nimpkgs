@@ -5,6 +5,10 @@
   "description": "MurmurHash in pure Nim.",
   "license": "MIT",
   "web": "https://github.com/olahol/nimrod-murmur",
+  "commit": {
+    "hash": "9bd096486ef1a4bb5e980baa9978a1c39252ae8e",
+    "time": 1383136045
+  },
   "versions": [
     {
       "tag": "v0.1.0",

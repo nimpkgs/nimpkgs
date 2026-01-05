@@ -5,6 +5,10 @@
   "description": "Random curated Fonts and pastel Colors for your UI/UX design, design for non-designers.",
   "license": "LGPLv3",
   "web": "https://github.com/juancarlospaco/nim-random-font-color",
+  "commit": {
+    "hash": "3d1d9428d5643730a6237d752c6196420004bb16",
+    "time": 1638488494
+  },
   "tags": [
     "fonts",
     "colors",

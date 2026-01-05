@@ -5,6 +5,10 @@
   "description": "Duckduckgo search",
   "license": "MIT",
   "web": "https://github.com/thisago/duckduckgo",
+  "commit": {
+    "hash": "a3bc9deb75d2679f6088120189b50471976e6805",
+    "time": 1654861716
+  },
   "tags": [
     "library",
     "scraper",

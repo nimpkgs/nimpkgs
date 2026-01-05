@@ -5,6 +5,10 @@
   "description": "Convert a Nim file or string to Markdown",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nimtomd",
+  "commit": {
+    "hash": "893e5b34938d79c77ba23f8b7af1a6d50a515da1",
+    "time": 1696058391
+  },
   "versions": [
     {
       "tag": "v0.3.2",

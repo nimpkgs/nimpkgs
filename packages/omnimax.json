@@ -5,6 +5,10 @@
   "description": "Max wrapper for omni.",
   "license": "MIT",
   "web": "https://github.com/vitreo12/omnimax",
+  "commit": {
+    "hash": "7db9b36f3ef855280812fa273836534682c0994c",
+    "time": 1711719448
+  },
   "tags": [
     "dsl",
     "dsp",

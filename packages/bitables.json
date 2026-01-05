@@ -5,6 +5,10 @@
   "description": "bidirectional {maps, tables, dictionaries} in nim",
   "license": "MIT",
   "web": "https://github.com/Retkid/bitables",
+  "commit": {
+    "hash": "64a706a1edf56ecaeb090a5f3767091ae181b007",
+    "time": 1673780861
+  },
   "tags": [
     "tables",
     "maps"

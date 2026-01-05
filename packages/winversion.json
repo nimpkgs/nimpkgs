@@ -5,6 +5,10 @@
   "description": "This package allows you to determine the running version of the Windows operating system.",
   "license": "MIT",
   "web": "https://github.com/rockcavera/winversion",
+  "commit": {
+    "hash": "9d7c5db3e07512c522308c321786dc901bccc250",
+    "time": 1673983149
+  },
   "versions": [
     {
       "tag": "v0.1.3",

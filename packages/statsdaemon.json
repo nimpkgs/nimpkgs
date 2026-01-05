@@ -5,6 +5,10 @@
   "description": "StatsD compatible daemon in pure Nim",
   "license": "MIT",
   "web": "https://github.com/Q-Master/statsdaemon.nim",
+  "commit": {
+    "hash": "4e7076bb89c464e16df46f51c11e396d68099e86",
+    "time": 1732703683
+  },
   "versions": [
     {
       "tag": "v0.2.0",

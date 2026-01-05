@@ -5,6 +5,10 @@
   "description": "Bindings and a high-level interface for MongoDB",
   "license": "MIT",
   "web": "https://github.com/nim-lang/mongo",
+  "commit": {
+    "hash": "a78161f8a89d950fa9102cff2a09d3b3863b9213",
+    "time": 1435756357
+  },
   "tags": [
     "library",
     "wrapper",

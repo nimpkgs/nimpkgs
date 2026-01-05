@@ -5,6 +5,10 @@
   "description": "A performant Nim parsing library built for humans.",
   "license": "MIT",
   "web": "https://github.com/schneiderfelipe/microparsec",
+  "commit": {
+    "hash": "d098696de6ed98ad906229ec7f88584a96589819",
+    "time": 1630506036
+  },
   "versions": [
     {
       "tag": "v0.1-alpha",

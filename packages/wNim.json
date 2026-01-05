@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/khchen/wNim",
   "doc": "https://khchen.github.io/wNim/wNim.html",
+  "commit": {
+    "hash": "16105eec911c633e3c994c879e42a43584b6d5b5",
+    "time": 1721418500
+  },
   "tags": [
     "library",
     "windows",

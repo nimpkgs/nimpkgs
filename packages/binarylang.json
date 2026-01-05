@@ -5,6 +5,10 @@
   "description": "Binary parser/encoder DSL",
   "license": "MIT",
   "web": "https://github.com/sealmove/binarylang",
+  "commit": {
+    "hash": "91797a4585a69b0f12f277dda83cd7f5806f79b4",
+    "time": 1687084270
+  },
   "versions": [
     {
       "tag": "v0.8.1",

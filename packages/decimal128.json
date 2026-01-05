@@ -5,6 +5,10 @@
   "description": "Decimal type support based on the IEEE 754 2008 specification.",
   "license": "MIT",
   "web": "https://github.com/JohnAD/decimal128",
+  "commit": {
+    "hash": "68add444773abb3d5e03979690959bf1d4881364",
+    "time": 1624414228
+  },
   "versions": [
     {
       "tag": "v0.1.2",

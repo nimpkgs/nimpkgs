@@ -5,6 +5,10 @@
   "description": "Encode and decode text using standard international Morse code",
   "license": "GPL-3.0-or-later",
   "web": "https://github.com/nemuelw/morsecode",
+  "commit": {
+    "hash": "fe3efc18ad05d11f7bae93252e33cc7486c6113b",
+    "time": 1750732594
+  },
   "tags": [
     "morse",
     "morsecode",

@@ -5,6 +5,10 @@
   "description": "Porting some Python / Kotlin features to Nim",
   "license": "MIT",
   "web": "https://github.com/jabbalaci/nimpykot",
+  "commit": {
+    "hash": "b786b4b7d70fb637ad263245153a33b8c969bf84",
+    "time": 1740952218
+  },
   "versions": [
     {
       "tag": "v0.2.2",

@@ -5,6 +5,10 @@
   "description": "Cross-platform memory profiler",
   "license": "MIT",
   "web": "https://github.com/quadram-institute-bioscience/memonitor",
+  "commit": {
+    "hash": "da4877f68a577ccd968e87c98e78881d6732adab",
+    "time": 1749563667
+  },
   "versions": [
     {
       "tag": "v0.1.0",

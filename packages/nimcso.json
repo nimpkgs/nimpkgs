@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/amkrajewski/nimcso",
   "doc": "https://nimcso.phaseslab.org",
+  "commit": {
+    "hash": "b9b9abfa79936d2f86d687979ef2673242eb14f0",
+    "time": 1731591467
+  },
   "versions": [
     {
       "tag": "v0.6.6",

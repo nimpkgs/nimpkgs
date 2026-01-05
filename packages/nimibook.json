@@ -5,6 +5,10 @@
   "description": "A port of mdbook to nim",
   "license": "MIT",
   "web": "https://github.com/pietroppeter/nimibook",
+  "commit": {
+    "hash": "2f50ef11bfdad01540fd3a9dd15e88ee974285a6",
+    "time": 1742094304
+  },
   "versions": [
     {
       "tag": "v0.3.1",

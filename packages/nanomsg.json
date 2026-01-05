@@ -5,6 +5,10 @@
   "description": "Wrapper for the nanomsg socket library that provides several common communication patterns",
   "license": "MIT",
   "web": "https://github.com/def-/nim-nanomsg",
+  "commit": {
+    "hash": "d16331fcc74e9ce178b3373928b44f2cceaef30e",
+    "time": 1592298343
+  },
   "tags": [
     "library",
     "wrapper",

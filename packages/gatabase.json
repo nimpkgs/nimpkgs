@@ -5,6 +5,10 @@
   "description": "Postgres Database ORM for Nim",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-gatabase",
+  "commit": {
+    "hash": "3aaba860e3090504c77faa419e14c239dfd46045",
+    "time": 1665364309
+  },
   "tags": [
     "database",
     "orm",

@@ -5,6 +5,10 @@
   "description": "Human friendly DateTime string representations, seconds to millenniums.",
   "license": "LGPLv3",
   "web": "https://github.com/juancarlospaco/nim-datetime2human",
+  "commit": {
+    "hash": "d9f1b5038ca16d3057aac76a3dd53e425f6f40d0",
+    "time": 1697112839
+  },
   "tags": [
     "date",
     "time",

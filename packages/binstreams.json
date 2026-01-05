@@ -5,6 +5,10 @@
   "description": "Endianness aware stream I/O for Nim",
   "license": "WTFPL",
   "web": "https://github.com/johnnovak/nim-binstreams",
+  "commit": {
+    "hash": "20053535d6bd4a31c36680005aed79f5f6ecf303",
+    "time": 1709723069
+  },
   "versions": [
     {
       "tag": "v0.2.0",

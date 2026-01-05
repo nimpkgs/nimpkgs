@@ -5,6 +5,10 @@
   "description": "A build tool for Neverwinter Nights projects",
   "license": "MIT",
   "web": "https://github.com/squattingmonk/nasher.nim",
+  "commit": {
+    "hash": "0900db2ffe66f965b07d0ccac96b177635f2328a",
+    "time": 1758198355
+  },
   "tags": [
     "nwn",
     "neverwinternights",

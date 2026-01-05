@@ -5,6 +5,10 @@
   "description": "A CLI for the Chat series of models provided by OpenAI",
   "license": "MIT",
   "web": "https://github.com/joshuajohncohen/chat_openai-nim",
+  "commit": {
+    "hash": "b74c801dd3f634ae56c69bafac4dab730a99e406",
+    "time": 1684868346
+  },
   "versions": [
     {
       "tag": "v1.0.0",

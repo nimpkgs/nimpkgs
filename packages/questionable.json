@@ -5,6 +5,10 @@
   "description": "Elegant optional types",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/questionable",
+  "commit": {
+    "hash": "2906828765d4f253b59e351219ce7bf9e3a3e699",
+    "time": 1761142378
+  },
   "tags": [
     "option",
     "result",

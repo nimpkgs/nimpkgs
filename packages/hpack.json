@@ -5,6 +5,10 @@
   "description": "HPACK (Header Compression for HTTP/2)",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-hpack",
+  "commit": {
+    "hash": "75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
+    "time": 1729530568
+  },
   "versions": [
     {
       "tag": "v0.4.1",

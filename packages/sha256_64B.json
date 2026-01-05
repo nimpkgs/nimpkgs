@@ -5,6 +5,10 @@
   "description": "sha256 hash of batches of 64B blocks in parallel via pure asm lib hashtree",
   "license": "MIT or Apache License 2.0",
   "web": "https://github.com/status-im/sha256_64B",
+  "commit": {
+    "hash": "eabe9edea292f3db27797631fb8ca69ec29b6d19",
+    "time": 1684263105
+  },
   "tags": [
     "sha256_64B",
     "sha256",

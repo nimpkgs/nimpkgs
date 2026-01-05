@@ -5,6 +5,10 @@
   "description": "Linear algebra for Nim",
   "license": "Apache License 2.0",
   "web": "https://andreaferretti.github.io/neo/",
+  "commit": {
+    "hash": "6c6a81c8a3acf45a4bb117f9d04d94859b67e8c9",
+    "time": 1724832249
+  },
   "tags": [
     "vector",
     "matrix",

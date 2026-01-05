@@ -5,6 +5,10 @@
   "description": "Convert Ogham inscriptions to latin text & vice versa.",
   "license": "MIT",
   "web": "https://github.com/stscoundrel/ogham-nim",
+  "commit": {
+    "hash": "36d27f2a4398c0a344bedbcb6ba4ead2e28c4226",
+    "time": 1767546473
+  },
   "tags": [
     "ogham",
     "convert",

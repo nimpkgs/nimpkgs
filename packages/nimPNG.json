@@ -5,6 +5,10 @@
   "description": "PNG(Portable Network Graphics) encoder and decoder",
   "license": "MIT",
   "web": "https://github.com/jangko/nimPNG",
+  "commit": {
+    "hash": "8f8e774be15218919235a044cd2ece13728e637d",
+    "time": 1744886120
+  },
   "versions": [
     {
       "tag": "v0.3.7",

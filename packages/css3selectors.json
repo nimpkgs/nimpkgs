@@ -5,6 +5,10 @@
   "description": "A Nim CSS Selectors library for the WHATWG standard compliant Chame HTML parser. Query HTML using CSS selectors with Nim just like you can with JavaScript.",
   "license": "MIT",
   "web": "https://github.com/Niminem/CSS3Selectors",
+  "commit": {
+    "hash": "66989da1fd8be158802d7d1ba7825f058f7b0664",
+    "time": 1748834784
+  },
   "tags": [
     "css3",
     "css-selector",

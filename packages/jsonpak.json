@@ -5,6 +5,10 @@
   "description": "Packed ASTs for compact and efficient JSON representation, with JSON Pointer, JSON Patch support.",
   "license": "MIT",
   "web": "https://github.com/planetis-m/jsonpak",
+  "commit": {
+    "hash": "25080a20f2089c52d1888dbce4c82414d39e730a",
+    "time": 1728335194
+  },
   "versions": [
     {
       "tag": "v1.1.2",

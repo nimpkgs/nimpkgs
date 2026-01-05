@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/ire4ever1190/taskman",
   "doc": "https://tempdocs.netlify.app/taskman/stable",
+  "commit": {
+    "hash": "4587b9ae2065be23573b372ce3abea24fae91800",
+    "time": 1738454579
+  },
   "tags": [
     "scheduler",
     "task",

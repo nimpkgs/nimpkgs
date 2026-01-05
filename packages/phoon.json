@@ -5,6 +5,10 @@
   "description": "A web framework inspired by ExpressJS 🐇⚡",
   "license": "Public Domain",
   "web": "https://github.com/ducdetronquito/phoon",
+  "commit": {
+    "hash": "253fdc7989853d9008d8b9a7baf94645262d1b6d",
+    "time": 1668284706
+  },
   "versions": [
     {
       "tag": "v0.1.0",

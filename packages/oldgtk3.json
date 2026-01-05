@@ -5,6 +5,10 @@
   "description": "Low level bindings for GTK3 related libraries",
   "license": "MIT",
   "web": "https://github.com/stefansalewski/oldgtk3",
+  "commit": {
+    "hash": "4e60fd1c4c08241cc22336362fc4f487c633299c",
+    "time": 1613382861
+  },
   "tags": [
     "library",
     "gtk",

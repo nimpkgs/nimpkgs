@@ -5,6 +5,10 @@
   "description": "Render LaTeX math as multiline Unicode text",
   "license": "GPL-3.0-or-later",
   "web": "https://git.sr.ht/~xigoi/matext",
+  "commit": {
+    "hash": "f13d8fbb826b639c7f5838a3d78ece6cffe51d11",
+    "time": 1667993518
+  },
   "tags": [
     "math",
     "latex"

@@ -5,6 +5,10 @@
   "description": "Array/Sequence/Object destructuring/unpacking macro",
   "license": "MIT",
   "web": "https://github.com/technicallyagd/unpack",
+  "commit": {
+    "hash": "1b6d749473bfb6bd7b749abf823503df633ba04c",
+    "time": 1545631346
+  },
   "tags": [
     "unpack",
     "seq",

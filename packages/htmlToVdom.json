@@ -5,6 +5,10 @@
   "description": "Karax extension to convert html in string form to embeddable Karax vdom",
   "license": "MIT",
   "web": "https://github.com/C-NERD/htmlToVdom",
+  "commit": {
+    "hash": "f4d0b65aefe8217203a94cf5d5fb7bc1682f2500",
+    "time": 1657334538
+  },
   "tags": [
     "Karax",
     "htmltovdom",

@@ -5,6 +5,10 @@
   "description": "Nim rewrite of `xzoom` with many new features",
   "license": "MIT",
   "web": "https://github.com/c-blake/xm",
+  "commit": {
+    "hash": "535a1c424586280dac78b2ca740978dcc8c30ffb",
+    "time": 1767010517
+  },
   "tags": [
     "X11",
     "zoom",

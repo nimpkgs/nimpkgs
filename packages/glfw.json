@@ -5,7 +5,16 @@
   "description": "A high-level GLFW 3 wrapper",
   "license": "MIT",
   "web": "https://github.com/johnnovak/nim-glfw",
+  "commit": {
+    "hash": "793a575b965b5897778ad3f0cd391971a4e22002",
+    "time": 1723855177
+  },
   "versions": [
+    {
+      "tag": "v3.4.0.5",
+      "hash": "793a575b965b5897778ad3f0cd391971a4e22002",
+      "time": 1723855177
+    },
     {
       "tag": "v3.4.0.4",
       "hash": "9ce5a44ba02dc1505c3d6cfb6ee848567aae613b",

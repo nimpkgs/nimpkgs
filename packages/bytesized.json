@@ -5,6 +5,10 @@
   "description": "a library for manipulating data storage units",
   "license": "GPL-3.0-only",
   "web": "https://gitlab.com/Maxb0tbeep/bytesized",
+  "commit": {
+    "hash": "ce7734568508024dc0837da99e1ec5a4dfddd831",
+    "time": 1745343855
+  },
   "tags": [
     "bytes",
     "human",

@@ -5,6 +5,10 @@
   "description": "A wrapper to Tesseract OCR library for Nim",
   "license": "Unlicense",
   "web": "https://github.com/DavideGalilei/nimtesseract",
+  "commit": {
+    "hash": "a315d45e3ebb58214fbf07c49f58ea603de93e59",
+    "time": 1666510715
+  },
   "versions": [
     {
       "tag": "v0.2.0",

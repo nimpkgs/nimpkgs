@@ -5,6 +5,10 @@
   "description": "Unix process&system query&formatting library&multi-command CLI in Nim",
   "license": "MIT",
   "web": "https://github.com/c-blake/procs",
+  "commit": {
+    "hash": "50870493f01272a143983868089b89a959352219",
+    "time": 1762001144
+  },
   "versions": [
     {
       "tag": "v0.5.3",

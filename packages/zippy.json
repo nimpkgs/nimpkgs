@@ -5,6 +5,10 @@
   "description": "Pure Nim implementation of deflate, zlib, gzip and zip.",
   "license": "MIT",
   "web": "https://github.com/guzba/zippy",
+  "commit": {
+    "hash": "9ab82da84edfd6483d273dfcf8a921309945861e",
+    "time": 1765832815
+  },
   "tags": [
     "compression",
     "zlib",

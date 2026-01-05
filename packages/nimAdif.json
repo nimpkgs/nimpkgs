@@ -5,6 +5,10 @@
   "description": "An Amateur Data Interchange Format (ADIF) formatter and parser.",
   "license": "MIT",
   "web": "https://github.com/clzls/nimAdif",
+  "commit": {
+    "hash": "f523f2d9796875811c6e6b34af16f03af14d6b0d",
+    "time": 1728499776
+  },
   "tags": [
     "ham",
     "adif",

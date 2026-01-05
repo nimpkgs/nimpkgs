@@ -5,6 +5,10 @@
   "description": "High level xml library for Nim",
   "license": "MIT",
   "web": "https://github.com/vegansk/xmltools",
+  "commit": {
+    "hash": "1b2c55196aacb76e54b1caa2c5840190b41d241f",
+    "time": 1553571134
+  },
   "versions": [
     {
       "tag": "v0.1.5",

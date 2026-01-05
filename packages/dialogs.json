@@ -5,6 +5,10 @@
   "description": "wraps GTK+ or Windows' open file dialogs",
   "license": "MIT",
   "web": "https://github.com/nim-lang/dialogs",
+  "commit": {
+    "hash": "177b776f60255c3be8c38586be5f89c53d867e1a",
+    "time": 1521212676
+  },
   "versions": [
     {
       "tag": "v1.1.1",

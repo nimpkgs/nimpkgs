@@ -5,6 +5,10 @@
   "description": "HTML & CSS Minify Lib & App based on Regexes & parallel MultiReplaces",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-css-html-minify",
+  "commit": {
+    "hash": "b168974d7ebadecce22771980a9f26653284398c",
+    "time": 1552898571
+  },
   "tags": [
     "css",
     "html",

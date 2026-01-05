@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/capocasa/at",
   "doc": "https://capocasa.github.io/at/at.html",
+  "commit": {
+    "hash": "677b4411786aeb7c8b3197333a0355a3104dc352",
+    "time": 1655111314
+  },
   "tags": [
     "async",
     "in-proces",

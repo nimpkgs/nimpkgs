@@ -5,6 +5,10 @@
   "description": "A simple and free whois client",
   "license": "MIT",
   "web": "https://github.com/thisago/whois",
+  "commit": {
+    "hash": "9f5f46f845095a23ad466cfc1ae9bef2bfa16451",
+    "time": 1659007625
+  },
   "tags": [
     "whois",
     "dns"

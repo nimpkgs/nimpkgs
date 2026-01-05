@@ -5,6 +5,10 @@
   "description": "Macro-oriented web-framework compiles to native written with ♥",
   "license": "MIT",
   "web": "https://github.com/HapticX/happyx-native",
+  "commit": {
+    "hash": "9a3663d4ea4f5d942761cb3d9e9e494e9693e8aa",
+    "time": 1735650417
+  },
   "versions": [
     {
       "tag": "v0.3.1",

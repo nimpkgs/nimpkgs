@@ -5,6 +5,10 @@
   "description": "A wrapper for LadybugDB: an embedded graph database built for query speed and scalability.",
   "license": "BSD-3-Clause",
   "web": "https://ladybugdb.com/",
+  "commit": {
+    "hash": "2ce6e9f41bbb7da0044e38c435220a79ef1e2a0c",
+    "time": 1765850700
+  },
   "versions": [
     {
       "tag": "v0.8.1",

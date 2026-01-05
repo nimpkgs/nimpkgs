@@ -4,6 +4,10 @@
   "method": "git",
   "description": "encode/decode variants to/from uint64",
   "license": "MIT",
+  "commit": {
+    "hash": "6c191d75fb722e1c2e929b261b34afadd3a1a681",
+    "time": 1545261418
+  },
   "tags": [
     "vcf",
     "variant",

@@ -5,6 +5,10 @@
   "description": "Twitter bot for fetching flickr images with tags",
   "license": "GPL-3.0",
   "web": "https://github.com/snus-kin/flickr-image-bot",
+  "commit": {
+    "hash": "862167f56ea24752ac71a3000e3a1578fc81ae3d",
+    "time": 1642270905
+  },
   "tags": [
     "twitter",
     "twitter-bot",

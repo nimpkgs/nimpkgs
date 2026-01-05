@@ -5,6 +5,10 @@
   "description": "Simple window maker.",
   "license": "MIT",
   "web": "https://github.com/levovix0/siwin",
+  "commit": {
+    "hash": "b60ec964ac05a8d394ccd2aa85d190226220c54a",
+    "time": 1766950259
+  },
   "versions": [
     {
       "tag": "v0.3",

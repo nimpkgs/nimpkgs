@@ -5,6 +5,10 @@
   "description": "A DSL to generate LaTeX from Nim",
   "license": "MIT",
   "web": "https://github.com/Vindaar/LatexDSL",
+  "commit": {
+    "hash": "5586b8f0181264b61fed86957e7af082dfcd3870",
+    "time": 1731070824
+  },
   "versions": [
     {
       "tag": "v0.2.2",

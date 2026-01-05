@@ -5,6 +5,10 @@
   "description": "Make sending HTML and file emails easier.",
   "license": "MIT",
   "web": "https://github.com/up7down8/simpleMail",
+  "commit": {
+    "hash": "f998fe66e4df9391a8be58ec8d84916b20eb1fba",
+    "time": 1715943826
+  },
   "tags": [
     "smtp",
     "mail"

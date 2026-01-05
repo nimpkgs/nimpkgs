@@ -6,6 +6,10 @@
   "license": "GPL-3.0-only",
   "web": "https://github.com/nirokay/CatTag",
   "doc": "https://nirokay.github.io/nim-docs/cattag/cattag.html",
+  "commit": {
+    "hash": "b7ed626a1539bf872e9e005cfdaf766e612dc9af",
+    "time": 1756970199
+  },
   "tags": [
     "html",
     "css",

@@ -5,6 +5,10 @@
   "description": "Postgres utility functions",
   "license": "MIT",
   "web": "https://github.com/hiteshjasani/nim-pg-util",
+  "commit": {
+    "hash": "4114175a827a8f85a560d426f932d59ba8754cbc",
+    "time": 1583193921
+  },
   "versions": [
     {
       "tag": "v0.1.3",

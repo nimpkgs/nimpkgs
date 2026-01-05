@@ -5,6 +5,10 @@
   "description": "tie compile-time values to types under names",
   "license": "MIT",
   "web": "https://github.com/metagn/knot",
+  "commit": {
+    "hash": "05af6c144be1a9aa0e78afe07a3e1cdec0000500",
+    "time": 1693212837
+  },
   "tags": [
     "macro",
     "namespace",

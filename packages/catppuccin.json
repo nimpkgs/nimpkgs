@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/catppuccin/nim",
   "doc": "https://catppuccin.github.io/nim",
+  "commit": {
+    "hash": "cc74adfc438b61ad83c83d0d6c58ea7da26e71f9",
+    "time": 1763656876
+  },
   "versions": [
     {
       "tag": "v0.1.1",

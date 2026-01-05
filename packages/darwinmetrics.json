@@ -20,5 +20,6 @@
     "power",
     "network",
     "darwin"
-  ]
+  ],
+  "status": "Unreachable"
 }

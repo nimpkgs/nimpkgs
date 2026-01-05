@@ -5,6 +5,10 @@
   "description": "Nim bindings for Godot Engine",
   "license": "MIT",
   "web": "https://github.com/pragmagic/godot-nim",
+  "commit": {
+    "hash": "81e6e50f67ca34819df72a81c29c77b968b8cad3",
+    "time": 1671263750
+  },
   "versions": [
     {
       "tag": "v0.8.5",

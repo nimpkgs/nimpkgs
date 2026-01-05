@@ -5,6 +5,10 @@
   "description": "json parsing library based on bindings of simdjson",
   "license": "MIT",
   "web": "https://github.com/sainttttt/gemmaJSON",
+  "commit": {
+    "hash": "1382d7c86a726d724503f73d0196f6c893e35c24",
+    "time": 1720069591
+  },
   "tags": [
     "simd",
     "json",

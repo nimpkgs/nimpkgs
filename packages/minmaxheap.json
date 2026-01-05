@@ -5,6 +5,10 @@
   "description": "MinMaxHeap",
   "license": "MIT",
   "web": "https://github.com/stefansalewski/minmaxheap",
+  "commit": {
+    "hash": "63fd1d00588006e4b004d13156e78c1043b127c9",
+    "time": 1552657160
+  },
   "tags": [
     "minmaxheap",
     "heap",

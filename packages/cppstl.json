@@ -5,6 +5,10 @@
   "description": "Bindings for the C++ Standard Template Library (STL)",
   "license": "MIT",
   "web": "https://github.com/BigEpsilon/nim-cppstl",
+  "commit": {
+    "hash": "45ca8979092e9d93a2cf68484043e64fdd5d5b79",
+    "time": 1726487102
+  },
   "versions": [
     {
       "tag": "v0.7.0",

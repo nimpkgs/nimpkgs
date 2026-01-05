@@ -5,6 +5,10 @@
   "description": "Wrapper for SDL 2.x",
   "license": "MIT",
   "web": "https://github.com/nim-lang/sdl2",
+  "commit": {
+    "hash": "e25c67905142c997a72a52c44c2a9736862894be",
+    "time": 1731335871
+  },
   "versions": [
     {
       "tag": "v2.0.5",

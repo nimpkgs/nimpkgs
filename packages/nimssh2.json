@@ -5,6 +5,10 @@
   "description": "libssh2 wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimssh2",
+  "commit": {
+    "hash": "dae9d23d742354350cd221b28c3605c87fee737b",
+    "time": 1541566281
+  },
   "versions": [
     {
       "tag": "v0.1.3",

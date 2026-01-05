@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A small, lightweight ECS framework for Nim.",
   "license": "MIT",
+  "commit": {
+    "hash": "3517517c9fa400b4cf4e3c9962197daae57be11d",
+    "time": 1694897885
+  },
   "tags": [
     "entity-component-system",
     "ecs",

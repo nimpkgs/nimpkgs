@@ -5,6 +5,10 @@
   "description": "A high level SQLite API for Nim",
   "license": "MIT",
   "web": "https://github.com/olliNiinivaara/SQLiteral",
+  "commit": {
+    "hash": "72cb22866138d7e724a5b31b55c2b45470cc1146",
+    "time": 1739448576
+  },
   "tags": [
     "multi-threading",
     "sqlite",

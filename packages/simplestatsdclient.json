@@ -5,6 +5,10 @@
   "description": "Pure nim interface library to send data to any StatsD compatible daemon",
   "license": "MIT",
   "web": "https://github.com/Q-Master/statsdclient.nim",
+  "commit": {
+    "hash": "9bb5c432c0f02755474cb62e3764ab7f755c4b39",
+    "time": 1729603527
+  },
   "versions": [
     {
       "tag": "v0.2.0",

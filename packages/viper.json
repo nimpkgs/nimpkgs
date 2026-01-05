@@ -5,6 +5,10 @@
   "description": "SQL builder library with fluent syntax",
   "license": "GPL-3.0-only",
   "web": "https://gitlab.com/navid-m/viper",
+  "commit": {
+    "hash": "870e994c0d2b140eee64990a0ffc437985ef811a",
+    "time": 1745074612
+  },
   "tags": [
     "sql",
     "builder",

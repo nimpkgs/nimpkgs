@@ -5,6 +5,10 @@
   "description": "runtime array types with destructors",
   "license": "MIT",
   "web": "https://github.com/metagn/manta",
+  "commit": {
+    "hash": "b50131da38cd7b07f486d152997d4a8ffae2777c",
+    "time": 1729937669
+  },
   "tags": [
     "array",
     "length",

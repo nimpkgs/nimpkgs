@@ -5,6 +5,10 @@
   "description": "Small, dependency-free, fast Nim package (and CLI tool) for removing tracking fields from URLs.",
   "license": "LGPL-3.0",
   "web": "https://github.com/AmanoTeam/Unalix-nim",
+  "commit": {
+    "hash": "318778b7b5babf1332824b5a58a82b2c8f5b577c",
+    "time": 1646253239
+  },
   "versions": [
     {
       "tag": "v0.8",

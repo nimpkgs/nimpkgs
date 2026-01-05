@@ -5,6 +5,10 @@
   "description": "Matrix library",
   "license": "MIT",
   "web": "https://github.com/planetis-m/manu",
+  "commit": {
+    "hash": "7da3cb3354a18d6e57d6ad142c8538b7605986d3",
+    "time": 1711055384
+  },
   "versions": [
     {
       "tag": "v2.3.1",

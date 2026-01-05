@@ -5,6 +5,10 @@
   "description": "Linear algebra library for computer graphics applications",
   "license": "MIT",
   "web": "https://github.com/can-lehmann/geometrymath",
+  "commit": {
+    "hash": "e07b2336a497ce8ba7b5ad6f957e8abc2cf1d82e",
+    "time": 1676946845
+  },
   "versions": [
     {
       "tag": "v1.0.0",

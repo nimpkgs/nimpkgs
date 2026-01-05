@@ -5,6 +5,10 @@
   "description": "A performant and scalable HTTP server.",
   "license": "MIT",
   "web": "https://github.com/dom96/httpbeast",
+  "commit": {
+    "hash": "75008aaba497479df4023d52880086deae6385e3",
+    "time": 1702247003
+  },
   "versions": [
     {
       "tag": "v0.4.1",

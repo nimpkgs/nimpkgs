@@ -5,6 +5,10 @@
   "description": "Pure Nim async client for Valkey (Redis-compatible database), forked from nim-lang/redis",
   "license": "MIT",
   "web": "https://github.com/pshankinclarke/valkey-nim",
+  "commit": {
+    "hash": "28f4ddac3710d5a8031b6b947ab569efadda113c",
+    "time": 1765842383
+  },
   "versions": [
     {
       "tag": "v0.1.0",

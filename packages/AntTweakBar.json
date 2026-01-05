@@ -5,6 +5,10 @@
   "description": "nim wrapper around the AntTweakBar c library",
   "license": "MIT",
   "web": "https://github.com/krux02/nimAntTweakBar",
+  "commit": {
+    "hash": "5edfe9a0c019674dba3260dc6b112611d6619c5b",
+    "time": 1632043009
+  },
   "versions": [
     {
       "tag": "v1.0.2",

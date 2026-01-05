@@ -5,6 +5,10 @@
   "description": "A tool for managing a project's changelog",
   "license": "MIT",
   "web": "https://github.com/iffy/changer",
+  "commit": {
+    "hash": "f64c0068b3c6cfc2f557b7f6477dbffe52c0e3e8",
+    "time": 1727703280
+  },
   "versions": [
     {
       "tag": "v0.9.1",

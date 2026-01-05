@@ -5,6 +5,10 @@
   "description": "Universal Rhythm-Game File parser and converter",
   "license": "MIT",
   "web": "https://github.com/prefixaut/rconv",
+  "commit": {
+    "hash": "0f63f04762f6004770048f0a1497956cd43c5370",
+    "time": 1648395362
+  },
   "versions": [
     {
       "tag": "v0.1.0",

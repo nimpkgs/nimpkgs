@@ -5,6 +5,10 @@
   "description": "MIDI file parser in Nim, for Nim",
   "license": "MIT",
   "web": "https://github.com/Mycsina/NiMIDI",
+  "commit": {
+    "hash": "8efd1e75817f770c24f932c4ed395f8cdff5acf6",
+    "time": 1700513920
+  },
   "tags": [
     "MIDI",
     "parser",

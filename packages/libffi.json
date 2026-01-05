@@ -5,6 +5,10 @@
   "description": "libffi wrapper for Nim.",
   "license": "MIT",
   "web": "https://github.com/Araq/libffi",
+  "commit": {
+    "hash": "bb2bdaf1a29a4bff6fbd8ae4695877cbb3ec783e",
+    "time": 1661234792
+  },
   "tags": [
     "ffi",
     "library",

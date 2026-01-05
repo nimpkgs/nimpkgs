@@ -5,6 +5,10 @@
   "description": "Sequoia PGP wrapper for Nim",
   "license": "GPLv3",
   "web": "https://github.com/ba0f3/sequoia.nim",
+  "commit": {
+    "hash": "92e5fb8307d7945624099f38a31bdbf9b109442c",
+    "time": 1633049861
+  },
   "tags": [
     "sequoia",
     "pgp",

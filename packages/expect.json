@@ -5,6 +5,10 @@
   "description": "Rust-style expect procedures",
   "license": "BSD-3-Clause",
   "web": "https://pony.biz/expect/",
+  "commit": {
+    "hash": "9e4d087f6111f78ccbb928fdaefe56f35db58113",
+    "time": 1754677327
+  },
   "versions": [
     {
       "tag": "v0.2.0",

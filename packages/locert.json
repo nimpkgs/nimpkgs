@@ -5,6 +5,10 @@
   "description": "Simple cert generator for local development.",
   "license": "BSD-3-Clause",
   "web": "https://github.com/vandot/locert",
+  "commit": {
+    "hash": "9f6acc2012a5702b67453fb7714c19fc580510fd",
+    "time": 1680532541
+  },
   "tags": [
     "cert",
     "ca",

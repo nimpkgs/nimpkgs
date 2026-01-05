@@ -5,6 +5,10 @@
   "description": "make anything async [to be honest, fake async]",
   "license": "MIT",
   "web": "https://github.com/hamidb80/asyncanything",
+  "commit": {
+    "hash": "c908abaa93aefee7c5b071003ef909120d105102",
+    "time": 1645288058
+  },
   "tags": [
     "async",
     "threads",

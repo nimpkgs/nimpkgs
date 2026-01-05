@@ -5,6 +5,10 @@
   "description": "A basic little argument parser",
   "license": "MIT",
   "web": "https://github.com/squattingmonk/blarg",
+  "commit": {
+    "hash": "dbc661f9bd1391013fb2de5d3309ea87d6d6375d",
+    "time": 1672583576
+  },
   "tags": [
     "command-line",
     "options",

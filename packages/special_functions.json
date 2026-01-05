@@ -5,6 +5,10 @@
   "description": "Special mathematical functions in Nim",
   "license": "Apache-2.0 License",
   "web": "https://github.com/ayman-albaz/special-functions",
+  "commit": {
+    "hash": "c3cd100b0d656aaf55d611b131f7650f50994277",
+    "time": 1657984100
+  },
   "versions": [
     {
       "tag": "v0.2.0",

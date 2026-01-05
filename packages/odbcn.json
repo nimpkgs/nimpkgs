@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://sr.ht/~mjaa/odbcn-nim/",
   "doc": "https://mjaa.srht.site/odbcn-nim/odbcn.html",
+  "commit": {
+    "hash": "2755b302548347a562c889dbf7d4229d1a341abf",
+    "time": 1704827251
+  },
   "versions": [
     {
       "tag": "v0.6.2",

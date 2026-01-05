@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/jackhftang/threadproxy.nim",
   "doc": "https://jackhftang.github.io/threadproxy.nim/",
+  "commit": {
+    "hash": "1889a876ba7d16bd5194692e75719bc6e751f7b5",
+    "time": 1615305222
+  },
   "tags": [
     "thread",
     "ITC",

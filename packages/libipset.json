@@ -5,6 +5,10 @@
   "description": "libipset wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/ba0f3/libipset.nim",
+  "commit": {
+    "hash": "2d689ee288be6a5b95d072d2e3857fc6ba73cd03",
+    "time": 1633049822
+  },
   "tags": [
     "ipset",
     "firewall",

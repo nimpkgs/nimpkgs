@@ -5,6 +5,10 @@
   "description": "Simple Graph Library",
   "license": "MIT",
   "web": "https://github.com/erhlee-bird/simple_graph",
+  "commit": {
+    "hash": "566b777fccb7204304c0ae5588bb378051e0735d",
+    "time": 1567037462
+  },
   "versions": [
     {
       "tag": "v0.1.0",

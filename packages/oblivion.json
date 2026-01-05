@@ -5,6 +5,10 @@
   "description": "Shell command manager",
   "license": "MIT",
   "web": "https://github.com/sealmove/oblivion",
+  "commit": {
+    "hash": "afd0581d7cd7f054ee849e65ab4b026238f23d8c",
+    "time": 1618572788
+  },
   "versions": [
     {
       "tag": "v0.1.0",

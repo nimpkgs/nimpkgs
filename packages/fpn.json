@@ -5,6 +5,10 @@
   "description": "A fixed point number library in pure Nim.",
   "license": "MIT",
   "web": "https://gitlab.com/lbartoletti/fpn",
+  "commit": {
+    "hash": "bd1e1da0e6efdc8a7307128c8e737fb00b9425c6",
+    "time": 1744140730
+  },
   "versions": [
     {
       "tag": "v0.1.0",

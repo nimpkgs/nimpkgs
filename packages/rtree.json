@@ -5,6 +5,10 @@
   "description": "R-Tree",
   "license": "MIT",
   "web": "https://github.com/stefansalewski/RTree",
+  "commit": {
+    "hash": "2a6a80f5cbcbc0673bbf67628c1766baa838fc1d",
+    "time": 1617445526
+  },
   "tags": [
     "library"
   ]

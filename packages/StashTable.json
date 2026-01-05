@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/olliNiinivaara/StashTable",
   "doc": "https://htmlpreview.github.io/?https://github.com/olliNiinivaara/StashTable/blob/master/src/stashtable.html",
+  "commit": {
+    "hash": "d472ee8611a9ed986c49fed57540d67496ea2f10",
+    "time": 1691922130
+  },
   "versions": [
     {
       "tag": "v1.2.2",

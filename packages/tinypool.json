@@ -5,6 +5,10 @@
   "description": "A minimalistic connection pooling package",
   "license": "MIT",
   "web": "https://github.com/PhilippMDoerner/TinyPool",
+  "commit": {
+    "hash": "80ccfb21d511ee66a1e6f476b8a095d045e57043",
+    "time": 1674252198
+  },
   "versions": [
     {
       "tag": "v1.0.1",

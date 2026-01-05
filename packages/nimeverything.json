@@ -5,6 +5,10 @@
   "description": "everything  search engine wrapper",
   "license": "MIT",
   "web": "https://github.com/xland/nimeverything",
+  "commit": {
+    "hash": "f61fb11de69906c46869564b1bd301eb1cc237de",
+    "time": 1441205527
+  },
   "tags": [
     "everything",
     "voidtools",

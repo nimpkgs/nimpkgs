@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/calebwin/pipelines",
   "doc": "https://github.com/calebwin/pipelines",
+  "commit": {
+    "hash": "e623d2d03e42467eb50dd1882e3864108fbff0ed",
+    "time": 1571429653
+  },
   "versions": [
     {
       "tag": "v0.1.0",

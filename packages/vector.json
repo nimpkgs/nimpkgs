@@ -5,6 +5,10 @@
   "description": "Simple reallocating vector",
   "license": "MIT",
   "web": "https://github.com/tontinton/vector",
+  "commit": {
+    "hash": "77d4a292f6c504180da0968834303bdd459dd1c4",
+    "time": 1601307340
+  },
   "versions": [
     {
       "tag": "v0.1.1",

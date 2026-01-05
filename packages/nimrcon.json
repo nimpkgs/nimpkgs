@@ -5,6 +5,10 @@
   "description": "Simple RCON client in Nim lang.",
   "license": "MIT",
   "web": "https://github.com/mcilya/nimrcon",
+  "commit": {
+    "hash": "03a95d5d59fb4bbd160a16e3c5cdb1f6738ec45c",
+    "time": 1636166588
+  },
   "tags": [
     "rcon",
     "client",

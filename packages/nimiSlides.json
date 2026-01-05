@@ -5,6 +5,10 @@
   "description": "Create Reveal.js slideshows in Nim",
   "license": "MIT",
   "web": "https://github.com/HugoGranstrom/nimib-reveal/",
+  "commit": {
+    "hash": "2fe737b7dcdf82ab4fc291848f1bfde96243e45e",
+    "time": 1723639798
+  },
   "versions": [
     {
       "tag": "v0.2.6",

@@ -5,6 +5,10 @@
   "description": "Generate HTML string by nim object",
   "license": "MIT",
   "web": "https://github.com/z-kk/htmlgenerator",
+  "commit": {
+    "hash": "059dd85e403b6631db5ee72a57bf9598a09f2ec5",
+    "time": 1671097844
+  },
   "versions": [
     {
       "tag": "v0.1.7",

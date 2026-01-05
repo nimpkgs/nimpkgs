@@ -5,6 +5,10 @@
   "description": "Simple testing framework for Nim",
   "license": "GPL-2.0-only",
   "web": "https://github.com/avahe-kellenberger/nimtest",
+  "commit": {
+    "hash": "17bd3a0f794106428b8592c69832bf48c97b23e2",
+    "time": 1662912181
+  },
   "versions": [
     {
       "tag": "v0.1.2",

@@ -6,6 +6,10 @@
   "license": "Apache-2.0",
   "web": "https://github.com/Nimberite-Development/TagForge-Nim",
   "doc": "https://nimberite-development.github.io/TagForge-Nim/",
+  "commit": {
+    "hash": "19c93cca3eb6dd664952f3cb33bba40dedcbc035",
+    "time": 1756262177
+  },
   "versions": [
     {
       "tag": "v0.1.1",

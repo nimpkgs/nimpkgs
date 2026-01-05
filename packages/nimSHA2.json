@@ -5,6 +5,10 @@
   "description": "Secure Hash Algorithm - 2, [224, 256, 384, and 512 bits]",
   "license": "MIT",
   "web": "https://github.com/jangko/nimSHA2",
+  "commit": {
+    "hash": "b8f666069dff1ed0c5142dd1ca692f0e71434716",
+    "time": 1631171307
+  },
   "tags": [
     "hash",
     "crypto",

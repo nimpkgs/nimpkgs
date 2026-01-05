@@ -5,6 +5,10 @@
   "description": "Sort imports in Nim source files",
   "license": "GPL-3.0-only",
   "web": "https://github.com/cycneuramus/nimpsort",
+  "commit": {
+    "hash": "ccb659760648613bb8047d257f6986aef686da3b",
+    "time": 1765013378
+  },
   "versions": [
     {
       "tag": "v0.1.1",

@@ -5,6 +5,10 @@
   "description": "Bisection algorithms ported from Python",
   "license": "MIT",
   "web": "https://github.com/berquist/bisect",
+  "commit": {
+    "hash": "ab6fb4b0ab64b0e43120abd140b320256cf8108a",
+    "time": 1677989546
+  },
   "versions": [
     {
       "tag": "v0.1.1",

@@ -5,6 +5,10 @@
   "description": "The Ultimate Raylib gaming library wrapper",
   "license": "MIT",
   "web": "https://github.com/greenfork/nimraylib_now",
+  "commit": {
+    "hash": "baf57c23da279de7c518edc124a791c77495b452",
+    "time": 1681540023
+  },
   "versions": [
     {
       "tag": "v0.15.0",

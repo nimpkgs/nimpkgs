@@ -5,6 +5,10 @@
   "description": "fast interval overlaps",
   "license": "MIT",
   "web": "https://github.com/brentp/nim-lapper",
+  "commit": {
+    "hash": "bdd43a522d2bf1730794e3a68a45673f83a42cfe",
+    "time": 1750430429
+  },
   "versions": [
     {
       "tag": "v0.1.8",

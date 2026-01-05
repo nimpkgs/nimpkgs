@@ -5,6 +5,10 @@
   "description": "Image manipulation library",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/imageman",
+  "commit": {
+    "hash": "d148023428c3f2260859adeca3e2eb15a4b37e14",
+    "time": 1616832131
+  },
   "versions": [
     {
       "tag": "v0.8.2",

@@ -5,6 +5,10 @@
   "description": "Async primitives working on std/asyncdispatch",
   "license": "MIT",
   "web": "https://github.com/Alogani/asyncsync",
+  "commit": {
+    "hash": "c4ba6984898b466e143fe16ee0f01e060a72715d",
+    "time": 1715016219
+  },
   "versions": [
     {
       "tag": "v0.5.0",

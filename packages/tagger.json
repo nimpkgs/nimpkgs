@@ -5,6 +5,10 @@
   "description": "A library to generate xml and html tags",
   "license": "MIT",
   "web": "https://github.com/aruZeta/tagger",
+  "commit": {
+    "hash": "ff1f1812bdc8012c6c3876164e89cb6a56ab3662",
+    "time": 1658264826
+  },
   "versions": [
     {
       "tag": "v0.2.0",

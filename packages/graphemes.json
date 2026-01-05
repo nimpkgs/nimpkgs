@@ -5,6 +5,10 @@
   "description": "Grapheme aware string handling (Unicode tr29)",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-graphemes",
+  "commit": {
+    "hash": "732eed96fa5616d0bd57ab3d27c7ce6516345258",
+    "time": 1726776153
+  },
   "versions": [
     {
       "tag": "v0.12.0",

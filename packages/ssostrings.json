@@ -5,6 +5,10 @@
   "description": "Small String Optimized (SSO) string implementation",
   "license": "MIT",
   "web": "https://github.com/planetis-m/ssostrings",
+  "commit": {
+    "hash": "ecdb593ff3e806c1323c48955b0181f8298d98dc",
+    "time": 1728335229
+  },
   "versions": [
     {
       "tag": "v0.7.1",

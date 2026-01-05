@@ -5,6 +5,10 @@
   "description": "Chebyshev approximation.",
   "license": "MIT",
   "web": "https://github.com/jxy/chebyshev",
+  "commit": {
+    "hash": "b66b85b89478b629a1a6d3d0bf27865a6e20ed41",
+    "time": 1574890133
+  },
   "versions": [
     {
       "tag": "v0.2.2",

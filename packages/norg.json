@@ -6,6 +6,10 @@
   "license": "AGPL-3.0-or-later",
   "web": "https://norgbackup.net",
   "doc": "https://norgbackup.net/usage/",
+  "commit": {
+    "hash": "8037b0d0596d42379d1bf0ba10a93dd13eb454c3",
+    "time": 1766166937
+  },
   "versions": [
     {
       "tag": "v0.2.3",

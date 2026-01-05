@@ -5,6 +5,10 @@
   "description": "Standards-compliant HTML5 parser in Nim",
   "license": "Unlicense",
   "web": "https://chawan.net/doc/chame/",
+  "commit": {
+    "hash": "c82fe15fd4d8e1e11718287c61ac70f1583cfca5",
+    "time": 1757440665
+  },
   "versions": [
     {
       "tag": "v1.0.5",

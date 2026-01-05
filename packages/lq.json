@@ -5,6 +5,10 @@
   "description": "Directory listing tool",
   "license": "GPL-2.0",
   "web": "https://github.com/madprops/lq",
+  "commit": {
+    "hash": "6891eb883bcb453606c11a09912b2b627a74a3e4",
+    "time": 1681591821
+  },
   "tags": [
     "directory",
     "file",

@@ -5,6 +5,10 @@
   "description": "lightweight, energy-efficient, easily auditable threadpool",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-taskpools",
+  "commit": {
+    "hash": "4acdc6ef005a93dba09f902ed75197548cf7b451",
+    "time": 1764244552
+  },
   "versions": [
     {
       "tag": "v0.1.0",

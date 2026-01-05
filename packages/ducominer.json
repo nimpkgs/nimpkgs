@@ -5,6 +5,10 @@
   "description": "A fast, multithreaded miner for DuinoCoin",
   "license": "MIT",
   "web": "https://github.com/its5Q/ducominer",
+  "commit": {
+    "hash": "d8c767db67c3f40569b445601090faf956b56e12",
+    "time": 1612225962
+  },
   "tags": [
     "miner",
     "mining",

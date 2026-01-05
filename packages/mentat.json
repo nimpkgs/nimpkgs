@@ -5,6 +5,10 @@
   "description": "A Nim library for data science and machine learning",
   "license": "Apache License 2.0",
   "web": "https://github.com/ruivieira/nim-mentat",
+  "commit": {
+    "hash": "759f97c6216845e726429ce2833d162cc17780cf",
+    "time": 1557227431
+  },
   "versions": [
     {
       "tag": "v0.1.2",

@@ -5,6 +5,10 @@
   "description": "A basic library to authenticate to fediverse instances",
   "license": "GPLv3",
   "web": "https://codeberg.org/pswilde/fedi_auth",
+  "commit": {
+    "hash": "472c63cb98ab5a83378f9e8e2927de5c6d1286da",
+    "time": 1695829620
+  },
   "tags": [
     "library",
     "fediverse",

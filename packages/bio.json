@@ -5,6 +5,10 @@
   "description": "Bytes utils for Nim.",
   "license": "Apache-2.0",
   "web": "https://github.com/xzeshen/bio",
+  "commit": {
+    "hash": "0f5ed58b31c678920b6b4f7c1783984e6660be97",
+    "time": 1589634628
+  },
   "versions": [
     {
       "tag": "v0.1.0",

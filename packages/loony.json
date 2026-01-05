@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/shayanhabibi/loony",
   "doc": "https://github.com/shayanhabibi/loony/blob/main/README.md",
+  "commit": {
+    "hash": "cc65bd51c2ddde2578959f57c933efde106cfeeb",
+    "time": 1725765524
+  },
   "tags": [
     "fifo",
     "queue",

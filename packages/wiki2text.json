@@ -5,6 +5,10 @@
   "description": "Quickly extracts natural-language text from a MediaWiki XML file.",
   "license": "MIT",
   "web": "https://github.com/rspeer/wiki2text",
+  "commit": {
+    "hash": "1859b9e336c8cdbb698b6b1a24cb077e18c094e5",
+    "time": 1543250396
+  },
   "versions": [
     {
       "tag": "v0.2.1",

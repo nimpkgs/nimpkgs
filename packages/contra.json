@@ -5,6 +5,10 @@
   "description": "Lightweight Contract Programming, Design by Contract, on 9 LoC, NimScript, JavaScript, compile-time.",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-contra",
+  "commit": {
+    "hash": "21a9794324e82047928282a73bb19683437b72f4",
+    "time": 1643233667
+  },
   "tags": [
     "contract",
     "nimscript",

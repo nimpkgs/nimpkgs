@@ -5,6 +5,10 @@
   "description": "A Nim library for making lightweight Electron-like HTML/JS GUI apps, with full access to Nim capabilities.",
   "license": "MIT",
   "web": "https://github.com/Niminem/Neel",
+  "commit": {
+    "hash": "0e484079a12be38a9ef60d42872b0ceeed3da25e",
+    "time": 1698875482
+  },
   "versions": [
     {
       "tag": "v1.1.0",

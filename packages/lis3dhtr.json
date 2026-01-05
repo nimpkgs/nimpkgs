@@ -5,6 +5,10 @@
   "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
   "license": "MIT",
   "web": "https://github.com/garrettkinman/ratel-LIS3DHTR",
+  "commit": {
+    "hash": "58cc305c27065e9802f9eba526144e1c94e75b94",
+    "time": 1675828982
+  },
   "tags": [
     "library",
     "embedded",

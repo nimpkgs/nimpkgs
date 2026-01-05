@@ -5,6 +5,10 @@
   "description": "TagLib Audio Meta-Data Library wrapper",
   "license": "MIT",
   "web": "https://github.com/alex-laskin/nim-taglib",
+  "commit": {
+    "hash": "da4769d737df5d21d03975f1a1170a74a8165abe",
+    "time": 1761846823
+  },
   "tags": [
     "audio",
     "metadata",

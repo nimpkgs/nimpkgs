@@ -5,6 +5,10 @@
   "description": "iterate faster. functional style, lazy like, extensible iterator library",
   "license": "MIT",
   "web": "https://github.com/hamidb80/steps",
+  "commit": {
+    "hash": "0843fc3a3a6923a3c1b909e36ea4e20ad2ebfef1",
+    "time": 1703956831
+  },
   "versions": [
     {
       "tag": "v1.0.4",

@@ -5,6 +5,10 @@
   "description": "Simple configuration file format (scfg) parser",
   "license": "CC-BY-SA 4.0",
   "web": "https://codeberg.org/xoich/nim-scfg",
+  "commit": {
+    "hash": "f1116d89b46462d7a353c56288f75992523f675c",
+    "time": 1674817160
+  },
   "tags": [
     "library",
     "config",

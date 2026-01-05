@@ -5,6 +5,10 @@
   "description": "Statistical tests in Nim.",
   "license": "Apache-2.0 License",
   "web": "https://github.com/ayman-albaz/statistical-tests",
+  "commit": {
+    "hash": "0c50acf256d54c7c206f46259b874e7ad5b6b18e",
+    "time": 1657988858
+  },
   "versions": [
     {
       "tag": "v0.2.0",

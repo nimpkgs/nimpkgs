@@ -5,6 +5,10 @@
   "description": "A filtering SOCKS proxy server and client library written in nim.",
   "license": "MIT",
   "web": "https://github.com/enthus1ast/nimSocks",
+  "commit": {
+    "hash": "db736aff10573aa5cc8ddd60170a26849219645a",
+    "time": 1676066160
+  },
   "tags": [
     "SOCKS",
     "server",

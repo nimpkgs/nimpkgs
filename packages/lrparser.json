@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/vanyle/lrparser/",
   "doc": "https://vanyle.github.io/lrparser/lrparser.html",
+  "commit": {
+    "hash": "3287bfdaca7beaff8f9009a2e6c3b660694cc2d7",
+    "time": 1642807803
+  },
   "tags": [
     "parser",
     "slr",

@@ -5,6 +5,10 @@
   "description": "RIFF file handling for Nim ",
   "license": "WTFPL",
   "web": "https://github.com/johnnovak/nim-riff",
+  "commit": {
+    "hash": "03f0ca35fca4eeb1f32b5f3fae414dd89f65521b",
+    "time": 1712472781
+  },
   "versions": [
     {
       "tag": "v0.2.2",

@@ -5,6 +5,10 @@
   "description": "Functions for string validation",
   "license": "MIT",
   "web": "https://github.com/Adeohluwa/validator",
+  "commit": {
+    "hash": "9aa146ab3455e57d95843b13f1bf70b465afc4ad",
+    "time": 1693854780
+  },
   "tags": [
     "strings",
     "validation",

@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A vim-based editor",
   "license": "Public Domain",
+  "commit": {
+    "hash": "05e6e52ef509394debe46c38ce7f04a38540f8a9",
+    "time": 1693505845
+  },
   "tags": [
     "editor",
     "vim"

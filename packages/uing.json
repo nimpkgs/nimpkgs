@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/neroist/uing",
   "doc": "https://neroist.github.io/uing",
+  "commit": {
+    "hash": "cc8a559c5307d927ebf32d170bd14004905c599f",
+    "time": 1721829272
+  },
   "tags": [
     "ui",
     "gui",

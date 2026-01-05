@@ -5,6 +5,10 @@
   "description": "Self-contained fit of linear models with regression diagnostics",
   "license": "MIT/ISC",
   "web": "https://github.com/c-blake/fitl",
+  "commit": {
+    "hash": "78ffb807db4305ada4359636311eb34293686837",
+    "time": 1764172082
+  },
   "tags": [
     "statistics",
     "weighted",

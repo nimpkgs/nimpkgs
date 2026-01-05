@@ -6,6 +6,10 @@
   "license": "GPL-3.0-only",
   "web": "https://github.com/nirokay/docchanger",
   "doc": "https://nirokay.github.io/nim-docs/docchanger/docchanger",
+  "commit": {
+    "hash": "2b2c901d1346340af5aac4cbe630e089f08c4a87",
+    "time": 1698930380
+  },
   "tags": [
     "document-changer",
     "document-generator",

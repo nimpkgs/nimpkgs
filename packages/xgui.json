@@ -5,6 +5,10 @@
   "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
   "license": "MIT",
   "web": "https://github.com/thatrandomperson5/xgui-nim",
+  "commit": {
+    "hash": "f25da858e833a7b6bf3fd1631831ef7330d94d4d",
+    "time": 1704928537
+  },
   "versions": [
     {
       "tag": "v0.2.0",

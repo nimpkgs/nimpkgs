@@ -5,6 +5,10 @@
   "description": "Easy safe signal handling",
   "license": "MIT",
   "web": "https://github.com/tdely/selfpipe",
+  "commit": {
+    "hash": "782b12a7239588c5ea39d7b3b20e20aee1fb20a5",
+    "time": 1713616124
+  },
   "tags": [
     "signal",
     "signalhandling"

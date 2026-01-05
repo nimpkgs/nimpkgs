@@ -5,6 +5,10 @@
   "description": "Nim implementation of Snappy compression algorithm",
   "license": "MIT",
   "web": "https://github.com/status-im/nim-snappy",
+  "commit": {
+    "hash": "00bfcef94f8ef6981df5d5b994897f6695badfb2",
+    "time": 1760102724
+  },
   "tags": [
     "compression",
     "snappy",

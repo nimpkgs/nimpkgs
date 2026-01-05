@@ -12,5 +12,6 @@
     "directory",
     "recursive",
     "executable"
-  ]
+  ],
+  "status": "Unreachable"
 }

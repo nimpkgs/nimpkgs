@@ -5,6 +5,10 @@
   "description": "A library and program for getting geomancy charts and figures.",
   "license": "Unlicense",
   "web": "https://github.com/VitorGoatman/geomancer",
+  "commit": {
+    "hash": "5caf0fd970b6e7943f6438ba21ea04cafaf34699",
+    "time": 1668980852
+  },
   "tags": [
     "geomancy",
     "divination"

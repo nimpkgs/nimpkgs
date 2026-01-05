@@ -5,6 +5,10 @@
   "description": "A configurable LSP server for debugging/testing LSP clients",
   "license": "MIT",
   "web": "https://github.com/fox0430/lasm",
+  "commit": {
+    "hash": "149b53af231649df5ce149f3da4efc4a40428846",
+    "time": 1754441498
+  },
   "tags": [
     "lsp",
     "editor"

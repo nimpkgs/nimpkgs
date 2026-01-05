@@ -5,6 +5,10 @@
   "description": "🍕🍺 emoji support for Nim 👑 and the world 🌍",
   "license": "MIT",
   "web": "https://github.com/pietroppeter/nimoji",
+  "commit": {
+    "hash": "f15e35e3fdddf6bf47bc07b8720b77d4519832bc",
+    "time": 1676305470
+  },
   "versions": [
     {
       "tag": "v0.1.5",

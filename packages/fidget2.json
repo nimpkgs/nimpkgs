@@ -5,6 +5,10 @@
   "description": "Cross platform UI, with Figma API and OpenGL backend.",
   "license": "MIT",
   "web": "https://github.com/treeform/fidget2",
+  "commit": {
+    "hash": "b55e5b5731391081c69229809451112f10e39a9e",
+    "time": 1765926295
+  },
   "tags": [
     "ui",
     "figma",

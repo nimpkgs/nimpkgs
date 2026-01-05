@@ -5,6 +5,10 @@
   "description": "cli tool to query battery info for GNU/Linux",
   "license": "GPL-3.0-only",
   "web": "https://gitlab.com/prashere/battinfo",
+  "commit": {
+    "hash": "2ce7b89d350d73fc49bd200dc4347b2b5e3f5ac2",
+    "time": 1692637040
+  },
   "versions": [
     {
       "tag": "v0.2.1",

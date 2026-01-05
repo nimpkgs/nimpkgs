@@ -5,6 +5,10 @@
   "description": "Everything you want to do with colors.",
   "license": "MIT",
   "web": "https://github.com/treeform/chroma",
+  "commit": {
+    "hash": "2381748f92e5ea16cb2403ff7e20c6dd5443a59d",
+    "time": 1758341362
+  },
   "versions": [
     {
       "tag": "v1.0.0",

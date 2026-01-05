@@ -5,6 +5,10 @@
   "description": "Noise protocol framework implementation in Nim",
   "license": "MIT",
   "web": "https://github.com/kaichaosun/nim-noise",
+  "commit": {
+    "hash": "378ed78c1dfcbf4477cefa6b4489a539c1ebcea2",
+    "time": 1761642066
+  },
   "versions": [
     {
       "tag": "v0.0.2",

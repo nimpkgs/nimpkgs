@@ -5,6 +5,10 @@
   "description": "FastQ and Fasta readers for NIM",
   "license": "LGPL-3.0",
   "web": "https://github.com/ahcm/fastx_reader",
+  "commit": {
+    "hash": "9befdfc3ba29460b4b0d344c4544dadda8f27cc3",
+    "time": 1563795819
+  },
   "tags": [
     "bioinformatics,",
     "fasta,",

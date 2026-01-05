@@ -5,6 +5,10 @@
   "description": "A nim wrapper for Wren, an embedded scripting language",
   "license": "MIT",
   "web": "https://github.com/geotre/wren",
+  "commit": {
+    "hash": "42389a0be7ce1aff11a6dbfb2c6be6907ce430c1",
+    "time": 1547815825
+  },
   "tags": [
     "wren",
     "scripting",

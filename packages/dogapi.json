@@ -5,6 +5,10 @@
   "description": "Dog API client",
   "license": "Apache-2.0",
   "web": "https://github.com/thechampagne/dogapi-nim",
+  "commit": {
+    "hash": "b803a6d57e63568b83460bdc04587ac874983e9c",
+    "time": 1649497644
+  },
   "versions": [
     {
       "tag": "v1.0.0",

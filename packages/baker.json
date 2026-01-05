@@ -5,6 +5,10 @@
   "description": "Static website generation",
   "license": "Apache-2.0",
   "web": "https://github.com/jasonrbriggs/baker",
+  "commit": {
+    "hash": "683d6c9239b6abf7e85bed0b852ad6b4c635b7d2",
+    "time": 1613818230
+  },
   "versions": [
     {
       "tag": "v2.0.9",

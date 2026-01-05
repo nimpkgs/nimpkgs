@@ -5,6 +5,10 @@
   "description": "Implementation of various LZ77 algorithms",
   "license": "MIT",
   "web": "https://github.com/sealmove/LZ77",
+  "commit": {
+    "hash": "39713096943091baf7fea154aec8c2a7bcc40bb7",
+    "time": 1589194089
+  },
   "tags": [
     "library",
     "compress",

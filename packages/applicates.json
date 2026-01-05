@@ -5,6 +5,10 @@
   "description": "\"pointers\" to cached AST that instantiate routines when called",
   "license": "MIT",
   "web": "https://metagn.github.io/applicates/applicates.html",
+  "commit": {
+    "hash": "4e410abb6f9ae8292a06fded8b33fd967ca17df9",
+    "time": 1727427147
+  },
   "versions": [
     {
       "tag": "v0.4.0",

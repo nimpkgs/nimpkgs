@@ -5,6 +5,10 @@
   "description": "Code writer for Cirru syntax",
   "license": "MIT",
   "web": "https://github.com/Cirru/writer.nim",
+  "commit": {
+    "hash": "d603e225f9436084abe955863591da3071245415",
+    "time": 1615708272
+  },
   "versions": [
     {
       "tag": "v0.1.4",

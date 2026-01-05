@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the C NanoVG antialiased vector graphics rendering library for OpenGL",
   "license": "MIT",
   "web": "https://github.com/johnnovak/nim-nanovg",
+  "commit": {
+    "hash": "a2c3f8b9114b87380a35c83ff84b84c9ddebe744",
+    "time": 1720180470
+  },
   "versions": [
     {
       "tag": "v0.4.0",

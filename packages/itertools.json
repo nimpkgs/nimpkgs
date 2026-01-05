@@ -5,6 +5,10 @@
   "description": "Itertools for Nim",
   "license": "MIT",
   "web": "https://narimiran.github.io/itertools/",
+  "commit": {
+    "hash": "06c4de8b6b124368be269b00ecd0b34a3731739f",
+    "time": 1671438512
+  },
   "versions": [
     {
       "tag": "v0.4.0",

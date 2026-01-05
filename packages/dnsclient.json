@@ -5,6 +5,10 @@
   "description": "Simple DNS Client & Library",
   "license": "MIT",
   "web": "https://github.com/ba0f3/dnsclient.nim",
+  "commit": {
+    "hash": "23214235d4784d24aceed99bbfe153379ea557c8",
+    "time": 1686734231
+  },
   "tags": [
     "dns",
     "dnsclient"

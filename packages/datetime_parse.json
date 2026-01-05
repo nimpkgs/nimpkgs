@@ -5,6 +5,10 @@
   "description": "parse datetime from various resources",
   "license": "MIT",
   "web": "https://github.com/bung87/datetime_parse",
+  "commit": {
+    "hash": "2ce54c35e43a165db056ec0135d4f416cb823ccb",
+    "time": 1589013605
+  },
   "tags": [
     "datetime",
     "parser"

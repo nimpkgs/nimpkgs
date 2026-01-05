@@ -5,6 +5,10 @@
   "description": "A library to quickly generate functions converting instances of type A to B",
   "license": "MIT",
   "web": "https://github.com/PhilippMDoerner/mapster",
+  "commit": {
+    "hash": "0983b5e64c5702aa3d6ea202cb81ef7702517fa4",
+    "time": 1766484370
+  },
   "versions": [
     {
       "tag": "v1.2.0",

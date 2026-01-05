@@ -5,6 +5,10 @@
   "description": "Argument parser",
   "license": "MIT",
   "web": "https://github.com/madprops/nap",
+  "commit": {
+    "hash": "e89077ec751f1308a0101c99aaefe57e55b59d45",
+    "time": 1715335917
+  },
   "versions": [
     {
       "tag": "v5.2.0",

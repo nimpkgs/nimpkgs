@@ -5,6 +5,10 @@
   "description": "Find and Edit Utility",
   "license": "MIT",
   "web": "https://github.com/h3rald/fae",
+  "commit": {
+    "hash": "19479c7091968a79b96bd250a9dd89e579437c39",
+    "time": 1691809438
+  },
   "versions": [
     {
       "tag": "v1.1.0",

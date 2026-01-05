@@ -5,6 +5,10 @@
   "description": "De/serialization library for Nim ",
   "license": "MIT",
   "web": "https://github.com/gabbhack/deser",
+  "commit": {
+    "hash": "efa0b92765fa84130aadb62344aec4e703f13805",
+    "time": 1690732815
+  },
   "versions": [
     {
       "tag": "v0.3.2",

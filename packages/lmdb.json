@@ -5,6 +5,10 @@
   "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
   "license": "OpenLDAP",
   "web": "https://github.com/FedericoCeratto/nim-lmdb",
+  "commit": {
+    "hash": "88e384acc3f0d7bb627dc0a0602d1f451fd34e35",
+    "time": 1570875956
+  },
   "tags": [
     "wrapper",
     "lmdb",

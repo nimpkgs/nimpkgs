@@ -5,6 +5,10 @@
   "description": "Web Technologies based Crossplatform GUI, modified wrapper for modified webview.h",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/webgui",
+  "commit": {
+    "hash": "5d6d1ceefac7c86278b6632b4b49f42c116b6095",
+    "time": 1763856261
+  },
   "tags": [
     "web",
     "webview",

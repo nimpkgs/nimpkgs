@@ -5,6 +5,10 @@
   "description": "Wrapper of the AVbin library for the Nim language.",
   "license": "LGPL",
   "web": "https://github.com/Vladar4/avbin",
+  "commit": {
+    "hash": "d2b6712119660568691a88572209b1f4a8a05032",
+    "time": 1514732769
+  },
   "tags": [
     "audio",
     "video",

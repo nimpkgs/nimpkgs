@@ -5,6 +5,10 @@
   "description": "Syllable estimation for Nim.",
   "license": "MIT",
   "web": "https://github.com/tonogram/nim-syllables",
+  "commit": {
+    "hash": "d8092f13def46862a1ab2746cf64ba3f9d876281",
+    "time": 1610395357
+  },
   "versions": [
     {
       "tag": "v1.0.0",

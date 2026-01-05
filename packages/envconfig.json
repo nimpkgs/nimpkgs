@@ -5,6 +5,10 @@
   "description": "envconfig provides a function to get config objects from environment variables.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/envconfig",
+  "commit": {
+    "hash": "612491f34fb4b77e499f5150a9a9e4aaaaeb41ec",
+    "time": 1720232951
+  },
   "versions": [
     {
       "tag": "v1.1.0",

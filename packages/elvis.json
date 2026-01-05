@@ -5,6 +5,10 @@
   "description": "The elvis package implements a 'truthy', 'ternary' and a 'coalesce' operator to Nim as syntactic sugar for working with conditional expressions",
   "license": "MIT",
   "web": "https://github.com/mattaylor/elvis",
+  "commit": {
+    "hash": "9aac6d4d80b061251ba1b67a0fb68e74f7b4743c",
+    "time": 1642435904
+  },
   "versions": [
     {
       "tag": "v0.5.0",

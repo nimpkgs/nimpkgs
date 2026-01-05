@@ -5,6 +5,10 @@
   "description": "An efficient packet parser for MySQL Client/Server Protocol. Help you to write Mysql communication in either BLOCKIONG-IO or NON-BLOCKING-IO.",
   "license": "MIT",
   "web": "https://github.com/tulayang/mysqlparser",
+  "commit": {
+    "hash": "0b4c9ce39ff6eab4f398eac158b41fb0d7945d11",
+    "time": 1597232072
+  },
   "tags": [
     "mysql",
     "protocol",

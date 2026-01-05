@@ -5,6 +5,10 @@
   "description": "Interactive Nim Shell",
   "license": "MIT",
   "web": "https://github.com/AndreiRegiani/INim",
+  "commit": {
+    "hash": "e84a470f6de6294476beb75cbf2ba4831ce635b6",
+    "time": 1720115385
+  },
   "versions": [
     {
       "tag": "v1.0.0",

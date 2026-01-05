@@ -5,6 +5,10 @@
   "description": "Load local environment variables from .env files",
   "license": "MIT",
   "web": "https://wioenena-q.github.io/nim-dotenv",
+  "commit": {
+    "hash": "4760365ccd5bd91bebfe9b541b7c30eeddaf8844",
+    "time": 1661260939
+  },
   "tags": [
     "dotenv"
   ]

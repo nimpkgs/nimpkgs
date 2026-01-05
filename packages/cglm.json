@@ -5,6 +5,10 @@
   "description": "Nim wrapper for cglm, an optimized 3D math library written in C99",
   "license": "MIT",
   "web": "https://github.com/Niminem/cglm",
+  "commit": {
+    "hash": "422356ad8e2e47960f35930d708c4f1806d93780",
+    "time": 1754889391
+  },
   "tags": [
     "cglm",
     "glm",

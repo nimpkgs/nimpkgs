@@ -5,6 +5,10 @@
   "description": "A git-based binary manager for linux.",
   "license": "MIT",
   "web": "https://github.com/sharpcdf/jitter",
+  "commit": {
+    "hash": "b635ac2463150f0de5627f283907b6c486074423",
+    "time": 1714610137
+  },
   "versions": [
     {
       "tag": "v0.5.0",

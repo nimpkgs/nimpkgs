@@ -5,6 +5,10 @@
   "description": "A blog post generator for people with priorities.",
   "license": "CC0-1.0",
   "web": "https://github.com/tonogram/jeknil",
+  "commit": {
+    "hash": "53a3f47331ecc3a64238489ef3f37079bcc6d473",
+    "time": 1629469798
+  },
   "versions": [
     {
       "tag": "v0.2.0",

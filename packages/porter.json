@@ -5,6 +5,10 @@
   "description": "Simple extensible implementation of Porter stemmer algorithm",
   "license": "MIT",
   "web": "https://github.com/iourinski/porter",
+  "commit": {
+    "hash": "891db099c1be02f3cd2e5cfd58f2cb6cfe76e2c9",
+    "time": 1484918686
+  },
   "tags": [
     "stemmer",
     "multilanguage",

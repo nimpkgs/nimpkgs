@@ -5,6 +5,10 @@
   "description": "A nim wrapper for ArrayFire",
   "license": "BSD",
   "web": "https://github.com/bitstormGER/ArrayFire-Nim",
+  "commit": {
+    "hash": "6079baaa38371c6c681dfce6448b11f22b3e7926",
+    "time": 1731091176
+  },
   "versions": [
     {
       "tag": "v0.3.2",

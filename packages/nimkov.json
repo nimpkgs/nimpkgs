@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/bit0r1n/nimkov",
   "doc": "https://nimkov.bitor.in",
+  "commit": {
+    "hash": "ea0a4ce26de8f8d0c64ac8231020e6da442b3a81",
+    "time": 1718212564
+  },
   "tags": [
     "markov",
     "markov-chain",

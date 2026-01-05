@@ -5,6 +5,10 @@
   "description": "Spurdification library and CLI",
   "license": "MIT",
   "web": "https://github.com/paradox460/spurdify",
+  "commit": {
+    "hash": "5e17c8cab22e6302e330194a16564e4d69afff73",
+    "time": 1690346643
+  },
   "versions": [
     {
       "tag": "v0.1.1",

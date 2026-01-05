@@ -5,6 +5,10 @@
   "description": "Malebolgia creates new spawns. Experiments with thread pools and related APIs.",
   "license": "MIT",
   "web": "https://github.com/Araq/malebolgia",
+  "commit": {
+    "hash": "ab17bef08e8e84fabc33e0b039b324438e1ce27b",
+    "time": 1745952651
+  },
   "tags": [
     "thread",
     "pool",

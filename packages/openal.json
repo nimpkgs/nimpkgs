@@ -4,6 +4,10 @@
   "method": "git",
   "description": "An OpenAL wrapper.",
   "license": "MIT",
+  "commit": {
+    "hash": "1686996c840c1aaa224603dafbb19fa0cb842992",
+    "time": 1700327330
+  },
   "versions": [
     {
       "tag": "v0.1.0",

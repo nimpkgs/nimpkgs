@@ -5,6 +5,10 @@
   "description": "Parser for Morrowind's .esp/.esm modding files",
   "license": "MIT NON-AI License",
   "web": "https://baedoor.github.io/projects/esp.html",
+  "commit": {
+    "hash": "b845fa359e9c902ace0a8a891001023c68e457a6",
+    "time": 1754565765
+  },
   "versions": [
     {
       "tag": "v1.0.0",

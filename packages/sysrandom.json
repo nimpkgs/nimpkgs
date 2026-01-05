@@ -5,6 +5,10 @@
   "description": "A simple library to generate random data, using the system's PRNG.",
   "license": "BSD3",
   "web": "https://github.com/euantorano/sysrandom.nim",
+  "commit": {
+    "hash": "806be2c9f0878ecb103ac20beaad750b91930c8c",
+    "time": 1538552916
+  },
   "versions": [
     {
       "tag": "v1.1.0",

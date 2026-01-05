@@ -5,6 +5,10 @@
   "description": "Voicepeak Server With GPT",
   "license": "MIT",
   "web": "https://github.com/solaoi/voicepeaky4gpt",
+  "commit": {
+    "hash": "f944031430c2e8216601688440c67a9438fbc4ac",
+    "time": 1699768813
+  },
   "versions": [
     {
       "tag": "v1.0.0",

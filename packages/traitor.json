@@ -5,6 +5,10 @@
   "description": "Trait-like package made without insight",
   "license": "MIT",
   "web": "https://github.com/beef331/traitor",
+  "commit": {
+    "hash": "0dbf3aafa2839e5c6cbb65bf5c42b36a67406e40",
+    "time": 1752784088
+  },
   "versions": [
     {
       "tag": "v0.2.19",

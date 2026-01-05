@@ -5,6 +5,10 @@
   "description": "Concise Binary Object Representation decoder",
   "license": "Unlicense",
   "web": "https://git.sr.ht/~ehmry/nim_cbor",
+  "commit": {
+    "hash": "cca1d42e5f0cf683248b6d967407956ba165a0f2",
+    "time": 1754425914
+  },
   "versions": [
     {
       "tag": "v0.8.1",

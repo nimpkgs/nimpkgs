@@ -5,6 +5,10 @@
   "description": "An implementation of rx observables in nim",
   "license": "MIT",
   "web": "https://github.com/nortero-code/rx-nim",
+  "commit": {
+    "hash": "d3107b810952ab192753b030eb66af8f5542d341",
+    "time": 1631688872
+  },
   "tags": [
     "rx",
     "observables",

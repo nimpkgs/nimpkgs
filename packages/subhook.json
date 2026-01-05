@@ -5,6 +5,10 @@
   "description": "subhook wrapper",
   "license": "BSD2",
   "web": "https://github.com/ba0f3/subhook.nim",
+  "commit": {
+    "hash": "3b812449365e7e79609af593d67b99c22acfd5fe",
+    "time": 1734923013
+  },
   "tags": [
     "hook",
     "hooking",

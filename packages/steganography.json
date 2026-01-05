@@ -5,6 +5,10 @@
   "description": "Steganography - hide data inside an image.",
   "license": "MIT",
   "web": "https://github.com/treeform/steganography",
+  "commit": {
+    "hash": "edded6d5bec7f0f8d9c09074e1da1376f850f58d",
+    "time": 1683569854
+  },
   "tags": [
     "images",
     "cryptography"

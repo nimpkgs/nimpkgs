@@ -5,6 +5,10 @@
   "description": "Print fabulously in your terminal",
   "license": "MIT",
   "web": "https://github.com/icyphox/fab",
+  "commit": {
+    "hash": "58ea6c8689e7c40cb3e6abc7ab63d31fb45ca592",
+    "time": 1550066922
+  },
   "versions": [
     {
       "tag": "v0.4.4",

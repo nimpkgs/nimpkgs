@@ -5,6 +5,10 @@
   "description": "MongoDb pooled driver",
   "license": "MIT",
   "web": "https://github.com/JohnAD/mongopool",
+  "commit": {
+    "hash": "c8bc6ddd560f962b8ba497ea74bac93906c9d9b9",
+    "time": 1597030922
+  },
   "versions": [
     {
       "tag": "v1.0.1",

@@ -5,6 +5,10 @@
   "description": "Drawing in terminal with Unicode Braille characters.",
   "license": "MIT",
   "web": "https://github.com/PMunch/drawille-nim",
+  "commit": {
+    "hash": "1b2daec77e6bbb78bc5a330b92796386e172bd57",
+    "time": 1529490765
+  },
   "tags": [
     "drawile",
     "terminal",

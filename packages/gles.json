@@ -5,6 +5,10 @@
   "description": "Bindings for OpenGL ES, the embedded 3D graphics library.",
   "license": "MIT",
   "web": "https://github.com/nimious/gles",
+  "commit": {
+    "hash": "1169850e7b1bcbfff1263229509d381b8dc4e0d3",
+    "time": 1454176391
+  },
   "tags": [
     "binding",
     "khronos",

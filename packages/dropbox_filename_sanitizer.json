@@ -5,6 +5,10 @@
   "description": "Tool to clean up filenames shared on Dropbox",
   "license": "MIT",
   "web": "https://github.com/Araq/dropbox_filename_sanitizer/",
+  "commit": {
+    "hash": "5234c578564beb217000cd7ee7d805635ef5ae3b",
+    "time": 1427639933
+  },
   "versions": [
     {
       "tag": "v0.4.0",

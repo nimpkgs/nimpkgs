@@ -5,6 +5,10 @@
   "description": "OpenDocument Spreadhseet reader",
   "license": "MIT",
   "web": "https://github.com/dariolah/odsreader",
+  "commit": {
+    "hash": "599a74f9c788c1bbf2e92a12465d3f4635a0a2ca",
+    "time": 1730630460
+  },
   "versions": [
     {
       "tag": "v0.4.0",

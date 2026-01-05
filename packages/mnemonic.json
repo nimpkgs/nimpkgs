@@ -5,6 +5,10 @@
   "description": "Create memorable sentences from byte sequences.",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/mnemonic",
+  "commit": {
+    "hash": "fae635faefd37a244559c94417de248d9df5d657",
+    "time": 1587655432
+  },
   "versions": [
     {
       "tag": "v0.1.3",

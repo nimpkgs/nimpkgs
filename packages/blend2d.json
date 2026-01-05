@@ -5,6 +5,10 @@
   "description": "Blend2D for Nim language",
   "license": "MIT",
   "web": "https://github.com/openpeeps/blend2d-nim",
+  "commit": {
+    "hash": "1359473de2d778334c8d6583e80be11051cc63b9",
+    "time": 1757762071
+  },
   "tags": [
     "graphics",
     "2d",

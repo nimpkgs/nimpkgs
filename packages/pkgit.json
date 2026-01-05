@@ -5,6 +5,10 @@
   "description": "unconventional package manager",
   "license": "GPL-3.0-or-later",
   "web": "https://github.com/dacctal/pkgit",
+  "commit": {
+    "hash": "71a8f694c860b2c5a47fe2969d7ab0c0eed48252",
+    "time": 1762165005
+  },
   "tags": [
     "package",
     "manager",

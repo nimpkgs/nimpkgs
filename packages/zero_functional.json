@@ -5,6 +5,10 @@
   "description": "A library providing zero-cost chaining for functional abstractions in Nim",
   "license": "MIT",
   "web": "https://github.com/zero-functional/zero-functional",
+  "commit": {
+    "hash": "0d2864eb611ea9aaf316e37af07e9c90d2887f4b",
+    "time": 1663567504
+  },
   "versions": [
     {
       "tag": "v1.3.0",

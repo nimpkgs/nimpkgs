@@ -5,6 +5,10 @@
   "description": "Seq selector in CLI",
   "license": "MIT",
   "web": "https://github.com/z-kk/cliSeqSelector",
+  "commit": {
+    "hash": "d9631c01f06825804cc7b5e80cf3517b11dcd6ab",
+    "time": 1675255786
+  },
   "versions": [
     {
       "tag": "v0.1.0",

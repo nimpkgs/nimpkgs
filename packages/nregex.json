@@ -5,6 +5,10 @@
   "description": "A DFA based regex engine",
   "license": "MIT",
   "web": "https://github.com/nitely/nregex",
+  "commit": {
+    "hash": "e9fd3ed88623ab25ce81e22e84bbe9c997325718",
+    "time": 1706304906
+  },
   "versions": [
     {
       "tag": "v0.0.4",

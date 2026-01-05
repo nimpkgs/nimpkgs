@@ -5,6 +5,10 @@
   "description": "A Nim wrapper for TheBlueAlliance",
   "license": "MIT",
   "web": "https://github.com/tervay/the-nim-alliance",
+  "commit": {
+    "hash": "b8d94dc1cca11fcc8608b3719cec0fbb2b228779",
+    "time": 1569690096
+  },
   "versions": [
     {
       "tag": "v0.1.4",

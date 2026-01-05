@@ -5,6 +5,10 @@
   "description": "webpage information extractor",
   "license": "MIT",
   "web": "https://github.com/bung87/webpage_extractors",
+  "commit": {
+    "hash": "21ae10d83baf94017021d500adff5bc2f4c72c8a",
+    "time": 1699762045
+  },
   "tags": [
     "web",
     "page",

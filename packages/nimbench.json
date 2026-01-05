@@ -5,6 +5,10 @@
   "description": "Micro benchmarking tool to measure speed of code, with the goal of optimizing it.",
   "license": "Apache Version 2.0",
   "web": "https://github.com/ivankoster/nimbench",
+  "commit": {
+    "hash": "48257dd66fbe9fa3aec034fdcf1cc7ef32fd90d6",
+    "time": 1588098024
+  },
   "versions": [
     {
       "tag": "v0.2.1",

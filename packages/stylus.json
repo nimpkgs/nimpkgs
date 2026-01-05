@@ -5,6 +5,10 @@
   "description": "A standards compliant CSS level 3 tokenizer and parser written in pure Nim",
   "license": "MIT",
   "web": "https://github.com/ferus-web/stylus",
+  "commit": {
+    "hash": "afbe89b2fc403632277b22745ea2963ded868dfb",
+    "time": 1744106973
+  },
   "tags": [
     "css",
     "parsing"

@@ -5,6 +5,10 @@
   "description": "Chipmunk7 demos for Nim",
   "license": "MIT",
   "web": "https://github.com/matkuki/chipmunk7_demos",
+  "commit": {
+    "hash": "33b4ee1a9dbf3647b8d5d3d01f8ad962b48c1c6e",
+    "time": 1609023438
+  },
   "tags": [
     "demos",
     "physics",

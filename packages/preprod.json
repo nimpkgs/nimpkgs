@@ -5,6 +5,10 @@
   "description": "preprod",
   "license": "MIT",
   "web": "https://github.com/j-a-s-d/preprod",
+  "commit": {
+    "hash": "a4219eeab4bd60747c1d84e9e0469f09d10110eb",
+    "time": 1652475700
+  },
   "tags": [
     "preprocessor"
   ]

@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Linux adduser/useradd library with all batteries included.",
   "license": "GPL-3.0-or-later",
+  "commit": {
+    "hash": "79d1c3df2cba0ea4be02a1d0bfa0c400ab1159a3",
+    "time": 1697315457
+  },
   "tags": [
     "akito",
     "gosu",

@@ -5,6 +5,10 @@
   "description": "A simple decimal library",
   "license": "MIT",
   "web": "https://github.com/pigmej/nim-simple-decimal",
+  "commit": {
+    "hash": "174c13cb7c37f8f89a81b7ea995757421be35052",
+    "time": 1537287498
+  },
   "tags": [
     "decimal",
     "library"

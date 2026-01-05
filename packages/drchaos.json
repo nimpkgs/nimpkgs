@@ -5,6 +5,10 @@
   "description": "A powerful and easy-to-use fuzzing framework in Nim for C/C++/Obj-C targets",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-drchaos",
+  "commit": {
+    "hash": "0cf181777c69bef988ef8c70cc124316bb36e7b6",
+    "time": 1683737350
+  },
   "versions": [
     {
       "tag": "v0.1.9",

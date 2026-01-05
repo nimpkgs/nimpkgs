@@ -5,6 +5,10 @@
   "description": "Pure nim rabbitmq to statsd metrics pusher",
   "license": "MIT",
   "web": "https://github.com/Q-Master/rmq-statsd.nim",
+  "commit": {
+    "hash": "99801806ba65a12430262da8d8a26116511e80b2",
+    "time": 1732545992
+  },
   "versions": [
     {
       "tag": "v0.2.2",

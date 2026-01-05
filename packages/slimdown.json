@@ -5,6 +5,10 @@
   "description": "Nim module that converts Markdown text to HTML using only regular expressions. Based on jbroadway's Slimdown.",
   "license": "MIT",
   "web": "https://github.com/ruivieira/nim-slimdown",
+  "commit": {
+    "hash": "a879450e58323070e3173f6eb33ac3c4c1a460c0",
+    "time": 1527441070
+  },
   "tags": [
     "markdown",
     "parser",

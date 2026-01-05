@@ -5,6 +5,10 @@
   "description": "Amazon Web Services Signature Version 4",
   "license": "MIT",
   "web": "https://github.com/disruptek/sigv4",
+  "commit": {
+    "hash": "6f5f925a26e2fc2fd6868bc52438e1f622abd957",
+    "time": 1723645935
+  },
   "tags": [
     "1.0.0"
   ]

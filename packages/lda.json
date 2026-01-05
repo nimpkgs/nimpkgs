@@ -5,6 +5,10 @@
   "description": "Latent Dirichlet Allocation",
   "license": "Apache License 2.0",
   "web": "https://github.com/andreaferretti/lda",
+  "commit": {
+    "hash": "eee2501656532caad0a12290dc70022fadd98bca",
+    "time": 1526663836
+  },
   "tags": [
     "LDA",
     "topic-modeling",

@@ -5,6 +5,10 @@
   "description": "A Quadtree implementation",
   "license": "MIT",
   "web": "https://github.com/Nycto/QuadtreeNim",
+  "commit": {
+    "hash": "5da66b58ed74a4e2514dab9a4995807b6543a977",
+    "time": 1553703899
+  },
   "tags": [
     "quadtree",
     "algorithm"

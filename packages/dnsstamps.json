@@ -5,6 +5,10 @@
   "description": "An implementation of DNS server stamps in Nim",
   "license": "MPL-2.0",
   "web": "https://github.com/alaviss/dnsstamps",
+  "commit": {
+    "hash": "9082e22a57044c4a8a29f2a86e8687ea508d233c",
+    "time": 1603604414
+  },
   "tags": [
     "dns",
     "dnscrypt",

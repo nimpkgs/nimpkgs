@@ -5,6 +5,10 @@
   "description": "Immature Newsgroup NNTP server using SQLite as backend",
   "license": "GPL-3.0",
   "web": "https://github.com/mildred/nimnews",
+  "commit": {
+    "hash": "36ee8709f0f6e8e1b215e57f4607bbfe68e3ab92",
+    "time": 1658568779
+  },
   "versions": [
     {
       "tag": "v0.1.0",

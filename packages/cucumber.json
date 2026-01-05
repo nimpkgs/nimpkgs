@@ -5,6 +5,10 @@
   "description": "implements the cucumber BDD framework in the nim language",
   "license": "MIT",
   "web": "https://github.com/shaunc/cucumber_nim",
+  "commit": {
+    "hash": "ced60f5dceef4c6da7b077997068a8c9bc5ad6db",
+    "time": 1482827221
+  },
   "versions": [
     {
       "tag": "v0.0.11",

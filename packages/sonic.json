@@ -5,6 +5,10 @@
   "description": "client for sonic search backend",
   "license": "MIT",
   "web": "https://github.com/xmonader/nim-sonic-client",
+  "commit": {
+    "hash": "452920ba19e497c1779aab8955de3851e2ba895c",
+    "time": 1559727799
+  },
   "tags": [
     "sonic",
     "search",

@@ -5,6 +5,10 @@
   "description": "A Grid (R) like package in Nim",
   "license": "MIT",
   "web": "https://github.com/Vindaar/ginger",
+  "commit": {
+    "hash": "ac3920a9c2005d4ea6f2016677a8edfa8ce0cbb3",
+    "time": 1707656227
+  },
   "versions": [
     {
       "tag": "v0.6.1",

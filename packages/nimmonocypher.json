@@ -5,6 +5,10 @@
   "description": "monocypher wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimmonocypher",
+  "commit": {
+    "hash": "5b49c41709dd8732f1110de4a5ba214b252b73f7",
+    "time": 1577551668
+  },
   "versions": [
     {
       "tag": "v0.1.2",

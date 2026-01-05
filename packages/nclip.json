@@ -5,6 +5,10 @@
   "description": "A simple wrapper around the winapi to control the clipboard",
   "license": "MIT",
   "web": "https://github.com/4zv4l/nclip",
+  "commit": {
+    "hash": "bcf18785dd85131374a3d51db6b98c45ac1aa32d",
+    "time": 1678807221
+  },
   "tags": [
     "winapi",
     "clipboard",

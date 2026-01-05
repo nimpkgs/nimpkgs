@@ -5,6 +5,10 @@
   "description": "A nimterop wrapper for the nestegg portable webm video demuxer",
   "license": "MIT",
   "web": "https://github.com/capocasa/nim-nestegg",
+  "commit": {
+    "hash": "0d1fb41be2536177157ba84f36d1d14a0cb09934",
+    "time": 1622624890
+  },
   "tags": [
     "nestegg",
     "demuxer",

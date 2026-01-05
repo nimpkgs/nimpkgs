@@ -5,6 +5,10 @@
   "description": " Statically-typed quantity units.",
   "license": "MIT",
   "web": "https://github.com/Udiknedormin/NimUnits",
+  "commit": {
+    "hash": "08ae9675da38530237a3b8e1b5615732f421a8b8",
+    "time": 1527761365
+  },
   "tags": [
     "library",
     "pure",

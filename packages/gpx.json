@@ -10,5 +10,6 @@
     "GPS",
     "waypoint",
     "route"
-  ]
+  ],
+  "status": "Unreachable"
 }

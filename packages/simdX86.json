@@ -5,6 +5,10 @@
   "description": "Wrappers for X86 SIMD intrinsics",
   "license": "MIT",
   "web": "https://github.com/nimlibs/simdX86",
+  "commit": {
+    "hash": "d8e00afc7c09b09b19643179705448eba6060b3d",
+    "time": 1549948626
+  },
   "tags": [
     "simd"
   ]

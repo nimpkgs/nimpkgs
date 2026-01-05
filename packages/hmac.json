@@ -5,6 +5,10 @@
   "description": "HMAC-SHA1 and HMAC-MD5 hashing in Nim",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/hmac.nim",
+  "commit": {
+    "hash": "81b03e33ec55fd7adb715a8aab335cb802ba4228",
+    "time": 1694603741
+  },
   "tags": [
     "hmac",
     "authentication",

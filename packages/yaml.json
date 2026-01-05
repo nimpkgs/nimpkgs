@@ -5,6 +5,10 @@
   "description": "YAML 1.2 implementation for Nim",
   "license": "MIT",
   "web": "https://flyx.github.io/NimYAML/",
+  "commit": {
+    "hash": "b4a4c2403a75ad80363edba74d7fb6be2a26acce",
+    "time": 1766434905
+  },
   "versions": [
     {
       "tag": "v2.2.1",

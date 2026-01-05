@@ -5,6 +5,10 @@
   "description": "High-level and low-level wrapper for OpenGL",
   "license": "MIT",
   "web": "https://github.com/nim-lang/opengl",
+  "commit": {
+    "hash": "8e2e098f82dc5eefd874488c37b5830233cd18f4",
+    "time": 1696569934
+  },
   "versions": [
     {
       "tag": "v1.2.2",

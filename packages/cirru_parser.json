@@ -5,6 +5,10 @@
   "description": "Parser for Cirru syntax",
   "license": "MIT",
   "web": "https://github.com/Cirru/parser.nim",
+  "commit": {
+    "hash": "83fa0ef3947153b803e3acdce8b8245ff3653914",
+    "time": 1611553996
+  },
   "versions": [
     {
       "tag": "v0.3.0",

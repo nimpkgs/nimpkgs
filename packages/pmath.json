@@ -5,6 +5,10 @@
   "description": "library that resolves the inaccuracies of normal float math. ",
   "license": "MIT",
   "web": "https://github.com/nlits-projects/pmath",
+  "commit": {
+    "hash": "1dd9f5576e58c3fbd5aa86c7088c388cd02210ac",
+    "time": 1711385247
+  },
   "versions": [
     {
       "tag": "v0.1.1",

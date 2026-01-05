@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/elijahr/lockfreequeues",
   "doc": "https://elijahr.github.io/lockfreequeues/",
+  "commit": {
+    "hash": "8bd679ebf4c5c6d9c5b125a7ba7ea81e6f20e4ba",
+    "time": 1727568015
+  },
   "versions": [
     {
       "tag": "v3.1.0",

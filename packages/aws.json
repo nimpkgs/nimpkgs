@@ -5,6 +5,10 @@
   "description": "Rudimentary `aws-cli` wrapper",
   "license": "MIT",
   "web": "https://github.com/thing-king/aws",
+  "commit": {
+    "hash": "2b4ea9c0931b83f1068c6a66958567866d97fbc8",
+    "time": 1741743580
+  },
   "tags": [
     "aws"
   ]

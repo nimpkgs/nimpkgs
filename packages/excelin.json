@@ -5,6 +5,10 @@
   "description": "Create and read Excel purely in Nim",
   "license": "MIT",
   "web": "https://github.com/mashingan/excelin",
+  "commit": {
+    "hash": "e4442fcf6c9c054b1a6e8ae945785f529579e8c0",
+    "time": 1687443508
+  },
   "versions": [
     {
       "tag": "v0.5.4",

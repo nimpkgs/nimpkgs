@@ -5,6 +5,10 @@
   "description": "TIGR is a tiny cross-platform graphics library",
   "license": "MIT",
   "web": "https://github.com/angluca/tigr-nim",
+  "commit": {
+    "hash": "a393af23c9ba52bfc53941a08bafbb0189d5e2ff",
+    "time": 1705316526
+  },
   "tags": [
     "opengl",
     "2d",

@@ -5,6 +5,10 @@
   "description": "LAPACK bindings",
   "license": "Apache2",
   "web": "https://github.com/andreaferretti/nimlapack",
+  "commit": {
+    "hash": "231430b3d2156f5cbe8fe16bb8967cd9a93964c5",
+    "time": 1716451926
+  },
   "versions": [
     {
       "tag": "v0.3.1",

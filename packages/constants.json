@@ -5,6 +5,10 @@
   "description": "Mathematical numerical named static constants useful for different disciplines",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-constants",
+  "commit": {
+    "hash": "179726744006dad76fea3ad62920cb82d3617afc",
+    "time": 1624481811
+  },
   "tags": [
     "math",
     "physics",

@@ -5,6 +5,10 @@
   "description": "Asynchronous Library Inspired by Go's goroutines, for Nim",
   "license": "MIT",
   "web": "https://github.com/Alogani/NimGo",
+  "commit": {
+    "hash": "f6702509883fa5d9f4125d5ac349ce20f8b0a367",
+    "time": 1757870910
+  },
   "versions": [
     {
       "tag": "v0.0.8",

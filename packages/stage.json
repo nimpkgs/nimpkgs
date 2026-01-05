@@ -5,6 +5,10 @@
   "description": "nim tasks apply to git hooks",
   "license": "MIT",
   "web": "https://github.com/bung87/stage",
+  "commit": {
+    "hash": "795fe3ab281c0c212c10cc9d0a40371f4032d084",
+    "time": 1625361146
+  },
   "versions": [
     {
       "tag": "v0.3.6",

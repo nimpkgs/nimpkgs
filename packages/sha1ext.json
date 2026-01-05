@@ -5,6 +5,10 @@
   "description": "std / sha1 extension",
   "license": "Apache License 2.0",
   "web": "https://github.com/CORDEA/sha1ext",
+  "commit": {
+    "hash": "0e52f8b74cb1e68e0ac5d5ab513260697a237e86",
+    "time": 1519772408
+  },
   "versions": [
     {
       "tag": "v0.1.1",

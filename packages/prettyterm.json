@@ -5,6 +5,10 @@
   "description": "Make your terminal interfaces prettier!",
   "license": "MIT",
   "web": "https://github.com/CodeLibraty/prettyterm",
+  "commit": {
+    "hash": "a8ee484cf6c4338da8bdbbe01416bf6324a2808a",
+    "time": 1755098646
+  },
   "versions": [
     {
       "tag": "v1.0.1",

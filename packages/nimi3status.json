@@ -5,6 +5,10 @@
   "description": "Lightweight i3 status bar.",
   "license": "GPLv3",
   "web": "https://github.com/FedericoCeratto/nimi3status",
+  "commit": {
+    "hash": "8f070be9c8dee0388feaebc2c9af7af0bf3a0e4d",
+    "time": 1565649001
+  },
   "tags": [
     "i3",
     "i3status"

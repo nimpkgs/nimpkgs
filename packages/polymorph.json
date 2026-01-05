@@ -5,6 +5,10 @@
   "description": "An entity-component-system with a focus on compile time optimisation",
   "license": "Apache-2.0",
   "web": "https://github.com/rlipsc/polymorph",
+  "commit": {
+    "hash": "c1da153b7dc4923f92dc882e84c4ca34ea9e184e",
+    "time": 1705529747
+  },
   "versions": [
     {
       "tag": "v0.3.1",

@@ -5,6 +5,10 @@
   "description": "ed25519 key crypto bindings",
   "license": "MIT",
   "web": "https://github.com/niv/ed25519.nim",
+  "commit": {
+    "hash": "176aff141a27ec94f954e961be21671b64531b39",
+    "time": 1484929858
+  },
   "tags": [
     "ed25519",
     "cryptography",

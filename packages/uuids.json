@@ -5,6 +5,10 @@
   "description": "UUID library for Nim",
   "license": "MIT",
   "web": "https://github.com/pragmagic/uuids/",
+  "commit": {
+    "hash": "42052ba362a9cd4685463edb3781beeb9b8e547e",
+    "time": 1702628604
+  },
   "versions": [
     {
       "tag": "v0.1.12",

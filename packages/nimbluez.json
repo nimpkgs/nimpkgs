@@ -5,6 +5,10 @@
   "description": "Nim modules for access to system Bluetooth resources.",
   "license": "BSD",
   "web": "https://github.com/Electric-Blue/NimBluez",
+  "commit": {
+    "hash": "8368aaaf3450f0f57a7505f8a676d33b9e6f3399",
+    "time": 1680374453
+  },
   "versions": [
     {
       "tag": "v0.1.2",

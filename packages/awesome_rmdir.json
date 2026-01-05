@@ -5,6 +5,10 @@
   "description": "Command to remove acceptably empty directories.",
   "license": "MIT",
   "web": "https://github.com/Araq/awesome_rmdir/",
+  "commit": {
+    "hash": "b41cf9363819c52210f45df9cc31b9ffd2cf45b3",
+    "time": 1387652824
+  },
   "versions": [
     {
       "tag": "v0.2.1",

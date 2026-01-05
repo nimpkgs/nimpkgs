@@ -5,6 +5,10 @@
   "description": "Self-contained markdown compiler generating self-contained HTML documents",
   "license": "MIT",
   "web": "https://h3rald.com/hastyscribe",
+  "commit": {
+    "hash": "6add7758156ec697df0993195ed825622f1b3295",
+    "time": 1695553353
+  },
   "versions": [
     {
       "tag": "v2.1.0",

@@ -5,6 +5,10 @@
   "description": "Arbitrary-precision integers",
   "license": "MIT",
   "web": "https://github.com/nim-lang/bigints",
+  "commit": {
+    "hash": "115ae9cc49390ac0647c7b4cbf07d8cf6deceb5d",
+    "time": 1755529969
+  },
   "versions": [
     {
       "tag": "v1.1.0",

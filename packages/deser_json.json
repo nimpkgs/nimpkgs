@@ -5,6 +5,10 @@
   "description": "JSON-Binding for deser",
   "license": "MIT",
   "web": "https://github.com/gabbhack/deser_json",
+  "commit": {
+    "hash": "a8ab20f4834b44acde4496438c041c89ace38476",
+    "time": 1681228936
+  },
   "versions": [
     {
       "tag": "v0.2.0",

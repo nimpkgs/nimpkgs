@@ -5,6 +5,10 @@
   "description": "GraphQL parser, server and client implementation",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-graphql",
+  "commit": {
+    "hash": "38d7014a7f28ab50b735b6d386d3a93d14f0d69a",
+    "time": 1744881201
+  },
   "tags": [
     "graphql",
     "graphql-server",

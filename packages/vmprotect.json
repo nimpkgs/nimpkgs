@@ -5,6 +5,10 @@
   "description": "Wrapper for VMProtect SDK",
   "license": "MIT",
   "web": "https://github.com/ba0f3/vmprotect.nim",
+  "commit": {
+    "hash": "621ea653d8ddf9eb81f58069e8ff781f06b2b1ed",
+    "time": 1695171829
+  },
   "tags": [
     "vmprotect",
     "sdk",

@@ -5,6 +5,10 @@
   "description": "OwO text convewtew fow Nim",
   "license": "MIT",
   "web": "https://github.com/lmariscal/owo",
+  "commit": {
+    "hash": "8accdfc04c12fe35ac5754f910056909998b7974",
+    "time": 1572142934
+  },
   "tags": [
     "fun",
     "utility"

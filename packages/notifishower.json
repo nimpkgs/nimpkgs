@@ -5,6 +5,10 @@
   "description": "Small program to draw notifications on the screen in a highly customisable way",
   "license": "MIT",
   "web": "https://github.com/PMunch/notifishower",
+  "commit": {
+    "hash": "3252766e15cf6587969d6b616198298796e7237c",
+    "time": 1676322608
+  },
   "versions": [
     {
       "tag": "v0.7.0",

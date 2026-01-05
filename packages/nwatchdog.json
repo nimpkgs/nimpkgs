@@ -5,6 +5,10 @@
   "description": "Simple watchdog (watch file changes modified, deleted, created) in nim lang.",
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_nwatchdog",
+  "commit": {
+    "hash": "1e7be81942c8ada74f2b638b27c2973122c67cb3",
+    "time": 1748265996
+  },
   "versions": [
     {
       "tag": "v0.2.15",

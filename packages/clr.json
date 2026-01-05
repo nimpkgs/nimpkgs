@@ -5,6 +5,10 @@
   "description": "Get information about colors and convert them in the command line",
   "license": "MIT",
   "web": "https://github.com/Calinou/clr",
+  "commit": {
+    "hash": "74233813a0497ac239b76dbfe14ccb1947edb353",
+    "time": 1569401182
+  },
   "versions": [
     {
       "tag": "v1.0.0",

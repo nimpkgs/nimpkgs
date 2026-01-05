@@ -5,6 +5,10 @@
   "description": "An optimized and highly efficient Nullable / Optional type for Nim. Designed for performance-critical applications, it provides clear, functional-style handling of optional values, especially for value types, without reference overhead.",
   "license": "MIT",
   "web": "https://github.com/theDataFlowClub/nullable",
+  "commit": {
+    "hash": "c0276d2067d115a71d6ee1e5b1bf2f09a93677a1",
+    "time": 1751735767
+  },
   "tags": [
     "nullable",
     "null",

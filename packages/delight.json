@@ -5,6 +5,10 @@
   "description": "Engine-agnostic library for computing 2D raycasted lights",
   "license": "MIT",
   "web": "https://github.com/liquid600pgm/delight",
+  "commit": {
+    "hash": "ff314c3fa33085e282c347bf8ded2346f538e843",
+    "time": 1582580223
+  },
   "tags": [
     "raycasting",
     "math",

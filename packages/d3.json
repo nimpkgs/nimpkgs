@@ -5,6 +5,10 @@
   "description": "A D3.js wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/hiteshjasani/nim-d3",
+  "commit": {
+    "hash": "d3a25a1134359c98736f0270f3db514129d7a090",
+    "time": 1587676201
+  },
   "versions": [
     {
       "tag": "v0.1.3",

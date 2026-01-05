@@ -5,6 +5,10 @@
   "description": "Currying library for Nim",
   "license": "MIT",
   "web": "https://github.com/t8m8/currying",
+  "commit": {
+    "hash": "8317844f0d9d7d1e05e2110a1a61cc27e1632aec",
+    "time": 1658733527
+  },
   "tags": [
     "library",
     "functional",

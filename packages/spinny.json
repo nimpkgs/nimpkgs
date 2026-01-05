@@ -5,6 +5,10 @@
   "description": "Spinny is a tiny terminal spinner package for the Nim Programming Language.",
   "license": "MIT",
   "web": "https://github.com/nimbackup/spinny",
+  "commit": {
+    "hash": "38e0afbe59bab5f526372bab790d651113c27a60",
+    "time": 1590796150
+  },
   "tags": [
     "terminal",
     "spinner",

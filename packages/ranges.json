@@ -5,6 +5,10 @@
   "description": "Exploration of various implementations of memory range types",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-ranges",
+  "commit": {
+    "hash": "54792c5a26858b20a331f0ae38c18f21811b4b5c",
+    "time": 1562439873
+  },
   "tags": [
     "library",
     "ranges"

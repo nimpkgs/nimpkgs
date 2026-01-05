@@ -5,6 +5,10 @@
   "description": "AJAX wrapper for nim js backend.",
   "license": "MIT",
   "web": "https://stisa.space/ajax/",
+  "commit": {
+    "hash": "f06cded6d91318ea007e8972665a2d837b4bf136",
+    "time": 1635460067
+  },
   "tags": [
     "js",
     "javascripts",

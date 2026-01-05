@@ -5,6 +5,10 @@
   "description": "B)asic|But-For U)tility Code/Programs (Usually Nim & With Unix/POSIX/Linux Context)",
   "license": "MIT/ISC",
   "web": "https://github.com/c-blake/bu",
+  "commit": {
+    "hash": "2c6fea9fa94521dfa546371cd07b42498e8171ca",
+    "time": 1766662906
+  },
   "tags": [
     "bu",
     "unix",

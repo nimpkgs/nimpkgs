@@ -5,6 +5,10 @@
   "description": "Yet another SQLite wrapper for Nim.",
   "license": "MIT",
   "web": "https://github.com/codehz/easy_sqlite3",
+  "commit": {
+    "hash": "34ae9e46b135eac13101dcacb55ea05524d70e6f",
+    "time": 1695266269
+  },
   "versions": [
     {
       "tag": "v0.1.11",

@@ -5,6 +5,10 @@
   "description": "A hybrid and asynchronous Nim wrapper for the Minecraft Server Status API.",
   "license": "MIT",
   "web": "https://github.com/hitblast/mcsrvstat.nim",
+  "commit": {
+    "hash": "fb52640e7f0fd3f0bfc5493d8c33327e00bffd60",
+    "time": 1767365912
+  },
   "tags": [
     "mcsrvstat",
     "api-wrapper",

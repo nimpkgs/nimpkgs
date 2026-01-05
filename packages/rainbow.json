@@ -5,6 +5,10 @@
   "description": "256 colors for shell",
   "license": "MIT",
   "web": "https://github.com/Willyboar/rainbow",
+  "commit": {
+    "hash": "de9192e5b5c47a42a54c61fe08aa6790738ecc0e",
+    "time": 1639346577
+  },
   "versions": [
     {
       "tag": "v0.2.3",

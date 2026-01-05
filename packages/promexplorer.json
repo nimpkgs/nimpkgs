@@ -5,6 +5,10 @@
   "description": "A simple tool to explore Prometheus exporter metrics",
   "license": "mit",
   "web": "https://github.com/marcusramberg/promexplorer",
+  "commit": {
+    "hash": "9119787f6833b924b9734a2fcdbb404e720a11e8",
+    "time": 1684058327
+  },
   "versions": [
     {
       "tag": "v0.0.5",

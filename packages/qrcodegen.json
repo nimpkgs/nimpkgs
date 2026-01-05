@@ -5,6 +5,10 @@
   "description": "QR Code Generator",
   "license": "MIT",
   "web": "https://github.com/bunkford/qrcodegen",
+  "commit": {
+    "hash": "f13233d757747ae1777b2df3d657a07cc400b129",
+    "time": 1566480880
+  },
   "tags": [
     "qr",
     "barcode"

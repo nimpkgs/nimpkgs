@@ -5,6 +5,10 @@
   "description": "Salted Challenge Response Authentication Mechanism (SCRAM) ",
   "license": "MIT",
   "web": "https://github.com/rgv151/scram",
+  "commit": {
+    "hash": "f61a3d2855919381ecc0c8c9ca773889650f8000",
+    "time": 1694604268
+  },
   "tags": [
     "scram",
     "sasl",

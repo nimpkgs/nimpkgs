@@ -5,6 +5,10 @@
   "description": "Package for packing and unpacking byte data",
   "license": "MIT",
   "web": "https://github.com/Riderfighter/binio",
+  "commit": {
+    "hash": "030715d7bfbb57cc794be2053686b74478d549e3",
+    "time": 1559445715
+  },
   "tags": [
     "structured",
     "byte",

@@ -5,6 +5,10 @@
   "description": "dbus bindings for Nim",
   "license": "MIT",
   "web": "https://github.com/zielmicha/nim-dbus",
+  "commit": {
+    "hash": "9aedf3c455554ccef2c7741d2379f5af0ac85e55",
+    "time": 1734819123
+  },
   "tags": [
     "dbus"
   ]

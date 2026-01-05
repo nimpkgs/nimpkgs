@@ -5,6 +5,10 @@
   "description": "Pretty-printer",
   "license": "Apache-2.0",
   "web": "https://github.com/haxscramper/hpprint",
+  "commit": {
+    "hash": "e642e34fdd1e0afe78d5e288263aecb7c02ac360",
+    "time": 1630225500
+  },
   "versions": [
     {
       "tag": "v0.2.18",

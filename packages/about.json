@@ -5,6 +5,10 @@
   "description": "Executable for finding information about programs in PATH",
   "license": "MIT",
   "web": "https://github.com/aleandros/about",
+  "commit": {
+    "hash": "6733b1d01810a91540981ee3f11a369ffd6f8c96",
+    "time": 1555213243
+  },
   "versions": [
     {
       "tag": "v0.1.1",

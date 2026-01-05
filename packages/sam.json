@@ -5,6 +5,10 @@
   "description": "Fast and just works JSON-Binding for Nim",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/sam.nim",
+  "commit": {
+    "hash": "8c9e75e5ed87ce206ad2951b97f31e8f69d5115e",
+    "time": 1633050143
+  },
   "tags": [
     "json",
     "binding",

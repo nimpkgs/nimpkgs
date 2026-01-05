@@ -5,6 +5,10 @@
   "description": "Nim bindings for Apache Xerces-C++",
   "license": "MIT",
   "web": "https://github.com/fox0430/nim-xerces",
+  "commit": {
+    "hash": "f666ac08a36c59e83f6c8e264889bfd2b77756dc",
+    "time": 1765257003
+  },
   "tags": [
     "binding",
     "xml"

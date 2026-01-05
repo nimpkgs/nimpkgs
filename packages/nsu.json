@@ -5,6 +5,10 @@
   "description": "Simple screenshot library & cli tool made in Nim",
   "license": "MIT",
   "web": "https://github.com/Senketsu/nsu",
+  "commit": {
+    "hash": "56adcbd3baa8d2b100d94ef44a43c9b7d4638061",
+    "time": 1574973944
+  },
   "versions": [
     {
       "tag": "v0.1.5",

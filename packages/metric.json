@@ -5,6 +5,10 @@
   "description": "Dimensionful types and dimensional analysis.",
   "license": "MIT",
   "web": "https://github.com/mjendrusch/metric",
+  "commit": {
+    "hash": "f89e596a9274b81d441e2a75d09d6a3f0b11105e",
+    "time": 1533648102
+  },
   "versions": [
     {
       "tag": "v0.1.0",

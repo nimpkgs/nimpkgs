@@ -5,6 +5,10 @@
   "description": "Library for querying HTML using CSS-selectors, like JavaScripts document.querySelector",
   "license": "MIT",
   "web": "https://github.com/GULPF/nimquery",
+  "commit": {
+    "hash": "4ed0ce9e8e1e6e7d0ea2bfdbd15cd4008063ee21",
+    "time": 1670358993
+  },
   "versions": [
     {
       "tag": "v2.0.1",

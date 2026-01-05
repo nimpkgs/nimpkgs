@@ -5,6 +5,10 @@
   "description": "Create smooth GPU-accelerated animations that can be previewed live or rendered to videos.",
   "license": "MIT",
   "web": "https://github.com/ErikWDev/nanim/",
+  "commit": {
+    "hash": "b9e5cd59ff000001ac1b58029089e40994bf869d",
+    "time": 1647772489
+  },
   "tags": [
     "animation",
     "motion-graphics",

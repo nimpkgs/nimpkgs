@@ -5,6 +5,10 @@
   "description": "Nim SDK for Claude Code - provides seamless integration with Claude Code functionality through a native Nim interface",
   "license": "Apache-2.0",
   "web": "https://github.com/Apothic-AI/claude-code-sdk-nim",
+  "commit": {
+    "hash": "ce54ed3b5d2a5c1e9171fbc2409878a963cfd8ef",
+    "time": 1754090611
+  },
   "versions": [
     {
       "tag": "v0.0.19",

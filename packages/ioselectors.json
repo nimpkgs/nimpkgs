@@ -5,6 +5,10 @@
   "description": "Selectors extension.",
   "license": "Apache-2.0",
   "web": "https://github.com/ringabout/ioselectors",
+  "commit": {
+    "hash": "c9344036936a49db3ff1bce97e0896d6aabcf22d",
+    "time": 1732611303
+  },
   "versions": [
     {
       "tag": "v0.2.0",

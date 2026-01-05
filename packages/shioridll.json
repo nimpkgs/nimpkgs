@@ -5,6 +5,10 @@
   "description": "The SHIORI DLL interface",
   "license": "MIT",
   "web": "https://github.com/Narazaka/shioridll-nim",
+  "commit": {
+    "hash": "9bb220712818ce709d9eeb69c1a9d1cbd77906a6",
+    "time": 1739895498
+  },
   "versions": [
     {
       "tag": "v3.0.1",

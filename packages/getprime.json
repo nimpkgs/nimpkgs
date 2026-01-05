@@ -5,6 +5,10 @@
   "description": "Generate random prime numbers, and do prime number tests. Note: don't support prime numbers larger than approximately 3037000499 (sqrt(int.high)).",
   "license": "MIT",
   "web": "https://github.com/xjzh123/getprime",
+  "commit": {
+    "hash": "e299e2e3dae1efce8cb4a1c4ba2ffc55535ad62b",
+    "time": 1695449815
+  },
   "tags": [
     "math",
     "prime numbers",

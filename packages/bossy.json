@@ -5,6 +5,10 @@
   "description": "Makes supporting command line arguments easier",
   "license": "MIT",
   "web": "https://github.com/guzba/bossy",
+  "commit": {
+    "hash": "0589114471b07ae8f4ef206e8739f521ea2ea7ef",
+    "time": 1693248018
+  },
   "tags": [
     "command-line",
     "cli"

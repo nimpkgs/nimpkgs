@@ -5,6 +5,10 @@
   "description": "A collection of classical cipher and encoding algorithms including Caesar, ROT13, ROT47, Vigenere, Morse code and other implementations in one library for educational and practical use",
   "license": "MIT",
   "web": "https://github.com/ph4mished/cipherlib",
+  "commit": {
+    "hash": "0fd8c06cd93ade88e11b00822729c9e4977c5729",
+    "time": 1758815846
+  },
   "versions": [
     {
       "tag": "v.0.1.1",

@@ -5,6 +5,10 @@
   "description": "A simple TLDR pages client",
   "license": "MIT",
   "web": "https://codeberg.org/eqf0/mt/",
+  "commit": {
+    "hash": "3c93457628dd01b641e20db73e5feae15902e9cd",
+    "time": 1644638799
+  },
   "tags": [
     "tldr",
     "manpages"

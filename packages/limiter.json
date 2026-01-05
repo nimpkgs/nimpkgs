@@ -5,6 +5,10 @@
   "description": "A simple to use HTTP rate limiting library to limit any action during a specific period of time.",
   "license": "MIT",
   "web": "https://github.com/supranim/limiter",
+  "commit": {
+    "hash": "11096ff21f78e9365c5d85f6567b91fb0ad5a06e",
+    "time": 1745641090
+  },
   "tags": [
     "http",
     "limiter",

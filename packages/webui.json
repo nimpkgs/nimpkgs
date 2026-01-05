@@ -5,6 +5,10 @@
   "description": "Nim wrapper for WebUI",
   "license": "MIT",
   "web": "https://webui.me/",
+  "commit": {
+    "hash": "3d0d4e690a8c7a0502d100b4b8ace04dd7a79253",
+    "time": 1765406400
+  },
   "tags": [
     "webui",
     "web",

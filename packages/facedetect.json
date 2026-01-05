@@ -5,6 +5,10 @@
   "description": "A face detection, pupil/eyes localization and facial landmark points detection library",
   "license": "MIT",
   "web": "https://github.com/deNULL/facedetect",
+  "commit": {
+    "hash": "e73c08a7ebaf6de706dcb2b3b84a35bb2ebd8394",
+    "time": 1685302245
+  },
   "tags": [
     "face",
     "detection",

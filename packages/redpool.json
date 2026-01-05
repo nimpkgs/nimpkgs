@@ -5,6 +5,10 @@
   "description": "Redis connection pool",
   "license": "MIT",
   "web": "https://github.com/zedeus/redpool",
+  "commit": {
+    "hash": "8b7c1db069797300425037c98b825c5d3316f752",
+    "time": 1642675865
+  },
   "tags": [
     "redis",
     "pool"

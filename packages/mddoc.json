@@ -5,6 +5,10 @@
   "description": "Generated Nim's API docs in markdown for github's README.md files. Great for small libraries with simple APIs.",
   "license": "MIT",
   "web": "https://github.com/treeform/mddoc",
+  "commit": {
+    "hash": "b330712aa8ad15eea2891550a9ca156914fcde88",
+    "time": 1633048377
+  },
   "versions": [
     {
       "tag": "v0.0.4",

@@ -5,6 +5,10 @@
   "description": "A pure nim port of the open simplex noise algorithm from Kurt Spencer",
   "license": "MIT",
   "web": "https://github.com/betofloresbaca/nim-opensimplexnoise",
+  "commit": {
+    "hash": "b663237a1d13b6d53df4a66ae311adfa3831eed1",
+    "time": 1690235116
+  },
   "tags": [
     "noise",
     "opensimplexnoise",

@@ -5,6 +5,10 @@
   "description": "A file system monitor in Nim.",
   "license": "Apache-2.0",
   "web": "https://github.com/planety/fsnotify",
+  "commit": {
+    "hash": "5b1562e4a021c4757b058b6ae353245b2dd4eb32",
+    "time": 1764066469
+  },
   "versions": [
     {
       "tag": "v0.1.4",

@@ -5,6 +5,10 @@
   "description": "Nim implementation of  Barreto-Lynn-Scott (BLS) curve BLS12-381.",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-blscurve",
+  "commit": {
+    "hash": "f4d0de2eece20380541fbf73d4b8bf57dc214b3b",
+    "time": 1759846206
+  },
   "tags": [
     "library",
     "cryptography",

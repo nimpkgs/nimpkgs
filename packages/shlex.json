@@ -5,6 +5,10 @@
   "description": "Library for splitting a string into shell words",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/shlex",
+  "commit": {
+    "hash": "513b299d5d621255c4be623ddfd3d82d11293a08",
+    "time": 1557244724
+  },
   "versions": [
     {
       "tag": "v0.1.0",

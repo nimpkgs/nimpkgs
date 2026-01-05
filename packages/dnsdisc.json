@@ -5,6 +5,10 @@
   "description": "Nim discovery library supporting EIP-1459",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-dnsdisc",
+  "commit": {
+    "hash": "203abd2b3e758e0ea3ae325769b20a7e1bcd1010",
+    "time": 1761020628
+  },
   "tags": [
     "protocols",
     "discovery",

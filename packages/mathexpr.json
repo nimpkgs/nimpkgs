@@ -5,6 +5,10 @@
   "description": "MathExpr - pure-Nim mathematical expression evaluator library",
   "license": "MIT",
   "web": "https://github.com/nimbackup/nim-mathexpr",
+  "commit": {
+    "hash": "eb0129397ac53e54cc2247585b1b6cb87f61e36b",
+    "time": 1670049140
+  },
   "tags": [
     "math",
     "mathparser",

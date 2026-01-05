@@ -5,6 +5,10 @@
   "description": "threadsafe timerpool implementation for event purpose",
   "license": "MIT",
   "web": "https://github.com/mikra01/timerpool",
+  "commit": {
+    "hash": "7e42cd224442b787c628abb7fe6daeed5005e8b3",
+    "time": 1589036537
+  },
   "tags": [
     "timer",
     "pool",

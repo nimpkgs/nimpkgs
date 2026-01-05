@@ -5,6 +5,10 @@
   "description": "The Hundred Rabbits theme ecosystem brought to Nim.",
   "license": "MIT",
   "web": "https://github.com/tonogram/rabbit",
+  "commit": {
+    "hash": "852e4f6e67747d27fb1f2193274b8501d2fc4231",
+    "time": 1603568370
+  },
   "versions": [
     {
       "tag": "v0.1.0",

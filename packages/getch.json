@@ -5,6 +5,10 @@
   "description": "getch() for Windows and Unix",
   "license": "MIT",
   "web": "https://github.com/6A/getch",
+  "commit": {
+    "hash": "1d9f68d07ac1b965bcd6ce49d09867aa2e7b062a",
+    "time": 1600370291
+  },
   "tags": [
     "getch",
     "char"

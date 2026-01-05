@@ -5,6 +5,10 @@
   "description": "This is the plugins for the zfcore framework https://github.com/zendbit/nim_zfcore",
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_zfplugs",
+  "commit": {
+    "hash": "27167132a23c651cec78282b6cd0125f62e0d472",
+    "time": 1693393893
+  },
   "versions": [
     {
       "tag": "v0.5.5",

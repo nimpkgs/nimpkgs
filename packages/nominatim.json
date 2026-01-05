@@ -5,6 +5,10 @@
   "description": "OpenStreetMap Nominatim API Lib for Nim",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-nominatim",
+  "commit": {
+    "hash": "4be3a868971d627d2682caf340389e175fcee99f",
+    "time": 1559843532
+  },
   "tags": [
     "openstreetmap",
     "nominatim",

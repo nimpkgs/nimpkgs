@@ -5,6 +5,10 @@
   "description": "Extensible bit vector integer encoding library",
   "license": "MIT",
   "web": "https://github.com/keyme/nim_bitvec",
+  "commit": {
+    "hash": "6d01fd9d68f8544d09173a519b632dfe61e5b8ee",
+    "time": 1536765937
+  },
   "tags": [
     "serialization",
     "encoding",

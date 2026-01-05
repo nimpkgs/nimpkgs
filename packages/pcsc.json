@@ -5,6 +5,10 @@
   "description": "PC/SC library for smart card access",
   "license": "MIT",
   "web": "https://github.com/mmlado/pcsc-nim/",
+  "commit": {
+    "hash": "9dcb2e22e3bd97b3f3d6196ad200db6b9b0c298c",
+    "time": 1756315755
+  },
   "versions": [
     {
       "tag": "v0.1.0",

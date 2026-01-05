@@ -5,6 +5,10 @@
   "description": "Unicode Character Database (UCD) access for Nim",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-unicodedb",
+  "commit": {
+    "hash": "66f2458710dc641dd4640368f9483c8a0ec70561",
+    "time": 1735609076
+  },
   "versions": [
     {
       "tag": "v0.13.2",

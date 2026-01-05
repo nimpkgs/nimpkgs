@@ -5,6 +5,10 @@
   "description": "mofuw is *MO*re *F*aster, *U*ltra *W*ebserver",
   "license": "MIT",
   "web": "https://github.com/2vg/mofuw",
+  "commit": {
+    "hash": "33e6c1c066129cd87bbf8e7b9b5818540001f71c",
+    "time": 1568784448
+  },
   "tags": [
     "web",
     "http",

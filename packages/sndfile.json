@@ -5,6 +5,10 @@
   "description": "A wrapper of libsndfile",
   "license": "MIT",
   "web": "https://github.com/SpotlightKid/nim-sndfile",
+  "commit": {
+    "hash": "94591b36e0f10f2ca8211f8f76751cfc93b12d61",
+    "time": 1766314560
+  },
   "versions": [
     {
       "tag": "v0.2.6",

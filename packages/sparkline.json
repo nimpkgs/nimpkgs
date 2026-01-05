@@ -5,6 +5,10 @@
   "description": "Sparkline library",
   "license": "MIT",
   "web": "https://github.com/aquilax/sparkline-nim",
+  "commit": {
+    "hash": "4cbbd2a734c68666ee3e7820e09326be8e15b44c",
+    "time": 1574001023
+  },
   "tags": [
     "library",
     "sparkline",

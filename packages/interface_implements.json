@@ -5,6 +5,10 @@
   "description": "implements macro creates toInterface proc.",
   "license": "MIT",
   "web": "https://github.com/itsumura-h/nim-interface-implements",
+  "commit": {
+    "hash": "ef7eacbc4b24b50481af7c074786e64b147164c7",
+    "time": 1716408090
+  },
   "versions": [
     {
       "tag": "v0.2.6",

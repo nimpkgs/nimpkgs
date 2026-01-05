@@ -5,6 +5,10 @@
   "description": "Another CsvTable API. Goals are efficient, simple and flexible",
   "license": "MIT",
   "web": "https://github.com/Alogani/csvdict",
+  "commit": {
+    "hash": "bce3e5978d780c595f03cb4399c48b62dc5cd489",
+    "time": 1713857704
+  },
   "versions": [
     {
       "tag": "v0.1.0",

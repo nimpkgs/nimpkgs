@@ -5,6 +5,10 @@
   "description": "Lifts compile-time object to AST",
   "license": "MIT",
   "web": "https://github.com/thing-king/lifter",
+  "commit": {
+    "hash": "37d074715568685efefd2358a45c91cb3ba291b1",
+    "time": 1760569876
+  },
   "tags": [
     "object",
     "ast",

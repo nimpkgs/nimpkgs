@@ -5,6 +5,10 @@
   "description": "A simple cross language struct and enum file generator.",
   "license": "MIT",
   "web": "https://github.com/binhonglee/wings",
+  "commit": {
+    "hash": "9bc1e4cb17ad37ac9723162ebd54d445e419842d",
+    "time": 1767272597
+  },
   "versions": [
     {
       "tag": "v0.0.10-alpha",

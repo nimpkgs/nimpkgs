@@ -5,6 +5,10 @@
   "description": "Design by Contract (DbC) library with minimal runtime.",
   "license": "MIT",
   "web": "https://github.com/Udiknedormin/NimContracts",
+  "commit": {
+    "hash": "8b44799eb10874863333c886f06efae30c73ac50",
+    "time": 1664222324
+  },
   "tags": [
     "library",
     "pure",

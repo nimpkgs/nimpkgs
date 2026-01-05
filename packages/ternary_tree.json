@@ -5,6 +5,10 @@
   "description": "Structural sharing data structure of lists and maps.",
   "license": "MIT",
   "web": "https://github.com/calcit-lang/ternary-tree",
+  "commit": {
+    "hash": "dbf21cca913fc0873ec0e5c5f293f5631f5f7e23",
+    "time": 1616860688
+  },
   "versions": [
     {
       "tag": "v0.2.2",

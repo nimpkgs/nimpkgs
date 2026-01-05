@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/YesDrX/numnim",
   "doc": "https://github.com/YesDrX/numnim",
+  "commit": {
+    "hash": "eb9a5b7a30ce165083c43eb517dcbebd43ee16a7",
+    "time": 1596683062
+  },
   "versions": [
     {
       "tag": "v0.1.0",

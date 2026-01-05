@@ -5,6 +5,10 @@
   "description": "Package providing the Nim compiler binaries plus all its source files that can be used as a library",
   "license": "MIT",
   "web": "https://github.com/nim-lang/Nim",
+  "commit": {
+    "hash": "780c9eeef027248984f564e4dec1ea04a1dbd70f",
+    "time": 1767622919
+  },
   "versions": [
     {
       "tag": "v2.2.6",

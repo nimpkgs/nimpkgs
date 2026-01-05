@@ -5,6 +5,10 @@
   "description": "Qt Qml bindings",
   "license": "GPLv3",
   "web": "https://github.com/filcuc/nimqml",
+  "commit": {
+    "hash": "fead4c38ca9dcf2a788e690822a933722ad40e8f",
+    "time": 1738795654
+  },
   "tags": [
     "Qt",
     "Qml",

@@ -5,6 +5,10 @@
   "description": "The core types and functions of the SciNim ecosystem",
   "license": "MIT",
   "web": "https://github.com/SciNim/scinim",
+  "commit": {
+    "hash": "c5250b41ee16d268594a4e899967b703d04b1bd8",
+    "time": 1742505995
+  },
   "versions": [
     {
       "tag": "v0.2.5",

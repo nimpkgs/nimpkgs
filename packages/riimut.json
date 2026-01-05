@@ -5,6 +5,10 @@
   "description": "Transform latin letters to runes & vice versa. Four runic dialects available.",
   "license": "MIT",
   "web": "https://github.com/stscoundrel/riimut-nim",
+  "commit": {
+    "hash": "b82fdc03d72e2f3e18ea6d7303c6db3693f8d494",
+    "time": 1722582025
+  },
   "versions": [
     {
       "tag": "v1.2.1",

@@ -5,6 +5,10 @@
   "description": "Bindings for zstd",
   "license": "MIT",
   "web": "https://github.com/wltsmrz/nim_zstd",
+  "commit": {
+    "hash": "75ee00aa3da80903dc509f1ff1605304cc77c173",
+    "time": 1701133455
+  },
   "versions": [
     {
       "tag": "v0.9",

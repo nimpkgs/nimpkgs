@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Client and server database and networking utils",
   "license": "Public Domain",
+  "commit": {
+    "hash": "836ce54862804c521478df8cac7c0b130a993567",
+    "time": 1739736747
+  },
   "tags": [
     "database",
     "networking"

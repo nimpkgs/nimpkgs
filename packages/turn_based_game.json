@@ -5,6 +5,10 @@
   "description": "Game rules engine for simulating or playing turn-based games",
   "license": "MIT",
   "web": "https://github.com/JohnAD/turn_based_game/wiki",
+  "commit": {
+    "hash": "72f66eb818c3f0c30b8256914a1e5a0a7cc68dd3",
+    "time": 1577999067
+  },
   "versions": [
     {
       "tag": "v1.1.6",

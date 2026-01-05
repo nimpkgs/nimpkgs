@@ -5,6 +5,10 @@
   "description": "Wrapper for AutoIt v3.3.14.2",
   "license": "MIT",
   "web": "https://github.com/Guevara-chan/AutoNim",
+  "commit": {
+    "hash": "536aa3d796ee198b3abaa0c385da8fd1c70d4122",
+    "time": 1617724658
+  },
   "tags": [
     "automation",
     "autoit"

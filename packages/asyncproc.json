@@ -5,6 +5,10 @@
   "description": "Flexible child process spawner with strong async features",
   "license": "MIT",
   "web": "https://github.com/Alogani/asyncproc",
+  "commit": {
+    "hash": "5bd0bb7871a68f1f1a8f5b996f400690d8927373",
+    "time": 1715025028
+  },
   "versions": [
     {
       "tag": "v0.4.4",

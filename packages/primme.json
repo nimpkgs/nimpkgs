@@ -5,6 +5,10 @@
   "description": "Nim interface for PRIMME: PReconditioned Iterative MultiMethod Eigensolver",
   "license": "MIT",
   "web": "https://github.com/jxy/primme",
+  "commit": {
+    "hash": "722c2543096e64fcf99ad05fe5b7a08ce3f6f65d",
+    "time": 1542340780
+  },
   "versions": [
     {
       "tag": "v3.0.0",

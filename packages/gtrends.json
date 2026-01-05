@@ -5,6 +5,10 @@
   "description": "Google Trends RSS",
   "license": "MIT",
   "web": "https://github.com/thisago/gtrends",
+  "commit": {
+    "hash": "2acf29e650ed61ad269e2cb2220e8a550d1efdb5",
+    "time": 1689293663
+  },
   "tags": [
     "library",
     "google_trends",

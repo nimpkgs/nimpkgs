@@ -5,6 +5,10 @@
   "description": "Nim wasm runtime",
   "license": "MIT",
   "web": "https://github.com/yglukhov/wasmrt",
+  "commit": {
+    "hash": "b855ab736ec3ed78ac75a678dbce9f022c90b34f",
+    "time": 1759306867
+  },
   "tags": [
     "wasm",
     "webassembly"

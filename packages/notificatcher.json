@@ -5,6 +5,10 @@
   "description": "Small program to grab notifications from freedesktop and output them according to a format",
   "license": "MIT",
   "web": "https://github.com/PMunch/notificatcher",
+  "commit": {
+    "hash": "f43ac3290a1053e47409c4f402744b2ccb8e3a84",
+    "time": 1715594789
+  },
   "versions": [
     {
       "tag": "v0.5.1",

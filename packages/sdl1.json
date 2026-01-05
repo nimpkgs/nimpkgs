@@ -5,6 +5,10 @@
   "description": "SDL 1.2 wrapper for Nim.",
   "license": "LGPL",
   "web": "https://github.com/nim-lang/sdl1",
+  "commit": {
+    "hash": "d8ef41f393de0f0df3647431067b2ac74a3ab3ec",
+    "time": 1687644114
+  },
   "tags": [
     "graphics",
     "library",

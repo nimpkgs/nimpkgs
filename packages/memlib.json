@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/khchen/memlib",
   "doc": "https://khchen.github.io/memlib",
+  "commit": {
+    "hash": "0c46ef5e803160a9eab867d5ba0fcdb307aaa492",
+    "time": 1669819111
+  },
   "tags": [
     "dynlib",
     "library",

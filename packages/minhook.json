@@ -5,6 +5,10 @@
   "description": "MinHook wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/khchen/minhook",
+  "commit": {
+    "hash": "7c0cfdac09e6b02114741318fe3e3284fc1ac334",
+    "time": 1605323633
+  },
   "tags": [
     "hook",
     "hooking",

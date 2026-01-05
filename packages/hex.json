@@ -5,6 +5,10 @@
   "description": "A simple hex package for Nim",
   "license": "MIT",
   "web": "https://github.com/esbullington/nimrod-hex",
+  "commit": {
+    "hash": "ee6559b2a5d991bc9d2017878b197e6f05e9caaf",
+    "time": 1400176791
+  },
   "tags": [
     "hex",
     "encoding"

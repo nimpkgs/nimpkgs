@@ -5,6 +5,10 @@
   "description": "a tiny tool to bump nimble versions",
   "license": "MIT",
   "web": "https://github.com/disruptek/bump",
+  "commit": {
+    "hash": "09811e775a94a77bb4c6d25349109fcf8341db92",
+    "time": 1707755960
+  },
   "tags": [
     "nimble",
     "bump",

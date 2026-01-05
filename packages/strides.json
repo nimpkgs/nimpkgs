@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/fsh/strides",
   "doc": "https://fsh.github.io/strides/strides.html",
+  "commit": {
+    "hash": "52d21364be0247e8882a99e718017f4e89db0cae",
+    "time": 1670685899
+  },
   "versions": [
     {
       "tag": "v0.1.1",

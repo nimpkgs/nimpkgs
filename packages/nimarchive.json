@@ -5,6 +5,10 @@
   "description": "libarchive wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimarchive",
+  "commit": {
+    "hash": "efd663396a692057f30b7e0e455be85f5b0e6d50",
+    "time": 1603305557
+  },
   "versions": [
     {
       "tag": "v0.5.4",

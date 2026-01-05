@@ -5,6 +5,10 @@
   "description": "Domain Name System (DNS) protocol for Nim programming language",
   "license": "MIT",
   "web": "https://github.com/rockcavera/nim-dnsprotocol",
+  "commit": {
+    "hash": "f1aa2d6f809fca124d5902f29ae0f37d645e1685",
+    "time": 1738881199
+  },
   "versions": [
     {
       "tag": "v0.2.2",

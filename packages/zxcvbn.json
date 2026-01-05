@@ -5,6 +5,10 @@
   "description": "Nim bindings for the zxcvbn-c password strength estimation library",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-zxcvbn",
+  "commit": {
+    "hash": "d827fdc9968a4f06bba587dc38df2b20399f8cf5",
+    "time": 1736760832
+  },
   "tags": [
     "security",
     "passwords",

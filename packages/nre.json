@@ -5,6 +5,10 @@
   "description": "A better regular expression library",
   "license": "MIT",
   "web": "https://github.com/flaviut/nre",
+  "commit": {
+    "hash": "52f8117d3b8f2bfc6f94616b2b676c434b59c4f7",
+    "time": 1552291147
+  },
   "tags": [
     "library",
     "pcre",

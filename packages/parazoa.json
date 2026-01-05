@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Immutable, persistent data structures",
   "license": "Public Domain",
+  "commit": {
+    "hash": "8a9e8964f39b4591f91cbe582118e485503eff6b",
+    "time": 1672233045
+  },
   "tags": [
     "immutable",
     "persistent"

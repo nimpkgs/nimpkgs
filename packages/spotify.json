@@ -5,6 +5,10 @@
   "description": "A Nim wrapper for the Spotify Web API",
   "license": "Apache License 2.0",
   "web": "https://github.com/CORDEA/spotify",
+  "commit": {
+    "hash": "011327775986a47967c272c532d5a593bc223a6c",
+    "time": 1664077541
+  },
   "versions": [
     {
       "tag": "v0.1.1",

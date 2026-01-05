@@ -5,6 +5,10 @@
   "description": "Raw low-level bindings and idiomatic high-level bindings for Mesa's GBM API",
   "license": "MIT",
   "web": "https://github.com/xTrayambak/gbm-nim",
+  "commit": {
+    "hash": "8f6177cafff70a233dcca27c2def101cd045a81e",
+    "time": 1744106433
+  },
   "tags": [
     "gpu",
     "linux",

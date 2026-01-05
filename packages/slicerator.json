@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Iterator package aimed at more ergonomic and efficient iterators.",
   "license": "MIT",
+  "commit": {
+    "hash": "c5fc323b3ace2458ba8bf3e9841339be53f91e52",
+    "time": 1755621439
+  },
   "versions": [
     {
       "tag": "v0.3.6",

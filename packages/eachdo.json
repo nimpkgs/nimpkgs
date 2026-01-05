@@ -5,6 +5,10 @@
   "description": "eachdo executes commands with each multidimensional values",
   "license": "MIT",
   "web": "https://github.com/jiro4989/eachdo",
+  "commit": {
+    "hash": "2e4171452594f9a1b2ebdaa92ec03b06c6b48d2e",
+    "time": 1603670660
+  },
   "versions": [
     {
       "tag": "v0.1.1",

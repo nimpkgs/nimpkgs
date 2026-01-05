@@ -6,6 +6,10 @@
   "license": "AGPL-3.0-only",
   "web": "https://github.com/Gruruya/nmostr",
   "doc": "https://gruruya.github.io/nmostr",
+  "commit": {
+    "hash": "1a6588ad3e976a3629239dea06358f634bb43ddb",
+    "time": 1701891897
+  },
   "tags": [
     "nostr library",
     "decentralized messaging protocol",

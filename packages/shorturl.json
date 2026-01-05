@@ -5,6 +5,10 @@
   "description": "Nim module for generating URL identifiers for Tiny URL and bit.ly-like URLs",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-shorturl",
+  "commit": {
+    "hash": "e090969532d25836e32b51de03cf313075cf9aa7",
+    "time": 1504564128
+  },
   "tags": [
     "library",
     "url",

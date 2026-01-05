@@ -5,6 +5,10 @@
   "description": "itch.io API Client for Nim",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-itchio",
+  "commit": {
+    "hash": "c6cfeccb23cce7a12133159cd25f7062ccf95d7b",
+    "time": 1559845038
+  },
   "tags": [
     "itchio",
     "game",

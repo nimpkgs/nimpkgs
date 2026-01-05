@@ -5,6 +5,10 @@
   "description": "Obsolete - please use isense instead!",
   "license": "MIT",
   "web": "https://github.com/nimious/io-isense",
+  "commit": {
+    "hash": "cb59c2f7aad209cda8a188d7089d929c8fa55eab",
+    "time": 1454174737
+  },
   "tags": [
     "binding",
     "isense",

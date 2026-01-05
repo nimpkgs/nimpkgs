@@ -5,6 +5,10 @@
   "description": "Nim powered RISC-V virtual machine and emulator.",
   "license": "GPL3",
   "web": "https://gitlab.com/OFThomas/niscv",
+  "commit": {
+    "hash": "d061041c816f5af611cfc0a89666fc3e580c5487",
+    "time": 1682633003
+  },
   "versions": [
     {
       "tag": "v0.3.1",

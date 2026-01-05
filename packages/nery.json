@@ -5,6 +5,10 @@
   "description": "A simple library to create queries in Nim.",
   "license": "MIT",
   "web": "https://github.com/David-Kunz/Nery",
+  "commit": {
+    "hash": "403c136942b4717675eed8fae9d0e2e2c60b7310",
+    "time": 1621881156
+  },
   "tags": [
     "query",
     "macro",

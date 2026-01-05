@@ -5,6 +5,10 @@
   "description": "Library data wilayah indonesia",
   "license": "MIT",
   "web": "https://github.com/nekoding/wilayahindonesia-nim",
+  "commit": {
+    "hash": "43a6096966953b2a8106c839b2203d1f77c7f93a",
+    "time": 1678223359
+  },
   "tags": [
     "library",
     "api",

@@ -5,6 +5,10 @@
   "description": "Metaprogramming tools for Nim",
   "license": "MIT",
   "web": "https://github.com/jxy/metatools",
+  "commit": {
+    "hash": "2e0af752a1bfc04c900f1ff9485f49d5ce421e28",
+    "time": 1550685844
+  },
   "versions": [
     {
       "tag": "v0.2.0",

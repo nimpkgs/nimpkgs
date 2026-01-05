@@ -5,6 +5,10 @@
   "description": "A Nim implementation of the Stalin Sort algorithm.",
   "license": "CC0-1.0",
   "web": "https://github.com/tonogram/stalinsort",
+  "commit": {
+    "hash": "f6f749214f9b833d0266c0a9766fdd48dfba6f8a",
+    "time": 1602007550
+  },
   "versions": [
     {
       "tag": "v0.3.2",

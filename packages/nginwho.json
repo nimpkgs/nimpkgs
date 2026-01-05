@@ -5,6 +5,10 @@
   "description": "A lightweight and extremely fast nginx log parser that stores the result into a sqlite3 database for further analysis and action",
   "license": "MIT",
   "web": "https://github.com/pouriyajamshidi/nginwho",
+  "commit": {
+    "hash": "d54f904691801faa6ecb852bb67c639c72b6bc69",
+    "time": 1752428609
+  },
   "versions": [
     {
       "tag": "v2.2.0",

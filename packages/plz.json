@@ -5,6 +5,10 @@
   "description": "PLZ Python PIP alternative",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-pypi",
+  "commit": {
+    "hash": "0cefec96334d9eb06335e19fe9f13402a059f7d4",
+    "time": 1670637291
+  },
   "tags": [
     "python",
     "pip",

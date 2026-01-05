@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/eggplants/fushin",
   "doc": "https://egpl.dev/fushin/fushin.html",
+  "commit": {
+    "hash": "6e4ae35c8a5f1a50fff473983affd5c51a65836b",
+    "time": 1687624792
+  },
   "versions": [
     {
       "tag": "v0.0.0",

@@ -5,6 +5,10 @@
   "description": "Print is a set of pretty print macros, useful for print-debugging.",
   "license": "MIT",
   "web": "https://github.com/treeform/print",
+  "commit": {
+    "hash": "159e540f0686efdd1c8f30ad7b4225a6aa2a5ab9",
+    "time": 1683764539
+  },
   "versions": [
     {
       "tag": "v0.1.0",

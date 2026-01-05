@@ -5,6 +5,10 @@
   "description": "Cross-platform GUI framework",
   "license": "MIT",
   "web": "https://github.com/yglukhov/nimx",
+  "commit": {
+    "hash": "41f33530769743c3608efc6eee218a039161c85f",
+    "time": 1758978026
+  },
   "versions": [
     {
       "tag": "v0.2",

@@ -6,6 +6,10 @@
   "license": "Apache-2.0",
   "web": "https://github.com/The-Ticking-Clockwork/MUTF-8",
   "doc": "https://the-ticking-clockwork.github.io/MUTF-8/",
+  "commit": {
+    "hash": "5e888d575d5c3a77d88bceaf85efe2768a3bbc29",
+    "time": 1756261733
+  },
   "versions": [
     {
       "tag": "v0.1.1",

@@ -5,6 +5,10 @@
   "description": "Utils to work with javascript",
   "license": "MIT",
   "web": "https://github.com/kidandcat/jsutils",
+  "commit": {
+    "hash": "347a7a04f02f1940128cb3bf1b762714830b28bb",
+    "time": 1574899165
+  },
   "versions": [
     {
       "tag": "v0.2.3",

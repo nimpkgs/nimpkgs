@@ -5,6 +5,10 @@
   "description": "Wrapper for DigitalOcean HTTP API.",
   "license": "MIT",
   "web": "https://github.com/treeform/digitalocean",
+  "commit": {
+    "hash": "76c4296751094a2ab5039dc754b9718a5ad447fa",
+    "time": 1655755070
+  },
   "versions": [
     {
       "tag": "v0.1.0",

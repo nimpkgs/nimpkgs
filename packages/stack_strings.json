@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/termermc/nim-stack-strings/",
   "doc": "https://docs.termer.net/nim/stack_strings/",
+  "commit": {
+    "hash": "acb6bd76f9b5b7a88b76a01767844760231fc17f",
+    "time": 1715563495
+  },
   "versions": [
     {
       "tag": "v1.1.4",

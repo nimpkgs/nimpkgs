@@ -5,6 +5,10 @@
   "description": "Small wrapper for SystemVerilog DPI-C header svdpi.h",
   "license": "MIT",
   "web": "https://github.com/kaushalmodi/nim-svdpi",
+  "commit": {
+    "hash": "bffb0936361a8a2f7b3e996f3c0b5429ad3f2444",
+    "time": 1747398660
+  },
   "versions": [
     {
       "tag": "v1.0.0",

@@ -5,6 +5,10 @@
   "description": "JSON serialization framework",
   "license": "MIT",
   "web": "https://github.com/planetis-m/eminim",
+  "commit": {
+    "hash": "92bbc9dfc2f10eb9b9b3d01640937fca660ee0d9",
+    "time": 1729895811
+  },
   "versions": [
     {
       "tag": "v2.8.2",

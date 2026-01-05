@@ -4,6 +4,10 @@
   "method": "git",
   "description": "binary de-/serialization that works on js, c and VM (compiletime)",
   "license": "MIT",
+  "commit": {
+    "hash": "8fd57f083cd2f323d4a23eebdbd0f358f6fdeb0d",
+    "time": 1685115937
+  },
   "versions": [
     {
       "tag": "v0.2.0",

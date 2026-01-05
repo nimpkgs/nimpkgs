@@ -5,6 +5,10 @@
   "description": "Nim bindings for Clutter toolkit.",
   "license": "LGPLv2.1",
   "web": "https://github.com/KeepCoolWithCoolidge/nimclutter",
+  "commit": {
+    "hash": "87af6423eec1d66f253e62e6bb8d29b45fb5752b",
+    "time": 1537114980
+  },
   "tags": [
     "clutter",
     "gtk",

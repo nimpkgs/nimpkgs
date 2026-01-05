@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/neroist/libtray",
   "doc": "https://neroist.github.io/libtray/libtray.html",
+  "commit": {
+    "hash": "6813e70c2cebb8441b62a0a59aa2f6ea96c43f09",
+    "time": 1716998391
+  },
   "tags": [
     "wrapper",
     "bindings",

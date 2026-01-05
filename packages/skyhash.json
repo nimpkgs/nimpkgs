@@ -10,5 +10,6 @@
     "blake2s",
     "spookyhash",
     "deleted"
-  ]
+  ],
+  "status": "Deleted"
 }

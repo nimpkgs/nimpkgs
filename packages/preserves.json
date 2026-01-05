@@ -5,6 +5,10 @@
   "description": "Preserves data model and serialization format",
   "license": "ISC",
   "web": "https://preserves.gitlab.io/preserves/",
+  "commit": {
+    "hash": "1585942fab7b05225cbce089b8351ad1a0842485",
+    "time": 1765929600
+  },
   "tags": [
     "binary",
     "library",

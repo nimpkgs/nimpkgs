@@ -5,6 +5,10 @@
   "description": "Fully type safe, compile time only units library",
   "license": "MIT",
   "web": "https://github.com/SciNim/unchained",
+  "commit": {
+    "hash": "426d72a5cd0c48d63fe4747bee8dfb964a9629c0",
+    "time": 1763636647
+  },
   "versions": [
     {
       "tag": "v0.4.8",

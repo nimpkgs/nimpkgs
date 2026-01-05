@@ -5,6 +5,10 @@
   "description": "faker is a Nim package that generates fake data for you.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/faker",
+  "commit": {
+    "hash": "7da6140633d13ddb55c6d8e2b6cd4fd01b74d3e7",
+    "time": 1764260060
+  },
   "versions": [
     {
       "tag": "v0.16.0",

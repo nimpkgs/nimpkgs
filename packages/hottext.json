@@ -5,6 +5,10 @@
   "description": "Rapid serial text presenter",
   "license": "Unlicense",
   "web": "https://git.sr.ht/~ehmry/hottext",
+  "commit": {
+    "hash": "45199169e0f39afbf3f1209a72bde35ebf4c2aba",
+    "time": 1728824158
+  },
   "versions": [
     {
       "tag": "v1.4",

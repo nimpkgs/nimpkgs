@@ -5,6 +5,10 @@
   "description": "wrapper for the notmuch mail library",
   "license": "BSD 3-Clause",
   "web": "https://github.com/samdmarshall/notmuch.nim",
+  "commit": {
+    "hash": "bb5c1c48e13514efa1e9cda59045b242cb0751f5",
+    "time": 1583936008
+  },
   "tags": [
     "notmuch",
     "wrapper",

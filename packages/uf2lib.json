@@ -10,5 +10,6 @@
     "microcontroller",
     "usb",
     "flashing"
-  ]
+  ],
+  "status": "Unreachable"
 }

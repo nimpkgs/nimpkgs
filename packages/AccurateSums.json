@@ -5,6 +5,10 @@
   "description": "Accurate Floating Point Sums and Products.",
   "license": "MIT",
   "web": "https://gitlab.com/lbartoletti/accuratesums",
+  "commit": {
+    "hash": "814fe8871e7fc049079fe1ab0885bbb0b0608839",
+    "time": 1606453358
+  },
   "tags": [
     "sum",
     "float",

@@ -5,6 +5,10 @@
   "description": "Astronomical library for Nim",
   "license": "MIT",
   "web": "https://github.com/super-massive-black-holes/AstroNimy",
+  "commit": {
+    "hash": "1b560bb469cc393ba01eceee232c6569d2759a74",
+    "time": 1435799867
+  },
   "tags": [
     "science",
     "astronomy",

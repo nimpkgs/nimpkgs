@@ -5,6 +5,10 @@
   "description": "A Discord Bot & REST Library.",
   "license": "MIT",
   "web": "https://github.com/krisppurg/dimscord",
+  "commit": {
+    "hash": "5bef06763751b6582075cd4218b47dbc64068b88",
+    "time": 1760873203
+  },
   "versions": [
     {
       "tag": "v1.8.0",

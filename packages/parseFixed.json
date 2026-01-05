@@ -5,6 +5,10 @@
   "description": "Parse fixed-width fields within lines of text (complementary to parsecsv)",
   "license": "MIT",
   "web": "https://github.com/jlp765/parsefixed",
+  "commit": {
+    "hash": "f57c3063aa4f1a6830ca18113ac2935b7e9cb1cc",
+    "time": 1566612012
+  },
   "tags": [
     "parse",
     "fixed",

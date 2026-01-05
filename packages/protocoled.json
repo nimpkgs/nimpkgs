@@ -5,6 +5,10 @@
   "description": "an interface macro",
   "license": "MIT",
   "web": "https://github.com/planetis-m/protocoled",
+  "commit": {
+    "hash": "7e1fa7724c8be6cfe02fe883ea764f7bcc3576fe",
+    "time": 1687499376
+  },
   "tags": [
     "interface"
   ]

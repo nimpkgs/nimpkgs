@@ -5,6 +5,10 @@
   "description": "Command line tools for Prologue.",
   "license": "Apache-2.0",
   "web": "https://github.com/planety/logue",
+  "commit": {
+    "hash": "abdc645a410a9fed0f4125023e3f57d9957fb376",
+    "time": 1657676057
+  },
   "versions": [
     {
       "tag": "v0.2.4",

@@ -5,6 +5,10 @@
   "description": "Amazon Simple Storage Service (AWS S3) basic API support.",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_awsS3",
+  "commit": {
+    "hash": "156d0246b22d7e71e067f5e4eff93d34d8bf1399",
+    "time": 1746812638
+  },
   "versions": [
     {
       "tag": "v3.2.2",

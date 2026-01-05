@@ -5,6 +5,10 @@
   "description": "Utility macros for easier handling of options in Nim",
   "license": "MIT",
   "web": "https://github.com/PMunch/nim-optionsutils",
+  "commit": {
+    "hash": "afd76544ea3996b221d8a159f5413cdb91f7f7f6",
+    "time": 1614671837
+  },
   "versions": [
     {
       "tag": "v1.2.0",

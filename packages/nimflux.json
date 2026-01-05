@@ -5,6 +5,10 @@
   "description": "InfluxDB API client library",
   "license": "MIT",
   "web": "https://github.com/tdely/nimflux",
+  "commit": {
+    "hash": "7164f02f72d81bddd3d125b6e5f61d302b080b30",
+    "time": 1648450139
+  },
   "versions": [
     {
       "tag": "v1.0.3",

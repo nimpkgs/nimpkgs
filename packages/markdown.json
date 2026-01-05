@@ -5,6 +5,10 @@
   "description": "A Beautiful Markdown Parser in the Nim World.",
   "license": "MIT",
   "web": "https://github.com/soasme/nim-markdown",
+  "commit": {
+    "hash": "dc6be23b5b61abfc6b4f359ea6c917836fd6f7ff",
+    "time": 1765270173
+  },
   "versions": [
     {
       "tag": "v0.8.8",

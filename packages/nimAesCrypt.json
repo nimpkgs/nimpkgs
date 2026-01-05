@@ -5,6 +5,10 @@
   "description": "Nim file-encryption module that uses AES256-CBC to encrypt/decrypt files.",
   "license": "Apache 2.0",
   "web": "https://github.com/maxDcb/nimAesCrypt",
+  "commit": {
+    "hash": "fc023fcd7e0c37e39a68118de46b89033047bce4",
+    "time": 1681823938
+  },
   "tags": [
     "nim",
     "aes",

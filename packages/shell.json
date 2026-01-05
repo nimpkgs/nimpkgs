@@ -5,6 +5,10 @@
   "description": "A Nim mini DSL to execute shell commands",
   "license": "MIT",
   "web": "https://github.com/Vindaar/shell",
+  "commit": {
+    "hash": "cdd98b9d6e0715fc13a62b1de3f82450cc463679",
+    "time": 1707473567
+  },
   "versions": [
     {
       "tag": "v0.6.0",

@@ -5,6 +5,10 @@
   "description": "A very simple vector library",
   "license": "MIT",
   "web": "https://github.com/dom96/vec",
+  "commit": {
+    "hash": "ac6a04f0798c92570955bb6ccbe99b77fdab62dd",
+    "time": 1543680350
+  },
   "versions": [
     {
       "tag": "v1.0",

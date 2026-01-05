@@ -5,6 +5,10 @@
   "description": "Common unicode operations",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-unicodeplus",
+  "commit": {
+    "hash": "f802d012290c32a69a774f2e7ea889546c1132e7",
+    "time": 1732223211
+  },
   "versions": [
     {
       "tag": "v0.14.2",

@@ -5,6 +5,10 @@
   "description": "Infer & generate command-line interface/option/argument parsers",
   "license": "MIT",
   "web": "https://github.com/c-blake/cligen",
+  "commit": {
+    "hash": "da1b0340b5bf45e62b7fe1b62e433414f83f05ec",
+    "time": 1767515808
+  },
   "versions": [
     {
       "tag": "v1.5.42",

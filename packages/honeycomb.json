@@ -5,6 +5,10 @@
   "description": "A dead simple, no-nonsense parser combinator library written in pure Nim.",
   "license": "MPL-2.0",
   "web": "https://github.com/KatrinaKitten/honeycomb",
+  "commit": {
+    "hash": "84ec624169aafcc47fb6e0b9d1b499d1c916c515",
+    "time": 1655763653
+  },
   "versions": [
     {
       "tag": "v0.1.2",

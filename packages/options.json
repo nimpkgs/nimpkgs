@@ -5,6 +5,10 @@
   "description": "Temporary package to fix broken code in 0.11.2 stable.",
   "license": "MIT",
   "web": "https://github.com/fallingduck/options-nim",
+  "commit": {
+    "hash": "035806c369469c8b47efefdbc5ca2d03e7f4a95b",
+    "time": 1434587924
+  },
   "tags": [
     "library",
     "option",

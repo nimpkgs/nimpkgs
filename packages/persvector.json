@@ -5,6 +5,10 @@
   "description": "This is an implementation of Clojures persistent vectors in Nim.",
   "license": "MIT",
   "web": "https://github.com/PMunch/nim-persistent-vector",
+  "commit": {
+    "hash": "3f92a26aced63c4d443f62a31402329a1c18d22e",
+    "time": 1572962395
+  },
   "versions": [
     {
       "tag": "v1.0.0",

@@ -5,6 +5,10 @@
   "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
   "license": "MIT",
   "web": "https://github.com/Ethosa/nodesnim",
+  "commit": {
+    "hash": "7abb307658d459159c001cba1b15fc1b61a1ad0d",
+    "time": 1637492938
+  },
   "versions": [
     {
       "tag": "v0.1.1",

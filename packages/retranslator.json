@@ -5,6 +5,10 @@
   "description": "Transformer",
   "license": "LGPLv3",
   "web": "https://github.com/linksplatform/RegularExpressions.Transformer",
+  "commit": {
+    "hash": "5654c8f08a2662e4b3f3badf30c760ca58f3f29a",
+    "time": 1752940884
+  },
   "tags": [
     "regular",
     "expressions",

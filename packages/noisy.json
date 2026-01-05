@@ -5,6 +5,10 @@
   "description": "SIMD-accelerated noise generation (Simplex, Perlin).",
   "license": "MIT",
   "web": "https://github.com/guzba/noisy",
+  "commit": {
+    "hash": "9625ee0a9dbdae44c427df95a4f8de006c061150",
+    "time": 1693248341
+  },
   "tags": [
     "perlin",
     "simplex",

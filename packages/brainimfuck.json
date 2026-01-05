@@ -5,6 +5,10 @@
   "description": "Brainfuck interpreter with some advanced features, such as syntax checking and highlighting errors.",
   "license": "GPL-3.0-only",
   "web": "https://github.com/nirokay/brainimfuck",
+  "commit": {
+    "hash": "615e4c65223fa3bbc7894f998da511ea9f13aa1d",
+    "time": 1688982550
+  },
   "tags": [
     "brainfuck",
     "interpreter",

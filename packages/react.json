@@ -5,6 +5,10 @@
   "description": "React.js bindings for Nim",
   "license": "Apache License 2.0",
   "web": "https://github.com/andreaferretti/react.nim",
+  "commit": {
+    "hash": "3a32e6b707c80c82d2161b3055aea3b633208a79",
+    "time": 1612775805
+  },
   "tags": [
     "js",
     "react",

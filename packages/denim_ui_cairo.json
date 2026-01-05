@@ -5,6 +5,10 @@
   "description": "Cairo backend for the denim ui engine",
   "license": "MIT",
   "web": "https://github.com/nortero-code/midio-ui-cairo",
+  "commit": {
+    "hash": "892d103d513bb2c32c4a4e572c78f136f9a9784c",
+    "time": 1624393600
+  },
   "tags": [
     "denim-ui",
     "denim-backend",

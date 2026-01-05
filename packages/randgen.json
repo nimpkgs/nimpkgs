@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://yesdrx.github.io/randgen/",
   "doc": "https://yesdrx.github.io/randgen/",
+  "commit": {
+    "hash": "06ab570e89ee93d74840b718d98060f0597dbaba",
+    "time": 1596997147
+  },
   "tags": [
     "random",
     "nim",

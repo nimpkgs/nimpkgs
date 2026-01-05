@@ -5,6 +5,10 @@
   "description": "High-level Wren wrapper",
   "license": "MIT",
   "web": "https://github.com/liquid600pgm/euwren",
+  "commit": {
+    "hash": "9148e9d439ae091ccca72a71e91c466f3a0ef0e4",
+    "time": 1579299562
+  },
   "tags": [
     "wren",
     "embedded",

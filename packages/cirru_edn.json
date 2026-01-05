@@ -5,6 +5,10 @@
   "description": "Extensible data notation based on Cirru syntax",
   "license": "MIT",
   "web": "https://github.com/Cirru/cirru-edn.nim",
+  "commit": {
+    "hash": "ae3f4690758e467c91e4f93eab7b938316a7c232",
+    "time": 1616038013
+  },
   "versions": [
     {
       "tag": "v0.4.10",

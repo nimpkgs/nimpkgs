@@ -5,6 +5,10 @@
   "description": "Polygon Clipper Library (Martinez Algorithm)",
   "license": "MIT",
   "web": "https://github.com/jangko/polyBool",
+  "commit": {
+    "hash": "e7281860b002ed1e62b5802ede40c530dfd5bfde",
+    "time": 1493983378
+  },
   "tags": [
     "polygon",
     "clipper",

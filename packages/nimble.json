@@ -5,6 +5,10 @@
   "description": "Nimble package manager",
   "license": "BSD",
   "web": "https://github.com/nim-lang/nimble",
+  "commit": {
+    "hash": "012058b06a7804cc60461f4a718970b06ab0605f",
+    "time": 1767280215
+  },
   "versions": [
     {
       "tag": "v0.20.1",

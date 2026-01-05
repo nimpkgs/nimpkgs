@@ -5,6 +5,10 @@
   "description": "User Agent parser for nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/useragents",
+  "commit": {
+    "hash": "083d0a1342c920b63323a707235de0e707f530a9",
+    "time": 1633048330
+  },
   "versions": [
     {
       "tag": "v0.1.1",

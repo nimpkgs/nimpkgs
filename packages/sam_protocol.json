@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/gabbhack/sam_protocol",
   "doc": "https://gabb.eu.org/sam_protocol",
+  "commit": {
+    "hash": "37256938c837ccaf836c4d67e16345b7fa45853b",
+    "time": 1729936178
+  },
   "versions": [
     {
       "tag": "v0.1.1",

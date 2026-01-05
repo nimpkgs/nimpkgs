@@ -5,6 +5,10 @@
   "description": "Simple method of obtaining secure random numbers from the OS",
   "license": "MIT",
   "web": "https://github.com/Matceporial/nim-urand",
+  "commit": {
+    "hash": "f3385acce562d4b656f17d65ce586152e0882fc9",
+    "time": 1543671366
+  },
   "tags": [
     "random",
     "urandom",

@@ -5,6 +5,10 @@
   "description": "Language Server Protocol implementation for Nim",
   "license": "MIT",
   "web": "https://github.com/PMunch/nimlsp",
+  "commit": {
+    "hash": "138680a75c20597b8d18edeabc35b71250be646f",
+    "time": 1752132055
+  },
   "versions": [
     {
       "tag": "v0.4.7",

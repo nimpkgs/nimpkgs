@@ -5,6 +5,10 @@
   "description": "Collection of string, parsing, pointer, ... utilities.",
   "license": "MIT",
   "web": "https://github.com/nim-appkit/utils",
+  "commit": {
+    "hash": "95fecae378fffc204bd326ded6f41b69da5786a0",
+    "time": 1448900934
+  },
   "tags": [
     "library",
     "utilities"

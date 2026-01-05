@@ -5,6 +5,10 @@
   "description": "A nim flavor of pytorch",
   "license": "MIT",
   "web": "https://github.com/fragcolor-xyz/nimtorch",
+  "commit": {
+    "hash": "0ce05bb6040987d9d526890862794b73121cb207",
+    "time": 1560005081
+  },
   "versions": [
     {
       "tag": "v0.2.3",

@@ -5,6 +5,10 @@
   "description": "OpenBSDs pledge(2) for Nim.",
   "license": "BSD3",
   "web": "https://github.com/euantorano/pledge.nim",
+  "commit": {
+    "hash": "6dd1e54327057ce6014d6314f99f909faa739149",
+    "time": 1579645846
+  },
   "versions": [
     {
       "tag": "v2.0.1",

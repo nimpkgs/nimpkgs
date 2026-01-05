@@ -5,6 +5,10 @@
   "description": "A collection of extra utilities for Nim.",
   "license": "MIT",
   "web": "https://github.com/jjv360/nim-stdx",
+  "commit": {
+    "hash": "b51ad662b68915cc56180eb9472c258254f814c0",
+    "time": 1698599885
+  },
   "versions": [
     {
       "tag": "v0.2.3",

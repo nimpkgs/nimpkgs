@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/auxym/bight",
   "doc": "https://auxym.github.io/bight/bight.html",
+  "commit": {
+    "hash": "35ab85cd015f40da5091d2332ed0acc9440bb0dd",
+    "time": 1763259515
+  },
   "versions": [
     {
       "tag": "v0.1.0",

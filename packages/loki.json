@@ -5,6 +5,10 @@
   "description": "A small library for writing cli programs in Nim.",
   "license": "Zlib",
   "web": "https://github.com/beshrkayali/loki",
+  "commit": {
+    "hash": "c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
+    "time": 1617392275
+  },
   "tags": [
     "cmd",
     "shell",

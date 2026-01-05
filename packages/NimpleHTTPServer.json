@@ -5,6 +5,10 @@
   "description": "SimpleHTTPServer module based on net sockets",
   "license": "HYDRA",
   "web": "https://github.com/Hydra820/NimpleHTTPServer",
+  "commit": {
+    "hash": "f4c860c24edb3ea2062eb392a36b568bd1e53efb",
+    "time": 1598302619
+  },
   "tags": [
     "Simple",
     "HTTP",

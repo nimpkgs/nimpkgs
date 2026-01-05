@@ -5,6 +5,10 @@
   "description": "Method & assignment cascades for Nim, inspired by Smalltalk & Dart.",
   "license": "MIT",
   "web": "https://github.com/haltcase/cascade",
+  "commit": {
+    "hash": "9eea9d252b69d24a5f4449125fb68ba54a265b88",
+    "time": 1715616376
+  },
   "versions": [
     {
       "tag": "v1.0.0",

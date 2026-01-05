@@ -5,6 +5,10 @@
   "description": "Initialize a Nim package non-interactively (does not require nimble)",
   "license": "BSD",
   "web": "https://github.com/cypherwytch/ninit",
+  "commit": {
+    "hash": "5f9782a221deb247a448922dfeebc15616cdc72a",
+    "time": 1718784270
+  },
   "versions": [
     {
       "tag": "v1.0.3",

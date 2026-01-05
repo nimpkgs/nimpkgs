@@ -5,6 +5,10 @@
   "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
   "license": "GPL-3.0-only",
   "web": "https://github.com/ANSI-D/NiFE",
+  "commit": {
+    "hash": "7e9730301c1c1b2526750fe63735f5fbeeab58eb",
+    "time": 1760644925
+  },
   "versions": [
     {
       "tag": "v.0.1.2",

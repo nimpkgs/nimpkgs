@@ -5,6 +5,10 @@
   "description": "An alternative DateTime implementation",
   "license": "MIT",
   "web": "https://github.com/GULPF/systimes",
+  "commit": {
+    "hash": "60d38f97abf31243ad88be7dcc19804b2dabc2ec",
+    "time": 1585587829
+  },
   "versions": [
     {
       "tag": "v0.2.1",

@@ -5,6 +5,10 @@
   "description": "General purpose measuring units datatypes with integrated conversions and definitions.",
   "license": "MIT",
   "web": "https://github.com/energy-nim/measures",
+  "commit": {
+    "hash": "0305fec45d9ef4b394caa21ff15d288157404b19",
+    "time": 1685854856
+  },
   "tags": [
     "library",
     "units",

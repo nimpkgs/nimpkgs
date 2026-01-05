@@ -5,6 +5,10 @@
   "description": "Lightweight audio mixer for games",
   "license": "MIT",
   "web": "https://github.com/rxi/cmixer-nim",
+  "commit": {
+    "hash": "eee48407f3727f89900e0a3e672575f54ad2eef1",
+    "time": 1498318438
+  },
   "tags": [
     "library",
     "audio",

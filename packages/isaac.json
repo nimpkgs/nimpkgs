@@ -5,6 +5,10 @@
   "description": "ISAAC PRNG implementation on Nim",
   "license": "MIT",
   "web": "https://github.com/pragmagic/isaac/",
+  "commit": {
+    "hash": "45a5cbbd54ff59ba3ed94242620c818b9aad1b5b",
+    "time": 1510809879
+  },
   "versions": [
     {
       "tag": "v0.1.3",

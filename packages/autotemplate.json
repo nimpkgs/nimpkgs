@@ -5,6 +5,10 @@
   "description": "Small library to automatically generate type-bound templates from files",
   "license": "MIT",
   "web": "https://github.com/PMunch/autotemplate",
+  "commit": {
+    "hash": "253c9fe83d27cce2e88e86a4f52009a358973fd8",
+    "time": 1672187413
+  },
   "versions": [
     {
       "tag": "v0.1.0",

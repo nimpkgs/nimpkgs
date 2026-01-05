@@ -5,6 +5,10 @@
   "description": "Master Password command line utility",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/mpwc",
+  "commit": {
+    "hash": "aa1dfcf4f21721f22768bbbfea4c08d54936d523",
+    "time": 1611590049
+  },
   "versions": [
     {
       "tag": "v0.1.3",

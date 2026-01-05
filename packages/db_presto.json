@@ -5,6 +5,10 @@
   "description": "prestodb simple connector",
   "license": "MIT",
   "web": "https://github.com/Bennyelg/nimPresto",
+  "commit": {
+    "hash": "d7b58ef825778499790b58924e1e1a78ab417175",
+    "time": 1536860831
+  },
   "tags": [
     "prestodb",
     "connector",

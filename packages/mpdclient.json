@@ -5,6 +5,10 @@
   "description": "MPD client library",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/mpdclient",
+  "commit": {
+    "hash": "61215096f4fb372c49190ac7b7f17febf76297ed",
+    "time": 1753347860
+  },
   "versions": [
     {
       "tag": "v0.3.2",

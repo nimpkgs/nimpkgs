@@ -5,6 +5,10 @@
   "description": "SuperCollider wrapper for omni.",
   "license": "MIT",
   "web": "https://github.com/vitreo12/omnicollider",
+  "commit": {
+    "hash": "5e03045c3236316c609fb7fe5095158a6f5a385e",
+    "time": 1711720243
+  },
   "tags": [
     "dsl",
     "dsp",

@@ -5,6 +5,10 @@
   "description": "A simple interface to a running Consul agent.",
   "license": "BSD2",
   "web": "https://github.com/makingspace/nim_consul",
+  "commit": {
+    "hash": "ecb777955cbef445184dba7fb0eeed0b32bfd268",
+    "time": 1531847312
+  },
   "tags": [
     "consul"
   ]

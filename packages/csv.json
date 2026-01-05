@@ -5,6 +5,10 @@
   "description": "Library for parsing, stringifying, reading, and writing CSV (comma separated value) files",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-csv",
+  "commit": {
+    "hash": "8b4d78e80142abb161cb81330c46127d8293e377",
+    "time": 1534785930
+  },
   "tags": [
     "csv",
     "parsing",

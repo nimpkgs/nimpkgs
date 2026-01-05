@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Mapping nim type to xml node, and parse from it.",
   "license": "LGPL-3.0",
+  "commit": {
+    "hash": "3d7f1ad5b382edb4c565909d4d31b611662ecffb",
+    "time": 1612877695
+  },
   "versions": [
     {
       "tag": "v0.2.5",

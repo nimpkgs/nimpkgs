@@ -5,6 +5,10 @@
   "description": "UI library for HappyX web framework",
   "license": "MIT",
   "web": "https://github.com/HapticX/happyx-ui",
+  "commit": {
+    "hash": "0f9831edc98c830a92931f62d4074130e49b6dbc",
+    "time": 1716047291
+  },
   "tags": [
     "web",
     "gui",

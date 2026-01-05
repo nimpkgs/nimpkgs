@@ -5,6 +5,10 @@
   "description": "Nimony is a new Nim implementation that is in heavy development.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/nimony",
+  "commit": {
+    "hash": "e2cd6eadcaa68eb8ab380cb4d3bdd7fd260677b4",
+    "time": 1767646207
+  },
   "versions": [
     {
       "tag": "v0.2.0",

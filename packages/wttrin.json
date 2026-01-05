@@ -5,6 +5,10 @@
   "description": "A library with functions to fetch weather data from wttr.in",
   "license": "GPL-3.0-or-later",
   "web": "https://github.com/Infinitybeond1/wttrin",
+  "commit": {
+    "hash": "8dcd42088d5844c68a916d117ebc8a2faac3ab33",
+    "time": 1663976642
+  },
   "tags": [
     "weather",
     "weather-api",

@@ -5,6 +5,10 @@
   "description": "rodster",
   "license": "MIT",
   "web": "https://github.com/j-a-s-d/rodster",
+  "commit": {
+    "hash": "31b64a28a27b4e162441d67ea9998d8cc72223a3",
+    "time": 1676576274
+  },
   "tags": [
     "application",
     "framework"

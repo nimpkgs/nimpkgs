@@ -5,6 +5,10 @@
   "description": "Nim Semi-Auto Bug Report Tool",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nimbug",
+  "commit": {
+    "hash": "ff0ca24468619f5e0b24776265142e31751bc7ff",
+    "time": 1592513867
+  },
   "tags": [
     "bug"
   ]

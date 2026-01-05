@@ -5,6 +5,10 @@
   "description": "Loop efficiently over a variadic number of containers",
   "license": "MIT or Apache 2.0",
   "web": "https://github.com/numforge/loopfusion",
+  "commit": {
+    "hash": "c7c42e2df195a98fab20eaeb1be88902c4ae69fd",
+    "time": 1683806367
+  },
   "tags": [
     "loop",
     "iterator",

@@ -5,6 +5,10 @@
   "description": "High-level wrapper for Linux's kmod library",
   "license": "ISC",
   "web": "https://github.com/alaviss/kmod",
+  "commit": {
+    "hash": "923879e15b087e09e21d23a4f42673ea6cf66260",
+    "time": 1561616730
+  },
   "tags": [
     "kmod",
     "wrapper"

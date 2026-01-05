@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/Timofffee/tecs.nim",
   "doc": "https://timofffee.github.io/tecs.nim/tecs.html",
+  "commit": {
+    "hash": "967becf796fc2638d72486dc709a7af321b8fb23",
+    "time": 1636384435
+  },
   "versions": [
     {
       "tag": "v0.1",

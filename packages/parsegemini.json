@@ -5,6 +5,10 @@
   "description": "Library for parsing text/gemini",
   "license": "MIT",
   "web": "https://github.com/autumngray/parsegemini",
+  "commit": {
+    "hash": "50b10def9a9fd0637fbe5a46c6b55f75c435266d",
+    "time": 1616689243
+  },
   "tags": [
     "gemini",
     "parser",

@@ -5,6 +5,10 @@
   "description": "Tiled map loader for the Nim programming language",
   "license": "MIT",
   "web": "https://github.com/SkyVault/nim-tiled",
+  "commit": {
+    "hash": "758c58fd6b54fed479a4261100d364d70257a1dd",
+    "time": 1696345347
+  },
   "tags": [
     "tiled",
     "gamedev",

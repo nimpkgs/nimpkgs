@@ -5,6 +5,10 @@
   "description": "Graph data structure library",
   "license": "MIT",
   "web": "https://github.com/planetis-m/patgraph",
+  "commit": {
+    "hash": "34e6a672de7090fc5372db059e6a6bee71ef6ae0",
+    "time": 1676142767
+  },
   "versions": [
     {
       "tag": "v0.2.0",

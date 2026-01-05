@@ -5,6 +5,10 @@
   "description": "A pure Nim Domain Name System (DNS) client",
   "license": "MIT",
   "web": "https://github.com/rockcavera/nim-ndns",
+  "commit": {
+    "hash": "5dd982eb76bbe2330459f07c9532cabba26499d7",
+    "time": 1761088172
+  },
   "versions": [
     {
       "tag": "v0.1.4",

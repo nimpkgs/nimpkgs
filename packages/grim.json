@@ -5,6 +5,10 @@
   "description": "Graphs in nim!",
   "license": "MIT",
   "web": "https://github.com/ebran/grim",
+  "commit": {
+    "hash": "3c496c953ea5a749a6ce3545f208a1acce80383d",
+    "time": 1609704102
+  },
   "versions": [
     {
       "tag": "v0.3.1",

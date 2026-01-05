@@ -5,6 +5,10 @@
   "description": "Nim implementations of the QuickSelect and Floyd-Rivest selection algorithms",
   "license": "MIT",
   "web": "https://git.dog/xx/nim-quickselect",
+  "commit": {
+    "hash": "7b295f4905d90b9e5d95e018f606746c3133c1dd",
+    "time": 1762863271
+  },
   "versions": [
     {
       "tag": "v1.1.0",

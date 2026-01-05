@@ -5,6 +5,10 @@
   "description": "RNG for dummies in Nim",
   "license": "MIT",
   "web": "https://github.com/xTrayambak/librng",
+  "commit": {
+    "hash": "69638caddffff2e55b3d8aabf573cb0c1aaef4b5",
+    "time": 1710140553
+  },
   "tags": [
     "library",
     "rng",

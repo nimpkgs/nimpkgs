@@ -5,6 +5,10 @@
   "description": "Huenim",
   "license": "MIT",
   "web": "https://github.com/IoTone/huenim",
+  "commit": {
+    "hash": "f6fb0fdb4af0160bc91c21836c7e85e0e7a2de54",
+    "time": 1506229759
+  },
   "tags": [
     "hue",
     "iot",

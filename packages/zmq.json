@@ -5,6 +5,10 @@
   "description": "ZeroMQ 4 wrapper",
   "license": "MIT",
   "web": "https://github.com/nim-lang/nim-zmq",
+  "commit": {
+    "hash": "f922f734f90785e11f4d6284aec8bb0b5ba2f7ca",
+    "time": 1764066444
+  },
   "versions": [
     {
       "tag": "v1.5.3",

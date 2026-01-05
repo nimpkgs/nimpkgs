@@ -5,6 +5,10 @@
   "description": "Simple reverse proxy server for local development.",
   "license": "BSD-3-Clause",
   "web": "https://github.com/vandot/lodev",
+  "commit": {
+    "hash": "c29c4df0fd7e4decd1f93c11948949ef2ee42164",
+    "time": 1738250937
+  },
   "tags": [
     "cert",
     "ca",

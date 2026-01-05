@@ -5,6 +5,10 @@
   "description": "Fuzzy search wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimfuzzy",
+  "commit": {
+    "hash": "127ed4dceea947e73f4007a4bc2800dc5762357c",
+    "time": 1563332900
+  },
   "versions": [
     {
       "tag": "v0.1.5",

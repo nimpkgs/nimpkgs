@@ -5,6 +5,10 @@
   "description": "Nim wrapper for libcurl.",
   "license": "MIT",
   "web": "https://github.com/Araq/libcurl",
+  "commit": {
+    "hash": "eecbfc31e17ae2f09f0b6d2aaefcfb970c7d2be4",
+    "time": 1766558643
+  },
   "versions": [
     {
       "tag": "v1.0.0",

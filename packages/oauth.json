@@ -5,6 +5,10 @@
   "description": "OAuth library for nim",
   "license": "Apache License 2.0",
   "web": "https://cordea.github.io/oauth",
+  "commit": {
+    "hash": "ec2e058fc46f04deaf3cb55eca32b3b83c614953",
+    "time": 1722736983
+  },
   "versions": [
     {
       "tag": "v0.11",

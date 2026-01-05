@@ -5,6 +5,10 @@
   "description": "HTTP Cookies for Nim.",
   "license": "Apache-2.0",
   "web": "https://github.com/planety/cookiejar",
+  "commit": {
+    "hash": "372b0ab1a6036a9f48f7540e7f3090e61796d947",
+    "time": 1735656531
+  },
   "versions": [
     {
       "tag": "v0.3.1",

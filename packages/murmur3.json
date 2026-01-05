@@ -5,6 +5,10 @@
   "description": "A simple MurmurHash3 wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/boydgreenfield/nimrod-murmur",
+  "commit": {
+    "hash": "ebf44c9a5f145608f1b37ecbf38c8819e40b4b01",
+    "time": 1489026156
+  },
   "versions": [
     {
       "tag": "v0.2.0",

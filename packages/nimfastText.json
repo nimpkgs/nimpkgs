@@ -5,6 +5,10 @@
   "description": "fastText wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimfastText",
+  "commit": {
+    "hash": "f77323374339cc90a472e953be1d2e4c1f5f0404",
+    "time": 1551853827
+  },
   "versions": [
     {
       "tag": "v0.1.2",

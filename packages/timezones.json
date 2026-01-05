@@ -5,6 +5,10 @@
   "description": "Timezone library compatible with the standard library. ",
   "license": "MIT",
   "web": "https://github.com/GULPF/timezones",
+  "commit": {
+    "hash": "69fe1a22fad95446ae4c262ad88b2035cfc367a0",
+    "time": 1620675955
+  },
   "versions": [
     {
       "tag": "v0.5.4",

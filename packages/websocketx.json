@@ -5,6 +5,10 @@
   "description": "Websocket for httpx.",
   "license": "MIT",
   "web": "https://github.com/ringabout/websocketx",
+  "commit": {
+    "hash": "b0ea475e3c50a31cc45cd7031f76707b55d7ebb4",
+    "time": 1602170900
+  },
   "versions": [
     {
       "tag": "v0.1.2",

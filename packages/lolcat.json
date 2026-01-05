@@ -5,6 +5,10 @@
   "description": "lolcat implementation in Nim",
   "license": "MIT",
   "web": "https://github.com/OHermesJunior/lolcat.nim",
+  "commit": {
+    "hash": "91640e98df068607cf0ccc8158e50c4fffa24332",
+    "time": 1561474830
+  },
   "tags": [
     "lolcat",
     "binary",

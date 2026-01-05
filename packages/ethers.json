@@ -5,6 +5,10 @@
   "description": "Port of ethers.js to Nim",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-ethers",
+  "commit": {
+    "hash": "965b8cd752544df96b5effecbbd27a8f56a25d62",
+    "time": 1765607556
+  },
   "versions": [
     {
       "tag": "v0.10.1",

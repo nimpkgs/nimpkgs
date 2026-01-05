@@ -5,6 +5,10 @@
   "description": "Reactive programming, in nim",
   "license": "MIT",
   "web": "https://github.com/minamorl/rex",
+  "commit": {
+    "hash": "570054bbd9f1144ee3e9bea450c78c6a0258b6a8",
+    "time": 1714986697
+  },
   "versions": [
     {
       "tag": "v0.3.0",

@@ -5,6 +5,10 @@
   "description": "Nim client for Stripe.com",
   "license": "MIT",
   "web": "https://github.com/iffy/nim-stripe",
+  "commit": {
+    "hash": "67d9192d3549e44efb4fdfc26a4bf8eb02e637fe",
+    "time": 1689955844
+  },
   "tags": [
     "payments",
     "library"

@@ -5,6 +5,10 @@
   "description": "Scope tracking for untyped macros",
   "license": "MIT",
   "web": "https://github.com/thing-king/scope",
+  "commit": {
+    "hash": "2aad62a1500b8d69f6cc0fd4446665be3b65dbec",
+    "time": 1748971404
+  },
   "tags": [
     "macro",
     "untyped",

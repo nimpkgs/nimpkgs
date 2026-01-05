@@ -5,6 +5,10 @@
   "description": "An entity component system package",
   "license": "MIT",
   "web": "https://github.com/wolfadex/arksys",
+  "commit": {
+    "hash": "e0b9f6de3a09cf73af8cb20af8d005763d729a61",
+    "time": 1540930031
+  },
   "tags": [
     "ECS",
     "library"

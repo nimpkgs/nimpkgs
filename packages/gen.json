@@ -5,6 +5,10 @@
   "description": "Boilerplate generator for Jester web framework",
   "license": "MIT",
   "web": "https://github.com/Adeohluwa/gen",
+  "commit": {
+    "hash": "7c25d0fca7d34fde8ddf948972b4b029214dd40d",
+    "time": 1582234733
+  },
   "tags": [
     "library",
     "jester",

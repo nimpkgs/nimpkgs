@@ -5,6 +5,10 @@
   "description": "C2nim helper to simplify and automate wrapping C libraries",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimgen",
+  "commit": {
+    "hash": "6c24d4a727045313b46165f62a815558ba4e0873",
+    "time": 1630504272
+  },
   "versions": [
     {
       "tag": "v0.5.1",

@@ -5,6 +5,10 @@
   "description": "Nim bindings for libgccjit",
   "license": "MIT",
   "web": "https://github.com/openpeeps/gccjit.nim",
+  "commit": {
+    "hash": "21d84aec832a5a6d0a46b0812060555f9bbcb489",
+    "time": 1757926599
+  },
   "tags": [
     "wrapper",
     "gcc",

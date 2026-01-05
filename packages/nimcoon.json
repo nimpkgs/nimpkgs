@@ -5,6 +5,10 @@
   "description": "A command-line YouTube player and more",
   "license": "GPL-3.0",
   "web": "https://gitlab.com/njoseph/nimcoon",
+  "commit": {
+    "hash": "7247fec67473ab4c98bedf683fbcbfb07f61e693",
+    "time": 1707454662
+  },
   "tags": [
     "cli",
     "youtube",

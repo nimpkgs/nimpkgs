@@ -5,6 +5,10 @@
   "description": "Bencode serialization/deserialization library",
   "license": "LGPLv3",
   "web": "https://github.com/FedericoCeratto/nim-bencode",
+  "commit": {
+    "hash": "ff97d661b79d4a8db8b18a54c82df54a3ea68788",
+    "time": 1518266466
+  },
   "tags": [
     "library",
     "bencode"

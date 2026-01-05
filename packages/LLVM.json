@@ -5,6 +5,10 @@
   "description": "LLVM bindings for the Nim language.",
   "license": "MIT",
   "web": "https://github.com/FedeOmoto/llvm",
+  "commit": {
+    "hash": "389448012ebf1b8a577c56247a85580e879a3709",
+    "time": 1437499963
+  },
   "tags": [
     "LLVM",
     "bindings",

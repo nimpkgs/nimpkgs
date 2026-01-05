@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Embed directories in executables, easily",
   "license": "MIT",
+  "commit": {
+    "hash": "d75c8f3c4cf277bc0e696cc8acff3120c4c04627",
+    "time": 1708374729
+  },
   "versions": [
     {
       "tag": "v0.2.0",

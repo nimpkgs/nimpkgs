@@ -5,6 +5,10 @@
   "description": "zfcore is high performance asynchttpserver and web framework for nim lang",
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_zfcore",
+  "commit": {
+    "hash": "3884e3aec062790b8f285bb582db176a756949be",
+    "time": 1731440287
+  },
   "versions": [
     {
       "tag": "v1.5.4",

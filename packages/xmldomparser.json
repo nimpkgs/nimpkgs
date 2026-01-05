@@ -5,6 +5,10 @@
   "description": "Parses an XML Document into a XML DOM Document representation.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/graveyard/tree/master/xmldomparser",
+  "commit": {
+    "hash": "cca4055a063e2469de820495ec403a0c11ba837f",
+    "time": 1661381415
+  },
   "tags": [
     "graveyard",
     "xml",

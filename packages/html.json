@@ -5,6 +5,10 @@
   "description": "Typed HTML5 element data and builder for structured HTML",
   "license": "MIT",
   "web": "https://github.com/thing-king/html",
+  "commit": {
+    "hash": "5d1de6b6f988d0c4cdcd0b965edcb03015cbe13d",
+    "time": 1754532836
+  },
   "tags": [
     "html",
     "codegen",

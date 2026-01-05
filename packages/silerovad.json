@@ -5,6 +5,10 @@
   "description": "Silero VAD Voice Activity Detection",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-silero-vad",
+  "commit": {
+    "hash": "22bc6bf62a91b3cb28786b26a3ef05ea9a3fa0fe",
+    "time": 1733995647
+  },
   "versions": [
     {
       "tag": "v0.2.0",

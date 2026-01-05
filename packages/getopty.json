@@ -5,6 +5,10 @@
   "description": "POSIX compliant command line parser",
   "license": "MIT or NCSA",
   "web": "https://github.com/amnr/getopty",
+  "commit": {
+    "hash": "1dbb0809a6b410a3abe2f766fcedefcd9ffc0bb3",
+    "time": 1706205981
+  },
   "versions": [
     {
       "tag": "v1.0.0",

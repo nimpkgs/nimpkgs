@@ -5,6 +5,10 @@
   "description": "URL and URI parsing for C and JS backend.",
   "license": "MIT",
   "web": "https://github.com/treeform/urlly",
+  "commit": {
+    "hash": "99784779f05649df25fd9c33003d8ef6de027345",
+    "time": 1683765303
+  },
   "tags": [
     "url",
     "uri"

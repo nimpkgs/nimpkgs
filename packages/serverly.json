@@ -5,6 +5,10 @@
   "description": "HTTP serving made eazy",
   "license": "MIT",
   "web": "https://roger-padrell.github.io/serverly/",
+  "commit": {
+    "hash": "78ed063650e20502eaeae9e4264e0ab34208f5c7",
+    "time": 1737752020
+  },
   "versions": [
     {
       "tag": "v1.0.0",

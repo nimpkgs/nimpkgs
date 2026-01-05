@@ -5,6 +5,10 @@
   "description": "2D GPU rendering with a tiling atlas.",
   "license": "MIT",
   "web": "https://github.com/treeform/boxy",
+  "commit": {
+    "hash": "f064ead838dbf980a520c827bc0fb600b8ea2364",
+    "time": 1764704418
+  },
   "versions": [
     {
       "tag": "v0.4.4",

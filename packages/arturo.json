@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://arturo-lang.io/",
   "doc": "https://arturo-lang.io/",
+  "commit": {
+    "hash": "cf4acc7e2bdd6bc62bbbe363dffb7099a5d3dc74",
+    "time": 1767627499
+  },
   "versions": [
     {
       "tag": "v0.9.83",

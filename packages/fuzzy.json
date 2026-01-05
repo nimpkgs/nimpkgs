@@ -5,6 +5,10 @@
   "description": "Pure nim fuzzy search implementation. Supports substrings etc",
   "license": "MIT",
   "web": "https://github.com/pigmej/fuzzy",
+  "commit": {
+    "hash": "8257562c080e398438576d78ef2ba66d344d86cf",
+    "time": 1610356565
+  },
   "versions": [
     {
       "tag": "v0.1.0",

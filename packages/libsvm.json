@@ -5,6 +5,10 @@
   "description": "libsvm wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/libsvm",
+  "commit": {
+    "hash": "ee8e0cbda75fc5be6a083ebe25dcf075a5a9e8d9",
+    "time": 1563332539
+  },
   "versions": [
     {
       "tag": "v0.2.0",

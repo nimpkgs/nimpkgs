@@ -5,6 +5,10 @@
   "description": "Protocol Buffers compiler support package for nimpb",
   "license": "MIT",
   "web": "https://github.com/oswjk/nimpb_protoc",
+  "commit": {
+    "hash": "4a54eff46b816e7d2f1d69df24cc85780406e2f3",
+    "time": 1523475403
+  },
   "tags": [
     "serialization",
     "protocol-buffers",

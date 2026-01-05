@@ -5,6 +5,10 @@
   "description": "A collection of cryptographic and non-cryptographic hashing routines which have been ported to native Nim",
   "license": "MIT",
   "web": "https://github.com/IcedQuinn/icedhash",
+  "commit": {
+    "hash": "01ebeee88a4ca4f3f16897b5f9975bdd8098053c",
+    "time": 1699399732
+  },
   "tags": [
     "hash",
     "xxhash"

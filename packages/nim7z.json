@@ -5,6 +5,10 @@
   "description": "7z extraction for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nim7z",
+  "commit": {
+    "hash": "cc6c2b0cc31faa9662d62468d439f7ddb2fd0655",
+    "time": 1580510018
+  },
   "versions": [
     {
       "tag": "v0.1.5",

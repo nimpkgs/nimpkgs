@@ -5,6 +5,10 @@
   "description": "Binding for hyper an HTTP library",
   "license": "Apache-2.0",
   "web": "https://github.com/thechampagne/hyper-nim",
+  "commit": {
+    "hash": "eb3d2fdeb777a3c5915068f76427cdb44fe4312d",
+    "time": 1680441609
+  },
   "versions": [
     {
       "tag": "v0.1.0",

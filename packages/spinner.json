@@ -5,6 +5,10 @@
   "description": "Prebuilt components for the Fidget GUI library.",
   "license": "MIT",
   "web": "https://github.com/tonogram/spinner",
+  "commit": {
+    "hash": "dc68ed9890c3ca77de23413b85c5d819b0371794",
+    "time": 1647051609
+  },
   "versions": [
     {
       "tag": "v0.2.1",

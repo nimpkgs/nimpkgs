@@ -5,6 +5,10 @@
   "description": "Write GUI automation scripts with Nim",
   "license": "MIT",
   "web": "https://github.com/miere43/autome",
+  "commit": {
+    "hash": "c2a3925f55417df09bb74f80b445fc34e7c80c51",
+    "time": 1479458808
+  },
   "tags": [
     "gui",
     "automation",

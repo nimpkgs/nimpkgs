@@ -5,6 +5,10 @@
   "description": "Wrapper around physfs",
   "license": "MIT",
   "web": "https://github.com/konsumer/nim-physfs_static",
+  "commit": {
+    "hash": "9b5994236d281c8032e86896b12dcf9af1617981",
+    "time": 1684756667
+  },
   "tags": [
     "physfs",
     "zip",

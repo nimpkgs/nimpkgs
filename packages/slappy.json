@@ -5,6 +5,10 @@
   "description": "A 3d sound API for nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/slappy",
+  "commit": {
+    "hash": "241a885f8b3978c78a6ff38282bb2614fccdc1d3",
+    "time": 1700327407
+  },
   "versions": [
     {
       "tag": "v0.2.0",

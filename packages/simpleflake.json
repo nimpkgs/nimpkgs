@@ -5,6 +5,10 @@
   "description": "Simpleflake for nim",
   "license": "MIT",
   "web": "https://github.com/aisk/simpleflake.nim",
+  "commit": {
+    "hash": "5795d5611772892e444bd3fb7b2aa8ac3db094f4",
+    "time": 1685714469
+  },
   "versions": [
     {
       "tag": "v0.2.0",

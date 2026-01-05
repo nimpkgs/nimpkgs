@@ -5,6 +5,10 @@
   "description": "A Nim library for biological sequence data.",
   "license": "MIT",
   "web": "https://github.com/kerrycobb/BioSeq",
+  "commit": {
+    "hash": "5fe0e7ae2535939c52fac6f530d1855966e9b9c4",
+    "time": 1678126755
+  },
   "versions": [
     {
       "tag": "v0.2.4",

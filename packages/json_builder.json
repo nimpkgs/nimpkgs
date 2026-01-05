@@ -5,6 +5,10 @@
   "description": "Easy and fast generator for valid json in nim",
   "license": "MIT",
   "web": "https://github.com/undecided/json_builder",
+  "commit": {
+    "hash": "bf4778cb6cf00b5f8ee87fc53e41462f7d958ccf",
+    "time": 1532093025
+  },
   "tags": [
     "json",
     "generator",

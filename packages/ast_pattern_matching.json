@@ -5,6 +5,10 @@
   "description": "a general ast pattern matching library with a focus on correctness and good error messages",
   "license": "MIT",
   "web": "https://github.com/nim-lang/ast-pattern-matching",
+  "commit": {
+    "hash": "eb8b99d595517fd5d41ccc954edb896267f2db78",
+    "time": 1665394332
+  },
   "tags": [
     "macros",
     "pattern-matching",

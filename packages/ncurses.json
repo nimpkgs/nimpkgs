@@ -5,6 +5,10 @@
   "description": "A wrapper for NCurses",
   "license": "MIT",
   "web": "https://github.com/walkre-niboshi/nim-ncurses",
+  "commit": {
+    "hash": "1027fe13d091583608e7e7da3c3e0d13aceb4b11",
+    "time": 1588327817
+  },
   "tags": [
     "library",
     "terminal",

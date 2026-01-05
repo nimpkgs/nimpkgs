@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Bindings for Miniz lib.",
   "license": "MIT",
+  "commit": {
+    "hash": "78852d53fb408432383c2e9bb625224f156c7b96",
+    "time": 1633028667
+  },
   "versions": [
     {
       "tag": "v0.1.0",

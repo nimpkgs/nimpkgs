@@ -5,6 +5,10 @@
   "description": "ClickHouse Nim interface",
   "license": "MIT",
   "web": "https://github.com/leonardoce/nim-clickhouse",
+  "commit": {
+    "hash": "c5d647f04042fa78530a4f29c6219c3a1e2a18f3",
+    "time": 1756451635
+  },
   "versions": [
     {
       "tag": "v0.5.1",

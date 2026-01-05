@@ -5,6 +5,10 @@
   "description": "ThorVG Nim Wrapper",
   "license": "Unlicense",
   "web": "https://github.com/elcritch/thorvg-nim",
+  "commit": {
+    "hash": "24729ee8bd2a598404abc1610a4f7cae236bf873",
+    "time": 1749264653
+  },
   "versions": [
     {
       "tag": "v0.3.0",

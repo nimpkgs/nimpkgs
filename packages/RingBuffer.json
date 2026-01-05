@@ -5,6 +5,10 @@
   "description": "Circular buffer implementation",
   "license": "MIT",
   "web": "https://github.com/megawac/RingBuffer.nim",
+  "commit": {
+    "hash": "0505f70b48ad912161a7feb35efd71ebead2e97d",
+    "time": 1430971260
+  },
   "versions": [
     {
       "tag": "v0.1.2",

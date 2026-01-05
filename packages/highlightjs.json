@@ -5,6 +5,10 @@
   "description": "highlight.js bindings for Nim",
   "license": "MIT",
   "web": "https://github.com/Ethosa/highlightjs",
+  "commit": {
+    "hash": "c193f42f7500d9869d2fba2fd43c3811fd2660b2",
+    "time": 1705146328
+  },
   "tags": [
     "highlight.js",
     "highlight",

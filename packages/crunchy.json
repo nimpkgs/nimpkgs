@@ -5,6 +5,10 @@
   "description": "SIMD-optimized hashing, checksums and CRCs",
   "license": "MIT",
   "web": "https://github.com/guzba/crunchy",
+  "commit": {
+    "hash": "98eb6526982bb8aae8eec6e8781f4539fa19e049",
+    "time": 1706239155
+  },
   "tags": [
     "sha",
     "sha256",

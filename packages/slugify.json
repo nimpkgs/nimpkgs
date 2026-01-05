@@ -5,6 +5,10 @@
   "description": "Convert strings to a slug. Can be used for URLs, file names, IDs etc.",
   "license": "MIT",
   "web": "https://github.com/lenniezelk/slugify",
+  "commit": {
+    "hash": "41deb11da228a41a33ae46cf07d5b94f50893ebe",
+    "time": 1619858105
+  },
   "versions": [
     {
       "tag": "v0.2.0",

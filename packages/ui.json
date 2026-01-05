@@ -5,6 +5,10 @@
   "description": "A wrapper for libui",
   "license": "MIT",
   "web": "https://github.com/nim-lang/ui",
+  "commit": {
+    "hash": "547e1cea8e9fb68c138c422b77af0a3152e50210",
+    "time": 1634117726
+  },
   "tags": [
     "library",
     "GUI",

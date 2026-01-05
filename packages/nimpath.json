@@ -5,6 +5,10 @@
   "description": "Interface to libxml2's XPath parser",
   "license": "MIT",
   "web": "https://github.com/weskerfoot/NimPath",
+  "commit": {
+    "hash": "fdbe12cc867ac4c168681686b00e85012306eb9a",
+    "time": 1689137446
+  },
   "versions": [
     {
       "tag": "v0.1.10",

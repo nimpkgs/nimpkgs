@@ -5,6 +5,10 @@
   "description": "buffer",
   "license": "MIT",
   "web": "https://github.com/bung87/buffer",
+  "commit": {
+    "hash": "31aa5d8d250486c6850a101bed94bd05d0ba36b3",
+    "time": 1590802995
+  },
   "tags": [
     "stream",
     "buffer"

@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A vectorized Quicksort (AVX2-only)",
   "license": "MIT",
+  "commit": {
+    "hash": "1681f1aa63f50cebb66d1c6d4d6892eb898f61a1",
+    "time": 1710216400
+  },
   "tags": [
     "data",
     "optimization",

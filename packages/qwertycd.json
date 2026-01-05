@@ -5,6 +5,10 @@
   "description": "Terminal UI based cd command",
   "license": "MIT",
   "web": "https://github.com/minefuto/qwertycd",
+  "commit": {
+    "hash": "0ff02239b5b9665653c10253f4cc185f152b9aa7",
+    "time": 1611763975
+  },
   "versions": [
     {
       "tag": "v0.1.3",

@@ -5,6 +5,10 @@
   "description": "Lazy evaluated sequences",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/nim-lazyseq",
+  "commit": {
+    "hash": "4322d1325d1d284df3219076ccf87415f92a92bd",
+    "time": 1610627356
+  },
   "tags": [
     "lazy",
     "sequences",

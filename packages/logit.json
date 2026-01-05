@@ -5,6 +5,10 @@
   "description": "Dependency-free, cross-platform and small logging library for Nim, with a simple and comfortable API",
   "license": "Zlib",
   "web": "https://github.com/Miqueas/Logit",
+  "commit": {
+    "hash": "b46e10aaae80cb048cfc399e04f1aba273277aad",
+    "time": 1695631776
+  },
   "versions": [
     {
       "tag": "v1.0.0",

@@ -5,6 +5,10 @@
   "description": "A helper module for writing unit tests in Nim with nake or similar build system.",
   "license": "ISC",
   "web": "https://github.com/jackvandrunen/findtests",
+  "commit": {
+    "hash": "e21fa80cf5c41d77f975614f394f1a0eac538d17",
+    "time": 1527398991
+  },
   "tags": [
     "test",
     "tests",

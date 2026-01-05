@@ -5,6 +5,10 @@
   "description": "Extends stdlib make it easy on some case",
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_stdext",
+  "commit": {
+    "hash": "e04fad0f23460f32b8cf50c745ee18d3aea7a736",
+    "time": 1693877856
+  },
   "versions": [
     {
       "tag": "v0.2.4",

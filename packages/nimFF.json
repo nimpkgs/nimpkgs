@@ -5,6 +5,10 @@
   "description": "Farbfeld Encoder and Decoder written in Nim.",
   "license": "MIT",
   "web": "https://github.com/egeoz/nimFF",
+  "commit": {
+    "hash": "88cbe17fec34305c8506fb970d367847e361a85b",
+    "time": 1655402124
+  },
   "tags": [
     "graphics",
     "library"

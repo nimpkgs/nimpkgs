@@ -5,6 +5,10 @@
   "description": "A small utility to create JSON objects written in Nim. This is inspired by jpmens/jo.",
   "license": "MIT",
   "web": "https://github.com/uga-rosa/njo",
+  "commit": {
+    "hash": "3ccbdf8e5774d4cde82522e2bf8025552c3c15b5",
+    "time": 1658255743
+  },
   "tags": [
     "cli",
     "tool"

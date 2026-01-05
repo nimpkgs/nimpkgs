@@ -5,6 +5,10 @@
   "description": "A lightweight, self-contained, RESTful, searchable, multi-format NoSQL document store",
   "license": "MIT",
   "web": "https://h3rald.com/litestore",
+  "commit": {
+    "hash": "d89cc2633622fc3ca8d7595c196e555eb248b2d7",
+    "time": 1704661443
+  },
   "versions": [
     {
       "tag": "v1.13.0",

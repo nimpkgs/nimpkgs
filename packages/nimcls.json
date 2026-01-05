@@ -5,6 +5,10 @@
   "description": "Classes and dependency injection for Nim.",
   "license": "MIT",
   "web": "https://github.com/YaDev/NimCLS",
+  "commit": {
+    "hash": "cafe1a2dc541ab38356e13cde37a04a1c92f661a",
+    "time": 1721970508
+  },
   "versions": [
     {
       "tag": "v4.3.0",

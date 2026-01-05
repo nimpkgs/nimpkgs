@@ -5,6 +5,10 @@
   "description": "A simple Google Translate implementation",
   "license": "MIT",
   "web": "https://github.com/thisago/googleTranslate",
+  "commit": {
+    "hash": "34c3b9ba32435724c31f650ec37c79caec34e5cd",
+    "time": 1672762441
+  },
   "tags": [
     "translate",
     "library",

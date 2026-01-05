@@ -5,6 +5,10 @@
   "description": "zbar wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimzbar",
+  "commit": {
+    "hash": "2ff94c08f206dd4de81dea91db3a9883dbe560d2",
+    "time": 1544027120
+  },
   "versions": [
     {
       "tag": "v0.1.1",

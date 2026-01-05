@@ -5,6 +5,10 @@
   "description": "Dynamic-link libraries (DLLs) Development Kit for mIRC.",
   "license": "MIT",
   "web": "https://github.com/rockcavera/nim-mdlldk",
+  "commit": {
+    "hash": "9d50b5b4bee741a8a4df50ac7786bf53480e7571",
+    "time": 1711777600
+  },
   "versions": [
     {
       "tag": "v0.2.0",

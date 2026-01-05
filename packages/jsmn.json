@@ -5,6 +5,10 @@
   "description": "Jsmn - a world fastest JSON parser - in pure Nim",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/jsmn.nim",
+  "commit": {
+    "hash": "b7d2aa54501a587b94769fd2e32df6f673836ff1",
+    "time": 1633050140
+  },
   "tags": [
     "json",
     "token",

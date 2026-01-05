@@ -5,6 +5,10 @@
   "description": "The ex-stdlib module fsmonitor.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/graveyard/tree/master/fsmonitor",
+  "commit": {
+    "hash": "cca4055a063e2469de820495ec403a0c11ba837f",
+    "time": 1661381415
+  },
   "tags": [
     "graveyard",
     "fsmonitor",

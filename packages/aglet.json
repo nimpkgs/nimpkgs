@@ -5,6 +5,10 @@
   "description": "A safe, high-level, optimized OpenGL wrapper",
   "license": "MIT",
   "web": "https://github.com/liquid600pgm/aglet",
+  "commit": {
+    "hash": "5c3312982359f53d3ba8aaf05b9a927333289d71",
+    "time": 1630403877
+  },
   "tags": [
     "graphics",
     "opengl",

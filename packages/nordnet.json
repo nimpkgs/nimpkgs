@@ -5,6 +5,10 @@
   "description": "Scraping API for www.nordnet.dk ready to integrate with Home Assistant (Hassio)",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_nordnet_api",
+  "commit": {
+    "hash": "3c08ae09939082b2a00c31ca8b4f1d8de544338a",
+    "time": 1587493281
+  },
   "versions": [
     {
       "tag": "v0.0.7",

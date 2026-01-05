@@ -5,6 +5,10 @@
   "description": "The Nim toolchain installer.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/choosenim",
+  "commit": {
+    "hash": "ee2461d6a9e3762e53717959203d908fd0adda37",
+    "time": 1752285713
+  },
   "versions": [
     {
       "tag": "v0.8.16",

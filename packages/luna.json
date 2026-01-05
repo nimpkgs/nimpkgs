@@ -5,6 +5,10 @@
   "description": "Lua convenience library for nim",
   "license": "MIT",
   "web": "https://github.com/smallfx/luna.nim",
+  "commit": {
+    "hash": "75ece083639ea96ce9146f86b9a4771aee2b1265",
+    "time": 1552036159
+  },
   "tags": [
     "lua",
     "scripting"

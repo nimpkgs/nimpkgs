@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/MCRusher/cflags",
   "doc": "https://mcrusher.github.io/cflags/cflags.html",
+  "commit": {
+    "hash": "518a762e51a0dfff6f787e5b30cfef463b4b4487",
+    "time": 1692045381
+  },
   "tags": [
     "c",
     "interop",

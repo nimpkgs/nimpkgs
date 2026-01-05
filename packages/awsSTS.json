@@ -5,6 +5,10 @@
   "description": "AWS Security Token Service API in Nim",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_awsSTS",
+  "commit": {
+    "hash": "4170b92e4b6be92319c8c09717b61073fcde02d7",
+    "time": 1739514180
+  },
   "versions": [
     {
       "tag": "v2.1.0",

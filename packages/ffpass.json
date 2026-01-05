@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/bunkford/ffpass",
   "doc": "https://bunkford.github.io/ffpass/docs/ffpass.html",
+  "commit": {
+    "hash": "e765b10d265735846868041c4c285dce10550889",
+    "time": 1637850421
+  },
   "tags": [
     "automotive",
     "api"

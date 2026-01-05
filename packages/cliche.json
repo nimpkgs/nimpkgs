@@ -5,6 +5,10 @@
   "description": "AutoMagic CLI argument parsing is Cliche",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/cliche",
+  "commit": {
+    "hash": "57ceab14928cccdb3f833e75d990ffdfb0a69d95",
+    "time": 1756683916
+  },
   "tags": [
     "cli"
   ]

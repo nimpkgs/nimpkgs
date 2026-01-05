@@ -5,6 +5,10 @@
   "description": "A command line interface for shortening URLs with ZWS instances",
   "license": "MIT",
   "web": "https://github.com/zws-im/cli/blob/main/README.md#zws-imcli",
+  "commit": {
+    "hash": "5eafe7686773a99ad91398281d890fd519bf63a8",
+    "time": 1739462209
+  },
   "versions": [
     {
       "tag": "v1.5.0",

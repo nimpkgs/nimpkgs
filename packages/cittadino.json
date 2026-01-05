@@ -5,6 +5,10 @@
   "description": "A simple PubSub framework using STOMP.",
   "license": "BSD2",
   "web": "https://github.com/makingspace/cittadino",
+  "commit": {
+    "hash": "60248aeb8765422ee33990b5e01a70bb4e767af4",
+    "time": 1531847247
+  },
   "tags": [
     "pubsub",
     "stomp",

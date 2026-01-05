@@ -5,6 +5,10 @@
   "description": "Python-like 'struct' for Nim",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/struct.nim",
+  "commit": {
+    "hash": "b00809c24f4d3e09558cce3d73f02195dda5e175",
+    "time": 1633530974
+  },
   "versions": [
     {
       "tag": "v0.2.3",

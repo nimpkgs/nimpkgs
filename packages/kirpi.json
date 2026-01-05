@@ -5,6 +5,10 @@
   "description": "A lightweight 2D game framework for Nim",
   "license": "MIT",
   "web": "https://github.com/erayzesen/kirpi",
+  "commit": {
+    "hash": "8fa821e4e586418ea2d8337c863de4a597a9b1a8",
+    "time": 1766876439
+  },
   "tags": [
     "game",
     "2d",

@@ -5,6 +5,10 @@
   "description": "HTML Template Engine",
   "license": "MIT",
   "doc": "https://wraith29.github.io/templater/templater.html",
+  "commit": {
+    "hash": "4c249ad4995a88c6efaac9cd4317cc5028f08c08",
+    "time": 1733478323
+  },
   "versions": [
     {
       "tag": "v1.0.1",

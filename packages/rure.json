@@ -5,6 +5,10 @@
   "description": "Binding for rust regex library",
   "license": "Apache-2.0",
   "web": "https://github.com/thechampagne/rure-nim",
+  "commit": {
+    "hash": "cf9aa2fa3f91a5d9e6a92c9a3287fdbe2890d20b",
+    "time": 1680443749
+  },
   "versions": [
     {
       "tag": "v0.1.0",

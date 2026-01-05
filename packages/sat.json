@@ -5,6 +5,10 @@
   "description": "A SAT solver written in Nim.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/sat",
+  "commit": {
+    "hash": "f344ca2dc852f62c812e6c203f85cdc14c768561",
+    "time": 1765859994
+  },
   "tags": [
     "sat",
     "official",

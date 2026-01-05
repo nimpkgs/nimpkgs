@@ -5,6 +5,10 @@
   "description": "Provides a complex command-line parser",
   "license": "MIT",
   "web": "https://github.com/Xe/argument_parser",
+  "commit": {
+    "hash": "920be52019e7511387361228c1f9b7b00500764a",
+    "time": 1440382711
+  },
   "tags": [
     "library",
     "command-line",

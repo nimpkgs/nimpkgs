@@ -5,6 +5,10 @@
   "description": "Hash algorithms in Nim.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/checksums",
+  "commit": {
+    "hash": "8ee781a713184dcf66ea0235aad865fa65b5c7ff",
+    "time": 1760968475
+  },
   "versions": [
     {
       "tag": "v0.2.1",

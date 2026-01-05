@@ -5,6 +5,10 @@
   "description": "FastCGI library for Nim",
   "license": "MIT",
   "web": "https://github.com/ba0f3/fastcgi.nim",
+  "commit": {
+    "hash": "eb361f53a93915e313388a4a45dd22ed140161d8",
+    "time": 1752653814
+  },
   "tags": [
     "fastcgi",
     "fcgi",

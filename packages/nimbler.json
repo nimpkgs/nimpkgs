@@ -5,6 +5,10 @@
   "description": "A library to help you write rest APIs",
   "license": "MIT",
   "web": "https://github.com/paul-nameless/nimbler",
+  "commit": {
+    "hash": "aa647004603c669a9fd929e89d5447d57defdcf8",
+    "time": 1583192635
+  },
   "tags": [
     "web",
     "http",

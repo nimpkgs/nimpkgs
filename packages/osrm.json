@@ -5,6 +5,10 @@
   "description": "Open Source Routing Machine for OpenStreetMap API Lib and App",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-osrm",
+  "commit": {
+    "hash": "8ee7885f17b79b0f741c0f6f5abb6b7f0b930899",
+    "time": 1559843989
+  },
   "tags": [
     "openstreetmap",
     "geo",

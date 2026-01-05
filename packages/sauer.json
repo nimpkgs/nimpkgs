@@ -5,6 +5,10 @@
   "description": "Scaffolder for Karax.",
   "license": "MIT",
   "web": "https://github.com/moigagoo/sauer",
+  "commit": {
+    "hash": "f09fb74ce3550d71e5757d03a86a4dbb8fcdd590",
+    "time": 1729510768
+  },
   "tags": [
     "web",
     "SPA",

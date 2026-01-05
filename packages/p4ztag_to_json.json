@@ -5,6 +5,10 @@
   "description": "Convert Helix Version Control / Perforce (p4) -ztag output to JSON",
   "license": "MIT",
   "web": "https://github.com/kaushalmodi/p4ztag_to_json",
+  "commit": {
+    "hash": "9636e703831509079eb8f864be0e1656b54f88b9",
+    "time": 1625247391
+  },
   "versions": [
     {
       "tag": "v0.11.1",

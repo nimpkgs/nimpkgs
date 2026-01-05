@@ -5,6 +5,10 @@
   "description": "Flexible JSON serialization not relying on run-time type information",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-json-serialization",
+  "commit": {
+    "hash": "a6dcf03e04e179127a5fcb7e495d19a821d56c17",
+    "time": 1762463701
+  },
   "versions": [
     {
       "tag": "v0.4.4",

@@ -5,6 +5,10 @@
   "description": "Bindings for Libevent",
   "license": "MIT",
   "web": "https://github.com/openpeeps/libevent-nim",
+  "commit": {
+    "hash": "e975a6d87e1c8feb6df7de76dbe628a2713fa0f8",
+    "time": 1765240143
+  },
   "tags": [
     "libevent",
     "http",

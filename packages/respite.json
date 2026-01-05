@@ -5,6 +5,10 @@
   "description": "Redis protocol backed by SQLite",
   "license": "MIT",
   "web": "https://github.com/guzba/respite",
+  "commit": {
+    "hash": "aeb8102438408b9ac788d189c7397505e2c333c2",
+    "time": 1713804350
+  },
   "tags": [
     "redis",
     "resp",

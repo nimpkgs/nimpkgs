@@ -5,6 +5,10 @@
   "description": "reCAPTCHA support for Nim, supporting rendering a capctcha and verifying a user's response.",
   "license": "BSD3",
   "web": "https://github.com/euantorano/recaptcha.nim",
+  "commit": {
+    "hash": "0c471d24fee645fc50ffa35849a88d1a3ed00e82",
+    "time": 1586985858
+  },
   "versions": [
     {
       "tag": "v1.0.3",

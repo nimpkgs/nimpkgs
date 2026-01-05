@@ -5,6 +5,10 @@
   "description": "Erlang/Elixir NIFs for nim",
   "license": "MIT",
   "web": "https://github.com/wltsmrz/nimler",
+  "commit": {
+    "hash": "56c08c22db49c2986a05866ee0d274042946314b",
+    "time": 1605100922
+  },
   "versions": [
     {
       "tag": "v4.6",

@@ -5,6 +5,10 @@
   "description": "Nim's Windows API and COM Library",
   "license": "MIT",
   "web": "https://github.com/khchen/winim",
+  "commit": {
+    "hash": "6fdee629140baa0d7060ddf86662457d11f50d35",
+    "time": 1721365394
+  },
   "tags": [
     "library",
     "windows",

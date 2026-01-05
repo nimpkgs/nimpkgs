@@ -5,6 +5,10 @@
   "description": "Support for serialization of objects",
   "license": "MIT",
   "web": "https://github.com/JeffersonLab/serializetools",
+  "commit": {
+    "hash": "2559bb0d87b2fcb09a77288afe6555a72eef4421",
+    "time": 1609350540
+  },
   "versions": [
     {
       "tag": "v1.16.2",

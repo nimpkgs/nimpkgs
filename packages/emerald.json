@@ -5,6 +5,10 @@
   "description": "macro-based HTML templating engine",
   "license": "WTFPL",
   "web": "https://flyx.github.io/emerald/",
+  "commit": {
+    "hash": "a625ef8f7ae571535f6a1e3ba9cd1b1647e41339",
+    "time": 1569653449
+  },
   "versions": [
     {
       "tag": "v0.2.3",

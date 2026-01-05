@@ -5,6 +5,10 @@
   "description": "A collection of easing curves for animation purposes.",
   "license": "BSD",
   "web": "https://github.com/Skrylar/skEasing",
+  "commit": {
+    "hash": "9c369849c65d9425eab698bd578922d7f360f330",
+    "time": 1531414710
+  },
   "tags": [
     "math",
     "curves",

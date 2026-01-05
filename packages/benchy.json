@@ -5,6 +5,10 @@
   "description": "Simple benchmarking to time your code.",
   "license": "MIT",
   "web": "https://github.com/treeform/benchy",
+  "commit": {
+    "hash": "03e4094b7543f0e58aac848893f359ac0e468885",
+    "time": 1758341956
+  },
   "tags": [
     "bench",
     "benchmark",

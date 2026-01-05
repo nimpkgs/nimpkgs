@@ -5,6 +5,10 @@
   "description": "Collection of math routines for 2d and 3d graphics.",
   "license": "MIT",
   "web": "https://github.com/treeform/vmath",
+  "commit": {
+    "hash": "b1cb7ec85f6e7690cf1261227cd2d552275e3e53",
+    "time": 1766073142
+  },
   "versions": [
     {
       "tag": "v0.3.0",

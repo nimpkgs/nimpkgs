@@ -5,6 +5,10 @@
   "description": "Humanize elapsed time",
   "license": "MIT",
   "web": "https://github.com/hiteshjasani/nim-eternity",
+  "commit": {
+    "hash": "28a2900e62f829c4dd0aaa8f385c4e6cfc6bca16",
+    "time": 1587603237
+  },
   "versions": [
     {
       "tag": "v0.3.0",

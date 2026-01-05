@@ -5,6 +5,10 @@
   "description": "RESTful URI router",
   "license": "MIT",
   "web": "https://github.com/kedean/nest",
+  "commit": {
+    "hash": "03b9c54925965c991e83527b256423130657e87a",
+    "time": 1533093502
+  },
   "tags": [
     "library",
     "api",

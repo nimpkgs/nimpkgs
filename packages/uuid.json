@@ -5,6 +5,10 @@
   "description": "UUID wrapper",
   "license": "MIT",
   "web": "https://github.com/idlewan/nim-uuid",
+  "commit": {
+    "hash": "372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
+    "time": 1409429140
+  },
   "tags": [
     "library",
     "wrapper",

@@ -5,6 +5,10 @@
   "description": "An Adaptive Index Library For Nim",
   "license": "MIT",
   "web": "https://github.com/c-blake/adix",
+  "commit": {
+    "hash": "38a95ee6bd675b31746fa79d318b546495374ffa",
+    "time": 1762237555
+  },
   "versions": [
     {
       "tag": "v0.4.8",

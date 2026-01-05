@@ -5,6 +5,10 @@
   "description": "objective-c runtime bindings",
   "license": "LGPL-2.1-or-later",
   "web": "https://github.com/bung87/objc_runtime",
+  "commit": {
+    "hash": "0e79c147418b9ec6e599524371717dcc4fa5ca98",
+    "time": 1728054688
+  },
   "versions": [
     {
       "tag": "v0.1.9",

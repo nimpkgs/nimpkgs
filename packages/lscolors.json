@@ -5,6 +5,10 @@
   "description": "A library for colorizing paths according to LS_COLORS",
   "license": "MIT",
   "web": "https://github.com/joachimschmidt557/nim-lscolors",
+  "commit": {
+    "hash": "3aaaf0422fcf1e708b135e4118832ee6260277b3",
+    "time": 1721554909
+  },
   "versions": [
     {
       "tag": "v0.3.3",

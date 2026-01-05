@@ -5,6 +5,10 @@
   "description": "Negamax AI search-tree algorithm for two player games",
   "license": "MIT",
   "web": "https://github.com/JohnAD/negamax",
+  "commit": {
+    "hash": "eea0b77ab5670eff118a50cb344f20f3deef09ea",
+    "time": 1570390248
+  },
   "versions": [
     {
       "tag": "v0.0.3",

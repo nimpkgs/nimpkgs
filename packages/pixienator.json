@@ -6,6 +6,10 @@
   "license": "Unlicense",
   "web": "https://github.com/patternspandemic/pixienator",
   "doc": "https://patternspandemic.github.io/pixienator/",
+  "commit": {
+    "hash": "587097be5a017b7ddac309eaba50faf3c38a76ee",
+    "time": 1686609378
+  },
   "tags": [
     "delaunator",
     "pixie",

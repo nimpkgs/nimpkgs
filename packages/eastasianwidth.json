@@ -5,6 +5,10 @@
   "description": "eastasianwidth is library for EastAsianWidth.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/eastasianwidth",
+  "commit": {
+    "hash": "f277a3e2cf7261862900c381d4a8c3a978bb2704",
+    "time": 1559204048
+  },
   "versions": [
     {
       "tag": "v0.1.0",

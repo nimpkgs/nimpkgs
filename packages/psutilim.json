@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/Techno-Fox/psutil-nim",
   "doc": "https://github.com/Techno-Fox/psutil-nim",
+  "commit": {
+    "hash": "a793440b66d1a48d86145d7dce57379e6dbe08a5",
+    "time": 1647609069
+  },
   "tags": [
     "psutilim",
     "nim",

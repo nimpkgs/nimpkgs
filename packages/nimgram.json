@@ -5,6 +5,10 @@
   "description": "MTProto client written in Nim",
   "license": "MIT",
   "web": "https://github.com/nimgram/nimgram",
+  "commit": {
+    "hash": "bd547ef07f6738462c976ce31babe9d2b4861c91",
+    "time": 1687038605
+  },
   "versions": [
     {
       "tag": "v0.2.0",

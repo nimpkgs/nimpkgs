@@ -5,6 +5,10 @@
   "description": "A Prologue extension. Provides an admin environment for your prologue server making use of norm.",
   "license": "MIT",
   "web": "https://github.com/PhilippMDoerner/Snorlogue",
+  "commit": {
+    "hash": "08e4cd72fd2564914a575f3e6316dde6c41f4d7a",
+    "time": 1698446730
+  },
   "versions": [
     {
       "tag": "v1.0.2",

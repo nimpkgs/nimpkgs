@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the osdialog library",
   "license": "WTFPL",
   "web": "https://github.com/johnnovak/nim-osdialog",
+  "commit": {
+    "hash": "dd734e0a431d03164c91bc6538209fcb2e0a034e",
+    "time": 1709722904
+  },
   "versions": [
     {
       "tag": "v0.2.0",

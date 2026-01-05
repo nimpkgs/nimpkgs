@@ -5,6 +5,10 @@
   "description": "Pari/GP C library wrapper",
   "license": "MIT",
   "web": "https://github.com/lompik/pari.nim",
+  "commit": {
+    "hash": "4173625287cc3b7365c0312ee8483841139d1f25",
+    "time": 1454811378
+  },
   "tags": [
     "number theory",
     "computer algebra system"

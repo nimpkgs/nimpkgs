@@ -5,6 +5,10 @@
   "description": "Tales of Maj'Eyal addon manager",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/tam",
+  "commit": {
+    "hash": "c779d88b7157dd159e7ada46b5a2ae91f3afbe62",
+    "time": 1621676988
+  },
   "versions": [
     {
       "tag": "v0.1.4",

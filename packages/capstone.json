@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Capstone3 high-level wrapper",
   "license": "MIT",
+  "commit": {
+    "hash": "fc1ffdb55b0fcdc7f670455f45c382bf8e2c8ee6",
+    "time": 1656523359
+  },
   "tags": [
     "wrapper",
     "disasm"

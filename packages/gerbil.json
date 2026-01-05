@@ -5,6 +5,10 @@
   "description": "A dynamic website generator",
   "license": "MIT",
   "web": "https://getgerbil.com",
+  "commit": {
+    "hash": "100896e29539c735fcde1e4baebf5dd6c57691a3",
+    "time": 1670646280
+  },
   "versions": [
     {
       "tag": "v0.1.1",

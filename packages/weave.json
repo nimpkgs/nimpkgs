@@ -5,6 +5,10 @@
   "description": "a state-of-the-art multithreading runtime",
   "license": "MIT or Apache License 2.0",
   "web": "https://github.com/mratsim/weave",
+  "commit": {
+    "hash": "b6255afa5816ee431dbf2f59cc6bc605d8d657b8",
+    "time": 1702120518
+  },
   "versions": [
     {
       "tag": "v0.4.10",

@@ -5,6 +5,10 @@
   "description": "Lib and CLI tool to manipulate biblical verses!",
   "license": "MIT",
   "web": "https://github.com/thisago/versicles",
+  "commit": {
+    "hash": "f99a71933fe37f35e2648a1ea5a0951d0803b5d5",
+    "time": 1691264814
+  },
   "tags": [
     "bible",
     "verses",

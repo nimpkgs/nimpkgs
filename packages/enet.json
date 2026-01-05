@@ -5,6 +5,10 @@
   "description": "Wrapper for ENet UDP networking library",
   "license": "MIT",
   "web": "https://github.com/fowlmouth/nimrod-enet",
+  "commit": {
+    "hash": "352192e3dcf4cf8ea42613c9595ad313754d896e",
+    "time": 1543361714
+  },
   "tags": [
     "game",
     "networking",

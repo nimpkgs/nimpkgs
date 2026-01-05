@@ -5,6 +5,10 @@
   "description": "RSS library",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-rss",
+  "commit": {
+    "hash": "c51da8c22dbc67889e4884c77d459cea92b17926",
+    "time": 1570335723
+  },
   "tags": [
     "library",
     "rss",

@@ -5,6 +5,10 @@
   "description": "An extension of `jsony` supporting better hooks, and type creation from schemas",
   "license": "MIT",
   "web": "https://github.com/thing-king/jsony_plus",
+  "commit": {
+    "hash": "7bfb045a698bd7d29d7863ea1bd917d1bbb9da41",
+    "time": 1741731115
+  },
   "tags": [
     "json",
     "serializer",

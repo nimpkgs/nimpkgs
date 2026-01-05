@@ -5,6 +5,10 @@
   "description": "Web Technologies based Crossplatform GUI Framework",
   "license": "MIT",
   "web": "https://github.com/bung87/crowngui",
+  "commit": {
+    "hash": "c4766fae329d857d3c26d75334e2ef94070f836d",
+    "time": 1728532091
+  },
   "versions": [
     {
       "tag": "v0.3.9",

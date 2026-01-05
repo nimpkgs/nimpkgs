@@ -5,6 +5,10 @@
   "description": "gsl C Api wrapped for nim",
   "license": "GPL3",
   "web": "https://github.com/YesDrX/gsl-nim/",
+  "commit": {
+    "hash": "661f675d0dfdae94bb3803978b43abe43931f223",
+    "time": 1735353442
+  },
   "tags": [
     "gsl",
     "gnu",

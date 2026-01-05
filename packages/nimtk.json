@@ -5,6 +5,10 @@
   "description": "High-level Tk wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/neroist/nimtk",
+  "commit": {
+    "hash": "c4fce10fe329faecb450d4a4796e0ef219208f26",
+    "time": 1717638173
+  },
   "tags": [
     "gui",
     "ui",

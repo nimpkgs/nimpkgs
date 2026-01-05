@@ -5,6 +5,10 @@
   "description": "Nim Game Library",
   "license": "MIT",
   "web": "https://github.com/lmariscal/nimgl",
+  "commit": {
+    "hash": "602e1600a4e64c1bc87ce569977d7f42fabdecdd",
+    "time": 1721060488
+  },
   "tags": [
     "glfw",
     "imgui",

@@ -5,6 +5,10 @@
   "description": "unicode symbols",
   "license": "MIT",
   "web": "https://github.com/lmariscal/figures",
+  "commit": {
+    "hash": "144b9676a12b1bb03f73c3ff1359375fb7c04421",
+    "time": 1587603350
+  },
   "versions": [
     {
       "tag": "v1.2.0",

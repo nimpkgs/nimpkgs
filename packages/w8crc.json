@@ -5,6 +5,10 @@
   "description": "Full-featured CRC library for Nim.",
   "license": "MIT",
   "web": "https://github.com/sumatoshi/w8crc",
+  "commit": {
+    "hash": "fdfd2b33fa6d29456e089b6ec45fb3f3b2b81a9c",
+    "time": 1666556949
+  },
   "versions": [
     {
       "tag": "v1.0.1",

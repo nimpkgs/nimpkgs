@@ -5,6 +5,10 @@
   "description": "Define and compose random variables",
   "license": "Apache License 2.0",
   "web": "https://github.com/andreaferretti/alea",
+  "commit": {
+    "hash": "2297aac71294b3a5abbe463a39b737de513d883e",
+    "time": 1682321164
+  },
   "tags": [
     "random variables",
     "distributions",

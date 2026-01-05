@@ -5,6 +5,10 @@
   "description": "a collection of useful macro functionalities",
   "license": "MIT",
   "web": "https://github.com/hamidb80/macroplus",
+  "commit": {
+    "hash": "ab49b1b2bfd92fbf69b39ddb3096472d72aaf815",
+    "time": 1688318406
+  },
   "tags": [
     "macroplus",
     "macro",

@@ -5,6 +5,10 @@
   "description": "Search for files in a directory hierarchy.",
   "license": "AGPL-3.0-only",
   "web": "https://github.com/Gruruya/nimf",
+  "commit": {
+    "hash": "31dcd3f3afe188942b1edb06a822c23ca7b8816d",
+    "time": 1729055416
+  },
   "tags": [
     "find command-line utility",
     "multithreaded filesystem search tool",

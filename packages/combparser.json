@@ -5,6 +5,10 @@
   "description": "A parser combinator library for easy generation of complex parsers",
   "license": "MIT",
   "web": "https://github.com/PMunch/combparser",
+  "commit": {
+    "hash": "e582c436e8750b60253370fd77960509d36e3738",
+    "time": 1728576102
+  },
   "tags": [
     "parser",
     "combinator"

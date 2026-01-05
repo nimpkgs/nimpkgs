@@ -5,6 +5,10 @@
   "description": "Mathematical formulas",
   "license": "MIT",
   "web": "https://github.com/thisago/formulas",
+  "commit": {
+    "hash": "498ecad0c69e3a5bd4144695bc3d1ec946afe29f",
+    "time": 1631840593
+  },
   "tags": [
     "math",
     "geometry"

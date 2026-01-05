@@ -5,6 +5,10 @@
   "description": "A go routine like nim implementation",
   "license": "MIT",
   "web": "https://github.com/rogercloud/nim-routine",
+  "commit": {
+    "hash": "74ff85bb9d4e05c72cff1e0736ba1edf8cc45961",
+    "time": 1510566666
+  },
   "versions": [
     {
       "tag": "v0.1.2",

@@ -5,6 +5,10 @@
   "description": "Port of c++ glm library with shader-like syntax",
   "license": "MIT",
   "web": "https://github.com/stavenko/nim-glm",
+  "commit": {
+    "hash": "47d5f8681f3c462b37e37ebc5e7067fa5cba4d16",
+    "time": 1623630941
+  },
   "versions": [
     {
       "tag": "v1.1.1",

@@ -5,6 +5,10 @@
   "description": "A macro collection for creating DSL in nim",
   "license": "MIT",
   "web": "https://github.com/codehz/dslutils",
+  "commit": {
+    "hash": "f30118605153dd924685fbc11095e7c818a8e545",
+    "time": 1635238030
+  },
   "versions": [
     {
       "tag": "v0.1.3",

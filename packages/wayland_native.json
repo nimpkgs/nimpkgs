@@ -5,6 +5,10 @@
   "description": "Native Wayland client library",
   "license": "Unlicense",
   "web": "https://git.sr.ht/~ehmry/wayland-nim",
+  "commit": {
+    "hash": "58d1e911db221f1947a1e980dfd2f4ffea4f4018",
+    "time": 1723118085
+  },
   "tags": [
     "client",
     "cps",

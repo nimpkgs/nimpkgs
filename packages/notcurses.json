@@ -5,6 +5,10 @@
   "description": "A low-level Nim wrapper for Notcurses: blingful TUIs and character graphics",
   "license": "Apache-2.0",
   "web": "https://github.com/michaelsbradleyjr/nim-notcurses",
+  "commit": {
+    "hash": "681dd2e87e2d67ba007d49b9a420792c16d5aa08",
+    "time": 1689200779
+  },
   "versions": [
     {
       "tag": "v3.0.9",

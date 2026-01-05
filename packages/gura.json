@@ -5,6 +5,10 @@
   "description": "Gura Configuration Language for Nim",
   "license": "MIT",
   "web": "https://github.com/khchen/gura",
+  "commit": {
+    "hash": "3372c3e8976c87066d2ee97fcd66e35609af66a1",
+    "time": 1721976257
+  },
   "tags": [
     "configuration",
     "serialization",

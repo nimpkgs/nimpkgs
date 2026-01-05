@@ -5,6 +5,10 @@
   "description": "Unicode normalization forms (tr15)",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-normalize",
+  "commit": {
+    "hash": "1c51c44a1541c2402af9fc21fef9ff4028e8e9ce",
+    "time": 1726707504
+  },
   "versions": [
     {
       "tag": "v0.9.0",

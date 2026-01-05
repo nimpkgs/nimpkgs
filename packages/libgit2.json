@@ -5,6 +5,10 @@
   "description": "Libgit2 low level wrapper",
   "license": "MIT",
   "web": "https://github.com/barcharcraz/libgit2-nim",
+  "commit": {
+    "hash": "2f5f9a57b06bfede594c7db5ac30a9d8f97dec77",
+    "time": 1501102511
+  },
   "tags": [
     "git",
     "libgit",

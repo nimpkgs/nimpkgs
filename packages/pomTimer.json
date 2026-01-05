@@ -5,6 +5,10 @@
   "description": "A simple pomodoro timer for the comandline with cli-output and notifications.",
   "license": "MIT",
   "web": "https://github.com/MnlPhlp/pomTimer",
+  "commit": {
+    "hash": "2d3c09fe66bf9636287f04cfe5089255f82580f9",
+    "time": 1594586691
+  },
   "tags": [
     "timer",
     "pomodoro",

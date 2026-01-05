@@ -5,6 +5,10 @@
   "description": "A slot and signals implementation for the Nim programming language",
   "license": "MIT",
   "web": "https://github.com/elcritch/sigils",
+  "commit": {
+    "hash": "3afd8aae6c76df2f1691c7f105fa6896cfc80ba0",
+    "time": 1766857451
+  },
   "versions": [
     {
       "tag": "v0.19.1",

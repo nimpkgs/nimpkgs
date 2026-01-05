@@ -5,6 +5,10 @@
   "description": "ffmpeg.nim is the Nim binding for FFMpeg(4.3.2).",
   "license": "MIT",
   "web": "https://github.com/momeemt/ffmpeg.nim",
+  "commit": {
+    "hash": "1b66579f96025c88b34c73191c2e161d5f74145b",
+    "time": 1707607966
+  },
   "tags": [
     "wrapper",
     "ffmpeg",

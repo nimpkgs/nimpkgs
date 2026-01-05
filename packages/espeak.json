@@ -5,6 +5,10 @@
   "description": "Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-espeak",
+  "commit": {
+    "hash": "119e6e1f385b02dff310ebcf976a98512237c00a",
+    "time": 1559848371
+  },
   "tags": [
     "espeak",
     "voice",

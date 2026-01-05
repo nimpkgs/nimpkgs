@@ -5,6 +5,10 @@
   "description": "Convert numbers to words",
   "license": "MIT",
   "web": "https://github.com/thisago/numToWord",
+  "commit": {
+    "hash": "525a668eb8dacd4f36d4ba1b223d73da61b2d90b",
+    "time": 1628822967
+  },
   "tags": [
     "numbers",
     "conversion",

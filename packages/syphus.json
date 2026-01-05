@@ -5,9 +5,14 @@
   "description": "An implementation of the tabu search heuristic in Nim.",
   "license": "BSD-3",
   "web": "https://github.com/makingspace/syphus-nim",
+  "commit": {
+    "hash": "2b2f221688cea52b99b8f9e43103071e8d65ff2e",
+    "time": 1532030358
+  },
   "tags": [
     "optimization",
     "tabu",
     "deleted"
-  ]
+  ],
+  "status": "Deleted"
 }

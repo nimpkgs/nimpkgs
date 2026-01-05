@@ -5,6 +5,10 @@
   "description": "libvlc bindings for Nim",
   "license": "MIT",
   "web": "https://github.com/nimbackup/nim-libvlc",
+  "commit": {
+    "hash": "a07f882e08019eb0325d8253741fe878d6d2f2d2",
+    "time": 1652131979
+  },
   "tags": [
     "vlc",
     "libvlc",

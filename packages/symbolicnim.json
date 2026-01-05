@@ -5,6 +5,10 @@
   "description": "A symbolic library written purely in Nim with the ability to compile expressions into efficient functions.",
   "license": "MIT",
   "web": "https://github.com/HugoGranstrom/symbolicnim",
+  "commit": {
+    "hash": "f763ce704afe31fa42f3db67f5cbbf6d3f28f346",
+    "time": 1603626907
+  },
   "versions": [
     {
       "tag": "v0.2.3",

@@ -5,6 +5,10 @@
   "description": "Pure Nim gRPC client and server",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-grpc",
+  "commit": {
+    "hash": "b7a8aee2c28e2ba989d51ff4bc619b5854325dcd",
+    "time": 1741726433
+  },
   "versions": [
     {
       "tag": "v0.1.19",

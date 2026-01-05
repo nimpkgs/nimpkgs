@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/sergiotapia/filesize",
   "doc": "https://github.com/sergiotapia/filesize",
+  "commit": {
+    "hash": "f3ea51bde207462e37e4fc9a9e10326658c70e73",
+    "time": 1722630091
+  },
   "tags": [
     "filesize",
     "size"

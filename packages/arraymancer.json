@@ -5,6 +5,10 @@
   "description": "A tensor (multidimensional array) library for Nim",
   "license": "Apache License 2.0",
   "web": "https://mratsim.github.io/Arraymancer/",
+  "commit": {
+    "hash": "195c75d4811425659b6320879ca74f7fd54b1e14",
+    "time": 1767346265
+  },
   "versions": [
     {
       "tag": "v0.7.33",

@@ -5,6 +5,10 @@
   "description": "Wrapper for the Snappy-C compression library",
   "license": "MIT",
   "web": "https://github.com/NimCompression/nimsnappyc",
+  "commit": {
+    "hash": "0be12a4a36f93b1dfafecb3a9f84714b54089365",
+    "time": 1534252298
+  },
   "tags": [
     "snappy",
     "compression",

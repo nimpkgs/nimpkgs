@@ -5,6 +5,10 @@
   "description": "A collection of numerical methods written in Nim",
   "license": "MIT",
   "web": "https://github.com/SciNim/numericalnim/",
+  "commit": {
+    "hash": "5156285dc74bfd994627e2dc451632164b6b0632",
+    "time": 1726474793
+  },
   "versions": [
     {
       "tag": "v0.8.10",

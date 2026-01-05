@@ -5,6 +5,10 @@
   "description": "Pure Nim, no external dependencies, image mime type and dimension reader for images",
   "license": "LGPL-3.0",
   "web": "https://github.com/accodeing/dimage",
+  "commit": {
+    "hash": "30ff470dec65d5d6d868e1b0c588a378e2ca2781",
+    "time": 1678871131
+  },
   "tags": [
     "library",
     "image",

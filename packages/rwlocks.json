@@ -5,6 +5,10 @@
   "description": "Readers-writer (MRSW) lock",
   "license": "MIT",
   "web": "https://github.com/tdely/nim-rwlocks",
+  "commit": {
+    "hash": "dae587cec12d17e2037743e35286f9ba84b02e76",
+    "time": 1670589149
+  },
   "versions": [
     {
       "tag": "v1.0.1",

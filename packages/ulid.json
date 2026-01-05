@@ -5,6 +5,10 @@
   "description": "Universally Unique Lexicographically Sortable Identifier",
   "license": "MIT",
   "web": "https://github.com/adelq/ulid",
+  "commit": {
+    "hash": "2a5cbf7c50edf267b3010aa851593720f926af89",
+    "time": 1588036015
+  },
   "versions": [
     {
       "tag": "v0.3.0",

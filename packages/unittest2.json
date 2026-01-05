@@ -5,6 +5,10 @@
   "description": "Unit test framework evolved from std/unittest",
   "license": "MIT",
   "web": "https://github.com/status-im/nim-unittest2",
+  "commit": {
+    "hash": "1efa65bb037185f0983ac4fa65932e8d3450825d",
+    "time": 1764804519
+  },
   "versions": [
     {
       "tag": "v0.2.5",

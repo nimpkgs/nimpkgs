@@ -5,6 +5,10 @@
   "description": "Build Postgres extensions in Nim.",
   "license": "MIT",
   "web": "https://github.com/luisacosta828/pgxcrown",
+  "commit": {
+    "hash": "d9d9ad1a35a3bb8e29cc4ab7cceb3698110fdfe0",
+    "time": 1764557065
+  },
   "versions": [
     {
       "tag": "v0.9.5",

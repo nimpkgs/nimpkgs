@@ -4,6 +4,10 @@
   "method": "git",
   "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
   "license": "UNLICENSE",
+  "commit": {
+    "hash": "b5fbadf96ed29a32015c4f54ba123422205a5524",
+    "time": 1617552604
+  },
   "versions": [
     {
       "tag": "v0.0.1",

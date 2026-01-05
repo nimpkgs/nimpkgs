@@ -5,6 +5,10 @@
   "description": "Bindings to MacOS and iOS frameworks",
   "license": "MIT",
   "web": "https://github.com/yglukhov/darwin",
+  "commit": {
+    "hash": "f7dcc0a4af9053a8988be06ec6b5fa17b627633c",
+    "time": 1756144916
+  },
   "tags": [
     "macos",
     "ios",

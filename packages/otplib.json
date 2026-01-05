@@ -5,6 +5,10 @@
   "description": "Easy to use OTP library for Nim",
   "license": "Unlicense",
   "web": "https://github.com/dimspith/otplib",
+  "commit": {
+    "hash": "90b38dd97c2d6937d487a300f136e03e71ffa985",
+    "time": 1645025496
+  },
   "tags": [
     "otp",
     "totp",

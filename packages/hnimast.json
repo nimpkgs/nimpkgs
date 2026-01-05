@@ -5,6 +5,10 @@
   "description": "User-friendly wrapper for nim ast",
   "license": "Apache-2.0",
   "web": "https://github.com/haxscramper/hnimast",
+  "commit": {
+    "hash": "e62725ae033d4c832f0e2106c634c87a4351b259",
+    "time": 1645948957
+  },
   "versions": [
     {
       "tag": "v0.4.2",

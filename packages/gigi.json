@@ -5,6 +5,10 @@
   "description": "GitIgnore Generation Interface",
   "license": "Apache-2.0",
   "web": "https://github.com/attakei/gigi",
+  "commit": {
+    "hash": "1ff10af1ec789594b3fd859a0bdc0ded4cc9763f",
+    "time": 1763664730
+  },
   "versions": [
     {
       "tag": "v0.2.1",

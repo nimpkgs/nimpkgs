@@ -5,6 +5,10 @@
   "description": "utf-8 string",
   "license": "MIT",
   "web": "https://github.com/rokups/nim-ustring",
+  "commit": {
+    "hash": "fabd0f9df8e56282e05391f7067642347eb1aabd",
+    "time": 1561987908
+  },
   "tags": [
     "string",
     "text",

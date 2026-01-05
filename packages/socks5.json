@@ -5,6 +5,10 @@
   "description": "Socks5 client and server library",
   "license": "MPLv2",
   "web": "https://github.com/FedericoCeratto/nim-socks5",
+  "commit": {
+    "hash": "239f16aca7afc2238d23f441b496b44fea59a580",
+    "time": 1578523484
+  },
   "tags": [
     "socks",
     "library",

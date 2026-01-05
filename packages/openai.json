@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Basic API handling for openAI",
   "license": "MIT",
+  "commit": {
+    "hash": "00ed67e15e985af58f004e77b7b7672e39f5a96a",
+    "time": 1688794148
+  },
   "versions": [
     {
       "tag": "v1.0.0",

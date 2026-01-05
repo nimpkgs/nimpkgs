@@ -5,6 +5,10 @@
   "description": "Asynchronous networking engine for Nim",
   "license": "MIT",
   "web": "https://networkos.net/nim/reactor.nim",
+  "commit": {
+    "hash": "bd1d83df1cb7c7cf707909cf0659841cb35af26f",
+    "time": 1574849170
+  },
   "versions": [
     {
       "tag": "v0.5.0",

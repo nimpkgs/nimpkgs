@@ -5,6 +5,10 @@
   "description": "Command-line args parser based on Usage message",
   "license": "MIT",
   "web": "https://github.com/docopt/docopt.nim",
+  "commit": {
+    "hash": "efaa112b6df172a9168c4eb581ab8dda1fbcfe2a",
+    "time": 1695074230
+  },
   "versions": [
     {
       "tag": "v0.7.1",

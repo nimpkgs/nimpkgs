@@ -5,6 +5,10 @@
   "description": "A sugary for loop with syntax for typechecking loop variables",
   "license": "MIT",
   "web": "https://github.com/disruptek/foreach",
+  "commit": {
+    "hash": "edae1f2c5b98a00a574b4b24e7b79b42cc8cdc66",
+    "time": 1572894452
+  },
   "tags": [
     "macro",
     "syntax",

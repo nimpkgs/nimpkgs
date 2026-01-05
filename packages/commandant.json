@@ -5,6 +5,10 @@
   "description": "Commandant is a simple to use library for parsing command line arguments. Commandant is ideal for writing terminal applications, with  support for flags, options, subcommands, and custom exit options.",
   "license": "MIT",
   "web": "https://github.com/casey-SK/commandant",
+  "commit": {
+    "hash": "492ae9442e5e2c5948df31b6f065b8fa70c01308",
+    "time": 1629043867
+  },
   "tags": [
     "library",
     "command-line",

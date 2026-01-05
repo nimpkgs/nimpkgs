@@ -5,6 +5,10 @@
   "description": "A mod manager for TF2",
   "license": "GPLv3",
   "web": "https://gitlab.com/waylon531/tf2plug",
+  "commit": {
+    "hash": "abacf19cc05bb72b90aff41adcd2a1a9d967ebbc",
+    "time": 1562618959
+  },
   "tags": [
     "app",
     "binary",

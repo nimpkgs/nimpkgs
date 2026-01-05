@@ -5,6 +5,10 @@
   "description": "A simple library with a simple interface to do password hashing and validation with different algorithms",
   "license": "MIT",
   "web": "https://github.com/PhilippMDoerner/nimword",
+  "commit": {
+    "hash": "8788fcf0cd0131ebb075e40f9a10043ea1a4a0f0",
+    "time": 1730128172
+  },
   "versions": [
     {
       "tag": "v1.0.0",

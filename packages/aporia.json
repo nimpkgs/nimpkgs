@@ -5,6 +5,10 @@
   "description": "A Nim IDE.",
   "license": "GPLv2",
   "web": "https://github.com/nim-lang/Aporia",
+  "commit": {
+    "hash": "3273cb144172deb2dae615191b30a62093c365ee",
+    "time": 1521491484
+  },
   "versions": [
     {
       "tag": "v0.4.2",

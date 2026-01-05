@@ -5,6 +5,10 @@
   "description": "a customizable, beautiful, and blazing fast system fetch",
   "license": "GPLv3",
   "web": "https://gitlab.com/Maxb0tbeep/bestfetch",
+  "commit": {
+    "hash": "c446418856d3f4785b5c3346dc78e6a789e6ae10",
+    "time": 1759387744
+  },
   "tags": [
     "console",
     "cli",

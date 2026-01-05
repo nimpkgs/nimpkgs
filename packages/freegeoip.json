@@ -10,5 +10,6 @@
     "address",
     "location",
     "geolocation"
-  ]
+  ],
+  "status": "Unreachable"
 }

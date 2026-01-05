@@ -5,6 +5,10 @@
   "description": "A 2D game engine made by Periapsis Studios",
   "license": "MIT",
   "doc": "https://periapsis-studios.github.io/Periapsis-Engine/theindex.html",
+  "commit": {
+    "hash": "fc21fcb832ca1328cf9cc4c3fe1c94c23e46fcc3",
+    "time": 1651336450
+  },
   "tags": [
     "game",
     "engine",

@@ -5,6 +5,10 @@
   "description": "Functional operations for iterators and slices, similar to sequtils",
   "license": "MIT",
   "web": "https://github.com/def-/iterutils",
+  "commit": {
+    "hash": "6243972399deb9d2c4290e7165abe8fd3beabb8c",
+    "time": 1663245283
+  },
   "tags": [
     "library",
     "iterators"

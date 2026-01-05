@@ -5,6 +5,10 @@
   "description": "Shaders in Nim.",
   "license": "MIT",
   "web": "https://github.com/yglukhov/nimsl",
+  "commit": {
+    "hash": "f8e01f6bcf1de9da1da280aef591724d7a25acc6",
+    "time": 1754827555
+  },
   "versions": [
     {
       "tag": "v0.3.3",

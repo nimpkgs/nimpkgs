@@ -5,6 +5,10 @@
   "description": "NWSync Repository Management utilities",
   "license": "MIT",
   "web": "https://github.com/Beamdog/nwsync",
+  "commit": {
+    "hash": "3b0355337684a7356a3d32a4b8ba2e92ed4324ae",
+    "time": 1711958839
+  },
   "tags": [
     "nwn",
     "neverwinternights",

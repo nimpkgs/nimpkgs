@@ -6,10 +6,15 @@
   "license": "CC0",
   "web": "https://github.com/refaqtor/nimetry",
   "doc": "https://benjif.github.io/nimetry",
+  "commit": {
+    "hash": "5d61b46684c8caea1ad03dc29ebfee9d30c8453b",
+    "time": 1560663021
+  },
   "tags": [
     "plot",
     "graph",
     "chart",
     "deleted"
-  ]
+  ],
+  "status": "Deleted"
 }

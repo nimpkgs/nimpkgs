@@ -6,6 +6,10 @@
   "license": "Apache-2.0",
   "web": "https://gitlab.com/OFThomas/noptics",
   "doc": "https://ofthomas.gitlab.io/noptics/",
+  "commit": {
+    "hash": "0b29ce9bd3e1f755b54ea459387ecac119527c00",
+    "time": 1693646410
+  },
   "versions": [
     {
       "tag": "v0.2.3",

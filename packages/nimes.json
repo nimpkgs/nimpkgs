@@ -5,6 +5,10 @@
   "description": "NES emulator using SDL2, also compiles to JavaScript with emscripten.",
   "license": "MPL",
   "web": "https://github.com/def-/nimes",
+  "commit": {
+    "hash": "baefb72c290471f5b487910e1545614b9a3d24b3",
+    "time": 1589099885
+  },
   "tags": [
     "emulator",
     "nes",

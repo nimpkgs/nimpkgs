@@ -5,6 +5,10 @@
   "description": "Create SVG-files with QR-codes from strings.",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_qr",
+  "commit": {
+    "hash": "ca6d7d09b84656bf451188acbbb663746a18970e",
+    "time": 1661496745
+  },
   "versions": [
     {
       "tag": "v1.4.0",

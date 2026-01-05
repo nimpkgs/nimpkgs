@@ -5,6 +5,10 @@
   "description": "Binding for libspinners an elegant terminal spinners",
   "license": "MIT",
   "web": "https://github.com/thechampagne/libspinners-nim",
+  "commit": {
+    "hash": "faf6af7cab8cdfa6625f748d62565231c0e6128f",
+    "time": 1675430079
+  },
   "versions": [
     {
       "tag": "v1.0.0",

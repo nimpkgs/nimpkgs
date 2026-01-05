@@ -5,6 +5,10 @@
   "description": "SVG output from a shell.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/svgo",
+  "commit": {
+    "hash": "d60c9c0d29a74cecb66a8d7ef003fbf90b60ac2e",
+    "time": 1583155211
+  },
   "versions": [
     {
       "tag": "v0.3.1",

@@ -5,6 +5,10 @@
   "description": "Manage your clipboard remotely",
   "license": "MIT",
   "web": "https://github.com/thisago/servclip",
+  "commit": {
+    "hash": "2bf2c138f7e12c87555a85dfa2dc834abe8a8d13",
+    "time": 1663704964
+  },
   "tags": [
     "clipboard",
     "remote",

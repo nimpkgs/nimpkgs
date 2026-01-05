@@ -5,6 +5,10 @@
   "description": "Wrapper over the getdns API",
   "license": "BSD-3-Clause",
   "web": "https://getdnsapi.net/",
+  "commit": {
+    "hash": "7cdedf05a2d9b3b6b0fffcfc548c63986ac7f5a7",
+    "time": 1734848843
+  },
   "tags": [
     "dns",
     "network"

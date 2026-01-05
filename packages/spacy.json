@@ -5,6 +5,10 @@
   "description": "Spatial data structures for Nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/spacy",
+  "commit": {
+    "hash": "b978eb0891d8e17b4ffcd628c8bc4af2cd727e03",
+    "time": 1683765134
+  },
   "tags": [
     "2d",
     "collision",

@@ -5,6 +5,10 @@
   "description": "DNS Stamps package",
   "license": "MIT",
   "web": "https://github.com/rockcavera/nim-dnsstamps2",
+  "commit": {
+    "hash": "16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
+    "time": 1680922990
+  },
   "tags": [
     "dns",
     "dns-stamp",

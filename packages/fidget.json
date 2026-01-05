@@ -5,6 +5,10 @@
   "description": "Figma based UI library for nim, with HTML and OpenGL backends.",
   "license": "MIT",
   "web": "https://github.com/treeform/fidget",
+  "commit": {
+    "hash": "ccbf6169686ce99c02d09c66e59a905de793d554",
+    "time": 1661049797
+  },
   "versions": [
     {
       "tag": "v0.3.1",

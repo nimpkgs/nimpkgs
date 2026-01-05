@@ -5,6 +5,10 @@
   "description": "Read and write to Xiaomi IOT devices.",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_xiaomi",
+  "commit": {
+    "hash": "1e3b701ccbc830d8a27573685fad888450e675bd",
+    "time": 1550253840
+  },
   "versions": [
     {
       "tag": "v0.1.4",

@@ -5,6 +5,10 @@
   "description": "Nim helper for using C Macros",
   "license": "MIT",
   "web": "https://github.com/elcritch/cdecl",
+  "commit": {
+    "hash": "29811e54f2b190c68c3fdcaa4c45adbfb6e5315c",
+    "time": 1666507177
+  },
   "versions": [
     {
       "tag": "v0.7.6",

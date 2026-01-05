@@ -5,6 +5,10 @@
   "description": "Monitoring tool with historical snapshots",
   "license": "MIT",
   "web": "https://github.com/inv2004/ttop",
+  "commit": {
+    "hash": "09428881b34027a2c3ff6e2451283ea5a49cc589",
+    "time": 1758060275
+  },
   "versions": [
     {
       "tag": "v1.5.7",

@@ -5,6 +5,10 @@
   "description": "Database schema migration library for Nim language.",
   "license": "MIT",
   "web": "https://github.com/vegansk/dbschema",
+  "commit": {
+    "hash": "b98a8bba7671064de52df571f338e6fd95fe11fc",
+    "time": 1510736810
+  },
   "versions": [
     {
       "tag": "v0.1.1",

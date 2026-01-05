@@ -4,6 +4,10 @@
   "method": "git",
   "description": "functions to tracks for genomics data files",
   "license": "MIT",
+  "commit": {
+    "hash": "20036fa80cbc4a1a65ce125f76c2936571e7f94a",
+    "time": 1586981191
+  },
   "versions": [
     {
       "tag": "v0.2.7",

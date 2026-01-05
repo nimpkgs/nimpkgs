@@ -5,6 +5,10 @@
   "description": "Too awesome procs to be included in nimrod.os module",
   "license": "MIT",
   "web": "https://github.com/Araq/genieos/",
+  "commit": {
+    "hash": "b883d016772036ccc81322d95dcca9ee856a5f4b",
+    "time": 1434211681
+  },
   "versions": [
     {
       "tag": "v9.4.2-hyoyeon",

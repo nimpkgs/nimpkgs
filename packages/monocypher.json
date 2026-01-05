@@ -5,6 +5,10 @@
   "description": "Monocypher",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/monocypher.nim",
+  "commit": {
+    "hash": "d8967ca834cf4975aceb098f66e6cd53a8a9c724",
+    "time": 1709133985
+  },
   "versions": [
     {
       "tag": "v0.2.1",

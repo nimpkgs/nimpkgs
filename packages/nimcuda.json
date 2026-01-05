@@ -5,6 +5,10 @@
   "description": "CUDA bindings",
   "license": "Apache2",
   "web": "https://github.com/andreaferretti/nimcuda",
+  "commit": {
+    "hash": "319b8deb31812fd9277c6232f0ae3fca31c6d55d",
+    "time": 1732957045
+  },
   "versions": [
     {
       "tag": "v0.2.2",

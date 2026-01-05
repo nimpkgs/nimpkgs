@@ -5,6 +5,10 @@
   "description": "Calculation caching library",
   "license": "MIT",
   "web": "https://github.com/beef331/kashae",
+  "commit": {
+    "hash": "e62805ab399794e14f55bfa0106bd50ffa5a87c7",
+    "time": 1685345037
+  },
   "versions": [
     {
       "tag": "v0.1.5",

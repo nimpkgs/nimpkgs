@@ -5,6 +5,10 @@
   "description": "A 2D|3D game engine",
   "license": "MIT",
   "web": "https://github.com/fragworks/frag",
+  "commit": {
+    "hash": "de8f256dde787f2ebe2f97bbc9d11718cf8ae829",
+    "time": 1496857886
+  },
   "tags": [
     "game",
     "game-dev",

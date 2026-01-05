@@ -5,6 +5,10 @@
   "description": "dbg template; in debug echo",
   "license": "MIT",
   "web": "https://github.com/enthus1ast/nimDbg",
+  "commit": {
+    "hash": "5a3bfc3786451950270e270e75eb7b6b09a21350",
+    "time": 1582402819
+  },
   "tags": [
     "template",
     "echo",

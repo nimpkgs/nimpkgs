@@ -5,6 +5,10 @@
   "description": "Copy-On-Write string implementation",
   "license": "MIT",
   "web": "https://github.com/planetis-m/cowstrings",
+  "commit": {
+    "hash": "8a742874ddbb4c3e55978e3fba3cd4f8f8159910",
+    "time": 1728335215
+  },
   "versions": [
     {
       "tag": "v0.7.1",

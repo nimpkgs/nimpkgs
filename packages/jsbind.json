@@ -5,6 +5,10 @@
   "description": "Define bindings to JavaScript and Emscripten",
   "license": "MIT",
   "web": "https://github.com/yglukhov/jsbind",
+  "commit": {
+    "hash": "d9c2ded6b81a69cbf8636eb3402c077c524c56a9",
+    "time": 1684500453
+  },
   "tags": [
     "bindings",
     "emscripten",

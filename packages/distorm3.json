@@ -5,6 +5,10 @@
   "description": "Nim wrapper for distorm3 - Powerful Disassembler Library For x86/AMD64",
   "license": "MIT",
   "web": "https://github.com/ba0f3/distorm3.nim",
+  "commit": {
+    "hash": "7a70dd877c6d98d530b671be8753a69187f0d8b0",
+    "time": 1633048975
+  },
   "tags": [
     "distorm,",
     "distorm3,",

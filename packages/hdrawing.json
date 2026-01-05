@@ -5,6 +5,10 @@
   "description": "Simple shape drawing",
   "license": "Apache-2.0",
   "web": "https://github.com/haxscramper/hdrawing",
+  "commit": {
+    "hash": "7b214d2c5acc7dab01f8cae188b325d14d21625c",
+    "time": 1614437283
+  },
   "tags": [
     "pretty-printing"
   ]

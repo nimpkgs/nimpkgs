@@ -5,6 +5,10 @@
   "description": "A package manager that delegates to package authors",
   "license": "MIT/ISC",
   "web": "https://github.com/c-blake/nimp",
+  "commit": {
+    "hash": "61a4c6dac73e27866ac696d42fe5d538bdae4860",
+    "time": 1757426501
+  },
   "versions": [
     {
       "tag": "v0.2.1",

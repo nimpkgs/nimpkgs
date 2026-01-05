@@ -5,6 +5,10 @@
   "description": "Sha1 and Sha2 implementations",
   "license": "MIT",
   "web": "https://github.com/forlan-ua/nim-libsha",
+  "commit": {
+    "hash": "fcdc448a63cc70814df5e92de050d8225715fe0a",
+    "time": 1534428256
+  },
   "tags": [
     "sha1",
     "sha224",

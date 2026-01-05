@@ -5,6 +5,10 @@
   "description": "Native MQTT client library",
   "license": "MIT",
   "web": "https://github.com/zevv/nmqtt",
+  "commit": {
+    "hash": "93bc8e5aa0f49a81cc21f502152fd8f284883f66",
+    "time": 1760191036
+  },
   "versions": [
     {
       "tag": "v1.0.7",

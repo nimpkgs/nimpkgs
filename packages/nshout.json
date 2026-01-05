@@ -5,6 +5,10 @@
   "description": "Nim bindings for libshout",
   "license": "MIT",
   "web": "https://github.com/Senketsu/nshout",
+  "commit": {
+    "hash": "c254314c179d66eab51938527d7b2858c2457a34",
+    "time": 1431437263
+  },
   "tags": [
     "library",
     "shouter",

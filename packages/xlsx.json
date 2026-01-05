@@ -5,6 +5,10 @@
   "description": "Read and parse Excel files",
   "license": "MIT",
   "web": "https://github.com/ringabout/xlsx",
+  "commit": {
+    "hash": "d354ba4a8cccd283eadc678c00e13d88fbfa559c",
+    "time": 1755509831
+  },
   "versions": [
     {
       "tag": "v0.4.8",

@@ -5,6 +5,10 @@
   "description": "A collection of utilities useful for implementing web standards",
   "license": "MIT",
   "web": "https://github.com/ferus-web/ferrite",
+  "commit": {
+    "hash": "4c63e9cbfc68687aac42fe19f335084ce9587d96",
+    "time": 1739627537
+  },
   "tags": [
     "unicode",
     "UTF-16",

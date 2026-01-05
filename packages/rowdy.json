@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Automatically bind procs to the mummy web server",
   "license": "MIT",
+  "commit": {
+    "hash": "2a76fbd34973b7a0142713e84c9f2042b69f41e5",
+    "time": 1671459754
+  },
   "tags": [
     "web",
     "routing"

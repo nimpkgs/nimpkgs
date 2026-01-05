@@ -5,6 +5,10 @@
   "description": "a benchmark tool",
   "license": "MIT",
   "web": "https://github.com/disruptek/golden",
+  "commit": {
+    "hash": "17a40fbb43378249d53942cabde61836ab196651",
+    "time": 1610652769
+  },
   "tags": [
     "benchmark",
     "profile",

@@ -5,6 +5,10 @@
   "description": "Fork of httpbeast with Nim v2.x support",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/httpbeast_fork",
+  "commit": {
+    "hash": "c430925dd318994b7118735eb93d27062a752c82",
+    "time": 1705737422
+  },
   "versions": [
     {
       "tag": "v1.0.0",

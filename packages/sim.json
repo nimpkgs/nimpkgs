@@ -5,6 +5,10 @@
   "description": "Parse config by defining an object",
   "license": "MIT",
   "web": "https://github.com/ba0f3/sim.nim",
+  "commit": {
+    "hash": "5603390980cab3fb1dc9c20586519758efd5e49d",
+    "time": 1766458624
+  },
   "tags": [
     "config",
     "parser",

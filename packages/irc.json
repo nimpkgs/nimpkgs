@@ -5,6 +5,10 @@
   "description": "Implements a simple IRC client.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/irc",
+  "commit": {
+    "hash": "7522eafe3d14479435ab5b47f6c7bc070ae04114",
+    "time": 1650041211
+  },
   "versions": [
     {
       "tag": "v0.4.0",

@@ -5,6 +5,10 @@
   "description": "Nim implementation of dHash algorithm",
   "license": "LGPLv3",
   "web": "https://github.com/filvyb/dhash",
+  "commit": {
+    "hash": "01672d6e9a60b34404459d3671c3b09ece335883",
+    "time": 1681228097
+  },
   "tags": [
     "hash",
     "library",

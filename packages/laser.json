@@ -5,6 +5,10 @@
   "description": "High Performance Computing and Image Toolbox: SIMD, JIT Assembler, OpenMP, runtime CPU feature detection, optimised machine learning primitives",
   "license": "Apache License 2.0",
   "web": "https://github.com/numforge/laser",
+  "commit": {
+    "hash": "d310294017c28d290fdff61724b07a210de6705c",
+    "time": 1704395686
+  },
   "tags": [
     "parallel",
     "simd"

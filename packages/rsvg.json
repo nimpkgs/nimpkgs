@@ -5,6 +5,10 @@
   "description": "Wrapper for librsvg, a Scalable Vector Graphics (SVG) rendering library",
   "license": "MIT",
   "web": "https://github.com/def-/rsvg",
+  "commit": {
+    "hash": "f05f09bb236914feb2081627633e1dd24fe908f2",
+    "time": 1402700458
+  },
   "tags": [
     "wrapper",
     "library",

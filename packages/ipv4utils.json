@@ -5,6 +5,10 @@
   "description": "Simple library to work with IPv4 addresses. Made for fun for everyone.",
   "license": "MIT",
   "web": "https://github.com/TelegramXPlus/ipv4utils",
+  "commit": {
+    "hash": "dc6883cf43a88d367dd07ca8e061ecf4328eb068",
+    "time": 1730161277
+  },
   "tags": [
     "networking"
   ]

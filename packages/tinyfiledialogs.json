@@ -5,6 +5,10 @@
   "description": "TinyFileDialogs for Nim.",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-tinyfiledialogs",
+  "commit": {
+    "hash": "e64a3d68b1f526296055784cf312e1697b8dc667",
+    "time": 1662157744
+  },
   "tags": [
     "gui",
     "wrapper",

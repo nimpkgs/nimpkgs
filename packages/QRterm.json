@@ -5,6 +5,10 @@
   "description": "A simple QR generator in your terminal.",
   "license": "MIT",
   "web": "https://github.com/aruZeta/QRterm",
+  "commit": {
+    "hash": "e953fbcb6c52c10f70b880c1b0cfdc9033bd06f4",
+    "time": 1664468844
+  },
   "versions": [
     {
       "tag": "v1.0.1",

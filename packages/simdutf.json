@@ -5,6 +5,10 @@
   "description": "High performance, SIMD accelerated routines for unicode and base64 processing",
   "license": "Apache-2.0",
   "web": "https://github.com/ferus-web/simdutf",
+  "commit": {
+    "hash": "c9ce60944110b10406ec8a6ad312efb31722fd69",
+    "time": 1744956634
+  },
   "tags": [
     "simd",
     "performance",

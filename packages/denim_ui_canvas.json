@@ -5,6 +5,10 @@
   "description": "HTML Canvas backend for the denim ui engine",
   "license": "MIT",
   "web": "https://github.com/nortero-code/denim-ui-canvas",
+  "commit": {
+    "hash": "026fb8721012b24b836de87c546dd06d5c92bf62",
+    "time": 1628251464
+  },
   "tags": [
     "canvas",
     "web",

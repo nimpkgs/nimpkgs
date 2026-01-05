@@ -5,6 +5,10 @@
   "description": "Simple and lightweight OPDS ebook server",
   "license": "GPLv3",
   "web": "https://github.com/FedericoCeratto/tsundoku",
+  "commit": {
+    "hash": "78c9d4a56a0ef6726cda212e197b53835f108322",
+    "time": 1521139973
+  },
   "versions": [
     {
       "tag": "v0.1.0",

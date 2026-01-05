@@ -5,6 +5,10 @@
   "description": "Base45 encoder and decoder",
   "license": "Unlicense",
   "web": "https://git.sr.ht/~ehmry/base45",
+  "commit": {
+    "hash": "57d13f45f3669f9331b1d3d4696a79c5e39821c2",
+    "time": 1674601833
+  },
   "tags": [
     "base45"
   ]

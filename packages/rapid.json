@@ -5,6 +5,10 @@
   "description": "A game engine for rapid development and easy prototyping",
   "license": "MIT",
   "web": "https://github.com/liquid600pgm/rapid",
+  "commit": {
+    "hash": "e9712c8dc35954e950c554e75d1fdd1e7548d664",
+    "time": 1655578170
+  },
   "tags": [
     "game",
     "engine",

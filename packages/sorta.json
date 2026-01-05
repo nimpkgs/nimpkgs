@@ -5,6 +5,10 @@
   "description": "Sorted Tables for Nim, based on B-Trees",
   "license": "MIT",
   "web": "https://narimiran.github.io/sorta/",
+  "commit": {
+    "hash": "be57458b5b075151cbc192a99c2a43e513a6340a",
+    "time": 1591549435
+  },
   "tags": [
     "sort",
     "sorted",

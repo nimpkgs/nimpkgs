@@ -5,6 +5,10 @@
   "description": "A wrapper for the libpcap library",
   "license": "MIT",
   "web": "https://github.com/praetoriannero/nim_libpcap",
+  "commit": {
+    "hash": "df6d077d28dc08d237bfc9593c31c386addc9ad4",
+    "time": 1672169378
+  },
   "tags": [
     "libpcap",
     "packet",

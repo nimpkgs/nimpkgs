@@ -5,6 +5,10 @@
   "description": "vectored io for nim",
   "license": "MIT",
   "web": "https://github.com/emekoi/vecio.nim",
+  "commit": {
+    "hash": "d514450b3329f94aabfb7af48066292685deb825",
+    "time": 1535600861
+  },
   "tags": [
     "writev",
     "readv",

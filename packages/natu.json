@@ -5,6 +5,10 @@
   "description": "Game Boy Advance development library",
   "license": "zlib",
   "web": "https://github.com/exelotl/natu",
+  "commit": {
+    "hash": "de2dc9fe15bfb7b76c893b070b03626cadd3a96b",
+    "time": 1739640851
+  },
   "versions": [
     {
       "tag": "v1.4.3",

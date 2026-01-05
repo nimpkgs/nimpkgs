@@ -5,6 +5,10 @@
   "description": "Minimum viable bindings for OpenCV",
   "license": "MIT",
   "web": "https://github.com/tapsterbot/mvb-opencv",
+  "commit": {
+    "hash": "9ca136ca7467d24e6f6834400e8d136c463dd5d8",
+    "time": 1687897405
+  },
   "versions": [
     {
       "tag": "v0.1.0",

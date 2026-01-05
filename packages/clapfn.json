@@ -5,6 +5,10 @@
   "description": "A fast and simple command line argument parser inspired by Python's argparse.",
   "license": "MIT",
   "web": "https://github.com/oliversandli/clapfn",
+  "commit": {
+    "hash": "a62d1d628edf1e4612bddaedf40298f488c3ff6e",
+    "time": 1722636006
+  },
   "tags": [
     "cli",
     "library",

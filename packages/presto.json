@@ -5,6 +5,10 @@
   "description": "REST API framework for Nim language",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-presto",
+  "commit": {
+    "hash": "62225bfa7ce703a99e04680bfc3498e69b52897f",
+    "time": 1762157762
+  },
   "versions": [
     {
       "tag": "v0.1.1",

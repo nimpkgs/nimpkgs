@@ -5,6 +5,10 @@
   "description": "A Nim scheduler library that lets you kick off jobs at regular intervals.",
   "license": "MIT",
   "web": "https://github.com/soasme/nim-schedules",
+  "commit": {
+    "hash": "ce1fe58ef7cc8a8670a8835031fcd5c5262083af",
+    "time": 1627016812
+  },
   "versions": [
     {
       "tag": "v0.2.0",

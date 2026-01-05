@@ -5,6 +5,10 @@
   "description": "A low level GPIO library for the BeagleBone board family",
   "license": "MIT",
   "web": "https://github.com/xyz32/boneIO",
+  "commit": {
+    "hash": "bf62d11ee94085783cf1a899f20fd964686cc951",
+    "time": 1495466652
+  },
   "tags": [
     "library",
     "GPIO",

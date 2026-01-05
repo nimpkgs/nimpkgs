@@ -5,6 +5,10 @@
   "description": "Cross platform (windows, linux) library for external process memory manipulation",
   "license": "MIT",
   "web": "https://github.com/qb-0/Nimem",
+  "commit": {
+    "hash": "0a61504898a42062102c0595c41b629cb5e8cb6e",
+    "time": 1672402428
+  },
   "tags": [
     "memory",
     "process",

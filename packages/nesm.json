@@ -5,6 +5,10 @@
   "description": "A macro for generating [de]serializers for given objects",
   "license": "MIT",
   "web": "https://xomachine.gitlab.io/NESM/",
+  "commit": {
+    "hash": "ad309b0db84ea6a77722d4699d7e529e63a982ff",
+    "time": 1731869102
+  },
   "versions": [
     {
       "tag": "v0.4.11",

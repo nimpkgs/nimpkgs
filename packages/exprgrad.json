@@ -5,6 +5,10 @@
   "description": "An experimental deep learning framework",
   "license": "Apache License 2.0",
   "web": "https://github.com/can-lehmann/exprgrad",
+  "commit": {
+    "hash": "905752c35ee419cc5e94ed1a7e6a92cddc477a6c",
+    "time": 1672422840
+  },
   "versions": [
     {
       "tag": "v0.1.0",

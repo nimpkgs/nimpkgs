@@ -5,6 +5,10 @@
   "description": "Collection of Diff stringifications (and reversals)",
   "license": "MIT",
   "web": "https://github.com/JohnAD/diffoutput",
+  "commit": {
+    "hash": "45bbd217bf70debe7ef907b0655c6988d4d0a26d",
+    "time": 1577766903
+  },
   "versions": [
     {
       "tag": "v0.1.2",

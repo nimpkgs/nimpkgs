@@ -5,6 +5,10 @@
   "description": "til-tool: Today I Learned tool",
   "license": "MIT",
   "web": "https://github.com/danielecook/til-tool",
+  "commit": {
+    "hash": "13a6c862bdd5a2686039a8314f950862f2ccc40e",
+    "time": 1590777518
+  },
   "versions": [
     {
       "tag": "v0.0.3",

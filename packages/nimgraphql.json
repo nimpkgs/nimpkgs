@@ -5,6 +5,10 @@
   "description": "libgraphqlparser wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimgraphql",
+  "commit": {
+    "hash": "49434383a688abcdac05a7bbdd1e87470e5a6c07",
+    "time": 1581495625
+  },
   "versions": [
     {
       "tag": "v0.2.0",

@@ -5,6 +5,10 @@
   "description": "Flash ISO images to SD cards & USB drives, safely and easily.",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/ballena-itcher",
+  "commit": {
+    "hash": "c436047fcc865860ba8b34128131c72eb7692dfa",
+    "time": 1586282351
+  },
   "tags": [
     "iso"
   ]

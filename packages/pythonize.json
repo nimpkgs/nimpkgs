@@ -5,6 +5,10 @@
   "description": "A higher-level wrapper for the Python Programing Language",
   "license": "MIT",
   "web": "https://github.com/marcoapintoo/nim-pythonize",
+  "commit": {
+    "hash": "613a8c11a8e0fbfc9ac35d731c31d876f80f9a47",
+    "time": 1559914278
+  },
   "tags": [
     "python",
     "wrapper"

@@ -6,6 +6,10 @@
   "license": "zlib",
   "web": "https://github.com/exelotl/trick",
   "doc": "https://exelotl.github.io/trick/trick.html",
+  "commit": {
+    "hash": "27cb475363166c2041d4e1584f248f4deed5ba4f",
+    "time": 1747783363
+  },
   "tags": [
     "gba",
     "nds",

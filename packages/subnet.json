@@ -5,6 +5,10 @@
   "description": "subnet prints subnet mask in human readable.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/subnet",
+  "commit": {
+    "hash": "f22461575de221b8f71c3c5e964c289e2b510a87",
+    "time": 1637564085
+  },
   "versions": [
     {
       "tag": "v1.0.1",

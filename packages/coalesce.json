@@ -5,6 +5,10 @@
   "description": "A nil coalescing operator ?? for Nim",
   "license": "MIT",
   "web": "https://github.com/piedar/coalesce",
+  "commit": {
+    "hash": "6d909c65045be331646254cdceee6b7df0d84a0b",
+    "time": 1501108601
+  },
   "versions": [
     {
       "tag": "v0.3.2",

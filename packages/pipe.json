@@ -5,6 +5,10 @@
   "description": "Pipe operator for nim.",
   "license": "Unlicense",
   "web": "https://github.com/CosmicToast/pipe",
+  "commit": {
+    "hash": "70e0f6f4bee78087dff253d2b4638c5501ed834e",
+    "time": 1627258823
+  },
   "versions": [
     {
       "tag": "v0.1.1",

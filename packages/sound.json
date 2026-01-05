@@ -5,6 +5,10 @@
   "description": "Cross-platform sound mixer library",
   "license": "MIT",
   "web": "https://github.com/yglukhov/sound",
+  "commit": {
+    "hash": "6656ab2164401699944eb70259d35106c27b0b4a",
+    "time": 1608717472
+  },
   "tags": [
     "sound",
     "ogg"

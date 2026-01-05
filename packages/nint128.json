@@ -5,6 +5,10 @@
   "description": "128-bit integers",
   "license": "MIT",
   "web": "https://github.com/rockcavera/nim-nint128",
+  "commit": {
+    "hash": "a9f23f246fd3a2cdb352cf9b67e970f88ec1507c",
+    "time": 1710992122
+  },
   "versions": [
     {
       "tag": "v0.3.3",

@@ -5,6 +5,10 @@
   "description": "a library and a DSL to handle container spec files",
   "license": "GPL-3.0",
   "web": "https://github.com/ilmanzo/containertools",
+  "commit": {
+    "hash": "103fe782896f615c4de8a8f73deb9f50093b2e4e",
+    "time": 1675418286
+  },
   "versions": [
     {
       "tag": "v0.2.2",

@@ -5,6 +5,10 @@
   "description": "Bindings and a high-level interface with DSL for the YottaDB NoSQL database",
   "license": "MIT",
   "web": "https://github.com/ljoeckel/nim-yottadb",
+  "commit": {
+    "hash": "7d0d1453b55af1bfdf59c91b344107264495acca",
+    "time": 1766156917
+  },
   "versions": [
     {
       "tag": "v0.4.0",

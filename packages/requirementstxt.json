@@ -5,6 +5,10 @@
   "description": "Python requirements.txt generic parser for Nim",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-requirementstxt",
+  "commit": {
+    "hash": "769a099b3e4e512985413c9e2740c81d480381d7",
+    "time": 1601846692
+  },
   "tags": [
     "python",
     "pip",

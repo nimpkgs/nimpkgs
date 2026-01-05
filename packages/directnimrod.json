@@ -5,6 +5,10 @@
   "description": "Wrapper for microsoft's DirectX libraries",
   "license": "MS-PL",
   "web": "https://bitbucket.org/barcharcraz/directnimrod",
+  "commit": {
+    "hash": "1e5e7cba5aa403388a5711722df9640a18c7ba49",
+    "time": 1443919918
+  },
   "tags": [
     "library",
     "wrapper",

@@ -5,6 +5,10 @@
   "description": "ski is library for SKI combinator.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/ski",
+  "commit": {
+    "hash": "7937592ed8f1439cc3bf0c677112381e9b5b9ba1",
+    "time": 1557531387
+  },
   "tags": [
     "ski",
     "combinator",

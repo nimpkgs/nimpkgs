@@ -5,6 +5,10 @@
   "description": "Proton template engine for xml and xhtml files",
   "license": "MIT",
   "web": "https://github.com/jasonrbriggs/proton-nim",
+  "commit": {
+    "hash": "625fe292a2f60fb1656453db9768b5edaa7290e0",
+    "time": 1626719114
+  },
   "versions": [
     {
       "tag": "v0.2.6",

@@ -5,6 +5,10 @@
   "description": "Jill is a Nimish high-level interface to the Jack Audio Connection Kit.",
   "license": "MIT",
   "web": "https://github.com/capocasa/jill",
+  "commit": {
+    "hash": "103a24f340d17b4ceacb26a7681b19696956391c",
+    "time": 1753511027
+  },
   "tags": [
     "jack",
     "dsp",

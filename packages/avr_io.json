@@ -5,6 +5,10 @@
   "description": "AVR registers, interrupts, progmem and peripheral support in nim!",
   "license": "BSD-3",
   "web": "https://github.com/Abathargh/avr_io/wiki",
+  "commit": {
+    "hash": "86539944e2b4301c06690ea37b1072c836ede381",
+    "time": 1767519921
+  },
   "versions": [
     {
       "tag": "v0.6.1",

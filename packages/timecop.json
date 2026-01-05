@@ -5,6 +5,10 @@
   "description": "Time travelling for Nim",
   "license": "MIT",
   "web": "https://github.com/ba0f3/timecop.nim",
+  "commit": {
+    "hash": "f4496338a7688b50d000f81cec880c17e94fb4d8",
+    "time": 1633049514
+  },
   "tags": [
     "time",
     "travel",

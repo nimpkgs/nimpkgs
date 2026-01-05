@@ -5,6 +5,10 @@
   "description": "sha3 - cryptographic hash function",
   "license": "CC0",
   "web": "https://github.com/narimiran/sha3",
+  "commit": {
+    "hash": "7e1a5194668371c8fd4024054ac4d8c7431eddba",
+    "time": 1622444096
+  },
   "tags": [
     "crypto",
     "cryptography",

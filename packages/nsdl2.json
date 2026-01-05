@@ -5,6 +5,10 @@
   "description": "High level SDL 2.0 shared library wrapper",
   "license": "NCSA OR MIT OR Zlib",
   "web": "https://github.com/amnr/nsdl2",
+  "commit": {
+    "hash": "c7d485c8febe978621023bea7804c438064f5e3e",
+    "time": 1744455806
+  },
   "versions": [
     {
       "tag": "v0.9.4",

@@ -5,6 +5,10 @@
   "description": "A wrapper to notification libraries",
   "license": "MIT",
   "web": "https://github.com/xbello/notify-nim",
+  "commit": {
+    "hash": "6dcd5d9944ccc13c67911de64a6a78d941fecb9b",
+    "time": 1563865110
+  },
   "tags": [
     "notify",
     "libnotify",

@@ -5,6 +5,10 @@
   "description": "High-level wrapper for QuickJS",
   "license": "MIT & Unlicense",
   "web": "https://git.sr.ht/~bptato/monoucha",
+  "commit": {
+    "hash": "410c4e2b9a6a27bd2a2103baf6f832da4e55d538",
+    "time": 1743180790
+  },
   "versions": [
     {
       "tag": "v0.10.0",

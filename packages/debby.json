@@ -5,6 +5,10 @@
   "description": "Database ORM layer",
   "license": "MIT",
   "web": "https://github.com/treeform/debby",
+  "commit": {
+    "hash": "fa7bb049b0a5a5682792f23033583b58be3ce317",
+    "time": 1714597264
+  },
   "tags": [
     "db",
     "sqlite",

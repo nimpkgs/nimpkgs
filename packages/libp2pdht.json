@@ -5,6 +5,10 @@
   "description": "DHT based on the libp2p Kademlia spec",
   "license": "Apache License 2.0",
   "web": "https://github.com/codex-storage/nim-codex-dht",
+  "commit": {
+    "hash": "754765ba31a58f60f58b4136fde05481812f28ac",
+    "time": 1766525011
+  },
   "versions": [
     {
       "tag": "v0.5.0",

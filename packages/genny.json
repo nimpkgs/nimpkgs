@@ -5,6 +5,10 @@
   "description": "Generate a shared library and bindings for many languages.",
   "license": "MIT",
   "web": "https://github.com/treeform/genny",
+  "commit": {
+    "hash": "1481e60fef90aabdb9a0c7e5ce18b9b989bb1a98",
+    "time": 1762906458
+  },
   "tags": [
     "C",
     "python",

@@ -5,6 +5,10 @@
   "description": "bundle your assets to a nim",
   "license": "MIT",
   "web": "https://github.com/xmonader/nimassets",
+  "commit": {
+    "hash": "d06724dd7b80fb470542ab932f3a94af78fe2eb1",
+    "time": 1651439921
+  },
   "tags": [
     "assets",
     "bundle",

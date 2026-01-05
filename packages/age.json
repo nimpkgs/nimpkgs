@@ -5,6 +5,10 @@
   "description": "Version bumping tool.",
   "license": "Apache-2.0-only",
   "web": "https://age.attakei.dev",
+  "commit": {
+    "hash": "bc0df790d8e4c9245b5432f1c43739952891a426",
+    "time": 1748366085
+  },
   "versions": [
     {
       "tag": "v0.10.2",

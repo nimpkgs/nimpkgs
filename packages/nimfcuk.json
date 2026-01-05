@@ -5,6 +5,10 @@
   "description": "A brainfuck interpreter & compiler implemented in nim",
   "license": "GPL-3.0",
   "web": "https://github.com/2KAbhishek/nimfcuk",
+  "commit": {
+    "hash": "08e33e6a374aaaafe2e9d5eac3b7075d208c23fe",
+    "time": 1676532849
+  },
   "tags": [
     "cli",
     "library",

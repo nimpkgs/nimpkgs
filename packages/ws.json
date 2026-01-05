@@ -5,6 +5,10 @@
   "description": "Simple WebSocket library for nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/ws",
+  "commit": {
+    "hash": "cbb8f763b436669392d10baec2a45778395395cc",
+    "time": 1758338260
+  },
   "versions": [
     {
       "tag": "v0.4.0",

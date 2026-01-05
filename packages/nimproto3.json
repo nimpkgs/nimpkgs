@@ -5,6 +5,10 @@
   "description": "A Nim implementation of Protocol Buffers 3 (proto3) with support for parsing .proto files, generating Nim code, serializing/deserializing data in both binary (protobuf wire format) and JSON formats, and gRPC server/client.",
   "license": "MIT",
   "web": "https://github.com/YesDrX/nimproto3",
+  "commit": {
+    "hash": "f115165679c26f6ff8cfa52f7ce11485c53547d8",
+    "time": 1765034395
+  },
   "tags": [
     "protobuf",
     "grpc"

@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/foxoman/openurl",
   "doc": "https://nimopenurl.surge.sh/openurl.html",
+  "commit": {
+    "hash": "14825fb9a36543ea8519c6ab322c6eb430e21abf",
+    "time": 1743171864
+  },
   "versions": [
     {
       "tag": "v2.0.4-1",

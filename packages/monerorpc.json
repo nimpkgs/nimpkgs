@@ -5,6 +5,10 @@
   "description": "Library for interacting with Monero wallets via RPC.",
   "license": "MIT",
   "web": "https://github.com/eversinc33/nim-monero-rpc",
+  "commit": {
+    "hash": "989a4ed35d6b631632903b3250e5e263af69ebb6",
+    "time": 1660432812
+  },
   "tags": [
     "monero",
     "rpc",

@@ -5,6 +5,10 @@
   "description": "Simple wrapper to execute osproc.exec* commands with sudo.",
   "license": "BSD-3-Clause",
   "web": "https://github.com/vandot/nim-sudo",
+  "commit": {
+    "hash": "b8108c19b5aaf90487e740493094fbf10126eb4e",
+    "time": 1680038935
+  },
   "tags": [
     "sudo",
     "linux",

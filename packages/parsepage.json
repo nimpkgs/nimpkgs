@@ -5,6 +5,10 @@
   "description": "Automatically extracts the data of sites",
   "license": "GPL-3.0-only",
   "web": "https://github.com/thisago/parsepage",
+  "commit": {
+    "hash": "cfead41fda0f519a2e18875262471b8d31f34bda",
+    "time": 1654171121
+  },
   "tags": [
     "extractor",
     "cli",

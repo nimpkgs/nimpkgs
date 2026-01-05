@@ -5,6 +5,10 @@
   "description": "A library to create interactive commandline menus without writing boilerplate code.",
   "license": "MIT",
   "web": "https://github.com/MnlPhlp/cli_menu",
+  "commit": {
+    "hash": "4ef855e5c24aabeb90bc837f8e87d96a24897691",
+    "time": 1573410212
+  },
   "tags": [
     "menu",
     "library",

@@ -5,6 +5,10 @@
   "description": "A single test file runner.",
   "license": "MIT",
   "web": "https://github.com/flenniken/stfrunner",
+  "commit": {
+    "hash": "42b1148961e0fe4dde96468875357f0139a717db",
+    "time": 1766335465
+  },
   "versions": [
     {
       "tag": "v0.1.3",

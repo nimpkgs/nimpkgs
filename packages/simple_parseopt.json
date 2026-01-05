@@ -5,6 +5,10 @@
   "description": "Nim module which provides clean, zero-effort command line parsing.",
   "license": "MIT",
   "web": "https://github.com/onelivesleft/simple_parseopt",
+  "commit": {
+    "hash": "22f883465918bc0180bda61162c755031b0bf980",
+    "time": 1633605434
+  },
   "versions": [
     {
       "tag": "v1.1.1",

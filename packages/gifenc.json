@@ -5,6 +5,10 @@
   "description": "Gif Encoder",
   "license": "Public Domain",
   "web": "https://github.com/ftsf/gifenc",
+  "commit": {
+    "hash": "73ffba128127e6a53492ba85019f9a75056ce651",
+    "time": 1544793585
+  },
   "tags": [
     "gif",
     "encoder"

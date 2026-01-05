@@ -5,6 +5,10 @@
   "description": "Nim wrapper for libbacktrace",
   "license": "Apache License 2.0 or MIT",
   "web": "https://github.com/status-im/nim-libbacktrace",
+  "commit": {
+    "hash": "99bc2ba16bc2d44f9a97e706304f64744d913d7f",
+    "time": 1765314059
+  },
   "versions": [
     {
       "tag": "v0.0.9",

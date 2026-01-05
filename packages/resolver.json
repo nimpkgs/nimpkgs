@@ -5,6 +5,10 @@
   "description": "Semver parser and dependency management tools",
   "license": "BSD 3-Clause",
   "web": "https://github.com/ryukoposting/resolver",
+  "commit": {
+    "hash": "f007c3b42ae93aa757f55c7575e42d1b58e1109f",
+    "time": 1669838803
+  },
   "versions": [
     {
       "tag": "v0.2.0",

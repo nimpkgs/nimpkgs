@@ -5,6 +5,10 @@
   "description": ".NET-inspired lightweight terminal library",
   "license": "MIT",
   "web": "https://github.com/guevara-chan/conio",
+  "commit": {
+    "hash": "b311f94f462057cf8df1d92a2c139227a9586618",
+    "time": 1569408908
+  },
   "tags": [
     "console",
     "terminal",

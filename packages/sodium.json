@@ -5,6 +5,10 @@
   "description": "High-level libsodium bindings",
   "license": "MIT",
   "web": "https://github.com/zielmicha/libsodium.nim",
+  "commit": {
+    "hash": "e1c88906d5958ffe56ee2590d34fdc8b2f3a96f5",
+    "time": 1546370186
+  },
   "tags": [
     "crypto",
     "security",

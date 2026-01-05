@@ -5,6 +5,10 @@
   "description": "The SHIORI Message charset convert utility",
   "license": "MIT",
   "web": "https://github.com/Narazaka/shiori_charset_convert-nim",
+  "commit": {
+    "hash": "1f5206548e0c69a48e649837a6a9994ba89482cf",
+    "time": 1516435926
+  },
   "versions": [
     {
       "tag": "v1.0.0",

@@ -5,6 +5,10 @@
   "description": "X-Plane XPLM SDK wrapper",
   "license": "BSD",
   "web": "https://github.com/jpoirier/XPLM-Nim",
+  "commit": {
+    "hash": "9bcb8f95ea55795d9ebc217b45624a806f10749b",
+    "time": 1420611808
+  },
   "versions": [
     {
       "tag": "v0.2.5",

@@ -5,6 +5,10 @@
   "description": "A library that makes macros much easier, one might even say makes them micros.",
   "license": "MIT",
   "web": "https://github.com/beef331/micros",
+  "commit": {
+    "hash": "7310016034a47d10ec1044b6ccae7a2efd1386ff",
+    "time": 1754279532
+  },
   "versions": [
     {
       "tag": "v0.1.18",

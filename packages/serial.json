@@ -5,6 +5,10 @@
   "description": "A library to operate serial ports using pure Nim.",
   "license": "BSD3",
   "web": "https://github.com/euantorano/serial.nim",
+  "commit": {
+    "hash": "dd0ab807b34bd8221e6c1ac83ed8ffa31bc39d8e",
+    "time": 1706094741
+  },
   "versions": [
     {
       "tag": "v1.2.0",

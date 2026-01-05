@@ -5,6 +5,10 @@
   "description": "A library of string validators and sanitizers.",
   "license": "MIT",
   "web": "https://github.com/openpeeps/valido",
+  "commit": {
+    "hash": "54119563b7ad0ab58c2a38a8c4ab4dcc234baa08",
+    "time": 1751422597
+  },
   "tags": [
     "validation",
     "strings",

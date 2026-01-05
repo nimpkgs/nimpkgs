@@ -4,6 +4,10 @@
   "method": "git",
   "description": "ANSI art + MIDI music editor",
   "license": "Public Domain",
+  "commit": {
+    "hash": "165ff6505a5dc164184e457f8f5d830b4d9b8e6c",
+    "time": 1695388212
+  },
   "tags": [
     "ansi",
     "midi"

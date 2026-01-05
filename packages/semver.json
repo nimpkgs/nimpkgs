@@ -5,6 +5,10 @@
   "description": "Semantic versioning parser for Nim. Allows the parsing of version strings into objects and the comparing of version objects.",
   "license": "BSD3",
   "web": "https://github.com/euantorano/semver.nim",
+  "commit": {
+    "hash": "ec7732a4810441a937fe3059494ba338090c4957",
+    "time": 1728042125
+  },
   "versions": [
     {
       "tag": "v1.2.3",

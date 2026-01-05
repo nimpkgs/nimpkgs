@@ -5,6 +5,10 @@
   "description": "Errorcodes maps Nim error states and POSIX and HTTP error codes to a single common enum. It can be used as an alternative to exceptions.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/errorcodes",
+  "commit": {
+    "hash": "9f3e7979499529ad5d1023e2559c6c98a119ccc8",
+    "time": 1756195664
+  },
   "tags": [
     "errorcode",
     "errno",

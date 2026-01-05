@@ -5,6 +5,10 @@
   "description": "Base58 encoders and decoders for Bitcoin and CryptoNote addresses.",
   "license": "MIT",
   "web": "https://git.sr.ht/~ehmry/nim_base58",
+  "commit": {
+    "hash": "4a8bd2e88d9c0625557d53254550cdf1e6d56a7e",
+    "time": 1532448047
+  },
   "versions": [
     {
       "tag": "v0.1.1",

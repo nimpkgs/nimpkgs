@@ -5,6 +5,10 @@
   "description": "High-level and low-level interfaces to python and lua",
   "license": "MIT",
   "web": "https://github.com/micklat/NimBorg",
+  "commit": {
+    "hash": "34df4af498d599ee4c80f2f46702673c26656c2b",
+    "time": 1506602983
+  },
   "tags": [
     "wrapper"
   ]

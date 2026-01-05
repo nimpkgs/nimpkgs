@@ -12,5 +12,6 @@
     "io",
     "storage",
     "deleted"
-  ]
+  ],
+  "status": "Deleted"
 }

@@ -5,6 +5,10 @@
   "description": "Apache CouchDb driver (REST API) for nim lang.",
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_couchdbapi",
+  "commit": {
+    "hash": "f310e9c75856abbf6cae6418f02ab0b7e4c4cbb0",
+    "time": 1693877616
+  },
   "versions": [
     {
       "tag": "v0.3.1",

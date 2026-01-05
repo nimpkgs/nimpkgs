@@ -5,6 +5,10 @@
   "description": "A wrapper for C++'s std::tuple",
   "license": "MIT",
   "web": "https://github.com/sls1005/cpptuples",
+  "commit": {
+    "hash": "5be167fb14509d60403fdd2e8c1c25d60f19be3e",
+    "time": 1670129022
+  },
   "versions": [
     {
       "tag": "v0.1.0",

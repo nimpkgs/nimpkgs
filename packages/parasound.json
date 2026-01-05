@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A library for playing audio files",
   "license": "Public Domain",
+  "commit": {
+    "hash": "bccc7d37501225a4d6e7c806c81ed08f7a5bb72e",
+    "time": 1644157724
+  },
   "tags": [
     "audio",
     "sound"

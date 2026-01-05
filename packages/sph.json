@@ -5,6 +5,10 @@
   "description": "Large number of cryptographic hashes for Nim",
   "license": "MIT",
   "web": "https://github.com/aidansteele/sph",
+  "commit": {
+    "hash": "04c78a0005a83af3f8956f1994b7c01df56639aa",
+    "time": 1539987858
+  },
   "tags": [
     "crypto",
     "hashes",

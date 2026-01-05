@@ -5,6 +5,10 @@
   "description": "A simple pastebin, inspired by w4/bin",
   "license": "AGPL-3.0-or-later",
   "web": "https://codeberg.org/pswilde/note",
+  "commit": {
+    "hash": "779649587276445c43bf6aed07cbbb8c18fdd70b",
+    "time": 1737236766
+  },
   "versions": [
     {
       "tag": "v1.0.0",

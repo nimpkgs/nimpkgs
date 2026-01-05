@@ -5,6 +5,10 @@
   "description": "glob library and find tool",
   "license": "MIT",
   "web": "https://github.com/Graveflo/nfind",
+  "commit": {
+    "hash": "d51f8e58bb17c61f662373b950dfc0c40d7f5fa6",
+    "time": 1767217592
+  },
   "versions": [
     {
       "tag": "v1.5.0",

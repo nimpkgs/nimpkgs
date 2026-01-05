@@ -5,6 +5,10 @@
   "description": "make-like for Nim. Describe your builds as tasks!",
   "license": "MIT",
   "web": "https://github.com/fowlmouth/nake",
+  "commit": {
+    "hash": "63e87e1713459588f33844280de9821ba04e34c6",
+    "time": 1753866467
+  },
   "versions": [
     {
       "tag": "v1.8",

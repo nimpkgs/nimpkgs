@@ -5,6 +5,10 @@
   "description": "Library to parse ANSI escape codes",
   "license": "MIT",
   "web": "https://github.com/PMunch/ansiparse",
+  "commit": {
+    "hash": "4f97d31792ccc2b76d77cdea7683e7b73d5ff6f6",
+    "time": 1691502287
+  },
   "versions": [
     {
       "tag": "v0.4.0",

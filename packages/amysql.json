@@ -5,6 +5,10 @@
   "description": "Async MySQL Connector write in pure Nim.",
   "license": "MIT",
   "web": "https://github.com/bung87/amysql",
+  "commit": {
+    "hash": "a202f5335ef5b47d1fabd897999f730c9e7fce20",
+    "time": 1751505138
+  },
   "versions": [
     {
       "tag": "v0.7.6",

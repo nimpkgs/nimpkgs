@@ -5,6 +5,10 @@
   "description": "OpenSSL wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/genotrance/nimssl",
+  "commit": {
+    "hash": "893ae26213621c7aa9dceedc3336a2f710ea6d8b",
+    "time": 1577316134
+  },
   "versions": [
     {
       "tag": "v0.1.5",

@@ -5,6 +5,10 @@
   "description": "Text template processor, basic capabilities",
   "license": "UNLICENSE",
   "web": "https://mjfh.github.io/nim-tmplpro/",
+  "commit": {
+    "hash": "0c6a16323c223694dc6abbbb5625ca40f770d2c1",
+    "time": 1610997812
+  },
   "versions": [
     {
       "tag": "v0.1.2",

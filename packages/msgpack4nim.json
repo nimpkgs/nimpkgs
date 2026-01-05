@@ -5,6 +5,10 @@
   "description": "Another MessagePack implementation written in pure nim",
   "license": "MIT",
   "web": "https://github.com/jangko/msgpack4nim",
+  "commit": {
+    "hash": "5294022df4de1af2f6bc349488a578d8946f39c2",
+    "time": 1741614274
+  },
   "versions": [
     {
       "tag": "v0.4.4",

@@ -5,6 +5,10 @@
   "description": "Wrapper for the C[++] library BearLibTerminal",
   "license": "MIT",
   "web": "https://github.com/irskep/BearLibTerminal-Nim",
+  "commit": {
+    "hash": "8f5a33c34c7372dd07e7753c9fdfd6fc95c6e07a",
+    "time": 1539530343
+  },
   "tags": [
     "roguelike",
     "terminal",

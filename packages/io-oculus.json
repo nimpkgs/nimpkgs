@@ -5,6 +5,10 @@
   "description": "Obsolete - please use oculus instead!",
   "license": "MIT",
   "web": "https://github.com/nimious/io-oculus",
+  "commit": {
+    "hash": "4b4ae34c5269e345cbebc9d13bb971fdb481426e",
+    "time": 1454177238
+  },
   "tags": [
     "binding",
     "oculus",

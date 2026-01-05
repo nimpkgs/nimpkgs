@@ -5,6 +5,10 @@
   "description": "A simple library for paging, similar to less",
   "license": "GPL-3.0",
   "web": "https://git.sr.ht/~reesmichael1/nim-pager",
+  "commit": {
+    "hash": "eab3163332d96b29755741b82383f7a36e92ba12",
+    "time": 1568435615
+  },
   "tags": [
     "pager",
     "paging",

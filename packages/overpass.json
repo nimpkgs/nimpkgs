@@ -5,6 +5,10 @@
   "description": "OpenStreetMap Overpass API Lib",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-overpass",
+  "commit": {
+    "hash": "aa63fdc4a0526081a1ee9fdb650712fee210b1f3",
+    "time": 1689985285
+  },
   "tags": [
     "openstreetmap",
     "overpass",

@@ -5,6 +5,10 @@
   "description": "This is a simple implementation of a WebSocket server with 100% Nim.",
   "license": "MIT",
   "web": "https://github.com/obemaru4012/bamboo_websocket",
+  "commit": {
+    "hash": "92539ce8b53f6abf422393fb8dfa7495043f213c",
+    "time": 1733083381
+  },
   "tags": [
     "websocket"
   ]

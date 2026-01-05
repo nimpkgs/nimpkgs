@@ -5,6 +5,10 @@
   "description": "Tools for working with re-frame ClojureScript projects",
   "license": "EPL-2.0",
   "web": "https://github.com/rosado/reframe.nim",
+  "commit": {
+    "hash": "c26fa5f285fc36725ec7817ee15a9e4a77196bba",
+    "time": 1643462707
+  },
   "tags": [
     "clojurescript",
     "re-frame"

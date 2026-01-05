@@ -5,6 +5,10 @@
   "description": " some useful tools for programming with Nim",
   "license": "MIT",
   "web": "https://github.com/GeK2K/nimutils",
+  "commit": {
+    "hash": "3b57549f22e491aabdaad8ff7b25217e539b98b8",
+    "time": 1727513362
+  },
   "tags": [
     "util",
     "date",

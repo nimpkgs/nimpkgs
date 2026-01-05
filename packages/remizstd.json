@@ -6,6 +6,10 @@
   "license": "GPL-3.0",
   "web": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/home",
   "doc": "https://chiselapp.com/user/MistressRemilia/repository/RemiZstd/doc/trunk/www/remizstd.html",
+  "commit": {
+    "hash": "7f35f755dab02ca9830b067913bba74512f50925",
+    "time": 1646883288
+  },
   "versions": [
     {
       "tag": "v0.1.1",

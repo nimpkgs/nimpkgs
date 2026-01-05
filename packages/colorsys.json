@@ -5,6 +5,10 @@
   "description": "Convert between RGB, YIQ, HLS, and HSV color systems.",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-colorsys",
+  "commit": {
+    "hash": "b466a504242b4a91eec6fd61e8d6ff14417e5779",
+    "time": 1497488979
+  },
   "tags": [
     "library",
     "colors",

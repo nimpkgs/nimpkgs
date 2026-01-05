@@ -5,6 +5,10 @@
   "description": "Read metadata from jpeg and tiff images.",
   "license": "MIT",
   "web": "https://github.com/flenniken/metar",
+  "commit": {
+    "hash": "549ff5ef7461ccd8dfbeeb0841578745cd71532c",
+    "time": 1766346542
+  },
   "versions": [
     {
       "tag": "v0.1.26",

@@ -5,6 +5,10 @@
   "description": "wrapper for FreeType2 library",
   "license": "MIT",
   "web": "https://github.com/jangko/freetype",
+  "commit": {
+    "hash": "22b81d059d17ebb393469a3ee11e6f443e18ad5e",
+    "time": 1693410436
+  },
   "tags": [
     "font",
     "renderint",

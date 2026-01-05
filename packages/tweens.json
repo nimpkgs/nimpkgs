@@ -5,6 +5,10 @@
   "description": "Basic tweening library for Nim",
   "license": "MIT",
   "web": "https://github.com/RainbowAsteroids/tweens",
+  "commit": {
+    "hash": "24be719fc4699b42b308e256fc468a0301d05e8e",
+    "time": 1615834677
+  },
   "tags": [
     "tween",
     "math",

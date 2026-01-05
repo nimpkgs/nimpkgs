@@ -5,6 +5,10 @@
   "description": "Super Fast Nim Macros For Internationalization and Localization",
   "license": "MIT",
   "web": "https://github.com/heinthanth/ni18n",
+  "commit": {
+    "hash": "40e6cd1b4d4f4ede0efaae5d416f8c94b02aadd6",
+    "time": 1677680206
+  },
   "versions": [
     {
       "tag": "v0.1.0",

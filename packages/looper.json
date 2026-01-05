@@ -5,6 +5,10 @@
   "description": "for loop macros",
   "license": "MIT",
   "web": "https://github.com/planetis-m/looper",
+  "commit": {
+    "hash": "b2d9b1f11cd5d359ef66364349bc5145b1c437e0",
+    "time": 1606585388
+  },
   "versions": [
     {
       "tag": "v0.8.0",

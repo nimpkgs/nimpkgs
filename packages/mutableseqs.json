@@ -5,6 +5,10 @@
   "description": "utilities for transforming sequences",
   "license": "MIT",
   "web": "https://github.com/iourinski/mutableseqs",
+  "commit": {
+    "hash": "75bd0a6e5db62ceb0e632ac8ce92ca85dfbf4db4",
+    "time": 1489082129
+  },
   "tags": [
     "sequences",
     "mapreduce"

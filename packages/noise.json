@@ -5,6 +5,10 @@
   "description": "Nim implementation of linenoise command line editor",
   "license": "MIT",
   "web": "https://github.com/jangko/nim-noise",
+  "commit": {
+    "hash": "4ef91d821a01d317968404b40b0d1a41ade54939",
+    "time": 1765204068
+  },
   "versions": [
     {
       "tag": "v0.1.10",

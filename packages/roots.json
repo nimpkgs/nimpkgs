@@ -5,6 +5,10 @@
   "description": "Root finding functions for Nim",
   "license": "MIT",
   "web": "https://github.com/BarrOff/roots",
+  "commit": {
+    "hash": "bc7323d16f4c751857968a007b5461e042ca9029",
+    "time": 1638909582
+  },
   "versions": [
     {
       "tag": "v0.4.1",

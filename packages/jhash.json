@@ -5,6 +5,10 @@
   "description": "Jenkins Hasher producing 32 bit digests",
   "license": "UNLICENSE",
   "web": "https://mjfh.github.io/nim-jhash/",
+  "commit": {
+    "hash": "b755322f8e2532dd7dbcd264a11207a11b0a0e22",
+    "time": 1611048181
+  },
   "versions": [
     {
       "tag": "v0.1.2",

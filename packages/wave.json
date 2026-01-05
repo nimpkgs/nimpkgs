@@ -5,6 +5,10 @@
   "description": "wave is a tiny WAV sound module",
   "license": "MIT",
   "web": "https://github.com/jiro4989/wave",
+  "commit": {
+    "hash": "d07397a7c6cba35525a9e88afb9f7a90e6cad78c",
+    "time": 1697020196
+  },
   "versions": [
     {
       "tag": "v1.1.0",

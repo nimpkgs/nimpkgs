@@ -5,6 +5,10 @@
   "description": "Converts a number into a specially formatted Unicode string",
   "license": "MIT",
   "web": "https://github.com/Aearnus/unicode_numbers",
+  "commit": {
+    "hash": "777488f31eb8e49aa057412b9443786f21bdcebf",
+    "time": 1526880029
+  },
   "tags": [
     "library",
     "string",

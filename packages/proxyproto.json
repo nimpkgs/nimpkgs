@@ -5,6 +5,10 @@
   "description": "PROXY Protocol enabler for aged programs",
   "license": "MIT",
   "web": "https://github.com/ba0f3/libproxy.nim",
+  "commit": {
+    "hash": "f28a800c25f4b8470c3b83e39dcb360c4902b3ab",
+    "time": 1664383499
+  },
   "tags": [
     "proxy",
     "protocol",

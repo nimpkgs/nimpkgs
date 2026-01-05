@@ -5,6 +5,10 @@
   "description": "ptrace wrapper for Nim",
   "license": "MIT",
   "web": "https://github.com/ba0f3/ptrace.nim",
+  "commit": {
+    "hash": "3e9a6fb3c5872d5371df48a7128db7019492ae18",
+    "time": 1665590127
+  },
   "tags": [
     "ptrace",
     "trace",

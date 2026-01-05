@@ -5,6 +5,10 @@
   "description": "libmagic for nim",
   "license": "MIT",
   "web": "https://github.com/xmonader/nim-magic",
+  "commit": {
+    "hash": "3eb3cc7e0139a696a7b42fd447d0359f07338bd7",
+    "time": 1525187802
+  },
   "tags": [
     "libmagic",
     "magic",

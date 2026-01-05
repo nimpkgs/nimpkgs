@@ -5,6 +5,10 @@
   "description": "Linear time regex matching",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-regex",
+  "commit": {
+    "hash": "88f634b95651ce0d53961668be1c414341429b7f",
+    "time": 1740123489
+  },
   "versions": [
     {
       "tag": "v0.26.3",

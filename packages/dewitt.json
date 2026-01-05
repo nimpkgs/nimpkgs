@@ -5,6 +5,10 @@
   "description": "Discrete Wavelet Transform (DWT - here 'dewitt') for Audio Analysis",
   "license": "MIT",
   "web": "https://github.com/Luteva-ssh/dewitt",
+  "commit": {
+    "hash": "79d0f6f9df2a85f092ebe8016c7afa7ffc87bdb7",
+    "time": 1751848016
+  },
   "tags": [
     "audio",
     "analysis",

@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://pmetras.gitlab.io/nim0/",
   "doc": "https://gitlab.com/pmetras/nim0",
+  "commit": {
+    "hash": "90aece0274f3919fbaa39c4e3cd744edd902f146",
+    "time": 1619481768
+  },
   "tags": [
     "compiler",
     "language",

@@ -5,6 +5,10 @@
   "description": "Youtube data extractor",
   "license": "MIT",
   "web": "https://github.com/thisago/ytextractor",
+  "commit": {
+    "hash": "a1c02dd95e4c338841ebd8a03fa3b2f81c4f83ad",
+    "time": 1698928839
+  },
   "tags": [
     "youtube",
     "extractor",

@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the Chromium Embedded Framework",
   "license": "MIT",
   "web": "https://github.com/jangko/nimCEF",
+  "commit": {
+    "hash": "1dd96ad929da209aa26947c8411b51eb0f824263",
+    "time": 1604126565
+  },
   "tags": [
     "chromium",
     "embedded",

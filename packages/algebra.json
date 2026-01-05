@@ -5,11 +5,16 @@
   "description": "Algebraic expression parser and evaluator",
   "license": "CC0",
   "web": "https://github.com/refaqtor/nim-algebra",
+  "commit": {
+    "hash": "99909d037177d5e6e8ae22dfe5be2547557eea32",
+    "time": 1558328197
+  },
   "tags": [
     "algebra",
     "parse",
     "evaluate",
     "mathematics",
     "deleted"
-  ]
+  ],
+  "status": "Deleted"
 }

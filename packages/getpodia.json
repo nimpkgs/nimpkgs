@@ -5,6 +5,10 @@
   "description": "Extract Podia sites courses data",
   "license": "GPL-3",
   "web": "https://github.com/thisago/getpodia",
+  "commit": {
+    "hash": "ffa38076ed5b77b17bcfc038e971dcb9bded30ba",
+    "time": 1701636088
+  },
   "tags": [
     "scraper",
     "podia",

@@ -5,6 +5,10 @@
   "description": "A dataframe library with a dplyr like API",
   "license": "MIT",
   "web": "https://github.com/SciNim/datamancer",
+  "commit": {
+    "hash": "ea8fa6cacd158b7e2ff9116521e0a5ee3aadc7d2",
+    "time": 1744826812
+  },
   "versions": [
     {
       "tag": "v0.5.1",

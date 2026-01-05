@@ -5,6 +5,10 @@
   "description": "better cookie handling",
   "license": "MIT",
   "web": "https://github.com/achesak/nim-biscuits",
+  "commit": {
+    "hash": "8f337e1d0233e0e0c88fe8e88edea74275fca994",
+    "time": 1535669090
+  },
   "tags": [
     "cookie",
     "persistence"

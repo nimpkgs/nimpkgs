@@ -5,6 +5,10 @@
   "description": "syntax sugar for assignments",
   "license": "MIT",
   "web": "https://metagn.github.io/assigns/assigns.html",
+  "commit": {
+    "hash": "25ef723e9f6180edd50d53502133de8894e40cea",
+    "time": 1738139136
+  },
   "versions": [
     {
       "tag": "v0.8.2",

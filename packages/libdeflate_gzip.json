@@ -5,6 +5,10 @@
   "description": "A wrapper for libdeflate",
   "license": "MIT",
   "web": "https://github.com/radekm/nim_libdeflate_gzip",
+  "commit": {
+    "hash": "221557a1c29f0c020f5b15285f6a7d0c7cd8de42",
+    "time": 1695581172
+  },
   "versions": [
     {
       "tag": "v0.6.0",

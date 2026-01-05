@@ -6,6 +6,10 @@
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_zfdbms",
   "doc": "https://github.com/zendbit/nim_zfdbms/blob/main/README.md",
+  "commit": {
+    "hash": "aae4034aa7dc16df61af9dabcef3498e5fff3507",
+    "time": 1693878142
+  },
   "versions": [
     {
       "tag": "v0.2.3",

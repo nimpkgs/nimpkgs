@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/ceebeel/audius",
   "doc": "https://ceebeel.github.io/audius",
+  "commit": {
+    "hash": "039e2c0a568b65b0b8f81b5a838fa424d25f03ac",
+    "time": 1644599410
+  },
   "versions": [
     {
       "tag": "v0.1.2",

@@ -5,6 +5,10 @@
   "description": "Nim bindings for mozilla's DeepSpeech model.",
   "license": "MIT",
   "web": "https://gitlab.com/eagledot/nim-deepspeech",
+  "commit": {
+    "hash": "ff465cedbf4b17b92a9101186d87a4116ff0a38f",
+    "time": 1592368076
+  },
   "versions": [
     {
       "tag": "v0.7.1",

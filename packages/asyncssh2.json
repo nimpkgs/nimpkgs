@@ -5,6 +5,10 @@
   "description": "Execute commands and upload/download files using multiple processes and asynchronous methods via SSH.",
   "license": "MIT",
   "web": "https://github.com/up7down8/asyncssh2",
+  "commit": {
+    "hash": "badae9032e9443f51941acbfeb0e9823d8b74c10",
+    "time": 1720062450
+  },
   "tags": [
     "scp",
     "ssh",

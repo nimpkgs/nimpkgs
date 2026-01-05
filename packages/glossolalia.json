@@ -5,6 +5,10 @@
   "description": "A DSL for quickly writing parsers",
   "license": "CC0",
   "web": "https://github.com/fowlmouth/glossolalia",
+  "commit": {
+    "hash": "f8b89478387e09aaf286fd05cda7323465572532",
+    "time": 1432043881
+  },
   "tags": [
     "parser",
     "peg"

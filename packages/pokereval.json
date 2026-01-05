@@ -5,6 +5,10 @@
   "description": "A poker hand evaluator",
   "license": "MIT",
   "web": "https://github.com/jasonlu7/pokereval",
+  "commit": {
+    "hash": "2964a9d6a7574766c2c89c4740f319d61545e88c",
+    "time": 1588741743
+  },
   "versions": [
     {
       "tag": "v0.1.0",

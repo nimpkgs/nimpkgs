@@ -5,6 +5,10 @@
   "description": "Ridiculously simple and effective JSON formatter.",
   "license": "MIT",
   "web": "https://github.com/fkdosilovic/jsonfmt",
+  "commit": {
+    "hash": "cd4c0b4d28a505d69f86527eed23f32eb31215e4",
+    "time": 1676411437
+  },
   "tags": [
     "json",
     "cli"

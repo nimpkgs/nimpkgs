@@ -5,6 +5,10 @@
   "description": "Nim binding for Dear ImGui / CImGui",
   "license": "MIT License",
   "web": "https://github.com/dinau/imguin",
+  "commit": {
+    "hash": "0cad307dc3bc31fdcf64caba7a6849e5cbbe818a",
+    "time": 1764405255
+  },
   "versions": [
     {
       "tag": "v1.89.9.3",

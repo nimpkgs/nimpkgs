@@ -5,6 +5,10 @@
   "description": "Language Handler for executing Nim inside postgres as a procedural language",
   "license": "MIT",
   "web": "https://github.com/luisacosta828/plnim",
+  "commit": {
+    "hash": "275b1b762b9e9a47f5033a55f6bd90a7daca0f6b",
+    "time": 1750710989
+  },
   "versions": [
     {
       "tag": "v0.3.1",

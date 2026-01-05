@@ -5,6 +5,10 @@
   "description": "Discord RPC/Rich Presence client",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/discord_rpc",
+  "commit": {
+    "hash": "f9f591956ae8218cce48f34b50f3f09b2304ea9f",
+    "time": 1711231564
+  },
   "versions": [
     {
       "tag": "v0.2.0",

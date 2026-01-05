@@ -5,6 +5,10 @@
   "description": "DataFrame API enabling fast out-of-core data analytics",
   "license": "MIT",
   "web": "https://github.com/bluenote10/NimData",
+  "commit": {
+    "hash": "ed07c2fa76cae57477d61b08384148f308aa4c6d",
+    "time": 1623228631
+  },
   "tags": [
     "library",
     "dataframe"

@@ -5,6 +5,10 @@
   "description": "Least recently used (LRU) cache",
   "license": "MIT",
   "web": "https://github.com/jackhftang/lrucache",
+  "commit": {
+    "hash": "1c2eede7e2fbe05b0498537a6f82be8063e093d6",
+    "time": 1674817975
+  },
   "tags": [
     "cache",
     "lru",

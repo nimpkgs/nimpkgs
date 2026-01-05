@@ -5,6 +5,10 @@
   "description": "Low-level packet crafting and raw socket networking library for Nim",
   "license": "MIT",
   "web": "https://nim-packet-website.vercel.app",
+  "commit": {
+    "hash": "7c57b28bef1d2ab6381b8acf2140bac8edb68181",
+    "time": 1766155459
+  },
   "tags": [
     "networking",
     "packets",

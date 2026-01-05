@@ -5,6 +5,10 @@
   "description": "A library for computing and comparing perceptual hashes in Nim",
   "license": "MIT",
   "web": "https://github.com/deNULL/perceptual",
+  "commit": {
+    "hash": "fb0e2faf2d9c440e21fcec187158cfffe7cf8753",
+    "time": 1684793647
+  },
   "tags": [
     "perceptual",
     "hashes",

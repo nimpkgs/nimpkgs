@@ -5,6 +5,10 @@
   "description": "A small but powerful static site generator powered by HastyScribe and min",
   "license": "MIT",
   "web": "https://hastysite.h3rald.com",
+  "commit": {
+    "hash": "ab9e4c37a9066d809f021557972daf81aebef79c",
+    "time": 1729488116
+  },
   "versions": [
     {
       "tag": "v1.4.0",

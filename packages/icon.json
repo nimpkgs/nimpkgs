@@ -5,6 +5,10 @@
   "description": "Generate icon files from PNG files.",
   "license": "MIT",
   "web": "https://github.com/bung87/icon",
+  "commit": {
+    "hash": "29b37b76704a14fe68a7e3523dc06d5c2ebf31f5",
+    "time": 1728205730
+  },
   "tags": [
     "icon"
   ]

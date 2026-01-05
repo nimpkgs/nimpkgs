@@ -5,6 +5,10 @@
   "description": "A modern and extensible serialization framework for Nim",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-serialization",
+  "commit": {
+    "hash": "b0f2fa32960ea532a184394b0f27be37bd80248b",
+    "time": 1764876650
+  },
   "versions": [
     {
       "tag": "v0.5.2",

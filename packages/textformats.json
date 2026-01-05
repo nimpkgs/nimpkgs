@@ -5,6 +5,10 @@
   "description": "Easy specification of text formats for structured data",
   "license": "ISC",
   "web": "https://github.com/ggonnella/textformats",
+  "commit": {
+    "hash": "ce5fb38f0ee5c2b645b0befe9874e94a53121d26",
+    "time": 1677512983
+  },
   "versions": [
     {
       "tag": "v1.2.3",

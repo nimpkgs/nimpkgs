@@ -5,6 +5,10 @@
   "description": "Library for shell scripting in nim",
   "license": "MIT",
   "web": "https://github.com/vegansk/nimshell",
+  "commit": {
+    "hash": "d92e710a031c88f953509940d15b0132fee11ddc",
+    "time": 1553652936
+  },
   "versions": [
     {
       "tag": "v0.0.3",

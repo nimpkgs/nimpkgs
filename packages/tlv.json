@@ -5,6 +5,10 @@
   "description": "Simplified TLV parsing for nim.",
   "license": "MIT",
   "web": "https://github.com/d4rckh/nim-tlv",
+  "commit": {
+    "hash": "ec491526ded01f787ab840cf4aa358733c331500",
+    "time": 1661955760
+  },
   "versions": [
     {
       "tag": "v1.1.0",

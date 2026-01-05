@@ -5,6 +5,10 @@
   "description": "High performance http server (https://tools.ietf.org/html/rfc2616) with persistent connection for nim language.",
   "license": "BSD",
   "web": "https://github.com/zendbit/nim_zfblast",
+  "commit": {
+    "hash": "3b705d5410110fad57fc3a1f4d64a5a4374526ba",
+    "time": 1731440253
+  },
   "versions": [
     {
       "tag": "v0.4.5",

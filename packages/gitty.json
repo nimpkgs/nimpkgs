@@ -5,6 +5,10 @@
   "description": "Easily create .gitignore files from your terminal",
   "license": "BSD-3-Clause",
   "web": "https://github.com/chrischtel/gitty",
+  "commit": {
+    "hash": "fdd9088efc41203c66a6a5eaee4bdf20b1329279",
+    "time": 1716808587
+  },
   "versions": [
     {
       "tag": "v0.1.6-rc",

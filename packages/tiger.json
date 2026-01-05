@@ -5,6 +5,10 @@
   "description": "Tiger hash function",
   "license": "MIT",
   "web": "https://git.sr.ht/~ehmry/nim_tiger",
+  "commit": {
+    "hash": "c81b088704b09ff08304bbc0211ac9b22e1bb77e",
+    "time": 1570718449
+  },
   "versions": [
     {
       "tag": "v0.2.1",

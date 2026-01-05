@@ -5,6 +5,10 @@
   "description": "Color management utility for X",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/xcm",
+  "commit": {
+    "hash": "00f159ebdc3df93724a1e1e046d502e17196e74f",
+    "time": 1573552423
+  },
   "versions": [
     {
       "tag": "v0.1.1",

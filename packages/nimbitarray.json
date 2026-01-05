@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://yesdrx.github.io/bitarray/",
   "doc": "https://yesdrx.github.io/bitarray/",
+  "commit": {
+    "hash": "75f36b24a1388bdc301ba219fd28bd1768b02885",
+    "time": 1630693135
+  },
   "tags": [
     "bitarray",
     "nim"

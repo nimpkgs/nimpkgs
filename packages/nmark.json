@@ -5,6 +5,10 @@
   "description": "fast markdown parser",
   "license": "MIT",
   "web": "https://github.com/kyoheiu/nmark",
+  "commit": {
+    "hash": "6aae07347e928b817c03940d68d0162ef3964204",
+    "time": 1628973566
+  },
   "tags": [
     "markdown",
     "parser",

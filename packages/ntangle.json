@@ -5,6 +5,10 @@
   "description": "Command-line utility for Tangling of Org mode documents",
   "license": "MIT",
   "web": "https://github.com/OrgTangle/ntangle",
+  "commit": {
+    "hash": "de3ec97c4650cc7b5875ee2614e4c1df5ccb5388",
+    "time": 1646338272
+  },
   "versions": [
     {
       "tag": "v0.7.0",

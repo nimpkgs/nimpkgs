@@ -5,6 +5,10 @@
   "description": "For working with S3-compatible storage APIs",
   "license": "MIT",
   "web": "https://github.com/guzba/depot",
+  "commit": {
+    "hash": "5969aefe03c6cdfdb4fb085f5b28e7a0cebd2029",
+    "time": 1706239494
+  },
   "tags": [
     "aws",
     "s3",

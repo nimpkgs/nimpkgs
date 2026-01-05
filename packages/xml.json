@@ -5,6 +5,10 @@
   "description": "Pure Nim XML parser",
   "license": "MIT",
   "web": "https://github.com/ba0f3/xml.nim",
+  "commit": {
+    "hash": "8ff9ff9be87a47c8089740484b3e1e4e2bd02b93",
+    "time": 1685504748
+  },
   "tags": [
     "xml",
     "parser",

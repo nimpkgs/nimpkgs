@@ -1,0 +1,17 @@
+{
+  "name": "nasp",
+  "url": "https://github.com/Niminem/Nasp",
+  "method": "git",
+  "description": "Nasp is a CLI tool for developing Apps Script projects on your local machine using the Nim programming language.",
+  "license": "MIT",
+  "web": "https://github.com/Niminem/Nasp",
+  "commit": {
+    "hash": "da4d2107e39813e0d4523058e072ad1c8ccb0d46",
+    "time": 0
+  },
+  "tags": [
+    "apps-script",
+    "google",
+    "api"
+  ]
+}

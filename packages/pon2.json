@@ -5,6 +5,10 @@
   "description": "Puyo Puyo and Nazo Puyo Application",
   "license": "Apache-2.0",
   "web": "https://github.com/izumiya-keisuke/pon2",
+  "commit": {
+    "hash": "77ef47ef5941ed8f36c8ca7182cc05649f899c72",
+    "time": 1767095988
+  },
   "versions": [
     {
       "tag": "v1.0.0",

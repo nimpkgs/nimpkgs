@@ -5,6 +5,10 @@
   "description": "Keyboard typing emulator",
   "license": "MIT",
   "web": "https://github.com/kijowski/autotyper",
+  "commit": {
+    "hash": "9513d5234b353b4ed28eac709d2b89d5152e6ac5",
+    "time": 1572408080
+  },
   "versions": [
     {
       "tag": "v0.2.0",

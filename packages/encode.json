@@ -5,6 +5,10 @@
   "description": "Encode/decode utf8 utf16 and utf32.",
   "license": "MIT",
   "web": "https://github.com/treeform/encode",
+  "commit": {
+    "hash": "4e0dbbb13f4fc7feee9b9ff35c1ca3c2d1894fa9",
+    "time": 1633047099
+  },
   "tags": [
     "encode",
     "utf8",

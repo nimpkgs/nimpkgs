@@ -5,6 +5,10 @@
   "description": "Library for X-ray reflectivity and transmission / absorption through matter",
   "license": "MIT",
   "web": "https://github.com/SciNim/xrayAttenuation",
+  "commit": {
+    "hash": "16ca5505e31e4d344876e23780ccc56128c7cd6e",
+    "time": 1726312926
+  },
   "versions": [
     {
       "tag": "v0.4.4",

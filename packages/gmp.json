@@ -5,6 +5,10 @@
   "description": "wrapper for the GNU multiple precision arithmetic library (GMP)",
   "license": "LGPLv3 or GPLv2",
   "web": "https://github.com/subsetpark/nim-gmp",
+  "commit": {
+    "hash": "9763376114325854c6c8661e099169a7e5718b3b",
+    "time": 1703286540
+  },
   "versions": [
     {
       "tag": "v0.2.5",

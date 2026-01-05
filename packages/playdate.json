@@ -5,6 +5,10 @@
   "description": "Playdate Nim bindings with extra features.",
   "license": "MIT",
   "web": "https://github.com/samdze/playdate-nim",
+  "commit": {
+    "hash": "4ccc41eb300255527061fc20f3cedef65322772c",
+    "time": 1740249851
+  },
   "versions": [
     {
       "tag": "v0.22.0",

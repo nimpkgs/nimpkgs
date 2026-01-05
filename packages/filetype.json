@@ -5,6 +5,10 @@
   "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/filetype",
+  "commit": {
+    "hash": "23836b6e57fc64054585069602dc86eaf3d2546e",
+    "time": 1691331833
+  },
   "versions": [
     {
       "tag": "v0.9.0",

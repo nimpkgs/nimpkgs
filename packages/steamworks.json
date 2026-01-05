@@ -5,6 +5,10 @@
   "description": "Steamworks SDK API for shipping games on Steam.",
   "license": "MIT",
   "web": "https://github.com/treeform/steamworks",
+  "commit": {
+    "hash": "69be5298f51cfd52c4d163bef27a3621fade9290",
+    "time": 1716694972
+  },
   "versions": [
     {
       "tag": "v0.1.1",

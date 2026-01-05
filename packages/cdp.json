@@ -5,6 +5,10 @@
   "description": "Low-level Nim wrapper for Chrome DevTools Protocol (CDP) v1.3 stable. Bend Chrome to your will with complete control over your browser. Scrape dynamic webpages, create browser automations, and beyond.",
   "license": "MIT",
   "web": "https://github.com/Niminem/ChromeDevToolsProtocol",
+  "commit": {
+    "hash": "472d58ed071e24cc17756f7431b6e392a0c1ce9b",
+    "time": 1720658792
+  },
   "tags": [
     "cdp",
     "chrome-devtools-protocol",

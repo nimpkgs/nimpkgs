@@ -5,6 +5,10 @@
   "description": "Moving the mouse around in nim inspired by python's pyautogui. Windows Only",
   "license": "GNU GENERAL PUBLIC LICENSE",
   "web": "https://github.com/Cooperzilla/nimautogui",
+  "commit": {
+    "hash": "ae55b75085a473ab9f1b84d769a6b8b14b3135fa",
+    "time": 1690838981
+  },
   "versions": [
     {
       "tag": "v0.1.2",

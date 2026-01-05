@@ -6,6 +6,10 @@
   "license": "Apache-2.0",
   "web": "https://metacall.io",
   "doc": "https://github.com/metacall/core/blob/develop/source/ports/nim_port/README.md",
+  "commit": {
+    "hash": "514b45f4cf58f7382461a9582b9aee05cf634ede",
+    "time": 1767047178
+  },
   "versions": [
     {
       "tag": "v0.9.21",

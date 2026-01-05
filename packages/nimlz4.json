@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the LZ4 library. There is also a high-level API for easy use",
   "license": "BSD",
   "web": "https://github.com/dfdeshom/nimlz4",
+  "commit": {
+    "hash": "211aac02a0643087fb82a7f1df8294fb0c6fe5e0",
+    "time": 1451357935
+  },
   "tags": [
     "wrapper",
     "compression",

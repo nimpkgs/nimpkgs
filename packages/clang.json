@@ -5,6 +5,10 @@
   "description": "Wrapper for libclang C headers",
   "license": "BSD 3-Clause",
   "web": "https://github.com/samdmarshall/libclang-nim",
+  "commit": {
+    "hash": "a274d788bec337ccec16d527156f4822a1221bf2",
+    "time": 1711408417
+  },
   "versions": [
     {
       "tag": "v0.59",

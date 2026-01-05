@@ -5,6 +5,10 @@
   "description": "Simple terminal ping graph",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/pinggraph",
+  "commit": {
+    "hash": "2fdf2397a699e76480fbaf46099153c4e5e635c1",
+    "time": 1693413043
+  },
   "versions": [
     {
       "tag": "v0.2.1",

@@ -5,6 +5,10 @@
   "description": "A notifications library for Dear ImGui",
   "license": "MIT",
   "web": "https://github.com/Patitotective/ImNotify",
+  "commit": {
+    "hash": "caacfbf976995e236f1b583256426e2e562ad626",
+    "time": 1664036635
+  },
   "tags": [
     "imgui",
     "notifications",

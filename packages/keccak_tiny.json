@@ -5,6 +5,10 @@
   "description": "A wrapper for the keccak-tiny C library",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-keccak-tiny",
+  "commit": {
+    "hash": "8e563f3171d30d5b3a8897a71f5e2f8f91fe9c65",
+    "time": 1554046248
+  },
   "tags": [
     "library",
     "sha3",

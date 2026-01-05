@@ -5,6 +5,10 @@
   "description": "2d/3d array and vector types with basic math for them",
   "license": "MIT",
   "web": "https://github.com/morganholly/vecray",
+  "commit": {
+    "hash": "9f421793dd4e349801b09e9b999f77dca713f424",
+    "time": 1751406439
+  },
   "tags": [
     "vector",
     "matrix",

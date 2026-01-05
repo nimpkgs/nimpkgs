@@ -5,6 +5,10 @@
   "description": "A nimterop wrapper for the opus audio decoder",
   "license": "MIT",
   "web": "https://github.com/capocasa/nim-opus",
+  "commit": {
+    "hash": "837a820e351602dd2efbea1bafdef372ac449d2e",
+    "time": 1611308642
+  },
   "tags": [
     "opus",
     "decoder",

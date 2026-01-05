@@ -5,6 +5,10 @@
   "description": "Subscribestar extractor",
   "license": "MIT",
   "web": "https://github.com/thisago/subscribestar",
+  "commit": {
+    "hash": "e37f996987464eab95e6a4bbe21535653ab178b0",
+    "time": 1678787326
+  },
   "tags": [
     "web",
     "library",

@@ -5,6 +5,10 @@
   "description": "Bindings for the Music Player Daemon C client library",
   "license": "BSD",
   "web": "https://github.com/lompik/libmpdclient.nim",
+  "commit": {
+    "hash": "b5189300878620ecb5acd4caf9761f4bc2b86fca",
+    "time": 1519796031
+  },
   "tags": [
     "MPD",
     "Music Player Daemon"

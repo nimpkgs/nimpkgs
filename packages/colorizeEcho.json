@@ -5,6 +5,10 @@
   "description": "colorizeEcho is a package which colorize echo message on Windows command prompt.",
   "license": "MIT",
   "web": "https://github.com/s3pt3mb3r/colorizeEcho",
+  "commit": {
+    "hash": "5c565be8d6e8a1b1e3d07b521c5de76e4f933f47",
+    "time": 1658122776
+  },
   "versions": [
     {
       "tag": "v1.2",

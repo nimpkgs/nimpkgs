@@ -5,6 +5,10 @@
   "description": "The Nim implementation of NanoID",
   "license": "MIT",
   "web": "https://github.com/icyphox/nanoid.nim",
+  "commit": {
+    "hash": "78f2004e66f66153dffa0410e4d7d60dec977b24",
+    "time": 1545584468
+  },
   "versions": [
     {
       "tag": "v0.2.0",

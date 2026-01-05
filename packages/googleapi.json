@@ -5,6 +5,10 @@
   "description": "Google API for nim",
   "license": "MIT",
   "web": "https://github.com/treeform/googleapi",
+  "commit": {
+    "hash": "4f23aba8546365dada9f9f53a3c43efa4f449013",
+    "time": 1698973970
+  },
   "versions": [
     {
       "tag": "v0.1.0",

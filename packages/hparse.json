@@ -5,6 +5,10 @@
   "description": "Text parsing utilities",
   "license": "Apache-2.0",
   "web": "https://github.com/haxscramper/hparse",
+  "commit": {
+    "hash": "4ac140a5e0802de1a3775f87f36cf33cf4a041d3",
+    "time": 1644907940
+  },
   "versions": [
     {
       "tag": "v0.2.6",

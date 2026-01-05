@@ -5,6 +5,10 @@
   "description": "GeoRef Argentina Government MultiSync API Client for Nim",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-georefar",
+  "commit": {
+    "hash": "8597c5f91c1614445ffee7042f2009a7aa78b6e9",
+    "time": 1624671960
+  },
   "tags": [
     "geo",
     "openstreetmap",

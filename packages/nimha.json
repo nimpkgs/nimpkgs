@@ -5,6 +5,10 @@
   "description": "Nim Home Assistant (NimHA) is a hub for combining multiple home automation devices and automating jobs",
   "license": "GPLv3",
   "web": "https://github.com/ThomasTJdev/nim_homeassistant",
+  "commit": {
+    "hash": "ae0a445a82295e7da13d0ded692351b065e9251a",
+    "time": 1575125832
+  },
   "versions": [
     {
       "tag": "v0.4.5",

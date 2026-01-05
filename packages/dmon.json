@@ -5,6 +5,10 @@
   "description": "Library to monitor file changes in a folder. A port of Dmon.",
   "license": "BSD-2-Clause",
   "web": "https://github.com/elcritch/dmon-nim",
+  "commit": {
+    "hash": "b068e274bd5a45e44ef91a337261dd3eee7423b5",
+    "time": 1738148823
+  },
   "versions": [
     {
       "tag": "v0.4.0",

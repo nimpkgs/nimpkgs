@@ -5,6 +5,10 @@
   "description": "Calendars, Timestamps and Timezones utilities.",
   "license": "MIT",
   "web": "https://github.com/treeform/chrono",
+  "commit": {
+    "hash": "f46160d469602757e25178702f4fc0d2789b49b7",
+    "time": 1729118497
+  },
   "versions": [
     {
       "tag": "v0.1.0",

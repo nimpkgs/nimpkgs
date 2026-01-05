@@ -5,6 +5,10 @@
   "description": "A nimble package for Entity Component System",
   "license": "MIT",
   "web": "https://github.com/glassesneo/ecslib",
+  "commit": {
+    "hash": "307c8311789a2e8f26e1d32a39ab61af12a1acb6",
+    "time": 1727002371
+  },
   "tags": [
     "game-development",
     "entity-component-system"

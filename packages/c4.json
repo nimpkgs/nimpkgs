@@ -6,6 +6,10 @@
   "license": "MPL-2.0",
   "web": "https://github.com/c0ntribut0r/cat-400",
   "doc": "https://github.com/c0ntribut0r/cat-400/tree/master/docs/tutorials",
+  "commit": {
+    "hash": "df9f2fea2430ffca8461279ca93a7a00c7c9a763",
+    "time": 1702914329
+  },
   "tags": [
     "game",
     "framework",

@@ -5,6 +5,10 @@
   "description": "A new awesome nimble package",
   "license": "MIT",
   "web": "https://github.com/luisacosta828/redismodules",
+  "commit": {
+    "hash": "6bd5a8766c447e4d295cf79d8e05ac9517c2556f",
+    "time": 1627099383
+  },
   "versions": [
     {
       "tag": "v0.2.0",

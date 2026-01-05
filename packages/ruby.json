@@ -5,6 +5,10 @@
   "description": "Bindings for libruby and high-level Ruby embedding framework",
   "license": "MPL-2.0",
   "web": "https://github.com/ryukoposting/ruby-nim",
+  "commit": {
+    "hash": "461c7760b2652a616d59c49cb57f3e5a1f9fe91b",
+    "time": 1651767958
+  },
   "versions": [
     {
       "tag": "v0.4.0",

@@ -6,6 +6,10 @@
   "license": "GPL-3.0-only",
   "web": "https://github.com/nirokay/nimegenerator",
   "doc": "https://nirokay.github.io/nim-docs/nimegenerator/nimegenerator.html",
+  "commit": {
+    "hash": "502ce0018e971efafee2058b3d6941e2c9541565",
+    "time": 1687181590
+  },
   "tags": [
     "random-name-generator",
     "random-word-generator",

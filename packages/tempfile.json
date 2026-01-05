@@ -5,6 +5,10 @@
   "description": "Temporary files and directories",
   "license": "MIT",
   "web": "https://github.com/OpenSystemsLab/tempfile.nim",
+  "commit": {
+    "hash": "96fe74e69838c99641e4f7138c987d5f346c26f1",
+    "time": 1633050241
+  },
   "versions": [
     {
       "tag": "v0.1.4",

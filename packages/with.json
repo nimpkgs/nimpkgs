@@ -5,6 +5,10 @@
   "description": "Simple 'with' macro for Nim",
   "license": "MIT",
   "web": "https://github.com/zevv/with",
+  "commit": {
+    "hash": "721ed4622cd12ed5601530532b1255d12b4536a3",
+    "time": 1675003254
+  },
   "versions": [
     {
       "tag": "v0.6.0",

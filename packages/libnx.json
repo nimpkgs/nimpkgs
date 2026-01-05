@@ -5,6 +5,10 @@
   "description": "A port of libnx to Nim",
   "license": "Unlicense",
   "web": "https://github.com/jyapayne/nim-libnx",
+  "commit": {
+    "hash": "01dda9d2ce50f3a2fc5b2601f43ffe8e533aa01d",
+    "time": 1567867084
+  },
   "tags": [
     "switch",
     "nintendo",

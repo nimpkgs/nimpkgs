@@ -5,6 +5,10 @@
   "description": "OpenAPI Code Generator",
   "license": "MIT",
   "web": "https://github.com/disruptek/openapi",
+  "commit": {
+    "hash": "4f584fd20985955c15b13f912aa38a998c300b2c",
+    "time": 1682451925
+  },
   "tags": [
     "api",
     "openapi",

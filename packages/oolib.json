@@ -5,6 +5,10 @@
   "description": "A nimble package which provides user-defined types, procedures, etc...",
   "license": "WTFPL",
   "web": "https://github.com/Glasses-Neo/OOlib",
+  "commit": {
+    "hash": "da2d84ee955fc83bae4b1f9513a698ad4f6ebb91",
+    "time": 1730549174
+  },
   "tags": [
     "oop",
     "metaprogramming"

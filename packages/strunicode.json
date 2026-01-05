@@ -5,6 +5,10 @@
   "description": "Swift-like unicode string handling",
   "license": "MIT",
   "web": "https://github.com/nitely/nim-strunicode",
+  "commit": {
+    "hash": "02bdbb027d3fe339a5fe64668fe5da10ddf14ffc",
+    "time": 1588852763
+  },
   "versions": [
     {
       "tag": "v0.8.0",

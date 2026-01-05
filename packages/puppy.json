@@ -5,6 +5,10 @@
   "description": "Fetch url resources via HTTP and HTTPS.",
   "license": "MIT",
   "web": "https://github.com/treeform/puppy",
+  "commit": {
+    "hash": "700044e8baa1d33b58847f4f6c13224d6a964867",
+    "time": 1758342645
+  },
   "tags": [
     "fetch",
     "http",

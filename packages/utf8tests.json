@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/flenniken/utf8tests/",
   "doc": "https://github.com/flenniken/utf8tests/",
+  "commit": {
+    "hash": "52cbdf830f3603047036070b086a1e5196df94d1",
+    "time": 1754167094
+  },
   "versions": [
     {
       "tag": "v0.1.2",

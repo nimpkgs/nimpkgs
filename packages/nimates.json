@@ -5,6 +5,10 @@
   "description": "Client library for the Postmates API",
   "license": "Apache",
   "web": "https://github.com/jamesalbert/nimates",
+  "commit": {
+    "hash": "97e426f64835ebc868d75b5f74470496426152e7",
+    "time": 1509780164
+  },
   "tags": [
     "library",
     "postmates",

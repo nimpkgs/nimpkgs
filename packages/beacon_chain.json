@@ -5,6 +5,10 @@
   "description": "An efficient Ethereum beacon chain client",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nimbus-eth2",
+  "commit": {
+    "hash": "ce4689f78b249bbb9e9ea4b55e5d6dc559fcffbb",
+    "time": 1766077058
+  },
   "versions": [
     {
       "tag": "v25.12.0",

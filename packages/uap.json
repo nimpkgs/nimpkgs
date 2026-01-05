@@ -6,6 +6,10 @@
   "license": "Apache-2.0",
   "web": "https://gitlab.com/artemklevtsov/nim-uap/",
   "doc": "https://artemklevtsov.gitlab.io/nim-uap/",
+  "commit": {
+    "hash": "7c4bfb5dabc9b44fb7755ca6116067f7ac4282d7",
+    "time": 1646888125
+  },
   "versions": [
     {
       "tag": "v1.0.5",

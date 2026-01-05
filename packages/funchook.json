@@ -5,6 +5,10 @@
   "description": "funchook wrapper",
   "license": "GPLv2",
   "web": "https://github.com/ba0f3/funchook.nim",
+  "commit": {
+    "hash": "0e54631d17133181d37474760a68ab724512b24a",
+    "time": 1747241958
+  },
   "tags": [
     "hook,",
     "hooking"

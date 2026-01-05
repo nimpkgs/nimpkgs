@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Nim implementation of NanoID, a tiny, secure, URL-friendly, unique string ID generator. Works with Linux and Windows!",
   "license": "GPL-3.0-or-later",
+  "commit": {
+    "hash": "f6197a00064a0779b0d0e5c927873d9afe1b4bc1",
+    "time": 1625186770
+  },
   "versions": [
     {
       "tag": "v0.2.0",

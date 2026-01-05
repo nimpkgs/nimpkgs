@@ -5,6 +5,10 @@
   "description": "Bindings for Chipmunk, a fast and lightweight 2D game physics library.",
   "license": "MIT",
   "web": "https://github.com/avahe-kellenberger/nim-chipmunk",
+  "commit": {
+    "hash": "d88d08251f9bb68d6c889eb372628b90eb66d602",
+    "time": 1633680408
+  },
   "versions": [
     {
       "tag": "v0.3.0",

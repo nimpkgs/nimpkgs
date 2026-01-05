@@ -5,6 +5,10 @@
   "description": "Flexible CBOR serialization not relying on run-time type information",
   "license": "Apache License 2.0",
   "web": "https://github.com/vacp2p/nim-cbor-serialization",
+  "commit": {
+    "hash": "00c0f382aafa0e2064bac7d999eda2ad5bc941f7",
+    "time": 1762465751
+  },
   "versions": [
     {
       "tag": "v0.1.0",

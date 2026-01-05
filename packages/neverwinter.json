@@ -5,6 +5,10 @@
   "description": "Neverwinter Nights 1 data accessor library",
   "license": "MIT",
   "web": "https://github.com/niv/neverwinter.nim",
+  "commit": {
+    "hash": "db755db7fdfa3e4245e30b2aebfbae6e75b6ea77",
+    "time": 1755419029
+  },
   "versions": [
     {
       "tag": "v1.1.0",

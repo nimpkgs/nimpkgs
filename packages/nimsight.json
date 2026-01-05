@@ -5,6 +5,10 @@
   "description": "LSP implementation for Nim based on `nim check`",
   "license": "MIT",
   "web": "https://github.com/ire4ever1190/nimsight",
+  "commit": {
+    "hash": "d7641be4d04dd19dab9a0635c4bb3e3ef6ab7761",
+    "time": 1767609763
+  },
   "tags": [
     "lsp",
     "tooling"

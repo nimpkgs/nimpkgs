@@ -5,6 +5,10 @@
   "description": "Nim implementation of simhash algoritim",
   "license": "MIT",
   "web": "https://github.com/bung87/simhash-nim",
+  "commit": {
+    "hash": "45cb37cb09867ea83ae083296342b55103185021",
+    "time": 1577221792
+  },
   "tags": [
     "simhash",
     "algoritim"

@@ -4,6 +4,10 @@
   "method": "git",
   "description": "NOSTR Protocol implementation.",
   "license": "GPL-3.0-or-later",
+  "commit": {
+    "hash": "fa6b60589b264937cbd372951117106d743a2100",
+    "time": 1698851534
+  },
   "tags": [
     "akito",
     "nostr",

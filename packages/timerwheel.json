@@ -5,6 +5,10 @@
   "description": "A high performance timer based on timerwheel for Nim.",
   "license": "Apache-2.0",
   "web": "https://github.com/ringabout/timerwheel",
+  "commit": {
+    "hash": "ee1cf5b40ed01b721daba214e4816949f6a2f79c",
+    "time": 1599025238
+  },
   "versions": [
     {
       "tag": "v0.1.2",

@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/planety/Prologue",
   "doc": "https://planety.github.io/prologue",
+  "commit": {
+    "hash": "a26fc513da07f18e57e62fa1e084acd1a2241705",
+    "time": 1760155251
+  },
   "versions": [
     {
       "tag": "v0.6.6",

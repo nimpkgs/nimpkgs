@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the Agify.io API",
   "license": "GPL-3.0-only",
   "web": "https://github.com/nemuelw/nim-agify",
+  "commit": {
+    "hash": "a182bcd789d8d640f7d4357b0113af614ec09c2d",
+    "time": 1752086549
+  },
   "tags": [
     "agify",
     "agifyio",

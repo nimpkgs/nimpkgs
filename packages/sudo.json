@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/FyraLabs/sudo.nim",
   "doc": "https://fyralabs.github.io/sudo.nim/",
+  "commit": {
+    "hash": "36455ab07524ca2a1896ef1bbad493ea9421c84b",
+    "time": 1713785389
+  },
   "tags": [
     "sudo",
     "linux",

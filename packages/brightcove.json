@@ -5,6 +5,10 @@
   "description": "Brightcove player parser",
   "license": "MIT",
   "web": "https://github.com/thisago/brightcove",
+  "commit": {
+    "hash": "6148be4442e8566020dae564cc69c783398888ec",
+    "time": 1661552845
+  },
   "tags": [
     "library",
     "extractor",

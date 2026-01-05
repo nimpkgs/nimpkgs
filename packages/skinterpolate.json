@@ -5,6 +5,10 @@
   "description": "Interpolation routines for data and animation.",
   "license": "MIT",
   "web": "https://github.com/Skrylar/skInterpolate",
+  "commit": {
+    "hash": "dbe7350b95dad3e7ff9a52c786df6a66392f5009",
+    "time": 1531517733
+  },
   "tags": [
     "interpolation",
     "animation"

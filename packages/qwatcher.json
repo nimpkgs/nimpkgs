@@ -5,6 +5,10 @@
   "description": "Monitor TCP connections and diagnose buffer and connectivity issues on Linux machines related to input and output queues",
   "license": "MIT",
   "web": "https://github.com/pouriyajamshidi/qwatcher",
+  "commit": {
+    "hash": "5caf2ad2973a8f7633cbb154f32dbef09a941758",
+    "time": 1762107071
+  },
   "versions": [
     {
       "tag": "v0.4.0",

@@ -5,6 +5,10 @@
   "description": "Variable length arrays for Nim",
   "license": "MIT",
   "web": "https://github.com/bpr/vla",
+  "commit": {
+    "hash": "27580a5023e9411d9608b79d9e191a632c8e17e4",
+    "time": 1621201010
+  },
   "tags": [
     "vla",
     "alloca"

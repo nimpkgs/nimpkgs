@@ -5,6 +5,10 @@
   "description": "Utilities for use with IP. It has functions for IPv4, IPv6 and CIDR.",
   "license": "MIT",
   "web": "https://github.com/rockcavera/nim-iputils",
+  "commit": {
+    "hash": "110cd297ed135ac2bc34492a002a9e484b745908",
+    "time": 1717134153
+  },
   "versions": [
     {
       "tag": "v0.2.2",

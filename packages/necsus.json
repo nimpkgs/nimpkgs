@@ -5,6 +5,10 @@
   "description": "Entity Component System",
   "license": "MIT",
   "web": "https://github.com/NecsusECS/Necsus",
+  "commit": {
+    "hash": "0701a47e9b61625183b9fb0713f170313e59a363",
+    "time": 1762916086
+  },
   "tags": [
     "ecs",
     "entity",

@@ -5,6 +5,10 @@
   "description": "Mustache in Nim",
   "license": "MIT",
   "web": "https://github.com/soasme/nim-mustache",
+  "commit": {
+    "hash": "274d13260485594b81e7fd74e7c93125c76ed1d4",
+    "time": 1679255638
+  },
   "versions": [
     {
       "tag": "v0.4.3",

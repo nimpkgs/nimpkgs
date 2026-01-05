@@ -5,6 +5,10 @@
   "description": "Glob pattern matching for Nim.",
   "license": "MIT",
   "web": "https://github.com/treeform/globby",
+  "commit": {
+    "hash": "ede865380aab166a2f7b136cabc1d9ead1857a03",
+    "time": 1658704066
+  },
   "tags": [
     "glob"
   ]

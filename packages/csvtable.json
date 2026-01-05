@@ -5,6 +5,10 @@
   "description": "tools for handling CSV files (comma or tab-separated) with an API similar to Python's CSVDictReader and -Writer.",
   "license": "MIT",
   "web": "https://github.com/apahl/csvtable",
+  "commit": {
+    "hash": "87001dfde274e09d24d1682226b40235f600b3cd",
+    "time": 1586937464
+  },
   "versions": [
     {
       "tag": "v0.3.2",

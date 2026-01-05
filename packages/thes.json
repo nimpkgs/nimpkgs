@@ -5,6 +5,10 @@
   "description": "Thesaurus CLI/Library & Analyzer in Nim",
   "license": "MIT/ISC",
   "web": "https://github.com/c-blake/thes",
+  "commit": {
+    "hash": "2e5dcf8a9e77972ee17822d290aaa96d6dfe85bf",
+    "time": 1761938944
+  },
   "tags": [
     "thesaurus",
     "definitions",

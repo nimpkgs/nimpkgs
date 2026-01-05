@@ -5,6 +5,10 @@
   "description": "Nim port of a simple 2D physics engine",
   "license": "zlib",
   "web": "https://github.com/matkuki/Nim-Impulse-Engine",
+  "commit": {
+    "hash": "a22f763f5c76e90916eb9b88019579408171092f",
+    "time": 1641034036
+  },
   "tags": [
     "physics",
     "engine",

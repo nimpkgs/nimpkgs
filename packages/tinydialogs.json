@@ -5,6 +5,10 @@
   "description": "Tiny file dialogs Nim bindings.",
   "license": "MIT",
   "web": "https://github.com/Patitotective/tinydialogs",
+  "commit": {
+    "hash": "c8d2450501a01ef02edd100629e5c716f3cfacba",
+    "time": 1761769455
+  },
   "tags": [
     "dialogs",
     "file-dialogs"

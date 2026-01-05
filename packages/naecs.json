@@ -5,6 +5,10 @@
   "description": "A high-performance, archetype-based Entity Component System for Nim.",
   "license": "MIT",
   "web": "https://hammer2900.github.io/naecs/",
+  "commit": {
+    "hash": "64b8c764e600b539055871ab15aa1fbcfe7e1fcd",
+    "time": 1762870067
+  },
   "tags": [
     "ecs",
     "gamedev",

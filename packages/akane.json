@@ -5,6 +5,10 @@
   "description": "The Nim asynchronous web framework.",
   "license": "MIT",
   "web": "https://github.com/ethosa/akane",
+  "commit": {
+    "hash": "7766be8b1de3fe079c4268da9eb27d74f36c5019",
+    "time": 1680073949
+  },
   "versions": [
     {
       "tag": "v0.1.7",

@@ -6,6 +6,10 @@
   "license": "Apache-2.0",
   "web": "https://github.com/D-Nice/argon2_bind",
   "doc": "https://d-nice.github.io/argon2_bind/",
+  "commit": {
+    "hash": "014b22d17a409c0b80753ea709e5cbc395b0e918",
+    "time": 1582674086
+  },
   "versions": [
     {
       "tag": "v0.1.1",

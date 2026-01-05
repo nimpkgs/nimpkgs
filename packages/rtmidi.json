@@ -5,6 +5,10 @@
   "description": "Nim bindings for RtMidi, a cross-platform realtime MIDI input/output library.",
   "license": "MIT",
   "web": "https://github.com/stoneface86/nim-rtmidi/",
+  "commit": {
+    "hash": "e6a1ad4caeb9e3bb500b823a4c72f36d18d1c1ce",
+    "time": 1692626547
+  },
   "versions": [
     {
       "tag": "v6.0.0.0",

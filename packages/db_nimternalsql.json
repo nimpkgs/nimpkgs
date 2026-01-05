@@ -5,6 +5,10 @@
   "description": "An in-memory SQL database library",
   "license": "MIT",
   "web": "https://github.com/rehartmann/nimternalsql",
+  "commit": {
+    "hash": "419c299a28192941ac086988dcc56851478c50c2",
+    "time": 1761759268
+  },
   "versions": [
     {
       "tag": "v1.3.2",

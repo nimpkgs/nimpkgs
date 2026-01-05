@@ -5,6 +5,10 @@
   "description": "The most minimal cross-platform GUI library - in Nim.",
   "license": "MIT",
   "web": "https://github.com/CardealRusso/fenstim",
+  "commit": {
+    "hash": "1213fca41df0bced151ec9d3c08cefc9b0951b01",
+    "time": 1729182848
+  },
   "tags": [
     "gui",
     "desktop-app",

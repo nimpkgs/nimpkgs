@@ -5,6 +5,10 @@
   "description": "CLI tool to get Youtube video captions (with chapters)",
   "license": "MIT",
   "web": "https://github.com/thisago/ytcc",
+  "commit": {
+    "hash": "efb05f46230f034dda9387200e63f940420a9e2c",
+    "time": 1700353762
+  },
   "tags": [
     "cli",
     "youtube",

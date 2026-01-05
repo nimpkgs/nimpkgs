@@ -5,6 +5,10 @@
   "description": "Nim REST client to Vikunja",
   "license": "apache 2.0",
   "web": "https://github.com/ruivieira/nim-vikunja",
+  "commit": {
+    "hash": "cab20213869bc9ed5fc0543c4d283fe3d5c28232",
+    "time": 1674513245
+  },
   "versions": [
     {
       "tag": "v0.1.2",

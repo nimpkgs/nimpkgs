@@ -5,6 +5,10 @@
   "description": "GFF <-> NWNT Converter (NeverWinter Nights Text)",
   "license": "MIT",
   "web": "https://github.com/WilliamDraco/NWNT",
+  "commit": {
+    "hash": "692bd26a0a2c3f0becf1b3ab7b733cf5f2264976",
+    "time": 1695644786
+  },
   "versions": [
     {
       "tag": "v1.4.1",

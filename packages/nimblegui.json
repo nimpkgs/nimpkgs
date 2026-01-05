@@ -5,6 +5,10 @@
   "description": "A simple GUI front for Nimble.",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/nim_nimble_gui",
+  "commit": {
+    "hash": "67f0e1612b9aca9d61df0d00ed2e4c1cc2c174f7",
+    "time": 1593843809
+  },
   "versions": [
     {
       "tag": "v0.2.2",

@@ -5,6 +5,10 @@
   "description": "This module is a port of the Java implementation of the Zhang-Shasha algorithm for tree edit distance",
   "license": "MIT",
   "web": "https://github.com/PMunch/zhangshasha",
+  "commit": {
+    "hash": "06ff29e1d9a3f7992ccf2c2fbc10cf6824e9c7b0",
+    "time": 1585949171
+  },
   "versions": [
     {
       "tag": "v0.2.0",

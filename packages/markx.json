@@ -5,6 +5,10 @@
   "description": "markx selects execution targets with editor and executes commands.",
   "license": "MIT",
   "web": "https://github.com/jiro4989/markx",
+  "commit": {
+    "hash": "beebd4646ac16dc9d38c108753c467f677dbc1b6",
+    "time": 1647477987
+  },
   "versions": [
     {
       "tag": "v1.0.2",

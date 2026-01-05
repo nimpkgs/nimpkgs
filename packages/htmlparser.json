@@ -5,6 +5,10 @@
   "description": "Parse a HTML document in Nim.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/htmlparser",
+  "commit": {
+    "hash": "c3ab4d5157759ad1a3b67be5b4562f44c55c0ef7",
+    "time": 1764066526
+  },
   "versions": [
     {
       "tag": "v0.1.0",

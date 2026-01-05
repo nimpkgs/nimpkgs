@@ -5,6 +5,10 @@
   "description": "A static site generator written in Nim",
   "license": "2-clause BSD",
   "web": "https://github.com/DangerOnTheRanger/nimatic",
+  "commit": {
+    "hash": "430c5158a533961bf17ec28266060395d0c9522d",
+    "time": 1593092201
+  },
   "tags": [
     "static",
     "generator",

@@ -5,6 +5,10 @@
   "description": "pnm is library for PNM (Portable AnyMap).",
   "license": "MIT",
   "web": "https://github.com/jiro4989/pnm",
+  "commit": {
+    "hash": "556633d87e65f73f3917321fe1ea59afc2dc9302",
+    "time": 1612116174
+  },
   "versions": [
     {
       "tag": "v2.1.1",

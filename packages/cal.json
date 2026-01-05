@@ -5,6 +5,10 @@
   "description": "A simple interactive calculator",
   "license": "MIT",
   "web": "https://github.com/ringabout/cal",
+  "commit": {
+    "hash": "d5a242613274d76cf12cf7cfce97fcd565d94c52",
+    "time": 1619675299
+  },
   "versions": [
     {
       "tag": "v0.2.0",

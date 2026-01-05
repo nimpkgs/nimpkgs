@@ -5,6 +5,10 @@
   "description": "A wechat payment sdk for nim.",
   "license": "MIT",
   "web": "https://github.com/lihf8515/wxpay",
+  "commit": {
+    "hash": "caea4db4c833953196fb726dbed0fe5e6109a342",
+    "time": 1608724192
+  },
   "tags": [
     "wxpay",
     "nim"

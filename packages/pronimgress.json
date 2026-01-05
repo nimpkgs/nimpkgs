@@ -5,6 +5,10 @@
   "description": "Simple text progress bars in Nim!",
   "license": "MIT",
   "web": "https://github.com/bichanna/pronimgress#pronimgress",
+  "commit": {
+    "hash": "17ca09446ef059f0b51db0e235bee8b4e429d30a",
+    "time": 1648485826
+  },
   "versions": [
     {
       "tag": "v0.1.0",

@@ -5,6 +5,10 @@
   "description": "pure Nim CSS Grid layout engine",
   "license": "MIT",
   "web": "https://github.com/elcritch/cssgrid",
+  "commit": {
+    "hash": "d4e60169329a82b9fdfc6e84ee42da53b31b7b49",
+    "time": 1748468761
+  },
   "versions": [
     {
       "tag": "v0.13.7",

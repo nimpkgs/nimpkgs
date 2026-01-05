@@ -5,6 +5,10 @@
   "description": "A simple GUI for choosenim.",
   "license": "MIT",
   "web": "https://github.com/ThomasTJdev/choosenim_gui",
+  "commit": {
+    "hash": "7d508fec5905a7124949746adaf8ac20b86a0a14",
+    "time": 1586673015
+  },
   "versions": [
     {
       "tag": "v0.1.0",

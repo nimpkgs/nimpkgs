@@ -5,6 +5,10 @@
   "description": "jtr is a commmand of JSON tree viewer with type",
   "license": "MIT",
   "web": "https://github.com/u1and0/jtr",
+  "commit": {
+    "hash": "382280161cdfba394e13c028f74324cc07198e13",
+    "time": 1746425598
+  },
   "versions": [
     {
       "tag": "v0.2.8",

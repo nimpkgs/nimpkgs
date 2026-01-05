@@ -5,6 +5,10 @@
   "description": "Simple nimble package to log monotic timings",
   "license": "MIT",
   "web": "https://github.com/Clonkk/timelog",
+  "commit": {
+    "hash": "c3970e7290fa5eff8964b8e523f6f2a9184f5a87",
+    "time": 1634635648
+  },
   "versions": [
     {
       "tag": "v1.3.0",

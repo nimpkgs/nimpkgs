@@ -5,6 +5,10 @@
   "description": "Dependency for asyncproc and shellcmd package. Small utilities not worthing a package. Not meant to be used in production",
   "license": "MIT",
   "web": "https://github.com/Alogani/aloganimisc",
+  "commit": {
+    "hash": "b29ab4f7e8f321090f6638b73cc7906762379498",
+    "time": 1714556095
+  },
   "versions": [
     {
       "tag": "v0.1.1",

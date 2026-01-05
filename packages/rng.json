@@ -5,6 +5,10 @@
   "description": "Basic wrapper over std/sysrand",
   "license": "BSD-3-Clause",
   "web": "https://pony.biz/rng/",
+  "commit": {
+    "hash": "5e4f1befcf5f020fcece33845ba6a1dabba3f8f7",
+    "time": 1748791225
+  },
   "versions": [
     {
       "tag": "v0.2.0",

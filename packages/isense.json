@@ -5,6 +5,10 @@
   "description": "Bindings for the InterSense SDK",
   "license": "MIT",
   "web": "https://github.com/nimious/isense",
+  "commit": {
+    "hash": "cb59c2f7aad209cda8a188d7089d929c8fa55eab",
+    "time": 1454174737
+  },
   "tags": [
     "binding",
     "isense",

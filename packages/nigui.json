@@ -5,6 +5,10 @@
   "description": "NiGui is a cross-platform, desktop GUI toolkit using native widgets.",
   "license": "MIT",
   "web": "https://github.com/trustable-code/NiGui",
+  "commit": {
+    "hash": "69f4a79173b11514aa90649ff6bd887ed83f3641",
+    "time": 1763569785
+  },
   "versions": [
     {
       "tag": "v0.2.8",

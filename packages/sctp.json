@@ -5,6 +5,10 @@
   "description": "Userspace SCTP bindings",
   "license": "BSD",
   "web": "https://github.com/metacontainer/sctp.nim",
+  "commit": {
+    "hash": "d207c3ec1485252a25886cde6075cadaeae5d5de",
+    "time": 1547926552
+  },
   "tags": [
     "sctp",
     "networking",

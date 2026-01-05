@@ -5,6 +5,10 @@
   "description": "mConnect Standardised Response Package",
   "license": "MIT",
   "web": "https://github.com/abbeymart/mcresponse-nim",
+  "commit": {
+    "hash": "1f188b49a2cb4e02b91196f045d1d7d301e60d3e",
+    "time": 1669155163
+  },
   "versions": [
     {
       "tag": "v0.4.0",

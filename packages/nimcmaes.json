@@ -5,6 +5,10 @@
   "description": "Nim CMAES library",
   "license": "Apache-2.0",
   "web": "https://github.com/zevv/nimcmaes",
+  "commit": {
+    "hash": "3c49941a21709e591fb95604e264cb7a46a73f4b",
+    "time": 1593198224
+  },
   "tags": [
     "cmaes",
     "optimization"

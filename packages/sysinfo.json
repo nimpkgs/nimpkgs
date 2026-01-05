@@ -5,6 +5,10 @@
   "description": "Cross platform system information.",
   "license": "MIT",
   "web": "https://github.com/treeform/sysinfo",
+  "commit": {
+    "hash": "ebbf985a3cb1f600d7c21a6f4515a2c1ebdaadfd",
+    "time": 1658621454
+  },
   "versions": [
     {
       "tag": "v0.2.1",

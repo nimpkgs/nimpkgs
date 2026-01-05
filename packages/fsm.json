@@ -5,6 +5,10 @@
   "description": "A simple finite-state machine for @nim-lang",
   "license": "MIT",
   "web": "https://github.com/ba0f3/fsm.nim",
+  "commit": {
+    "hash": "ca6e14a5562e46805ed89593cb63bf6236939772",
+    "time": 1650800246
+  },
   "tags": [
     "fsm",
     "finite",

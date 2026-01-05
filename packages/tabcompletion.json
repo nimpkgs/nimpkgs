@@ -5,6 +5,10 @@
   "description": "stdin tab completion library",
   "license": "MIT",
   "web": "https://github.com/z-kk/tabcompletion",
+  "commit": {
+    "hash": "8c88ad115342fffb23b53d6192faab5910c90c6b",
+    "time": 1665805549
+  },
   "tags": [
     "stdin",
     "readline",

@@ -5,6 +5,10 @@
   "description": "micro and elegant web framework",
   "license": "Apache License 2.0",
   "web": "https://github.com/bung87/scorper",
+  "commit": {
+    "hash": "de2ee129fb6809be4ac5118bc700d3d7716112e2",
+    "time": 1751505041
+  },
   "versions": [
     {
       "tag": "v1.2.5",

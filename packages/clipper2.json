@@ -5,6 +5,10 @@
   "description": "Bindings for Clipper2Lib: Polygon Clipping and Offsetting Library from Angus Johnson",
   "license": "boost",
   "web": "https://github.com/scemino/clipper2",
+  "commit": {
+    "hash": "648a008525c9438a0f687e931ce2bbad665df2a2",
+    "time": 1670182741
+  },
   "versions": [
     {
       "tag": "v0.2.0",

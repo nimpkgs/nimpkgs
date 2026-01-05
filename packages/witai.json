@@ -5,6 +5,10 @@
   "description": "wit.ai client",
   "license": "MIT",
   "web": "https://github.com/xmonader/witai-nim",
+  "commit": {
+    "hash": "bc22935002c72edabe4cfe3e01009fd4a1bc9453",
+    "time": 1583459738
+  },
   "tags": [
     "witai",
     "wit.ai",

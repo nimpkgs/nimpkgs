@@ -5,6 +5,10 @@
   "description": "Bindings for EGL, the native platform interface for rendering APIs.",
   "license": "MIT",
   "web": "https://github.com/nimious/egl",
+  "commit": {
+    "hash": "83439cd11aceb1b76b50f628d80fdd740b1077e3",
+    "time": 1561091370
+  },
   "tags": [
     "binding",
     "khronos",

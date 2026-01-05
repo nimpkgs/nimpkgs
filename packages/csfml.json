@@ -5,6 +5,10 @@
   "description": "Bindings for Simple and Fast Multimedia Library (through CSFML)",
   "license": "zlib",
   "web": "https://github.com/oprypin/nim-csfml",
+  "commit": {
+    "hash": "9296116048ac1119e0878ceef980d7db6867ad74",
+    "time": 1665928512
+  },
   "versions": [
     {
       "tag": "v2.3.1",

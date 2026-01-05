@@ -5,6 +5,10 @@
   "description": "Lua-like asymmetric coroutine. Nim wrapper of minicoro in C",
   "license": "Unlicense",
   "web": "https://git.envs.net/iacore/minicoro-nim",
+  "commit": {
+    "hash": "a2ef4bd4e93da5ff35ee75ef0b1f5891a5312962",
+    "time": 1678906926
+  },
   "versions": [
     {
       "tag": "v0.1.3",

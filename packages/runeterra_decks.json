@@ -5,6 +5,10 @@
   "description": "Legends of Runeterra deck/card code encoder/decoder",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/runeterra_decks",
+  "commit": {
+    "hash": "50321b79608d160e30771c7f2587a3419aa9535e",
+    "time": 1694798341
+  },
   "versions": [
     {
       "tag": "v0.9.1",

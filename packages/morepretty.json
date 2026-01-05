@@ -5,6 +5,10 @@
   "description": "Morepretty - Does more than nimpretty.",
   "license": "MIT",
   "web": "https://github.com/treeform/morepretty",
+  "commit": {
+    "hash": "10e7b2754e5a34f758789e64804d90dad6d2953f",
+    "time": 1683587314
+  },
   "tags": [
     "nimpretty",
     "autoformat",

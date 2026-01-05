@@ -5,6 +5,10 @@
   "description": "Macro-oriented full-stack web-framework written with ♥",
   "license": "MIT",
   "web": "https://github.com/HapticX/happyx",
+  "commit": {
+    "hash": "8c3fad71810c9240fee527863f42d294a89ce4f4",
+    "time": 1759407714
+  },
   "versions": [
     {
       "tag": "v4.7.4",

@@ -5,6 +5,10 @@
   "description": "wrapper for the Duktape embeddable Javascript engine",
   "license": "MIT",
   "web": "https://github.com/manguluka/duktape-nim",
+  "commit": {
+    "hash": "78b8f7fcc0c592b6766e9121c22ce1fd2f66c3db",
+    "time": 1546709847
+  },
   "tags": [
     "js",
     "javascript",

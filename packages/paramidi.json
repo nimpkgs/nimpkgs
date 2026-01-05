@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A library for making MIDI music",
   "license": "Public Domain",
+  "commit": {
+    "hash": "1fbbd600a7ccaee8b8810e1e6a4b9403a2aa89af",
+    "time": 1678957053
+  },
   "tags": [
     "midi",
     "synthesizer"

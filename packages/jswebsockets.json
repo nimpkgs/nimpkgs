@@ -5,6 +5,10 @@
   "description": "Websockets wrapper for nim js backend.",
   "license": "MIT",
   "web": "https://stisa.space/jswebsockets/",
+  "commit": {
+    "hash": "ff0ceecc4c071fa8aecbf223d678ac54af120f8d",
+    "time": 1490475966
+  },
   "tags": [
     "js",
     "javascripts",

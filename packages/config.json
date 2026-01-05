@@ -5,6 +5,10 @@
   "description": "A library for working with the CFG configuration format",
   "license": "BSD-3-Clause",
   "web": "https://docs.red-dove.com/cfg/index.html",
+  "commit": {
+    "hash": "8d9c3af61030c72be5cbac7135991ec118ed03ed",
+    "time": 1741704232
+  },
   "tags": [
     "configuration",
     "config",

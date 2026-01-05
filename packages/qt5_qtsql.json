@@ -5,6 +5,10 @@
   "description": "Binding for Qt 5's Qt SQL library that integrates with the features of the Nim language. Uses one API for multiple database engines.",
   "license": "MIT",
   "web": "https://github.com/philip-wernersbach/nim-qt5_qtsql",
+  "commit": {
+    "hash": "c057ad80971be80c0a2489e0ed6826cbca856aa6",
+    "time": 1501020595
+  },
   "tags": [
     "library",
     "wrapper",

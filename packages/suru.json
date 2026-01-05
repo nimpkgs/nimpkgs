@@ -4,6 +4,10 @@
   "method": "git",
   "description": "A tqdm-style progress bar in Nim",
   "license": "MIT",
+  "commit": {
+    "hash": "1142919e22e35da557f7335cbf8d1105e1b1734e",
+    "time": 1710251606
+  },
   "versions": [
     {
       "tag": "v0.3.1",

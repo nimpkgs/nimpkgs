@@ -5,6 +5,10 @@
   "description": "JSON in Nim with Go-like field tags",
   "license": "MIT",
   "web": "https://github.com/guzba/sunny",
+  "commit": {
+    "hash": "c2aa1e6809c09011d33bf75e54ac8499d23bac0d",
+    "time": 1728445607
+  },
   "tags": [
     "json"
   ]

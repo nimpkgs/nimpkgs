@@ -5,6 +5,10 @@
   "description": "Distributions is a Nim library for distributions and their functions.",
   "license": "Apache-2.0 License",
   "web": "https://github.com/ayman-albaz/distributions",
+  "commit": {
+    "hash": "4f9a8de49e5ed9a8c0702ac34a7e0bc320a73a11",
+    "time": 1657983936
+  },
   "versions": [
     {
       "tag": "v0.2.0",

@@ -5,6 +5,10 @@
   "description": "A wrapper for the vk.com API (russian social network)",
   "license": "MIT",
   "web": "https://github.com/nimbackup/nimvkapi",
+  "commit": {
+    "hash": "3af1998f0d9bf07c15bb0f916757e4e7994aee31",
+    "time": 1557685988
+  },
   "tags": [
     "wrapper",
     "vkontakte",

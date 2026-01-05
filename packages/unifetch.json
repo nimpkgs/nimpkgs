@@ -5,6 +5,10 @@
   "description": "Multi backend HTTP fetching",
   "license": "MIT",
   "web": "https://github.com/thisago/unifetch",
+  "commit": {
+    "hash": "009c660a4096eb1b5903634bb9593106adb4d389",
+    "time": 1700121019
+  },
   "tags": [
     "library",
     "web",

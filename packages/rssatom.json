@@ -5,6 +5,10 @@
   "description": "rssatom is a package designed to read and create RSS and Atom feeds",
   "license": "MIT",
   "web": "https://codeberg.org/samsamros/rssatom",
+  "commit": {
+    "hash": "272d5d67793980c2be8ec0dfec31552f5f5abb3e",
+    "time": 1705329124
+  },
   "versions": [
     {
       "tag": "v2.7",

@@ -5,6 +5,10 @@
   "description": "Nim implementation of the standard unix drand48 pseudo random number generator",
   "license": "BSD3",
   "web": "https://github.com/JeffersonLab/drand48",
+  "commit": {
+    "hash": "d57d1852b0d501957d2d30463235f912e0bda72d",
+    "time": 1608674786
+  },
   "versions": [
     {
       "tag": "v1.1.2",

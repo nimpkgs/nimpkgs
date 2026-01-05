@@ -5,6 +5,10 @@
   "description": "A macro to create special procedural types for parameters.",
   "license": "MIT",
   "web": "https://github.com/sls1005/anycallconv",
+  "commit": {
+    "hash": "17a69728bc914443739b4d0bb5bf7be2ce845976",
+    "time": 1692675421
+  },
   "versions": [
     {
       "tag": "v0.1.0",

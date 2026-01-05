@@ -5,6 +5,10 @@
   "description": "A URL shortener cli app. using bit.ly",
   "license": "MIT",
   "web": "https://github.com/jabbalaci/UrlShortener",
+  "commit": {
+    "hash": "53769e0b85b8b782df5cb54c51b5487e293e9906",
+    "time": 1659770995
+  },
   "versions": [
     {
       "tag": "v0.1.0",

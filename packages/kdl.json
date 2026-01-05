@@ -5,6 +5,10 @@
   "description": "KDL document language Nim implementation",
   "license": "MIT",
   "web": "https://github.com/Patitotective/kdl-nim",
+  "commit": {
+    "hash": "3a5d0b45bde5c3b75e08176cb660b33b0aae93ea",
+    "time": 1732030441
+  },
   "tags": [
     "kdl",
     "parser",

@@ -5,6 +5,10 @@
   "description": "A nim wrapper for the Argon2 hashing library",
   "license": "MIT",
   "web": "https://github.com/Ahrotahn/argon2",
+  "commit": {
+    "hash": "8e4308c0fe2f38e9882ba8f6d5f17ad9cd37fb90",
+    "time": 1703776237
+  },
   "versions": [
     {
       "tag": "v1.1.0",

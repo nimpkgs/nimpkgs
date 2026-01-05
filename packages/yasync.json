@@ -5,6 +5,10 @@
   "description": "Yet another async/await for Nim",
   "license": "MIT",
   "web": "https://github.com/yglukhov/yasync",
+  "commit": {
+    "hash": "7b1762b86147d01320ec1f08364e67a83488f320",
+    "time": 1761430562
+  },
   "tags": [
     "async",
     "futures"

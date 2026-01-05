@@ -5,6 +5,10 @@
   "description": "Create HyperText with Nim.",
   "license": "MIT",
   "web": "https://github.com/schneiderfelipe/hyperscript",
+  "commit": {
+    "hash": "f02971acedabe1dec46e604136ab568bb93127f3",
+    "time": 1625449169
+  },
   "versions": [
     {
       "tag": "v0.1-alpha",

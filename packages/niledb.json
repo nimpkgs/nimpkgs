@@ -5,6 +5,10 @@
   "description": "Key/Value storage into a fast file-hash",
   "license": "MIT",
   "web": "https://github.com/JeffersonLab/niledb.git",
+  "commit": {
+    "hash": "92d058ee0a776f6e84ec20a41b2cd774a26d6a12",
+    "time": 1741954807
+  },
   "versions": [
     {
       "tag": "v1.3.2",

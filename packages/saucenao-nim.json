@@ -5,6 +5,10 @@
   "description": "Asynchronous Nim wrapper for SauceNAO's API",
   "license": "LGPL-3.0-or-later",
   "web": "https://github.com/filvyb/saucenao-nim",
+  "commit": {
+    "hash": "0fc9ebb31c5e45e47c94e6c63637e5e563c814f1",
+    "time": 1707741244
+  },
   "tags": [
     "async",
     "api",

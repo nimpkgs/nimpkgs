@@ -5,6 +5,10 @@
   "description": "Modular multithreading Linux HTTP server",
   "license": "MIT",
   "web": "https://github.com/olliNiinivaara/GuildenStern",
+  "commit": {
+    "hash": "cda3fae8d3e6a2679e345b9f89f2b472ced50c28",
+    "time": 1739190187
+  },
   "tags": [
     "http",
     "server"

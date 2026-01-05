@@ -5,6 +5,10 @@
   "description": "Simple diff and sub-image finder with SIMD based on Pixie",
   "license": "Apache-2.0",
   "web": "https://github.com/elcritch/diffy",
+  "commit": {
+    "hash": "4d4281dac2e58f67f64380e02bcb0a94578b5920",
+    "time": 1758110582
+  },
   "versions": [
     {
       "tag": "v0.3.0",

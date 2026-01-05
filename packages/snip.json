@@ -5,6 +5,10 @@
   "description": "Text editor to speed up testing code snippets",
   "license": "MIT",
   "web": "https://github.com/genotrance/snip",
+  "commit": {
+    "hash": "62234fcf72f4e09508bea4fd9c0fe920da278eb1",
+    "time": 1670617345
+  },
   "versions": [
     {
       "tag": "v0.2.3",

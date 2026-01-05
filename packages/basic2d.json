@@ -5,6 +5,10 @@
   "description": "Deprecated module for vector/matrices operations.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/basic2d",
+  "commit": {
+    "hash": "6187392211fc701067e3c206a3024d291b98804c",
+    "time": 1506870001
+  },
   "tags": [
     "deprecated",
     "vector",

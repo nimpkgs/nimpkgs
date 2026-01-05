@@ -5,6 +5,10 @@
   "description": "Declarative packets system for serializing/deserializing and marshalling",
   "license": "MIT",
   "web": "https://github.com/Q-Master/packets.nim",
+  "commit": {
+    "hash": "f818a746884abb361b930fa9d16a20852ef68acf",
+    "time": 1764608487
+  },
   "versions": [
     {
       "tag": "v2.3.0",

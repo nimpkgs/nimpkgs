@@ -5,6 +5,10 @@
   "description": "Google Play APK Uploader",
   "license": "MIT",
   "web": "https://github.com/yglukhov/gplay",
+  "commit": {
+    "hash": "b4154578f9a3b12a04fbe8422a2140614340cd78",
+    "time": 1659526369
+  },
   "tags": [
     "google",
     "play",

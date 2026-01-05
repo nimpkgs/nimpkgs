@@ -5,6 +5,10 @@
   "description": "Nim Library for Azure Cognitive Services Translate",
   "license": "MIT",
   "web": "https://github.com/williamhatcher/azure_translate",
+  "commit": {
+    "hash": "0bffe47bdc59fc0ea4af8b1116e08c135aef1f1a",
+    "time": 1615150699
+  },
   "versions": [
     {
       "tag": "v0.3.0",

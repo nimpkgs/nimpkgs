@@ -5,6 +5,10 @@
   "description": "An efficient library for asynchronous programming",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-chronos",
+  "commit": {
+    "hash": "8ed098ef61820883f2315c79f6df8fe9f471183f",
+    "time": 1766848412
+  },
   "versions": [
     {
       "tag": "v4.0.4",

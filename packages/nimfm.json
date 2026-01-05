@@ -5,6 +5,10 @@
   "description": "A library for factorization machines in Nim.",
   "license": "MIT",
   "web": "https://github.com/neonnnnn/nimfm",
+  "commit": {
+    "hash": "377202d483b8085afd75b0ec955e1abb40e11761",
+    "time": 1610509151
+  },
   "versions": [
     {
       "tag": "v0.3.0",

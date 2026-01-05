@@ -5,6 +5,10 @@
   "description": "Nim bindings for p5.js.",
   "license": "MIT",
   "web": "https://github.com/pietroppeter/p5nim",
+  "commit": {
+    "hash": "cee7207ba09dc5c090af18b8cc9e1e070fbc4aa6",
+    "time": 1686321554
+  },
   "tags": [
     "p5",
     "javascript",

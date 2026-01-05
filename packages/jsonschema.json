@@ -5,6 +5,10 @@
   "description": "JSON schema validation and creation.",
   "license": "MIT",
   "web": "https://github.com/PMunch/jsonschema",
+  "commit": {
+    "hash": "7b41c03e3e1a487d5a8f6b940ca8e764dc2cbabf",
+    "time": 1568274992
+  },
   "tags": [
     "json",
     "schema",

@@ -5,6 +5,10 @@
   "description": "Nim functional programming library",
   "license": "MIT",
   "web": "https://github.com/vegansk/nimfp",
+  "commit": {
+    "hash": "17131f3f86c3640efd0a2fbc1284cd76b2e6820d",
+    "time": 1553506543
+  },
   "versions": [
     {
       "tag": "v0.4.5",

@@ -5,6 +5,10 @@
   "description": "SVG icon library manager for server-side rendering",
   "license": "MIT",
   "web": "https://github.com/openpeeps/iconim",
+  "commit": {
+    "hash": "1a7706e187639c058e8d894bc18ba3e78aacf900",
+    "time": 1711845291
+  },
   "tags": [
     "svg",
     "icons",

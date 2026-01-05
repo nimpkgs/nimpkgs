@@ -5,6 +5,10 @@
   "description": "Expression-based pipe operators with placeholder argument",
   "license": "MIT",
   "web": "https://codeberg.org/emanresu3/nim-pipexp",
+  "commit": {
+    "hash": "facc66046469a14997e297f929697a762e824fdd",
+    "time": 1671809814
+  },
   "versions": [
     {
       "tag": "v0.4.0",

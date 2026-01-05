@@ -5,6 +5,10 @@
   "description": "High Performance Stub Server",
   "license": "MIT",
   "web": "https://github.com/solaoi/broly",
+  "commit": {
+    "hash": "7430c2a196191b74aa3fd598ec0800092bc796b3",
+    "time": 1689583241
+  },
   "versions": [
     {
       "tag": "v1.0.0",

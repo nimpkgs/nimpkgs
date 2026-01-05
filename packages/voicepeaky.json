@@ -5,6 +5,10 @@
   "description": "Voicepeak Server",
   "license": "MIT",
   "web": "https://github.com/solaoi/voicepeaky",
+  "commit": {
+    "hash": "b6da2c663bf969b6c118c71a04f008352a2bfe9a",
+    "time": 1699768651
+  },
   "versions": [
     {
       "tag": "v1.0.5",

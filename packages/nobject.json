@@ -5,6 +5,10 @@
   "description": "A partially compile and runtime evaluated object, inspired from .net object",
   "license": "GPL-3.0",
   "web": "https://github.com/Carpall/nobject",
+  "commit": {
+    "hash": "75883b7074f7ccad27d041b7c9def73660607a08",
+    "time": 1611676512
+  },
   "tags": [
     "nim",
     "nimble",

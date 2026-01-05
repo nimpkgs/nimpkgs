@@ -5,6 +5,10 @@
   "description": "Utilities for and extensions to Slice/HSlice",
   "license": "MIT",
   "web": "https://metagn.github.io/sliceutils/sliceutils.html",
+  "commit": {
+    "hash": "f5729ca144ca37241ba70542049437f9938317b4",
+    "time": 1689326341
+  },
   "versions": [
     {
       "tag": "v0.2.2",

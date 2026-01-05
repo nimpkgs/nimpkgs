@@ -5,6 +5,10 @@
   "description": "Redis-backed sessions for jester",
   "license": "MIT",
   "web": "https://github.com/ithkuil/redissessions/",
+  "commit": {
+    "hash": "7dbc1cf16017df8a17d301d68573c0dae17b3721",
+    "time": 1475381231
+  },
   "tags": [
     "jester",
     "sessions",

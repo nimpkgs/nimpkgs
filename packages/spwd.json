@@ -11,5 +11,6 @@
     "spwd",
     "password",
     "shadow"
-  ]
+  ],
+  "status": "Unreachable"
 }

@@ -5,6 +5,10 @@
   "description": "Nim Julia bridge",
   "license": "MIT",
   "web": "https://github.com/SciNim/nimjl",
+  "commit": {
+    "hash": "4e97e0bc10a8c780561f0915f53285189f33c4cc",
+    "time": 1730728777
+  },
   "versions": [
     {
       "tag": "v0.8.4",

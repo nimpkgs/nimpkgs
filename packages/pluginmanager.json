@@ -5,6 +5,10 @@
   "description": "Simple plugin implementation",
   "license": "BSD 3-Clause",
   "web": "https://github.com/samdmarshall/plugin-manager",
+  "commit": {
+    "hash": "dd9729b8b21c0d7dc1b3f1c136fe1029ce520270",
+    "time": 1492290274
+  },
   "tags": [
     "plugin",
     "dylib",

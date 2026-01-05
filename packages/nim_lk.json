@@ -5,6 +5,10 @@
   "description": "Nix lockfile generator",
   "license": "BSD-3-Clause",
   "web": "https://git.sr.ht/~ehmry/nim_lk",
+  "commit": {
+    "hash": "6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
+    "time": 1745845849
+  },
   "tags": [
     "package",
     "sbom"

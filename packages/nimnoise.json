@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/blakeanedved/nimnoise",
   "doc": "https://lib-nimnoise.web.app/",
+  "commit": {
+    "hash": "93cbb1212dff256791b1a95e82891af53ea2a580",
+    "time": 1575409290
+  },
   "tags": [
     "nimnoise",
     "noise",

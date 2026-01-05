@@ -5,6 +5,10 @@
   "description": "A decentralized (pseudo) package manager and script runner.",
   "license": "MIT",
   "web": "https://github.com/h3rald/nifty",
+  "commit": {
+    "hash": "d366c729d5dbbf7a3c4053130b9b41b913aea437",
+    "time": 1691720276
+  },
   "versions": [
     {
       "tag": "v1.2.3",

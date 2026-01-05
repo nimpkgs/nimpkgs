@@ -5,6 +5,10 @@
   "description": "Programmatically manage jobs in a Nomad cluster",
   "license": "GPL-3.0-only",
   "web": "https://github.com/cycneuramus/nmgr",
+  "commit": {
+    "hash": "d8c078540eb439d967b2168eb5e3ab85fae8d7be",
+    "time": 1765013365
+  },
   "versions": [
     {
       "tag": "v1.0.1",

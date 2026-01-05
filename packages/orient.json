@@ -5,6 +5,10 @@
   "description": "OrientDB driver written in pure Nim, uses the OrientDB 2.0 Binary Protocol with Binary Serialization.",
   "license": "MPL",
   "web": "https://github.com/philip-wernersbach/nim-orient",
+  "commit": {
+    "hash": "970d075c475d1b97161d83f733bad94dbb15028d",
+    "time": 1430166283
+  },
   "tags": [
     "library",
     "wrapper",

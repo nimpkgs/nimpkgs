@@ -5,6 +5,10 @@
   "description": "sqlite wrapper with fts5 and cflags configuration for sqlite.c. Builds sqlite from source",
   "license": "MIT",
   "web": "https://github.com/mentalonigiri/niqlite",
+  "commit": {
+    "hash": "2c82a5b5cae62748c27c261bac4211093ce1a5ea",
+    "time": 1723140540
+  },
   "tags": [
     "library",
     "sqlite",

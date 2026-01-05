@@ -5,6 +5,10 @@
   "description": "Documentation generator that produces pdf and docx from Markdown. Uses Pandoc and LaTeX behind the scenes.",
   "license": "MIT",
   "web": "https://github.com/foliant-docs/foliant-nim",
+  "commit": {
+    "hash": "44aecd841e6a00d0632c3a814777a3a6713ffd76",
+    "time": 1481025182
+  },
   "tags": [
     "foliant",
     "docs",

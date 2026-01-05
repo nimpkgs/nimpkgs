@@ -5,6 +5,10 @@
   "description": "Localization package for Nim.",
   "license": "MIT",
   "web": "https://github.com/moigagoo/loco",
+  "commit": {
+    "hash": "92e20f5309ea73701fa4ed036883c0fd266f168f",
+    "time": 1619427310
+  },
   "tags": [
     "localization",
     "translation",

@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/fsh/integers",
   "doc": "https://fsh.github.io/integers/integers.html",
+  "commit": {
+    "hash": "0e1f2839ef61a143e3f6534dac5b84c9a9941f5c",
+    "time": 1693541497
+  },
   "versions": [
     {
       "tag": "v0.1.1",

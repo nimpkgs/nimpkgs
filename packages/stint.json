@@ -5,6 +5,10 @@
   "description": "Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-stint",
+  "commit": {
+    "hash": "470b7892561b5179ab20bd389a69217d6213fe58",
+    "time": 1753796463
+  },
   "versions": [
     {
       "tag": "v0.8.2",

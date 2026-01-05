@@ -5,6 +5,10 @@
   "description": "Helpers for supporting and simplifying import of symbols from C into Nim",
   "license": "MIT",
   "web": "https://github.com/fredrikhr/nim-importc-helpers",
+  "commit": {
+    "hash": "2080e6a4c0a45d3ddaab8104657bd60f310766e5",
+    "time": 1577007495
+  },
   "tags": [
     "import",
     "c",

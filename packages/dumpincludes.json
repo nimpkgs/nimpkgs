@@ -5,6 +5,10 @@
   "description": "See where your exe size comes from.",
   "license": "MIT",
   "web": "https://github.com/treeform/dumpincludes",
+  "commit": {
+    "hash": "9e3f96b2a1beaa6e2f8a84cbb2fe377ba9af6590",
+    "time": 1683763740
+  },
   "tags": [
     "imports",
     "includes",

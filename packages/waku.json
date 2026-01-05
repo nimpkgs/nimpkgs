@@ -5,6 +5,10 @@
   "description": "Implementation of the Waku protocol",
   "license": "Apache License 2.0",
   "web": "https://github.com/waku-org/nwaku",
+  "commit": {
+    "hash": "dafdee9f5ffc0460f45307c61fbd8e9832fc3ecd",
+    "time": 1767045864
+  },
   "versions": [
     {
       "tag": "v0.37.1-beta",

@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the PARI library",
   "license": "MIT",
   "web": "https://github.com/BarrOff/nim-pari",
+  "commit": {
+    "hash": "7d6417a7d8d4d56e7279db2e4a3f58080e3f2488",
+    "time": 1638909242
+  },
   "versions": [
     {
       "tag": "v0.2.0",

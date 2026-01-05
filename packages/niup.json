@@ -5,6 +5,10 @@
   "description": "IUP FFI bindings",
   "license": "MIT",
   "web": "https://github.com/dariolah/niup",
+  "commit": {
+    "hash": "b5ee23eb139f3eefaf54ccb9159be188d187433d",
+    "time": 1642187190
+  },
   "versions": [
     {
       "tag": "v3.30.7",

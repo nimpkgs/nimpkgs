@@ -5,6 +5,10 @@
   "description": "Nim / Python / C library to run webview with HTML/JS as UI",
   "license": "MIT",
   "web": "https://github.com/marcomq/nimview",
+  "commit": {
+    "hash": "d6bf5ce39d710f6ed80f0ca320b93ee6323ae66f",
+    "time": 1663496723
+  },
   "versions": [
     {
       "tag": "v0.1.2",

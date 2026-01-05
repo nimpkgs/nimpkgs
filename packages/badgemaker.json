@@ -5,6 +5,10 @@
   "description": "The Nim badgemaker tool.",
   "license": "AGPLv3",
   "web": "https://github.com/ethosa/badgemaker",
+  "commit": {
+    "hash": "5f88cea15689b724ced0a2ce38876766f0de2967",
+    "time": 1582883798
+  },
   "tags": [
     "badge",
     "badge-generator",

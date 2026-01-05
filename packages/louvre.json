@@ -5,6 +5,10 @@
   "description": "Bindings to Louvre, a simple-to-use C++ library that lets you build high-performance compositors with minimal amounts of code.",
   "license": "LGPL-2.1-or-later",
   "web": "https://github.com/xTrayambak/gbm-nim",
+  "commit": {
+    "hash": "efd78956ff1ea7bd77c718f28cf898dac0054144",
+    "time": 1764669866
+  },
   "tags": [
     "wayland",
     "linux",

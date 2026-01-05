@@ -4,6 +4,10 @@
   "method": "git",
   "description": "Py2Nim is a tool to translate Python code to Nim. The output is human-readable Nim code, meant to be tweaked by hand after the translation process.",
   "license": "MIT",
+  "commit": {
+    "hash": "1a2f2a0347c221c11384c5c31dd1887c56fd292f",
+    "time": 1640904335
+  },
   "versions": [
     {
       "tag": "v0.1.3",

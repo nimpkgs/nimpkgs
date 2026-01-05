@@ -5,6 +5,10 @@
   "description": "Shamir secret sharing",
   "license": "MIT",
   "web": "https://github.com/markspanbroek/sss.nim",
+  "commit": {
+    "hash": "1e2b05fe06e14bbcca21bac1c7d0515345fc8756",
+    "time": 1622231429
+  },
   "versions": [
     {
       "tag": "v0.2.2",

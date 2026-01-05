@@ -5,6 +5,10 @@
   "description": "Obsolete - please use libusb instead!",
   "license": "MIT",
   "web": "https://github.com/nimious/io-usb",
+  "commit": {
+    "hash": "cc6b6aefb52e3671972df5d4bf23f55c09298896",
+    "time": 1567960508
+  },
   "tags": [
     "binding",
     "usb",

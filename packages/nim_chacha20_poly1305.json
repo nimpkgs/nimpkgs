@@ -5,6 +5,10 @@
   "description": "xchacha20_poly1305, chacha20, poly1305",
   "license": "MIT",
   "web": "https://github.com/lantos-lgtm/nim_chacha20_poly1305",
+  "commit": {
+    "hash": "9a29aa3808fbb1daee15e6c78c63c4a160672a3c",
+    "time": 1767439067
+  },
   "tags": [
     "encryption",
     "decryption",

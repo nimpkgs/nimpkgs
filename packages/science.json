@@ -5,6 +5,10 @@
   "description": "A library for scientific computations in pure Nim",
   "license": "Apache License 2.0",
   "web": "https://github.com/ruivieira/nim-science",
+  "commit": {
+    "hash": "6a0bba45d0fc75a295f178924a88e2866018ddab",
+    "time": 1557217385
+  },
   "versions": [
     {
       "tag": "v0.2.2",

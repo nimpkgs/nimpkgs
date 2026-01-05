@@ -5,6 +5,10 @@
   "description": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
   "license": "Apache License 2.0",
   "web": "https://github.com/status-im/nim-stew",
+  "commit": {
+    "hash": "b66168735d6f3841c5239c3169d3fe5fe98b1257",
+    "time": 1759488424
+  },
   "versions": [
     {
       "tag": "v0.4.2",

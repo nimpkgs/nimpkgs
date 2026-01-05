@@ -5,6 +5,10 @@
   "description": "Utility for a bit manipulation",
   "license": "MIT",
   "web": "https://github.com/adokitkat/bitfields",
+  "commit": {
+    "hash": "e68743f89b85a7e09ed087441474a8a8908006fc",
+    "time": 1681849541
+  },
   "versions": [
     {
       "tag": "v0.1.2",

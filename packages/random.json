@@ -5,6 +5,10 @@
   "description": "Pseudo-random number generation library inspired by Python",
   "license": "MIT",
   "web": "https://github.com/oprypin/nim-random",
+  "commit": {
+    "hash": "4cf3e09857415341d90477d1495a752a11b6f7c2",
+    "time": 1665928537
+  },
   "versions": [
     {
       "tag": "v0.5.7",

@@ -5,6 +5,10 @@
   "description": "ImGui Frontend for Nimble",
   "license": "MIT",
   "web": "https://github.com/qb-0/NimbleImGui",
+  "commit": {
+    "hash": "fce46b5489e6eaaaec432a9a8eeaaab5dd93549f",
+    "time": 1687602959
+  },
   "tags": [
     "nimble",
     "gui",

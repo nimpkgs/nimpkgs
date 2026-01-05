@@ -5,6 +5,10 @@
   "description": "A simple chunked external protocol interface for Splunk custom search commands.",
   "license": "Apache2",
   "web": "https://github.com/metasyn/nim-cexc-splunk",
+  "commit": {
+    "hash": "550cc9416f653575fdf563b074e95964381cd15d",
+    "time": 1531335390
+  },
   "tags": [
     "splunk",
     "command",

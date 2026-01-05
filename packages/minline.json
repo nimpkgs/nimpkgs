@@ -5,6 +5,10 @@
   "description": "A line editing library in pure Nim",
   "license": "MIT",
   "web": "https://github.com/h3rald/minline",
+  "commit": {
+    "hash": "c138b34bf3c5198c26ecfad5e251fa5d56e5ad48",
+    "time": 1718456736
+  },
   "versions": [
     {
       "tag": "v0.1.2",

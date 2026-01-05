@@ -5,6 +5,10 @@
   "description": "Bindings for picohttpparser.",
   "license": "MIT",
   "web": "https://github.com/philip-wernersbach/nim-picohttpparser",
+  "commit": {
+    "hash": "2e1e6d9c00aa4ab8da1641274baa1729691ea03c",
+    "time": 1681622976
+  },
   "tags": [
     "web",
     "http"

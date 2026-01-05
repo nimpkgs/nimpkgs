@@ -5,6 +5,10 @@
   "description": "a high performance SQL file parser",
   "license": "MIT",
   "web": "https://github.com/nim-lang/parsesql",
+  "commit": {
+    "hash": "7045360405a3593a396e53b0cea076b903c2e1b1",
+    "time": 1760965211
+  },
   "versions": [
     {
       "tag": "v0.1.0",

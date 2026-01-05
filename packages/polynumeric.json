@@ -5,6 +5,10 @@
   "description": "Polynomial operations",
   "license": "MIT",
   "web": "https://github.com/SciNim/polynumeric",
+  "commit": {
+    "hash": "1a16ddc89087c2d6b6493847226fee4984f86d7b",
+    "time": 1654637527
+  },
   "versions": [
     {
       "tag": "v0.2.1",

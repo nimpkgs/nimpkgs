@@ -5,6 +5,10 @@
   "description": "Easily calculate the total of all products in csv",
   "license": "gpl-3.0",
   "web": "https://github.com/thisago/pricecsv",
+  "commit": {
+    "hash": "feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2",
+    "time": 1663766697
+  },
   "tags": [
     "cli",
     "calculator",

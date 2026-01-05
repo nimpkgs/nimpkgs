@@ -5,6 +5,10 @@
   "description": "String algorithms with succinct data structures",
   "license": "Apache2",
   "web": "https://andreaferretti.github.io/cello/",
+  "commit": {
+    "hash": "c397c78820464987a8d872a0e5051e6a6af326c8",
+    "time": 1611221642
+  },
   "tags": [
     "string",
     "succinct-data-structure",

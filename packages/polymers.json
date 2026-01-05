@@ -5,6 +5,10 @@
   "description": "A library of components and systems for use with the Polymorph ECS",
   "license": "Apache-2.0",
   "web": "https://github.com/rlipsc/polymers",
+  "commit": {
+    "hash": "508bc229a6d366da3ea90ca010917444b85d22e6",
+    "time": 1666444399
+  },
   "versions": [
     {
       "tag": "v0.3.1",

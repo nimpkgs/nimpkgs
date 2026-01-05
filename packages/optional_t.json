@@ -5,6 +5,10 @@
   "description": "Basic Option[T] library",
   "license": "MIT",
   "web": "https://github.com/flaviut/optional_t",
+  "commit": {
+    "hash": "9f33a000cfadb4ffe0a404798147dea90fed66c4",
+    "time": 1423538419
+  },
   "tags": [
     "option",
     "functional"

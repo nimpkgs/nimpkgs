@@ -5,6 +5,10 @@
   "description": "A lightweight discrete event simulator",
   "license": "MIT",
   "web": "https://github.com/jayvanderwall/desim",
+  "commit": {
+    "hash": "3ba7a85c13b71d23100109c14406fae89fa742c3",
+    "time": 1596510131
+  },
   "tags": [
     "library",
     "modeling",

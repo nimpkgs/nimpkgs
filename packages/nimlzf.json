@@ -5,6 +5,10 @@
   "description": "Nim wrapper of the liblzf C library.",
   "license": "MIT",
   "web": "https://github.com/Anuken/nimlzf",
+  "commit": {
+    "hash": "50073102ffdaef076f378ac77c3a599c40c02cf9",
+    "time": 1762625848
+  },
   "tags": [
     "compression",
     "lzf"

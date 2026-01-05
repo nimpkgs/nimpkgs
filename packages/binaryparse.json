@@ -5,6 +5,10 @@
   "description": "Binary parser (and writer) in pure Nim. Generates efficient parsing procedures that handle many commonly seen patterns seen in binary files and does sub-byte field reading.",
   "license": "MIT",
   "web": "https://github.com/PMunch/binaryparse",
+  "commit": {
+    "hash": "5e992e41a55555623db7f5fd0d2c94b4ebb96449",
+    "time": 1616621759
+  },
   "versions": [
     {
       "tag": "v0.2.4",

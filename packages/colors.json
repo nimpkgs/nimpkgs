@@ -5,6 +5,10 @@
   "description": "A simple, powerful terminal coloring and styling library akin to NPM `colors`",
   "license": "MIT",
   "web": "https://github.com/thing-king/colors",
+  "commit": {
+    "hash": "3b6f4c4a4f9d5b28b4d4a953269a6ab61ab67671",
+    "time": 1745001399
+  },
   "tags": [
     "colors",
     "coloring",

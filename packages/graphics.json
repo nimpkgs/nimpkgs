@@ -5,6 +5,10 @@
   "description": "Graphics module for Nim.",
   "license": "MIT",
   "web": "https://github.com/nim-lang/graphics",
+  "commit": {
+    "hash": "ce69b637c4ac0f108c92c6f0969f3dd76660ae84",
+    "time": 1520514408
+  },
   "tags": [
     "library",
     "SDL"

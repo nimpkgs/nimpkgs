@@ -5,6 +5,10 @@
   "description": "HTML5 Canvas and drawing for the JavaScript backend.",
   "license": "MIT",
   "web": "https://gitlab.com/define-private-public/HTML5-Canvas-Nim",
+  "commit": {
+    "hash": "9302d96efb5b4d0fc406e9eb20deca9c5465cef8",
+    "time": 1488943387
+  },
   "tags": [
     "html5",
     "canvas",

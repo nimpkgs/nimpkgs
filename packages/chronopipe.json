@@ -5,6 +5,10 @@
   "description": "Show start/end datetime and duration of a command-line process using pipe.",
   "license": "MIT",
   "web": "https://github.com/williamd1k0/chrono",
+  "commit": {
+    "hash": "50a0208e116b58a5c3421eea20f07e0c49430c50",
+    "time": 1575395116
+  },
   "versions": [
     {
       "tag": "v0.1.0",

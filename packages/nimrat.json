@@ -5,6 +5,10 @@
   "description": "Module for working with rational numbers (fractions)",
   "license": "MIT",
   "web": "https://github.com/apense/nimrat",
+  "commit": {
+    "hash": "d515d0dec6f9c246b0fa236ad1c21738d80c0ddc",
+    "time": 1424321576
+  },
   "versions": [
     {
       "tag": "v0.1",

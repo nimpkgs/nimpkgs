@@ -5,6 +5,10 @@
   "description": "Encoder/decoder for blurhash algorithm",
   "license": "MIT",
   "web": "https://github.com/SolitudeSF/blurhash",
+  "commit": {
+    "hash": "81102eb57976972b8ac517472cf9fad6fb85cba4",
+    "time": 1589443122
+  },
   "versions": [
     {
       "tag": "v0.2.1",

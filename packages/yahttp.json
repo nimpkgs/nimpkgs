@@ -5,6 +5,10 @@
   "description": "Awesome simple HTTP client for Nim",
   "license": "MIT",
   "web": "https://github.com/mishankov/yahttp?tab=readme-ov-file#-yahttp---awesome-simple-http-client-for-nim",
+  "commit": {
+    "hash": "e5727c7b1cbb71b8011579d5a2dbc0b3d6419836",
+    "time": 1764566974
+  },
   "versions": [
     {
       "tag": "v0.14.0",

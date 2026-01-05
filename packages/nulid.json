@@ -6,6 +6,10 @@
   "license": "CC0",
   "web": "https://github.com/The-Ticking-Clockwork/NULID",
   "doc": "https://the-ticking-clockwork.github.io/NULID/",
+  "commit": {
+    "hash": "59d884d18fc9f7679d0bc9b317c2376bf1d5d257",
+    "time": 1739989762
+  },
   "versions": [
     {
       "tag": "v1.3.1",

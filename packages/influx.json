@@ -5,6 +5,10 @@
   "description": "wrapper for communicating with InfluxDB over the REST interface",
   "license": "BSD 3-Clause",
   "web": "https://github.com/samdmarshall/influx.nim",
+  "commit": {
+    "hash": "922be04f9349132addf6c033dd09cf0152e01107",
+    "time": 1489260934
+  },
   "tags": [
     "influx",
     "influxdb"

@@ -5,6 +5,10 @@
   "description": "Tiingo",
   "license": "MIT",
   "web": "https://github.com/rolandgg/nimTiingo",
+  "commit": {
+    "hash": "ff76a0a6da3daf82b27a40d677dda9cdb263ada7",
+    "time": 1603117039
+  },
   "tags": [
     "Tiingo",
     "StockAPI"

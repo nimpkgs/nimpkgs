@@ -5,6 +5,10 @@
   "description": "Option types",
   "license": "MIT",
   "web": "https://github.com/MasonMcGill/optionals",
+  "commit": {
+    "hash": "41259ef68f080d25912b0609bb8398d1138820c4",
+    "time": 1426992681
+  },
   "tags": [
     "library",
     "option",

@@ -5,6 +5,10 @@
   "description": "Low-level Tcl & Tk bindings for Nim",
   "license": "MIT",
   "web": "https://github.com/neroist/nimtcl",
+  "commit": {
+    "hash": "1424dd6cb13b665c28d60ad9534cd959a8415480",
+    "time": 1715653531
+  },
   "tags": [
     "tcl",
     "tk",

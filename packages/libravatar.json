@@ -5,6 +5,10 @@
   "description": "Libravatar library for Nim, Gravatar alternative. Libravatar is an open source free federated avatar api & service.",
   "license": "PPL",
   "web": "https://github.com/juancarlospaco/nim-libravatar",
+  "commit": {
+    "hash": "32261ce245c296d5d2b69d4d31a0dcb3eac275b8",
+    "time": 1615753480
+  },
   "tags": [
     "libravatar",
     "gravatar",

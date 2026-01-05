@@ -5,6 +5,10 @@
   "description": "A Nim wrapper for librtlsdr",
   "license": "BSD",
   "web": "https://github.com/jpoirier/nimrtlsdr",
+  "commit": {
+    "hash": "404a5e59fd36aa300c490e6d3bb9827f738e3fe7",
+    "time": 1421253953
+  },
   "versions": [
     {
       "tag": "v0.1.4",

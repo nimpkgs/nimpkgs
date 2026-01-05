@@ -5,6 +5,10 @@
   "description": "Nim Hessian Serialization Library encodes/decodes data into the Hessian binary protocol",
   "license": "LGPL",
   "web": "https://github.com/twist-vector/nhsl",
+  "commit": {
+    "hash": "1d45cbd2fb6e0587e543e277a9cd3f32811ef2cc",
+    "time": 1448051562
+  },
   "tags": [
     "library",
     "serialization",

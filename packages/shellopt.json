@@ -5,6 +5,10 @@
   "description": "Command line argument parser in the form commonly used in ordinary shell.",
   "license": "MIT",
   "web": "https://github.com/uga-rosa/shellopt.nim",
+  "commit": {
+    "hash": "51562fa3d3941b37433828bce5e109d4b12a0680",
+    "time": 1658912167
+  },
   "tags": [
     "library",
     "cli"

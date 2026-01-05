@@ -5,6 +5,10 @@
   "description": "Nim wrapper for the nats.c - NATS client library",
   "license": "MIT",
   "web": "https://github.com/deem0n/nim-nats",
+  "commit": {
+    "hash": "ca00be79a05b486fb7e11bfb3ed7a048927eb2ff",
+    "time": 1684922910
+  },
   "versions": [
     {
       "tag": "v3.0.0",

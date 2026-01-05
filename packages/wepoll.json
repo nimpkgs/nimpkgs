@@ -5,6 +5,10 @@
   "description": "Windows epoll wrapper.",
   "license": "MIT",
   "web": "https://github.com/ringabout/wepoll",
+  "commit": {
+    "hash": "07fb549ecf656f9aab957b78fb0d1e2d2e47a76f",
+    "time": 1732611124
+  },
   "versions": [
     {
       "tag": "v0.1.2",

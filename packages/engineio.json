@@ -5,6 +5,10 @@
   "description": "An Engine.IO client library for Nim",
   "license": "MIT",
   "web": "https://github.com/samc0de/engineio",
+  "commit": {
+    "hash": "5ea4196f38a986983a301cfc8c41a4df6ef065db",
+    "time": 1677415057
+  },
   "versions": [
     {
       "tag": "v0.1",

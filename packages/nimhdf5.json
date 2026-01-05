@@ -5,6 +5,10 @@
   "description": "Bindings for the HDF5 data format C library",
   "license": "MIT",
   "web": "https://github.com/Vindaar/nimhdf5",
+  "commit": {
+    "hash": "8b9183ab019e371427038d3f7f804e49390af855",
+    "time": 1731067061
+  },
   "versions": [
     {
       "tag": "v0.6.3",

@@ -5,6 +5,10 @@
   "description": "An implementation of cat in Nim",
   "license": "MIT",
   "web": "https://github.com/shakna-israel/nimcat",
+  "commit": {
+    "hash": "fe85ddb490b33cdabbb1de37e894a6e6b8792b49",
+    "time": 1449877492
+  },
   "tags": [
     "cat",
     "cli"

@@ -5,6 +5,10 @@
   "description": "Set that can safely add and remove elements while iterating.",
   "license": "GPL-2.0-only",
   "web": "https://github.com/avahe-kellenberger/safeset",
+  "commit": {
+    "hash": "049026f50611e2a0ecb617839f23a286b6b597c6",
+    "time": 1678555619
+  },
   "versions": [
     {
       "tag": "v0.1.1",

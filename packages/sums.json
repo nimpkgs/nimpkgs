@@ -5,6 +5,10 @@
   "description": "Accurate summation functions",
   "license": "MIT",
   "web": "https://github.com/planetis-m/sums",
+  "commit": {
+    "hash": "4d5f687a672f08b3d294fb13124d4e8fe4df20d8",
+    "time": 1625582716
+  },
   "tags": [
     "summation",
     "errors",

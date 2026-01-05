@@ -5,6 +5,10 @@
   "description": "Basic wrapper for APIs of various Boorus",
   "license": "LGPL-3.0-or-later",
   "web": "https://github.com/filvyb/nimbooru",
+  "commit": {
+    "hash": "aa81f224fdffdadd1365d6b8d78510c760660ab0",
+    "time": 1767467350
+  },
   "tags": [
     "api",
     "async",

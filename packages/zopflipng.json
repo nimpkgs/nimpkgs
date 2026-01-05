@@ -5,6 +5,10 @@
   "description": "zopflipng-like png optimization",
   "license": "MIT",
   "web": "https://github.com/bung87/zopflipng",
+  "commit": {
+    "hash": "af83955aef7f79af6f56636205dd61fff9e8e6ce",
+    "time": 1710081744
+  },
   "versions": [
     {
       "tag": "v0.1.9",

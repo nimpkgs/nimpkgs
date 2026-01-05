@@ -5,6 +5,10 @@
   "description": "Easy to use and flexible UI framework in pure Nim",
   "license": "MIT",
   "web": "https://github.com/levovix0/sigui",
+  "commit": {
+    "hash": "34b0dbbfdf125bb568d59341675d5c9d20f6c83d",
+    "time": 1767535035
+  },
   "tags": [
     "ui",
     "gui",

@@ -5,6 +5,10 @@
   "description": "Signal processing primitives (FFT, ...) ",
   "license": "MIT",
   "web": "https://github.com/SciNim/impulse",
+  "commit": {
+    "hash": "4615a00b915c6502e3f3aba9c7f478b70f0c4cd3",
+    "time": 1735549868
+  },
   "versions": [
     {
       "tag": "v0.1.1",

@@ -5,6 +5,10 @@
   "description": "KDL 2.0 document parser with 100% spec compliance (670/670 tests)",
   "license": "MIT",
   "web": "https://github.com/greenm01/nimkdl",
+  "commit": {
+    "hash": "0a2ee65a3f53130091c7fe44b4385e913a05dc85",
+    "time": 1766690884
+  },
   "versions": [
     {
       "tag": "v2.0.7",

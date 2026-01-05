@@ -5,6 +5,10 @@
   "description": "Our very personal collection of utilities",
   "license": "MIT",
   "web": "https://github.com/sinkingsugar/fragments",
+  "commit": {
+    "hash": "0f4df0e41dec441bdd39c33767af3e26560d5d72",
+    "time": 1578154987
+  },
   "versions": [
     {
       "tag": "v0.1.39",

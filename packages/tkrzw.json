@@ -5,6 +5,10 @@
   "description": "Wrappers over the Tkrzw Database Manager C++ library.",
   "license": "Apache-2.0",
   "web": "https://git.sr.ht/~ehmry/nim-tkrzw",
+  "commit": {
+    "hash": "2d052f2dde4694cf1b28af516447d28b22c0d028",
+    "time": 1710597655
+  },
   "versions": [
     {
       "tag": "v0.1.2",

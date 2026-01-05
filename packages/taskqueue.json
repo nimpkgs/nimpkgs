@@ -6,6 +6,10 @@
   "license": "MIT",
   "web": "https://github.com/jackhftang/taskqueue.nim",
   "doc": "https://jackhftang.github.io/taskqueue.nim/",
+  "commit": {
+    "hash": "360c963b5d910d6a5733ac7af263131555994f9d",
+    "time": 1605235182
+  },
   "tags": [
     "task",
     "scheduler",

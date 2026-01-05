@@ -5,6 +5,10 @@
   "description": "Fonts, Typesetting and Rasterization.",
   "license": "MIT",
   "web": "https://github.com/treeform/typography",
+  "commit": {
+    "hash": "a2a5165c36e0098dea526712890fb7e988ba27f2",
+    "time": 1661049512
+  },
   "versions": [
     {
       "tag": "v0.3.0",

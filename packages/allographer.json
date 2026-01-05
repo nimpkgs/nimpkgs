@@ -5,6 +5,10 @@
   "description": "A Nim query builder library inspired by Laravel/PHP and Orator/Python",
   "license": "MIT",
   "web": "https://github.com/itsumura-h/nim-allographer",
+  "commit": {
+    "hash": "060eb44468d382fe4d818cdb59139b71da7189f1",
+    "time": 1739655558
+  },
   "versions": [
     {
       "tag": "v0.31.0",

@@ -5,6 +5,10 @@
   "description": "OpenExchangeRates API Client for Nim. Works with/without SSL. Partially works with/without Free API Key.",
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-openexchangerates",
+  "commit": {
+    "hash": "2582c88f5391f8b845f7befd38ac1e58591bae42",
+    "time": 1559841287
+  },
   "tags": [
     "money",
     "exchange",
