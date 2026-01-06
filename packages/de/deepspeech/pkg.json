@@ -1,0 +1,47 @@
+{
+  "name": "deepspeech",
+  "url": "https://gitlab.com/eagledot/nim-deepspeech",
+  "method": "git",
+  "description": "Nim bindings for mozilla's DeepSpeech model.",
+  "license": "MIT",
+  "web": "https://gitlab.com/eagledot/nim-deepspeech",
+  "tags": [
+    "mozilla",
+    "deepspeech",
+    "speech to text",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.7.1",
+        "hash": "ff465cedbf4b17b92a9101186d87a4116ff0a38f",
+        "time": 1592368076
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "5acefdf4f4f5b8c9419d03c6c9970223a35f123b",
+        "time": 1591332376
+      }
+    ],
+    "commit": {
+      "hash": "ff465cedbf4b17b92a9101186d87a4116ff0a38f",
+      "time": 1592368076
+    }
+  }
+}

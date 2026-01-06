@@ -1,0 +1,43 @@
+{
+  "name": "gura",
+  "url": "https://github.com/khchen/gura",
+  "method": "git",
+  "description": "Gura Configuration Language for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/gura",
+  "tags": [
+    "configuration",
+    "serialization",
+    "parsing",
+    "toml",
+    "yaml"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "npeg",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "3372c3e8976c87066d2ee97fcd66e35609af66a1",
+        "time": 1721976257
+      }
+    ],
+    "commit": {
+      "hash": "3372c3e8976c87066d2ee97fcd66e35609af66a1",
+      "time": 1721976257
+    }
+  }
+}

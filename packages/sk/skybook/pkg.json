@@ -1,0 +1,61 @@
+{
+  "name": "skybook",
+  "url": "https://github.com/muxueqz/skybook",
+  "method": "git",
+  "description": "Light weight bookmark manager(delicious alternative)",
+  "license": "GPL-2.0",
+  "web": "https://github.com/muxueqz/skybook",
+  "tags": [
+    "bookmark-manager",
+    "bookmark"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "jester",
+          "str": ">= 0.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        }
+      ],
+      "bin": [
+        "skybook"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.3",
+        "hash": "3a5848178b3940b2675e7c5c00113cd71d5a1592",
+        "time": 1567160892
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "db81fedb2d7a2a8be0c373bb491bb03d8e617225",
+        "time": 1567159961
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "50aef8b22746691d2fce327ed81d423f93bf2363",
+        "time": 1567158201
+      }
+    ],
+    "commit": {
+      "hash": "1b96b4a32de38c0cc48848e4eaadf62f9d5541be",
+      "time": 1568543026
+    }
+  }
+}

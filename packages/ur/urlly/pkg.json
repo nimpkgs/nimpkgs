@@ -1,0 +1,70 @@
+{
+  "name": "urlly",
+  "url": "https://github.com/treeform/urlly",
+  "method": "git",
+  "description": "URL and URI parsing for C and JS backend.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/urlly",
+  "tags": [
+    "url",
+    "uri"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.1",
+        "hash": "94e9f864115c64debcfcce5db04c636838a4b408",
+        "time": 1673398368
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "e9ca434540f409ba67f37f570e9de6c5eba71624",
+        "time": 1670604566
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "ec77b2c49a8d1918d27f2ef288da858957d49801",
+        "time": 1661379467
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "d7b4aaddbad84b681a6969756cc3b80966ee2d0b",
+        "time": 1639077791
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "07eae7842d3ae07828c4abbe92c5df4837a3c513",
+        "time": 1633046145
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "1516925b3feca8836e6c72dc684f7eb2b26d2fec",
+        "time": 1604684679
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "049db70dc0eb12ad5b6cb0e20c2f66dd9dc667b6",
+        "time": 1604630635
+      }
+    ],
+    "commit": {
+      "hash": "99784779f05649df25fd9c33003d8ef6de027345",
+      "time": 1683765303
+    }
+  }
+}

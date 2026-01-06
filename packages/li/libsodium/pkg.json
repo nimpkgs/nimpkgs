@@ -1,0 +1,87 @@
+{
+  "name": "libsodium",
+  "url": "https://github.com/FedericoCeratto/nim-libsodium",
+  "method": "git",
+  "description": "libsodium wrapper",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-libsodium",
+  "tags": [
+    "wrapper",
+    "library",
+    "security",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.7.2",
+        "hash": "881f3ae8ced4ff764cbdd207fc59f77f2b5ee748",
+        "time": 1649367592
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "f5490ee194d5a0bbc5fa3d4d0b6e58c617d49790",
+        "time": 1641329615
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "9a1d3dee65d48c9c8514142e506b81f93224d386",
+        "time": 1641234442
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "0258efe4e7f48e22daedf26f70e3efbe830abfb5",
+        "time": 1577359508
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "a01589322491380804ad4410d5fe14a908fb5b8b",
+        "time": 1571310553
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "e851e5f9fe25f3d1b90923556fdf5e1a925dbd3f",
+        "time": 1556184600
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "2c831c8539f2bc8ed123b1fb8f845de1cab60fc4",
+        "time": 1555676799
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "a86bcad584ef6cd0437b92703e4f2b860d26c2fe",
+        "time": 1539452190
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "69f8edd040eff66c7b97414573e68c0579df0fd5",
+        "time": 1531675524
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "aa5ef489748bce727b707ebe01ee51ab0055998d",
+        "time": 1525442668
+      }
+    ],
+    "commit": {
+      "hash": "144d6d8d8d0d789e5e2649385276d83f61e9dc26",
+      "time": 1700588742
+    }
+  }
+}

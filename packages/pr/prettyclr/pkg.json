@@ -1,0 +1,34 @@
+{
+  "name": "prettyclr",
+  "url": "https://github.com/prettybauble/prettyclr",
+  "method": "git",
+  "description": "Small library for working with colors",
+  "license": "MIT",
+  "web": "https://github.com/prettybauble/prettyclr",
+  "tags": [
+    "prettybauble",
+    "prettyclr",
+    "color"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4a991936a40a1c34bf226e5e900cb877f0a29378",
+      "time": 1651309364
+    }
+  }
+}

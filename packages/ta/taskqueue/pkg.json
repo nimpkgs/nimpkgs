@@ -1,0 +1,55 @@
+{
+  "name": "taskqueue",
+  "url": "https://github.com/jackhftang/taskqueue.nim",
+  "method": "git",
+  "description": "High precision and high performance task scheduler ",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/taskqueue.nim",
+  "doc": "https://jackhftang.github.io/taskqueue.nim/",
+  "tags": [
+    "task",
+    "scheduler",
+    "timer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "timestamp",
+          "str": ">= 0.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "a9b138a498e0ba6708ec0b41eac3f168f3cc9c23",
+        "time": 1590224072
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a2e1ebf0e23c0210ff9ddb13a67382731cc6a257",
+        "time": 1590217604
+      }
+    ],
+    "commit": {
+      "hash": "360c963b5d910d6a5733ac7af263131555994f9d",
+      "time": 1605235182
+    }
+  }
+}

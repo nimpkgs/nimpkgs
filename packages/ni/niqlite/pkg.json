@@ -1,0 +1,34 @@
+{
+  "name": "niqlite",
+  "url": "https://github.com/mentalonigiri/niqlite",
+  "method": "git",
+  "description": "sqlite wrapper with fts5 and cflags configuration for sqlite.c. Builds sqlite from source",
+  "license": "MIT",
+  "web": "https://github.com/mentalonigiri/niqlite",
+  "tags": [
+    "library",
+    "sqlite",
+    "fts5"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2c82a5b5cae62748c27c261bac4211093ce1a5ea",
+      "time": 1723140540
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "libclang",
+  "url": "https://github.com/cowboy-coders/nim-libclang.git",
+  "method": "git",
+  "description": "wrapper for libclang (the C-interface of the clang LLVM frontend)",
+  "license": "MIT",
+  "web": "https://github.com/cowboy-coders/nim-libclang",
+  "tags": [
+    "wrapper",
+    "bindings",
+    "clang"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.9.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ff854c51551d46ff9c48f3e6d4b6cccb2f4eec10",
+      "time": 1451849198
+    }
+  }
+}

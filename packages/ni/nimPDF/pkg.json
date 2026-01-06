@@ -1,0 +1,74 @@
+{
+  "name": "nimPDF",
+  "url": "https://github.com/jangko/nimpdf",
+  "method": "git",
+  "description": "library for generating PDF files",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimpdf",
+  "tags": [
+    "library",
+    "PDF",
+    "document"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        },
+        {
+          "name": "nimBMP",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nimSHA2",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nimAES",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "stb_image",
+          "str": ">= 2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "9e39d66c334709d51034a249e437cf4ad123dbbe",
+      "time": 1764144923
+    }
+  }
+}

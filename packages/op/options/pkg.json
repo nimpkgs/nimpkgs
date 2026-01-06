@@ -1,0 +1,35 @@
+{
+  "name": "options",
+  "url": "https://github.com/fallingduck/options-nim",
+  "method": "git",
+  "description": "Temporary package to fix broken code in 0.11.2 stable.",
+  "license": "MIT",
+  "web": "https://github.com/fallingduck/options-nim",
+  "tags": [
+    "library",
+    "option",
+    "optionals",
+    "maybe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "035806c369469c8b47efefdbc5ca2d03e7f4a95b",
+      "time": 1434587924
+    }
+  }
+}

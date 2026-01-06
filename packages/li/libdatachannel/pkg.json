@@ -1,0 +1,37 @@
+{
+  "name": "libdatachannel",
+  "url": "https://github.com/openpeeps/libdatachannel-nim",
+  "method": "git",
+  "description": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/libdatachannel-nim",
+  "tags": [
+    "webrtc",
+    "rtc",
+    "websockets",
+    "media",
+    "bindings",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "501f95565f001ce3a23b158cae924cb4130ce5b3",
+      "time": 1757926642
+    }
+  }
+}

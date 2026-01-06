@@ -1,0 +1,49 @@
+{
+  "name": "nimtesseract",
+  "url": "https://github.com/DavideGalilei/nimtesseract",
+  "method": "git",
+  "description": "A wrapper to Tesseract OCR library for Nim",
+  "license": "Unlicense",
+  "web": "https://github.com/DavideGalilei/nimtesseract",
+  "tags": [
+    "ocr",
+    "nim",
+    "text",
+    "tesseract",
+    "ocr-recognition",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "pixie",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "d805d41fe9be35dce8e078e716217727ffc7dd97",
+        "time": 1641312978
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "fe160aa3bfbbbe039d4a9192fb5643c465889f47",
+        "time": 1641311670
+      }
+    ],
+    "commit": {
+      "hash": "a315d45e3ebb58214fbf07c49f58ea603de93e59",
+      "time": 1666510715
+    }
+  }
+}

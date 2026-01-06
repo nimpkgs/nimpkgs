@@ -1,0 +1,43 @@
+{
+  "name": "nancy",
+  "url": "https://github.com/PMunch/nancy",
+  "method": "git",
+  "description": "Nancy - Nim fancy ANSI tables",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nancy",
+  "tags": [
+    "ansi",
+    "library",
+    "terminal",
+    "table"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "ansiparse",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9918716a563f64d740df6a02db42662781e94fc8",
+      "time": 1683288548
+    }
+  }
+}

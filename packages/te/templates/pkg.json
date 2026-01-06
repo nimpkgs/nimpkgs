@@ -1,0 +1,25 @@
+{
+  "name": "templates",
+  "url": "https://github.com/onionhammer/nim-templates.git",
+  "method": "git",
+  "description": "A simple string templating library for Nim.",
+  "license": "BSD",
+  "web": "https://github.com/onionhammer/nim-templates",
+  "tags": [
+    "web",
+    "html",
+    "template"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "9c18d46fc1ba70e86eed2515502da34377bee088",
+      "time": 1571582571
+    }
+  }
+}

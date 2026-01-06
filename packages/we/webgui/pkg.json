@@ -1,0 +1,68 @@
+{
+  "name": "webgui",
+  "url": "https://github.com/juancarlospaco/webgui",
+  "method": "git",
+  "description": "Web Technologies based Crossplatform GUI, modified wrapper for modified webview.h",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/webgui",
+  "tags": [
+    "web",
+    "webview",
+    "css",
+    "js",
+    "gui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.9.0",
+        "hash": "5dc7c39bf7be9555d8a72beeed36b04e8bd76964",
+        "time": 1587659207
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "1d127a99afbc98ef24a71557f78e20565a4bfefb",
+        "time": 1587403867
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "5ece065598c2326f6684298bdd654094065377ea",
+        "time": 1586960587
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "03c6f5ea2301753fe49351a05188ba965bae3805",
+        "time": 1586952994
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "1d5e18f63402c7ad89d0057c215310a9493bf376",
+        "time": 1586864381
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "93a4059e8af3dc2371072d710f2328a6d3a2a80d",
+        "time": 1586736957
+      }
+    ],
+    "commit": {
+      "hash": "5d6d1ceefac7c86278b6632b4b49f42c116b6095",
+      "time": 1763856261
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "nimsnappyc",
+  "url": "https://github.com/NimCompression/nimsnappyc",
+  "method": "git",
+  "description": "Wrapper for the Snappy-C compression library",
+  "license": "MIT",
+  "web": "https://github.com/NimCompression/nimsnappyc",
+  "tags": [
+    "snappy",
+    "compression",
+    "wrapper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "0be12a4a36f93b1dfafecb3a9f84714b54089365",
+      "time": 1534252298
+    }
+  }
+}

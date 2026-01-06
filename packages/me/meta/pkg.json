@@ -1,0 +1,37 @@
+{
+  "name": "meta",
+  "url": "https://github.com/RainbowAsteroids/meta",
+  "method": "git",
+  "description": "View and set the metadata for audio files",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/RainbowAsteroids/meta",
+  "tags": [
+    "metadata",
+    "music",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        }
+      ],
+      "bin": [
+        "meta"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "e7d6ef89c859d428ff0a2f46520bce3657b4ebfd",
+      "time": 1615336073
+    }
+  }
+}

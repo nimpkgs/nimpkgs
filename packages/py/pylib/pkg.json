@@ -1,0 +1,131 @@
+{
+  "name": "pylib",
+  "url": "https://github.com/nimpylib/nimpylib",
+  "method": "git",
+  "description": "Nim library with python-like functions, syntax sugars and libraries",
+  "license": "MIT",
+  "web": "https://nimpylib.org",
+  "doc": "https://docs.nimpylib.org",
+  "tags": [
+    "pylib",
+    "python",
+    "compatibility",
+    "library",
+    "pure",
+    "macros",
+    "metaprogramming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.14",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "> 2.0.4",
+          "ver": {
+            "kind": "verLater",
+            "ver": "2.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.9.14",
+        "hash": "f5bf7b8f9d024ecd844a55d179974f6969a55d45",
+        "time": 1766057624
+      },
+      {
+        "tag": "v0.9.13",
+        "hash": "a940c1624b7766e028acec4eba646351014da093",
+        "time": 1754663927
+      },
+      {
+        "tag": "v0.9.12",
+        "hash": "21d992cfd51d71a505ec6dbb27fe0fba89cc30a2",
+        "time": 1750953723
+      },
+      {
+        "tag": "v0.9.11",
+        "hash": "0bbb29057030e652b0e6ccd6e0e00f733ae1a5f6",
+        "time": 1748159188
+      },
+      {
+        "tag": "v0.9.10",
+        "hash": "6bde5f28692a804b330facff95f1e6aba7e91c06",
+        "time": 1745767528
+      },
+      {
+        "tag": "v0.9.9",
+        "hash": "25dcc65fbaf78fd1e2e960f07fccac85e5f192b7",
+        "time": 1745190933
+      },
+      {
+        "tag": "v0.9.8",
+        "hash": "8bc27f74ea7aeb0edf8d14b0aaf3c6330511ddef",
+        "time": 1743657712
+      },
+      {
+        "tag": "v0.9.7",
+        "hash": "6e22bc368e11d53e7ca41c0b1fbaeb720c9c5e45",
+        "time": 1740911009
+      },
+      {
+        "tag": "v0.9.6",
+        "hash": "62a0c81def2dab8c66dbad2ad15234f9edf634c2",
+        "time": 1737198812
+      },
+      {
+        "tag": "v0.9.5",
+        "hash": "b32671af79fd1bba4896a3fc6f8c5ca4a8631140",
+        "time": 1735295594
+      },
+      {
+        "tag": "v0.9.4",
+        "hash": "0ab4427890247d2c0457de0d4d57ae54f363b749",
+        "time": 1729429898
+      },
+      {
+        "tag": "v0.9.3",
+        "hash": "098a36b02c59b4a33f5aab9312535788f7b598d9",
+        "time": 1727638201
+      },
+      {
+        "tag": "v0.9.2",
+        "hash": "bf606859d9efc451cb78d9dbf7904b21732db296",
+        "time": 1723816167
+      },
+      {
+        "tag": "v0.9.0",
+        "hash": "0f688bed761c53b178ddd9104ae3381179feeecf",
+        "time": 1715528448
+      },
+      {
+        "tag": "v0.8.2",
+        "hash": "33b1972a3b649b8f2031a8ab7e5aeea5ec35126a",
+        "time": 1712825210
+      },
+      {
+        "tag": "v0.8.1",
+        "hash": "ee2b96df3689e31bf3dd37568dbbf94065c4c7c9",
+        "time": 1712642319
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "9bf047eb8d7a5c09c55830b3cac29ee5f408addb",
+        "time": 1712634805
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "d9ee783ef7ced355870ff549aefad6b11ed86388",
+        "time": 1709985330
+      }
+    ],
+    "commit": {
+      "hash": "4343a509340dd34f03d54e908cba3866628271ba",
+      "time": 1766829682
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "gerbil",
+  "url": "https://github.com/jasonprogrammer/gerbil",
+  "method": "git",
+  "description": "A dynamic website generator",
+  "license": "MIT",
+  "web": "https://getgerbil.com",
+  "tags": [
+    "web",
+    "dynamic",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "3.0.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "3.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "1.5.21",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.5.21"
+          }
+        },
+        {
+          "name": "jester",
+          "str": "0.5.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "markdown",
+          "str": "0.8.5",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.8.5"
+          }
+        },
+        {
+          "name": "mustache",
+          "str": "0.4.3",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.4.3"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "0.5.4",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.5.4"
+          }
+        },
+        {
+          "name": "regex",
+          "str": "0.19.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "uuids",
+          "str": "0.1.11",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.11"
+          }
+        }
+      ],
+      "bin": [
+        "gerbil"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "364e22eaccac8aff9fa83b2f9e231cda6d0a97b4",
+        "time": 1644708952
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0824aa21683f751cec1639cd402a777f888986b3",
+        "time": 1592970534
+      }
+    ],
+    "commit": {
+      "hash": "100896e29539c735fcde1e4baebf5dd6c57691a3",
+      "time": 1670646280
+    }
+  }
+}

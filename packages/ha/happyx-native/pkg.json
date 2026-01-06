@@ -1,0 +1,81 @@
+{
+  "name": "happyx-native",
+  "url": "https://github.com/HapticX/happyx-native",
+  "method": "git",
+  "description": "Macro-oriented web-framework compiles to native written with ♥",
+  "license": "MIT",
+  "web": "https://github.com/HapticX/happyx-native",
+  "tags": [
+    "happyx",
+    "native",
+    "web",
+    "app",
+    "framework",
+    "frontend",
+    "backend",
+    "android"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "happyx",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jnim",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "rcedit",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "hpx-native"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "b33a92b28c738c29bdf34f3f68bfdfb0220cc39b",
+        "time": 1703823270
+      }
+    ],
+    "commit": {
+      "hash": "9a3663d4ea4f5d942761cb3d9e9e494e9693e8aa",
+      "time": 1735650417
+    }
+  }
+}

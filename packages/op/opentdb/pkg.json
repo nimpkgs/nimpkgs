@@ -1,0 +1,58 @@
+{
+  "name": "opentdb",
+  "url": "https://github.com/ire4ever1190/nim-opentmdb",
+  "method": "git",
+  "description": "Wrapper around the open trivia db api",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/nim-opentmdb",
+  "doc": "https://ire4ever1190.github.io/nim-opentmdb/opentdb.html",
+  "tags": [
+    "wrapper",
+    "library",
+    "quiz",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.2.0",
+        "hash": "e40909fd02a5db034dff633727d810e5c63d8824",
+        "time": 1656895745
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "d473914729683e285d096c88cd42ed67d2144f5a",
+        "time": 1639910635
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "76ca9b6521e908eeda37f5d6faf480e76d64da27",
+        "time": 1639909741
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "bd8c59ed69fb9d8f9b2706a6414608968e0863b8",
+        "time": 1598068863
+      }
+    ],
+    "commit": {
+      "hash": "28d1bfa844bd6836dc67b8f85c7c785da349fec9",
+      "time": 1699067309
+    }
+  }
+}

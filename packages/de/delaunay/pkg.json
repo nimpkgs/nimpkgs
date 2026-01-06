@@ -1,0 +1,52 @@
+{
+  "name": "delaunay",
+  "url": "https://github.com/Nycto/DelaunayNim",
+  "method": "git",
+  "description": "2D Delaunay triangulations",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/DelaunayNim",
+  "tags": [
+    "delaunay",
+    "library",
+    "algorithms",
+    "graph"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "2be35992f57224eeb000d3b501735840346bc823",
+        "time": 1594150112
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "3b84b6fdbe86bf16439cbefb8f88ed037633eadb",
+        "time": 1455076688
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "220e1c7b98bf366c82be6a573bf267dac6547410",
+        "time": 1442178330
+      }
+    ],
+    "commit": {
+      "hash": "78fc72882ee7aaf5e25dcf66f4429ebba1e8cc07",
+      "time": 1696096922
+    }
+  }
+}

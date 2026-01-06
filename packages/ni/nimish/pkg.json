@@ -1,0 +1,44 @@
+{
+  "name": "nimish",
+  "url": "https://github.com/ringabout/nimish",
+  "method": "git",
+  "description": "C macro for Nim.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/ringabout/nimish",
+  "tags": [
+    "macro",
+    "library",
+    "c"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimish"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "c0fed5c679ff7e59ae67056749bfb6871448de2b",
+        "time": 1593343526
+      }
+    ],
+    "commit": {
+      "hash": "c0fed5c679ff7e59ae67056749bfb6871448de2b",
+      "time": 1593343526
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "imgcat",
+  "url": "https://github.com/not-lum/imgcat",
+  "method": "git",
+  "description": "See pictures in your console",
+  "license": "MIT",
+  "web": "https://github.com/not-lum/imgcat",
+  "tags": [
+    "hybrid",
+    "crossplatform",
+    "terminal",
+    "images"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "imageman",
+          "str": "0.8.2",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.8.2"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "3.0.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "3.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "imgcat"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "37b1e7d2688a75a589671f1f5b5c9a992b908db5",
+      "time": 1689179204
+    }
+  }
+}

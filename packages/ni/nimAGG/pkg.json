@@ -1,0 +1,76 @@
+{
+  "name": "nimAGG",
+  "url": "https://github.com/jangko/nimAGG",
+  "method": "git",
+  "description": "Hi Fidelity Rendering Engine",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimAGG",
+  "tags": [
+    "renderer",
+    "rasterizer",
+    "library",
+    "2D",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        },
+        {
+          "name": "sdl2_nim",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimBMP",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "freetype",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "polyBool",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "opengl",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "0566604c1576517ae25b1d5bc430f896d15bd16f",
+      "time": 1559210911
+    }
+  }
+}

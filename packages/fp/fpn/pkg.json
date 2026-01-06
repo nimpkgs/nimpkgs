@@ -1,0 +1,46 @@
+{
+  "name": "fpn",
+  "url": "https://gitlab.com/lbartoletti/fpn",
+  "method": "git",
+  "description": "A fixed point number library in pure Nim.",
+  "license": "MIT",
+  "web": "https://gitlab.com/lbartoletti/fpn",
+  "tags": [
+    "fixed point",
+    "number",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "40f4fcf6a2b8ffbf55796a48d66e7754800aec48",
+        "time": 1635282778
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "10fa73e56fa90d66489d5ef18ca81459ea33b762",
+        "time": 1602102992
+      }
+    ],
+    "commit": {
+      "hash": "bd1e1da0e6efdc8a7307128c8e737fb00b9425c6",
+      "time": 1744140730
+    }
+  }
+}

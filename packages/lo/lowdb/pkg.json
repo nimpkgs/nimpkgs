@@ -1,0 +1,66 @@
+{
+  "name": "lowdb",
+  "url": "https://github.com/PhilippMDoerner/lowdb",
+  "method": "git",
+  "description": "Low level db_sqlite and db_postgres forks with a proper typing",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/lowdb",
+  "tags": [
+    "sqlite",
+    "postgres",
+    "database",
+    "binding",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "937ebb84bf08d24b97b2a9b8c86c37cd39fab520",
+        "time": 1691318700
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "435fe9bf604b2ebc252399ce6bc1e0590b9f5fb2",
+        "time": 1678571795
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "01923a2d76dea954ceacb9454693cda1a7e4d612",
+        "time": 1677324248
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1b81b57284a2ced9e339bb58695c3ce40e09b783",
+        "time": 1676655876
+      }
+    ],
+    "commit": {
+      "hash": "c8bd2c631ed923b25c0bab4cd1ccbe84bf56400b",
+      "time": 1691318934
+    }
+  }
+}

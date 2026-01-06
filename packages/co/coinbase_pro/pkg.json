@@ -1,0 +1,59 @@
+{
+  "name": "coinbase_pro",
+  "url": "https://github.com/inv2004/coinbase-pro-nim",
+  "method": "git",
+  "description": "Coinbase pro client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/inv2004/coinbase-pro-nim",
+  "tags": [
+    "coinbase",
+    "crypto",
+    "exchange",
+    "bitcoin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "ws",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "decimal",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "uuids",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c91664ff454238a134d690ab841e0e1f476da6b5",
+      "time": 1610062660
+    }
+  }
+}

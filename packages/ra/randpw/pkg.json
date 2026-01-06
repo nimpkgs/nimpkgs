@@ -1,0 +1,45 @@
+{
+  "name": "randpw",
+  "url": "https://github.com/pdrb/nim-randpw",
+  "method": "git",
+  "description": "Random password and passphrase generator",
+  "license": "MIT",
+  "web": "https://github.com/pdrb/nim-randpw",
+  "tags": [
+    "random",
+    "password",
+    "passphrase",
+    "randpw"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "randpw"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "314f8256e56e3026ae803de231507776adc81443",
+        "time": 1570591313
+      }
+    ],
+    "commit": {
+      "hash": "8c0fc75a3ea6d62cba0ab57180aabfb8e625f9b9",
+      "time": 1584229107
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "seqmath",
+  "url": "https://github.com/jlp765/seqmath",
+  "method": "git",
+  "description": "Nim math library for sequences and nested sequences (extends math library)",
+  "license": "MIT",
+  "web": "https://github.com/jlp765/seqmath",
+  "tags": [
+    "math",
+    "seq",
+    "sequence",
+    "array",
+    "nested",
+    "algebra",
+    "statistics",
+    "lifted",
+    "financial"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "c58e5a0882d7056b983aeec640062c3b43d22395",
+        "time": 1566609501
+      }
+    ],
+    "commit": {
+      "hash": "31dfea23d2903f0961ade537350460f9363ae657",
+      "time": 1629875755
+    }
+  }
+}

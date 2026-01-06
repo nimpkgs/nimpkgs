@@ -1,0 +1,55 @@
+{
+  "name": "pipelines",
+  "url": "https://github.com/calebwin/pipelines",
+  "method": "git",
+  "description": "A tiny framework & language for crafting massively parallel data pipelines",
+  "license": "MIT",
+  "web": "https://github.com/calebwin/pipelines",
+  "doc": "https://github.com/calebwin/pipelines",
+  "tags": [
+    "python",
+    "pipeline",
+    "pipelines",
+    "data",
+    "parallel"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        },
+        {
+          "name": "python",
+          "str": ">= 0.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "pipelines/pipelines"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "3543e71d4504bd0947e6ca836ab774e328a8bf70",
+        "time": 1549904440
+      }
+    ],
+    "commit": {
+      "hash": "e623d2d03e42467eb50dd1882e3864108fbff0ed",
+      "time": 1571429653
+    }
+  }
+}

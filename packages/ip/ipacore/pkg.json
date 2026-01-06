@@ -1,0 +1,35 @@
+{
+  "name": "ipacore",
+  "url": "https://github.com/phononim/ipacore",
+  "method": "git",
+  "description": " A base International Phonetic Alphabet type definition. ",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/phononim/ipacore",
+  "tags": [
+    "ipa",
+    "library",
+    "core",
+    "phonology"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "af9568be415c5e1c81e60c0b8e7189110f416a73",
+      "time": 1705241079
+    }
+  }
+}

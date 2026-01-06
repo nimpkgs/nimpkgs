@@ -1,0 +1,46 @@
+{
+  "name": "nats",
+  "url": "https://github.com/deem0n/nim-nats",
+  "method": "git",
+  "description": "Nim wrapper for the nats.c - NATS client library",
+  "license": "MIT",
+  "web": "https://github.com/deem0n/nim-nats",
+  "tags": [
+    "nats",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v3.0.0",
+        "hash": "2cf41feb55dcdb0c11c82bbe064cf8e71367d72a",
+        "time": 1684791204
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "a6fe4bd59e0dfd6b759058abaf344ade28194ffd",
+        "time": 1540193972
+      }
+    ],
+    "commit": {
+      "hash": "ca00be79a05b486fb7e11bfb3ed7a048927eb2ff",
+      "time": 1684922910
+    }
+  }
+}

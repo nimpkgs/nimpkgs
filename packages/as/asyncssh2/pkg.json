@@ -1,0 +1,35 @@
+{
+  "name": "asyncssh2",
+  "url": "https://github.com/up7down8/asyncssh2",
+  "method": "git",
+  "description": "Execute commands and upload/download files using multiple processes and asynchronous methods via SSH.",
+  "license": "MIT",
+  "web": "https://github.com/up7down8/asyncssh2",
+  "tags": [
+    "scp",
+    "ssh",
+    "sftp",
+    "asyncssh"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "badae9032e9443f51941acbfeb0e9823d8b74c10",
+      "time": 1720062450
+    }
+  }
+}

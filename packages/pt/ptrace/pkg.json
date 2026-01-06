@@ -1,0 +1,59 @@
+{
+  "name": "ptrace",
+  "url": "https://github.com/ba0f3/ptrace.nim",
+  "method": "git",
+  "description": "ptrace wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/ptrace.nim",
+  "tags": [
+    "ptrace",
+    "trace",
+    "process",
+    "syscal",
+    "system",
+    "call"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.5",
+        "hash": "3e9a6fb3c5872d5371df48a7128db7019492ae18",
+        "time": 1665590127
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "1e5950063abff869fd042d73734c55c3a51f172f",
+        "time": 1581439934
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "2bffdd4eca4ef6ad28b02704374b470f42c1bacd",
+        "time": 1442421170
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "5d30184d263223667aa849c2f4ca10ef0ea674e6",
+        "time": 1442222104
+      }
+    ],
+    "commit": {
+      "hash": "3e9a6fb3c5872d5371df48a7128db7019492ae18",
+      "time": 1665590127
+    }
+  }
+}

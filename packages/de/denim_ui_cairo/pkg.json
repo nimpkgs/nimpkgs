@@ -1,0 +1,61 @@
+{
+  "name": "denim_ui_cairo",
+  "url": "https://github.com/nortero-code/midio-ui-cairo",
+  "method": "git",
+  "description": "Cairo backend for the denim ui engine",
+  "license": "MIT",
+  "web": "https://github.com/nortero-code/midio-ui-cairo",
+  "tags": [
+    "denim-ui",
+    "denim-backend",
+    "gui",
+    "cairo",
+    "cross",
+    "platform"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "denim_ui",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "sdl2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cairo",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "892d103d513bb2c32c4a4e572c78f136f9a9784c",
+      "time": 1624393600
+    }
+  }
+}

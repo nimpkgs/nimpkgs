@@ -1,0 +1,46 @@
+{
+  "name": "dnsstamps2",
+  "url": "https://github.com/rockcavera/nim-dnsstamps2",
+  "method": "git",
+  "description": "DNS Stamps package",
+  "license": "MIT",
+  "web": "https://github.com/rockcavera/nim-dnsstamps2",
+  "tags": [
+    "dns",
+    "dns-stamp",
+    "dnsstamp",
+    "dns-stamps",
+    "dnsstamps",
+    "stamp",
+    "stamps"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "16be2b0701c89f50b31ce39edb9ff61bb5854ff2",
+      "time": 1680922990
+    }
+  }
+}

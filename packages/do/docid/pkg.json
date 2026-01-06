@@ -1,0 +1,43 @@
+{
+  "name": "docid",
+  "url": "https://github.com/thisago/docid",
+  "method": "git",
+  "description": "Document IDs generation and validation",
+  "license": "MIT",
+  "web": "https://github.com/thisago/docid",
+  "tags": [
+    "library",
+    "id",
+    "generator",
+    "verifier"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6e4040029f757754761cd7a3b03b37d7beb094db",
+      "time": 1689701519
+    }
+  }
+}

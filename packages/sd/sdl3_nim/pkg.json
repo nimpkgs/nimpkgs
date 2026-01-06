@@ -1,0 +1,145 @@
+{
+  "name": "sdl3_nim",
+  "url": "https://github.com/dinau/sdl3_nim",
+  "method": "git",
+  "description": "SDL3 warpper for Nim language",
+  "license": "MIT License",
+  "web": "https://github.com/dinau/sdl3_nim",
+  "tags": [
+    "sdl3",
+    "nimgl",
+    "stb",
+    "stb_image",
+    "opengl",
+    "futhark",
+    "imguin",
+    "imgui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.2.26.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.16",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.16"
+          }
+        },
+        {
+          "name": "nimgl",
+          "str": "1.3.2",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.3.2"
+          }
+        },
+        {
+          "name": "stb_image",
+          "str": "2.5",
+          "ver": {
+            "kind": "verEq",
+            "ver": "2.5"
+          }
+        },
+        {
+          "name": "basic2d",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "3.2.26.0",
+        "hash": "bc9564be7c9f6dd70869e3451b21c0fd583e0fdd",
+        "time": 1762574560
+      },
+      {
+        "tag": "3.2.24.2",
+        "hash": "cd841d0c968d9ad0010c6b32de655c05f6b0e00f",
+        "time": 1762523373
+      },
+      {
+        "tag": "3.2.24.1",
+        "hash": "37e48279da1275b19570f5aa06d84df14dcd7015",
+        "time": 1762428501
+      },
+      {
+        "tag": "3.2.24.0",
+        "hash": "80ede079f7f5614cf5bd224349330092a05c0ae8",
+        "time": 1760795479
+      },
+      {
+        "tag": "3.2.16.0",
+        "hash": "d0fd01bdd3252ac1e116237025b5292b83d13041",
+        "time": 1750734486
+      },
+      {
+        "tag": "3.2.10.0",
+        "hash": "4b1566b6550227542276c77798d749c5daf1c185",
+        "time": 1745326056
+      },
+      {
+        "tag": "3.2.4.0",
+        "hash": "1e20becb7c58e976ac09eeb535b77cf0688e3367",
+        "time": 1738988972
+      },
+      {
+        "tag": "3.1.10.0",
+        "hash": "18e8cf7c77b7d236dcd9abf645c8fdb61db4e22a",
+        "time": 1737284891
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "161c92c47ca0dee5f308875cc831b49de4a329ef",
+        "time": 1736765114
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "5ca9f9b6a64245be677d2d1d9303cad27df64e0b",
+        "time": 1736555896
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "7dd5665bb30b8f3b44a7925a8ea1c3228aa00272",
+        "time": 1735556997
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "f3ef91ebe0291787eb67720d5aec8d49723f5948",
+        "time": 1735372729
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "1abd9dd1fde6b608b44768fab3683c566fb63d53",
+        "time": 1735295248
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "bb4349f0f9bb2f87ba6c5df7a377a165bbf55405",
+        "time": 1732711644
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "150b7bdce80081b39351ac146f5a1121a292ddd9",
+        "time": 1732452209
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "d5ffca6225980eef798548d13a53d5e6eac5978a",
+        "time": 1732450472
+      }
+    ],
+    "commit": {
+      "hash": "4fa4cf1be0b65ad11bf2d407950b9fcc1ac83aa7",
+      "time": 1762589772
+    }
+  }
+}

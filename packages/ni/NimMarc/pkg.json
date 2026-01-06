@@ -1,0 +1,34 @@
+{
+  "name": "NimMarc",
+  "url": "https://github.com/rsirres/NimMarc",
+  "method": "git",
+  "description": "Marc21 parser for Nimlang",
+  "license": "MIT",
+  "web": "https://github.com/rsirres/NimMarc",
+  "tags": [
+    "marc21",
+    "library",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "5bb207defa23791a3e24abeb4026339d6d8d4530",
+      "time": 1588679948
+    }
+  }
+}

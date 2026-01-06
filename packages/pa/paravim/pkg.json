@@ -1,0 +1,186 @@
+{
+  "name": "paravim",
+  "url": "https://github.com/paranim/paravim",
+  "method": "git",
+  "description": "An embedded text editor for paranim games",
+  "license": "Public Domain",
+  "tags": [
+    "editor",
+    "games"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.18.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "paranim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        },
+        {
+          "name": "pararules",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "paratext",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        },
+        {
+          "name": "illwill",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.18.5",
+        "hash": "930d27edc9e22456a5d013c28f9f041aa009653a",
+        "time": 1693505800
+      },
+      {
+        "tag": "0.18.4",
+        "hash": "9dd786c5d44e37b9c89e51bbff7cda4952cb6c0d",
+        "time": 1671711131
+      },
+      {
+        "tag": "0.18.3",
+        "hash": "f69a60adec9b7f8754c89c471a9ca2f2ce2bff98",
+        "time": 1651570855
+      },
+      {
+        "tag": "0.18.2",
+        "hash": "138531ba37baee0810570841791e9b23a6332b92",
+        "time": 1603408298
+      },
+      {
+        "tag": "0.18.1",
+        "hash": "cfdbb72063d9c9931509f813a82b80a726c96a29",
+        "time": 1597970212
+      },
+      {
+        "tag": "0.18.0",
+        "hash": "ae8d3ae620ab2559948c0ca013c06006a52b9b01",
+        "time": 1597432856
+      },
+      {
+        "tag": "0.17.1",
+        "hash": "c4612b26c88af51af6ab4da8920de827ed36e9cf",
+        "time": 1596042331
+      },
+      {
+        "tag": "0.17.0",
+        "hash": "19b62a1a16db62f96096b3ff597ad5d30a5a16ba",
+        "time": 1595888474
+      },
+      {
+        "tag": "0.16.1",
+        "hash": "c2172747ff105bf94a010907cb27960952a6ec4b",
+        "time": 1594941630
+      },
+      {
+        "tag": "0.16.0",
+        "hash": "b443298be23c2a900709b3eac955fa7d24c0f78e",
+        "time": 1594060243
+      },
+      {
+        "tag": "0.15.1",
+        "hash": "48b39d5c80b44ba90ec239afa083eb2b296899cf",
+        "time": 1593207931
+      },
+      {
+        "tag": "0.14.0",
+        "hash": "7a067602e566fdfada5b084b3070c01aed20b7c8",
+        "time": 1592407512
+      },
+      {
+        "tag": "0.13.0",
+        "hash": "fd74c839f4d1e24fbdcab71e6374dc17308690b3",
+        "time": 1592355377
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "6e7a2a966bbf39890a42e8c8a7ee5ea99ca24f76",
+        "time": 1592059588
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "ee54ffedd40ecf25fa733a1599310c72d4dd3ad1",
+        "time": 1591918714
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "434df5301e8299f74eb38e4f731c0d832f7ed23c",
+        "time": 1587225215
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "a542de1bca88973e1ae06153763bb0dfc3de447b",
+        "time": 1586829898
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "ba591af68f050f9646567afcc6421c024f18385a",
+        "time": 1585328427
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "d5158bb25b8c41f224ec33718f0c898e7a3b9e2b",
+        "time": 1584923847
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "ebab0263f2666d23002b1f0167122d571d0ffe69",
+        "time": 1584641854
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "fbb5fcdf2d8bd74b1f157a8007bca87d34e4caf3",
+        "time": 1584618246
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "dc232e4a2e5fe4eda0f569243d9d33b7923b6479",
+        "time": 1584612973
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "8a7872ce34831b9f26e2289148b9a19eb4a434a2",
+        "time": 1584576271
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "bfcf8cfb11f8beda7fe1535f47b2490116570ced",
+        "time": 1584065758
+      }
+    ],
+    "commit": {
+      "hash": "b43b6a7493880739bce50ac53cd321ed17b6d935",
+      "time": 1696522017
+    }
+  }
+}

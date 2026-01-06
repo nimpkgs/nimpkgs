@@ -1,0 +1,46 @@
+{
+  "name": "gene",
+  "url": "https://github.com/gcao/gene-new",
+  "method": "git",
+  "description": "Gene - a general purpose language",
+  "license": "MIT",
+  "web": "https://github.com/gcao/gene-new",
+  "tags": [
+    "lisp",
+    "language",
+    "interpreter",
+    "gene"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "ws",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [
+        "gene"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f70fbde3d6a1b797b32f2ad57dd9bc69007b820d",
+      "time": 1701462192
+    }
+  }
+}

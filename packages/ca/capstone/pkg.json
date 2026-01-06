@@ -1,0 +1,32 @@
+{
+  "name": "capstone",
+  "url": "https://github.com/hdbg/capstone-nim",
+  "method": "git",
+  "description": "Capstone3 high-level wrapper",
+  "license": "MIT",
+  "tags": [
+    "wrapper",
+    "disasm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "fc1ffdb55b0fcdc7f670455f45c382bf8e2c8ee6",
+      "time": 1656523359
+    }
+  }
+}

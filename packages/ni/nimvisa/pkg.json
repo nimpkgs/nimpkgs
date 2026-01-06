@@ -1,0 +1,59 @@
+{
+  "name": "nimvisa",
+  "url": "https://github.com/leeooox/nimvisa",
+  "method": "git",
+  "description": "nimvisa is C wrapper for NI-VISA instrument control library",
+  "license": "MIT",
+  "web": "https://github.com/leeooox/nimvisa",
+  "tags": [
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "eac80c7aacdce7663b862b2126081febc27da0fa",
+        "time": 1604474712
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "48c8ffe0604234f6d98b43caa56c56fb6d873734",
+        "time": 1604452797
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "0595a45754ec824f5ec5a9ad159c4bac6bdd6234",
+        "time": 1604450902
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "7131c1e4af9febda361badb228fad5a59d3612b9",
+        "time": 1604444601
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "712a3b9c726c054472346ce8475efe0e601cdafe",
+        "time": 1604403829
+      }
+    ],
+    "commit": {
+      "hash": "eac80c7aacdce7663b862b2126081febc27da0fa",
+      "time": 1604474712
+    }
+  }
+}

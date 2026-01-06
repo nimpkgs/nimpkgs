@@ -1,0 +1,34 @@
+{
+  "name": "base62",
+  "url": "https://github.com/singularperturbation/base62-encode",
+  "method": "git",
+  "description": "Arbitrary base encoding-decoding functions, defaulting to Base-62.",
+  "license": "MIT",
+  "web": "https://github.com/singularperturbation/base62-encode",
+  "tags": [
+    "base62",
+    "encode",
+    "decode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "40a55eb886822ff1d27bfc4471f4e0c22d70eaec",
+      "time": 1435528333
+    }
+  }
+}

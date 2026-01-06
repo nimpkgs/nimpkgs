@@ -1,0 +1,40 @@
+{
+  "name": "simpledecimal",
+  "url": "https://github.com/pigmej/nim-simple-decimal",
+  "method": "git",
+  "description": "A simple decimal library",
+  "license": "MIT",
+  "web": "https://github.com/pigmej/nim-simple-decimal",
+  "tags": [
+    "decimal",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "174c13cb7c37f8f89a81b7ea995757421be35052",
+        "time": 1537287498
+      }
+    ],
+    "commit": {
+      "hash": "174c13cb7c37f8f89a81b7ea995757421be35052",
+      "time": 1537287498
+    }
+  }
+}

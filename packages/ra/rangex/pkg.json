@@ -1,0 +1,42 @@
+{
+  "name": "rangex",
+  "url": "https://github.com/PegasusPlusUS/rangex-nim",
+  "method": "git",
+  "description": "Clear range maker",
+  "license": "MIT",
+  "web": "https://github.com/PegasusPlusUS/rangex-nim",
+  "tags": [
+    "Snippet"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "rangex"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "eac46dfc67fadffe91df6621142f589ba0014618",
+        "time": 1731460690
+      }
+    ],
+    "commit": {
+      "hash": "a4af31d2ad147485a7a44e1bf9ece2b410e09659",
+      "time": 1731461782
+    }
+  }
+}

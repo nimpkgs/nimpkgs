@@ -1,0 +1,34 @@
+{
+  "name": "imghdr",
+  "url": "https://github.com/achesak/nim-imghdr",
+  "method": "git",
+  "description": "Library for detecting the format of an image",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-imghdr",
+  "tags": [
+    "image",
+    "formats",
+    "files"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "de6463188468b83ddc9b1ec28976bb3fc598e1ee",
+      "time": 1556137700
+    }
+  }
+}

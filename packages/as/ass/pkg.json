@@ -1,0 +1,32 @@
+{
+  "name": "ass",
+  "url": "https://github.com/0kalekale/libass-nim",
+  "method": "git",
+  "description": "Nim bindings for libass.",
+  "license": "ISC",
+  "tags": [
+    "multimedia",
+    "video"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "13e3c29ca782dbe798730116bb10a9b5ac9a99b8",
+      "time": 1622383188
+    }
+  }
+}

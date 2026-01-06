@@ -1,0 +1,46 @@
+{
+  "name": "nimassets",
+  "url": "https://github.com/xmonader/nimassets",
+  "method": "git",
+  "description": "bundle your assets to a nim",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nimassets",
+  "tags": [
+    "assets",
+    "bundle",
+    "go-bindata",
+    "resources"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "zstd",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimassets"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "d06724dd7b80fb470542ab932f3a94af78fe2eb1",
+      "time": 1651439921
+    }
+  }
+}

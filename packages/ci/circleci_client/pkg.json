@@ -1,0 +1,36 @@
+{
+  "name": "circleci_client",
+  "url": "https://github.com/FedericoCeratto/nim-circleci",
+  "method": "git",
+  "description": "CircleCI API client",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-circleci",
+  "tags": [
+    "circleci",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.2"
+          }
+        }
+      ],
+      "bin": [
+        "circleci_client"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "6da50b7f8f60fb3b8c6cad6f003c6278c76e0900",
+      "time": 1468274926
+    }
+  }
+}

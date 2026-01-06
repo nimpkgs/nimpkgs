@@ -1,0 +1,42 @@
+{
+  "name": "nclap",
+  "url": "https://github.com/AinTEAsports/nclap",
+  "method": "git",
+  "description": "A simple clap-like command line argument parser written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/AinTEAsports/nclap",
+  "tags": [
+    "cli",
+    "argument",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.4"
+          }
+        },
+        {
+          "name": "fusion",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "099573fee6ead6acf9ac8778d9d387aab8d45dc5",
+      "time": 1757859267
+    }
+  }
+}

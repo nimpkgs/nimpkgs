@@ -1,0 +1,64 @@
+{
+  "name": "nico_font_tool",
+  "url": "https://github.com/TakWolf/nico-font-tool",
+  "method": "git",
+  "description": "A tool for converting fonts to NICO Game Framework format fonts.",
+  "license": "MIT",
+  "web": "https://github.com/TakWolf/nico-font-tool",
+  "tags": [
+    "pico-8",
+    "game"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.6"
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": ">= 0.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.2"
+          }
+        }
+      ],
+      "bin": [
+        "nicofont"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.0.2",
+        "hash": "acb479a7c12a996768e62b780ab60c103d4295c2",
+        "time": 1684912674
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "fd3322c636ba645312676ef5550e3e11e0fafe92",
+        "time": 1684839493
+      }
+    ],
+    "commit": {
+      "hash": "cb31315322dfc7b1bb8333615963921cfb131333",
+      "time": 1687671151
+    }
+  }
+}

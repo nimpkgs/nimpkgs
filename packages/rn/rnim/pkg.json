@@ -1,0 +1,68 @@
+{
+  "name": "rnim",
+  "url": "https://github.com/SciNim/rnim",
+  "method": "git",
+  "description": "A bridge between R and Nim",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/rnim",
+  "tags": [
+    "R",
+    "rstats",
+    "bridge",
+    "library",
+    "statistics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.3.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.7"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.6",
+        "hash": "93e77ad997c240dac3c321473f35a889c102ca7d",
+        "time": 1711446770
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "f076f4e55e4c52ae71242ba2a1063f00af6dbe36",
+        "time": 1634389711
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "78c3d96e78cab0dee53ea8ab33314ad5fd984f87",
+        "time": 1633876852
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "1e505d5052ad75ab9e103b9b7e63a3f2c8371b66",
+        "time": 1633786035
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "b1735f3c4eaf7cd9c3740d5d4e785883e52214ac",
+        "time": 1602794026
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "89034dcff3ace7f224064aec053e015b8225d7ae",
+        "time": 1602782771
+      }
+    ],
+    "commit": {
+      "hash": "93e77ad997c240dac3c321473f35a889c102ca7d",
+      "time": 1711446770
+    }
+  }
+}

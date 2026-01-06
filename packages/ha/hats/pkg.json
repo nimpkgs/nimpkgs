@@ -1,0 +1,17 @@
+{
+  "name": "hats",
+  "url": "https://github.com/davidgarland/nim-hats",
+  "method": "git",
+  "description": "Various kinds of hashed array trees.",
+  "license": "MIT",
+  "web": "https://github.com/davidgarland/nim-hats",
+  "tags": [
+    "array",
+    "arrays",
+    "hat",
+    "deleted"
+  ],
+  "meta": {
+    "status": "Deleted"
+  }
+}

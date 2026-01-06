@@ -1,0 +1,41 @@
+{
+  "name": "primes",
+  "url": "https://github.com/wokibe/primes",
+  "method": "git",
+  "description": "Utilities for prime numbers",
+  "license": "MIT",
+  "web": "https://github.com/wokibe/primes",
+  "tags": [
+    "primes",
+    "is_prime"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.10",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "bitty",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "790b963d7adee7dc6217ac14a11f6a65bc1960be",
+      "time": 1675038588
+    }
+  }
+}

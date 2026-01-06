@@ -1,0 +1,36 @@
+{
+  "name": "avbin",
+  "url": "https://github.com/Vladar4/avbin",
+  "method": "git",
+  "description": "Wrapper of the AVbin library for the Nim language.",
+  "license": "LGPL",
+  "web": "https://github.com/Vladar4/avbin",
+  "tags": [
+    "audio",
+    "video",
+    "media",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "10.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "d2b6712119660568691a88572209b1f4a8a05032",
+      "time": 1514732769
+    }
+  }
+}

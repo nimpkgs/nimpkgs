@@ -1,0 +1,151 @@
+{
+  "name": "euwren",
+  "url": "https://github.com/liquid600pgm/euwren",
+  "method": "git",
+  "description": "High-level Wren wrapper",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/euwren",
+  "tags": [
+    "wren",
+    "embedded",
+    "scripting",
+    "language",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.13.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.3.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.13.3",
+        "hash": "9116927c8bef5033a60a1129231326fb2119550a",
+        "time": 1579298834
+      },
+      {
+        "tag": "0.13.2",
+        "hash": "55e6512e2221034d598ccd06d426de899cbac829",
+        "time": 1577047792
+      },
+      {
+        "tag": "0.13.1",
+        "hash": "22c2d505cb713a57b321a459b1727c4cace9d44f",
+        "time": 1577015163
+      },
+      {
+        "tag": "0.13.0",
+        "hash": "f920606b763a35dc379247edff338c6938f61436",
+        "time": 1576955236
+      },
+      {
+        "tag": "0.12.2",
+        "hash": "a4a407e110aabc386365462968542e79c27b2624",
+        "time": 1576949644
+      },
+      {
+        "tag": "0.12.1",
+        "hash": "d8f0a2e4a45a8da44e69ace479a944bb298eeb1e",
+        "time": 1576848504
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "9ddffc6d687e3139bf72ee118eb33b771e514367",
+        "time": 1576698109
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "c968f5be9819dc06f92e10fe04cb07c820482aff",
+        "time": 1576694297
+      },
+      {
+        "tag": "0.10.1",
+        "hash": "f0c59b94a873b83cd27077ff9af52c41bac06ce5",
+        "time": 1576532938
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "7a27426e68fd4839c8bbf94b088c66bdb8215cfb",
+        "time": 1576532177
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "52081f8eced7470e19a0a46e29fe6ffb8ae5cd10",
+        "time": 1576356588
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "7c882d78011db8bca48daceea115e0c82b58260c",
+        "time": 1576098654
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "d409c5a4dbd35406e705d56cd6cb95ab775e1ef1",
+        "time": 1576087934
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "9bbd15d5eeb2b4c47ea45225ca6d23ea9141a76b",
+        "time": 1575910564
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "d53f36ef963fcfa6511109a9763eab6338fbd66c",
+        "time": 1575579514
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "f41c17061742aea8d8119066fd444b6c14d7c283",
+        "time": 1575568082
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "8c016403f8981a96a2111f7d13a745a1db5c1fb3",
+        "time": 1575493585
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "35754b9aee8a00ce19c0d8a06c0ad9d92c6d0fc2",
+        "time": 1575479198
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "9ffe67e2bc7d57e983ddb45b06da9d24bbd2ecaf",
+        "time": 1575317838
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "cf1e62301dbe7fc156667bc75bf29b6e6b9bb234",
+        "time": 1574007752
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "5a9b78accdb4532489f90b7eb5088e64940d11fb",
+        "time": 1573404728
+      }
+    ],
+    "commit": {
+      "hash": "9148e9d439ae091ccca72a71e91c466f3a0ef0e4",
+      "time": 1579299562
+    }
+  }
+}

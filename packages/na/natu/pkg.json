@@ -1,0 +1,87 @@
+{
+  "name": "natu",
+  "url": "https://github.com/exelotl/natu",
+  "method": "git",
+  "description": "Game Boy Advance development library",
+  "license": "zlib",
+  "web": "https://github.com/exelotl/natu",
+  "tags": [
+    "gba",
+    "nintendo",
+    "homebrew",
+    "game"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "trick",
+          "str": ">= 0.1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.6"
+          }
+        },
+        {
+          "name": "riff",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "mmutil",
+        "natu"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "de2dc9fe15bfb7b76c893b070b03626cadd3a96b",
+        "time": 1739640851
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "d8b3f4a9843b940f93a2f1b26a5478ce491cbad9",
+        "time": 1708809874
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "9b2514769e9adafecff8edbdcf2ffd0948308008",
+        "time": 1700193521
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "adf9430a6b43f65490306f84597388451fb05d18",
+        "time": 1610667039
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "1c197b5dd3ce1ced033dc4fe2f61d158209cb00c",
+        "time": 1593557729
+      },
+      {
+        "tag": "v1.4.3",
+        "hash": "3c22525a0042f2c6c37b31b1a5dbddfe58644b7f",
+        "time": 1529935415
+      }
+    ],
+    "commit": {
+      "hash": "de2dc9fe15bfb7b76c893b070b03626cadd3a96b",
+      "time": 1739640851
+    }
+  }
+}

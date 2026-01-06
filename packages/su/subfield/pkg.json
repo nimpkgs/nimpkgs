@@ -1,0 +1,44 @@
+{
+  "name": "subfield",
+  "url": "https://github.com/jyapayne/subfield",
+  "method": "git",
+  "description": "Override the dot operator to access nested subfields of a Nim object.",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/subfield",
+  "tags": [
+    "subfield",
+    "macros"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        },
+        {
+          "name": "einheit",
+          "str": ">= 0.1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.6"
+          }
+        }
+      ],
+      "bin": [
+        "subfield"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "09c635039dfdcd87977e9691379ac4e70f4bbf80",
+      "time": 1466525235
+    }
+  }
+}

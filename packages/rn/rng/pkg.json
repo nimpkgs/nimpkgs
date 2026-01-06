@@ -1,0 +1,48 @@
+{
+  "name": "rng",
+  "url": "https://codeberg.org/onbox/rng",
+  "method": "git",
+  "description": "Basic wrapper over std/sysrand",
+  "license": "BSD-3-Clause",
+  "web": "https://pony.biz/rng/",
+  "tags": [
+    "random",
+    "sysrand",
+    "rng",
+    "crypto",
+    "cross"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "e05ba446319e474af8cbb61d2e6562335d9fdf3e",
+        "time": 1742468825
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ecc5372dce44e3ad01042a624951adc5576acc56",
+        "time": 1716371363
+      }
+    ],
+    "commit": {
+      "hash": "5e4f1befcf5f020fcece33845ba6a1dabba3f8f7",
+      "time": 1748791225
+    }
+  }
+}

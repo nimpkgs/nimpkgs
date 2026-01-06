@@ -1,0 +1,99 @@
+{
+  "name": "paratext",
+  "url": "https://github.com/paranim/paratext",
+  "method": "git",
+  "description": "A library for rendering text with paranim",
+  "license": "Public Domain",
+  "tags": [
+    "text",
+    "opengl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.13.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.13.0",
+        "hash": "a88675ea691b63a5fba8067fa9b2aa54644978c1",
+        "time": 1651570515
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "7d9b4558c606f17f4c8476617d0d6d91ebac5ba5",
+        "time": 1634505678
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "d9426192b7d4509580d84f7fd3c4e32fdee4c7ca",
+        "time": 1614075191
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "6b0c1e41435679389478c288436c0dedf4fdedfa",
+        "time": 1613641356
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "5bf5c7a680d10d2843ab3f0fb73e4c5b273f2a9e",
+        "time": 1603407093
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "5452da774606db6570c12d1c140c7dc0d81d341a",
+        "time": 1597430618
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "66eb8d9f300bf610eabd3ef8df007f1e95dbac74",
+        "time": 1595802872
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "2c3ec9b2b6a38ca0b1debb264048b8326b0a1a52",
+        "time": 1594940772
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "c0c91c03c8092b9a88cbb29f83f02db1ffe14aac",
+        "time": 1586828973
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "e42512e55c1bc968cc1004c6e0d6bb3b99bf65eb",
+        "time": 1582580032
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "569bc18d912931e2ed11341fa4608cdc41c78928",
+        "time": 1582554923
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "42ae8954f83fe05896a3f47e1b99bb88dd78e918",
+        "time": 1582550430
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "cee5b497baa36dec10acc264eb52f79fb36e9964",
+        "time": 1582473298
+      }
+    ],
+    "commit": {
+      "hash": "a88675ea691b63a5fba8067fa9b2aa54644978c1",
+      "time": 1651570515
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "til",
+  "url": "https://github.com/danielecook/til-tool",
+  "method": "git",
+  "description": "til-tool: Today I Learned tool",
+  "license": "MIT",
+  "web": "https://github.com/danielecook/til-tool",
+  "tags": [
+    "cli",
+    "til"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "colorize",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "til"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.0.3",
+        "hash": "43038ada095b3e90b07f18b58302d6eb1aa31647",
+        "time": 1587561257
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "2ffe42f720d0883fe4c9269edcdefa8545ee21ed",
+        "time": 1587442313
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "78b24aa0b5aba82df5da778b08b3cbb916d51547",
+        "time": 1587441209
+      }
+    ],
+    "commit": {
+      "hash": "13a6c862bdd5a2686039a8314f950862f2ccc40e",
+      "time": 1590777518
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "rtmidi",
+  "url": "https://github.com/stoneface86/nim-rtmidi/",
+  "method": "git",
+  "description": "Nim bindings for RtMidi, a cross-platform realtime MIDI input/output library.",
+  "license": "MIT",
+  "web": "https://github.com/stoneface86/nim-rtmidi/",
+  "tags": [
+    "midi",
+    "cross-platform",
+    "windows",
+    "linux",
+    "macosx",
+    "audio",
+    "wrapper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "6.0.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v6.0.0.0",
+        "hash": "31a832713dfb0c5b73b55573e13e9b951df43156",
+        "time": 1692502294
+      },
+      {
+        "tag": "v5.0.0.0",
+        "hash": "97ff530725aea67903da2eb658f45a8eb55fb465",
+        "time": 1692466575
+      },
+      {
+        "tag": "v4.0.0.0",
+        "hash": "4a6491f08cf84bd388ad14bf89636aecb9f2b9c4",
+        "time": 1692464840
+      }
+    ],
+    "commit": {
+      "hash": "e6a1ad4caeb9e3bb500b823a4c72f36d18d1c1ce",
+      "time": 1692626547
+    }
+  }
+}

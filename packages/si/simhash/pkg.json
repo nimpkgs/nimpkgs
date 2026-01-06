@@ -1,0 +1,41 @@
+{
+  "name": "simhash",
+  "url": "https://github.com/bung87/simhash-nim",
+  "method": "git",
+  "description": "Nim implementation of simhash algoritim",
+  "license": "MIT",
+  "web": "https://github.com/bung87/simhash-nim",
+  "tags": [
+    "simhash",
+    "algoritim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "lc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "45cb37cb09867ea83ae083296342b55103185021",
+      "time": 1577221792
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "name": "norg",
+  "url": "https://codeberg.org/pswilde/norgbackup",
+  "method": "git",
+  "description": "A portable wrapper for borg backup and restic inspired by borgmatic.",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://norgbackup.net",
+  "doc": "https://norgbackup.net/usage/",
+  "tags": [
+    "backup",
+    "system-tools",
+    "borg",
+    "restic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "parsetoml",
+          "str": ">= 0.7.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.1"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 4.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.1"
+          }
+        }
+      ],
+      "bin": [
+        "norg"
+      ],
+      "srcDir": "norg"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.3",
+        "hash": "72c5be6295a7b733d5a0babf513f5aa683415303",
+        "time": 1766166738
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "3cd209846db321ff56a5c75494c38ef26711927e",
+        "time": 1752675249
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "505cdd4fdbfd02d05309178a19d43470de7e4557",
+        "time": 1752674601
+      },
+      {
+        "tag": "v0.1.20",
+        "hash": "98a6d4a05a9328969b91d983be7b037ba0a9bcbe",
+        "time": 1752673730
+      },
+      {
+        "tag": "v0.1.19",
+        "hash": "b739bfd667078bc426d6951b4f76d337ba5493c2",
+        "time": 1742680428
+      },
+      {
+        "tag": "v0.1.18",
+        "hash": "b0e035f1c7e83a15f3851fd1f60dcbc1475d823f",
+        "time": 1742679046
+      },
+      {
+        "tag": "v0.1.17",
+        "hash": "6f98ee4d34afaab49c7f958f84bc251fbb96982d",
+        "time": 1738592431
+      },
+      {
+        "tag": "v0.1.16",
+        "hash": "c177e73c95e8118f56fe18e2cb3601167a03be68",
+        "time": 1738583565
+      },
+      {
+        "tag": "v0.1.15",
+        "hash": "82ea1eed736920a0b6162fcc641612fa26a1fb47",
+        "time": 1735839583
+      },
+      {
+        "tag": "v0.1.14",
+        "hash": "d79780b98b66c0de8ae99d055b3b1593c673ea1d",
+        "time": 1735586402
+      },
+      {
+        "tag": "v0.1.13, v0.1.12a",
+        "hash": "160cf2a534938ddc99843962af2751843351962e",
+        "time": 1732534893
+      },
+      {
+        "tag": "v0.1.12",
+        "hash": "2aeb2bd4a4b8b44bab5a21c7024d6aee3e54101d",
+        "time": 1732534267
+      },
+      {
+        "tag": "v0.1.11",
+        "hash": "f6301cfaf262cad8f245256e6fdfcd184ef8d325",
+        "time": 1732533650
+      },
+      {
+        "tag": "v0.1.10",
+        "hash": "4076151beb324f87d6899b260eca7791816d6568",
+        "time": 1725373519
+      },
+      {
+        "tag": "v0.1.9",
+        "hash": "f3c1618b7f638e6822af18f1a5cfc2b49efb7de7",
+        "time": 1725360169
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "92392f9796f85451b5207250d734c675d5709a5a",
+        "time": 1724783756
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "1ecdeb6a8293c42b3fadb3637e817b78262aa9af",
+        "time": 1724536461
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "360f7e502f6e5289012dc6c0e6dfeb56aa485319",
+        "time": 1724418973
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "ea5ecafee949c30495d1913f4fd3b402bff95894",
+        "time": 1724030688
+      }
+    ],
+    "commit": {
+      "hash": "8037b0d0596d42379d1bf0ba10a93dd13eb454c3",
+      "time": 1766166937
+    }
+  }
+}

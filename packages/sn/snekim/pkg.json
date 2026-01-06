@@ -1,0 +1,63 @@
+{
+  "name": "snekim",
+  "url": "https://codeberg.org/annaaurora/snekim",
+  "method": "git",
+  "description": "A simple implementation of the classic snake game",
+  "license": "LGPLv3",
+  "web": "https://codeberg.org/annaaurora/snekim",
+  "tags": [
+    "game",
+    "2d-game",
+    "raylib",
+    "snake"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        },
+        {
+          "name": "nimraylib_now",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "snekim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.2.0",
+        "hash": "d4754dadcd3671d220ead3e564998f2400017634",
+        "time": 1668121404
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "71be0a2046cb0459d5e45788f323302388bccf2c",
+        "time": 1665093418
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "56a18383dab04ba64be5b5fb94ec532eb91d4578",
+        "time": 1665080070
+      }
+    ],
+    "commit": {
+      "hash": "d4754dadcd3671d220ead3e564998f2400017634",
+      "time": 1668121404
+    }
+  }
+}

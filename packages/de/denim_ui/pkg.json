@@ -1,0 +1,62 @@
+{
+  "name": "denim_ui",
+  "url": "https://github.com/nortero-code/denim-ui",
+  "method": "git",
+  "description": "The Denim UI library",
+  "license": "MIT",
+  "web": "https://github.com/nortero-code/denim-ui",
+  "tags": [
+    "gui",
+    "web",
+    "cross-platform",
+    "library",
+    "reactive",
+    "observables",
+    "dsl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "itertools",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "macroutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "rx_nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "bab47a37b6ea66369831339a6aaaf7c936c2962f",
+      "time": 1698334776
+    }
+  }
+}

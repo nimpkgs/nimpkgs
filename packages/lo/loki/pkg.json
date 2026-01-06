@@ -1,0 +1,57 @@
+{
+  "name": "loki",
+  "url": "https://github.com/beshrkayali/loki",
+  "method": "git",
+  "description": "A small library for writing cli programs in Nim.",
+  "license": "Zlib",
+  "web": "https://github.com/beshrkayali/loki",
+  "tags": [
+    "cmd",
+    "shell",
+    "cli",
+    "interpreter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
+        "time": 1617392275
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "1dd391a18dba76551072fb168e408e3cf26cca79",
+        "time": 1582320598
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "151089dac8481810830d2f81ac7cb4dc50a5ad6b",
+        "time": 1580678684
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "3496625c79342099b829d56340da712625e489ae",
+        "time": 1580677948
+      }
+    ],
+    "commit": {
+      "hash": "c6d8f076cffe29227ba83f54c20d9b2598da2bb3",
+      "time": 1617392275
+    }
+  }
+}

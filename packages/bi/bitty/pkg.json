@@ -1,0 +1,60 @@
+{
+  "name": "bitty",
+  "url": "https://github.com/treeform/bitty/",
+  "method": "git",
+  "description": "Utilities with dealing with 1d and 2d bit arrays.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/bitty/",
+  "tags": [
+    "networking",
+    "udp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "cde1af08ab96536239cc737cbd9217ee284e4e03",
+        "time": 1641621964
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "99e5808d5552a84bbd81eb0208300fec305ddd3f",
+        "time": 1637623424
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "8fe4986d63432f98c472da4afdae82515d281363",
+        "time": 1633673497
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "fd53f4584f90a7a9f70a873b22058900456683ab",
+        "time": 1596473911
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "0878d5a0aef066c5c83cbd0db05433bb0676fe7a",
+        "time": 1595086876
+      }
+    ],
+    "commit": {
+      "hash": "dfe688486351fad159aa54104af6b8b4a3247bde",
+      "time": 1764105519
+    }
+  }
+}

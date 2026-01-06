@@ -1,0 +1,68 @@
+{
+  "name": "unibs",
+  "url": "https://github.com/choltreppe/unibs",
+  "method": "git",
+  "description": "binary de-/serialization that works on js, c and VM (compiletime)",
+  "license": "MIT",
+  "tags": [
+    "serialization",
+    "serialize",
+    "deserialize",
+    "marshal",
+    "unmarshal",
+    "binary serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "8fd57f083cd2f323d4a23eebdbd0f358f6fdeb0d",
+        "time": 1685115937
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "46393e5046698a323bc9b0303344bdb6c863077a",
+        "time": 1678292121
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "b9e046756a1f9ec7cf598fe4a7e433bab636d9ac",
+        "time": 1678210576
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "34b782502b7bf1142cb58ab787ad3e08b661c54f",
+        "time": 1678199260
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "f0f284c23586963d592b29d517bbb5839529032a",
+        "time": 1678108426
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "2b0200fc1908a979a84ca6df6b7ff5d655c92fd9",
+        "time": 1678042253
+      }
+    ],
+    "commit": {
+      "hash": "8fd57f083cd2f323d4a23eebdbd0f358f6fdeb0d",
+      "time": 1685115937
+    }
+  }
+}

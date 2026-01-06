@@ -1,0 +1,53 @@
+{
+  "name": "nimdenter",
+  "url": "https://github.com/xigoi/nimdenter",
+  "method": "git",
+  "description": "A tool for people who don't like Nim's indentation-based syntax",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/xigoi/nimdenter",
+  "tags": [
+    "nim",
+    "indentation",
+    "syntax",
+    "braces"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2022.1.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nimdenter"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "2022.1.7",
+        "hash": "96d27cb5a6d92d06321ec16b3c6ef8eea6347b1c",
+        "time": 1641569176
+      }
+    ],
+    "commit": {
+      "hash": "96d27cb5a6d92d06321ec16b3c6ef8eea6347b1c",
+      "time": 1641569176
+    }
+  }
+}

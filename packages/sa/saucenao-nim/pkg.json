@@ -1,0 +1,57 @@
+{
+  "name": "saucenao-nim",
+  "url": "https://github.com/filvyb/saucenao-nim",
+  "method": "git",
+  "description": "Asynchronous Nim wrapper for SauceNAO's API",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/filvyb/saucenao-nim",
+  "tags": [
+    "async",
+    "api",
+    "wrapper",
+    "SauceNAO"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.1",
+        "hash": "0fc9ebb31c5e45e47c94e6c63637e5e563c814f1",
+        "time": 1707741244
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "29379c161840db975027e2042691e246639406fa",
+        "time": 1693329491
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "3f5cbbe502cd3520310f66381c9172a0e7d91a85",
+        "time": 1693255777
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "78e657828d0c952f31ec00cfa47cf920b862fb8d",
+        "time": 1693243539
+      }
+    ],
+    "commit": {
+      "hash": "0fc9ebb31c5e45e47c94e6c63637e5e563c814f1",
+      "time": 1707741244
+    }
+  }
+}

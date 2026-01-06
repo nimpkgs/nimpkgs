@@ -1,0 +1,40 @@
+{
+  "name": "hyperscript",
+  "url": "https://github.com/schneiderfelipe/hyperscript",
+  "method": "git",
+  "description": "Create HyperText with Nim.",
+  "license": "MIT",
+  "web": "https://github.com/schneiderfelipe/hyperscript",
+  "tags": [
+    "hyperscript",
+    "templating"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1-alpha",
+        "hash": "d129a161f108493c8be311ce458c4351c1da9271",
+        "time": 1625254545
+      }
+    ],
+    "commit": {
+      "hash": "f02971acedabe1dec46e604136ab568bb93127f3",
+      "time": 1625449169
+    }
+  }
+}

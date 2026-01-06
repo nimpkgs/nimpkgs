@@ -1,0 +1,46 @@
+{
+  "name": "libvlc",
+  "url": "https://github.com/nimbackup/nim-libvlc",
+  "method": "git",
+  "description": "libvlc bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/nim-libvlc",
+  "tags": [
+    "vlc",
+    "libvlc",
+    "music",
+    "video",
+    "audio",
+    "media",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "futhark",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a07f882e08019eb0325d8253741fe878d6d2f2d2",
+      "time": 1652131979
+    }
+  }
+}

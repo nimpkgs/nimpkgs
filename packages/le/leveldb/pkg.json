@@ -1,0 +1,59 @@
+{
+  "name": "leveldb",
+  "url": "https://github.com/zielmicha/leveldb.nim",
+  "method": "git",
+  "description": "LevelDB bindings",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/leveldb.nim",
+  "doc": "https://zielmicha.github.io/leveldb.nim/",
+  "tags": [
+    "leveldb",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [
+        "leveldbtool"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.1",
+        "hash": "69f86fe38c71afb391a0334130e421df8099bc50",
+        "time": 1612776301
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "a6678b2688b22d09be206858aa0366eef49f77fc",
+        "time": 1612329554
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "051b3aeda4ef8ea64e4a1233ccb98d55da587e90",
+        "time": 1573410329
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "0a7d73d7f86ecc663c5664ded7c709f88d05c050",
+        "time": 1573384406
+      }
+    ],
+    "commit": {
+      "hash": "69f86fe38c71afb391a0334130e421df8099bc50",
+      "time": 1612776301
+    }
+  }
+}

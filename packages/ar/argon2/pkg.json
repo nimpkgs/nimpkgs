@@ -1,0 +1,54 @@
+{
+  "name": "argon2",
+  "url": "https://github.com/Ahrotahn/argon2",
+  "method": "git",
+  "description": "A nim wrapper for the Argon2 hashing library",
+  "license": "MIT",
+  "web": "https://github.com/Ahrotahn/argon2",
+  "tags": [
+    "argon2",
+    "crypto",
+    "hash",
+    "library",
+    "password",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "8e4308c0fe2f38e9882ba8f6d5f17ad9cd37fb90",
+        "time": 1703776237
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "10691c6291ecb6448cdc1c328ecaacfca79916d0",
+        "time": 1579191818
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "436bf260e31940006ced08f22565c780c68bd232",
+        "time": 1573666163
+      }
+    ],
+    "commit": {
+      "hash": "8e4308c0fe2f38e9882ba8f6d5f17ad9cd37fb90",
+      "time": 1703776237
+    }
+  }
+}

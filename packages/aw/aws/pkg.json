@@ -1,0 +1,48 @@
+{
+  "name": "aws",
+  "url": "https://github.com/thing-king/aws",
+  "method": "git",
+  "description": "Rudimentary `aws-cli` wrapper",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/aws",
+  "tags": [
+    "aws"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.11",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "colors",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "jsony_plus",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2b4ea9c0931b83f1068c6a66958567866d97fbc8",
+      "time": 1741743580
+    }
+  }
+}

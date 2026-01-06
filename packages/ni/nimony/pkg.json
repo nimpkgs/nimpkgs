@@ -1,0 +1,25 @@
+{
+  "name": "nimony",
+  "url": "https://github.com/nim-lang/nimony.git",
+  "method": "git",
+  "description": "Nimony is a new Nim implementation that is in heavy development.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/nimony",
+  "tags": [
+    "Nim compiler"
+  ],
+  "meta": {
+    "broken": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "0a3f2a5b03112f803b933c8ea89e119c84a8ff61",
+        "time": 1762167363
+      }
+    ],
+    "commit": {
+      "hash": "fc8baa61b9911caf4666685a5f5ed41b9c04f6f8",
+      "time": 1767774530
+    }
+  }
+}

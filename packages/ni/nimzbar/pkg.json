@@ -1,0 +1,47 @@
+{
+  "name": "nimzbar",
+  "url": "https://github.com/genotrance/nimzbar",
+  "method": "git",
+  "description": "zbar wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimzbar",
+  "tags": [
+    "zbar",
+    "barcode",
+    "bar",
+    "code"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nimgen",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "2ff94c08f206dd4de81dea91db3a9883dbe560d2",
+        "time": 1544027120
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "091148f77e11dcb477011e827206a0f59162503c",
+        "time": 1541570136
+      }
+    ],
+    "commit": {
+      "hash": "2ff94c08f206dd4de81dea91db3a9883dbe560d2",
+      "time": 1544027120
+    }
+  }
+}

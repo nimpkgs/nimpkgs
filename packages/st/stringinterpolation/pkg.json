@@ -1,0 +1,33 @@
+{
+  "name": "stringinterpolation",
+  "url": "https://github.com/bluenote10/nim-stringinterpolation",
+  "method": "git",
+  "description": "String interpolation with printf syntax",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/nim-stringinterpolation",
+  "tags": [
+    "string formatting",
+    "string interpolation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "4e07f8052f83cce9056a3a3e8b9fcb4640c0dd29",
+      "time": 1434886518
+    }
+  }
+}

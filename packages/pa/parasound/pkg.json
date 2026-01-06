@@ -1,0 +1,49 @@
+{
+  "name": "parasound",
+  "url": "https://github.com/paranim/parasound",
+  "method": "git",
+  "description": "A library for playing audio files",
+  "license": "Public Domain",
+  "tags": [
+    "audio",
+    "sound"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "bccc7d37501225a4d6e7c806c81ed08f7a5bb72e",
+        "time": 1644157724
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "060fce4e854017e85df496289295169797f6bb0d",
+        "time": 1617434431
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "248e4c175367d1858b9f655dadd53745cc975262",
+        "time": 1597175797
+      }
+    ],
+    "commit": {
+      "hash": "bccc7d37501225a4d6e7c806c81ed08f7a5bb72e",
+      "time": 1644157724
+    }
+  }
+}

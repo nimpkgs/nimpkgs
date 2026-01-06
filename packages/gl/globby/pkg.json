@@ -1,0 +1,39 @@
+{
+  "name": "globby",
+  "url": "https://github.com/treeform/globby",
+  "method": "git",
+  "description": "Glob pattern matching for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/globby",
+  "tags": [
+    "glob"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "f4bd5e1873251c73683c438bb0092809bc6798ec",
+        "time": 1626243502
+      }
+    ],
+    "commit": {
+      "hash": "ede865380aab166a2f7b136cabc1d9ead1857a03",
+      "time": 1658704066
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "mime",
+  "url": "https://github.com/enthus1ast/nimMime",
+  "method": "git",
+  "description": "Library for attaching files to emails.",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/nimMime",
+  "tags": [
+    "mime",
+    "email",
+    "mail",
+    "attachment"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.0.3",
+        "hash": "c078527fbea7390f19d79f995237cdfc93575a7c",
+        "time": 1594653254
+      }
+    ],
+    "commit": {
+      "hash": "7bc2fcf5b60e9212b602508efd19cd8640decb77",
+      "time": 1692902061
+    }
+  }
+}

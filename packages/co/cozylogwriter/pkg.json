@@ -1,0 +1,38 @@
+{
+  "name": "cozylogwriter",
+  "url": "https://github.com/indiscipline/cozylogwriter",
+  "method": "git",
+  "description": "Basic zero-dependency logging with automatic colors and styling for Nim.",
+  "license": "GPL-2.0-or-later",
+  "web": "https://github.com/indiscipline/cozylogwriter",
+  "tags": [
+    "log",
+    "logging",
+    "terminal",
+    "color",
+    "colors",
+    "colours",
+    "colour"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "commit": {
+      "hash": "e5eddaca981e065ebfbd7471ae3987c3092645c9",
+      "time": 1715714654
+    }
+  }
+}

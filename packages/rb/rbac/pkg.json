@@ -1,0 +1,48 @@
+{
+  "name": "rbac",
+  "url": "https://github.com/ba0f3/rbac.nim",
+  "method": "git",
+  "description": "Simple Role-based Access Control Library",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/rbac.nim",
+  "tags": [
+    "rbac",
+    "acl",
+    "role-based-access-control",
+    "role-based",
+    "access-control"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "823154f5abebd865773c99699d6cbe4a24e44401",
+        "time": 1746886252
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "6b289ebdae544ca1675b6475563f25f7d9f0b08b",
+        "time": 1564068613
+      }
+    ],
+    "commit": {
+      "hash": "823154f5abebd865773c99699d6cbe4a24e44401",
+      "time": 1746886252
+    }
+  }
+}

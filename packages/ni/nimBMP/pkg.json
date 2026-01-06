@@ -1,0 +1,51 @@
+{
+  "name": "nimBMP",
+  "url": "https://github.com/jangko/nimBMP",
+  "method": "git",
+  "description": "BMP encoder and decoder",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimBMP",
+  "tags": [
+    "graphics",
+    "library",
+    "BMP"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.8",
+        "hash": "d419da8dbe99c9b92f891b2ba13c767deeb94be6",
+        "time": 1594976159
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "0f1b7fb3d0ae5c7e92c68e622fd590f7a405f275",
+        "time": 1577960437
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "7f9e6e49a0936c054f62d949590a51eac11ae438",
+        "time": 1539077015
+      }
+    ],
+    "commit": {
+      "hash": "3be4e68678cd62d0f197911aedfc1dc1778803ec",
+      "time": 1611388197
+    }
+  }
+}

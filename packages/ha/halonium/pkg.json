@@ -1,0 +1,98 @@
+{
+  "name": "halonium",
+  "url": "https://github.com/halonium/halonium",
+  "method": "git",
+  "description": "A browser automation library written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/halonium/halonium",
+  "tags": [
+    "selenium",
+    "automation",
+    "web",
+    "testing",
+    "test"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "tempfile",
+          "str": ">= 0.1.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.7"
+          }
+        },
+        {
+          "name": "https://github.com/pragmagic/uuids",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "zip",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "fusion",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "halonium"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.7",
+        "hash": "b6570cb2b96428a8ecf7f23d84f5450f890ed0d1",
+        "time": 1702614012
+      },
+      {
+        "tag": "0.2.6",
+        "hash": "ac364facacd75adadbac3c122b39fa9587d1d196",
+        "time": 1618198351
+      },
+      {
+        "tag": "0.2.5",
+        "hash": "ae9b49c596f4f4ceae3e0de332fcf92c05ca8a1d",
+        "time": 1618197833
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "df7af8174b2c2f215f3ad22db37cb91c7dfe892a",
+        "time": 1610297122
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "37d205e0ddb796b2a28dff1f8389ebb2d6a41f5c",
+        "time": 1609967149
+      }
+    ],
+    "commit": {
+      "hash": "3293bd67fc363a8b0b159f32acf89b9cf3abaaca",
+      "time": 1712665804
+    }
+  }
+}

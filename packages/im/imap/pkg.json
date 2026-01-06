@@ -1,0 +1,60 @@
+{
+  "name": "imap",
+  "url": "https://git.sr.ht/~ehmry/nim_imap",
+  "method": "git",
+  "description": "IMAP client library",
+  "license": "GPL2",
+  "web": "https://git.sr.ht/~ehmry/nim_imap",
+  "tags": [
+    "imap",
+    "email"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "c6880957365f495d21877c5bfdcf6b3053b6172f",
+        "time": 1528027437
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "d7d691538032b90f13a933fb512c487d57d790ee",
+        "time": 1527404648
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "f2ae2a4b32391b7e0e32478a10d22d5b277106eb",
+        "time": 1488113267
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "5c70028b70dc4f1581c47579f748f7fc8617b5dd",
+        "time": 1487174138
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "58a317da1b2c4c8e00ae51a7f26b899dc6064d81",
+        "time": 1486394582
+      }
+    ],
+    "commit": {
+      "hash": "dfd95505661052a86c9acf728669395846ce8cdf",
+      "time": 1539204503
+    }
+  }
+}

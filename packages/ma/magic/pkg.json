@@ -1,0 +1,34 @@
+{
+  "name": "magic",
+  "url": "https://github.com/xmonader/nim-magic",
+  "method": "git",
+  "description": "libmagic for nim",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nim-magic",
+  "tags": [
+    "libmagic",
+    "magic",
+    "guessfile"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3eb3cc7e0139a696a7b42fd447d0359f07338bd7",
+      "time": 1525187802
+    }
+  }
+}

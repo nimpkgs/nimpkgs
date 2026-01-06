@@ -1,0 +1,62 @@
+{
+  "name": "nimrtlsdr",
+  "url": "https://github.com/jpoirier/nimrtlsdr",
+  "method": "git",
+  "description": "A Nim wrapper for librtlsdr",
+  "license": "BSD",
+  "web": "https://github.com/jpoirier/nimrtlsdr",
+  "tags": [
+    "rtl-sdr",
+    "wrapper",
+    "bindings",
+    "rtlsdr"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.10.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.4",
+        "hash": "404a5e59fd36aa300c490e6d3bb9827f738e3fe7",
+        "time": 1421253953
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "fca354d9c6ff94fe43ac2732c1ffbb93d2e106b1",
+        "time": 1421248943
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "510aecedae6c190cbe01e69de425ca5a8ed7306e",
+        "time": 1421248431
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "a251351431033851a33fcaf74a8a4c4cefcf3e16",
+        "time": 1421247783
+      },
+      {
+        "tag": "v0.1",
+        "hash": "b6e827d4b2e0187d3ed61ca41ad372d9c5e09454",
+        "time": 1421095415
+      }
+    ],
+    "commit": {
+      "hash": "404a5e59fd36aa300c490e6d3bb9827f738e3fe7",
+      "time": 1421253953
+    }
+  }
+}

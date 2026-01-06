@@ -1,0 +1,36 @@
+{
+  "name": "duktape",
+  "url": "https://github.com/manguluka/duktape-nim",
+  "method": "git",
+  "description": "wrapper for the Duktape embeddable Javascript engine",
+  "license": "MIT",
+  "web": "https://github.com/manguluka/duktape-nim",
+  "tags": [
+    "js",
+    "javascript",
+    "scripting",
+    "language",
+    "interpreter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nimgen",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "78b8f7fcc0c592b6766e9121c22ce1fd2f66c3db",
+      "time": 1546709847
+    }
+  }
+}

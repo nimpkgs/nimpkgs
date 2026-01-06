@@ -1,0 +1,75 @@
+{
+  "name": "pine",
+  "url": "https://github.com/Willyboar/pine",
+  "method": "git",
+  "description": "Nim Static Blog & Site Generator",
+  "license": "MIT",
+  "web": "https://github.com/Willyboar/pine",
+  "tags": [
+    "static",
+    "site",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "markdown",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        },
+        {
+          "name": "rainbow",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        }
+      ],
+      "bin": [
+        "pine"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "f944ae15b54c3988b43e4da7d316012b91c70bab",
+        "time": 1572633491
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "54d155553a4c1f0af556b061ca6cfc93d6eee143",
+        "time": 1572615453
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "c38550de4824e5d781b918e343a6743f061833d7",
+        "time": 1572289580
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "bc1c9c466224295d1ca5ed70da309167278c2812",
+        "time": 1571969223
+      }
+    ],
+    "commit": {
+      "hash": "1142e06fdcffe1bacb461d712a5b59df58c0612a",
+      "time": 1573005093
+    }
+  }
+}

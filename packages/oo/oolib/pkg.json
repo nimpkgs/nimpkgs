@@ -1,0 +1,105 @@
+{
+  "name": "oolib",
+  "url": "https://github.com/Glasses-Neo/OOlib",
+  "method": "git",
+  "description": "A nimble package which provides user-defined types, procedures, etc...",
+  "license": "WTFPL",
+  "web": "https://github.com/Glasses-Neo/OOlib",
+  "tags": [
+    "oop",
+    "metaprogramming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.7.1",
+        "hash": "c2ca4b77ce0c40953d1bbe4ecdfb996ce159a0cd",
+        "time": 1697890282
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "c7e7ecb2787c982ef57e74cbf4c74feac204f5c7",
+        "time": 1693142318
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "87f8d84477e65ceb3c5fc09603facca8d332d2ae",
+        "time": 1675585595
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "75808b6cb2fb0bd09584b547dabb09a9ae8725b0",
+        "time": 1675575896
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "3749eae86b756f00313232c5270edeaac796e960",
+        "time": 1664024246
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "50e8c97b91cd0bcccc0958d9f584c43eed1776a5",
+        "time": 1653178556
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "720154c00f5a841e1e9c6b5c1b0306f3f88f65a1",
+        "time": 1653148350
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "2dc4f435def97dc3735a9b1641992a7108ee4070",
+        "time": 1653124311
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "4a539f26a32bc5c25ca3e73a86b3c3307cba2ffd",
+        "time": 1651730732
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "45bca5cc78db3c55ff505895ba5330fe09045e5d",
+        "time": 1634360483
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "73d09655d5f3b1e6c228961b34926be21460e3af",
+        "time": 1629955296
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "b33007b4598a58e587eb71d9e991e1af56affa24",
+        "time": 1629714731
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "743a473841f7efdb41652678fe8a224cdbb7b5b4",
+        "time": 1629610580
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "5a1a0d2aadcbd30d723951d1b8418a653c86bf65",
+        "time": 1627743608
+      }
+    ],
+    "commit": {
+      "hash": "da2d84ee955fc83bae4b1f9513a698ad4f6ebb91",
+      "time": 1730549174
+    }
+  }
+}

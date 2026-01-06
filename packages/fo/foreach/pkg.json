@@ -1,0 +1,51 @@
+{
+  "name": "foreach",
+  "url": "https://github.com/disruptek/foreach",
+  "method": "git",
+  "description": "A sugary for loop with syntax for typechecking loop variables",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/foreach",
+  "tags": [
+    "macro",
+    "syntax",
+    "sugar"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.0.2",
+        "hash": "dedfdd415e8423378d74fa3986f9f25a1127ebf9",
+        "time": 1569360881
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "ee6e11bf6d05fff63d3b1c178029673a3162a65e",
+        "time": 1569360781
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "685dbe6c2b8469ef985168a69c266650583aaac9",
+        "time": 1569095827
+      }
+    ],
+    "commit": {
+      "hash": "edae1f2c5b98a00a574b4b24e7b79b42cc8cdc66",
+      "time": 1572894452
+    }
+  }
+}

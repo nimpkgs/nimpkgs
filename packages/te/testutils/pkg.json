@@ -1,0 +1,121 @@
+{
+  "name": "testutils",
+  "url": "https://github.com/status-im/nim-testutils",
+  "method": "git",
+  "description": "A comprehensive toolkit for all your testing needs",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-testutils",
+  "tags": [
+    "library",
+    "tests",
+    "unit-testing",
+    "integration-testing",
+    "compilation-tests",
+    "fuzzing",
+    "doctest"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.8.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "ntu"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.8.0",
+        "hash": "e4d37dc1652d5c63afb89907efb5a5e812261797",
+        "time": 1752489767
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "382d740ac9fc0d162a120bb07b1cb8afd17a8c01",
+        "time": 1748531527
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "94d68e796c045d5b37cabc6be32d7bfa168f8857",
+        "time": 1739797290
+      },
+      {
+        "tag": "v0.5.3",
+        "hash": "4d37244f9f5e1acd8592a4ceb5c3fc47bc160181",
+        "time": 1728999416
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "e4fb95cbe36ad1e231661c922da04b81e0ffeed9",
+        "time": 1705656393
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "dfc4c1b39f9ded9baf6365014de2b4bfb4dafc34",
+        "time": 1656512280
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "aa6e5216f4b4ab5aa971cdcdd70e1ec1203cedf2",
+        "time": 1637276839
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "7e02e052a4abdec5f7f8617da11bea0496534904",
+        "time": 1637190521
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "6d76fc5e51ce6580289e872558a3b858775e310f",
+        "time": 1616668903
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "c449d909a638fca2c3adf141fb93710d882ed988",
+        "time": 1592492663
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "481186aa761859a35ceefc1af17c73c5a6bb595f",
+        "time": 1582487347
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "773064876051d5cc422eaa5a3874e6f13cca3efd",
+        "time": 1582409451
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "0393625a48787dae6e46a7ab8c62c28d3896c2f8",
+        "time": 1582407313
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "460c90a5223ed84c321ddd001424c3a2a546b81c",
+        "time": 1582327743
+      }
+    ],
+    "commit": {
+      "hash": "e4d37dc1652d5c63afb89907efb5a5e812261797",
+      "time": 1752489767
+    }
+  }
+}

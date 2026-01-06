@@ -1,0 +1,61 @@
+{
+  "name": "bz",
+  "url": "https://github.com/pcarrier/bz",
+  "method": "git",
+  "description": "A few CLI utilities",
+  "license": "0BSD",
+  "web": "https://github.com/pcarrier/bz",
+  "tags": [
+    "unix",
+    "cli",
+    "utils"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 4.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.1"
+          }
+        },
+        {
+          "name": "yaml",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "shost",
+        "cupa",
+        "urlencode",
+        "urldecode",
+        "suc",
+        "yaml2json",
+        "lecho",
+        "shellescape",
+        "statistik"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f68389d369cf5cbd5c2b0f6f7d8fdc679b1dedcd",
+      "time": 1714667109
+    }
+  }
+}

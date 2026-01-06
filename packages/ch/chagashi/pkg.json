@@ -1,0 +1,107 @@
+{
+  "name": "chagashi",
+  "url": "https://git.sr.ht/~bptato/chagashi",
+  "method": "git",
+  "description": "Implementation of the WHATWG-specified text encoders and decoders",
+  "license": "Unlicense",
+  "web": "https://git.sr.ht/~bptato/chagashi",
+  "tags": [
+    "encoding",
+    "charset",
+    "encode",
+    "decode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.7.2",
+        "hash": "9a6847bdb240f299588b8e3fe38c1539fe7db779",
+        "time": 1759781070
+      },
+      {
+        "tag": "v0.7.1",
+        "hash": "f8239130ebb601d3a041eb33ebcb1014db5d5675",
+        "time": 1757164742
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "f5cf26b044a82a2e3cffe83bb2342b7b029f2ab8",
+        "time": 1733587133
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "f77bd4183aad90aca00f387844de2ef8f75ce846",
+        "time": 1728153845
+      },
+      {
+        "tag": "v0.5.6",
+        "hash": "b972e55c34ceffbfa42b3c3c552f98c4b8044fc9",
+        "time": 1725647169
+      },
+      {
+        "tag": "v0.5.5",
+        "hash": "9ab78542fa9083b8fe33eca22f3aceb53f47da0c",
+        "time": 1725211078
+      },
+      {
+        "tag": "v0.5.4",
+        "hash": "a94cda4b1316e43b354b7a0899acae91da772eb2",
+        "time": 1722539047
+      },
+      {
+        "tag": "v0.5.3",
+        "hash": "244c6abde326eab6efe26d2b6abfa9a6f13a84bd",
+        "time": 1722192026
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "28f217fc756c34a16ccfcbf72b3b2d34f2dd7a8d",
+        "time": 1718383585
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "bc61299cf73636214cbc3b59059b8606edac9597",
+        "time": 1718313638
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "f727dc018a91593c399e2d02c6fbe9e3fc1797ef",
+        "time": 1718311403
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "b2eaf326b280e12e36bc3e9c80bc247458cf8655",
+        "time": 1708968518
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "98281287215def572df7cf5d87796f3fa12e5400",
+        "time": 1708645483
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "f890f5a3783619b49ad3c71cda162f443694a473",
+        "time": 1708479447
+      }
+    ],
+    "commit": {
+      "hash": "9a6847bdb240f299588b8e3fe38c1539fe7db779",
+      "time": 1759781070
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "nery",
+  "url": "https://github.com/David-Kunz/Nery",
+  "method": "git",
+  "description": "A simple library to create queries in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/David-Kunz/Nery",
+  "tags": [
+    "query",
+    "macro",
+    "sql",
+    "select"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        },
+        {
+          "name": "fusion",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "b6284f583732db681bb9dcdf322605e75a42fb69",
+        "time": 1621880984
+      }
+    ],
+    "commit": {
+      "hash": "403c136942b4717675eed8fae9d0e2e2c60b7310",
+      "time": 1621881156
+    }
+  }
+}

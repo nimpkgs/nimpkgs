@@ -1,0 +1,42 @@
+{
+  "name": "spread",
+  "url": "https://github.com/metagn/spread",
+  "method": "git",
+  "description": "macro for spreading blocks into call parameters/collections ",
+  "license": "MIT",
+  "web": "https://github.com/metagn/spread",
+  "tags": [
+    "macro",
+    "sugar",
+    "syntax",
+    "argument"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "76634c80cb79dba51becfb4802015f5a9508ec9a",
+        "time": 1689329122
+      }
+    ],
+    "commit": {
+      "hash": "76634c80cb79dba51becfb4802015f5a9508ec9a",
+      "time": 1689329122
+    }
+  }
+}

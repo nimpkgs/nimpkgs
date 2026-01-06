@@ -1,0 +1,34 @@
+{
+  "name": "termstyle",
+  "url": "https://github.com/PMunch/termstyle",
+  "method": "git",
+  "description": "Easy to use styles for terminal output",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/termstyle",
+  "tags": [
+    "terminal",
+    "colour",
+    "style"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "eefd9f17071df2b8c13e18537cd799acd7f41501",
+      "time": 1569147881
+    }
+  }
+}

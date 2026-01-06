@@ -1,0 +1,58 @@
+{
+  "name": "malebolgia",
+  "url": "https://github.com/Araq/malebolgia",
+  "method": "git",
+  "description": "Malebolgia creates new spawns. Experiments with thread pools and related APIs.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/malebolgia",
+  "tags": [
+    "thread",
+    "pool",
+    "spawn",
+    "concurrency",
+    "parallelism"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.9.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.3.0",
+        "hash": "4e73fd0f399f4a4462f896eb8605a73da14b5b6b",
+        "time": 1693429371
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "696debeff6e444b95ae7a1bfca3cf9131db08803",
+        "time": 1693119980
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "0023c6f10fc36816420e8d5768fe765dc6bad7a8",
+        "time": 1693018648
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "54109ad9dc78a7146907111d9939c0db21ea7efb",
+        "time": 1684962344
+      }
+    ],
+    "commit": {
+      "hash": "ab17bef08e8e84fabc33e0b039b324438e1ce27b",
+      "time": 1745952651
+    }
+  }
+}

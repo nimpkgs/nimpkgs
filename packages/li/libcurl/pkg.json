@@ -1,0 +1,42 @@
+{
+  "name": "libcurl",
+  "url": "https://github.com/Araq/libcurl",
+  "method": "git",
+  "description": "Nim wrapper for libcurl.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/libcurl",
+  "tags": [
+    "curl",
+    "web",
+    "http",
+    "download"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "23f3d90e60d7a233b5eb27fb13e57fd198c73697",
+        "time": 1493222154
+      }
+    ],
+    "commit": {
+      "hash": "eecbfc31e17ae2f09f0b6d2aaefcfb970c7d2be4",
+      "time": 1766558643
+    }
+  }
+}

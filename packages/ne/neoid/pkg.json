@@ -1,0 +1,93 @@
+{
+  "name": "neoid",
+  "url": "https://github.com/theAkito/nim-neoid",
+  "method": "git",
+  "description": "Nim implementation of NanoID, a tiny, secure, URL-friendly, unique string ID generator. Works with Linux and Windows!",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "akito",
+    "nanoid",
+    "neoid",
+    "uuid",
+    "oid",
+    "secure",
+    "random",
+    "generator",
+    "windows",
+    "rng",
+    "csprng",
+    "cprng",
+    "crng",
+    "crypto",
+    "cryptography",
+    "crypt",
+    "encrypt",
+    "encryption",
+    "easy",
+    "quick"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "random",
+          "str": ">= 0.5.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.7"
+          }
+        },
+        {
+          "name": "winim",
+          "str": ">= 3.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.2",
+        "hash": "c2899042da07bf6b71c27c115ed780b69b35b128",
+        "time": 1614535038
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "39e6a67900f990925a2d279cbae1675e822ebe4f",
+        "time": 1605107516
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "424b0b359a475da3cc80ffcb0152349d27ae42c1",
+        "time": 1604448364
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "54ab178c7c86e737be10562ce6683bb81b067749",
+        "time": 1541679166
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "683297dad7116d717fe58e125ad27cdfbf18c40c",
+        "time": 1538816393
+      }
+    ],
+    "commit": {
+      "hash": "f6197a00064a0779b0d0e5c927873d9afe1b4bc1",
+      "time": 1625186770
+    }
+  }
+}

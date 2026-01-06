@@ -1,0 +1,52 @@
+{
+  "name": "loco",
+  "url": "https://github.com/moigagoo/loco",
+  "method": "git",
+  "description": "Localization package for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/loco",
+  "tags": [
+    "localization",
+    "translation",
+    "internationalization",
+    "i18n"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "95ead6227955d9fe74b83d88b02e50b9ea991277",
+        "time": 1557600830
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "fe4271a4d82abbd37e696518626e8dd16b4e980d",
+        "time": 1547110886
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "46bcf49e90ca2901e7259d4f80b1c8fc27aeb0a9",
+        "time": 1546973864
+      }
+    ],
+    "commit": {
+      "hash": "92e20f5309ea73701fa4ed036883c0fd266f168f",
+      "time": 1619427310
+    }
+  }
+}

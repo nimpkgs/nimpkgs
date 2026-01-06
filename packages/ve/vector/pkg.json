@@ -1,0 +1,46 @@
+{
+  "name": "vector",
+  "url": "https://github.com/tontinton/vector",
+  "method": "git",
+  "description": "Simple reallocating vector",
+  "license": "MIT",
+  "web": "https://github.com/tontinton/vector",
+  "tags": [
+    "vector",
+    "memory",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "77d4a292f6c504180da0968834303bdd459dd1c4",
+        "time": 1601307340
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "2a30b9550776142a7d2eb51d9858ed8cd8c05ab8",
+        "time": 1601238961
+      }
+    ],
+    "commit": {
+      "hash": "77d4a292f6c504180da0968834303bdd459dd1c4",
+      "time": 1601307340
+    }
+  }
+}

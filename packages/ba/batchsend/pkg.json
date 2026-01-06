@@ -1,0 +1,45 @@
+{
+  "name": "batchsend",
+  "url": "https://github.com/marcomq/batchsend",
+  "method": "git",
+  "description": "Nim / Python library to feed HTTP server quickly with custom messages",
+  "license": "MIT",
+  "web": "https://github.com/marcomq/batchsend",
+  "tags": [
+    "fast",
+    "multithreaded",
+    "tcp",
+    "http",
+    "transmission",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.10"
+          }
+        },
+        {
+          "name": "nimpy",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "95337cf49dd4d000b01ae16925ba82831026b853",
+      "time": 1647083838
+    }
+  }
+}

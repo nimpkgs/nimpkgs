@@ -1,0 +1,68 @@
+{
+  "name": "jitter",
+  "url": "https://github.com/sharpcdf/jitter",
+  "method": "git",
+  "description": "A git-based binary manager for linux.",
+  "license": "MIT",
+  "web": "https://github.com/sharpcdf/jitter",
+  "tags": [
+    "package-manager",
+    "downloader",
+    "git",
+    "package"
+  ],
+  "meta": {
+    "broken": true,
+    "versions": [
+      {
+        "tag": "v0.5.0",
+        "hash": "cd13a064bd4ff98c7150c9d8a61fd597c8961392",
+        "time": 1667770928
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "6b63b8415fa37bed302090bda59199ab282b9dd7",
+        "time": 1663370184
+      },
+      {
+        "tag": "v0.4.0-patch3",
+        "hash": "1275f77dd7d2ea6452a29520d93b2fafea38dd40",
+        "time": 1663289340
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "955819a9895ea6007510de307d7568675df104f1",
+        "time": 1659907373
+      },
+      {
+        "tag": "v0.3.9",
+        "hash": "ed46382df64252d464e146cc98627bdd8da7cace",
+        "time": 1659380269
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "9f632f397f4520329508c23bd729abda62fb53d1",
+        "time": 1659019523
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "14da483aa7614a2c88f5c0ae561bac6632399160",
+        "time": 1658431248
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "a6de2c2749e3788f4c75291d305d26217f5832b9",
+        "time": 1658289698
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "76757cae11c8566d979085fa2cebe90dc7a27a66",
+        "time": 1658279398
+      }
+    ],
+    "commit": {
+      "hash": "b635ac2463150f0de5627f283907b6c486074423",
+      "time": 1714610137
+    }
+  }
+}

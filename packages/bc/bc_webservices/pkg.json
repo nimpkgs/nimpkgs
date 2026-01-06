@@ -1,0 +1,51 @@
+{
+  "name": "bc_webservices",
+  "url": "https://codeberg.org/pswilde/bc_webservices",
+  "method": "git",
+  "description": "Library to authenticate and make requests to Microsoft Dynamics 365 Business Central web services",
+  "license": "GPL-3.0-only",
+  "web": "https://codeberg.org/pswilde/bc_webservices",
+  "tags": [
+    "library",
+    "Business Central",
+    "Microsoft Dynamics 365",
+    "OData",
+    "REST API"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.12",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.12",
+        "hash": "82c1b6200798994a21e5bcd03852f63d41593a27",
+        "time": 1693580388
+      }
+    ],
+    "commit": {
+      "hash": "54cf07712ff542530c1815a8a93904b59530b9dd",
+      "time": 1693581614
+    }
+  }
+}

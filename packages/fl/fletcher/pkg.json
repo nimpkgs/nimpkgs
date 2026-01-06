@@ -1,0 +1,60 @@
+{
+  "name": "fletcher",
+  "url": "https://github.com/Akito13/nim-fletcher",
+  "method": "git",
+  "description": "Implementation of the Fletcher checksum algorithm.",
+  "license": "GPLv3+",
+  "web": "https://github.com/Akito13/nim-fletcher",
+  "tags": [
+    "algorithm",
+    "checksum",
+    "hash",
+    "adler",
+    "crc",
+    "crc32",
+    "embedded"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "5931cabffa243861ba1efc82db3cb983f1a37e74",
+        "time": 1567207485
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "99a7360930f88ac80efe63fa7984cf972fde16cc",
+        "time": 1567206728
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "61810de58fa607d393e23019384df80f3e2899b5",
+        "time": 1567198815
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "ff72dd877374b1e66358f08b50ac02fb1826d351",
+        "time": 1567124440
+      }
+    ],
+    "commit": {
+      "hash": "fff025a6d4dc674314fd791da11b28d2cf93b909",
+      "time": 1625338052
+    }
+  }
+}

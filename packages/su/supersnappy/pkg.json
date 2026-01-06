@@ -1,0 +1,95 @@
+{
+  "name": "supersnappy",
+  "url": "https://github.com/guzba/supersnappy",
+  "method": "git",
+  "description": "Dependency-free and performant Nim Snappy implementation.",
+  "license": "MIT",
+  "web": "https://github.com/guzba/supersnappy",
+  "tags": [
+    "compression",
+    "snappy"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "2.1.4",
+        "hash": "4fed6553d539cbbfb17ab5fea16a58b4f1916e7d",
+        "time": 1765833613
+      },
+      {
+        "tag": "2.1.3",
+        "hash": "e4df8cb5468dd96fc5a4764028e20c8a3942f16a",
+        "time": 1655013821
+      },
+      {
+        "tag": "2.1.1",
+        "hash": "f28c051f13a05773e78c8c0ae1598f310b7bf7e4",
+        "time": 1625028131
+      },
+      {
+        "tag": "2.1.0",
+        "hash": "09544d02d71657f28508b63a5d51f747ac264dce",
+        "time": 1623052655
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "a239a5a9e3e53867098aa10939bd050db1a7f3a6",
+        "time": 1607039497
+      },
+      {
+        "tag": "1.1.5",
+        "hash": "9d86bbdcff3b540419c49b3bc88c471ce071ba44",
+        "time": 1605392372
+      },
+      {
+        "tag": "1.1.4",
+        "hash": "0fa52d89f9d65bb0a09755ce2291a67069116021",
+        "time": 1604997287
+      },
+      {
+        "tag": "1.1.3",
+        "hash": "c697e94aa92b289d5931955558a7231e8166be88",
+        "time": 1604881727
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "c3af3cfb7e19d0f01051a475ff46d91d55e3ceee",
+        "time": 1604858779
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "80b356dab109cf155e07a2532615a34a8ed6a38f",
+        "time": 1603655919
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "e8a390ccae185230f0e58055b17f6179b42a98dc",
+        "time": 1602915365
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "d025f4fdcf68e7eaaee2b19e0e69a903938ff54a",
+        "time": 1594084775
+      }
+    ],
+    "commit": {
+      "hash": "4fed6553d539cbbfb17ab5fea16a58b4f1916e7d",
+      "time": 1765833613
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "taskpools",
+  "url": "https://github.com/status-im/nim-taskpools",
+  "method": "git",
+  "description": "lightweight, energy-efficient, easily auditable threadpool",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-taskpools",
+  "tags": [
+    "library",
+    "multithreading",
+    "parallelism",
+    "data-parallelism",
+    "threadpool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "9e8ccc754631ac55ac2fd495e167e74e86293edb",
+        "time": 1746539002
+      },
+      {
+        "tag": "v0.0.4",
+        "hash": "b3673c7a7a959ccacb393bd9b47e997bbd177f5a",
+        "time": 1669056972
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "8d408ac6cfc9c24ec8b7b65d5993e85050dcbaa9",
+        "time": 1644327016
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "12752b9e5e6502a75b2c8d8da7803ce043c4ba1c",
+        "time": 1642354423
+      }
+    ],
+    "commit": {
+      "hash": "4acdc6ef005a93dba09f902ed75197548cf7b451",
+      "time": 1764244552
+    }
+  }
+}

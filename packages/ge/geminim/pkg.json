@@ -1,0 +1,37 @@
+{
+  "name": "geminim",
+  "url": "https://github.com/IDF31/geminim",
+  "method": "git",
+  "description": "Simple async Gemini server",
+  "license": "BSD-2",
+  "tags": [
+    "gemini",
+    "server",
+    "async",
+    "based"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [
+        "geminim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "053883efc9d432b65ba25e7db570487795ef4bb6",
+      "time": 1655111002
+    }
+  }
+}

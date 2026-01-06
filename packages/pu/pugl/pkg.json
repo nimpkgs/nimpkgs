@@ -1,0 +1,39 @@
+{
+  "name": "pugl",
+  "url": "https://github.com/NimAudio/nim-pugl",
+  "method": "git",
+  "description": "PUGL plugin graphics bindings",
+  "license": "MIT",
+  "web": "https://github.com/NimAudio/nim-pugl",
+  "tags": [
+    "plugin",
+    "audio-plugin",
+    "pugl",
+    "graphics",
+    "opengl",
+    "gui",
+    "windowing",
+    "window"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "445ea4342569be39a54a82bb4928030b5ccafff5",
+      "time": 1726374431
+    }
+  }
+}

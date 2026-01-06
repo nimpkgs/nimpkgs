@@ -1,0 +1,66 @@
+{
+  "name": "nsdl2",
+  "url": "https://github.com/amnr/nsdl2",
+  "method": "git",
+  "description": "High level SDL 2.0 shared library wrapper",
+  "license": "NCSA OR MIT OR Zlib",
+  "web": "https://github.com/amnr/nsdl2",
+  "tags": [
+    "sdl",
+    "sdl2",
+    "library",
+    "wrapper",
+    "gui",
+    "graphics",
+    "audio",
+    "video"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.10",
+      "requires": [
+        {
+          "name": "dlutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.9.10",
+        "hash": "c7d485c8febe978621023bea7804c438064f5e3e",
+        "time": 1744455806
+      },
+      {
+        "tag": "0.9.7",
+        "hash": "3dd28291dfe14107f025bcf138c6aebc2b4a8611",
+        "time": 1723371897
+      },
+      {
+        "tag": "0.9.5",
+        "hash": "bffc4d04bfb5c47e477a403a393331a849f35fd9",
+        "time": 1706552829
+      },
+      {
+        "tag": "v0.9.4",
+        "hash": "3cdeef13bf1ad0b404fb5b100f31336767d1e65a",
+        "time": 1706437471
+      },
+      {
+        "tag": "v0.9.3",
+        "hash": "09acf457f20d44b308ff412b1b7a8a379a9bef88",
+        "time": 1706204950
+      }
+    ],
+    "commit": {
+      "hash": "c7d485c8febe978621023bea7804c438064f5e3e",
+      "time": 1744455806
+    }
+  }
+}

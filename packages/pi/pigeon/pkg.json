@@ -1,0 +1,15 @@
+{
+  "name": "pigeon",
+  "url": "https://github.com/dizzyliam/pigeon",
+  "method": "git",
+  "description": "Define procedures on the server, call them from the browser.",
+  "license": "MIT",
+  "tags": [
+    "webdev",
+    "api",
+    "HTTP"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

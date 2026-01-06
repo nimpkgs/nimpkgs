@@ -1,0 +1,45 @@
+{
+  "name": "wChart",
+  "url": "https://github.com/bunkford/wChart",
+  "method": "git",
+  "description": "Chart plugin for wNim.",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/wChart",
+  "doc": "https://bunkford.github.io/wChart/wChart.html",
+  "tags": [
+    "library",
+    "windows",
+    "gui",
+    "ui",
+    "wnim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "wNim",
+          "str": ">= 0.9.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "85ddc33c8e88d66c3a658ecdae23d129dfcefd30",
+      "time": 1568382156
+    }
+  }
+}

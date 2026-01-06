@@ -1,0 +1,41 @@
+{
+  "name": "stb_truetype",
+  "url": "https://github.com/guzba/stb_truetype",
+  "method": "git",
+  "description": "Nim bindings for stb_truetype.",
+  "license": "MIT",
+  "web": "https://github.com/guzba/stb_truetype",
+  "tags": [
+    "font",
+    "truetype",
+    "opentype"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "82f62d5ed14840274d1c0ca30eba07cccc14588b",
+        "time": 1620195849
+      }
+    ],
+    "commit": {
+      "hash": "d345d3a13222200338a10c72dd5345afc814408d",
+      "time": 1730750597
+    }
+  }
+}

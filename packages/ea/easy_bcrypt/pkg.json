@@ -1,0 +1,57 @@
+{
+  "name": "easy_bcrypt",
+  "url": "https://github.com/Akito13/easy-bcrypt.git",
+  "method": "git",
+  "description": "A simple wrapper providing a convenient reentrant interface for the bcrypt password hashing algorithm.",
+  "license": "CC0",
+  "tags": [
+    "hash",
+    "crypto",
+    "password",
+    "bcrypt"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.3",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "2.0.3",
+        "hash": "c1aa625be542c0488c2ae81d3ab14f6dcbaa2da2",
+        "time": 1561722875
+      },
+      {
+        "tag": "2.0.2",
+        "hash": "66c426d178d1a2fd5035909aecb1102ae429a06e",
+        "time": 1421020671
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "8b6b87096262fe25e967c5e0040ecda568ccf933",
+        "time": 1421018476
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "d4c5eefcb11fc28741a1f3db0bc0e2902299601b",
+        "time": 1421017235
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "0232a264d471f190794d734f58d77836602da945",
+        "time": 1421015074
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "2272793ac8fd436f2cea3d7b90f4b01a9a7dd079",
+        "time": 1417981591
+      }
+    ],
+    "commit": {
+      "hash": "c1aa625be542c0488c2ae81d3ab14f6dcbaa2da2",
+      "time": 1561722875
+    }
+  }
+}

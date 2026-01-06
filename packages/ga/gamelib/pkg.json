@@ -1,0 +1,42 @@
+{
+  "name": "gamelib",
+  "url": "https://github.com/PMunch/SDLGamelib",
+  "method": "git",
+  "description": "A library of functions to make creating games using Nim and SDL2 easier. This does not intend to be a full blown engine and tries to keep all the components loosely coupled so that individual parts can be used separately.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/SDLGamelib",
+  "tags": [
+    "sdl",
+    "game",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        },
+        {
+          "name": "sdl2",
+          "str": ">= 1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1b4baefbe9f80b4cf865487a4e44d20226381958",
+      "time": 1624606285
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "implot",
+  "url": "https://github.com/dinau/nim_implot",
+  "method": "git",
+  "description": "Nim binding for ImPlot (CImPlot/ImGui/CImGui)",
+  "license": "MIT License",
+  "web": "https://github.com/dinau/nim_implot",
+  "tags": [
+    "imgui",
+    "nimgl",
+    "implot",
+    "plot",
+    "gui",
+    "graph",
+    "glfw",
+    "opengl",
+    "cimgui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.16.11",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nimgl",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        },
+        {
+          "name": "https://github.com/nimgl/imgui",
+          "str": "1.91.9.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.91.9.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.16.11",
+        "hash": "72090882acdeafe85d6a4af8bcac4475c7f65bb6",
+        "time": 1761573041
+      },
+      {
+        "tag": "0.16.10",
+        "hash": "151d039a3671863a1aef8c0f680542f23b2adfab",
+        "time": 1759849044
+      },
+      {
+        "tag": "0.16.9",
+        "hash": "da8a7f2e7a997990552e9e5070707a493d9e884c",
+        "time": 1757066456
+      },
+      {
+        "tag": "0.16.8",
+        "hash": "443ea6265e17d287a964e0707bbedc4bc4b8b0cf",
+        "time": 1757062308
+      },
+      {
+        "tag": "0.16.7",
+        "hash": "11321f5d3c3bf1ccbf2dfb254199e533b077de2c",
+        "time": 1727186254
+      },
+      {
+        "tag": "0.16.6",
+        "hash": "3b0cd8bc073d9e18ece9c9f275a1e28ed1e5e898",
+        "time": 1703045154
+      },
+      {
+        "tag": "0.16.5",
+        "hash": "5acbb93b0d3b65bdcb957c06a32d3867b447bbd0",
+        "time": 1696339134
+      },
+      {
+        "tag": "0.16.4",
+        "hash": "bb67f2d9e6d5122e71a1c890c26b2d30a50c66a2",
+        "time": 1695132547
+      },
+      {
+        "tag": "0.16.3",
+        "hash": "894d61f330153c8463aa7908cbd7dcffec0e1e14",
+        "time": 1695025284
+      },
+      {
+        "tag": "0.16.2",
+        "hash": "c0452ac13e01e06a5762a8b077d416eccafd8a98",
+        "time": 1694945261
+      },
+      {
+        "tag": "0.16.1",
+        "hash": "46327f04c1fb281d3ca14460103ac3b231b801b1",
+        "time": 1694842153
+      }
+    ],
+    "commit": {
+      "hash": "72090882acdeafe85d6a4af8bcac4475c7f65bb6",
+      "time": 1761573041
+    }
+  }
+}

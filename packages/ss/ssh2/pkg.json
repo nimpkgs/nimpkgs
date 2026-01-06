@@ -1,0 +1,91 @@
+{
+  "name": "ssh2",
+  "url": "https://github.com/ba0f3/ssh2.nim",
+  "method": "git",
+  "description": "SSH, SCP and SFTP client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/ssh2.nim",
+  "tags": [
+    "ssh2",
+    "libssh",
+    "scp",
+    "ssh",
+    "sftp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "libssh2",
+          "str": ">= 0.1.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "b45447fa3892024eb5ceb5d1516beba57bd68d05",
+        "time": 1742353970
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "11c1cf8dc46bae4e08df0f724eb05716bbc7ff6d",
+        "time": 1714449463
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "fbcd40be978162f16cd7eec002212da70e9d7829",
+        "time": 1708658058
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "ddee3ef6a00f57f14a0731fc04514a03a0109350",
+        "time": 1708516371
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "2cad2d56f25643d1cd7e5aa4e0a31e8fd7b6b14e",
+        "time": 1691975887
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "39003edb805d66f14e8315b59148c7431a0c35d9",
+        "time": 1678921987
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "60fa0f4c8ab5cc77eac9285a3a86ba4f453d6954",
+        "time": 1650811657
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "ce29298142cdf18d07d961a99bf2028d4c66b20c",
+        "time": 1627406319
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "4366e8c387983b668cb29133fc8256f5d7d028ca",
+        "time": 1620878732
+      }
+    ],
+    "commit": {
+      "hash": "fca51f08ed362be82fe76c36f312a722dcfa952e",
+      "time": 1762961145
+    }
+  }
+}

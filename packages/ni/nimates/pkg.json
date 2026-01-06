@@ -1,0 +1,34 @@
+{
+  "name": "nimates",
+  "url": "https://github.com/jamesalbert/nimates",
+  "method": "git",
+  "description": "Client library for the Postmates API",
+  "license": "Apache",
+  "web": "https://github.com/jamesalbert/nimates",
+  "tags": [
+    "library",
+    "postmates",
+    "delivery"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "97e426f64835ebc868d75b5f74470496426152e7",
+      "time": 1509780164
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "zip",
+  "url": "https://github.com/nim-lang/zip",
+  "method": "git",
+  "description": "A wrapper for the zip library",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/zip",
+  "tags": [
+    "wrapper",
+    "zip"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "bdc5783fefc1afb8eb622ff13d464a832ce1d507",
+        "time": 1594106081
+      }
+    ],
+    "commit": {
+      "hash": "1bc02a1d888cedb53075ca81d9fe3553c16ef10a",
+      "time": 1732608775
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "kaitai_struct_nim_runtime",
+  "url": "https://github.com/kaitai-io/kaitai_struct_nim_runtime",
+  "method": "git",
+  "description": "Kaitai Struct runtime library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/kaitai-io/kaitai_struct_nim_runtime",
+  "tags": [
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.11.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.11.0",
+        "hash": "458d424950909c46d82bad3dc6ee8a7bf37c1ce8",
+        "time": 1757365757
+      }
+    ],
+    "commit": {
+      "hash": "1f1cd4c3145b84b98cd426b6b7ef415d34e64956",
+      "time": 1763565098
+    }
+  }
+}

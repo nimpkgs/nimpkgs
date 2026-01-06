@@ -1,0 +1,51 @@
+{
+  "name": "dslutils",
+  "url": "https://github.com/codehz/dslutils",
+  "method": "git",
+  "description": "A macro collection for creating DSL in nim",
+  "license": "MIT",
+  "web": "https://github.com/codehz/dslutils",
+  "tags": [
+    "dsl",
+    "macro",
+    "pattern"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.3",
+        "hash": "f30118605153dd924685fbc11095e7c818a8e545",
+        "time": 1635238030
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "cb21e782b487fbe1305c71e15f7e93c6c0935099",
+        "time": 1634974789
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "365c02b477039657809c0854d82c588120184d0b",
+        "time": 1634974231
+      }
+    ],
+    "commit": {
+      "hash": "f30118605153dd924685fbc11095e7c818a8e545",
+      "time": 1635238030
+    }
+  }
+}

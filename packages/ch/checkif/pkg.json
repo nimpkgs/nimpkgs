@@ -1,0 +1,72 @@
+{
+  "name": "checkif",
+  "url": "https://github.com/thisago/checkif",
+  "method": "git",
+  "description": "A CLI tool to check files (and registry in Windows)",
+  "license": "MIT",
+  "web": "https://github.com/thisago/checkif",
+  "tags": [
+    "windows",
+    "fs",
+    "cli",
+    "tool",
+    "test"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "checkif"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.2.0",
+        "hash": "c534e6428dc3fb72dc22f003c86de6f4d2792bef",
+        "time": 1662505393
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "303dc33c9e125072e503c7a47e71217a83378c7b",
+        "time": 1660604546
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "47f9a5be2eeed1156f9584454f10eccb89f3dce9",
+        "time": 1660417440
+      }
+    ],
+    "commit": {
+      "hash": "c534e6428dc3fb72dc22f003c86de6f4d2792bef",
+      "time": 1662505393
+    }
+  }
+}

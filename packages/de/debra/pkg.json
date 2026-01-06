@@ -1,0 +1,68 @@
+{
+  "name": "debra",
+  "url": "https://github.com/elijahr/nim-debra",
+  "method": "git",
+  "description": "DEBRA+ safe memory reclamation for lock-free data structures.",
+  "license": "MIT",
+  "web": "https://github.com/elijahr/nim-debra",
+  "doc": "https://elijahr.github.io/nim-debra/",
+  "tags": [
+    "memory-management",
+    "lock-free",
+    "debra"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "typestates",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "e84ec3129d25c4e1bc484b52060d5ddbef2b9ced",
+        "time": 1765605799
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "1c5880f2aa438d312ea0809840847843f5cd1b0c",
+        "time": 1765537856
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "3fda88ef17f130bbdeb70f540db35c2890846021",
+        "time": 1765420301
+      }
+    ],
+    "commit": {
+      "hash": "f231630b2054d68a02533149d455eaa25d7c4ff5",
+      "time": 1766312719
+    }
+  }
+}

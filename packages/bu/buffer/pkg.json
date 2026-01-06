@@ -1,0 +1,41 @@
+{
+  "name": "buffer",
+  "url": "https://github.com/bung87/buffer",
+  "method": "git",
+  "description": "buffer",
+  "license": "MIT",
+  "web": "https://github.com/bung87/buffer",
+  "tags": [
+    "stream",
+    "buffer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "struct",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "31aa5d8d250486c6850a101bed94bd05d0ba36b3",
+      "time": 1590802995
+    }
+  }
+}

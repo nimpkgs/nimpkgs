@@ -1,0 +1,50 @@
+{
+  "name": "beautifulparser",
+  "url": "https://github.com/TelegramXPlus/beautifulparser",
+  "method": "git",
+  "description": "Simple parser for HTML",
+  "license": "MIT",
+  "web": "https://github.com/TelegramXPlus/beautifulparser",
+  "tags": [
+    "parser",
+    "html"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "ac594fdafdb292536c2ad9a0b7c7057867352720",
+        "time": 1756487567
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "9d11932b0fd32a0a07779ce9d059c9150aa48ad2",
+        "time": 1756458882
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "71118d6e9ae6fca8e7fc8d9e167a77dfa0ce3857",
+        "time": 1725843324
+      }
+    ],
+    "commit": {
+      "hash": "ac594fdafdb292536c2ad9a0b7c7057867352720",
+      "time": 1756487567
+    }
+  }
+}

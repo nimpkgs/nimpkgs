@@ -1,0 +1,145 @@
+{
+  "name": "swayipc",
+  "url": "https://github.com/disruptek/swayipc",
+  "method": "git",
+  "description": "IPC interface to sway (or i3) compositors",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/swayipc",
+  "tags": [
+    "wayland",
+    "sway",
+    "i3",
+    "ipc",
+    "i3ipc",
+    "swaymsg",
+    "x11",
+    "swaywm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.1.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "nesm",
+          "str": ">= 0.4.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.5"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 0.9.40",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.40"
+          }
+        }
+      ],
+      "bin": [
+        "swayipc"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "3.1.8",
+        "hash": "6945cd64c433c9ce42fb7c67cd6cc1ed82e35a62",
+        "time": 1590077546
+      },
+      {
+        "tag": "3.1.7",
+        "hash": "bbfc6b1554c73fad9ccc25da083215d9dc4b83a0",
+        "time": 1588962640
+      },
+      {
+        "tag": "3.1.6",
+        "hash": "2591ba38ecadd02c2ab7371b5219b7daff633bfa",
+        "time": 1581892091
+      },
+      {
+        "tag": "3.1.5",
+        "hash": "f2fe01edb3384b9036882e0eb8f9f6ce35ad23c0",
+        "time": 1577855856
+      },
+      {
+        "tag": "3.1.4",
+        "hash": "c05f01c903c3765152ce615c7b452278b6f493c2",
+        "time": 1572795684
+      },
+      {
+        "tag": "3.1.3",
+        "hash": "747bf67628fa03cf15cf09c07f9310e96f88e1f5",
+        "time": 1572479685
+      },
+      {
+        "tag": "3.1.2",
+        "hash": "8d241515c405a087c724be03fb92c0ceca7ac548",
+        "time": 1572040118
+      },
+      {
+        "tag": "3.1.1",
+        "hash": "471ba539c9cf200320be76f86d8c4e97e6b595a8",
+        "time": 1571617370
+      },
+      {
+        "tag": "3.1.0",
+        "hash": "b8ca83f572972074b01e63b82d91698dc089f308",
+        "time": 1571594414
+      },
+      {
+        "tag": "3.0.1",
+        "hash": "eccafc4579b09165548ca89c70249e4739235778",
+        "time": 1571594254
+      },
+      {
+        "tag": "3.0.0",
+        "hash": "d7f069431ac0b7ff6ef66ab623a1eab4356e2ee3",
+        "time": 1571507439
+      },
+      {
+        "tag": "2.0.3",
+        "hash": "03ab266b741882c54135733274fdda183907c8d7",
+        "time": 1569856319
+      },
+      {
+        "tag": "2.0.2",
+        "hash": "dacd3c2485fbf8a9010439838d3b70f6b42ac3dc",
+        "time": 1569786273
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "1df6645fe26b1fce9bcaf281964f00a73aa89bff",
+        "time": 1569536283
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "9cfc4d503bc566a891025110d80f51b014ee9533",
+        "time": 1569533635
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "a45b8a530482adb8c576021482ee37f04977336d",
+        "time": 1569525195
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "d8a7ac25e471383300c6aa98107edf634deea96e",
+        "time": 1569523859
+      }
+    ],
+    "commit": {
+      "hash": "8a79447278569593e02f2dae5678ade9cbf3f0d6",
+      "time": 1609348212
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "react16",
+  "url": "https://github.com/kristianmandrup/react-16.nim",
+  "method": "git",
+  "description": "React.js 16.x bindings for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/kristianmandrup/react-16.nim",
+  "tags": [
+    "js",
+    "react",
+    "frontend",
+    "ui",
+    "vdom",
+    "hooks",
+    "single page application"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.3.7",
+        "hash": "25e9874a77decf971e7e639e60b31e963f4a8df8",
+        "time": 1584522806
+      },
+      {
+        "tag": "0.3.6",
+        "hash": "08afd731d2dda2759e53f0ea6c2310a67fe73489",
+        "time": 1580574980
+      },
+      {
+        "tag": "0.3.5",
+        "hash": "9988cbdfdb40a5ff6ae97b122cfdd2dc6ac26d43",
+        "time": 1580404599
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "0ab8213e4ac071f10114864fb9e0094868a46065",
+        "time": 1580370668
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "0f81775b0f3e8f781ff320fbad2a313142aee264",
+        "time": 1580318454
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "51cb6cf1a43a599a6cb89c80c1ce209d63f2dd53",
+        "time": 1580200104
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "2baa1de34657b56289757a4970511160a394b4ec",
+        "time": 1580199911
+      }
+    ],
+    "commit": {
+      "hash": "25e9874a77decf971e7e639e60b31e963f4a8df8",
+      "time": 1584522806
+    }
+  }
+}

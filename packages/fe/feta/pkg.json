@@ -1,0 +1,144 @@
+{
+  "name": "feta",
+  "url": "https://github.com/FlorianRauls/office-DSL-thesis",
+  "method": "git",
+  "description": "A domain-specific for general purpose office automation. The language is embedded in Nim and allows for quick and easy integration of different office software environments.",
+  "license": "MIT",
+  "web": "https://github.com/FlorianRauls/office-DSL-thesis",
+  "tags": [
+    "domain-specific-language",
+    "dsl",
+    "office",
+    "automation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "mime",
+          "str": ">= 0.0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.3"
+          }
+        },
+        {
+          "name": "jester",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "googleapi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ws",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "1a8d65684cbb167ea0fc5ac63f0ec6367b162a1b",
+        "time": 1634233581
+      },
+      {
+        "tag": "0.0.17",
+        "hash": "ec07a044fd11a17b067bb466200dac06c0fb2db2",
+        "time": 1634232778
+      },
+      {
+        "tag": "0.0.16",
+        "hash": "950cca87a197512821bd7dce0b30e5bea460eb0d",
+        "time": 1634223361
+      },
+      {
+        "tag": "0.0.15",
+        "hash": "1c880192becb294d475950dd6d44a7f7fdd0e624",
+        "time": 1634179340
+      },
+      {
+        "tag": "0.0.14",
+        "hash": "8b929aa55f95dfc47d9d3bec6ecc7df834e03b6a",
+        "time": 1634161295
+      },
+      {
+        "tag": "0.0.13",
+        "hash": "6f62203428621bb167075c19092ba79777b8629e",
+        "time": 1634157929
+      },
+      {
+        "tag": "0.0.12",
+        "hash": "0383c0c9963b23228657ce8fe5d217e92a0cae9e",
+        "time": 1634157266
+      },
+      {
+        "tag": "0.0.11",
+        "hash": "0567d9f0a9b4debd1f8ad7b68e060f6cde283244",
+        "time": 1634141226
+      },
+      {
+        "tag": "0.0.9, 0.0.0",
+        "hash": "a56e97f6c4ea04c19530b542c33dac1e7a3d4d7f",
+        "time": 1634006921
+      },
+      {
+        "tag": "0.0.8",
+        "hash": "11d7e9756abfa03ca428f777f7e163fbba4b0b49",
+        "time": 1633921014
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "1f688f0a268c4cedc9e10f2a15d1d671c93623f7",
+        "time": 1633917178
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "e069f5b20568430ece70c51d7ff6b3516872f9e2",
+        "time": 1633916883
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "820a7d1a42861a8ba25cd7414dbf68971f2a602b",
+        "time": 1633915084
+      },
+      {
+        "tag": "0.0.4, 0.0.3",
+        "hash": "6de23e2f3f1d40796fe0e15326a1d3f33073378c",
+        "time": 1633914398
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "04f86cc46ceb6624534fb98fc84e2453fee2fede",
+        "time": 1633543479
+      }
+    ],
+    "commit": {
+      "hash": "8abbd3481168609a0e0e3b0cdd8c12fdaa5bd654",
+      "time": 1634243265
+    }
+  }
+}

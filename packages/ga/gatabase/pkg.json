@@ -1,0 +1,35 @@
+{
+  "name": "gatabase",
+  "url": "https://github.com/juancarlospaco/nim-gatabase",
+  "method": "git",
+  "description": "Postgres Database ORM for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-gatabase",
+  "tags": [
+    "database",
+    "orm",
+    "postgres",
+    "sql"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3aaba860e3090504c77faa419e14c239dfd46045",
+      "time": 1665364309
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "openssl_evp",
+  "url": "https://github.com/cowboy-coders/nim-openssl-evp",
+  "method": "git",
+  "description": "Wrapper for OpenSSL's EVP interface",
+  "license": "OpenSSL and SSLeay",
+  "web": "https://github.com/cowboy-coders/nim-openssl-evp",
+  "tags": [
+    "library",
+    "crypto",
+    "openssl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.9.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "40ca0b64c89f4aa91d024fc7f2adc059d1f2fa7d",
+      "time": 1427048786
+    }
+  }
+}

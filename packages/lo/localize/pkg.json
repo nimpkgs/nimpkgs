@@ -1,0 +1,64 @@
+{
+  "name": "localize",
+  "url": "https://github.com/levovix0/localize",
+  "method": "git",
+  "description": "Compile time localization for applications",
+  "license": "MIT",
+  "web": "https://github.com/levovix0/localize",
+  "tags": [
+    "translate",
+    "translation",
+    "localization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "fusion",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.4",
+        "hash": "14bbc5cac8a02345a289ca41444fd0178e054a86",
+        "time": 1742826448
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "91370f7fc1352887a8136e1ebe3ab93a0ecb3bb9",
+        "time": 1707904876
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "48f299c43d0d15ef72d24357ad30c07edd910be4",
+        "time": 1686070619
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "3fa43ca692216c2c34703f20c73a7917c2f479f9",
+        "time": 1686067850
+      }
+    ],
+    "commit": {
+      "hash": "1b3216380710ed10df884ea06a7f52d1b282f2c8",
+      "time": 1756223758
+    }
+  }
+}

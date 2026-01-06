@@ -1,0 +1,57 @@
+{
+  "name": "floof",
+  "url": "https://github.com/arashi-software/floof",
+  "method": "git",
+  "description": "SIMD-accelerated multithreaded fuzzy search thats fast as f*ck",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/arashi-software/floof",
+  "tags": [
+    "fuzzy",
+    "search",
+    "fuzzysearch",
+    "simd",
+    "threads",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "dc75d5eae15e4cb8fa635058c468f8c5c27629b8",
+        "time": 1739677882
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "7a5d2487acffab6063c0a44d2208b7f1d40d6a44",
+        "time": 1739504741
+      }
+    ],
+    "commit": {
+      "hash": "dc75d5eae15e4cb8fa635058c468f8c5c27629b8",
+      "time": 1739677882
+    }
+  }
+}

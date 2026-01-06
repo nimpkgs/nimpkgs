@@ -1,0 +1,43 @@
+{
+  "name": "dnsprotec",
+  "url": "https://github.com/juancarlospaco/nim-dnsprotec",
+  "method": "git",
+  "description": "DNS /etc/hosts file manager, Block 1 Million malicious domains with 1 command",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-dnsprotec",
+  "tags": [
+    "dns",
+    "hosts"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [
+        "dnsprotec"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "1fe0c0f7a1a28a673aafad5bbe8d7a2fd8b15aea",
+        "time": 1572478888
+      }
+    ],
+    "commit": {
+      "hash": "a0044f179361f2000fb85ce608b7a90bd7032249",
+      "time": 1572864950
+    }
+  }
+}

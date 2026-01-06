@@ -1,0 +1,37 @@
+{
+  "name": "tm_client",
+  "url": "https://github.com/termermc/nim-tm-client",
+  "method": "git",
+  "description": "TwineMedia API client library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/termermc/nim-tm-client",
+  "tags": [
+    "twinemedia",
+    "api",
+    "client",
+    "async",
+    "library",
+    "media"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "cc8d6304b5add888eb2d95ad8924952f5a0f6b4c",
+      "time": 1649896528
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "RollingHash",
+  "url": "https://github.com/MarcAzar/RollingHash",
+  "method": "git",
+  "description": "A high performance Nim implementation of a Cyclic Polynomial Hash, aka BuzHash, and the Rabin-Karp algorithm",
+  "license": "MIT",
+  "web": "https://marcazar.github.io/RollingHash",
+  "tags": [
+    "Cyclic",
+    "Hash",
+    "BuzHash",
+    "Rolling",
+    "Rabin",
+    "Karp",
+    "CRC",
+    "Fingerprint",
+    "n-gram"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "93be628dc5b387ae235ceec0fef0d1914c5d3500",
+      "time": 1554208095
+    }
+  }
+}

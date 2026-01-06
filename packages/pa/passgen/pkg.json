@@ -1,0 +1,52 @@
+{
+  "name": "passgen",
+  "url": "https://github.com/rustomax/nim-passgen",
+  "method": "git",
+  "description": "Password generation library in Nim",
+  "license": "MIT",
+  "web": "https://github.com/rustomax/nim-passgen",
+  "tags": [
+    "password-generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "0842adfc441c62cf9b7aa24c0d55c41b39ef50b2",
+        "time": 1613853409
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "0f2447db2db1aca791162268773be04d46bf5056",
+        "time": 1569729805
+      }
+    ],
+    "commit": {
+      "hash": "df11ba35b14d2fb316c34502b9592302e6ad4e6f",
+      "time": 1733285500
+    }
+  }
+}

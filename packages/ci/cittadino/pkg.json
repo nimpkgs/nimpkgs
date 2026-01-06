@@ -1,0 +1,65 @@
+{
+  "name": "cittadino",
+  "url": "https://github.com/makingspace/cittadino",
+  "method": "git",
+  "description": "A simple PubSub framework using STOMP.",
+  "license": "BSD2",
+  "web": "https://github.com/makingspace/cittadino",
+  "tags": [
+    "pubsub",
+    "stomp",
+    "rabbitmq",
+    "amqp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "https://github.com/subsetpark/nim-stomp.git",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "bd23ebe23fc71f8ee7e31fdede2135fd73450b24",
+        "time": 1523048478
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "2aabf5ce8fcdc7f7ded5d35282fac6a651d1d1e2",
+        "time": 1522960930
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "3ae85f78be16d3f7b297c93896a5e2dba0c8134b",
+        "time": 1522953684
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "e59b27f59f221629e47795c9e68a411e1003a060",
+        "time": 1522875780
+      }
+    ],
+    "commit": {
+      "hash": "60248aeb8765422ee33990b5e01a70bb4e767af4",
+      "time": 1531847247
+    }
+  }
+}

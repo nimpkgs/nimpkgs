@@ -1,0 +1,59 @@
+{
+  "name": "llama_leap",
+  "url": "https://github.com/monofuel/llama_leap",
+  "method": "git",
+  "description": "Ollama API client library.",
+  "license": "MIT",
+  "web": "https://monofuel.github.io/llama_leap/",
+  "tags": [
+    "ollama",
+    "llama2",
+    "llama3",
+    "meta",
+    "llm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "curly",
+          "str": ">= 0.1.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.12"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.2.0",
+        "hash": "823b0c807d20ce4d71fd47b8990afa3e0bc48f65",
+        "time": 1727293299
+      }
+    ],
+    "commit": {
+      "hash": "823b0c807d20ce4d71fd47b8990afa3e0bc48f65",
+      "time": 1727293299
+    }
+  }
+}

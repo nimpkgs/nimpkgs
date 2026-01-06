@@ -1,0 +1,38 @@
+{
+  "name": "paint",
+  "url": "https://github.com/pNeal0/paint",
+  "method": "git",
+  "description": "Colorize strings in a simple and clean way",
+  "license": "MIT",
+  "web": "https://github.com/pNeal0/paint",
+  "tags": [
+    "color",
+    "library",
+    "command-line",
+    "rgb",
+    "terminal",
+    "text",
+    "colorize"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "fc99d0400dab09c10536afd2a21468ffaf6f6ceb",
+      "time": 1699388177
+    }
+  }
+}

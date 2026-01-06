@@ -1,0 +1,52 @@
+{
+  "name": "duckduckgo",
+  "url": "https://github.com/thisago/duckduckgo",
+  "method": "git",
+  "description": "Duckduckgo search",
+  "license": "MIT",
+  "web": "https://github.com/thisago/duckduckgo",
+  "tags": [
+    "library",
+    "scraper",
+    "search",
+    "web",
+    "duckduckgo"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.1"
+          }
+        },
+        {
+          "name": "scraper",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://gitlab.com/lurlo/useragent",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a3bc9deb75d2679f6088120189b50471976e6805",
+      "time": 1654861716
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "whois",
+  "url": "https://github.com/thisago/whois",
+  "method": "git",
+  "description": "A simple and free whois client",
+  "license": "MIT",
+  "web": "https://github.com/thisago/whois",
+  "tags": [
+    "whois",
+    "dns"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.1"
+          }
+        },
+        {
+          "name": "kashae",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9f5f46f845095a23ad466cfc1ae9bef2bfa16451",
+      "time": 1659007625
+    }
+  }
+}

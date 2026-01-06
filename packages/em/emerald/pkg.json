@@ -1,0 +1,62 @@
+{
+  "name": "emerald",
+  "url": "https://github.com/flyx/emerald",
+  "method": "git",
+  "description": "macro-based HTML templating engine",
+  "license": "WTFPL",
+  "web": "https://flyx.github.io/emerald/",
+  "tags": [
+    "dsl",
+    "html",
+    "template",
+    "web"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.3",
+        "hash": "8b443ef20cb1834a7c9a4b49f6c1066dd4cd2fd4",
+        "time": 1562409606
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "bdb60c144435dd58bf9c10a1d45bbddcaaac051f",
+        "time": 1476946901
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "ba154cdf7b1e7333521db23c0f096b5365aa0f15",
+        "time": 1440184135
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "055db24826b84774e2948bff20369450c7cb4d72",
+        "time": 1439830584
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "095f7ce14c8c235b2fb961c33e991d25e326217d",
+        "time": 1403816024
+      }
+    ],
+    "commit": {
+      "hash": "a625ef8f7ae571535f6a1e3ba9cd1b1647e41339",
+      "time": 1569653449
+    }
+  }
+}

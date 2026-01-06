@@ -1,0 +1,25 @@
+{
+  "name": "nimeverything",
+  "url": "https://github.com/xland/nimeverything/",
+  "method": "git",
+  "description": "everything  search engine wrapper",
+  "license": "MIT",
+  "web": "https://github.com/xland/nimeverything",
+  "tags": [
+    "everything",
+    "voidtools",
+    "Everything Search Engine"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f61fb11de69906c46869564b1bd301eb1cc237de",
+      "time": 1441205527
+    }
+  }
+}

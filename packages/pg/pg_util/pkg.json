@@ -1,0 +1,56 @@
+{
+  "name": "pg_util",
+  "url": "https://github.com/hiteshjasani/nim-pg-util.git",
+  "method": "git",
+  "description": "Postgres utility functions",
+  "license": "MIT",
+  "web": "https://github.com/hiteshjasani/nim-pg-util",
+  "tags": [
+    "postgresql",
+    "postgres",
+    "pg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.3",
+        "hash": "4114175a827a8f85a560d426f932d59ba8754cbc",
+        "time": 1583193921
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "5a1ca97a7b43e5763348f2ee25ec83ada5c403f2",
+        "time": 1583021042
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "5219c79511062a54de0922f30a28cb7988483e53",
+        "time": 1581984021
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c2b5bbd993e029d5ec2f04059216344749fba96e",
+        "time": 1579217274
+      }
+    ],
+    "commit": {
+      "hash": "4114175a827a8f85a560d426f932d59ba8754cbc",
+      "time": 1583193921
+    }
+  }
+}

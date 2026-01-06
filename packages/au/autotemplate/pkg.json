@@ -1,0 +1,56 @@
+{
+  "name": "autotemplate",
+  "url": "https://github.com/PMunch/autotemplate",
+  "method": "git",
+  "description": "Small library to automatically generate type-bound templates from files",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/autotemplate",
+  "tags": [
+    "library",
+    "templates"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "with",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "templates",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "253c9fe83d27cce2e88e86a4f52009a358973fd8",
+        "time": 1672187413
+      }
+    ],
+    "commit": {
+      "hash": "253c9fe83d27cce2e88e86a4f52009a358973fd8",
+      "time": 1672187413
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "blend2d",
+  "url": "https://github.com/openpeeps/blend2d-nim",
+  "method": "git",
+  "description": "Blend2D for Nim language",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/blend2d-nim",
+  "tags": [
+    "graphics",
+    "2d",
+    "blend2d",
+    "2d-graphics",
+    "rasterization",
+    "vector"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1359473de2d778334c8d6583e80be11051cc63b9",
+      "time": 1757762071
+    }
+  }
+}

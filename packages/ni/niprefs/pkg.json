@@ -1,0 +1,129 @@
+{
+  "name": "niprefs",
+  "url": "https://github.com/Patitotective/niprefs",
+  "method": "git",
+  "description": " A dynamic preferences-system with a table-like structure for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/niprefs",
+  "doc": "https://github.com/Patitotective/NiPrefs",
+  "tags": [
+    "preferences",
+    "prefs"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.1"
+          }
+        },
+        {
+          "name": "toml_serialization",
+          "str": ">= 0.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.5",
+        "hash": "30f522ac1888ae2930e833ab6c5d954baf3e8702",
+        "time": 1692848830
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "5a961fba6de448d621cf6808d933be179558a25b",
+        "time": 1655672634
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "521fd5b3eb6c5e17bf67045804461aeade569a8c",
+        "time": 1655259416
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "9e0a5457503c7e2291fa92a8713795e48da25524",
+        "time": 1654827091
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "c200c4b67e6e829dff18b9d382ba3d1290fee411",
+        "time": 1654806526
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "81aa622e871446a420c8fb04fae6d0103be450fc",
+        "time": 1653700993
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "4b721361da53bd2f8460b02ff365e0082d52213d",
+        "time": 1652399787
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "c6e4760f39378ba1f1527cf765090e3b27a36c3f",
+        "time": 1652398072
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "d108838c1984b8c0c82f521c1a6daf5bdd7c5d0d",
+        "time": 1651961252
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "918f06da9404807c494f73e68d8d2ae31373ddcc",
+        "time": 1651958103
+      },
+      {
+        "tag": "0.1.62",
+        "hash": "9127597f338641a09844c1bb2ca5487644ed5cbd",
+        "time": 1651794527
+      },
+      {
+        "tag": "0.1.61",
+        "hash": "526f161b2265d3aca82fa2d4cc7e81f1987c047f",
+        "time": 1651423816
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "bb3f17129b2f49b5a166f3c0e8bdc385d6d1fef3",
+        "time": 1650140007
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "6f8e7da90a96dc202a9ba4d83e906c16ff9ba170",
+        "time": 1649730141
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "411e28307741e2f51c5708192b71005c3633e0cc",
+        "time": 1649205576
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "ca3bb670307b4b67510b1faf13930d762b86a284",
+        "time": 1648604552
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "49c3b63cd6a63dbc2d62e394ffe561e7280d4386",
+        "time": 1648310465
+      }
+    ],
+    "commit": {
+      "hash": "74e130ef0106036cc4d59447755ec4e07937e2ef",
+      "time": 1698102487
+    }
+  }
+}

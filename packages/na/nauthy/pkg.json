@@ -1,0 +1,43 @@
+{
+  "name": "nauthy",
+  "url": "https://github.com/lzoz/nauthy",
+  "method": "git",
+  "description": "Nim library for One Time Password verification and generation.",
+  "license": "MIT",
+  "web": "https://github.com/lzoz/nauthy",
+  "tags": [
+    "otp",
+    "totp",
+    "hotp",
+    "2factor"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "nimSHA2",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c699f3225269fab54f589ab4fdc8acf1c13c917b",
+      "time": 1681516503
+    }
+  }
+}

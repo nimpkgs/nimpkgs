@@ -1,0 +1,34 @@
+{
+  "name": "plists",
+  "url": "https://github.com/yglukhov/plists",
+  "method": "git",
+  "description": "Generate and parse Mac OS X .plist files in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/plists",
+  "tags": [
+    "plist",
+    "property",
+    "list"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "darwin",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "783f661aa38e8c93d88388d16b90ec35d38099c1",
+      "time": 1591186810
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "hostname",
+  "url": "https://github.com/rominf/nim-hostname",
+  "method": "git",
+  "description": "Nim library to get/set a hostname",
+  "license": "Apache-2.0",
+  "web": "https://github.com/rominf/nim-hostname",
+  "tags": [
+    "android",
+    "bsd",
+    "hostname",
+    "library",
+    "posix",
+    "unix",
+    "windows"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d517210adedf7f6c708393ddd20fd7a93504f262",
+      "time": 1610267887
+    }
+  }
+}

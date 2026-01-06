@@ -1,0 +1,42 @@
+{
+  "name": "fsm",
+  "url": "https://github.com/ba0f3/fsm.nim",
+  "method": "git",
+  "description": "A simple finite-state machine for @nim-lang",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/fsm.nim",
+  "tags": [
+    "fsm",
+    "finite",
+    "state",
+    "machine"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "ca6e14a5562e46805ed89593cb63bf6236939772",
+        "time": 1650800246
+      }
+    ],
+    "commit": {
+      "hash": "ca6e14a5562e46805ed89593cb63bf6236939772",
+      "time": 1650800246
+    }
+  }
+}

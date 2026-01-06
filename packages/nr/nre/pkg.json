@@ -1,0 +1,96 @@
+{
+  "name": "nre",
+  "url": "https://github.com/flaviut/nre.git",
+  "method": "git",
+  "description": "A better regular expression library",
+  "license": "MIT",
+  "web": "https://github.com/flaviut/nre",
+  "tags": [
+    "library",
+    "pcre",
+    "regex"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "2.0.2",
+        "hash": "52f8117d3b8f2bfc6f94616b2b676c434b59c4f7",
+        "time": 1552291147
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "48c036dd22a6d1547821a4f0165b05445ac7bac0",
+        "time": 1552290925
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "90706c93635b0ca21f48188ed588d735c0b6d7fc",
+        "time": 1552287563
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "e67221d70a9d1871ed4c2d81084c1e776307bb88",
+        "time": 1432684593
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "7296c6d649ada6838b3c0e93fa87721c882eab2c",
+        "time": 1425426515
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "18a401886d5833b7fb26a2b9121497197811c1c5",
+        "time": 1422745702
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "85d71da5958337b33477b973bcc2d1cbd4791216",
+        "time": 1422129524
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "ba3aac1b13d73e515dfed50376d82f57a46d7d2c",
+        "time": 1421892495
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "f6b6a429ff1c1852b029e9bf16dbb9e12e103b3f",
+        "time": 1421703632
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "b5f3a662c51ff218bd531f2387bdca58f26ea0b2",
+        "time": 1421701493
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "6bd36602388e2cb6b209445a873dff29b13b3e66",
+        "time": 1421687236
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "7bce00b4cdb31cd5a72230b937d781778954eb67",
+        "time": 1421606756
+      }
+    ],
+    "commit": {
+      "hash": "52f8117d3b8f2bfc6f94616b2b676c434b59c4f7",
+      "time": 1552291147
+    }
+  }
+}

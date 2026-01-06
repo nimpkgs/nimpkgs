@@ -1,0 +1,32 @@
+{
+  "name": "webp",
+  "url": "https://github.com/juancarlospaco/nim-webp",
+  "method": "git",
+  "description": "WebP Tools wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-webp",
+  "tags": [
+    "webp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "09eb50a4e277409481983d9ae076eb39ca4d235e",
+      "time": 1572866550
+    }
+  }
+}

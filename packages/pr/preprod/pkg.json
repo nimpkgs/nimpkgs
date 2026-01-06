@@ -1,0 +1,40 @@
+{
+  "name": "preprod",
+  "url": "https://github.com/j-a-s-d/preprod",
+  "method": "git",
+  "description": "preprod",
+  "license": "MIT",
+  "web": "https://github.com/j-a-s-d/preprod",
+  "tags": [
+    "preprocessor"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "xam",
+          "str": ">= 1.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.8.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a4219eeab4bd60747c1d84e9e0469f09d10110eb",
+      "time": 1652475700
+    }
+  }
+}

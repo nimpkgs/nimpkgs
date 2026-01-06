@@ -1,0 +1,34 @@
+{
+  "name": "darwin",
+  "url": "https://github.com/yglukhov/darwin",
+  "method": "git",
+  "description": "Bindings to MacOS and iOS frameworks",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/darwin",
+  "tags": [
+    "macos",
+    "ios",
+    "binding"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f7dcc0a4af9053a8988be06ec6b5fa17b627633c",
+      "time": 1756144916
+    }
+  }
+}

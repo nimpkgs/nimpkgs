@@ -1,0 +1,97 @@
+{
+  "name": "gitman",
+  "url": "https://github.com/nirokay/gitman",
+  "method": "git",
+  "description": "Cross-platform git repository manager.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nirokay/gitman",
+  "tags": [
+    "git",
+    "manager",
+    "repository-manager"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "taskpools",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "gitman"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "2.3.1",
+        "hash": "e6014afcafc5602da3d0b043e73838284cf136d5",
+        "time": 1750151612
+      },
+      {
+        "tag": "2.3.0",
+        "hash": "562c441d03954378724d5dd37d46fe397bc32b3a",
+        "time": 1750065142
+      },
+      {
+        "tag": "2.2.1",
+        "hash": "1925a0114eeb8aa9e0b6afeeea513f41bb2b8ab8",
+        "time": 1736763409
+      },
+      {
+        "tag": "2.2.0",
+        "hash": "5f2df3c9c44796530bf1dbf8ed21f74ff7d2027f",
+        "time": 1736756180
+      },
+      {
+        "tag": "2.1.1",
+        "hash": "6c2aeb0535772805e43797fdad629f23d67772e8",
+        "time": 1699030869
+      },
+      {
+        "tag": "2.1.0",
+        "hash": "393e2fbde17590470846ad7c7248c199a90a1845",
+        "time": 1695112573
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "db65f8c34a5f1fc36cb49cffaaab16e77f85cf7d",
+        "time": 1683913623
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "e25324668c2b0aaf5f46c9300187ef91c8a03695",
+        "time": 1683759869
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "db1a6400655877a874e1a918cca490a3070cf84f",
+        "time": 1670804601
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "329c201068f454bff40e5ffe409f23c48f5fe962",
+        "time": 1670742201
+      }
+    ],
+    "commit": {
+      "hash": "430a9f4b33b8ec4650706c46b502a8aa38dda73d",
+      "time": 1750670149
+    }
+  }
+}

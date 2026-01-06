@@ -1,0 +1,47 @@
+{
+  "name": "mdevolve",
+  "url": "https://github.com/jxy/MDevolve",
+  "method": "git",
+  "description": "Integrator framework for Molecular Dynamic evolutions",
+  "license": "MIT",
+  "web": "https://github.com/jxy/MDevolve",
+  "tags": [
+    "MD",
+    "integrator",
+    "numerical",
+    "evolution"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "2d2f4d586419049d2fdb1fbb762afc1c55d02fa1",
+        "time": 1575999775
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "548b703afc747eb0b256b4a018b0c20b9a93917b",
+        "time": 1548785068
+      }
+    ],
+    "commit": {
+      "hash": "e6e1b4f5543e50e5738c5453ad01eb0ea7ca2cee",
+      "time": 1671751008
+    }
+  }
+}

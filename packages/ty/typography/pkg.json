@@ -1,0 +1,182 @@
+{
+  "name": "typography",
+  "url": "https://github.com/treeform/typography",
+  "method": "git",
+  "description": "Fonts, Typesetting and Rasterization.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/typography",
+  "tags": [
+    "font",
+    "text",
+    "2d"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.14",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.1"
+          }
+        },
+        {
+          "name": "print",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.7.14",
+        "hash": "a2a5165c36e0098dea526712890fb7e988ba27f2",
+        "time": 1661049512
+      },
+      {
+        "tag": "0.7.13",
+        "hash": "f987cd998788105d70f8796f94bfe67cd544dbc4",
+        "time": 1639694186
+      },
+      {
+        "tag": "0.7.12",
+        "hash": "5e902d2beaed014dda77a8f662ab09ca09b30874",
+        "time": 1627451135
+      },
+      {
+        "tag": "0.7.11",
+        "hash": "5a49a353cd75dd7f1ea9771c95ce26325c6467de",
+        "time": 1624066165
+      },
+      {
+        "tag": "0.7.10",
+        "hash": "c7e93f12a7807165429acf755a7e3d4b0be69e66",
+        "time": 1622323262
+      },
+      {
+        "tag": "0.7.9",
+        "hash": "652509382a53df4a6d699283388148df3e9862dd",
+        "time": 1620427979
+      },
+      {
+        "tag": "0.7.8",
+        "hash": "748e5dd04729b6490942504686531534811263c1",
+        "time": 1616793572
+      },
+      {
+        "tag": "0.7.7",
+        "hash": "2897da7bbacb5d1d6283afada1be78b40ab3f3b2",
+        "time": 1614535738
+      },
+      {
+        "tag": "0.7.6",
+        "hash": "fce7014dd7c9dfb0a316f6d96d70d12cce010135",
+        "time": 1614535227
+      },
+      {
+        "tag": "0.7.5",
+        "hash": "1198a21e2a7b521ac233d7e6bb6a5549be77ded8",
+        "time": 1614475407
+      },
+      {
+        "tag": "0.7.4",
+        "hash": "059b828369ef70f70de511462e9a378ad8e51644",
+        "time": 1611537248
+      },
+      {
+        "tag": "0.7.3",
+        "hash": "6f1a5f0e7481a2d840a4e9c8ef75c14e195f8d1a",
+        "time": 1611371075
+      },
+      {
+        "tag": "0.7.2",
+        "hash": "7b3bf67f983b8856ec90446acce01c2ff7210ee1",
+        "time": 1610406141
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "c3cd27a8d5936c244053428dfa865e414fac1ea1",
+        "time": 1607651866
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "e45d5ccc8e1bbb8d5960d56180bd2d686b55f270",
+        "time": 1607650102
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "0cf0c703592eae987363aa4e959afcbecc5e8bce",
+        "time": 1607021473
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "98891f6044eb5fd7f6d0cb2806ca0a880d0dc874",
+        "time": 1598116311
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "e79ff74b6a50940dc724b135a884432b488a4eb6",
+        "time": 1591362726
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "d21f64c8d234ea813afcec4ad33c68137a7e2bde",
+        "time": 1591360396
+      },
+      {
+        "tag": "v0.3.0, 0.3.0",
+        "hash": "078ec7beb0f4b71bc1b72f7c064eea3797382a76",
+        "time": 1588187991
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "c8986f9313dd443c7d4f9351fc154c569e55e441",
+        "time": 1579478631
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "0a225eddd04350b6ba1f02352356fd74f129a10d",
+        "time": 1579106311
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "b03a2a27b284c15246357a83f8bd57d65327588b",
+        "time": 1573758358
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "c91ec746e31f4755cdf3485ecae4d5cdba1cb40e",
+        "time": 1573503066
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "40b0f1d2433c9a2f8a42d7b52df4011b3f1de01d",
+        "time": 1573502260
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "f556339f27fbf0a2fc04ec6fdafd36d3cef049f8",
+        "time": 1572928070
+      }
+    ],
+    "commit": {
+      "hash": "a2a5165c36e0098dea526712890fb7e988ba27f2",
+      "time": 1661049512
+    }
+  }
+}

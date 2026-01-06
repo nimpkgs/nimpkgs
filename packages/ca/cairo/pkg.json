@@ -1,0 +1,44 @@
+{
+  "name": "cairo",
+  "url": "https://github.com/nim-lang/cairo",
+  "method": "git",
+  "description": "Wrapper for cairo, a vector graphics library with display and print output",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/cairo",
+  "tags": [
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.1",
+        "hash": "50ca8ed54554eae686024c0dc88490502af31cb8",
+        "time": 1587491257
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "47878f414d05fe1ce8884b1226cbf5258247acc1",
+        "time": 1573854836
+      }
+    ],
+    "commit": {
+      "hash": "a4c97b136f7371e37e6c66e51bae992d43e8a5a2",
+      "time": 1765859981
+    }
+  }
+}

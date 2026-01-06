@@ -1,0 +1,101 @@
+{
+  "name": "uuids",
+  "url": "https://github.com/pragmagic/uuids/",
+  "method": "git",
+  "description": "UUID library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/pragmagic/uuids/",
+  "tags": [
+    "library",
+    "uuid",
+    "id"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.12",
+      "requires": [
+        {
+          "name": "isaac",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.12",
+        "hash": "42052ba362a9cd4685463edb3781beeb9b8e547e",
+        "time": 1702628604
+      },
+      {
+        "tag": "v0.1.11",
+        "hash": "8cb8720b567c6bcb261bd1c0f7491bdb5209ad06",
+        "time": 1610705233
+      },
+      {
+        "tag": "v0.1.10",
+        "hash": "c5039c1cc6a8a93fc2f3c03a206372eb4412e63b",
+        "time": 1536134433
+      },
+      {
+        "tag": "v0.1.9",
+        "hash": "2ff415fb2b020f01149f3292bdb0c7e7e0e068d0",
+        "time": 1511344433
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "57396065ce1a3990a91100e528cfcb99bdac9b4c",
+        "time": 1509562389
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "78fadcb469db41b48a87c3eac879961196963529",
+        "time": 1497800233
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "c58d9474eedafff09807edef9db50639b5663dd6",
+        "time": 1497799497
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "654e32c43e0681afc6171ac8c1578f8938e5cf86",
+        "time": 1489387935
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "cc0f61aa39b8bc489c465f9dee045929b732b0e8",
+        "time": 1480505613
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "f6d0227369f9fb11c900dfdecf611e94dd07bd34",
+        "time": 1480495854
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "c6783039ac1eda4fb5801c7363c39e60bd9276fd",
+        "time": 1477230682
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "5f31daada2678fbb55fbea0d2258be6229e84341",
+        "time": 1473964579
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e9772338df576309de5a8dbac13391f087f06c4b",
+        "time": 1473946665
+      }
+    ],
+    "commit": {
+      "hash": "42052ba362a9cd4685463edb3781beeb9b8e547e",
+      "time": 1702628604
+    }
+  }
+}

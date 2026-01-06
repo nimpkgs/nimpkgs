@@ -1,0 +1,35 @@
+{
+  "name": "NimTacToe",
+  "url": "https://github.com/JesterOrNot/Nim-Tac-Toe",
+  "method": "git",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "web": "https://github.com/JesterOrNot/Nim-Tac-Toe",
+  "tags": [
+    "no"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [
+        "NimTacToe"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "7c2fce2541e2d3aa0782c1cfc9219f0d5b5168c7",
+      "time": 1580151515
+    }
+  }
+}

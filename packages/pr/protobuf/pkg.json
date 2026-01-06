@@ -1,0 +1,68 @@
+{
+  "name": "protobuf",
+  "url": "https://github.com/PMunch/protobuf-nim",
+  "method": "git",
+  "description": "Protobuf implementation in pure Nim that leverages the power of the macro system to not depend on any external tools",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/protobuf-nim",
+  "tags": [
+    "protobuf",
+    "serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "combparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.5.4",
+        "hash": "b09f1c9503b4ccfb39079504ea0eac5eb2a4e209",
+        "time": 1697533541
+      },
+      {
+        "tag": "v0.5.3",
+        "hash": "fdb20a07eadf5155f7fa3025698bc355aaaa9d35",
+        "time": 1693223663
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "e1a6fbf82c4be73337d1d3a213f037a29f8772eb",
+        "time": 1666257783
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "4a9ec69006ea68dc1bdff977cd38342c67564854",
+        "time": 1609541833
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "ce4360ab9614788ddf1e6e8a94294be9b07ece68",
+        "time": 1582630054
+      }
+    ],
+    "commit": {
+      "hash": "b09f1c9503b4ccfb39079504ea0eac5eb2a4e209",
+      "time": 1697533541
+    }
+  }
+}

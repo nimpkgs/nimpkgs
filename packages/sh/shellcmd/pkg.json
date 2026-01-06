@@ -1,0 +1,71 @@
+{
+  "name": "shellcmd",
+  "url": "https://github.com/Alogani/shellcmd",
+  "method": "git",
+  "description": "Collection of Terminal commands to be used inside nim",
+  "license": "MIT",
+  "web": "https://github.com/Alogani/shellcmd",
+  "tags": [
+    "library",
+    "childprocess",
+    "async",
+    "script",
+    "bash",
+    "terminal",
+    "system administration"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        },
+        {
+          "name": "asyncproc",
+          "str": " ~= >= 0.3.0",
+          "ver": {
+            "kind": "verTilde",
+            "ver": ""
+          }
+        },
+        {
+          "name": "aloganimisc",
+          "str": " ~= >= 0.1.0",
+          "ver": {
+            "kind": "verTilde",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "9366bca83cea5c4b4bd74d703fb28bf399641c0d",
+        "time": 1714557533
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "76faa8f5491bc8c6c1c417007c225705874e16bb",
+        "time": 1714501376
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "b6d0bacb83e2f2f020edb43af09c6be73763c525",
+        "time": 1713856656
+      }
+    ],
+    "commit": {
+      "hash": "b7d8b0da149bbc23f8e7adb8f4a5236dd7ed2ece",
+      "time": 1716543808
+    }
+  }
+}

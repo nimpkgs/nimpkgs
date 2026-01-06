@@ -1,0 +1,49 @@
+{
+  "name": "opensimplexnoise",
+  "url": "https://github.com/betofloresbaca/nim-opensimplexnoise",
+  "method": "git",
+  "description": "A pure nim port of the open simplex noise algorithm from Kurt Spencer",
+  "license": "MIT",
+  "web": "https://github.com/betofloresbaca/nim-opensimplexnoise",
+  "tags": [
+    "noise",
+    "opensimplexnoise",
+    "noise2d",
+    "noise3d",
+    "noise4d",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "aa089332150c3b7931b99a87b6e878614084d243",
+        "time": 1639976913
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "993d5252d4043ec0e8bb17acc873020febbe53e3",
+        "time": 1639810416
+      }
+    ],
+    "commit": {
+      "hash": "b663237a1d13b6d53df4a66ae311adfa3831eed1",
+      "time": 1690235116
+    }
+  }
+}

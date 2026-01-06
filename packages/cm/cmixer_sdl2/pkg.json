@@ -1,0 +1,53 @@
+{
+  "name": "cmixer_sdl2",
+  "url": "https://github.com/rxi/cmixer_sdl2-nim",
+  "method": "git",
+  "description": "Lightweight audio mixer for SDL2",
+  "license": "MIT",
+  "web": "https://github.com/rxi/cmixer_sdl2-nim",
+  "tags": [
+    "library",
+    "audio",
+    "mixer",
+    "sound",
+    "wav",
+    "ogg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        },
+        {
+          "name": "cmixer",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "sdl2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "be81a400bed1f1d0ae6da58db6f5d4095041cdfb",
+      "time": 1498319007
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "luna",
+  "url": "https://github.com/smallfx/luna.nim",
+  "method": "git",
+  "description": "Lua convenience library for nim",
+  "license": "MIT",
+  "web": "https://github.com/smallfx/luna.nim",
+  "tags": [
+    "lua",
+    "scripting"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "75ece083639ea96ce9146f86b9a4771aee2b1265",
+      "time": 1552036159
+    }
+  }
+}

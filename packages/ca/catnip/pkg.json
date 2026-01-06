@@ -1,0 +1,50 @@
+{
+  "name": "catnip",
+  "url": "https://github.com/RSDuck/catnip",
+  "method": "git",
+  "description": "Assembler for runtime code generation",
+  "license": "MIT",
+  "web": "https://github.com/RSDuck/catnip",
+  "tags": [
+    "jit",
+    "assembler"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "d0bc265ab4b228363b1611b5a52e42058a28b287",
+        "time": 1649088719
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "8e2d740cc9c42ec7cff78d1be3f9b2cf739cfeff",
+        "time": 1645069268
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "d0af09e151563deaa2e141199254ed22fdfe9392",
+        "time": 1621148419
+      }
+    ],
+    "commit": {
+      "hash": "e0401dcfa78e3e18cf65a951fbb30359b5d07f21",
+      "time": 1666050098
+    }
+  }
+}

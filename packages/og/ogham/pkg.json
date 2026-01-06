@@ -1,0 +1,36 @@
+{
+  "name": "ogham",
+  "url": "https://github.com/stscoundrel/ogham-nim",
+  "method": "git",
+  "description": "Convert Ogham inscriptions to latin text & vice versa.",
+  "license": "MIT",
+  "web": "https://github.com/stscoundrel/ogham-nim",
+  "tags": [
+    "ogham",
+    "convert",
+    "transform",
+    "old-irish",
+    "inscriptions"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "36d27f2a4398c0a344bedbcb6ba4ead2e28c4226",
+      "time": 1767546473
+    }
+  }
+}

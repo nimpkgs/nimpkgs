@@ -1,0 +1,33 @@
+{
+  "name": "nim_cjson",
+  "url": "https://github.com/muxueqz/nim_cjson",
+  "method": "git",
+  "description": "cjson wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/muxueqz/nim_cjson",
+  "tags": [
+    "cjson",
+    "json"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nimgen",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "148afad6c531e50d2cd70cfd3c797075441fca22",
+      "time": 1534927437
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "impulse",
+  "url": "https://github.com/SciNim/impulse",
+  "method": "git",
+  "description": "Signal processing primitives (FFT, ...) ",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/impulse",
+  "tags": [
+    "signals",
+    "signal processing",
+    "FFT",
+    "PocketFFT",
+    "science"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "arraymancer",
+          "str": ">= 0.7.28",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.28"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "db4bec28f6bed9671b96d317863d0273db302db6",
+        "time": 1709572222
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "639129750cdcebc6e893fc6146d7da7e4c575b1f",
+        "time": 1708443488
+      }
+    ],
+    "commit": {
+      "hash": "4615a00b915c6502e3f3aba9c7f478b70f0c4cd3",
+      "time": 1735549868
+    }
+  }
+}

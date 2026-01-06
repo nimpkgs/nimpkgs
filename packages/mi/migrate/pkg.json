@@ -1,0 +1,52 @@
+{
+  "name": "migrate",
+  "url": "https://github.com/euantorano/migrate.nim",
+  "method": "git",
+  "description": "A simple database migration utility for Nim.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/migrate.nim",
+  "tags": [
+    "migrate",
+    "database",
+    "db"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.2"
+          }
+        }
+      ],
+      "bin": [
+        "migrate"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "e66d76ff8af0de1eaa3c0a1efccd0770b20fbb80",
+        "time": 1466079966
+      }
+    ],
+    "commit": {
+      "hash": "e66d76ff8af0de1eaa3c0a1efccd0770b20fbb80",
+      "time": 1466079966
+    }
+  }
+}

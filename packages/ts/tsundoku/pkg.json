@@ -1,0 +1,52 @@
+{
+  "name": "tsundoku",
+  "url": "https://github.com/FedericoCeratto/tsundoku",
+  "method": "git",
+  "description": "Simple and lightweight OPDS ebook server",
+  "license": "GPLv3",
+  "web": "https://github.com/FedericoCeratto/tsundoku",
+  "tags": [
+    "OPDS",
+    "ebook",
+    "server"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.2"
+          }
+        },
+        {
+          "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "tsundoku"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "78c9d4a56a0ef6726cda212e197b53835f108322",
+        "time": 1521139973
+      }
+    ],
+    "commit": {
+      "hash": "78c9d4a56a0ef6726cda212e197b53835f108322",
+      "time": 1521139973
+    }
+  }
+}

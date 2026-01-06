@@ -1,0 +1,104 @@
+{
+  "name": "parsepage",
+  "url": "https://github.com/thisago/parsepage",
+  "method": "git",
+  "description": "Automatically extracts the data of sites",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/thisago/parsepage",
+  "tags": [
+    "extractor",
+    "cli",
+    "configurable",
+    "tool",
+    "html",
+    "bulk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "https://github.com/thisago/fsafename",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://gitlab.com/lurlo/useragent",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "scraper",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "karax",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimquery",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "yaml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "css_html_minify",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "parsepage"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "cfead41fda0f519a2e18875262471b8d31f34bda",
+      "time": 1654171121
+    }
+  }
+}

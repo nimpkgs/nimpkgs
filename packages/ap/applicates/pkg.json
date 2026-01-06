@@ -1,0 +1,67 @@
+{
+  "name": "applicates",
+  "url": "https://github.com/metagn/applicates",
+  "method": "git",
+  "description": "\"pointers\" to cached AST that instantiate routines when called",
+  "license": "MIT",
+  "web": "https://metagn.github.io/applicates/applicates.html",
+  "tags": [
+    "sugar",
+    "macros",
+    "template",
+    "functional"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "4dff68a6fa561e6a742c58b7d726a16734abc8fc",
+        "time": 1663457150
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "119020b40b2f75f296a2ff6b78994a07d187583d",
+        "time": 1648369070
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "2951ef4f90aad8a5a002e9a31c09fb39e636a888",
+        "time": 1613220868
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "002dd9cfbffe1e797f05387563fd4bd9af55067d",
+        "time": 1612093391
+      },
+      {
+        "tag": "v0.1.1, 0.1.1",
+        "hash": "1b414db0784dd4077c8933326f718cb4f6ade312",
+        "time": 1610628175
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "40186b2e9a540b7273b1922c667739fd9a234641",
+        "time": 1607515229
+      }
+    ],
+    "commit": {
+      "hash": "4e410abb6f9ae8292a06fded8b33fd967ca17df9",
+      "time": 1727427147
+    }
+  }
+}

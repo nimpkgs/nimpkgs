@@ -1,0 +1,76 @@
+{
+  "name": "voicepeaky",
+  "url": "https://github.com/solaoi/voicepeaky",
+  "method": "git",
+  "description": "Voicepeak Server",
+  "license": "MIT",
+  "web": "https://github.com/solaoi/voicepeaky",
+  "tags": [
+    "voicepeak",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "httpbeast",
+          "str": ">= 0.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        }
+      ],
+      "bin": [
+        "voicepeaky"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.5",
+        "hash": "b14a664631c2a2805baf41aeb5b5247a5d548af6",
+        "time": 1689640212
+      },
+      {
+        "tag": "v1.0.4",
+        "hash": "b6899b99f29f8b958384d5c60660108dd0d333ea",
+        "time": 1689587195
+      },
+      {
+        "tag": "v1.0.3",
+        "hash": "9cae3d166d55ac47a668df81d9617d91a7416fec",
+        "time": 1689500390
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "1128ae46542a1ed6e50b8e7afd7bbe2e142927ea",
+        "time": 1689383028
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "9ad0e3cf961324f184ddca0634cbe71ec72265b6",
+        "time": 1689353890
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "45714d7a4f32f67fa669da6c01dfb9ffd51d3ab0",
+        "time": 1689350670
+      }
+    ],
+    "commit": {
+      "hash": "b6da2c663bf969b6c118c71a04f008352a2bfe9a",
+      "time": 1699768651
+    }
+  }
+}

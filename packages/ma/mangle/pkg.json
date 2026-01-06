@@ -1,0 +1,17 @@
+{
+  "name": "mangle",
+  "url": "https://github.com/baabelfish/mangle",
+  "method": "git",
+  "description": "Yet another iterator library",
+  "license": "MIT",
+  "web": "https://github.com/baabelfish/mangle",
+  "tags": [
+    "functional",
+    "iterators",
+    "lazy",
+    "library"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

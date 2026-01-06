@@ -1,0 +1,51 @@
+{
+  "name": "aqcalc",
+  "url": "https://github.com/VitorGoatman/aqcalc",
+  "method": "git",
+  "description": "Calculate gematria values for Alphanumeric Qabbala",
+  "license": "Unlicense",
+  "web": "https://github.com/VitorGoatman/aqcalc",
+  "tags": [
+    "library",
+    "gematria"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.7"
+          }
+        }
+      ],
+      "bin": [
+        "aqcalc"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "e346af53bca95be4996d537dc8b6795c03b4ff56",
+        "time": 1665862855
+      }
+    ],
+    "commit": {
+      "hash": "e346af53bca95be4996d537dc8b6795c03b4ff56",
+      "time": 1665862855
+    }
+  }
+}

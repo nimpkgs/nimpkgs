@@ -1,0 +1,100 @@
+{
+  "name": "docopt",
+  "url": "https://github.com/docopt/docopt.nim",
+  "method": "git",
+  "description": "Command-line args parser based on Usage message",
+  "license": "MIT",
+  "web": "https://github.com/docopt/docopt.nim",
+  "tags": [
+    "command-line",
+    "arguments",
+    "parsing",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.11.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.7.1",
+        "hash": "efaa112b6df172a9168c4eb581ab8dda1fbcfe2a",
+        "time": 1695074230
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "17803d1205f9e752cce03a66b0a29b710520398e",
+        "time": 1665236381
+      },
+      {
+        "tag": "v0.6.8",
+        "hash": "65da8739a7534b8d78249a90778e1b38d4bdcf5c",
+        "time": 1544226690
+      },
+      {
+        "tag": "v0.6.7",
+        "hash": "4734b166068bfee783aea99f1afc8944144fc5ef",
+        "time": 1539776717
+      },
+      {
+        "tag": "v0.6.6",
+        "hash": "cf6db16bac861ca53941d05688daa953a1b764ad",
+        "time": 1535233539
+      },
+      {
+        "tag": "v0.6.5",
+        "hash": "8357781247101cd7a00735c0816bd0e1320e2a17",
+        "time": 1491331727
+      },
+      {
+        "tag": "v0.6.4",
+        "hash": "b541dee4e72780466b778e5df1ebf8d55f212199",
+        "time": 1475574261
+      },
+      {
+        "tag": "v0.6.3",
+        "hash": "a9d6b6f85fd4f0120bca6ebeb8aa68b1d7bde0b4",
+        "time": 1475396588
+      },
+      {
+        "tag": "v0.6.2",
+        "hash": "bf2124533a36eadf3999c1ad6a2d8300114f5198",
+        "time": 1446202350
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "c9b424777d87fe5c47a0f8fc1e2762dfd2ba0ced",
+        "time": 1430546874
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "ffd0651fce6f2c4232be44b8fc84819c8072cfa9",
+        "time": 1428958932
+      }
+    ],
+    "commit": {
+      "hash": "efaa112b6df172a9168c4eb581ab8dda1fbcfe2a",
+      "time": 1695074230
+    }
+  }
+}

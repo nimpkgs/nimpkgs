@@ -1,0 +1,48 @@
+{
+  "name": "templater",
+  "url": "https://github.com/Wraith29/templater",
+  "method": "git",
+  "description": "HTML Template Engine",
+  "license": "MIT",
+  "doc": "https://wraith29.github.io/templater/templater.html",
+  "tags": [
+    "web",
+    "template engines"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.1"
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "92cea626f42992136242f58e476335f3be277c6d",
+        "time": 1706093266
+      }
+    ],
+    "commit": {
+      "hash": "4c249ad4995a88c6efaac9cd4317cc5028f08c08",
+      "time": 1733478323
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "illwave",
+  "url": "https://github.com/ansiwave/illwave",
+  "method": "git",
+  "description": "A cross-platform terminal UI library",
+  "license": "WTFPL",
+  "tags": [
+    "tui",
+    "terminal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.6.0",
+        "hash": "7558f89925f7c10e52559c80b26c7c090433a5c2",
+        "time": 1671571963
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "9518433992ce89071942e77fbc00cafd3c913638",
+        "time": 1655402730
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "f24bec387adaec07cc3bcface6604ed96f4ca462",
+        "time": 1653817003
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "f878f55bb0c1f36e98adfc416fc3e6568033638b",
+        "time": 1653570378
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "2dd2976c71514813de6dc8165658de32a4c8baa9",
+        "time": 1653129570
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "35ad9b8e39a7caffcadf89983332320d7a78fca9",
+        "time": 1652783398
+      }
+    ],
+    "commit": {
+      "hash": "7558f89925f7c10e52559c80b26c7c090433a5c2",
+      "time": 1671571963
+    }
+  }
+}

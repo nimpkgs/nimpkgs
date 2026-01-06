@@ -1,0 +1,63 @@
+{
+  "name": "dlutils",
+  "url": "https://github.com/amnr/dlutils",
+  "method": "git",
+  "description": "Nim package for easy shared library loading.",
+  "license": "NCSA",
+  "web": "https://github.com/amnr/dlutils",
+  "tags": [
+    "shared",
+    "library",
+    "helper",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.1.4",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v2.1.4",
+        "hash": "cb3323eebe368e6dcf44cddd4b2638a597307d10",
+        "time": 1702407385
+      },
+      {
+        "tag": "v2.1.3",
+        "hash": "f0498a20fdf945dd40c743898316d73097824227",
+        "time": 1701727948
+      },
+      {
+        "tag": "v2.1.2",
+        "hash": "c80f0cc999ad49d91a3700f41a0f2fd9e6a182c9",
+        "time": 1701293545
+      },
+      {
+        "tag": "v2.1.1",
+        "hash": "68f7c05a869c2e2b936c53bd5a2d2689acaf328a",
+        "time": 1701211016
+      },
+      {
+        "tag": "v2.1.0",
+        "hash": "e68db8070ed6f78b036d0e0ad6df0f9fb5f6e3a1",
+        "time": 1701191940
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "01b0d27d1cfb7b8e56c9e67d3446bf6190bd1711",
+        "time": 1701036986
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "99bc713a15c5c5e9a59030be9d9f156af78f3e18",
+        "time": 1699818821
+      }
+    ],
+    "commit": {
+      "hash": "cb3323eebe368e6dcf44cddd4b2638a597307d10",
+      "time": 1702407385
+    }
+  }
+}

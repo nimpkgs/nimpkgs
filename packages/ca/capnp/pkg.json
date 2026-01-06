@@ -1,0 +1,46 @@
+{
+  "name": "capnp",
+  "url": "https://github.com/zielmicha/capnp.nim",
+  "method": "git",
+  "description": "Cap'n Proto implementation for Nim",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/capnp.nim",
+  "tags": [
+    "capnp",
+    "serialization",
+    "protocol",
+    "rpc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        },
+        {
+          "name": "collections",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [
+        "capnp/capnpc"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "fa69fd7db70e14f8f4bbe364adc8e37195dd93b4",
+      "time": 1609866066
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "systimes",
+  "url": "https://github.com/GULPF/systimes",
+  "method": "git",
+  "description": "An alternative DateTime implementation",
+  "license": "MIT",
+  "web": "https://github.com/GULPF/systimes",
+  "tags": [
+    "time",
+    "timezone",
+    "datetime"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "eda0f5745a7ce53ef29e677745d72d749a20661c",
+        "time": 1535118034
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "cfdded98c09f5de689212cb41109272f185c3e6a",
+        "time": 1535117567
+      }
+    ],
+    "commit": {
+      "hash": "60d38f97abf31243ad88be7dcc19804b2dabc2ec",
+      "time": 1585587829
+    }
+  }
+}

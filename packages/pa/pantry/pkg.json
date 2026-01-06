@@ -1,0 +1,72 @@
+{
+  "name": "pantry",
+  "url": "https://github.com/ire4ever1190/pantry-nim",
+  "method": "git",
+  "description": "Client library for https://getpantry.cloud/",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/pantry-nim",
+  "doc": "https://tempdocs.netlify.app/pantry/stable",
+  "tags": [
+    "wrapper",
+    "json",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.2",
+        "hash": "6cfb382c123d30665abcb405a9cd93d3d04c3d15",
+        "time": 1685948765
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "6d07467478823db68184fe04afa8692efbfacce4",
+        "time": 1671876483
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "e40f3542b693c3a49e8ee9d5aa35c5a830a274f6",
+        "time": 1671676115
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "88d42cfa56b8811328cefcd8a07bb6d9189466e6",
+        "time": 1656125927
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "ccb204c746bdf28523aa0bec27fa603dbb2530dc",
+        "time": 1651535536
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "0133f188535d7f879d2ae667236f8b8feb9d1fde",
+        "time": 1650276192
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f57ef4ecea4b19ea63fe9e338d369a54bf28a4c4",
+        "time": 1647812738
+      }
+    ],
+    "commit": {
+      "hash": "05b6be2be95b0fd64a3729c88b1651dcc1f9429a",
+      "time": 1699065719
+    }
+  }
+}

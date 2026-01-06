@@ -1,0 +1,34 @@
+{
+  "name": "Nim_for_AviUtl",
+  "url": "https://github.com/K-Kentaro-dev/Nim_for_AviUtl",
+  "method": "git",
+  "description": "This is a tool to make AviUtl's dll script.",
+  "license": "MIT",
+  "web": "https://github.com/K-Kentaro-dev/Nim_for_AviUtl",
+  "tags": [
+    "library",
+    "wrapper",
+    "lua"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "12f40dd5f9468cf70fe0de7ed38fc8bd267c1803",
+      "time": 1760188397
+    }
+  }
+}

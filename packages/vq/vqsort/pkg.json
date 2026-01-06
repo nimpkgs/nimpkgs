@@ -1,0 +1,43 @@
+{
+  "name": "vqsort",
+  "url": "https://github.com/Asc2011/vqsort",
+  "method": "git",
+  "description": "A vectorized Quicksort (AVX2-only)",
+  "license": "MIT",
+  "tags": [
+    "data",
+    "optimization",
+    "sorting",
+    "simd",
+    "quicksort"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.2.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1681f1aa63f50cebb66d1c6d4d6892eb898f61a1",
+      "time": 1710216400
+    }
+  }
+}

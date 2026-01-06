@@ -1,0 +1,63 @@
+{
+  "name": "murmur3",
+  "url": "https://github.com/boydgreenfield/nimrod-murmur",
+  "method": "git",
+  "description": "A simple MurmurHash3 wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/boydgreenfield/nimrod-murmur",
+  "tags": [
+    "MurmurHash",
+    "MurmurHash3",
+    "murmur",
+    "hash",
+    "hashing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "ebf44c9a5f145608f1b37ecbf38c8819e40b4b01",
+        "time": 1489026156
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "62fb9dd6da7494e95ebed2e6f7a562b64e0319e2",
+        "time": 1430431891
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "5e51735bd60a9a0b86c3d3264fc892af8b9a6ec8",
+        "time": 1405795985
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "b3725aeb3e2a2f58832f0d2f7f2e920ca311e9b2",
+        "time": 1400190981
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "056fd8fd66d4a36ea65c98970bfbd062305b5188",
+        "time": 1399941669
+      }
+    ],
+    "commit": {
+      "hash": "ebf44c9a5f145608f1b37ecbf38c8819e40b4b01",
+      "time": 1489026156
+    }
+  }
+}

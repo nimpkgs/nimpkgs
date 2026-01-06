@@ -1,0 +1,40 @@
+{
+  "name": "shiori_charset_convert",
+  "url": "https://github.com/Narazaka/shiori_charset_convert-nim",
+  "method": "git",
+  "description": "The SHIORI Message charset convert utility",
+  "license": "MIT",
+  "web": "https://github.com/Narazaka/shiori_charset_convert-nim",
+  "tags": [
+    "shiori",
+    "ukagaka"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "1f5206548e0c69a48e649837a6a9994ba89482cf",
+        "time": 1516435926
+      }
+    ],
+    "commit": {
+      "hash": "1f5206548e0c69a48e649837a6a9994ba89482cf",
+      "time": 1516435926
+    }
+  }
+}

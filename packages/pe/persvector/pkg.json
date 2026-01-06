@@ -1,0 +1,41 @@
+{
+  "name": "persvector",
+  "url": "https://github.com/PMunch/nim-persistent-vector",
+  "method": "git",
+  "description": "This is an implementation of Clojures persistent vectors in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nim-persistent-vector",
+  "tags": [
+    "datastructures",
+    "immutable",
+    "persistent"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "3f92a26aced63c4d443f62a31402329a1c18d22e",
+        "time": 1572962395
+      }
+    ],
+    "commit": {
+      "hash": "3f92a26aced63c4d443f62a31402329a1c18d22e",
+      "time": 1572962395
+    }
+  }
+}

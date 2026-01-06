@@ -1,0 +1,78 @@
+{
+  "name": "nimip",
+  "url": "https://github.com/hitblast/nimip",
+  "method": "git",
+  "description": "Asynchronously lookup IP addresses with this tiny, hybrid Nim application.",
+  "license": "MIT",
+  "web": "https://github.com/hitblast/nimip",
+  "tags": [
+    "nimip",
+    "api-wrapper",
+    "ip-api",
+    "ip-address-lookup",
+    "library",
+    "hybrid"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0"
+          }
+        },
+        {
+          "name": "illwill",
+          "str": "0.3.2",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.3.2"
+          }
+        }
+      ],
+      "bin": [
+        "nimip"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.2.1",
+        "hash": "9e45fcc263b24ab6aefdaee1151841a4eaf8ab10",
+        "time": 1710778346
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "486b8af3510085153ac2587574c82b00420f0ff2",
+        "time": 1688035101
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "bc30f6cb3121a9525615bfba004b4cecab52707b",
+        "time": 1686742939
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "35a905f407feeec1498b504181857af71d99bcd3",
+        "time": 1686589775
+      }
+    ],
+    "commit": {
+      "hash": "0071873690b2c08aa7218a34a78cc246ff896f65",
+      "time": 1767258438
+    }
+  }
+}

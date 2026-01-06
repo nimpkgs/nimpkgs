@@ -1,0 +1,58 @@
+{
+  "name": "nimautogui",
+  "url": "https://github.com/Cooperzilla/nimautogui",
+  "method": "git",
+  "description": "Moving the mouse around in nim inspired by python's pyautogui. Windows Only",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "web": "https://github.com/Cooperzilla/nimautogui",
+  "tags": [
+    "library",
+    "winapi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "winim",
+          "str": ">= 3.9.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.9.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "ae55b75085a473ab9f1b84d769a6b8b14b3135fa",
+        "time": 1690838981
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "41348c3068f6379475123e679e6ff8c271a356f8",
+        "time": 1690079501
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "76b3bc6badfee06d46e4aa616a451b4afd14fcff",
+        "time": 1690078785
+      }
+    ],
+    "commit": {
+      "hash": "ae55b75085a473ab9f1b84d769a6b8b14b3135fa",
+      "time": 1690838981
+    }
+  }
+}

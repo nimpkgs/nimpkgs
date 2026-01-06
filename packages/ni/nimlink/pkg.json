@@ -1,0 +1,47 @@
+{
+  "name": "nimlink",
+  "url": "https://github.com/thing-king/nimlink",
+  "method": "git",
+  "description": "Links Nim packages via `srcDir` correctly",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/nimlink",
+  "tags": [
+    "nim",
+    "dev",
+    "development",
+    "packages",
+    "link"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "colors",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        }
+      ],
+      "bin": [
+        "nimlink"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "02cffdccff528d62e6c798e47a209e23f4a38dae",
+      "time": 1745008050
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "gara",
+  "url": "https://github.com/alehander42/gara",
+  "method": "git",
+  "description": "A pattern matching library",
+  "license": "MIT",
+  "web": "https://github.com/alehander42/gara",
+  "tags": [
+    "nim",
+    "pattern"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2e3e8e95d104eb4cde2b65e6e8483dd02ea99fc0",
+      "time": 1587982565
+    }
+  }
+}

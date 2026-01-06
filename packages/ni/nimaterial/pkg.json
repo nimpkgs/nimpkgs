@@ -1,0 +1,49 @@
+{
+  "name": "nimaterial",
+  "url": "https://github.com/momeemt/nimaterial",
+  "method": "git",
+  "description": "nimaterial is a CSS output library based on material design.",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/nimaterial",
+  "tags": [
+    "web",
+    "library",
+    "css"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "Palette",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "ver.0.3.0",
+        "hash": "b00288ec19905cfb3e740903ea898fe5180874c3",
+        "time": 1609371021
+      }
+    ],
+    "commit": {
+      "hash": "b00288ec19905cfb3e740903ea898fe5180874c3",
+      "time": 1609371021
+    }
+  }
+}

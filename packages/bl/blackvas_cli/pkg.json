@@ -1,0 +1,17 @@
+{
+  "name": "blackvas_cli",
+  "url": "https://github.com/momeemt/BlackvasCli",
+  "method": "git",
+  "description": "The Blackvas CLI",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/BlackvasCli",
+  "tags": [
+    "blackvas",
+    "web",
+    "cli",
+    "deleted"
+  ],
+  "meta": {
+    "status": "Deleted"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "serde",
+  "url": "https://github.com/codex-storage/nim-json",
+  "method": "git",
+  "description": "Easy-to-use serialization capabilities (currently json only), with a drop-in replacement for std/json.",
+  "license": "MIT",
+  "web": "https://github.com/codex-storage/nim-json",
+  "tags": [
+    "library",
+    "serialization",
+    "json"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": ">= 0.10.3 & < 0.11.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "questionable",
+          "str": ">= 0.10.13 & < 0.11.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stint",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v.1.2.2",
+        "hash": "83e4a2ccf621d3040c6e7e0267393ca2d205988e",
+        "time": 1729664437
+      },
+      {
+        "tag": "v1.2.1",
+        "hash": "b39497be32c308890588c25befd35e3659f711f5",
+        "time": 1716259576
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "d726f6c6ebd5c2b6f90421f072fc341e48fe9237",
+        "time": 1715662506
+      },
+      {
+        "tag": "v1.1.1",
+        "hash": "b955985548b22ff4f399aaefa98eb13971dfddf0",
+        "time": 1715577375
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "06b271a7271756126072d1ed093c4b3cb3bc287b",
+        "time": 1707890952
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "9f36b95ac467b415f1efc96d838714f4ec7f851e",
+        "time": 1707806571
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "461602dda726728b1ac6673634c801f618ae39a3",
+        "time": 1707372116
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "377c48f3cad7c509f8afc2af2e78c608931756a5",
+        "time": 1707345143
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "f8260e91545eeaa6fb05bfc44891f53e8178abee",
+        "time": 1707289397
+      }
+    ],
+    "commit": {
+      "hash": "649ae60e05ec432738d41eb8d613c5d7f434c4a3",
+      "time": 1765865417
+    }
+  }
+}

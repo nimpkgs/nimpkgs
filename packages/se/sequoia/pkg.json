@@ -1,0 +1,47 @@
+{
+  "name": "sequoia",
+  "url": "https://github.com/ba0f3/sequoia.nim",
+  "method": "git",
+  "description": "Sequoia PGP wrapper for Nim",
+  "license": "GPLv3",
+  "web": "https://github.com/ba0f3/sequoia.nim",
+  "tags": [
+    "sequoia",
+    "pgp",
+    "openpgp",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "45d839c8f658680a959e762dd36845b2ed81c704",
+        "time": 1539312777
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "d21bbbefd14d413fa155dd805fd5a555337fb4d4",
+        "time": 1539179474
+      }
+    ],
+    "commit": {
+      "hash": "92e5fb8307d7945624099f38a31bdbf9b109442c",
+      "time": 1633049861
+    }
+  }
+}

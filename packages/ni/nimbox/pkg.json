@@ -1,0 +1,38 @@
+{
+  "name": "nimbox",
+  "url": "https://github.com/dom96/nimbox",
+  "method": "git",
+  "description": "A Rustbox-inspired termbox wrapper",
+  "license": "MIT",
+  "web": "https://github.com/dom96/nimbox",
+  "tags": [
+    "library",
+    "wrapper",
+    "termbox",
+    "command-line",
+    "ui",
+    "tui",
+    "gui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "6a56e76c01481176f16ae29b7d7c526bd83f229b",
+      "time": 1560456726
+    }
+  }
+}

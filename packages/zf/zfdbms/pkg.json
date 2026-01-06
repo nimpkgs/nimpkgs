@@ -1,0 +1,133 @@
+{
+  "name": "zfdbms",
+  "url": "https://github.com/zendbit/nim_zfdbms",
+  "method": "git",
+  "description": "Simple database generator, connector and query tools.",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_zfdbms",
+  "doc": "https://github.com/zendbit/nim_zfdbms/blob/main/README.md",
+  "tags": [
+    "sql",
+    "dbms",
+    "zendbit",
+    "zendflow",
+    "database",
+    "mysql",
+    "sqlite",
+    "postgre"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "stdext",
+          "str": ">= 0.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.4"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.3",
+        "hash": "aae4034aa7dc16df61af9dabcef3498e5fff3507",
+        "time": 1693878142
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "a1ef4f2013993226b70859d24fc4e70fc2eba9eb",
+        "time": 1693394543
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "c11090f8366df86a10d80421748812efe9e46109",
+        "time": 1693387784
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "5adef4dddaaccd7d094c89368ed322980b9ce578",
+        "time": 1692384763
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "3ddbef8b800201dcebf1c63a874a99e47cc98aff",
+        "time": 1690785618
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "d85c5942f159d1f96a0eee11bd816b49e5d23f2e",
+        "time": 1676183764
+      },
+      {
+        "tag": "v0.0.10",
+        "hash": "55f6c1de02294e29ebbeb78031d2e6321f00e3c2",
+        "time": 1672783352
+      },
+      {
+        "tag": "v0.0.9",
+        "hash": "d1b111921b5f99a45329485d506ebcce65099803",
+        "time": 1668132890
+      },
+      {
+        "tag": "v0.0.7",
+        "hash": "a7b14e859b7ae220a7a69f2379d9898343708b8e",
+        "time": 1640234028
+      },
+      {
+        "tag": "v0.0.6",
+        "hash": "e8202ef9ba10b5a639ccd27c5cb8b85988b455d4",
+        "time": 1639622999
+      },
+      {
+        "tag": "v0.0.5",
+        "hash": "1659296475fb895dbd719d0b5a97ede190a680ef",
+        "time": 1639537810
+      },
+      {
+        "tag": "v0.0.4",
+        "hash": "b717fb4b5740bd05e5b3cfd149eb2bb6b3636d38",
+        "time": 1636801557
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "b7d485acc13e02fca8937760152f514844f9dce5",
+        "time": 1636015116
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "5f07c857361f7b7d2f230ce44765b756f2ae38a5",
+        "time": 1635914358
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "f4ed5a1962fc69b1f7bf7080146e012c1acc0658",
+        "time": 1632792457
+      }
+    ],
+    "commit": {
+      "hash": "aae4034aa7dc16df61af9dabcef3498e5fff3507",
+      "time": 1693878142
+    }
+  }
+}

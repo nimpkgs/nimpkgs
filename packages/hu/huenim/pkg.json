@@ -1,0 +1,47 @@
+{
+  "name": "huenim",
+  "url": "https://github.com/IoTone/huenim",
+  "method": "git",
+  "description": "Huenim",
+  "license": "MIT",
+  "web": "https://github.com/IoTone/huenim",
+  "tags": [
+    "hue",
+    "iot",
+    "lighting",
+    "philips",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.5"
+          }
+        }
+      ],
+      "bin": [
+        "huenim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f6fb0fdb4af0160bc91c21836c7e85e0e7a2de54",
+      "time": 1506229759
+    }
+  }
+}

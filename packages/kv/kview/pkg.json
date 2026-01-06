@@ -1,0 +1,55 @@
+{
+  "name": "kview",
+  "url": "https://github.com/planety/kview",
+  "method": "git",
+  "description": "For karax html preview.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/planety/kview",
+  "tags": [
+    "prologue",
+    "starlight",
+    "karax",
+    "web"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "karax",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "f6bbd5103e2db7f426239d1c207ce636eb7ac016",
+        "time": 1582415102
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "014467907597375a1d52360199283cecf6c303c4",
+        "time": 1582282985
+      }
+    ],
+    "commit": {
+      "hash": "f6bbd5103e2db7f426239d1c207ce636eb7ac016",
+      "time": 1582415102
+    }
+  }
+}

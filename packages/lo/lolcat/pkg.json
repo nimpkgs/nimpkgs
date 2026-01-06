@@ -1,0 +1,39 @@
+{
+  "name": "lolcat",
+  "url": "https://github.com/OHermesJunior/lolcat.nim",
+  "method": "git",
+  "description": "lolcat implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/OHermesJunior/lolcat.nim",
+  "tags": [
+    "lolcat",
+    "binary",
+    "tool",
+    "colors",
+    "fun"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.9"
+          }
+        }
+      ],
+      "bin": [
+        "lolcat"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "91640e98df068607cf0ccc8158e50c4fffa24332",
+      "time": 1561474830
+    }
+  }
+}

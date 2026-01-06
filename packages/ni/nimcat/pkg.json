@@ -1,0 +1,36 @@
+{
+  "name": "nimcat",
+  "url": "https://github.com/shakna-israel/nimcat",
+  "method": "git",
+  "description": "An implementation of cat in Nim",
+  "license": "MIT",
+  "web": "https://github.com/shakna-israel/nimcat",
+  "tags": [
+    "cat",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimcat"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "fe85ddb490b33cdabbb1de37e894a6e6b8792b49",
+      "time": 1449877492
+    }
+  }
+}

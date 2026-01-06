@@ -1,0 +1,40 @@
+{
+  "name": "nimzip",
+  "url": "https://github.com/thechampagne/nimzip",
+  "method": "git",
+  "description": "Binding for a portable, simple zip library",
+  "license": "MIT",
+  "web": "https://github.com/thechampagne/nimzip",
+  "tags": [
+    "zip",
+    "binding"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "8adcf50ea27b0c1b1af9da5ce587ea45c6562635",
+        "time": 1697239219
+      }
+    ],
+    "commit": {
+      "hash": "8adcf50ea27b0c1b1af9da5ce587ea45c6562635",
+      "time": 1697239219
+    }
+  }
+}

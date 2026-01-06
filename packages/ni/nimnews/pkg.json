@@ -1,0 +1,121 @@
+{
+  "name": "nimnews",
+  "url": "https://github.com/mildred/nimnews",
+  "method": "git",
+  "description": "Immature Newsgroup NNTP server using SQLite as backend",
+  "license": "GPL-3.0",
+  "web": "https://github.com/mildred/nimnews",
+  "tags": [
+    "nntp",
+    "newsgroups"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nuuid",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "scram",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "passgen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "npeg",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimassets",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "prologue",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "templates",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "asynctools",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "web/newsweb",
+        "nimnews"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "0ab41cdc69f0ff5890adfc9b7cb1c1eaa75f5555",
+        "time": 1605624061
+      },
+      {
+        "tag": "v0.0.0",
+        "hash": "dd2f90372589067eee811511b8a72ef5f64071c7",
+        "time": 1595065555
+      }
+    ],
+    "commit": {
+      "hash": "36ee8709f0f6e8e1b215e57f4607bbfe68e3ab92",
+      "time": 1658568779
+    }
+  }
+}

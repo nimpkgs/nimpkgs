@@ -1,0 +1,157 @@
+{
+  "name": "inim",
+  "url": "https://github.com/inim-repl/INim",
+  "method": "git",
+  "description": "Interactive Nim Shell",
+  "license": "MIT",
+  "web": "https://github.com/AndreiRegiani/INim",
+  "tags": [
+    "repl",
+    "playground",
+    "shell"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "cligen",
+          "str": ">= 1.5.22",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.22"
+          }
+        },
+        {
+          "name": "noise",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        }
+      ],
+      "bin": [
+        "inim"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "e3de600e0e96587aaf71d5695a7daec3f7796ecf",
+        "time": 1719613115
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "1d7dfa91265be4ab1252b6fa29a3b583683e947e",
+        "time": 1601911013
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "c383e381517addd027e76b0fe5764623597264be",
+        "time": 1599378881
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "6e4b613244e15334b1457a63d0b79ba5df87ea83",
+        "time": 1591508969
+      },
+      {
+        "tag": "v0.4.7",
+        "hash": "afc36530a98090f1660eae5a83ce46ccfc237745",
+        "time": 1589003004
+      },
+      {
+        "tag": "v0.4.6",
+        "hash": "6ff9f06dd20c08f6a00bd0752ac73afe9e971d48",
+        "time": 1589002833
+      },
+      {
+        "tag": "v0.4.5",
+        "hash": "7eb7fba756421756aef86005cc0cfe86a741974a",
+        "time": 1586860735
+      },
+      {
+        "tag": "v0.4.4",
+        "hash": "07dccb93e05a15b64f3aaffabfb4f42215db822a",
+        "time": 1586858884
+      },
+      {
+        "tag": "v0.4.3",
+        "hash": "2ac20b1e8b29c9a0004ec41a138cf11498ade288",
+        "time": 1586191753
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "89578e892a2aabc77111ee7e11e6502fcf9a028b",
+        "time": 1586161804
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "a783b68a56dddf408aacf400684a6b2314d1ce6c",
+        "time": 1558597695
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "82706223a4d6e04fc494dfc989dc45795b82c3f1",
+        "time": 1533395086
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "3881ab4de12c938cb386ce26d5bf0a4b11147d3d",
+        "time": 1533353373
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "1d46d1a802cf5b98fb98fdde32b349551cff7c49",
+        "time": 1532559923
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "7ecaf84ca4207d21f04a079910671f535bf39bcb",
+        "time": 1531585295
+      },
+      {
+        "tag": "0.2.5",
+        "hash": "f7df9972eb81eb6488d32eecaf97f2153c4cc79c",
+        "time": 1526057053
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "3b7c62a1161c4f52d66e15bf41a0323f5b273051",
+        "time": 1526006219
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "64f98335e1b3fb89a14d858df0977601205c21b0",
+        "time": 1525698681
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "f1e8ad6b1826401e0a1bd615324159a12a8c95de",
+        "time": 1525472039
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "c8557ad6e38a7986a0d76b0ee8ef83e351f62f66",
+        "time": 1524607785
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "3eba77cd570e36725c0e7c764a8587e07c85b300",
+        "time": 1522964862
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "d1468e1814b1452408b7f308f60340ceffa924bd",
+        "time": 1521255788
+      }
+    ],
+    "commit": {
+      "hash": "e84a470f6de6294476beb75cbf2ba4831ce635b6",
+      "time": 1720115385
+    }
+  }
+}

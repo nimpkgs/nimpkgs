@@ -1,0 +1,33 @@
+{
+  "name": "barcode",
+  "url": "https://github.com/bunkford/barcode",
+  "method": "git",
+  "description": "Nim barcode library",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/barcode",
+  "doc": "https://bunkford.github.io/barcode/barcode.html",
+  "tags": [
+    "barcode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "65fa44cadcb6a77feb2f89c69ce1060a7c8fd49f",
+      "time": 1579033720
+    }
+  }
+}

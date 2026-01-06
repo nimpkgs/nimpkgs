@@ -1,0 +1,67 @@
+{
+  "name": "nerve",
+  "url": "https://github.com/nepeckman/nerve-rpc",
+  "method": "git",
+  "description": "A RPC framework for building web APIs",
+  "license": "MIT",
+  "web": "https://github.com/nepeckman/nerve-rpc",
+  "tags": [
+    "rpc",
+    "framework",
+    "web",
+    "json",
+    "api",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.6"
+          }
+        },
+        {
+          "name": "ws",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "d2cb58ffc27086507bc62e4b03ba346c61b881f0",
+        "time": 1574822750
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "b0400fe06869cf268cd811f1658cfde477edd30b",
+        "time": 1564090751
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "bca5ee1bca7f6899ecb7f30cd06611be33613554",
+        "time": 1562012928
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "9ea4ded6bb08f41979925a8a18ccf220e67e828f",
+        "time": 1561670322
+      }
+    ],
+    "commit": {
+      "hash": "d2cb58ffc27086507bc62e4b03ba346c61b881f0",
+      "time": 1574822750
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "jdec",
+  "url": "https://github.com/diegogub/jdec",
+  "method": "git",
+  "description": "Flexible JSON manshal/unmarshal library for nim",
+  "license": "MIT",
+  "web": "https://github.com/diegogub/jdec",
+  "tags": [
+    "json",
+    "marshal",
+    "helper",
+    "utils"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "dcbb29a03ef41e8c3ed27bef163d1002b782904f",
+        "time": 1526146131
+      }
+    ],
+    "commit": {
+      "hash": "ade4bd9f3f285a1367a5245b714ba2baa6565fbb",
+      "time": 1530115798
+    }
+  }
+}

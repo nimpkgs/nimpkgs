@@ -1,0 +1,34 @@
+{
+  "name": "configparser",
+  "url": "https://github.com/xmonader/nim-configparser",
+  "method": "git",
+  "description": "pure Ini configurations parser",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nim-configparser",
+  "tags": [
+    "configparser",
+    "ini",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7e805b43d76e4943bac26288f6f7d85bfc19eb02",
+      "time": 1562839631
+    }
+  }
+}

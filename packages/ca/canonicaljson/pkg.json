@@ -1,0 +1,66 @@
+{
+  "name": "canonicaljson",
+  "url": "https://github.com/jackhftang/canonicaljson.nim",
+  "method": "git",
+  "description": "Canonical JSON according to RFC8785",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/canonicaljson.nim",
+  "tags": [
+    "json",
+    "serialization",
+    "canonicalization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.2",
+        "hash": "10d3f0280c0ecd700e09f93192437cdf347d5906",
+        "time": 1611729919
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "5ec2e7d44f51119ae4fba917e0d77f86426ef012",
+        "time": 1611729571
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "c221c08de097500ca97eb226d9e7aa24fda09086",
+        "time": 1604510532
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "46e36b5a8772b7c2c00257663035a72ec254a648",
+        "time": 1604411023
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "74c21026d6ac4410093197f656c21011b5696e3f",
+        "time": 1604326228
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "49143b7b48c70f036dca956a8e226b467e42c7f2",
+        "time": 1604322697
+      }
+    ],
+    "commit": {
+      "hash": "10d3f0280c0ecd700e09f93192437cdf347d5906",
+      "time": 1611729919
+    }
+  }
+}

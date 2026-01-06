@@ -1,0 +1,17 @@
+{
+  "name": "freegeoip",
+  "url": "https://github.com/achesak/nim-freegeoip",
+  "method": "git",
+  "description": "Retrieve info about a location from an IP address",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-freegeoip",
+  "tags": [
+    "IP",
+    "address",
+    "location",
+    "geolocation"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

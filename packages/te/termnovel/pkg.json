@@ -1,0 +1,84 @@
+{
+  "name": "termnovel",
+  "url": "https://github.com/jiro4989/termnovel",
+  "method": "git",
+  "description": "A command that to read novel on terminal",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/termnovel",
+  "tags": [
+    "cli",
+    "novel",
+    "tui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 0.9.32",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.32"
+          }
+        },
+        {
+          "name": "markdown",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        },
+        {
+          "name": "nimquery",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        },
+        {
+          "name": "eastasianwidth",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        },
+        {
+          "name": "alignment",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "termnovel"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "7b5e9289743563b24631972814658d25e9983d70",
+        "time": 1569216848
+      }
+    ],
+    "commit": {
+      "hash": "56efda80499338c2e11e733aa70ea221afaa7f7b",
+      "time": 1569226115
+    }
+  }
+}

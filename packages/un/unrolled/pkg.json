@@ -1,0 +1,41 @@
+{
+  "name": "unrolled",
+  "url": "https://github.com/schneiderfelipe/unrolled",
+  "method": "git",
+  "description": "Unroll for-loops at compile-time.",
+  "license": "MIT",
+  "web": "https://github.com/schneiderfelipe/unrolled",
+  "tags": [
+    "macros",
+    "unroll",
+    "for-loops"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1-alpha",
+        "hash": "fae56e38fa316fd88a7bd6f5a52417422647ee9e",
+        "time": 1625594185
+      }
+    ],
+    "commit": {
+      "hash": "b4297abbbbcc842d28664719cbf544fd85376409",
+      "time": 1627393035
+    }
+  }
+}

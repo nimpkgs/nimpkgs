@@ -1,0 +1,128 @@
+{
+  "name": "loony",
+  "url": "https://github.com/shayanhabibi/loony",
+  "method": "git",
+  "description": "Lock-free threadsafe MPMC with high throughput",
+  "license": "MIT",
+  "web": "https://github.com/shayanhabibi/loony",
+  "doc": "https://github.com/shayanhabibi/loony/blob/main/README.md",
+  "tags": [
+    "fifo",
+    "queue",
+    "concurrency",
+    "cps"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "https://github.com/nim-works/arc",
+          "str": "< 1.0.0",
+          "ver": {
+            "kind": "verEarlier",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "cc65bd51c2ddde2578959f57c933efde106cfeeb",
+        "time": 1725765524
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "e420241067dcd6069503be4f043412d94010f512",
+        "time": 1724788717
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "9a107110ed06921e9d5796d7b29930cf41e671ed",
+        "time": 1710967350
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "fd166524fe34e1d5479387bf5f1ddbb96b29fee4",
+        "time": 1708530580
+      },
+      {
+        "tag": "0.1.14",
+        "hash": "e01b52a3b717121e7c7961f7911999b818d62a65",
+        "time": 1708517556
+      },
+      {
+        "tag": "0.1.13",
+        "hash": "b0f0f269545f1a4988de57eeed577ca78b2f3e45",
+        "time": 1706125828
+      },
+      {
+        "tag": "0.1.12",
+        "hash": "df38148c1b52ceaaa9555db2add7bdcd5bff5809",
+        "time": 1664813269
+      },
+      {
+        "tag": "0.1.11",
+        "hash": "f6f80e1cbefbd27e615a313b9a8ec074ed743b33",
+        "time": 1637970372
+      },
+      {
+        "tag": "0.1.10",
+        "hash": "0ead72c05ba9c2ca057861d9ec51f8f5ddb8d793",
+        "time": 1637931549
+      },
+      {
+        "tag": "0.1.9",
+        "hash": "a8c3adb2c1a20f95ed6a4c1f3ba80e170bb74bcc",
+        "time": 1637908034
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "b2104042bce4ac61414bccdb9c5cd988398a2e56",
+        "time": 1635375805
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "75e8a7effd5902c5df7bacecc694921a5f8b32ff",
+        "time": 1633280373
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "9071632461af40c9677618548372f9a5a1d6ffff",
+        "time": 1633090381
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "b4f340448738b257d1a560a25ab8a40d5e5990aa",
+        "time": 1632889707
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "c29ac5e238ba3f60fd8b07393c326b87d9e67558",
+        "time": 1632715033
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "4871c29312623b61d4ea2c53b2c2083988b64f42",
+        "time": 1632465932
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "49acf624a022baf4007b42f19e17cd8a04e25952",
+        "time": 1632414394
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "2643c0db13dd1d2ef36a5d47d157d430536839b7",
+        "time": 1632024350
+      }
+    ],
+    "commit": {
+      "hash": "cc65bd51c2ddde2578959f57c933efde106cfeeb",
+      "time": 1725765524
+    }
+  }
+}

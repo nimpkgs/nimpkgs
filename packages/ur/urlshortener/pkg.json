@@ -1,0 +1,48 @@
+{
+  "name": "urlshortener",
+  "url": "https://github.com/jabbalaci/UrlShortener",
+  "method": "git",
+  "description": "A URL shortener cli app. using bit.ly",
+  "license": "MIT",
+  "web": "https://github.com/jabbalaci/UrlShortener",
+  "tags": [
+    "url",
+    "shorten",
+    "shortener",
+    "bitly",
+    "cli",
+    "shrink",
+    "shrinker"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [
+        "urlshortener"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "8c7678df7ced0a6ba9b17c85a6284cf4e13c477a",
+        "time": 1540312384
+      }
+    ],
+    "commit": {
+      "hash": "53769e0b85b8b782df5cb54c51b5487e293e9906",
+      "time": 1659770995
+    }
+  }
+}

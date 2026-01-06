@@ -1,0 +1,131 @@
+{
+  "name": "mirage",
+  "url": "https://github.com/ferus-web/mirage",
+  "method": "git",
+  "description": "A bytecode language generator and runtime",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/mirage",
+  "tags": [
+    "interpreter",
+    "bytecode",
+    "code"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "flatty",
+          "str": ">= 0.3.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.4"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.12"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.2.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.9"
+          }
+        },
+        {
+          "name": "pretty",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "https://github.com/ferus-web/nim-gmp",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.0",
+        "hash": "921a3f6606180aa0ce8e0f83b5ab83f3ecfbe3cb",
+        "time": 1736575290
+      },
+      {
+        "tag": "1.0.44",
+        "hash": "cce910b5012172072538f7b0787ec9c2cea5151d",
+        "time": 1736156529
+      },
+      {
+        "tag": "1.0.42",
+        "hash": "78981597734bf3560dd8da3e084a525ef1df28c0",
+        "time": 1733128493
+      },
+      {
+        "tag": "1.0.4",
+        "hash": "6c425e00a10c5988a832c36b1ed35671d33c8f63",
+        "time": 1729765631
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "9a56f8d48ffce40a117c3de36892ffbb769c9166",
+        "time": 1725693395
+      },
+      {
+        "tag": "0.1.9",
+        "hash": "886437b3a86562e65bdbda69215896350ae1a80a",
+        "time": 1724332066
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "d490e536f914717ad6b5fb603b06cadddf3aad68",
+        "time": 1721906614
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "6bf5627afe41a96875562896a12f963aa57c778a",
+        "time": 1721535488
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "1c549039b287fd5924c738f99153539d9fc184f0",
+        "time": 1721041034
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "a49358b51db23d10d819c45803b3a7de62348493",
+        "time": 1720714175
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "5dfe7efbc0ff37d40898e007a92757704bf1b018",
+        "time": 1718863304
+      }
+    ],
+    "commit": {
+      "hash": "e429f85ff83cf8ab0f4eb53c8337c98411d9d289",
+      "time": 1737281176
+    }
+  }
+}

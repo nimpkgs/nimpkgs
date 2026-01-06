@@ -1,0 +1,49 @@
+{
+  "name": "fusion",
+  "url": "https://github.com/nim-lang/fusion",
+  "method": "git",
+  "description": "Nim's official stdlib extension",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/fusion",
+  "tags": [
+    "distribution"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.2",
+        "hash": "0b0a0273b8df860cd54e3fcca7bb4c617244ac77",
+        "time": 1671329891
+      },
+      {
+        "tag": "v1.1",
+        "hash": "b10839c2c0c0be06a556145b973f27522fa69306",
+        "time": 1638436623
+      },
+      {
+        "tag": "v1.0",
+        "hash": "24f04ab8e38435156f8f885dea0a57c18b02626b",
+        "time": 1615534682
+      }
+    ],
+    "commit": {
+      "hash": "562467452b32cb7a97410ea177f083e6d8405734",
+      "time": 1709631895
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "uctl",
+  "url": "https://github.com/litlighilit/uctl",
+  "method": "git",
+  "description": "a small UNIX control & query cli, for battery status, screen brightness, console font, etc.",
+  "license": "MIT",
+  "tags": [
+    "cli",
+    "utility",
+    "tool",
+    "unix",
+    "linux"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "uctl"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "c0a239e47a426d080021485809e6b379dbd17b43",
+        "time": 1759024524
+      }
+    ],
+    "commit": {
+      "hash": "58a547df2ba5da6f86726c3688317562083aa941",
+      "time": 1767623128
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "emath",
+  "url": "https://github.com/hamidb80/emath",
+  "method": "git",
+  "description": "math parser/evaluator library",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/emath",
+  "tags": [
+    "math",
+    "expression",
+    "library",
+    "evaluator",
+    "ast",
+    "evaluation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "d94886274df9b44eda56661d335deafcf65a5c17",
+        "time": 1667321204
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "81b314ab2ffe3813724268d69e8dc55923e04410",
+        "time": 1665928720
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "c4db311b4b516a2fcb1e7b6448376b594edcea5b",
+        "time": 1665771196
+      },
+      {
+        "tag": "0.0.10",
+        "hash": "01653a0d6f2dba1a1fc38630b6479dd808b570bc",
+        "time": 1665760897
+      },
+      {
+        "tag": "0.0.8",
+        "hash": "b6b210b75323d89c337b132e4db03d81e5e3135f",
+        "time": 1665756875
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "61bea0f5fcbbdd583aac6cec72ef3fe5e1b86172",
+        "time": 1665668750
+      }
+    ],
+    "commit": {
+      "hash": "4cd884205b7f4d04d59df3601920c8e6c24cc5eb",
+      "time": 1680873810
+    }
+  }
+}

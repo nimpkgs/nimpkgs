@@ -1,0 +1,55 @@
+{
+  "name": "shio",
+  "url": "https://github.com/arashi-software/shio",
+  "method": "git",
+  "description": "A quick media server in nim",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/arashi-software/shio",
+  "tags": [
+    "web",
+    "server",
+    "file",
+    "http",
+    "jester"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "shio"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "c06f0de7e4757ac21e15bdca601274ad85af3169",
+      "time": 1685589906
+    }
+  }
+}

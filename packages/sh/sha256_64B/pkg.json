@@ -1,0 +1,36 @@
+{
+  "name": "sha256_64B",
+  "url": "https://github.com/status-im/sha256_64B",
+  "method": "git",
+  "description": "sha256 hash of batches of 64B blocks in parallel via pure asm lib hashtree",
+  "license": "MIT or Apache License 2.0",
+  "web": "https://github.com/status-im/sha256_64B",
+  "tags": [
+    "sha256_64B",
+    "sha256",
+    "batch parallel hash",
+    "assembly optimization",
+    "merkle tree"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "eabe9edea292f3db27797631fb8ca69ec29b6d19",
+      "time": 1684263105
+    }
+  }
+}

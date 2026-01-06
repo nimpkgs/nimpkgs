@@ -1,0 +1,50 @@
+{
+  "name": "quadtree",
+  "url": "https://github.com/Nycto/QuadtreeNim",
+  "method": "git",
+  "description": "A Quadtree implementation",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/QuadtreeNim",
+  "tags": [
+    "quadtree",
+    "algorithm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "2bd131278e3e480ac1e53f4d1f3eccb4d3653782",
+        "time": 1444712951
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "7cb62da185be07c995770da858cf2c7eb17cb267",
+        "time": 1442178474
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f720454d9b55a0d000aef1f2dca5772b331151dd",
+        "time": 1439954661
+      }
+    ],
+    "commit": {
+      "hash": "5da66b58ed74a4e2514dab9a4995807b6543a977",
+      "time": 1553703899
+    }
+  }
+}

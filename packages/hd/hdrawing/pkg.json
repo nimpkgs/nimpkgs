@@ -1,0 +1,57 @@
+{
+  "name": "hdrawing",
+  "url": "https://github.com/haxscramper/hdrawing",
+  "method": "git",
+  "description": "Simple shape drawing",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/hdrawing",
+  "tags": [
+    "pretty-printing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "hmisc",
+          "str": ">= 0.9.15",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.15"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.3",
+        "hash": "ef22931906eb23f18ef651701c9be7d8b1ca5b61",
+        "time": 1612453345
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "9010de1530b888667f95a3f8d72ec170a85184f1",
+        "time": 1610552065
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "925aff2b32eeaa63761e2c73d9713db86024e1d6",
+        "time": 1603745106
+      }
+    ],
+    "commit": {
+      "hash": "7b214d2c5acc7dab01f8cae188b325d14d21625c",
+      "time": 1614437283
+    }
+  }
+}

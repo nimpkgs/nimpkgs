@@ -1,0 +1,82 @@
+{
+  "name": "nimblas",
+  "url": "https://github.com/andreaferretti/nimblas",
+  "method": "git",
+  "description": "BLAS for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/nimblas",
+  "tags": [
+    "BLAS",
+    "linear algebra",
+    "vector",
+    "matrix"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "93ffdd705496990983eefa0507d52f6a6c533ca7",
+        "time": 1716451831
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "464c65cd001a27d5c364baa86dfcf19597535cf3",
+        "time": 1696753066
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "da7907887efed7bf2114f0ea48340d81a9d5c8ed",
+        "time": 1551185412
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "7566175acf9c2dcba00d71c2757d76f9a4bfe386",
+        "time": 1528822089
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "2b4df408705ca82811173710f8c9821254bf8031",
+        "time": 1497616974
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "589db0bd10897906b034bfcfc103403cae07a6e4",
+        "time": 1486401071
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "95959b85806c435d857e59c33c3fe986091df35e",
+        "time": 1486119736
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "b1d4b864b774cf6f768b6d565c9f5726340c30cb",
+        "time": 1483464956
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "5552347775b894c0bfdbbfeda59448846b0b1f77",
+        "time": 1463995333
+      }
+    ],
+    "commit": {
+      "hash": "93ffdd705496990983eefa0507d52f6a6c533ca7",
+      "time": 1716451831
+    }
+  }
+}

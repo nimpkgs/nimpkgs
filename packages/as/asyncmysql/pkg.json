@@ -1,0 +1,49 @@
+{
+  "name": "asyncmysql",
+  "url": "https://github.com/tulayang/asyncmysql",
+  "method": "git",
+  "description": "Asynchronous MySQL connector written in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/tulayang/asyncmysql",
+  "tags": [
+    "mysql",
+    "async",
+    "asynchronous"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        },
+        {
+          "name": "mysqlparser",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.4.3",
+        "hash": "c58b738bc94e717d176d0cff6dc0b7e992c15583",
+        "time": 1509765058
+      }
+    ],
+    "commit": {
+      "hash": "46578a1787b70c2b55cc7f46ab943775e0f6c2b7",
+      "time": 1602298129
+    }
+  }
+}

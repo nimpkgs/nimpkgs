@@ -1,0 +1,34 @@
+{
+  "name": "requirementstxt",
+  "url": "https://github.com/juancarlospaco/nim-requirementstxt",
+  "method": "git",
+  "description": "Python requirements.txt generic parser for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-requirementstxt",
+  "tags": [
+    "python",
+    "pip",
+    "requirements"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "769a099b3e4e512985413c9e2740c81d480381d7",
+      "time": 1601846692
+    }
+  }
+}

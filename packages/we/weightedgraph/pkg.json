@@ -1,0 +1,35 @@
+{
+  "name": "weightedgraph",
+  "url": "https://github.com/AzamShafiul/weighted_graph",
+  "method": "git",
+  "description": "Graph With Weight Libary",
+  "license": "MIT",
+  "web": "https://github.com/AzamShafiul/weighted_graph",
+  "tags": [
+    "graph",
+    "weighted",
+    "weighted_graph",
+    "adjacency list"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "5c028550e1acfa9bea264a22941698210364a2ca",
+      "time": 1583825027
+    }
+  }
+}

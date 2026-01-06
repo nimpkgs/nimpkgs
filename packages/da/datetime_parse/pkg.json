@@ -1,0 +1,41 @@
+{
+  "name": "datetime_parse",
+  "url": "https://github.com/bung87/datetime_parse",
+  "method": "git",
+  "description": "parse datetime from various resources",
+  "license": "MIT",
+  "web": "https://github.com/bung87/datetime_parse",
+  "tags": [
+    "datetime",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "timezones",
+          "str": ">= 0.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2ce54c35e43a165db056ec0135d4f416cb823ccb",
+      "time": 1589013605
+    }
+  }
+}

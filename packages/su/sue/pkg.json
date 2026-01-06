@@ -1,0 +1,52 @@
+{
+  "name": "sue",
+  "url": "https://github.com/theAkito/sue",
+  "method": "git",
+  "description": "Executes a program as a user different from the user running `sue`. The target program is `exec`'ed which means, that it replaces the `sue` process you are using to run the target program. This simulates native tools like `su` and `sudo` and uses the same low-level POSIX tools to achieve that, but eliminates common issues that usually arise, when using those native tools.",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "akito",
+    "gosu",
+    "su-exec",
+    "docker",
+    "kubernetes",
+    "helm",
+    "permission",
+    "linux",
+    "posix",
+    "postgres",
+    "process"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.16.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.2"
+          }
+        }
+      ],
+      "bin": [
+        "sue"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "2ca8bf24699113606133ad38bb4db131cc5e96b6",
+      "time": 1651007416
+    }
+  }
+}

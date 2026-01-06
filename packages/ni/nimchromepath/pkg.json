@@ -1,0 +1,35 @@
+{
+  "name": "nimchromepath",
+  "url": "https://github.com/felipetesc/NimChromePath",
+  "method": "git",
+  "description": "Thin lib to find if chrome exists on Windows, Mac, or Linux.",
+  "license": "MIT",
+  "web": "https://github.com/felipetesc/NimChromePath",
+  "doc": "https://github.com/felipetesc/NimChromePath",
+  "tags": [
+    "chrome",
+    "path",
+    "nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ddd68d4842f1ec31a5f59ea4b4418c7afc21169d",
+      "time": 1600886059
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "plotly",
+  "url": "https://github.com/SciNim/nim-plotly",
+  "method": "git",
+  "description": "Nim interface to plotly",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/nim-plotly",
+  "tags": [
+    "plot",
+    "graphing",
+    "chart",
+    "data"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsbind",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "webview",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ws",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.3",
+        "hash": "b9705980965f65e4174ef68c4f93cd082375b623",
+        "time": 1712683449
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "35f634279f1f52bbadccf5d9bb9ad55a3c89ea53",
+        "time": 1657014570
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "a34dcdcc62e28603847518f4bcd0bf1816399b7d",
+        "time": 1635786549
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "f514825b9c43dbfda99f00542f4fb1fc46aec5e8",
+        "time": 1600263097
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "ec536af399d3deb125fdec31c17d302def5b314a",
+        "time": 1572971837
+      }
+    ],
+    "commit": {
+      "hash": "b9705980965f65e4174ef68c4f93cd082375b623",
+      "time": 1712683449
+    }
+  }
+}

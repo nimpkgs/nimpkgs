@@ -1,0 +1,44 @@
+{
+  "name": "bard",
+  "url": "https://github.com/thisago/bard",
+  "method": "git",
+  "description": "Nim interface of Google Bard free API",
+  "license": "MIT",
+  "web": "https://github.com/thisago/bard",
+  "tags": [
+    "library",
+    "batchexecute",
+    "bard",
+    "ai",
+    "google"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.8.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "714b940c1065ed1d04d9f84a74c47dcd8eedc126",
+      "time": 1695074298
+    }
+  }
+}

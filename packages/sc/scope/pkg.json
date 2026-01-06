@@ -1,0 +1,35 @@
+{
+  "name": "scope",
+  "url": "https://github.com/thing-king/scope",
+  "method": "git",
+  "description": "Scope tracking for untyped macros",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/scope",
+  "tags": [
+    "macro",
+    "untyped",
+    "scope",
+    "tracker"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.00",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2aad62a1500b8d69f6cc0fd4446665be3b65dbec",
+      "time": 1748971404
+    }
+  }
+}

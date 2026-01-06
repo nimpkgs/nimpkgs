@@ -1,0 +1,35 @@
+{
+  "name": "niMIDI",
+  "url": "https://github.com/Mycsina/NiMIDI",
+  "method": "git",
+  "description": "MIDI file parser in Nim, for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Mycsina/NiMIDI",
+  "tags": [
+    "MIDI",
+    "parser",
+    "writer",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8efd1e75817f770c24f932c4ed395f8cdff5acf6",
+      "time": 1700513920
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "nimmonocypher",
+  "url": "https://github.com/genotrance/nimmonocypher",
+  "method": "git",
+  "description": "monocypher wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimmonocypher",
+  "tags": [
+    "monocypher",
+    "crypto",
+    "crypt",
+    "hash",
+    "sha512",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nimgen",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "5b49c41709dd8732f1110de4a5ba214b252b73f7",
+        "time": 1577551668
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "931eda1b53c4499c1be9b39ddfea6b3dbb61fd18",
+        "time": 1541219058
+      }
+    ],
+    "commit": {
+      "hash": "5b49c41709dd8732f1110de4a5ba214b252b73f7",
+      "time": 1577551668
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "foliant",
+  "url": "https://github.com/foliant-docs/foliant-nim",
+  "method": "git",
+  "description": "Documentation generator that produces pdf and docx from Markdown. Uses Pandoc and LaTeX behind the scenes.",
+  "license": "MIT",
+  "web": "https://github.com/foliant-docs/foliant-nim",
+  "tags": [
+    "foliant",
+    "docs",
+    "pdf",
+    "docx",
+    "word",
+    "latex",
+    "tex",
+    "pandoc",
+    "markdown",
+    "md",
+    "restream"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "yaml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "foliant"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "44aecd841e6a00d0632c3a814777a3a6713ffd76",
+      "time": 1481025182
+    }
+  }
+}

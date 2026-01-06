@@ -1,0 +1,76 @@
+{
+  "name": "tinypool",
+  "url": "https://github.com/PhilippMDoerner/TinyPool",
+  "method": "git",
+  "description": "A minimalistic connection pooling package",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/TinyPool",
+  "tags": [
+    "database",
+    "sqlite3",
+    "connection-pool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.3",
+        "hash": "80ccfb21d511ee66a1e6f476b8a095d045e57043",
+        "time": 1674252198
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "6542b0b5084a064819401fc674100b33f2dba4a2",
+        "time": 1674243892
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "fe0d7178215e75750aba279e24303a9a19b19ae9",
+        "time": 1655835540
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "6e3e63d993f93f2d106b6019fcc9c82fc5321ddb",
+        "time": 1655830830
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "eeae2474818d9d4b8f42bb734d852a524900e3f6",
+        "time": 1648230122
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "1f7bc1e02c9f3cefb434b4626dda89d909cc462c",
+        "time": 1648228722
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "608c619addad6e94076f58f4cfe28e6a7aa0992a",
+        "time": 1643631173
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "dcc30222131cdeb589cf1688367ff94a0d37542b",
+        "time": 1643630999
+      }
+    ],
+    "commit": {
+      "hash": "80ccfb21d511ee66a1e6f476b8a095d045e57043",
+      "time": 1674252198
+    }
+  }
+}

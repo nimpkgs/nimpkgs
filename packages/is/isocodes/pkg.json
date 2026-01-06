@@ -1,0 +1,157 @@
+{
+  "name": "isocodes",
+  "url": "https://github.com/kraptor/isocodes",
+  "method": "git",
+  "description": "ISO codes for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/kraptor/isocodes",
+  "tags": [
+    "iso",
+    "countries",
+    "country",
+    "language",
+    "languages",
+    "currency",
+    "currencies",
+    "ISO-3166",
+    "ISO-3166-1",
+    "ISO-3166-2",
+    "ISO-3166-3",
+    "ISO-15924",
+    "ISO-4217"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.7.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.3"
+          }
+        }
+      ],
+      "bin": [
+        "isocodes/scripts/isocodes_download"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.7.3",
+        "hash": "498d48dec0b7b4b1e2628bed23ccfca4238920bd",
+        "time": 1731013923
+      },
+      {
+        "tag": "1.7.2",
+        "hash": "d00bbae5480f17682dedc135ba339bfd1dbbb234",
+        "time": 1680285888
+      },
+      {
+        "tag": "1.7.1",
+        "hash": "fba055a6501dc2b2f41144f032f3fea794d5eff3",
+        "time": 1631984529
+      },
+      {
+        "tag": "1.7.0",
+        "hash": "8bd19f444da257af9412f71ecd2e0975f9d2f551",
+        "time": 1631984414
+      },
+      {
+        "tag": "1.6.4",
+        "hash": "85f09d126e99b72041b359a066c8b437cbd704b4",
+        "time": 1629992831
+      },
+      {
+        "tag": "1.6.3",
+        "hash": "96dcd97ec4e141ca033c31cddcaea012992bfdd5",
+        "time": 1629992565
+      },
+      {
+        "tag": "1.6.2",
+        "hash": "53b07a32d771dec3a96d739dd96d5367b93138e6",
+        "time": 1626767129
+      },
+      {
+        "tag": "1.6.0",
+        "hash": "3486c9d6a42bfe7ef180690d243b79bb21a2748e",
+        "time": 1626766769
+      },
+      {
+        "tag": "1.5.0",
+        "hash": "eb8ba7c1d0c3c6b3659135c6d83c8a1c5d426650",
+        "time": 1626764101
+      },
+      {
+        "tag": "1.4.1",
+        "hash": "2a28dc600c2cac943490bca2ec0530578c905132",
+        "time": 1626726267
+      },
+      {
+        "tag": "1.4.0",
+        "hash": "d73edb61f5c0b8e9867139401003d40c1ff0a228",
+        "time": 1626726004
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "1c3a5cccf8649e4375c568772fdb486d8ac5ae8e",
+        "time": 1626294912
+      },
+      {
+        "tag": "1.1.5",
+        "hash": "0e48fcc9017f5273535a109c9c67284a96d6da39",
+        "time": 1626294675
+      },
+      {
+        "tag": "1.1.4",
+        "hash": "18ea3e675bd68866c83b26512b02202270a4dc40",
+        "time": 1626294452
+      },
+      {
+        "tag": "1.1.3",
+        "hash": "fdcee8c2142189543b72497ec75763f6924cb4b2",
+        "time": 1626120176
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "2376ffd9a736c76ab0e67d27cb78b43a2a808fda",
+        "time": 1626074977
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "202025af405bf903da636df97032a462bdf14352",
+        "time": 1626037446
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "11d7eaab936f8bbe6d650ed0d4d439e645992500",
+        "time": 1626037270
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "162f0a6730dd2e1d7a875e5a4a58fe77eaaa2077",
+        "time": 1626028664
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "afbaaf521288adaeba37e04651a018c4f76405bb",
+        "time": 1626027942
+      }
+    ],
+    "commit": {
+      "hash": "498d48dec0b7b4b1e2628bed23ccfca4238920bd",
+      "time": 1731013923
+    }
+  }
+}

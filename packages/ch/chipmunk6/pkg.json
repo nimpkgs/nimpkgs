@@ -1,0 +1,34 @@
+{
+  "name": "chipmunk6",
+  "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
+  "method": "git",
+  "description": "Bindings for Chipmunk2D 6.x physics library",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimrod-chipmunk",
+  "tags": [
+    "library",
+    "physics",
+    "game"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "6.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "dc5bf1c98280c970a8b6f80578cb291780396ef2",
+      "time": 1474744621
+    }
+  }
+}

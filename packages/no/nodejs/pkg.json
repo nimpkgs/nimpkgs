@@ -1,0 +1,33 @@
+{
+  "name": "nodejs",
+  "url": "https://github.com/juancarlospaco/nodestdlib",
+  "method": "git",
+  "description": "NodeJS Standard Library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nodestdlib",
+  "tags": [
+    "javascript",
+    "node"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "20.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "51b3ea20a98a3779126f3a2422f5dcd27da4c1b6",
+      "time": 1766059835
+    }
+  }
+}

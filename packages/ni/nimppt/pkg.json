@@ -1,0 +1,77 @@
+{
+  "name": "nimppt",
+  "url": "https://github.com/HUSKI3/Nimppt",
+  "method": "git",
+  "description": "A simple and elegant presentation generator",
+  "license": "MIT",
+  "web": "https://github.com/HUSKI3/Nimppt",
+  "tags": [
+    "presentation",
+    "cli",
+    "markdown"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "markdown",
+          "str": ">= 0.8.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.7"
+          }
+        },
+        {
+          "name": "pylib",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "nimja",
+          "str": ">= 0.8.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.7"
+          }
+        },
+        {
+          "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nimppt"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "d2f6b9847e5400dfeb2b5d5883e95c6cef0063f0",
+      "time": 1682001027
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "crc32",
+  "url": "https://github.com/juancarlospaco/nim-crc32",
+  "method": "git",
+  "description": "CRC32, 2 proc, copied from RosettaCode.",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-crc32",
+  "tags": [
+    "crc32",
+    "checksum",
+    "minimalism"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "bc075990b8a1d4547560fd42c4238ce0514f1802",
+      "time": 1767015219
+    }
+  }
+}

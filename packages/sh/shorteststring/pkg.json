@@ -1,0 +1,43 @@
+{
+  "name": "shorteststring",
+  "url": "https://github.com/metagn/shorteststring",
+  "method": "git",
+  "description": "word size strings stored in an integer",
+  "license": "MIT",
+  "web": "https://github.com/metagn/shorteststring",
+  "tags": [
+    "short-string",
+    "string",
+    "sso",
+    "optimization",
+    "datatype"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "2c1b43977d68d9a881b4e414f219e87b341ad5fa",
+        "time": 1645183978
+      }
+    ],
+    "commit": {
+      "hash": "8e74088d20b53c3e5a944d8d293a7606e85634e7",
+      "time": 1663050029
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "mimalloc",
+  "url": "https://github.com/planetis-m/mimalloc_nim",
+  "method": "git",
+  "description": "A drop-in solution to use mimalloc in Nim with ARC/ORC",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/mimalloc_nim",
+  "tags": [
+    "allocator",
+    "mimalloc",
+    "multithreading"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.7",
+        "hash": "75d4d36e3fdbe17390e67931cb6c70d33c8770a0",
+        "time": 1755870389
+      },
+      {
+        "tag": "v0.3.6",
+        "hash": "5235325a739210d6b55410912c3444952386a0c5",
+        "time": 1755869523
+      },
+      {
+        "tag": "v0.3.5",
+        "hash": "63a5257d8744c06a5b630863e25f1c8185a402ee",
+        "time": 1754918652
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "cdab66a5c9196fcf0d4d13271b84222c126a8da2",
+        "time": 1754910033
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "4d7665093e843081f66aa70b3416acb478767975",
+        "time": 1754906317
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "6c15091a0c75fd1db411dcd69f45c1b16bc77054",
+        "time": 1720672824
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "eb64ebe7981837bf407ab81276913ca43ca59159",
+        "time": 1720204120
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "2d11d935e7e6d71775cc8333a4fee372954cea95",
+        "time": 1720180743
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "f3a267b745c46e5e8be105fa4f5f5e2fc5e30d46",
+        "time": 1720145039
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e68253006cebde754b9fd0b69850be25e9825c21",
+        "time": 1720142332
+      }
+    ],
+    "commit": {
+      "hash": "75d4d36e3fdbe17390e67931cb6c70d33c8770a0",
+      "time": 1755870389
+    }
+  }
+}

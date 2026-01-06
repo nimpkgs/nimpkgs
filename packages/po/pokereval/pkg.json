@@ -1,0 +1,39 @@
+{
+  "name": "pokereval",
+  "url": "https://github.com/jasonlu7/pokereval",
+  "method": "git",
+  "description": "A poker hand evaluator",
+  "license": "MIT",
+  "web": "https://github.com/jasonlu7/pokereval",
+  "tags": [
+    "poker"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "76b73ce2e2c276deab5b14fe12a09a67cdc1073f",
+        "time": 1588713273
+      }
+    ],
+    "commit": {
+      "hash": "2964a9d6a7574766c2c89c4740f319d61545e88c",
+      "time": 1588741743
+    }
+  }
+}

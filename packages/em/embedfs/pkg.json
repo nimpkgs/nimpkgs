@@ -1,0 +1,54 @@
+{
+  "name": "embedfs",
+  "url": "https://github.com/iffy/nim-embedfs",
+  "method": "git",
+  "description": "Embed directories in executables, easily",
+  "license": "MIT",
+  "tags": [
+    "bundling",
+    "static"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "f89c348d585cd516855926ae65db017d51c09fb9",
+        "time": 1708373342
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "77ca699e52c9eefa784bc6ba321c2ccba5503694",
+        "time": 1708373300
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "a2ebccdef28b6925ffabc7813e371f8136e21da0",
+        "time": 1679674677
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "1f2c42825b511cdefea12d7e20a9e2a0be57b61a",
+        "time": 1679623492
+      }
+    ],
+    "commit": {
+      "hash": "d75c8f3c4cf277bc0e696cc8acff3120c4c04627",
+      "time": 1708374729
+    }
+  }
+}

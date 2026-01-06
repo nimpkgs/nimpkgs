@@ -1,0 +1,35 @@
+{
+  "name": "iecook",
+  "url": "https://github.com/thisago/iecook",
+  "method": "git",
+  "description": "Cook all cookies of your browser",
+  "license": "MIT",
+  "web": "https://github.com/thisago/iecook",
+  "tags": [
+    "library",
+    "httpOnly",
+    "cookie",
+    "session"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3707faa248d95d585c92d8fd9ba6c11e00ef19d6",
+      "time": 1700254210
+    }
+  }
+}

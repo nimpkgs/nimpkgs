@@ -1,0 +1,35 @@
+{
+  "name": "nimterlingua",
+  "url": "https://github.com/juancarlospaco/nim-internimgua",
+  "method": "git",
+  "description": "Internationalization at Compile Time for Nim. Macro to translate unmodified code from 1 INI file. NimScript compatible.",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-internimgua",
+  "tags": [
+    "internationalization",
+    "i18n",
+    "localization",
+    "translation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0f40b48bbf4e2e2a92ce89e0d2330d14d2c751bd",
+      "time": 1652971613
+    }
+  }
+}

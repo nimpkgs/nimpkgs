@@ -1,0 +1,72 @@
+{
+  "name": "illwill",
+  "url": "https://github.com/johnnovak/illwill",
+  "method": "git",
+  "description": "A curses inspired simple cross-platform console library for Nim",
+  "license": "WTFPL",
+  "web": "https://github.com/johnnovak/illwill",
+  "tags": [
+    "terminal",
+    "console",
+    "curses",
+    "ui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.4.1",
+        "hash": "99a120f7f69868b94f5d35ce7e21dd12535de70c",
+        "time": 1714885389
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "631169fe966adcf7d6f4015a71b1a897020d0e47",
+        "time": 1710987230
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "cee02a3bdab619305440f98fb08b3a0678b34514",
+        "time": 1709868454
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "1d12cb36ab7b76c31d2d25fa421013ecb382e625",
+        "time": 1694992957
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "2fe96f5c5a6e216e84554d92090ce3d47460667a",
+        "time": 1688627601
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "7532f9dcfa91a6c3188a6d55ae333f7037988803",
+        "time": 1688621900
+      },
+      {
+        "tag": "v0.2.0, v0.1.0",
+        "hash": "fe6f670c0cac93d525b4fe0b4430f89e4d616d48",
+        "time": 1582410083
+      }
+    ],
+    "commit": {
+      "hash": "99a120f7f69868b94f5d35ce7e21dd12535de70c",
+      "time": 1714885389
+    }
+  }
+}

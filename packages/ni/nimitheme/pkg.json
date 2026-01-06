@@ -1,0 +1,68 @@
+{
+  "name": "nimitheme",
+  "url": "https://github.com/neroist/nimitheme",
+  "method": "git",
+  "description": "make nimib look beautiful with nimitheme",
+  "license": "MIT",
+  "web": "https://neroist.github.io/nimitheme/index.html",
+  "tags": [
+    "nimib",
+    "theme",
+    "addon",
+    "style",
+    "library",
+    "html",
+    "nimib-extension"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "nimib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "8e89329a85ac2f96cf3e1dd1f428a2c910660a1c",
+        "time": 1680616975
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "114d22a2b85c6a07f3f6f7e5ad964b56e8fd3684",
+        "time": 1680563615
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "ca92ba7437b213134d94d551d6cfbae0a8dbe34f",
+        "time": 1680562172
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "3501e1b5709ff9c3b915e61d888d92200d277b07",
+        "time": 1680385325
+      }
+    ],
+    "commit": {
+      "hash": "85ad9b80029112e1d2903dbd5b2a418bbcccb467",
+      "time": 1719545842
+    }
+  }
+}

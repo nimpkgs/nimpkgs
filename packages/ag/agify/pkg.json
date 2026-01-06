@@ -1,0 +1,58 @@
+{
+  "name": "agify",
+  "url": "https://github.com/nemuelw/nim-agify",
+  "method": "git",
+  "description": "Nim wrapper for the Agify.io API",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nemuelw/nim-agify",
+  "tags": [
+    "agify",
+    "agifyio",
+    "agify.io",
+    "agify-api",
+    "nim",
+    "wrapper",
+    "api-wrapper",
+    "nim-wrapper",
+    "client",
+    "api-client",
+    "nim-client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a182bcd789d8d640f7d4357b0113af614ec09c2d",
+      "time": 1752086549
+    }
+  }
+}

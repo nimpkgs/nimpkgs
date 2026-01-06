@@ -1,0 +1,42 @@
+{
+  "name": "nimclutter",
+  "url": "https://github.com/KeepCoolWithCoolidge/nimclutter",
+  "method": "git",
+  "description": "Nim bindings for Clutter toolkit.",
+  "license": "LGPLv2.1",
+  "web": "https://github.com/KeepCoolWithCoolidge/nimclutter",
+  "tags": [
+    "clutter",
+    "gtk",
+    "gui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "oldgtk3",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "87af6423eec1d66f253e62e6bb8d29b45fb5752b",
+      "time": 1537114980
+    }
+  }
+}

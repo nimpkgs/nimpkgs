@@ -1,0 +1,89 @@
+{
+  "name": "slappy",
+  "url": "https://github.com/treeform/slappy",
+  "method": "git",
+  "description": "A 3d sound API for nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/slappy",
+  "tags": [
+    "sound",
+    "OpenAL"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "openal",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 1.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.4"
+          }
+        },
+        {
+          "name": "supersnappy",
+          "str": ">= 2.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.3",
+        "hash": "241a885f8b3978c78a6ff38282bb2614fccdc1d3",
+        "time": 1700327407
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "1cf3e83f5bfc80dde65975e39d5e23bbf3246ce3",
+        "time": 1700326803
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "43bd685ef7de13ea4536ad2bcd9d4a91e657648e",
+        "time": 1616798738
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "f4c4722d39a91f6ed68c61fa05fb21d92fb3bc43",
+        "time": 1590770537
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "7f1798e999dfcf3d931a6360d3a486dfe9b89801",
+        "time": 1584067792
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "f66535bd45f49d0d09fc562ef3363c9ba275d7fd",
+        "time": 1574030911
+      }
+    ],
+    "commit": {
+      "hash": "241a885f8b3978c78a6ff38282bb2614fccdc1d3",
+      "time": 1700327407
+    }
+  }
+}

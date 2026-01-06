@@ -1,0 +1,56 @@
+{
+  "name": "holidapi",
+  "url": "https://github.com/nirokay/holidapi",
+  "method": "git",
+  "description": "Collection of Holiday APIs - get holidays, their dates and additional information.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nirokay/holidapi",
+  "tags": [
+    "api",
+    "api-wrapper",
+    "holiday"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.2",
+        "hash": "c6d5b79c9f02aec6862b7c809cd769f32e949e08",
+        "time": 1721805524
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "7dc0c7265fa2a9058233a7a2895c28f9b2f01147",
+        "time": 1721635405
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "1da3e05d3f558885d78fb364025a7d7a5e5c3627",
+        "time": 1721378413
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "7cdd1b3ecea35b67d759a0a4dc7495c14b391211",
+        "time": 1721119186
+      }
+    ],
+    "commit": {
+      "hash": "57c9762be492f4afc5c3d96af1b0c2d1aa3accf5",
+      "time": 1748935016
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "strenc",
+  "url": "https://github.com/nim-meta/strenc",
+  "method": "git",
+  "description": "A library to automatically encrypt all string constants in your programs",
+  "license": "MIT",
+  "web": "https://github.com/nim-meta/strenc",
+  "tags": [
+    "encryption",
+    "macro",
+    "obfuscation",
+    "abandoned"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "1dc1b6a9c05716dc66792b99a877a9d530d159fb",
+        "time": 1719545958
+      }
+    ],
+    "commit": {
+      "hash": "1dc1b6a9c05716dc66792b99a877a9d530d159fb",
+      "time": 1719545958
+    }
+  }
+}

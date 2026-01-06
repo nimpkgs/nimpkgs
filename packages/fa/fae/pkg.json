@@ -1,0 +1,52 @@
+{
+  "name": "fae",
+  "url": "https://github.com/h3rald/fae",
+  "method": "git",
+  "description": "Find and Edit Utility",
+  "license": "MIT",
+  "web": "https://github.com/h3rald/fae",
+  "tags": [
+    "cli",
+    "grep",
+    "find",
+    "search",
+    "replace",
+    "regexp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [
+        "fae"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "9682afb0008d0ef053c89ca17b19e92216631f4f",
+        "time": 1616171544
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "cc3b275099573f97d77f69e5f66cb7595a8cc89d",
+        "time": 1604846731
+      }
+    ],
+    "commit": {
+      "hash": "19479c7091968a79b96bd250a9dd89e579437c39",
+      "time": 1691809438
+    }
+  }
+}

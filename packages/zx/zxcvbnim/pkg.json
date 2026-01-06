@@ -1,0 +1,49 @@
+{
+  "name": "zxcvbnim",
+  "url": "https://github.com/jiiihpeeh/zxcvbnim",
+  "method": "git",
+  "description": "A zxcvbn clone for Nim. Written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/jiiihpeeh/zxcvbnim",
+  "tags": [
+    "zxcvbn",
+    "clone"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "supersnappy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e6223187af2bdea9a80d12f1c86e9cfdd0077989",
+      "time": 1639315121
+    }
+  }
+}

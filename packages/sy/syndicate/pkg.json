@@ -1,0 +1,83 @@
+{
+  "name": "syndicate",
+  "url": "https://git.syndicate-lang.org/ehmry/syndicate-nim",
+  "method": "git",
+  "description": "Syndicated actors for conversational concurrency",
+  "license": "ISC",
+  "web": "https://syndicate-lang.org/",
+  "tags": [
+    "actors",
+    "concurrency",
+    "dsl",
+    "library",
+    "rpc",
+    "syndicate"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "20250722",
+      "requires": [
+        {
+          "name": "https://github.com/cheatfate/nimcrypto",
+          "str": "#485f7b3cfa83c1beecc0e31be0e964d697aa74d7",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://git.syndicate-lang.org/ehmry/preserves-nim.git",
+          "str": "20251217",
+          "ver": {
+            "kind": "verEq",
+            "ver": "20251217"
+          }
+        },
+        {
+          "name": "https://github.com/1def52/nim-sys.git",
+          "str": "#master",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://git.sr.ht/~ehmry/nim_taps",
+          "str": "20241008",
+          "ver": {
+            "kind": "verEq",
+            "ver": "20241008"
+          }
+        },
+        {
+          "name": "https://git.sr.ht/~ehmry/solo5_dispatcher",
+          "str": "20240522",
+          "ver": {
+            "kind": "verEq",
+            "ver": "20240522"
+          }
+        },
+        {
+          "name": "https://git.syndicate-lang.org/ehmry/noiseprotocol.git",
+          "str": "20251218",
+          "ver": {
+            "kind": "verEq",
+            "ver": "20251218"
+          }
+        }
+      ],
+      "bin": [
+        "syndicate-subprocess-driver",
+        "syndicate-http-server",
+        "trace-to-dot",
+        "dataspace-patternizer"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "423a8b3870d20f6e0dceee5df82b2cf551d010d4",
+      "time": 1767225600
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "lq",
+  "url": "https://github.com/madprops/lq",
+  "method": "git",
+  "description": "Directory listing tool",
+  "license": "GPL-2.0",
+  "web": "https://github.com/madprops/lq",
+  "tags": [
+    "directory",
+    "file",
+    "listing",
+    "ls",
+    "tree",
+    "stats"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nap",
+          "str": ">= 3.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "lq"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "3.0.0",
+        "hash": "28f9a69a018d664e8d5404365368c4e7bbb64a62",
+        "time": 1656774249
+      },
+      {
+        "tag": "2.2.1",
+        "hash": "8daa2ec33ae968f2e8d961bde57c7d8ea32e5e71",
+        "time": 1633830741
+      },
+      {
+        "tag": "2.2.0",
+        "hash": "742d10b9bd365cfcbcafda93c371623ab52fa0e6",
+        "time": 1630474392
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "d48322f1ffc73b48bc706e72f75b1ed9f5c29459",
+        "time": 1585663641
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "88e6e110b12870621b71f000d630df26865a6585",
+        "time": 1578003189
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "a51acae00e01b659f345850b9cb7fb2a1ca9b1e3",
+        "time": 1577370754
+      }
+    ],
+    "commit": {
+      "hash": "6891eb883bcb453606c11a09912b2b627a74a3e4",
+      "time": 1681591821
+    }
+  }
+}

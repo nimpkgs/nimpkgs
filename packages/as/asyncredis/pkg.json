@@ -1,0 +1,60 @@
+{
+  "name": "asyncredis",
+  "url": "https://github.com/Q-Master/redis.nim",
+  "method": "git",
+  "description": "Pure Nim asyncronous driver for Redis DB",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/redis.nim",
+  "tags": [
+    "redis",
+    "database",
+    "driver",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.8.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.00",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.00"
+          }
+        },
+        {
+          "name": "networkutils",
+          "str": ">= 0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.8.2",
+        "hash": "07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
+        "time": 1645043860
+      },
+      {
+        "tag": "v0.8.1",
+        "hash": "48afab0766fc5cc7eef1c912623f7b85a33ed136",
+        "time": 1644353229
+      },
+      {
+        "tag": "v0.8",
+        "hash": "27e0413486bd9b2eaefa7071143ea883208fc315",
+        "time": 1639350906
+      }
+    ],
+    "commit": {
+      "hash": "07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
+      "time": 1645043860
+    }
+  }
+}

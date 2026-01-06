@@ -1,0 +1,55 @@
+{
+  "name": "funchook",
+  "url": "https://github.com/ba0f3/funchook.nim",
+  "method": "git",
+  "description": "funchook wrapper",
+  "license": "GPLv2",
+  "web": "https://github.com/ba0f3/funchook.nim",
+  "tags": [
+    "hook,",
+    "hooking"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "0e54631d17133181d37474760a68ab724512b24a",
+        "time": 1747241958
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "33724247cd9b8099155b8727af17bc124fc38850",
+        "time": 1684692896
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "c63f6bb70360991dea77a1a66f47c6d49c5d536f",
+        "time": 1633048755
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "f6ba900ab9e2d37418a1310332afb0827cf10671",
+        "time": 1630763823
+      }
+    ],
+    "commit": {
+      "hash": "0e54631d17133181d37474760a68ab724512b24a",
+      "time": 1747241958
+    }
+  }
+}

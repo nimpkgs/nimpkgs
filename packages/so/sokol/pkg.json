@@ -1,0 +1,37 @@
+{
+  "name": "sokol",
+  "url": "https://github.com/floooh/sokol-nim",
+  "method": "git",
+  "description": "sokol is a minimal cross-platform standalone graphics library",
+  "license": "MIT",
+  "web": "https://github.com/floooh/sokol-nim",
+  "tags": [
+    "opengl",
+    "3d",
+    "game",
+    "imgui",
+    "graphics",
+    "cross-platform"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "dbff586fa491299049a86d0ef175dfd15871d064",
+      "time": 1765651564
+    }
+  }
+}

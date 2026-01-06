@@ -1,0 +1,174 @@
+{
+  "name": "notcurses",
+  "url": "https://github.com/michaelsbradleyjr/nim-notcurses",
+  "method": "git",
+  "description": "A low-level Nim wrapper for Notcurses: blingful TUIs and character graphics",
+  "license": "Apache-2.0",
+  "web": "https://github.com/michaelsbradleyjr/nim-notcurses",
+  "tags": [
+    "cli",
+    "library",
+    "tui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.0.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.12"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.6.13",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.13"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v3.0.9",
+        "hash": "051556320d1bcc668fd5c4251d8357ffbdff2f3d",
+        "time": 1671952734
+      },
+      {
+        "tag": "v3.0.8",
+        "hash": "8d0b6b6e934a711e2b14d98502a88f4ff725a1cb",
+        "time": 1671952233
+      },
+      {
+        "tag": "v3.0.7",
+        "hash": "10c8fd9015181f7402b51bc8215a8b730c1c38e1",
+        "time": 1645838899
+      },
+      {
+        "tag": "v3.0.6",
+        "hash": "d3f5df6b2804d7e031c8ebe320f95d35aa30323e",
+        "time": 1644619618
+      },
+      {
+        "tag": "v3.0.5",
+        "hash": "de0a6bb16797a5b521c58b68768f90c36ed44b2a",
+        "time": 1642805662
+      },
+      {
+        "tag": "v3.0.4",
+        "hash": "13323d4c2a4238b53ba55b1ade2b2bb467aa7f76",
+        "time": 1641771546
+      },
+      {
+        "tag": "v3.0.3",
+        "hash": "dda4bcee3071d9d8aa2440ac6cbcb37e8732441e",
+        "time": 1641342800
+      },
+      {
+        "tag": "v3.0.2",
+        "hash": "90d1a717661ece0e3408e05a9a962db6de97ed6d",
+        "time": 1640575571
+      },
+      {
+        "tag": "v3.0.1",
+        "hash": "11204b063f79b65fea1e2ec5bc51a31d06f22be7",
+        "time": 1639787611
+      },
+      {
+        "tag": "v3.0.0",
+        "hash": "9acc8d11aff0214d68157e0cda88afa1d9cd3aae",
+        "time": 1639786091
+      },
+      {
+        "tag": "v2.4.9",
+        "hash": "fada661908f79a4f68bf4447691a470359e34e9b",
+        "time": 1636945555
+      },
+      {
+        "tag": "v2.4.8",
+        "hash": "51c9455134416ed38987117cc94cb39f0538822d",
+        "time": 1636381098
+      },
+      {
+        "tag": "v2.4.7",
+        "hash": "70e544acbd8eef0a0ba4038174e9eb7567485431",
+        "time": 1636235933
+      },
+      {
+        "tag": "v2.4.6",
+        "hash": "df14b5a608aab4b0bf947471a3175fcafecb84e4",
+        "time": 1636235674
+      },
+      {
+        "tag": "v2.4.5",
+        "hash": "5eaf6df19611555a0b8188ef71418ae28a19cf45",
+        "time": 1633631614
+      },
+      {
+        "tag": "v2.4.4",
+        "hash": "2dc4f9d6881d9c75d69d31fce3c573749b07133e",
+        "time": 1633590012
+      },
+      {
+        "tag": "v2.4.3",
+        "hash": "7b480607eb6265ccf739194bbe31d8dcd694655a",
+        "time": 1633589814
+      },
+      {
+        "tag": "v2.4.2",
+        "hash": "88b35966471eb47c0b62ae4b1715e2ce73cd40b2",
+        "time": 1633589660
+      },
+      {
+        "tag": "v2.4.1",
+        "hash": "34fd2535f20b58af95f9df1f0c00ed9d8a35f26c",
+        "time": 1633589496
+      },
+      {
+        "tag": "v2.4.0",
+        "hash": "a289fce65530919bc47c69988fcc0ff7a088246a",
+        "time": 1633588801
+      },
+      {
+        "tag": "v2.3.18",
+        "hash": "b3fa0bd78ae2d9873258d8ec1092a140f176085c",
+        "time": 1633588547
+      },
+      {
+        "tag": "v2.3.17",
+        "hash": "c34520a0e5e61c2070e88a0cdb1585d24d5fd065",
+        "time": 1633588193
+      },
+      {
+        "tag": "v2.3.16",
+        "hash": "621f6ffec47e473ed243fe5f42c6be27d1399768",
+        "time": 1633587687
+      },
+      {
+        "tag": "v2.3.15",
+        "hash": "afd2d0e7ea5d47ba4cbba89a9d2f36a7109ad931",
+        "time": 1633587407
+      },
+      {
+        "tag": "v2.3.14",
+        "hash": "9a68cb5dd066427db66e921093f7964218aba612",
+        "time": 1633587136
+      },
+      {
+        "tag": "v2.3.13",
+        "hash": "f34dcc71aed1062856502c97d21500c63fac3b40",
+        "time": 1628479750
+      }
+    ],
+    "commit": {
+      "hash": "681dd2e87e2d67ba007d49b9a420792c16d5aa08",
+      "time": 1689200779
+    }
+  }
+}

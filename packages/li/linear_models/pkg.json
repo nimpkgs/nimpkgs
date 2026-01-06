@@ -1,0 +1,67 @@
+{
+  "name": "linear_models",
+  "url": "https://github.com/ayman-albaz/linear-models",
+  "method": "git",
+  "description": "Generalized linear models in Nim.",
+  "license": "Apache-2.0 License",
+  "web": "https://github.com/ayman-albaz/linear-models",
+  "tags": [
+    "math",
+    "linear-algebra",
+    "statistics",
+    "machine-learning",
+    "BLAS",
+    "LAPACK",
+    "linear",
+    "glm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        },
+        {
+          "name": "arraymancer",
+          "str": ">= 0.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.2"
+          }
+        },
+        {
+          "name": "distributions",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "5e2da6d3134819f396f362e3a30e91a4df2aabc7",
+        "time": 1657991148
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e47f17733555d974cb3e7ff005df9f04f89acfe7",
+        "time": 1627770891
+      }
+    ],
+    "commit": {
+      "hash": "5e2da6d3134819f396f362e3a30e91a4df2aabc7",
+      "time": 1657991148
+    }
+  }
+}

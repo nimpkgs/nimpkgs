@@ -1,0 +1,52 @@
+{
+  "name": "hotdoc",
+  "url": "https://github.com/willyboar/hotdoc",
+  "method": "git",
+  "description": "Single Page Documentation Generator",
+  "license": "MIT",
+  "web": "https://github.com/willyboar/hotdoc",
+  "tags": [
+    "static",
+    "docs",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.8"
+          }
+        }
+      ],
+      "bin": [
+        "hotdoc"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "e1e04f196c18fe42e46e954ea222209a374b86a5",
+        "time": 1621000619
+      }
+    ],
+    "commit": {
+      "hash": "2dd8d962eaf48d95477aa3d6d1f81d63eddd392c",
+      "time": 1621371246
+    }
+  }
+}

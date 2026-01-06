@@ -1,0 +1,73 @@
+{
+  "name": "jsmn",
+  "url": "https://github.com/OpenSystemsLab/jsmn.nim",
+  "method": "git",
+  "description": "Jsmn - a world fastest JSON parser - in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/jsmn.nim",
+  "tags": [
+    "json",
+    "token",
+    "tokenizer",
+    "parser",
+    "jsmn"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "bc4199c912462b75d9466d39a7f89899e5e46b74",
+        "time": 1557503680
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "07adeb558d8780d3ce50bf7ea86382bf0ae45406",
+        "time": 1457325290
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "fd5cd9ae1ea5dde245a124d23c1f40dd64809585",
+        "time": 1456796646
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "e982974fbe4ac8a969b48f6905c43b6c3f1211e2",
+        "time": 1456680605
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "857b20f7a32baea452eb3ea2d673ae296bcb5196",
+        "time": 1456454410
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "0d281e29ab676c719cfa7198762e5fcdb9d99386",
+        "time": 1456250432
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "de582cdd783c4e0cda4180164ba83db85c83671c",
+        "time": 1456124838
+      }
+    ],
+    "commit": {
+      "hash": "b7d2aa54501a587b94769fd2e32df6f673836ff1",
+      "time": 1633050140
+    }
+  }
+}

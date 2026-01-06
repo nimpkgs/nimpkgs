@@ -1,0 +1,123 @@
+{
+  "name": "sqlbuilder",
+  "url": "https://github.com/ThomasTJdev/nim_sqlbuilder",
+  "method": "git",
+  "description": "A SQLbuilder with support for NULL values",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_sqlbuilder",
+  "tags": [
+    "sql",
+    "sqlbuilder"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.1.4",
+        "hash": "653ef304d7d68e7ef624bfe1bfdb3a4b079258c7",
+        "time": 1751469738
+      },
+      {
+        "tag": "v1.1.3",
+        "hash": "3ba3bb2d51714df31990987a9554ed106765be6b",
+        "time": 1741500551
+      },
+      {
+        "tag": "v1.1.2",
+        "hash": "cf4390382062cf76f11fb9f3a475a79ec6603c86",
+        "time": 1741440993
+      },
+      {
+        "tag": "v1.1.1",
+        "hash": "3811112ffb409e12a5a5562d652e4243c446a4b9",
+        "time": 1736524652
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "c76ad6dc4e14f59c8b451c38ecc0d3cb96209ef4",
+        "time": 1736060703
+      },
+      {
+        "tag": "v1.0.6",
+        "hash": "9cb170e4dbeea45349a204359640e6c875be992c",
+        "time": 1708805034
+      },
+      {
+        "tag": "v1.0.5",
+        "hash": "52c61d6aa20b746261423fb4c909cbb39f14e1f8",
+        "time": 1706706012
+      },
+      {
+        "tag": "v1.0.4",
+        "hash": "9fb8222c6971aa576538f5d2434179babc25879e",
+        "time": 1706608438
+      },
+      {
+        "tag": "v1.0.3",
+        "hash": "2cdd835e0ea2c186ecd16959bdd17fd06669f854",
+        "time": 1705485985
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "dbe58da1440c79505948d50dbf4cd6645191a31d",
+        "time": 1705129492
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "a8968715960e949a2d813ba415590f1baf834ba8",
+        "time": 1703144862
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "6c970d2da707aab544ed4c6fadcbd92e35d42dbd",
+        "time": 1640534977
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "499dc88af196c74afef1e2990c91bdd0a9e15294",
+        "time": 1620923813
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "5275f596bda6448498e72948f1489f3327939ea4",
+        "time": 1591948428
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "cf7b3da94d46e712b9366319f651b114255ba4ba",
+        "time": 1586713201
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "c466d6fe3dec056cbfcfc13a03e831e48070d1b7",
+        "time": 1586665048
+      }
+    ],
+    "commit": {
+      "hash": "653ef304d7d68e7ef624bfe1bfdb3a4b079258c7",
+      "time": 1751469738
+    }
+  }
+}

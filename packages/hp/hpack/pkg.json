@@ -1,0 +1,80 @@
+{
+  "name": "hpack",
+  "url": "https://github.com/nitely/nim-hpack",
+  "method": "git",
+  "description": "HPACK (Header Compression for HTTP/2)",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-hpack",
+  "tags": [
+    "http2",
+    "hpack"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.1",
+        "hash": "75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
+        "time": 1729530568
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "2ba2e206c636d917ba1066ec4124db867329ff23",
+        "time": 1713319260
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "b87257aeadceff19fc7bfc1238020113f429a399",
+        "time": 1712026074
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "b81ce1cff34c4d76c02eff6c5decd23037dcb0fe",
+        "time": 1712013805
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "036a0af9b6b4b465420dfdba10c7c97315bc1237",
+        "time": 1711890683
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "b4d534db0ca34e45c85e3e955762a7e9c38ce926",
+        "time": 1711685458
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "afd0f2911e1d268c3f45bf24f024dd1c2ff765e0",
+        "time": 1561929433
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "d7c25ae5e049b3619659996b96da0476c11ee23a",
+        "time": 1527811684
+      },
+      {
+        "tag": "v0.1",
+        "hash": "d436f9225ec1752235cd7975d4fc761dacdd475b",
+        "time": 1527696774
+      }
+    ],
+    "commit": {
+      "hash": "75e7548f000bd4b64f8544cee27e089fa0d4fcb6",
+      "time": 1729530568
+    }
+  }
+}

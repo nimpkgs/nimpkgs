@@ -1,0 +1,56 @@
+{
+  "name": "translation",
+  "url": "https://github.com/juancarlospaco/nim-tinyslation",
+  "method": "git",
+  "description": "Text string translation from free online crowdsourced API. Tinyslation a tiny translation.",
+  "license": "LGPLv3",
+  "web": "https://github.com/juancarlospaco/nim-tinyslation",
+  "tags": [
+    "translation",
+    "tinyslation",
+    "api",
+    "strings",
+    "minimalism"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [
+        "translation"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "ba5c97703865bf506106450f28d853a67bfbe7ad",
+        "time": 1546907374
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "0022996589e8539a340603a4aa36503eb6d9ee3f",
+        "time": 1535799123
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "09c18c6c1b3d552236dba78a2dbd0b22bc25efc9",
+        "time": 1525302678
+      }
+    ],
+    "commit": {
+      "hash": "a04c02b923e0191f116515cf1c12c600735bae74",
+      "time": 1559844783
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "prettystr",
+  "url": "https://github.com/prettybauble/prettystr",
+  "method": "git",
+  "description": "Small library for working with strings",
+  "license": "MIT",
+  "web": "https://github.com/prettybauble/prettystr",
+  "tags": [
+    "prettystr",
+    "prettybauble",
+    "string",
+    "number"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c906df9ab0140dfbbf7ef02fcd3efd4b48d57c25",
+      "time": 1640361179
+    }
+  }
+}

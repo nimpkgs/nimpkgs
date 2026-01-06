@@ -1,0 +1,34 @@
+{
+  "name": "sodium",
+  "url": "https://github.com/zielmicha/libsodium.nim",
+  "method": "git",
+  "description": "High-level libsodium bindings",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/libsodium.nim",
+  "tags": [
+    "crypto",
+    "security",
+    "sodium"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e1c88906d5958ffe56ee2590d34fdc8b2f3a96f5",
+      "time": 1546370186
+    }
+  }
+}

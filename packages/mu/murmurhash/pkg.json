@@ -1,0 +1,47 @@
+{
+  "name": "murmurhash",
+  "url": "https://github.com/cwpearson/nim-murmurhash",
+  "method": "git",
+  "description": "Pure nim implementation of MurmurHash",
+  "license": "MIT",
+  "web": "https://github.com/cwpearson/nim-murmurhash",
+  "tags": [
+    "murmur",
+    "hash",
+    "MurmurHash3",
+    "MurmurHash2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "b44ed5217c75eb83cfe5881fb32c58119dd9a6f0",
+        "time": 1566051106
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "08a6369d6a113f581544c4d608dc0f91012b175a",
+        "time": 1565996525
+      }
+    ],
+    "commit": {
+      "hash": "5d7c6a05f539413a6b9905524e8d6a9d47392afd",
+      "time": 1566213670
+    }
+  }
+}

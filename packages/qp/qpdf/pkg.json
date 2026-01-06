@@ -1,0 +1,33 @@
+{
+  "name": "qpdf",
+  "url": "https://github.com/fox0430/nim-qpdf",
+  "method": "git",
+  "description": "Nim bindings for qpdf C++ library",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/nim-qpdf",
+  "tags": [
+    "binding",
+    "pdf"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1c7c06dc777333aa37099086b5c59f47d5267906",
+      "time": 1764771732
+    }
+  }
+}

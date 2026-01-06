@@ -1,0 +1,41 @@
+{
+  "name": "redpool",
+  "url": "https://github.com/zedeus/redpool",
+  "method": "git",
+  "description": "Redis connection pool",
+  "license": "MIT",
+  "web": "https://github.com/zedeus/redpool",
+  "tags": [
+    "redis",
+    "pool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "https://github.com/zedeus/redis",
+          "str": "#d0a0e6f",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8b7c1db069797300425037c98b825c5d3316f752",
+      "time": 1642675865
+    }
+  }
+}

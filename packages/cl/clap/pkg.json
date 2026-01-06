@@ -1,0 +1,38 @@
+{
+  "name": "clap",
+  "url": "https://github.com/NimAudio/nim-clap",
+  "method": "git",
+  "description": "Clap audio plugin bindings",
+  "license": "MIT",
+  "web": "https://github.com/NimAudio/nim-clap",
+  "tags": [
+    "audio",
+    "plugin",
+    "audio-plugin",
+    "clap",
+    "clap-plugin",
+    "wrapper",
+    "sound"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c2abfe3056a6b3fabb7a8136f14a191a98697892",
+      "time": 1728495260
+    }
+  }
+}

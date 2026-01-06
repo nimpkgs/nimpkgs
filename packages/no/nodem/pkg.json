@@ -1,0 +1,38 @@
+{
+  "name": "nodem",
+  "url": "https://github.com/al6x/nim?subdir=nodem",
+  "method": "git",
+  "description": "Call remote Nim functions as if it's local",
+  "license": "MIT",
+  "web": "https://github.com/al6x/nim/tree/main/nodem",
+  "tags": [
+    "net",
+    "network",
+    "rpc",
+    "messaging",
+    "distributed",
+    "tcp",
+    "http"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "commit": {
+      "hash": "8e2ad38e05336ffd2947dc2e1ff0c1fb6e080efe",
+      "time": 1689061152
+    }
+  }
+}

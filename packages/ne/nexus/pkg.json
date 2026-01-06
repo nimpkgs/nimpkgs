@@ -1,0 +1,167 @@
+{
+  "name": "nexus",
+  "url": "https://github.com/jfilby/nexus",
+  "method": "git",
+  "description": "Nexus provides a high-level web framework for Nim, with batteries included.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/jfilby/nexus",
+  "tags": [
+    "web",
+    "framework",
+    "orm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "argon2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "karax",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "quickjwt",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "yaml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v2.0.1",
+        "hash": "964c06f6adf54ccb46e4a396575c7dc4d39479e6",
+        "time": 1733718545
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "ca09eec59c30418c79da2cc8c08793630045ce0c",
+        "time": 1703741314
+      },
+      {
+        "tag": "v0.1.4.8",
+        "hash": "c8a3d1dceff1cacaeb19a37c849d3c98ac9b24e5",
+        "time": 1697347156
+      },
+      {
+        "tag": "v0.1.4.7",
+        "hash": "5042e20cce8e414799790183daf0c33fb5dfff32",
+        "time": 1686140699
+      },
+      {
+        "tag": "v0.1.4.6",
+        "hash": "25c6291aae767fe670846f067b991b5d8a6d6a8b",
+        "time": 1683982241
+      },
+      {
+        "tag": "v0.1.4.5",
+        "hash": "ec91a4d57b8e744da767e768018b112a447dac2c",
+        "time": 1670482858
+      },
+      {
+        "tag": "v0.1.4.4",
+        "hash": "05283fbc720087881e189c104fa96dab90aee16d",
+        "time": 1667394693
+      },
+      {
+        "tag": "v0.1.4.3",
+        "hash": "72c8cc03c5623796c76670d233cdffddc12ddfad",
+        "time": 1659782261
+      },
+      {
+        "tag": "v0.1.4.2",
+        "hash": "7ae40316859833b257eeb93623cd82023cd82843",
+        "time": 1659700469
+      },
+      {
+        "tag": "v0.1.4.1",
+        "hash": "f486948ad016260adfb5aeca55a4608a0fd4af92",
+        "time": 1659630812
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "f1a82735f19f80d4aad0336bc28900f5ffd94656",
+        "time": 1659533011
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "d24ecb1a3d4e873a683a5ab1a76c1dfd98475892",
+        "time": 1659426256
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "8fa5cc26df256aa202ebee14e4a1d0ddfa68705a",
+        "time": 1658472490
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "c0b58dd9caa5296e077fc1a3968a1e89e56a2c95",
+        "time": 1657266408
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "a5a0aef6e60bcb965d4d6c28100f23381373c42d",
+        "time": 1654929285
+      }
+    ],
+    "commit": {
+      "hash": "e8ee93bc9b13e38516ab74d4a1a3daf770ff4f5f",
+      "time": 1749444435
+    }
+  }
+}

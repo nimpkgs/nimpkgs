@@ -1,0 +1,42 @@
+{
+  "name": "nimbug",
+  "url": "https://github.com/juancarlospaco/nimbug",
+  "method": "git",
+  "description": "Nim Semi-Auto Bug Report Tool",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nimbug",
+  "tags": [
+    "bug"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        }
+      ],
+      "bin": [
+        "nimbug"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "8c0306458f2634b7ecc0fd2f5d82bc852258dc8e",
+        "time": 1585877735
+      }
+    ],
+    "commit": {
+      "hash": "ff0ca24468619f5e0b24776265142e31751bc7ff",
+      "time": 1592513867
+    }
+  }
+}

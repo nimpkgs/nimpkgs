@@ -1,0 +1,41 @@
+{
+  "name": "blosc",
+  "url": "https://github.com/Vindaar/nblosc",
+  "method": "git",
+  "description": "Bit Shuffling Block Compressor (C-Blosc)",
+  "license": "BSD",
+  "web": "https://github.com/Vindaar/nblosc",
+  "tags": [
+    "blosc",
+    "wrapper",
+    "compression"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.15.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.15.0",
+        "hash": "7fb0c2bc2799421b49ca33207c033fbc0afb4daa",
+        "time": 1606327202
+      }
+    ],
+    "commit": {
+      "hash": "7fb0c2bc2799421b49ca33207c033fbc0afb4daa",
+      "time": 1606327202
+    }
+  }
+}

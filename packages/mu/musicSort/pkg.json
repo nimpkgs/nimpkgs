@@ -1,0 +1,14 @@
+{
+  "name": "musicSort",
+  "url": "https://github.com/CarkWilkinson/musicSort",
+  "method": "git",
+  "description": "A tool to sort your mp3 music files based on id3 metadata",
+  "license": "MIT",
+  "web": "https://github.com/CarkWilkinson/musicSort",
+  "tags": [
+    "music"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "nimlibxlsxwriter",
+  "url": "https://github.com/ThomasTJdev/nimlibxlsxwriter",
+  "method": "git",
+  "description": "libxslxwriter wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nimlibxlsxwriter",
+  "tags": [
+    "Excel",
+    "wrapper",
+    "xlsx"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "a36864cb2ec35b7f36381043edcdfdf4b18fbf0e",
+        "time": 1641492408
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "5513ece4385da6fdd639ce1d023f6d12199ba798",
+        "time": 1607832813
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "a7faf082c2e97e096f9b891df1aafb8d1c68a260",
+        "time": 1539552981
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "dd1c3943c7ae1e8302fba59a047230be3ae2bae7",
+        "time": 1537628667
+      }
+    ],
+    "commit": {
+      "hash": "44f357bf39a478b907ad3b2722725665b4afe249",
+      "time": 1675508085
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "nimbluez",
+  "url": "https://github.com/Electric-Blue/NimBluez.git",
+  "method": "git",
+  "description": "Nim modules for access to system Bluetooth resources.",
+  "license": "BSD",
+  "web": "https://github.com/Electric-Blue/NimBluez",
+  "tags": [
+    "bluetooth",
+    "library",
+    "wrapper",
+    "sockets"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "32d03ff5f4041c3fa775915b99ccf6a4919836af",
+        "time": 1584770192
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "6033930aba96efb7a199c4dcc2c0c1f30e3ff013",
+        "time": 1456237680
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "5eb5a298a4181e0e46f00d85a74cbed13ed41a2b",
+        "time": 1454616296
+      }
+    ],
+    "commit": {
+      "hash": "8368aaaf3450f0f57a7505f8a676d33b9e6f3399",
+      "time": 1680374453
+    }
+  }
+}

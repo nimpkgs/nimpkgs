@@ -1,0 +1,136 @@
+{
+  "name": "windy",
+  "url": "https://github.com/treeform/windy",
+  "method": "git",
+  "description": "Windowing library for Nim using OS native APIs.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/windy",
+  "tags": [
+    "win32",
+    "macOS",
+    "x11",
+    "wayland",
+    "openGL",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "opengl",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.1.0"
+          }
+        },
+        {
+          "name": "urlly",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "ws",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.4",
+        "hash": "716f4dc580eb474963c2476d1cb32691d814c139",
+        "time": 1760466983
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "b3c647a33764c18dfce8c79ec546870fc6979425",
+        "time": 1760465696
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "18a41d5ca8b4a2652d7844d2afc9eb13b5bf9bed",
+        "time": 1760401271
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "2e4940160959ab0f1b1360825482c14e56423f78",
+        "time": 1760379145
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "37b68e3e01a182e89928bffa7500a0813e001b80",
+        "time": 1760372307
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "a6184de2d3fd7895692aae75558fcc767d57c00c",
+        "time": 1759254984
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "8d8ebc05a433d0b9bfca4bc1df8bad20da31fd07",
+        "time": 1759188141
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "6d2a9b52bda99963da499c727275d999054dee9b",
+        "time": 1759169729
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "005070446ab9e760ffde5c83fb55261b177c35b6",
+        "time": 1758392167
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "8adc22eb13f13b8723e5261b984ab886309f52ef",
+        "time": 1758323718
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "94b0c0a688e4ab55f0e716446cb13a205f5ca38e",
+        "time": 1756331590
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "c6661950c90246e2e0e76a1a5dc6b256ba5c6af6",
+        "time": 1756225688
+      },
+      {
+        "tag": "0.0.0",
+        "hash": "7fcad043ff1b0ec9c8314a2b073b930bb013f686",
+        "time": 1685466385
+      }
+    ],
+    "commit": {
+      "hash": "7bced62dcc4fca9ebabd00bc593f89e3e6770bee",
+      "time": 1767414895
+    }
+  }
+}

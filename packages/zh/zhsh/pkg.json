@@ -1,0 +1,40 @@
+{
+  "name": "zhsh",
+  "url": "https://github.com/PMunch/zhangshasha",
+  "method": "git",
+  "description": "This module is a port of the Java implementation of the Zhang-Shasha algorithm for tree edit distance",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/zhangshasha",
+  "tags": [
+    "algorithm",
+    "edit-distance"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "06ff29e1d9a3f7992ccf2c2fbc10cf6824e9c7b0",
+        "time": 1585949171
+      }
+    ],
+    "commit": {
+      "hash": "06ff29e1d9a3f7992ccf2c2fbc10cf6824e9c7b0",
+      "time": 1585949171
+    }
+  }
+}

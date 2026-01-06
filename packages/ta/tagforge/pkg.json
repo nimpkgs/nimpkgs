@@ -1,0 +1,67 @@
+{
+  "name": "tagforge",
+  "url": "https://github.com/Nimberite-Development/TagForge-Nim",
+  "method": "git",
+  "description": "A library made for the serialisation and deserialisation of MC NBT!",
+  "license": "Apache-2.0",
+  "web": "https://github.com/Nimberite-Development/TagForge-Nim",
+  "doc": "https://nimberite-development.github.io/TagForge-Nim/",
+  "tags": [
+    "minecraft",
+    "format",
+    "parse",
+    "dump",
+    "data",
+    "nbt",
+    "mc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.11"
+          }
+        },
+        {
+          "name": "https://github.com/Yu-Vitaqua-fer-Chronos/MUTF-8",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "19c93cca3eb6dd664952f3cb33bba40dedcbc035",
+        "time": 1756262177
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "720b26d079e2899b9e748a1aa2b042f83d6be1a9",
+        "time": 1707255056
+      }
+    ],
+    "commit": {
+      "hash": "19c93cca3eb6dd664952f3cb33bba40dedcbc035",
+      "time": 1756262177
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "wttrin",
+  "url": "https://github.com/Infinitybeond1/wttrin",
+  "method": "git",
+  "description": "A library with functions to fetch weather data from wttr.in",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/Infinitybeond1/wttrin",
+  "tags": [
+    "weather",
+    "weather-api",
+    "cli",
+    "wttrin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8dcd42088d5844c68a916d117ebc8a2faac3ab33",
+      "time": 1663976642
+    }
+  }
+}

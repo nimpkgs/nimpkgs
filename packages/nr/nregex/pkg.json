@@ -1,0 +1,70 @@
+{
+  "name": "nregex",
+  "url": "https://github.com/nitely/nregex",
+  "method": "git",
+  "description": "A DFA based regex engine",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nregex",
+  "tags": [
+    "regex"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.7.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.2"
+          }
+        },
+        {
+          "name": "unicodeplus",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.0.4",
+        "hash": "153bf4faa8f6c5da515cb9c18de10a41230f7285",
+        "time": 1585957202
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "f3a17c5b91b4d446c3d19e9cd0ccee76aee4d787",
+        "time": 1584537853
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "02be553a5abe4e701a0cafbe8ac6e873825894ef",
+        "time": 1581311089
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "6eb095b378ae784faff14c2e46ab6c24f8bd20be",
+        "time": 1580539714
+      }
+    ],
+    "commit": {
+      "hash": "e9fd3ed88623ab25ce81e22e84bbe9c997325718",
+      "time": 1706304906
+    }
+  }
+}

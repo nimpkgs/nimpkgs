@@ -1,0 +1,33 @@
+{
+  "name": "timespec_get",
+  "url": "https://github.com/Matceporial/nim-timespec_get",
+  "method": "git",
+  "description": "Nanosecond-percision time using timespec_get",
+  "license": "0BSD",
+  "web": "https://github.com/Matceporial/nim-timespec_get",
+  "tags": [
+    "time",
+    "timespec_get"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "76021234c2f0678c093a83f777c4936072444e70",
+      "time": 1543670767
+    }
+  }
+}

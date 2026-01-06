@@ -1,0 +1,34 @@
+{
+  "name": "io-usb",
+  "url": "https://github.com/nimious/io-usb.git",
+  "method": "git",
+  "description": "Obsolete - please use libusb instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-usb",
+  "tags": [
+    "binding",
+    "usb",
+    "libusb"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "cc6b6aefb52e3671972df5d4bf23f55c09298896",
+      "time": 1567960508
+    }
+  }
+}

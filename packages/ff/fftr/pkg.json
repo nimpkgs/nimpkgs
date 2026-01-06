@@ -1,0 +1,41 @@
+{
+  "name": "fftr",
+  "url": "https://github.com/arnetheduck/nim-fftr",
+  "method": "git",
+  "description": "The fastest Fourier transform in the Rhein (so far)",
+  "license": "MIT",
+  "web": "https://github.com/arnetheduck/nim-fftr",
+  "tags": [
+    "fft",
+    "dft"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c75c3a377e167672f6d5d457cdc18d94aec7915a",
+      "time": 1696969828
+    }
+  }
+}

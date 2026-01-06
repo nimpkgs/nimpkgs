@@ -1,0 +1,75 @@
+{
+  "name": "macosutils",
+  "url": "https://github.com/elcritch/macosutils",
+  "method": "git",
+  "description": "MacOS/OSX system util wrappers for CFCore and the like",
+  "license": "Apache-2.0",
+  "web": "https://github.com/elcritch/macosutils",
+  "tags": [
+    "macos",
+    "osx",
+    "system",
+    "utilities",
+    "cfcore",
+    "corefoundation",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.2",
+        "hash": "bb2c2ca53b6650a4a82f63db09b527e6fd570ac8",
+        "time": 1736992582
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "b9db3c422a74176303977febf28e0cb2b6cf8d45",
+        "time": 1736991010
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "cf83536958b5ea8e8035de47b86032c0beb3763e",
+        "time": 1736988694
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "a27b3ca930e9457076cec8edf15fae2497d65f5a",
+        "time": 1736986291
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "85e78c1160a85ab05a57a2d7f0ec3d1216930020",
+        "time": 1736985467
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "00625bda92c708475496de2b89f8305beaf1a6eb",
+        "time": 1736980957
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "a2b34a6564298c71f6a1496bbc9ce995ee4f9422",
+        "time": 1736980539
+      }
+    ],
+    "commit": {
+      "hash": "bb2c2ca53b6650a4a82f63db09b527e6fd570ac8",
+      "time": 1736992582
+    }
+  }
+}

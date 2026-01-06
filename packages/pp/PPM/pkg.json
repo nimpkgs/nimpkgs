@@ -1,0 +1,24 @@
+{
+  "name": "PPM",
+  "url": "https://github.com/LemonHX/PPM-Nim",
+  "method": "git",
+  "description": "lib for ppm image",
+  "license": "LXXSDT-MIT",
+  "web": "https://github.com/LemonHX/PPM-Nim",
+  "tags": [
+    "graphics",
+    "image"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "5ee0ab014be4456816c56f478acda81e034ae620",
+      "time": 1569866862
+    }
+  }
+}

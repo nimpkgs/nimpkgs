@@ -1,0 +1,61 @@
+{
+  "name": "whip",
+  "url": "https://github.com/mattaylor/whip",
+  "method": "git",
+  "description": "Whip is high performance web application server based on httpbeast a nest for redix tree based routing with some extra opmtizations.",
+  "license": "MIT",
+  "web": "https://github.com/mattaylor/whip",
+  "tags": [
+    "http",
+    "rest",
+    "server",
+    "httpbeast",
+    "nest",
+    "fast"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "packedjson",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nest",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "httpbeast",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "a9fd1f04ba0167727dd0dbf9235791f708147992",
+      "time": 1591888943
+    }
+  }
+}

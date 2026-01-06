@@ -1,0 +1,41 @@
+{
+  "name": "extensions",
+  "url": "https://github.com/jyapayne/nim-extensions",
+  "method": "git",
+  "description": "A library that will add useful tools to Nim's arsenal.",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/nim-extensions",
+  "tags": [
+    "library",
+    "extensions",
+    "addons"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "eb185fa34f3369552a3071bd8ed5af8219581934",
+        "time": 1529575294
+      }
+    ],
+    "commit": {
+      "hash": "45a9fad9616a342f3a67f2fa7b581c899dcab7c7",
+      "time": 1600272799
+    }
+  }
+}

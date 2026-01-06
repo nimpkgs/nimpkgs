@@ -1,0 +1,78 @@
+{
+  "name": "rodster",
+  "url": "https://github.com/j-a-s-d/rodster",
+  "method": "git",
+  "description": "rodster",
+  "license": "MIT",
+  "web": "https://github.com/j-a-s-d/rodster",
+  "tags": [
+    "application",
+    "framework"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "xam",
+          "str": ">= 1.9.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.4.0",
+        "hash": "57656dda38b971d2d92142f7f7bf19bbf623421c",
+        "time": 1653340620
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "3a6c188c4113c390b16ae5e0828d45a366a512a0",
+        "time": 1642449312
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "e0eda621ca623f04c2d14980158ba0597e100599",
+        "time": 1641189975
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "eb0f02172cb83af755aafa3fddff0b93ca1423c3",
+        "time": 1626368879
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "aa8ee4700c4fd3c08f13add0c3be21dd2781f428",
+        "time": 1621949499
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "0c1d952e1c6213883624f1781a3407468a9a539a",
+        "time": 1621815651
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "52c2ddb0f7d687674ca75c292cf2408542dcaa7f",
+        "time": 1618941036
+      }
+    ],
+    "commit": {
+      "hash": "31b64a28a27b4e162441d67ea9998d8cc72223a3",
+      "time": 1676576274
+    }
+  }
+}

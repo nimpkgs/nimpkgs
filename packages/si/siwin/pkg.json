@@ -1,0 +1,174 @@
+{
+  "name": "siwin",
+  "url": "https://github.com/levovix0/siwin",
+  "method": "git",
+  "description": "Simple window maker.",
+  "license": "MIT",
+  "web": "https://github.com/levovix0/siwin",
+  "tags": [
+    "windows",
+    "linux"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 0.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.6"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 1.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.4"
+          }
+        },
+        {
+          "name": "x11",
+          "str": ">= 1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.9.3",
+        "hash": "c1e8c4f55d87f846533aa36af9897e26b5779427",
+        "time": 1743676971
+      },
+      {
+        "tag": "0.9.2",
+        "hash": "aa4408417a7b911a600c73be95fb1320ce8b567f",
+        "time": 1730825483
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "0106648b4c4cc320c9d1cea944d88dcbda2647a8",
+        "time": 1729609076
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "01d7c3f8819acdf41b3c6572e5593c8589790401",
+        "time": 1719169699
+      },
+      {
+        "tag": "0.8.4.6",
+        "hash": "2a222a9c4bc189b461f3e60d5fd5ba0b39025104",
+        "time": 1707855645
+      },
+      {
+        "tag": "0.8.4.1",
+        "hash": "553ff335bb5af670bcaad43d597e0ef1d426b861",
+        "time": 1691310753
+      },
+      {
+        "tag": "0.8.4",
+        "hash": "6e100aca3f7f04ff8967b819da98c2aef43d6b62",
+        "time": 1691236351
+      },
+      {
+        "tag": "0.8.3.1",
+        "hash": "e5d0116e5758e07abd51b1c8b0d3d120f8401dcb",
+        "time": 1691232859
+      },
+      {
+        "tag": "0.8.3",
+        "hash": "293ab2d446f29dc00fc3610170e5b469a72465a6",
+        "time": 1691232198
+      },
+      {
+        "tag": "0.8.2",
+        "hash": "3e19701b2645d00584310ac356bb9fb6aa3cba8f",
+        "time": 1691009575
+      },
+      {
+        "tag": "0.8.1",
+        "hash": "e43fed5e9a33507f63796bab2e690e77370dc65b",
+        "time": 1691005187
+      },
+      {
+        "tag": "0.7.3",
+        "hash": "6c45d44e2f9cc38a0dca5627a954bcbfb5fa4f2c",
+        "time": 1686940817
+      },
+      {
+        "tag": "0.7.2",
+        "hash": "1f3e117f30bd7b2c0ed15e720c75d9dedcde5dd1",
+        "time": 1684671476
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "8e8e2296d44354580adbfcf0d8d0fcf06b989f80",
+        "time": 1666027656
+      },
+      {
+        "tag": "0.6.5",
+        "hash": "d3fe843ed6ca898958e7d34e26354568514b528a",
+        "time": 1654857677
+      },
+      {
+        "tag": "0.6.4",
+        "hash": "09531c94734cd5000e581f1ab1802d977a1d89a1",
+        "time": 1653853855
+      },
+      {
+        "tag": "0.6.3",
+        "hash": "43a16e56532e57b7b0df242985464c64ba7d2523",
+        "time": 1653842465
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "1753372bdcd7c083e6f0fd3d5de6178084c8701b",
+        "time": 1653729713
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "b69692982e44cb9b274ee89429ba7106a3462570",
+        "time": 1653386332
+      },
+      {
+        "tag": "0.5.3",
+        "hash": "ee5c9abb935c0e4dc33614cf5c02de03aac160a7",
+        "time": 1652207500
+      },
+      {
+        "tag": "0.5.2",
+        "hash": "eb78d3eaffba2e3c4f647228bc695e2c2f95fe8e",
+        "time": 1651852984
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "a12bf43f29b97a132cfdd3709b0e69b1460408f1",
+        "time": 1651597456
+      },
+      {
+        "tag": "v0.3",
+        "hash": "beb425e97f13b86b4d60a1db5aa4f0f5148fd55d",
+        "time": 1608119243
+      }
+    ],
+    "commit": {
+      "hash": "b60ec964ac05a8d394ccd2aa85d190226220c54a",
+      "time": 1766950259
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "gccjit",
+  "url": "https://github.com/openpeeps/gccjit.nim",
+  "method": "git",
+  "description": "Nim bindings for libgccjit",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/gccjit.nim",
+  "tags": [
+    "wrapper",
+    "gcc",
+    "aot",
+    "jit",
+    "compilation",
+    "programming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "21d84aec832a5a6d0a46b0812060555f9bbcb489",
+      "time": 1757926599
+    }
+  }
+}

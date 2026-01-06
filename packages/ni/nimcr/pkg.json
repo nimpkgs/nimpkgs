@@ -1,0 +1,36 @@
+{
+  "name": "nimcr",
+  "url": "https://github.com/PMunch/nimcr",
+  "method": "git",
+  "description": "A small program to make Nim shebang-able without the overhead of compiling each time",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/nimcr",
+  "tags": [
+    "shebang",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimcr"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "bb825f18239dcee6720bb679e2518f7f1a8059c9",
+      "time": 1628497767
+    }
+  }
+}

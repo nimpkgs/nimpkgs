@@ -1,0 +1,55 @@
+{
+  "name": "openai",
+  "url": "https://github.com/ThomasTJdev/nim_openai",
+  "method": "git",
+  "description": "Basic API handling for openAI",
+  "license": "MIT",
+  "tags": [
+    "openai",
+    "davinci",
+    "gpt"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "00ed67e15e985af58f004e77b7b7672e39f5a96a",
+        "time": 1688794148
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "fa0ff2ee3d788f31ae17a2a748d3975531c5aeb9",
+        "time": 1672171151
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "0af4f3c2e3289fddaef615bfc848216fe9ec22e4",
+        "time": 1672150973
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "a71c3f44383bc33565cf798d4f329cd75e7725ea",
+        "time": 1671529547
+      }
+    ],
+    "commit": {
+      "hash": "00ed67e15e985af58f004e77b7b7672e39f5a96a",
+      "time": 1688794148
+    }
+  }
+}

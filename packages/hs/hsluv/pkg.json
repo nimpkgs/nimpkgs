@@ -1,0 +1,42 @@
+{
+  "name": "hsluv",
+  "url": "https://github.com/isthisnagee/hsluv-nim",
+  "method": "git",
+  "description": "A port of HSLuv, a human friendly alternative to HSL.",
+  "license": "MIT",
+  "web": "https://github.com/isthisnagee/hsluv-nim",
+  "tags": [
+    "color",
+    "hsl",
+    "hsluv",
+    "hpluv"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "38de52db799cd53935c4ae989fe538be281cb2d3",
+        "time": 1587183866
+      }
+    ],
+    "commit": {
+      "hash": "38de52db799cd53935c4ae989fe538be281cb2d3",
+      "time": 1587183866
+    }
+  }
+}

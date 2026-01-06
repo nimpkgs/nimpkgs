@@ -1,0 +1,47 @@
+{
+  "name": "pipe",
+  "url": "https://github.com/CosmicToast/pipe",
+  "method": "git",
+  "description": "Pipe operator for nim.",
+  "license": "Unlicense",
+  "web": "https://github.com/CosmicToast/pipe",
+  "tags": [
+    "pipe",
+    "macro",
+    "operator",
+    "functional"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "70e0f6f4bee78087dff253d2b4638c5501ed834e",
+        "time": 1627258823
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "85f41e677f2ac7636f2c8b044df2d06e6a74eab1",
+        "time": 1497691986
+      }
+    ],
+    "commit": {
+      "hash": "70e0f6f4bee78087dff253d2b4638c5501ed834e",
+      "time": 1627258823
+    }
+  }
+}

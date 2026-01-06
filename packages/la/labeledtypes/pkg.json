@@ -1,0 +1,49 @@
+{
+  "name": "labeledtypes",
+  "url": "https://github.com/hamidb80/labeledtypes",
+  "method": "git",
+  "description": "label your types - a convention for self-documented and more readable code",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/labeledtypes",
+  "tags": [
+    "label",
+    "labeling",
+    "type",
+    "types",
+    "annonation",
+    "macro"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "c4dc85944cbd31bd0d80addd13b796b99cce747e",
+        "time": 1692388231
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f4fab80368fd3a8732f074ccee563a4f66ee6203",
+        "time": 1692386668
+      }
+    ],
+    "commit": {
+      "hash": "c4dc85944cbd31bd0d80addd13b796b99cce747e",
+      "time": 1692388231
+    }
+  }
+}

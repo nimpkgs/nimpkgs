@@ -1,0 +1,56 @@
+{
+  "name": "jser",
+  "url": "https://github.com/niv/jser.nim",
+  "method": "git",
+  "description": "json de/serializer for tuples and more",
+  "license": "MIT",
+  "web": "https://github.com/niv/jser.nim",
+  "tags": [
+    "json",
+    "serialize",
+    "tuple"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "33c2fb579ecd927481466a203baaa4bad37d58e7",
+        "time": 1542907361
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "0703bcd2cad3ec69e4f0118c8736024e294a76f3",
+        "time": 1542903037
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "efbd4d8aa4e480dd4802830a8e4d2783665fdada",
+        "time": 1460315565
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a9391b08a2258cca7f4ce2014caacc970736ca7c",
+        "time": 1460308899
+      }
+    ],
+    "commit": {
+      "hash": "33c2fb579ecd927481466a203baaa4bad37d58e7",
+      "time": 1542907361
+    }
+  }
+}

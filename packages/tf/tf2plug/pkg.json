@@ -1,0 +1,46 @@
+{
+  "name": "tf2plug",
+  "url": "https://gitlab.com/waylon531/tf2plug",
+  "method": "git",
+  "description": "A mod manager for TF2",
+  "license": "GPLv3",
+  "web": "https://gitlab.com/waylon531/tf2plug",
+  "tags": [
+    "app",
+    "binary",
+    "tool",
+    "tf2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.5"
+          }
+        }
+      ],
+      "bin": [
+        "tf2plug"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "abacf19cc05bb72b90aff41adcd2a1a9d967ebbc",
+      "time": 1562618959
+    }
+  }
+}

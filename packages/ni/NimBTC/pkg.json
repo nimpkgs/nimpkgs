@@ -1,0 +1,49 @@
+{
+  "name": "NimBTC",
+  "url": "https://git.dog/Caroline/NimBTC",
+  "method": "git",
+  "description": "A BTC RPC Wrapper for Nim",
+  "license": "MIT",
+  "tags": [
+    "Crypto",
+    "BTC",
+    "Bitcoin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "15",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "puppy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src/"
+    },
+    "commit": {
+      "hash": "94e4eda49cae44d4c459acef67413932bce62124",
+      "time": 1755329248
+    }
+  }
+}

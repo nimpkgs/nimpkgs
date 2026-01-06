@@ -1,0 +1,100 @@
+{
+  "name": "notifishower",
+  "url": "https://github.com/PMunch/notifishower",
+  "method": "git",
+  "description": "Small program to draw notifications on the screen in a highly customisable way",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/notifishower",
+  "tags": [
+    "binary",
+    "notifications",
+    "graphics",
+    "gui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "imlib2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/PMunch/x11",
+          "str": "#monitors",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "npeg",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "kiwi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "termstyle",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "notifishower"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.7.0",
+        "hash": "ba86fc45521ddaf281ca4da97cb4a08034ec7ba9",
+        "time": 1606833724
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "e44d89f8c84c41bfa0c9f3a1847b7ae3be806650",
+        "time": 1606231078
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "5cd330bc82fc61f78fe7d057dc20dca6dc111755",
+        "time": 1605690687
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "ad636f41a83bb1a2e975d6cee6f0cef2700aa31d",
+        "time": 1604528742
+      }
+    ],
+    "commit": {
+      "hash": "3252766e15cf6587969d6b616198298796e7237c",
+      "time": 1676322608
+    }
+  }
+}

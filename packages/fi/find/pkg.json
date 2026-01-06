@@ -1,0 +1,46 @@
+{
+  "name": "find",
+  "url": "https://github.com/openpeeps/find",
+  "method": "git",
+  "description": "Finds files and directories based on different criteria via an intuitive fluent interface",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/find",
+  "tags": [
+    "files",
+    "finder",
+    "find",
+    "iterator",
+    "file",
+    "filesystem",
+    "fs"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "libssh2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7034854383abc1638724eec62a7517f9504bc3a1",
+      "time": 1696710239
+    }
+  }
+}

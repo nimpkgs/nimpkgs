@@ -1,0 +1,61 @@
+{
+  "name": "kroutes",
+  "url": "https://github.com/ryukoposting/kroutes",
+  "method": "git",
+  "description": "Karax router supporting both client-side and server-side rendering",
+  "license": "MIT",
+  "web": "https://github.com/ryukoposting/kroutes",
+  "tags": [
+    "karax",
+    "router",
+    "frontend",
+    "routing",
+    "webapp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "karax",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "af76e4e9b8bcbcf74d2b76e2aedf2386218cee5a",
+        "time": 1676833669
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "6a8812dddca65cfe46a15b911b96a8061b004502",
+        "time": 1676737174
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "d5668d9ea6e4ad852ed5f3fc53c4836cc772d5fc",
+        "time": 1676734879
+      }
+    ],
+    "commit": {
+      "hash": "af76e4e9b8bcbcf74d2b76e2aedf2386218cee5a",
+      "time": 1676833669
+    }
+  }
+}

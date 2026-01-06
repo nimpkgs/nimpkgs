@@ -1,0 +1,42 @@
+{
+  "name": "nimwebp",
+  "url": "https://github.com/tormund/nimwebp",
+  "method": "git",
+  "description": "Webp encoder and decoder bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/tormund/nimwebp",
+  "tags": [
+    "webp",
+    "encoder",
+    "decoder"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a54d78e7e6c73ca6f3b3ea6cae1dbca6d2ee50c5",
+      "time": 1754216447
+    }
+  }
+}

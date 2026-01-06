@@ -1,0 +1,47 @@
+{
+  "name": "m",
+  "url": "https://github.com/bk20x/M",
+  "method": "git",
+  "description": "Lightweight and easily extendable / embeddable Lisp dialect with no VM and deterministic performance.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/bk20x/M",
+  "tags": [
+    "scripting-language",
+    "lisp",
+    "embeddable",
+    "functional-programming",
+    "scripting"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "bigints",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        }
+      ],
+      "bin": [
+        "m"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "9c0eb439516f12be9cd7fa9db8f9107d40d7eff5",
+      "time": 1767747182
+    }
+  }
+}

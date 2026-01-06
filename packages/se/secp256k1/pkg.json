@@ -1,0 +1,58 @@
+{
+  "name": "secp256k1",
+  "url": "https://github.com/status-im/nim-secp256k1",
+  "method": "git",
+  "description": "A wrapper for the libsecp256k1 C library",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-secp256k1",
+  "tags": [
+    "library",
+    "cryptography",
+    "secp256k1"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b526c4b436809aa1cfe650026d796cf7b8328b91",
+      "time": 1765352654
+    }
+  }
+}

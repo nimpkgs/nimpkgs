@@ -1,0 +1,48 @@
+{
+  "name": "stylus",
+  "url": "https://github.com/ferus-web/stylus",
+  "method": "git",
+  "description": "A standards compliant CSS level 3 tokenizer and parser written in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/stylus",
+  "tags": [
+    "css",
+    "parsing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.3",
+        "hash": "4a9856a11fa8109e19a198b5c9a3fde799ed09f6",
+        "time": 1744106586
+      }
+    ],
+    "commit": {
+      "hash": "afbe89b2fc403632277b22745ea2963ded868dfb",
+      "time": 1744106973
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "optional_t",
+  "url": "https://github.com/flaviut/optional_t",
+  "method": "git",
+  "description": "Basic Option[T] library",
+  "license": "MIT",
+  "web": "https://github.com/flaviut/optional_t",
+  "tags": [
+    "option",
+    "functional"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.10.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.2.0",
+        "hash": "9f33a000cfadb4ffe0a404798147dea90fed66c4",
+        "time": 1423538419
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "87a3600532be7bb80549f0f9332587e5a9ce28ff",
+        "time": 1420986039
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "5884617bb4e6712ed4a44bb0c29926ee23cdcc92",
+        "time": 1420916436
+      }
+    ],
+    "commit": {
+      "hash": "9f33a000cfadb4ffe0a404798147dea90fed66c4",
+      "time": 1423538419
+    }
+  }
+}

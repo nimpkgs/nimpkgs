@@ -1,0 +1,69 @@
+{
+  "name": "url",
+  "url": "https://github.com/xTrayambak/url",
+  "method": "git",
+  "description": "A high-performance URL parser based on the WHATWG standard.",
+  "license": "BSD-3",
+  "web": "https://github.com/xTrayambak/url",
+  "tags": [
+    "whatwg",
+    "url",
+    "parser",
+    "simd",
+    "sse2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.1"
+          }
+        },
+        {
+          "name": "benchy",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.3",
+        "hash": "54833544df059b6c0a3655b1e46873339cd694f4",
+        "time": 1761142051
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "6bf11eab5251ec212b9e653e948b30052682b20f",
+        "time": 1760005698
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "b8ee35c1aab61b3134a0b2a6d6f280056d8dbbad",
+        "time": 1759757600
+      }
+    ],
+    "commit": {
+      "hash": "d0b874c0b38b5ca2708e6fa90b059ec9913a6c5f",
+      "time": 1767954309
+    }
+  }
+}

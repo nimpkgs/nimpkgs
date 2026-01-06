@@ -1,0 +1,148 @@
+{
+  "name": "necsus",
+  "url": "https://github.com/NecsusECS/Necsus",
+  "method": "git",
+  "description": "Entity Component System",
+  "license": "MIT",
+  "web": "https://github.com/NecsusECS/Necsus",
+  "tags": [
+    "ecs",
+    "entity",
+    "component",
+    "system",
+    "games"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.14.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.14.1",
+        "hash": "ae7750c4f145de5f6d475ec800a985387a0a14bf",
+        "time": 1760068248
+      },
+      {
+        "tag": "0.14.0",
+        "hash": "52dc51dc4ac45a441361220654996898b74db94f",
+        "time": 1758853633
+      },
+      {
+        "tag": "0.13.0",
+        "hash": "0e4e397928e456e91e75cba762fbf03db60d65fa",
+        "time": 1752014627
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "1752cf8676052b56a949fc15d97cbd5c4ab96918",
+        "time": 1736705880
+      },
+      {
+        "tag": "0.11.2",
+        "hash": "b4457f3cd69912fd1ee4601a8f987893093ea271",
+        "time": 1725149767
+      },
+      {
+        "tag": "0.11.1",
+        "hash": "2a007efe0fd1ba60d7b8e6013317fcdbf5ab536d",
+        "time": 1725121352
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "3ebb7acfab6f068507e531756454397d7fb22f6e",
+        "time": 1724896110
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "7e5bbd1514c6eba358506fb7bf8be5b9f4602c10",
+        "time": 1716998045
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "298f4022f88920fcf34f7c10589d9235d617af78",
+        "time": 1714008922
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "2e3a549078c685b0680a18db723f52bc49c65936",
+        "time": 1713931098
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "0055c234db4d7d07a010b9942d48a0bf7f1336a0",
+        "time": 1708060367
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "c7841c56fa197dab0f0af5d7b34556de36f0a8b0",
+        "time": 1707148051
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "bbaa9a5148c4f261acc53caddd6d2529ed51c7b0",
+        "time": 1701542571
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "3f7be676b5341e721e98816172f590b980cc1e92",
+        "time": 1695830782
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "befc080d81d70eda466bde31668d1b06244e5cac",
+        "time": 1695675009
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "881a5ff780370ea0d0f82f9f6733c2281ee144c4",
+        "time": 1679248299
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "1961ae3f0e3c5404a94e12dfacb318fc181ebbb1",
+        "time": 1675307008
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "d1723d0eb43c8faae5f8e2c68298774a0718830b",
+        "time": 1675229659
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "ba439115530424abde21b7537094d2cfbd18b79e",
+        "time": 1674345965
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "b0b7e587c4853669316fd4cb822d26cefadef913",
+        "time": 1673739580
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "11e305c13e8f3d7b066b1bea793113b07e3a49f3",
+        "time": 1673673378
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1b0116a8ca7bf568f670d2bf25d64eca75b6de74",
+        "time": 1649735275
+      }
+    ],
+    "commit": {
+      "hash": "0701a47e9b61625183b9fb0713f170313e59a363",
+      "time": 1762916086
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "name": "moustachu",
+  "url": "https://github.com/fenekku/moustachu.git",
+  "method": "git",
+  "description": "Mustache templating for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/fenekku/moustachu",
+  "tags": [
+    "web",
+    "html",
+    "template",
+    "mustache"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.14.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "commandeer",
+          "str": ">= 0.10.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.4"
+          }
+        }
+      ],
+      "bin": [
+        "moustachu"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.14.0",
+        "hash": "f5d3a1e6454f6c0436b54503bd5f560c178aea2a",
+        "time": 1581180342
+      },
+      {
+        "tag": "0.13.0",
+        "hash": "3c1d066d14dd46e711b152002d2bbe3bb3c29f79",
+        "time": 1538338634
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "29e8dd73b93d0690ae2804aced56a88b3d2fb5ac",
+        "time": 1532052053
+      },
+      {
+        "tag": "0.11.1",
+        "hash": "1b00685bc81f5a532d3460622749016185abb120",
+        "time": 1502590295
+      },
+      {
+        "tag": "0.10.3",
+        "hash": "b89dbc5978b440bbab1e2580495d15ac68217b69",
+        "time": 1465528083
+      },
+      {
+        "tag": "0.10.2",
+        "hash": "4b43ea82d8b9c535c12c7985b106535cbca10f15",
+        "time": 1465260574
+      },
+      {
+        "tag": "0.10.1",
+        "hash": "db9fc5b285db10f5b25727e2badb9f0b7a45a2e1",
+        "time": 1465060682
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "c692555cc9a6bb43417e99dbcc73f85e6fe5412e",
+        "time": 1463324337
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "92fff36368dc0d2d49112b0c60641c11d7beef81",
+        "time": 1454716615
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "ea36948b4761035d0e57338a8db806e4af190fd3",
+        "time": 1452975051
+      },
+      {
+        "tag": "0.8.1",
+        "hash": "f8198e67ada72368a721c1c85b41a01b2cfd5f08",
+        "time": 1450540751
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "31799c8fbcf8d2929ae90f9fd3658560370d3f64",
+        "time": 1450413603
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "df0267f64ae6fbc24f842b27392816bf1ad53cf5",
+        "time": 1448835764
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "9b1dd3d7243beeb8fdbb65618a6f3fea52e40d71",
+        "time": 1438893858
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "41dcb6524802b1ebc5c84f8ded105fb6dffae6bd",
+        "time": 1434386050
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "c5712f8f3d1bfecc304ad772a563d02a5c81bce8",
+        "time": 1434040292
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "6908be5d39304a19f88ea59b74445c95488a7048",
+        "time": 1420949458
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "716117ab2ac94cd335ef03987e65c9313376d460",
+        "time": 1416775690
+      }
+    ],
+    "commit": {
+      "hash": "f5d3a1e6454f6c0436b54503bd5f560c178aea2a",
+      "time": 1581180342
+    }
+  }
+}

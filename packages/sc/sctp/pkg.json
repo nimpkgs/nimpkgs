@@ -1,0 +1,42 @@
+{
+  "name": "sctp",
+  "url": "https://github.com/metacontainer/sctp.nim",
+  "method": "git",
+  "description": "Userspace SCTP bindings",
+  "license": "BSD",
+  "web": "https://github.com/metacontainer/sctp.nim",
+  "tags": [
+    "sctp",
+    "networking",
+    "userspace"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.3"
+          }
+        },
+        {
+          "name": "reactor",
+          "str": ">= 0.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "d207c3ec1485252a25886cde6075cadaeae5d5de",
+      "time": 1547926552
+    }
+  }
+}

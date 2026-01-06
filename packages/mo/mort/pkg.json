@@ -1,0 +1,36 @@
+{
+  "name": "mort",
+  "url": "https://github.com/jyapayne/mort",
+  "method": "git",
+  "description": "A dead code locator for Nim",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/mort",
+  "tags": [
+    "macro",
+    "library",
+    "deadcode",
+    "dead",
+    "code"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0d9d74563b5a9cec128a5e4b0b8f84bae206ab8a",
+      "time": 1581307510
+    }
+  }
+}

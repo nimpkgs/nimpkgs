@@ -1,0 +1,46 @@
+{
+  "name": "nimatic",
+  "url": "https://github.com/DangerOnTheRanger/nimatic",
+  "method": "git",
+  "description": "A static site generator written in Nim",
+  "license": "2-clause BSD",
+  "web": "https://github.com/DangerOnTheRanger/nimatic",
+  "tags": [
+    "static",
+    "generator",
+    "web",
+    "markdown"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        },
+        {
+          "name": "markdown",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimatic"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "430c5158a533961bf17ec28266060395d0c9522d",
+      "time": 1593092201
+    }
+  }
+}

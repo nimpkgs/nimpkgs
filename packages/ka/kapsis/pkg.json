@@ -1,0 +1,73 @@
+{
+  "name": "kapsis",
+  "url": "https://github.com/openpeeps/kapsis",
+  "method": "git",
+  "description": "Build delightful command line interfaces in seconds.",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/kapsis",
+  "tags": [
+    "cli",
+    "cli-toolkit",
+    "toolkit",
+    "command-line",
+    "cli-framework",
+    "interactive"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "illwill",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "pkginfo",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "msgpack4nim",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "b154bf5fcd7a94591a46a4bd3ad99e3c06652c9d",
+        "time": 1686246456
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "84a8a2c11024ffaf335f05222b71cd53b015a6da",
+        "time": 1685170237
+      }
+    ],
+    "commit": {
+      "hash": "4fdd320becf62a6d28f439b3b4b536243b2394b7",
+      "time": 1765426237
+    }
+  }
+}

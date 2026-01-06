@@ -1,0 +1,42 @@
+{
+  "name": "ngxcmod",
+  "url": "https://github.com/ba0f3/ngxcmod.nim",
+  "method": "git",
+  "description": "High level wrapper for build nginx module w/ nginx-c-function",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/ngxcmod.nim",
+  "tags": [
+    "nginx",
+    "module",
+    "nginx-c-function",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "df9823355b2450d160d5858fa2d06b24826b3ea0",
+        "time": 1571133020
+      }
+    ],
+    "commit": {
+      "hash": "94ca18156802798aa70f8f463f3c71271df4652f",
+      "time": 1633048896
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "argon2_highlevel",
+  "url": "https://github.com/termermc/argon2-highlevel",
+  "method": "git",
+  "description": "A high-level Nim Argon2 password hashing library",
+  "license": "MIT",
+  "web": "https://github.com/termermc/argon2-highlevel",
+  "tags": [
+    "argon2",
+    "crypto",
+    "hash",
+    "library",
+    "password",
+    "wrapper",
+    "async",
+    "highlevel"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        },
+        {
+          "name": "random",
+          "str": ">= 0.5.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.7"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "53a9a39a5ad1e01883dfa3ec678e4e0b1d87b8d9",
+        "time": 1647347897
+      }
+    ],
+    "commit": {
+      "hash": "b7494d07ec0f2190afcf2f7f5dbb8244096d98e6",
+      "time": 1647705725
+    }
+  }
+}

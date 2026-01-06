@@ -1,0 +1,67 @@
+{
+  "name": "spectra",
+  "url": "https://github.com/ph4mished/spectra",
+  "method": "git",
+  "description": "Spectra is a simple text coloring, styling and formatting library(terminal coloring).",
+  "license": "MIT",
+  "web": "https://github.com/ph4mished/spectra",
+  "tags": [
+    "cli",
+    "colorize",
+    "color",
+    "palettes",
+    "console",
+    "terminal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [
+        "spectra"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "fcde2b5ed758f582169a5e3e66c99c39394b2747",
+        "time": 1766494569
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "f6b5980cc41c147285ff0e9098cbe1398b02283d",
+        "time": 1763980684
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "e6505dcf106994c3f8d21c2cd73f06ab4c2f58d1",
+        "time": 1763917088
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "d5ac71c25d6557c08e2819862e0a893c34ce3969",
+        "time": 1763730289
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "bf483ddfb5f4d497ef56d23e64339e369e4c8732",
+        "time": 1760360419
+      }
+    ],
+    "commit": {
+      "hash": "aae06331a1f08c5cf1dda62124e0fdb2a7d3c1ad",
+      "time": 1766585358
+    }
+  }
+}

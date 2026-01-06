@@ -1,0 +1,32 @@
+{
+  "name": "mqtt",
+  "url": "https://github.com/barnybug/nim-mqtt",
+  "method": "git",
+  "description": "MQTT wrapper for nim",
+  "license": "MIT",
+  "web": "https://github.com/barnybug/nim-mqtt",
+  "tags": [
+    "MQTT"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8eac94d5b624542a29e7d6cdf236aea561bf2a8a",
+      "time": 1436281818
+    }
+  }
+}

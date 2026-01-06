@@ -1,0 +1,62 @@
+{
+  "name": "wAuto",
+  "url": "https://github.com/khchen/wAuto",
+  "method": "git",
+  "description": "Windows automation module",
+  "license": "MIT",
+  "web": "https://github.com/khchen/wAuto",
+  "doc": "https://khchen.github.io/wAuto",
+  "tags": [
+    "automation",
+    "windows",
+    "keyboard",
+    "mouse",
+    "registry",
+    "process"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "winim",
+          "str": ">= 3.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.3.3"
+          }
+        },
+        {
+          "name": "wNim",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        },
+        {
+          "name": "npeg",
+          "str": ">= 0.22.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.22.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "a753426d25636601e439df993fe652ec8a82681f",
+      "time": 1692198011
+    }
+  }
+}

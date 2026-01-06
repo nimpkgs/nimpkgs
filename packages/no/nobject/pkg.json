@@ -1,0 +1,28 @@
+{
+  "name": "nobject",
+  "url": "https://github.com/Carpall/nobject",
+  "method": "git",
+  "description": "A partially compile and runtime evaluated object, inspired from .net object",
+  "license": "GPL-3.0",
+  "web": "https://github.com/Carpall/nobject",
+  "tags": [
+    "nim",
+    "nimble",
+    "nim-lang",
+    "object",
+    "runtime",
+    "dynamic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "75883b7074f7ccad27d041b7c9def73660607a08",
+      "time": 1611676512
+    }
+  }
+}

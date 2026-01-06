@@ -1,0 +1,56 @@
+{
+  "name": "dekao",
+  "url": "https://github.com/ajusa/dekao",
+  "method": "git",
+  "description": "Write HTML templates easily",
+  "license": "MIT",
+  "web": "https://github.com/ajusa/dekao",
+  "tags": [
+    "html",
+    "template",
+    "htmx"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.4",
+        "hash": "a50aea365c9d23bcf8780e2712e26456d229d9c1",
+        "time": 1705860606
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "972a925920501e23cbb8f6c1fba6938413fa9842",
+        "time": 1705718490
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "58b2e0ac3bd214fa0a114c4d6031dde531ce1c48",
+        "time": 1705299840
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "ac52c3f804d43bd1297f301fcebc5b4b911eda3c",
+        "time": 1690176954
+      }
+    ],
+    "commit": {
+      "hash": "64f392fc6af423d949d3c99ee0343b8b7fdba59e",
+      "time": 1733381992
+    }
+  }
+}

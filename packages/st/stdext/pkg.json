@@ -1,0 +1,164 @@
+{
+  "name": "stdext",
+  "url": "https://github.com/zendbit/nim_stdext",
+  "method": "git",
+  "description": "Extends stdlib make it easy on some case",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_stdext",
+  "tags": [
+    "stdlib",
+    "tool",
+    "util"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.4",
+        "hash": "e04fad0f23460f32b8cf50c745ee18d3aea7a736",
+        "time": 1693877856
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "678fef6570df6e1ba14d39c7f99fb782db26f985",
+        "time": 1693394688
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "d2a4cc163636c25ad0abaef972c979b29cfc425f",
+        "time": 1693387493
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "215fe10ca5d5453bf3f097427d6ae7abc87bc864",
+        "time": 1693386190
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "bb9035d017575a0b7f29895560a695b0dc6b86a0",
+        "time": 1692384290
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "8b19e867662baef85ebccc178ae078aaad871635",
+        "time": 1691246672
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "245f59909b359a727ec6fe1de6248d42660a8b93",
+        "time": 1690957890
+      },
+      {
+        "tag": "v0.1.1-beta",
+        "hash": "e0c12f5b72f1cc04ff4993740149d58f71f47bce",
+        "time": 1690786490
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "f3832c3a2a44ac95e629875ece9bab27ec14405f",
+        "time": 1690785932
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "8fc5565fde9b7544f9893985d7973110fe3eab3c",
+        "time": 1678436966
+      },
+      {
+        "tag": "v0.0.16",
+        "hash": "68d0ae1dcb99f56ad48b76c183d6bd151211f340",
+        "time": 1672826153
+      },
+      {
+        "tag": "v0.0.15",
+        "hash": "879e82ce27a5bfa5e209c8856fe7033856e204ad",
+        "time": 1672783074
+      },
+      {
+        "tag": "v0.0.14",
+        "hash": "eed410519255baf2dad3502efc60561d468044a8",
+        "time": 1668101837
+      },
+      {
+        "tag": "v0.0.13",
+        "hash": "6afb785974a450d255af2accfdbe08e201547a82",
+        "time": 1656003993
+      },
+      {
+        "tag": "v0.0.12",
+        "hash": "27961202829f538ff4c85320f328291455d6840b",
+        "time": 1639537730
+      },
+      {
+        "tag": "v0.0.11",
+        "hash": "e79a678b3723dbb2ba08c98f1903067f5996b50b",
+        "time": 1636015540
+      },
+      {
+        "tag": "v0.0.10",
+        "hash": "37f08367c1aad3947aafc8002dbe025444ad9fe9",
+        "time": 1635909718
+      },
+      {
+        "tag": "v0.0.9",
+        "hash": "40207f5670190a545d8c4278bc1db4df61addc75",
+        "time": 1632373446
+      },
+      {
+        "tag": "v0.0.8",
+        "hash": "f60f9db07bf4a0e6fa7b485c8dc008d2b75530b1",
+        "time": 1622192292
+      },
+      {
+        "tag": "0.0.8",
+        "hash": "9e7df278d21ad726e0eacce572f7dd01ed624f1c",
+        "time": 1611380169
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "963cecb0893e2802ea4d8d0516a685988798e9fd",
+        "time": 1603778654
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "8c90c445e50bdff8581d79f675e22133a6d46376",
+        "time": 1603624536
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "89e0d5c2fa5f9ea3735bfba1c048235db033fbe7",
+        "time": 1603244617
+      },
+      {
+        "tag": "v0.0.4, 0.0.4",
+        "hash": "a0f7bb98b14ad10d824d1aa25899a3b51c58a286",
+        "time": 1602143025
+      }
+    ],
+    "commit": {
+      "hash": "e04fad0f23460f32b8cf50c745ee18d3aea7a736",
+      "time": 1693877856
+    }
+  }
+}

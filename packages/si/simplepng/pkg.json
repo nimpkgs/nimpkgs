@@ -1,0 +1,41 @@
+{
+  "name": "simplepng",
+  "url": "https://github.com/jrenner/nim-simplepng",
+  "method": "git",
+  "description": "high level simple way to write PNGs",
+  "license": "MIT",
+  "web": "https://github.com/jrenner/nim-simplepng",
+  "tags": [
+    "png",
+    "image"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3e4436dbab994abc90f1d950aea5205ed899922b",
+      "time": 1560036591
+    }
+  }
+}

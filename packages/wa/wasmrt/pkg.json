@@ -1,0 +1,36 @@
+{
+  "name": "wasmrt",
+  "url": "https://github.com/yglukhov/wasmrt",
+  "method": "git",
+  "description": "Nim wasm runtime",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/wasmrt",
+  "tags": [
+    "wasm",
+    "webassembly"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "zippy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "wasmrt/wasm2html"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "b855ab736ec3ed78ac75a678dbce9f022c90b34f",
+      "time": 1759306867
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "nimPGP",
+  "url": "https://gitlab.com/IAlbassort/nimPGP/",
+  "method": "git",
+  "description": "A high-level and easy to use PGP library. Using Rust & Sequoia-PGP on the backend!",
+  "license": "MIT",
+  "web": "https://gitlab.com/IAlbassort/nimPGP/",
+  "tags": [
+    "pgp",
+    "encryption",
+    "rust",
+    "security",
+    "privacy"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src/"
+    },
+    "versions": [
+      {
+        "tag": "1.0.4",
+        "hash": "6ca99690e3ac33e4c75226450e2a30291e7934f2",
+        "time": 1725570646
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "388e6239cc884847a094b6be779120ab060c2e9c",
+        "time": 1719656787
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "03748661dbb84ce981c78248428427cef543cbbc",
+        "time": 1719614362
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "bf617c82fe75818b27b97d8a964dff2c00bda6cb",
+        "time": 1719606095
+      }
+    ],
+    "commit": {
+      "hash": "ebd094ff80440267c3e340b1981fae4a52da1ebc",
+      "time": 1725585739
+    }
+  }
+}

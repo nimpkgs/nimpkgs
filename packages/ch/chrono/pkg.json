@@ -1,0 +1,67 @@
+{
+  "name": "chrono",
+  "url": "https://github.com/treeform/chrono",
+  "method": "git",
+  "description": "Calendars, Timestamps and Timezones utilities.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/chrono",
+  "tags": [
+    "library",
+    "timestamp",
+    "calendar",
+    "timezone"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.2",
+        "hash": "f46160d469602757e25178702f4fc0d2789b49b7",
+        "time": 1729118497
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "e431d023453cf4292e58b3a0cf36f876d31c428c",
+        "time": 1670716263
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "9b9e622a54378b3dfb972f347fecbf3141c72e42",
+        "time": 1637152622
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "897b34e4bfaecd5f42686ea3cb1859ed936e3b09",
+        "time": 1589573333
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e55797f48de5d5bf50fe435d1411c13d9dcc66e5",
+        "time": 1574399007
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "bccf8f02c329c7377522d1378382c7b85b6f96d6",
+        "time": 1565716743
+      }
+    ],
+    "commit": {
+      "hash": "f46160d469602757e25178702f4fc0d2789b49b7",
+      "time": 1729118497
+    }
+  }
+}

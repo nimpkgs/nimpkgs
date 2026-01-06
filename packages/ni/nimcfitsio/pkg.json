@@ -1,0 +1,36 @@
+{
+  "name": "nimcfitsio",
+  "url": "https://github.com/ziotom78/nimcfitsio.git",
+  "method": "git",
+  "description": "Bindings for CFITSIO, a library to read/write FITSIO images and tables.",
+  "license": "MIT",
+  "web": "https://github.com/ziotom78/nimcfitsio",
+  "tags": [
+    "library",
+    "binding",
+    "cfitsio",
+    "fits",
+    "io"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b4f2c41382185c9883d310c13d6e7afb8193d0b9",
+      "time": 1686825961
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "witai",
+  "url": "https://github.com/xmonader/witai-nim",
+  "method": "git",
+  "description": "wit.ai client",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/witai-nim",
+  "tags": [
+    "witai",
+    "wit.ai",
+    "client",
+    "speech",
+    "freetext",
+    "voice"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "bc22935002c72edabe4cfe3e01009fd4a1bc9453",
+      "time": 1583459738
+    }
+  }
+}

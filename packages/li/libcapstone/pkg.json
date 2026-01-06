@@ -1,0 +1,37 @@
+{
+  "name": "libcapstone",
+  "url": "https://github.com/m4ul3r/libcapstone-nim",
+  "method": "git",
+  "description": "Futhark generated wrapper around libcapstone",
+  "license": "MIT",
+  "web": "https://github.com/m4ul3r/libcapstone-nim",
+  "tags": [
+    "capstone",
+    "disassembly",
+    "disassembler",
+    "library",
+    "futhark",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "58f00734b49afc55b318b2d946a74acc9c5e010b",
+      "time": 1718193023
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "nimga",
+  "url": "https://github.com/toshikiohnogi/nimga",
+  "method": "git",
+  "description": "Genetic Algorithm Library for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/toshikiohnogi/nimga",
+  "tags": [
+    "GeneticAlgorithm",
+    "nimga"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b3721f321bb0c716ecfb7c8d9250452bb2756bb8",
+      "time": 1569201712
+    }
+  }
+}

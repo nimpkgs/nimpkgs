@@ -1,0 +1,35 @@
+{
+  "name": "maybe",
+  "url": "https://github.com/superfunc/maybe",
+  "method": "git",
+  "description": "basic monadic maybe type for Nim",
+  "license": "BSD3",
+  "web": "https://github.com/superfunc/maybe",
+  "tags": [
+    "library",
+    "functional",
+    "optional",
+    "monad"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.9.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f8b80750a6f08cdfcf16cc1e2d79815392244a6a",
+      "time": 1567960664
+    }
+  }
+}

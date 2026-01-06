@@ -1,0 +1,94 @@
+{
+  "name": "suggest",
+  "url": "https://github.com/c-blake/suggest.git",
+  "method": "git",
+  "description": "mmap-persistent SymSpell spell checking algorithm",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/suggest.git",
+  "tags": [
+    "library",
+    "spell-check",
+    "edit-distance"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.7.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.7.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.4.5",
+        "hash": "4e459aa423fb076cbad58a07145bc13b53d54adc",
+        "time": 1740087720
+      },
+      {
+        "tag": "1.4.4",
+        "hash": "41a44fb4695ee75f4a135149916c44b9694e2164",
+        "time": 1731766173
+      },
+      {
+        "tag": "1.4.3",
+        "hash": "879470a2201c7f51102470b4412edefd1d3e4999",
+        "time": 1725700453
+      },
+      {
+        "tag": "1.4.2",
+        "hash": "04e313f8f8d3adf4cb55a8ae0973f815f2b506c6",
+        "time": 1688979853
+      },
+      {
+        "tag": "1.4.1",
+        "hash": "008a08d63793cd8a3998853866e162392cdd9ec9",
+        "time": 1683886172
+      },
+      {
+        "tag": "1.4.0",
+        "hash": "94c0444176255bbe501f7e7d416692d61878a05c",
+        "time": 1677781846
+      },
+      {
+        "tag": "v.13",
+        "hash": "8984bd4528aef767e04cc6c23fd162913757d087",
+        "time": 1673803424
+      },
+      {
+        "tag": "v1.2",
+        "hash": "16099bb3e71fb9dcbc953ca6feb280a4f68cf88a",
+        "time": 1670529536
+      },
+      {
+        "tag": "v1.1",
+        "hash": "da10d37a1cd72768520f4880235b2ca514ceef6d",
+        "time": 1610630714
+      },
+      {
+        "tag": "v1.0",
+        "hash": "fcfcaf65efcd3d1ff4779dac224caaab3d943f42",
+        "time": 1601738943
+      }
+    ],
+    "commit": {
+      "hash": "4e459aa423fb076cbad58a07145bc13b53d54adc",
+      "time": 1740087720
+    }
+  }
+}

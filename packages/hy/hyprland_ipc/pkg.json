@@ -1,0 +1,42 @@
+{
+  "name": "hyprland_ipc",
+  "url": "https://github.com/xTrayambak/hyprland_ipc",
+  "method": "git",
+  "description": "An unofficial wrapper to Hyprland's IPC layer",
+  "license": "GPLv3",
+  "web": "https://github.com/xTrayambak/hyprland_ipc",
+  "tags": [
+    "ipc",
+    "hyprland",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "006140898a2aaf6705e57427fcc1480bc639c696",
+      "time": 1723351686
+    }
+  }
+}

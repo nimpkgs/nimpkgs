@@ -1,0 +1,62 @@
+{
+  "name": "ytextractor",
+  "url": "https://github.com/thisago/ytextractor",
+  "method": "git",
+  "description": "Youtube data extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/ytextractor",
+  "tags": [
+    "youtube",
+    "extractor",
+    "video"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ajax",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.1",
+        "hash": "a1c02dd95e4c338841ebd8a03fa3b2f81c4f83ad",
+        "time": 1698928839
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "cf08215aa952f31d02db185514b53d5f97ce34e2",
+        "time": 1680614966
+      }
+    ],
+    "commit": {
+      "hash": "a1c02dd95e4c338841ebd8a03fa3b2f81c4f83ad",
+      "time": 1698928839
+    }
+  }
+}

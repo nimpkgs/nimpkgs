@@ -1,0 +1,64 @@
+{
+  "name": "db_nimternalsql",
+  "url": "https://github.com/rehartmann/nimternalsql",
+  "method": "git",
+  "description": "An in-memory SQL database library",
+  "license": "MIT",
+  "web": "https://github.com/rehartmann/nimternalsql",
+  "tags": [
+    "n"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.3.2",
+        "hash": "8b67b92e77f25c25a1fa595a5f7ad17e1a63c082",
+        "time": 1650656733
+      },
+      {
+        "tag": "v1.3.1",
+        "hash": "b00cd4d45a0a44ab6fb974e19f2d387c11d78037",
+        "time": 1649266277
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "7a114ee73368b49621be80fa3983ab8909525b2b",
+        "time": 1648389574
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "96ee48fbb8189291e41d593d4cd7670c1eeff89e",
+        "time": 1647190090
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "39a96399f0d8ffbe9d8a618d73e5470d8d266607",
+        "time": 1638654758
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "f333dcadd8f038860720de9f5bc664b0c9287d5f",
+        "time": 1635363328
+      }
+    ],
+    "commit": {
+      "hash": "419c299a28192941ac086988dcc56851478c50c2",
+      "time": 1761759268
+    }
+  }
+}

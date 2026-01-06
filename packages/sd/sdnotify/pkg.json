@@ -1,0 +1,35 @@
+{
+  "name": "sdnotify",
+  "url": "https://github.com/FedericoCeratto/nim-sdnotify",
+  "method": "git",
+  "description": "Systemd service notification helper",
+  "license": "MIT",
+  "web": "https://github.com/FedericoCeratto/nim-sdnotify",
+  "tags": [
+    "os",
+    "linux",
+    "systemd",
+    "sdnotify"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e1e6861f88a4546db640f5fc88572ccdb933f794",
+      "time": 1485123370
+    }
+  }
+}

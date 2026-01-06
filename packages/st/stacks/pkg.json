@@ -1,0 +1,50 @@
+{
+  "name": "stacks",
+  "url": "https://github.com/rustomax/nim-stacks",
+  "method": "git",
+  "description": "Pure Nim stack implementation based on sequences.",
+  "license": "MIT",
+  "web": "https://github.com/rustomax/nim-stacks",
+  "tags": [
+    "stack",
+    "data-structure"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.2",
+        "hash": "8ac556010630754097ad2c4d44b4981fb6380875",
+        "time": 1609807487
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "4cacaaab15e11a018d77a852134e27c3cfec4952",
+        "time": 1593275367
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "26cb2c3e8647929a4a3de4c21c642a2df8f8762a",
+        "time": 1576856513
+      }
+    ],
+    "commit": {
+      "hash": "3562d2d98c3cb282a9f20e985c83d34a8ec5f2b9",
+      "time": 1733286519
+    }
+  }
+}

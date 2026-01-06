@@ -1,0 +1,57 @@
+{
+  "name": "rena",
+  "url": "https://github.com/jiro4989/rena",
+  "method": "git",
+  "description": "rena is a tiny fire/directory renaming command.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/rena",
+  "tags": [
+    "cli",
+    "command",
+    "rename"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 0.9.32",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.32"
+          }
+        }
+      ],
+      "bin": [
+        "rena"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "df3b2f10256de6cc9b883882385d30a8caab447b",
+        "time": 1585238029
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "ecc2bf445563fd83193764d4b975346c6bee5646",
+        "time": 1585234397
+      }
+    ],
+    "commit": {
+      "hash": "4b45cda084d2ee6ee897687197527162b1d6ae78",
+      "time": 1614992083
+    }
+  }
+}

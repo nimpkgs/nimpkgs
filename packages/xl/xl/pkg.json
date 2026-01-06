@@ -1,0 +1,42 @@
+{
+  "name": "xl",
+  "url": "https://github.com/khchen/xl",
+  "method": "git",
+  "description": "Open XML Spreadsheet (Excel) Library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/xl",
+  "tags": [
+    "excel",
+    "openxml",
+    "xlsx"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "3f4a3ee50eff48e03502a6d3a5dc335ff9ba00b6",
+      "time": 1720809191
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "ed2ksum",
+  "url": "https://github.com/infinoid/ed2ksum.nim",
+  "method": "git",
+  "description": "ED2Ksum hash calculation",
+  "license": "MIT",
+  "web": "https://github.com/infinoid/ed2ksum.nim",
+  "tags": [
+    "ed2ksum",
+    "hash"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "md4",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "malebolgia",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        }
+      ],
+      "bin": [
+        "ed2ksum"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "ff2cd6242933156ae796737f58e46c3269f63254",
+        "time": 1742347714
+      }
+    ],
+    "commit": {
+      "hash": "ff2cd6242933156ae796737f58e46c3269f63254",
+      "time": 1742347714
+    }
+  }
+}

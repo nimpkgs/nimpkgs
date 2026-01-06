@@ -1,0 +1,74 @@
+{
+  "name": "nsu",
+  "url": "https://github.com/Senketsu/nsu",
+  "method": "git",
+  "description": "Simple screenshot library & cli tool made in Nim",
+  "license": "MIT",
+  "web": "https://github.com/Senketsu/nsu",
+  "tags": [
+    "library",
+    "tool",
+    "utility",
+    "screenshot"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        },
+        {
+          "name": "x11",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "oldwinapi",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "png",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "nsu"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.5",
+        "hash": "95369e306ed1e70ba3f75dde6b145bd910a86b98",
+        "time": 1562544463
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "75ab8f2458a0295564899909305183039a932173",
+        "time": 1522679259
+      }
+    ],
+    "commit": {
+      "hash": "56adcbd3baa8d2b100d94ef44a43c9b7d4638061",
+      "time": 1574973944
+    }
+  }
+}

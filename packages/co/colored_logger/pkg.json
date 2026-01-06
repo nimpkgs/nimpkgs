@@ -1,0 +1,33 @@
+{
+  "name": "colored_logger",
+  "url": "https://github.com/4zv4l/colored_logger",
+  "method": "git",
+  "description": "A simple colored logger from std/logging",
+  "license": "MIT",
+  "web": "https://github.com/4zv4l/colored_logger",
+  "tags": [
+    "logging",
+    "colours"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d9ee0328d5cec8fd216d3ce8676cebf1976e9272",
+      "time": 1691047287
+    }
+  }
+}

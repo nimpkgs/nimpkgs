@@ -1,0 +1,34 @@
+{
+  "name": "bz2",
+  "url": "https://codeberg.org/Yepoleb/nim-bz2.git",
+  "method": "git",
+  "description": "Nim module for the bzip2 compression format.",
+  "license": "MIT",
+  "web": "https://codeberg.org/Yepoleb/nim-bz2",
+  "tags": [
+    "compression",
+    "bzip2",
+    "bz2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "ebe86e1428a15e0274ebefbb4a7afcaa12a0c38e",
+      "time": 1687133555
+    }
+  }
+}

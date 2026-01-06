@@ -1,0 +1,43 @@
+{
+  "name": "ni18n",
+  "url": "https://github.com/heinthanth/ni18n",
+  "method": "git",
+  "description": "Super Fast Nim Macros For Internationalization and Localization",
+  "license": "MIT",
+  "web": "https://github.com/heinthanth/ni18n",
+  "tags": [
+    "i18n",
+    "l10n",
+    "internationalization",
+    "localization",
+    "translation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "915650d9af24908e2507e3a377a46acc8d4c3105",
+        "time": 1677078982
+      }
+    ],
+    "commit": {
+      "hash": "40e6cd1b4d4f4ede0efaae5d416f8c94b02aadd6",
+      "time": 1677680206
+    }
+  }
+}

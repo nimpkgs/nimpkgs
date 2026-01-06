@@ -1,0 +1,84 @@
+{
+  "name": "threadproxy",
+  "url": "https://github.com/jackhftang/threadproxy.nim",
+  "method": "git",
+  "description": "Simplify Nim Inter-Thread Communication",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/threadproxy.nim",
+  "doc": "https://jackhftang.github.io/threadproxy.nim/",
+  "tags": [
+    "thread",
+    "ITC",
+    "communication",
+    "multithreading",
+    "threading"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "5989fc22baabb8fd2e5ff284d1850ebcfcdd2bab",
+        "time": 1590782151
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "c8ed3f764f2892734852ebcf6c95909b19c0e1d3",
+        "time": 1590692222
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "d0b68f9d43e7c8c84f9360717982f68fa87fb235",
+        "time": 1590691132
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "692c57677d4021832c1baf0c38cd4ee0d8a1c3ea",
+        "time": 1590589837
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "9679bf0cfac67e10d1bef676ce3df454a1247034",
+        "time": 1590424211
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "0a03e00c20e1192d2d21bf862b40d854031ffafd",
+        "time": 1590231088
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "c00555fefa7dd92244a22988cbefb615012abe08",
+        "time": 1590230087
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "161ad23905a84c49cd399419a25f4e6ab383aaac",
+        "time": 1589682716
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "df64372368c375773d967d70ba8306c4a2d89e7c",
+        "time": 1589639393
+      }
+    ],
+    "commit": {
+      "hash": "1889a876ba7d16bd5194692e75719bc6e751f7b5",
+      "time": 1615305222
+    }
+  }
+}

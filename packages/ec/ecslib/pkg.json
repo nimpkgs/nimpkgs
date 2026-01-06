@@ -1,0 +1,60 @@
+{
+  "name": "ecslib",
+  "url": "https://github.com/glassesneo/ecslib",
+  "method": "git",
+  "description": "A nimble package for Entity Component System",
+  "license": "MIT",
+  "web": "https://github.com/glassesneo/ecslib",
+  "tags": [
+    "game-development",
+    "entity-component-system"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.2",
+        "hash": "2424715511c9431345053aa832f8d65e89faf0bd",
+        "time": 1720877638
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "8fe9e477c7af24e2d83d8d4b2a0a2ea9045bc31c",
+        "time": 1720874022
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "cba7b4b930fae2b416141216ed02c22df5a312c3",
+        "time": 1720711582
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "8b711506979c0f8fc78c540d9829faa1bb4d583c",
+        "time": 1720542867
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "cec31e2a06eeddaf4385fa060463923d0bee0039",
+        "time": 1720409021
+      }
+    ],
+    "commit": {
+      "hash": "307c8311789a2e8f26e1d32a39ab61af12a1acb6",
+      "time": 1727002371
+    }
+  }
+}

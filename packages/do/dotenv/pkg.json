@@ -1,0 +1,77 @@
+{
+  "name": "dotenv",
+  "url": "https://github.com/euantorano/dotenv.nim",
+  "method": "git",
+  "description": "Loads environment variables from `.env`.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/dotenv.nim",
+  "tags": [
+    "env",
+    "dotenv",
+    "configuration",
+    "environment"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "2.0.2",
+        "hash": "a3c6726147276ea1447dee292fd27bb036242b78",
+        "time": 1716497473
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "4b8613cb4c46331729e88f594c5ae2b727381a57",
+        "time": 1644435683
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "fa3e62c24fd3d39fde2e82a2b32569f0efe09281",
+        "time": 1644359765
+      },
+      {
+        "tag": "v1.1.1",
+        "hash": "08b82a6bda7b893832e5305b4e8a7d37ff87b3a3",
+        "time": 1562749354
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "1e3e1f6bd9b301188b38a8a84115b512974e6b36",
+        "time": 1497617710
+      },
+      {
+        "tag": "v1.0.4",
+        "hash": "a82dbe75991057d3c71d5252a3803ae7310dc3b6",
+        "time": 1472835510
+      },
+      {
+        "tag": "v1.0.3",
+        "hash": "71d6c6c97e4b828582d6796d303159143a3e796f",
+        "time": 1462886605
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "e96c63f92f6634940ef2ff2d7076d2a39ea70ce3",
+        "time": 1462823913
+      }
+    ],
+    "commit": {
+      "hash": "a3c6726147276ea1447dee292fd27bb036242b78",
+      "time": 1716497473
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "kiwi",
+  "url": "https://github.com/yglukhov/kiwi",
+  "method": "git",
+  "description": "Cassowary constraint solving",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/kiwi",
+  "tags": [
+    "cassowary",
+    "constraint",
+    "solving"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "9e8fb1b77a0211c4da3ff2ef75b1c8ef5f126d79",
+      "time": 1756759475
+    }
+  }
+}

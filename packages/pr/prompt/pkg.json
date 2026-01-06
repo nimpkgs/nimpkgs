@@ -1,0 +1,42 @@
+{
+  "name": "prompt",
+  "url": "https://github.com/surf1nb1rd/nim-prompt",
+  "method": "git",
+  "description": "Feature-rich readline replacement",
+  "license": "BSD2",
+  "web": "https://github.com/surf1nb1rd/nim-prompt",
+  "tags": [
+    "command-line",
+    "readline",
+    "repl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b0ea27c34ca7aaee42333541f37b182fa239c844",
+      "time": 1540470020
+    }
+  }
+}

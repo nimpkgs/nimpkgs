@@ -1,0 +1,63 @@
+{
+  "name": "mycouch",
+  "url": "https://github.com/hamidb80/mycouch",
+  "method": "git",
+  "description": "a couchDB client written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/mycouch",
+  "tags": [
+    "couchdb",
+    "couchdb-driver",
+    "nim",
+    "db-driver"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "macroutils",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "macroplus",
+          "str": ">= 0.2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.2",
+        "hash": "8e1b740c623c21e4b180f2d139fa07e6d6a1eff6",
+        "time": 1691304239
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "019c9ca4a1a9e988a8f89506f1bf1cde0ce377d2",
+        "time": 1628284875
+      }
+    ],
+    "commit": {
+      "hash": "abf4365452e21cc3239ebed617a949aeca05d39c",
+      "time": 1691339694
+    }
+  }
+}

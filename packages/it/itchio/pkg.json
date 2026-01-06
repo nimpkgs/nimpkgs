@@ -1,0 +1,36 @@
+{
+  "name": "itchio",
+  "url": "https://github.com/juancarlospaco/nim-itchio",
+  "method": "git",
+  "description": "itch.io API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-itchio",
+  "tags": [
+    "itchio",
+    "game",
+    "gaming",
+    "async",
+    "multisync"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c6cfeccb23cce7a12133159cd25f7062ccf95d7b",
+      "time": 1559845038
+    }
+  }
+}

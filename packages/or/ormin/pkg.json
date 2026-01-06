@@ -1,0 +1,42 @@
+{
+  "name": "ormin",
+  "url": "https://github.com/Araq/ormin",
+  "method": "git",
+  "description": "Prepared SQL statement generator. A lightweight ORM.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/ormin",
+  "tags": [
+    "ORM",
+    "SQL",
+    "db",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "869db83d2a73dafbf4fe4f148b94673e6c38244b",
+        "time": 1510004262
+      }
+    ],
+    "commit": {
+      "hash": "2f584239731dc84ddb7bbbbd5c91fbbced5ec30e",
+      "time": 1762284389
+    }
+  }
+}

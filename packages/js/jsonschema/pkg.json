@@ -1,0 +1,43 @@
+{
+  "name": "jsonschema",
+  "url": "https://github.com/PMunch/jsonschema",
+  "method": "git",
+  "description": "JSON schema validation and creation.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/jsonschema",
+  "tags": [
+    "json",
+    "schema",
+    "library",
+    "validation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "ast_pattern_matching",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7b41c03e3e1a487d5a8f6b940ca8e764dc2cbabf",
+      "time": 1568274992
+    }
+  }
+}

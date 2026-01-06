@@ -1,0 +1,43 @@
+{
+  "name": "nim_tiled",
+  "url": "https://github.com/SkyVault/nim-tiled",
+  "method": "git",
+  "description": "Tiled map loader for the Nim programming language",
+  "license": "MIT",
+  "web": "https://github.com/SkyVault/nim-tiled",
+  "tags": [
+    "tiled",
+    "gamedev",
+    "tmx",
+    "indie"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "758c58fd6b54fed479a4261100d364d70257a1dd",
+      "time": 1696345347
+    }
+  }
+}

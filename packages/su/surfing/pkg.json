@@ -1,0 +1,53 @@
+{
+  "name": "surfing",
+  "url": "https://github.com/momeemt/surfing",
+  "method": "git",
+  "description": "Surfing is a highly functional CLI for Base64.",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/surfing",
+  "tags": [
+    "base64",
+    "cli",
+    "string",
+    "surfing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.5"
+          }
+        }
+      ],
+      "bin": [
+        "surfing"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "ver.0.1.0",
+        "hash": "64ee55887b4424b5304791ef5377daf97acde023",
+        "time": 1631990430
+      }
+    ],
+    "commit": {
+      "hash": "7506e9cd5297747565d8214bee9cbd81afa51af7",
+      "time": 1631992227
+    }
+  }
+}

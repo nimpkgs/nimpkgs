@@ -1,0 +1,89 @@
+{
+  "name": "spryvm",
+  "url": "https://github.com/gokr/spryvm",
+  "method": "git",
+  "description": "Homoiconic dynamic language interpreter in Nim",
+  "license": "MIT",
+  "web": "https://github.com/gokr/spryvm",
+  "tags": [
+    "interpreter",
+    "language",
+    "spry"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "python",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ui",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "supersnappy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "smtp",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/capocasa/limdb",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.9.5",
+        "hash": "ce997282be555bc454d993ff5198d6f80c7e295c",
+        "time": 1762903817
+      }
+    ],
+    "commit": {
+      "hash": "3df5d147360f3007f69b9ccf86daf99dd77e8b93",
+      "time": 1762903890
+    }
+  }
+}

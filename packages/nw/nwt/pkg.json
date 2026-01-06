@@ -1,0 +1,43 @@
+{
+  "name": "nwt",
+  "url": "https://github.com/enthus1ast/nimWebTemplates",
+  "method": "git",
+  "description": "experiment to build a jinja like template parser",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/nimWebTemplates",
+  "tags": [
+    "template",
+    "html",
+    "pure",
+    "jinja"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        },
+        {
+          "name": "https://github.com/enthus1ast/nimCommandParser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "83ca5ddb04fbb3a0a957e668475e79b3b0cc42d4",
+      "time": 1628517464
+    }
+  }
+}

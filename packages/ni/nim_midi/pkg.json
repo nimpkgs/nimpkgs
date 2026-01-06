@@ -1,0 +1,33 @@
+{
+  "name": "nim_midi",
+  "url": "https://github.com/jerous86/nim_midi",
+  "method": "git",
+  "description": "Read and write midi files",
+  "license": "MIT",
+  "web": "https://github.com/jerous86/nim_midi",
+  "tags": [
+    "midi",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4ed94f045f115207116169094de0acf5902f80c8",
+      "time": 1631606593
+    }
+  }
+}

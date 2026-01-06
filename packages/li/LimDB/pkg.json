@@ -1,0 +1,61 @@
+{
+  "name": "LimDB",
+  "url": "https://github.com/capocasa/limdb",
+  "method": "git",
+  "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/limdb",
+  "doc": "https://capocasa.github.io/limdb/limdb.html",
+  "tags": [
+    "lmdb",
+    "key-value",
+    "persistent",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "lmdb",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "8afb535f2048b4922a41689370f11af93eff8f3d",
+        "time": 1683882068
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "83f566ea4b1ff380a41c5776eae96966821a920a",
+        "time": 1680359729
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "30ed3afa21134d450c1737661250b208d387447c",
+        "time": 1654471995
+      }
+    ],
+    "commit": {
+      "hash": "3d0fc672ca6f40b46243937f7dc5b59e88729b00",
+      "time": 1748883476
+    }
+  }
+}

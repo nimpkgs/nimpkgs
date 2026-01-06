@@ -1,0 +1,35 @@
+{
+  "name": "nim_cexc",
+  "url": "https://github.com/metasyn/nim-cexc-splunk",
+  "method": "git",
+  "description": "A simple chunked external protocol interface for Splunk custom search commands.",
+  "license": "Apache2",
+  "web": "https://github.com/metasyn/nim-cexc-splunk",
+  "tags": [
+    "splunk",
+    "command",
+    "cexc",
+    "chunked"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "550cc9416f653575fdf563b074e95964381cd15d",
+      "time": 1531335390
+    }
+  }
+}

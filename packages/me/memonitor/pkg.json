@@ -1,0 +1,44 @@
+{
+  "name": "memonitor",
+  "url": "https://github.com/quadram-institute-bioscience/memonitor",
+  "method": "git",
+  "description": "Cross-platform memory profiler",
+  "license": "MIT",
+  "web": "https://github.com/quadram-institute-bioscience/memonitor",
+  "tags": [
+    "ram",
+    "memory",
+    "monitor",
+    "profiling",
+    "stats",
+    "system"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "7e0dc90fbe6af9f30ec2ff2205adc7d166402aa9",
+        "time": 1749563216
+      }
+    ],
+    "commit": {
+      "hash": "da4877f68a577ccd968e87c98e78881d6732adab",
+      "time": 1749563667
+    }
+  }
+}

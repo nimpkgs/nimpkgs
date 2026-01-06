@@ -1,0 +1,74 @@
+{
+  "name": "bytesized",
+  "url": "https://gitlab.com/Maxb0tbeep/bytesized",
+  "method": "git",
+  "description": "a library for manipulating data storage units",
+  "license": "GPL-3.0-only",
+  "web": "https://gitlab.com/Maxb0tbeep/bytesized",
+  "tags": [
+    "bytes",
+    "human",
+    "convert",
+    "converter",
+    "storage",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.3.1",
+        "hash": "adf6c8c9669d37531a549589ab438758f0445e14",
+        "time": 1745342884
+      },
+      {
+        "tag": "1.3.0",
+        "hash": "05620e8f3e7990579be44a0062bff13079e3b085",
+        "time": 1745260145
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "5dd3b20f2a6230a78505e6b6b16fee325b913e64",
+        "time": 1744959371
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "60e763788a80e5ac8bf1ab8b3960162d05294bd4",
+        "time": 1744958878
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "4819a466a48f65db9a5fce0be8ce1425079ba708",
+        "time": 1744958650
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "f9f7a9fb19a392a8d4e980e30db9dbbea9a310ea",
+        "time": 1744958370
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "65a5fe7738f721b3764742f12bd2abcf3adaffe4",
+        "time": 1744945790
+      }
+    ],
+    "commit": {
+      "hash": "ce7734568508024dc0837da99e1ec5a4dfddd831",
+      "time": 1745343855
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "nimdtp",
+  "url": "https://github.com/WKHAllen/nimdtp",
+  "method": "git",
+  "description": "Modern networking interfaces for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/WKHAllen/nimdtp",
+  "tags": [
+    "socket",
+    "networking",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "19cd209086fba47295186aa00d3c3390a6d0513e",
+        "time": 1741237976
+      }
+    ],
+    "commit": {
+      "hash": "0cf7f65416ed9662c66718eed3bc2719fb654073",
+      "time": 1741238386
+    }
+  }
+}

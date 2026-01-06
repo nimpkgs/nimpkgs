@@ -1,0 +1,36 @@
+{
+  "name": "sonic",
+  "url": "https://github.com/xmonader/nim-sonic-client",
+  "method": "git",
+  "description": "client for sonic search backend",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nim-sonic-client",
+  "tags": [
+    "sonic",
+    "search",
+    "backend",
+    "index",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "452920ba19e497c1779aab8955de3851e2ba895c",
+      "time": 1559727799
+    }
+  }
+}

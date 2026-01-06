@@ -1,0 +1,41 @@
+{
+  "name": "reactorfuse",
+  "url": "https://github.com/zielmicha/reactorfuse",
+  "method": "git",
+  "description": "Filesystem in userspace (FUSE) for Nim (for reactor.nim library)",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/reactorfuse",
+  "tags": [
+    "filesystem",
+    "fuse"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.0"
+          }
+        },
+        {
+          "name": "reactor",
+          "str": ">= 0.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "5da2c220339a1aedbf56b48c3f26c0c1adcb943e",
+      "time": 1487541176
+    }
+  }
+}

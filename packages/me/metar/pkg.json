@@ -1,0 +1,57 @@
+{
+  "name": "metar",
+  "url": "https://github.com/flenniken/metar",
+  "method": "git",
+  "description": "Read metadata from jpeg and tiff images.",
+  "license": "MIT",
+  "web": "https://github.com/flenniken/metar",
+  "tags": [
+    "metadata",
+    "image",
+    "python",
+    "cli",
+    "terminal",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.26",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [
+        "metar/metar"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.26",
+        "hash": "ad69ae69c4e9f377713cc2a483d63328f1c7f184",
+        "time": 1760909727
+      },
+      {
+        "tag": "v0.1.25",
+        "hash": "62b27f29d2e83a2f3927d0f9dbbf685553f323c7",
+        "time": 1614385043
+      },
+      {
+        "tag": "v0.1.23",
+        "hash": "e23839891103e4aa8f569a516a048ac3a4ad39d4",
+        "time": 1580072641
+      }
+    ],
+    "commit": {
+      "hash": "549ff5ef7461ccd8dfbeeb0841578745cd71532c",
+      "time": 1766346542
+    }
+  }
+}

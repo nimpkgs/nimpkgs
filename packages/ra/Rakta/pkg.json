@@ -1,0 +1,45 @@
+{
+  "name": "Rakta",
+  "url": "https://github.com/DitzDev/Rakta",
+  "method": "git",
+  "description": "Powerfull, Fast, and Minimalist web Framework for Nim. Focus on your Backend.",
+  "license": "MIT",
+  "web": "https://github.com/DitzDev/Rakta",
+  "tags": [
+    "web",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "ef28f0f43205ad323213f83bd04c4a7b5ab5a9a7",
+        "time": 1752952253
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "41c14068decbf22c669d8ac198ff7b46d9b8881a",
+        "time": 1752851504
+      }
+    ],
+    "commit": {
+      "hash": "f4d2b68a561912d9891caff4f96751654031953b",
+      "time": 1753013303
+    }
+  }
+}

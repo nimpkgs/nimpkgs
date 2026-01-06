@@ -1,0 +1,49 @@
+{
+  "name": "karkas",
+  "url": "https://github.com/moigagoo/karkas",
+  "method": "git",
+  "description": "Layout helpers and sugar for Karax",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/karkas",
+  "tags": [
+    "Karax",
+    "frontend",
+    "layout"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "karax",
+          "str": ">= 1.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "cbcd630295d1cfaf9eaa2ae98cc74ebf03d5aa94",
+        "time": 1690982401
+      }
+    ],
+    "commit": {
+      "hash": "bea9421376d81bcc7afe41f12129faf0cf7af7c7",
+      "time": 1767962282
+    }
+  }
+}

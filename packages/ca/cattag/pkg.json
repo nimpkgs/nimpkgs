@@ -1,0 +1,75 @@
+{
+  "name": "cattag",
+  "url": "https://github.com/nirokay/CatTag",
+  "method": "git",
+  "description": "A static HTML/XML and CSS generator from Nim code.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nirokay/CatTag",
+  "doc": "https://nirokay.github.io/nim-docs/cattag/cattag.html",
+  "tags": [
+    "html",
+    "css",
+    "website",
+    "web-development",
+    "generator",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.7",
+        "hash": "b7ed626a1539bf872e9e005cfdaf766e612dc9af",
+        "time": 1756970199
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "6e0db09219c77ebf3595fb17ed2903ddb752de3e",
+        "time": 1756969607
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "7318c55b83d37fa65b00d4805ff3066222dae2bf",
+        "time": 1756452332
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "fd5f4df98cb29202af026a47717432452467efbf",
+        "time": 1756363825
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "18e8e079d3f49f59fba739c191c920fa33d4684c",
+        "time": 1755769968
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "a80f0ce280c1f5dd199b149ca056d70a537ddd1a",
+        "time": 1754984758
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "075d32ab283875e8616e8e1bc1ec86ad45e6c518",
+        "time": 1754582521
+      }
+    ],
+    "commit": {
+      "hash": "b7ed626a1539bf872e9e005cfdaf766e612dc9af",
+      "time": 1756970199
+    }
+  }
+}

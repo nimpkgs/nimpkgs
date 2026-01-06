@@ -1,0 +1,72 @@
+{
+  "name": "pkginfo",
+  "url": "https://github.com/openpeeps/pkginfo",
+  "method": "git",
+  "description": "A tiny utility package to extract Nimble information from any project",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/pkginfo",
+  "tags": [
+    "macros",
+    "pkginfo",
+    "nimble",
+    "meta",
+    "semver",
+    "dependencies"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "semver",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "55da5adaec35aa13ee7e0e3afa6a9b34236a18df",
+        "time": 1683682051
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "bc194357b6bc098282ab7c64ed0fdf7353fedb1d",
+        "time": 1674946734
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "462f11a5ec15444407b407bc4a4d041691de25eb",
+        "time": 1674682040
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "768357527f8e863c9c7dc5505744d238ab34ce92",
+        "time": 1670636814
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "43657791603ae46dfed5337e432ff2cf5dc84794",
+        "time": 1655335294
+      }
+    ],
+    "commit": {
+      "hash": "55da5adaec35aa13ee7e0e3afa6a9b34236a18df",
+      "time": 1683682051
+    }
+  }
+}

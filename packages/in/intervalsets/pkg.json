@@ -1,0 +1,33 @@
+{
+  "name": "intervalsets",
+  "url": "https://github.com/autumngray/intervalsets",
+  "method": "git",
+  "description": "Set implementation of disjoint intervals",
+  "license": "MIT",
+  "web": "https://github.com/autumngray/intervalsets",
+  "tags": [
+    "interval",
+    "set"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "06f5fa29bd07c8748c403b810091309305c294c4",
+      "time": 1615415366
+    }
+  }
+}

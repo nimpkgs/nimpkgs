@@ -1,0 +1,34 @@
+{
+  "name": "ghostscript",
+  "url": "https://github.com/fox0430/nim-ghostscript",
+  "method": "git",
+  "description": "Nim bindings for Ghostscript",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/nim-ghostscript",
+  "tags": [
+    "binding",
+    "pdf",
+    "script"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "98b1cdb6db3cf83f32d8fe64d0e987a454570735",
+      "time": 1764784134
+    }
+  }
+}

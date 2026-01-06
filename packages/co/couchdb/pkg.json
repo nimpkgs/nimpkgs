@@ -1,0 +1,38 @@
+{
+  "name": "couchdb",
+  "url": "https://github.com/theAkito/nim-couchdb",
+  "method": "git",
+  "description": "A library for managing your CouchDB. Easy & comfortably to use.",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "akito",
+    "database",
+    "db",
+    "couch",
+    "couchdb",
+    "api",
+    "node",
+    "cluster"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f89ca16c6c8f3661c082659efc2f5402f20c5c40",
+      "time": 1640040819
+    }
+  }
+}

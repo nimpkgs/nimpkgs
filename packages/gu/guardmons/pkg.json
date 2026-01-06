@@ -1,0 +1,38 @@
+{
+  "name": "guardmons",
+  "url": "https://github.com/treeform/guardmons",
+  "method": "git",
+  "description": "Cross-platform collection of OS Utilities",
+  "license": "MIT",
+  "web": "https://github.com/treeform/guardmons",
+  "tags": [
+    "daemon",
+    "ssh",
+    "copy",
+    "shell",
+    "kill",
+    "top",
+    "watch"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1a50392e5c353488112dd0451fea49a2cc5f0e34",
+      "time": 1685994380
+    }
+  }
+}

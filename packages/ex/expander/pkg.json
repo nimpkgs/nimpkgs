@@ -1,0 +1,45 @@
+{
+  "name": "expander",
+  "url": "https://github.com/soraiemame/expander",
+  "method": "git",
+  "description": "Code expander for competitive programing in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/soraiemame/expander",
+  "tags": [
+    "competitive-programing",
+    "expand",
+    "online-judge"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.3"
+          }
+        }
+      ],
+      "bin": [
+        "expander"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "5c63c18aadd900f0717b2f0c1f9d5fbfc8bcbbff",
+      "time": 1622108968
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "ftd2xx",
+  "url": "https://github.com/leeooox/ftd2xx",
+  "method": "git",
+  "description": "Nim wrapper for FTDI ftd2xx library",
+  "license": "MIT",
+  "web": "https://github.com/leeooox/ftd2xx",
+  "tags": [
+    "ftdi",
+    "usb",
+    "wrapper",
+    "hardware"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.2, 0.0.1",
+        "hash": "532d5f142b56bd213c9847130bf84ab3b21c2512",
+        "time": 1647615003
+      }
+    ],
+    "commit": {
+      "hash": "6756bfe5868a64aab83e266e64990619c0231104",
+      "time": 1647615666
+    }
+  }
+}

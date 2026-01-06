@@ -1,0 +1,33 @@
+{
+  "name": "bitables",
+  "url": "https://github.com/Retkid/bitables",
+  "method": "git",
+  "description": "bidirectional {maps, tables, dictionaries} in nim",
+  "license": "MIT",
+  "web": "https://github.com/Retkid/bitables",
+  "tags": [
+    "tables",
+    "maps"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "64a706a1edf56ecaeb090a5f3767091ae181b007",
+      "time": 1673780861
+    }
+  }
+}

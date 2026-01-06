@@ -1,0 +1,23 @@
+{
+  "name": "finals",
+  "url": "https://github.com/quelklef/nim-finals",
+  "method": "git",
+  "description": "Transparently declare single-set attributes on types.",
+  "license": "MIT",
+  "web": "https://github.com/Quelklef/nim-finals",
+  "tags": [
+    "types"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.5",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "769fdd4035b781039d19ea930e23e16cc80c7ced",
+      "time": 1557539799
+    }
+  }
+}

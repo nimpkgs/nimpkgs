@@ -1,0 +1,52 @@
+{
+  "name": "autotyper",
+  "url": "https://github.com/kijowski/autotyper",
+  "method": "git",
+  "description": "Keyboard typing emulator",
+  "license": "MIT",
+  "web": "https://github.com/kijowski/autotyper",
+  "tags": [
+    "terminal",
+    "cli",
+    "typing-emulator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "autotyper"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "91cd8b493b914890f2f8ab992938805f8ef5fba0",
+        "time": 1572407598
+      }
+    ],
+    "commit": {
+      "hash": "9513d5234b353b4ed28eac709d2b89d5152e6ac5",
+      "time": 1572408080
+    }
+  }
+}

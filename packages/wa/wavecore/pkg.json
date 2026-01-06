@@ -1,0 +1,202 @@
+{
+  "name": "wavecore",
+  "url": "https://github.com/ansiwave/wavecore",
+  "method": "git",
+  "description": "Client and server database and networking utils",
+  "license": "Public Domain",
+  "tags": [
+    "database",
+    "networking"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "puppy",
+          "str": ">= 2.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.2"
+          }
+        },
+        {
+          "name": "flatty",
+          "str": ">= 0.3.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.4"
+          }
+        },
+        {
+          "name": "paramidi",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "ansiutils",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "wavecore"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.9.1",
+        "hash": "836ce54862804c521478df8cac7c0b130a993567",
+        "time": 1739736747
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "eeafb8e51b1789a5c09bbc3bad7750f72d038477",
+        "time": 1693436429
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "af375a9d560b1a0e9b95764666d078920ea2d47f",
+        "time": 1671716536
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "30c11abb36aa584921585253278b1547c69994f7",
+        "time": 1656324738
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "61e09790b3f125ff1fdc4c6de70d60aca2f2dc4c",
+        "time": 1652728803
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "89ddf8ae65b6ea31fa2b3d83d7a7a941deb6e2a1",
+        "time": 1650911130
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "8d5c6de43ca42637fb61558526817a8d558ed6d3",
+        "time": 1644180007
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "b29b1dd4851c364046126160d542627674b16203",
+        "time": 1643555484
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "13885a6c1b50cdcacbe82a6feb1a3fd4839e1c72",
+        "time": 1643011889
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "bca0b45c4be286a1fd309b5edbf0c7f9dadc05a5",
+        "time": 1642948929
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "4e266f5fc823acd305fb376a8d4f0f25379d85d6",
+        "time": 1642922237
+      },
+      {
+        "tag": "0.3.7",
+        "hash": "9a5385fc3ef8c814f91b5c8f0ac5cf14259e42fe",
+        "time": 1642299796
+      },
+      {
+        "tag": "0.3.6",
+        "hash": "ff6894c0191a7508d4e8b1c96247b4655315c0d9",
+        "time": 1642131985
+      },
+      {
+        "tag": "0.3.5",
+        "hash": "db2c6919d31af42e5add31eb1919d6f02481f7de",
+        "time": 1641672053
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "2ab30df00bba57645e98f30c171d71d22faed195",
+        "time": 1641542260
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "9d423aecd00f5456558d70034aca05f5b0e7532c",
+        "time": 1641446335
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "6e9be2cc461d50c8a17ab6248c14275b73fa6ca0",
+        "time": 1641402649
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "f1c74b0b175a448bdaa6849c203580ef9013269a",
+        "time": 1641393313
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "e9e8cbeea20751f16fd6875e2f394a0be49952e2",
+        "time": 1641330128
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "c1db118319260678503ea7a16445f858df131ba0",
+        "time": 1641227640
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "0a7558121d006ecf2a6483684c5ca656f3b471f7",
+        "time": 1641034274
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "3254d660d14100892cb51d2b71e15309875a9ad4",
+        "time": 1640858360
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "7dd274bee9c2445a6166811d58eae30655de58fa",
+        "time": 1640853009
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "db9d7e8ce2a891165c5dd84c704cf66119e88963",
+        "time": 1640326136
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "4d4e25b430011afb4ec37afe785d38643ca812e4",
+        "time": 1640263965
+      }
+    ],
+    "commit": {
+      "hash": "836ce54862804c521478df8cac7c0b130a993567",
+      "time": 1739736747
+    }
+  }
+}

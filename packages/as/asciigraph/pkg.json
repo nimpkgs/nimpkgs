@@ -1,0 +1,35 @@
+{
+  "name": "asciigraph",
+  "url": "https://github.com/nimbackup/asciigraph",
+  "method": "git",
+  "description": "Console ascii line charts in pure nim",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/asciigraph",
+  "tags": [
+    "graph",
+    "plot",
+    "terminal",
+    "io"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9f51fc4e94d0960ab63fa6ea274518159720aa69",
+      "time": 1614647236
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "spry",
+  "url": "https://github.com/gokr/spry",
+  "method": "git",
+  "description": "A Smalltalk and Rebol inspired language implemented as an AST interpreter",
+  "license": "MIT",
+  "web": "https://github.com/gokr/spry",
+  "tags": [
+    "language",
+    "library",
+    "scripting"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.4",
+      "requires": [
+        {
+          "name": "spryvm",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "ispry",
+        "spry"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "13bb2f282bf3dd6c0332ea0f3a7cb37aa685cbbe",
+      "time": 1701119370
+    }
+  }
+}

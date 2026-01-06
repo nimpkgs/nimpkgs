@@ -1,0 +1,113 @@
+{
+  "name": "spfun",
+  "url": "https://github.com/c-blake/spfun",
+  "method": "git",
+  "description": "Special Functions of Stats & Physics",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/spfun",
+  "tags": [
+    "statistics",
+    "mathematics",
+    "physics",
+    "special functions",
+    "numerical methods"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.7.6",
+        "hash": "1e373e2507848af1eebe79b5170c3841f5fe6b52",
+        "time": 1758202092
+      },
+      {
+        "tag": "0.7.5",
+        "hash": "0b42f00cf4edebc684354285405a88dece2c8f8e",
+        "time": 1757426503
+      },
+      {
+        "tag": "0.7.4",
+        "hash": "ed5c05aa4a304dcb0738ab195c287e28907931f4",
+        "time": 1740086979
+      },
+      {
+        "tag": "0.7.3",
+        "hash": "2c19506a77b398f21428f33bdfd7adb1e83ae53c",
+        "time": 1729614107
+      },
+      {
+        "tag": "0.7.2",
+        "hash": "beb1829801f49e909fb27ee46b361962b6a4f17e",
+        "time": 1726083806
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "0c479b060cc69c89eda4cb8c020963c827057936",
+        "time": 1725698875
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "e6a861195630d86a36a5f05ae91c8ade3a0d443a",
+        "time": 1721938810
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "aefdf00a1d2e62c953b7e3eb8e6db2b649f0f064",
+        "time": 1719163882
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "93b8ddbdf038cba0ff3174448a1a2c68b4cb1b74",
+        "time": 1717617069
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "f7c20ceba1b1b61dea698d77581c75b1edf42385",
+        "time": 1715009732
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "dc57b9c837f84d60b70e62fe0a01d4ad15040730",
+        "time": 1713870343
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "9155ce9e2ff3a136ca133ce52773897e849079fd",
+        "time": 1713778092
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "073fa035b50040a19fdbcad855a05f1e83ba0e61",
+        "time": 1692793101
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "31c50ada426598fdf5a264c123f84a901a1f3a14",
+        "time": 1670531892
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "422c08de32d61fe72b67c39558d0af97f94eb3c6",
+        "time": 1641215941
+      }
+    ],
+    "commit": {
+      "hash": "170d427581b48999e287c699c183240b5368fef4",
+      "time": 1766153420
+    }
+  }
+}

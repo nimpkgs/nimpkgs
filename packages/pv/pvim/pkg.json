@@ -1,0 +1,165 @@
+{
+  "name": "pvim",
+  "url": "https://github.com/paranim/pvim",
+  "method": "git",
+  "description": "A vim-based editor",
+  "license": "Public Domain",
+  "tags": [
+    "editor",
+    "vim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.18.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "paravim",
+          "str": ">= 0.18.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.4"
+          }
+        }
+      ],
+      "bin": [
+        "pvim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.18.4",
+        "hash": "4c1a262aa861d887b450c350be196c231f40b7e6",
+        "time": 1671711176
+      },
+      {
+        "tag": "0.18.3",
+        "hash": "6cb3869e6cd8f86d5c278370b6b5080f92923830",
+        "time": 1651570893
+      },
+      {
+        "tag": "0.18.2",
+        "hash": "0965973ee9b719959104d3c4d491e8e40d363583",
+        "time": 1603408341
+      },
+      {
+        "tag": "0.18.1",
+        "hash": "8a894bf38d38c17bf9a64b81ed8c00499b676f79",
+        "time": 1597967021
+      },
+      {
+        "tag": "0.18.0",
+        "hash": "cadaec509354ef5e2b844c2c8489f23e40cf974c",
+        "time": 1597432951
+      },
+      {
+        "tag": "0.17.1",
+        "hash": "530ffb4ef512a7fb52d6cd23f59bc091ebfbc5fa",
+        "time": 1596042380
+      },
+      {
+        "tag": "0.17.0",
+        "hash": "b4bb4967f55d36416a1c7ba3441a38880e7ce4df",
+        "time": 1595888520
+      },
+      {
+        "tag": "0.16.1",
+        "hash": "7be63ff67345b98300c76d7b044ca93576d389be",
+        "time": 1594941669
+      },
+      {
+        "tag": "0.16.0",
+        "hash": "97c2087b700ce8dd82fbfb414c5c2af4d1587b8a",
+        "time": 1594060303
+      },
+      {
+        "tag": "0.15.1",
+        "hash": "5e2389f2edf2bd4b51810e889f8709cf235797b9",
+        "time": 1593207992
+      },
+      {
+        "tag": "0.14.0",
+        "hash": "84b7a457bc65d9b06dae7d7ddb52a35b0b428fa9",
+        "time": 1592407573
+      },
+      {
+        "tag": "0.13.0",
+        "hash": "4f208a18f7c0f26209074fea960a02a922d1fe43",
+        "time": 1592355503
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "fc569b564b9e23f2c688ecb754680a606a72ccdd",
+        "time": 1592059626
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "74cf5b5af09cca4fed4227d72d1a2737e5b9e5f2",
+        "time": 1591918784
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "c7c3ba9c41dc7ef53e47740229a8a4b3839e723d",
+        "time": 1587225291
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "53a569358ac0570a059838c5cd4e7fdf8e06ee6a",
+        "time": 1586830102
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "b42869603e9af4d62e79da92d556166ca9b94e73",
+        "time": 1585077500
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "8624de68ead8315cbd61bb229fa8a033ea2aaef9",
+        "time": 1584921588
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "820ab14ec11becec463ce14648433392ac36da68",
+        "time": 1584641906
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "ba708f2643686cda9ea4a2787f18cdaa381de904",
+        "time": 1584618280
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "0d92c9bea83a7ca4ee5982e097771c8872d1af22",
+        "time": 1584613059
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "769d40a553c88e207347225876ee65cc6504ba2f",
+        "time": 1584575666
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "46fd2c813b5eabaf6c24ccbc9126c28e6c57d21e",
+        "time": 1584065838
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "ca5ed83b63c481d713400e0ebd7afc99064ec7fa",
+        "time": 1582765982
+      }
+    ],
+    "commit": {
+      "hash": "05e6e52ef509394debe46c38ce7f04a38540f8a9",
+      "time": 1693505845
+    }
+  }
+}

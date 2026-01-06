@@ -1,0 +1,42 @@
+{
+  "name": "nimna",
+  "url": "https://github.com/mjendrusch/nimna",
+  "method": "git",
+  "description": "Nucleic acid folding and design.",
+  "license": "MIT",
+  "web": "https://github.com/mjendrusch/nimna",
+  "tags": [
+    "library",
+    "nucleic-acid-folding",
+    "scientific",
+    "biology"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "be3fce2e9a9c06b7ca2f11912201daf11cd607a8",
+        "time": 1519899169
+      }
+    ],
+    "commit": {
+      "hash": "be3fce2e9a9c06b7ca2f11912201daf11cd607a8",
+      "time": 1519899169
+    }
+  }
+}

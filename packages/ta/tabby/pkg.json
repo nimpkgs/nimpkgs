@@ -1,0 +1,46 @@
+{
+  "name": "tabby",
+  "url": "https://github.com/treeform/tabby",
+  "method": "git",
+  "description": "Fast CSV parser with hooks.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/tabby",
+  "tags": [
+    "csv",
+    "tsv",
+    "excel"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.6.0",
+        "hash": "8aaeacf05fadb58016745f17660271eb4a18c80b",
+        "time": 1704913896
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "a7d43fb11eb8981c79687c39ae439e605bfe13c9",
+        "time": 1640124371
+      }
+    ],
+    "commit": {
+      "hash": "706614036f6372fe1e6efd8cf2426b089d8b8055",
+      "time": 1723476659
+    }
+  }
+}

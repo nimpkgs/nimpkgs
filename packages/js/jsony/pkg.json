@@ -1,0 +1,114 @@
+{
+  "name": "jsony",
+  "url": "https://github.com/treeform/jsony",
+  "method": "git",
+  "description": "A loose, direct to object json parser with hooks.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/jsony",
+  "tags": [
+    "json"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.6",
+        "hash": "bb647e1ca21af25ffdc423bcb96feeeeae963ca2",
+        "time": 1762096221
+      },
+      {
+        "tag": "1.1.5",
+        "hash": "ea811bec7fa50f5abd3088ba94cda74285e93f18",
+        "time": 1675913806
+      },
+      {
+        "tag": "1.1.4",
+        "hash": "981f868cfca6e2ccde820cc20bb18d835d283233",
+        "time": 1675106088
+      },
+      {
+        "tag": "1.1.3",
+        "hash": "2a2cc4331720b7695c8b66529dbfea6952727e7b",
+        "time": 1641248657
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "0278135250783a9bd5fd6636fe18ba3c44e2dead",
+        "time": 1640543961
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "eb63a326b7f16537764c090f8859eb2451ad8d4d",
+        "time": 1637077008
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "3eefbe211f64fc9cf84fe05230ce9f769fa4111a",
+        "time": 1636052113
+      },
+      {
+        "tag": "1.0.5",
+        "hash": "f5a2925f0ce82796deb4a2017759b3f0fb02a079",
+        "time": 1632722852
+      },
+      {
+        "tag": "1.0.4",
+        "hash": "33c3daade91c0fa84b422b9a1f744ef5fb8369d0",
+        "time": 1625806455
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "d418588b6be051cf3485ba90d479df4b626f030d",
+        "time": 1622645115
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "0f9c8eb044581796cb84f9365e022222edd05e13",
+        "time": 1619126507
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "a5d4af82dd49ee441d94cf88b03f70b3bf7ce941",
+        "time": 1614901379
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "0c9bd410e80cce96bd6b958ff30b22b0b53372ca",
+        "time": 1610258697
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "9395dd9b8bbae6eafa846e0f1d00868588bca9c2",
+        "time": 1610256795
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "295a07c2dcedf476ac46e0ab2afe84c1f420911b",
+        "time": 1610172601
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "d02c42675f048084a2c9e31c859e7e7625f13d77",
+        "time": 1609632558
+      }
+    ],
+    "commit": {
+      "hash": "bb647e1ca21af25ffdc423bcb96feeeeae963ca2",
+      "time": 1762096221
+    }
+  }
+}

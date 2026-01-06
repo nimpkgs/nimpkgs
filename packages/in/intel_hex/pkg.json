@@ -1,0 +1,34 @@
+{
+  "name": "intel_hex",
+  "url": "https://github.com/keyme/nim_intel_hex",
+  "method": "git",
+  "description": "Intel hex file utility library",
+  "license": "MIT",
+  "web": "https://github.com/keyme/nim_intel_hex",
+  "tags": [
+    "utils",
+    "parsing",
+    "hex"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d34923a4a60298fd1304178816a92720949ad7b4",
+      "time": 1529958991
+    }
+  }
+}

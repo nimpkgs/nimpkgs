@@ -1,0 +1,78 @@
+{
+  "name": "newt",
+  "url": "https://github.com/navid-m/newt",
+  "method": "git",
+  "description": "Youtube downloader library and CLI.",
+  "license": "GPLv3",
+  "web": "https://github.com/navid-m/newt",
+  "tags": [
+    "youtube",
+    "media",
+    "downloader",
+    "download",
+    "scraper",
+    "api",
+    "library",
+    "pytube",
+    "youtube-dl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        },
+        {
+          "name": "nancy",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [
+        "newt"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.4",
+        "hash": "eb607773febe3bd6acd3248d8a9080e223d00212",
+        "time": 1726743695
+      },
+      {
+        "tag": "v1.0.3",
+        "hash": "52e23c58d90fce8b3448eca311c46d37edd43e10",
+        "time": 1726701266
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "3de51eeb05858fc9df5627bb3c2296f97e680346",
+        "time": 1726411909
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "a469e04bcda825d667882f81f2bdc74303a5d1de",
+        "time": 1726396299
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "4f08ca80fe16bf84be4fe87b9c2de44da0390c21",
+        "time": 1726390131
+      }
+    ],
+    "commit": {
+      "hash": "7e515a832f6d803f20f041b722adb5dc0dd022ee",
+      "time": 1752616865
+    }
+  }
+}

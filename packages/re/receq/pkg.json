@@ -1,0 +1,33 @@
+{
+  "name": "receq",
+  "url": "https://github.com/choltreppe/nim_receq",
+  "method": "git",
+  "description": "Operator for comparing any recursive ref object",
+  "license": "MIT",
+  "web": "https://github.com/choltreppe/nim_receq",
+  "tags": [
+    "compare",
+    "eq"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a7ac6fe395be7780d3f14b17c74d9a0192a794af",
+      "time": 1677192075
+    }
+  }
+}

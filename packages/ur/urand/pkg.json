@@ -1,0 +1,34 @@
+{
+  "name": "urand",
+  "url": "https://github.com/Matceporial/nim-urand",
+  "method": "git",
+  "description": "Simple method of obtaining secure random numbers from the OS",
+  "license": "MIT",
+  "web": "https://github.com/Matceporial/nim-urand",
+  "tags": [
+    "random",
+    "urandom",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f3385acce562d4b656f17d65ce586152e0882fc9",
+      "time": 1543671366
+    }
+  }
+}

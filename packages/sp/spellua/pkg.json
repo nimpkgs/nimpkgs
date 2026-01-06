@@ -1,0 +1,48 @@
+{
+  "name": "spellua",
+  "url": "https://github.com/glassesneo/spellua",
+  "method": "git",
+  "description": "A high level LuaJIT bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/glassesneo/spellua",
+  "tags": [
+    "lua",
+    "metaprogramming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "seiryu",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "9340432bf62f9f1208750268ecb1906f5a67c7bb",
+        "time": 1725794411
+      }
+    ],
+    "commit": {
+      "hash": "85a4e432ad1ea05c053d510431f8b45663010668",
+      "time": 1730561391
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "drawille",
+  "url": "https://github.com/PMunch/drawille-nim",
+  "method": "git",
+  "description": "Drawing in terminal with Unicode Braille characters.",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/drawille-nim",
+  "tags": [
+    "drawile",
+    "terminal",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1b2daec77e6bbb78bc5a330b92796386e172bd57",
+      "time": 1529490765
+    }
+  }
+}

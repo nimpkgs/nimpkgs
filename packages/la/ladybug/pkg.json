@@ -1,0 +1,92 @@
+{
+  "name": "ladybug",
+  "url": "https://github.com/mahlonsmith/nim-ladybug",
+  "method": "git",
+  "description": "A wrapper for LadybugDB: an embedded graph database built for query speed and scalability.",
+  "license": "BSD-3-Clause",
+  "web": "https://ladybugdb.com/",
+  "tags": [
+    "ladybug",
+    "ladybugdb",
+    "lbug",
+    "kuzu",
+    "kuzudb",
+    "library",
+    "wrapper",
+    "database",
+    "graph"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.8.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": " ^= >= 2.0.0",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.8.1",
+        "hash": "2ce6e9f41bbb7da0044e38c435220a79ef1e2a0c",
+        "time": 1765850700
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "e2c64a0746bcb0db96bbb2aadf3e1600a1f0cade",
+        "time": 1763342554
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "363ba15be43bfb30635336b3c8b315693cca463d",
+        "time": 1762309714
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "d2bb8f5c46e14673a3147c472f28ed4e4b300449",
+        "time": 1752958346
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "02894cf8fe42e853be1ea16bfe3c38fe763eb51d",
+        "time": 1752796234
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "f63712306f8855ec67c18f42926264a7195e6c8b",
+        "time": 1752440228
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "aedb1d09cf6e7a680a7ceddae8127fc64e957696",
+        "time": 1746764120
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "e532c50e998f29f9b680ad62bc645b9f666c0a6a",
+        "time": 1745084753
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "c46d76ea4a34551dff7ae012495c36368c6b7b49",
+        "time": 1743560794
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c7c60aed71d411a61892f9b65e9bdf7d056c85c3",
+        "time": 1743462981
+      }
+    ],
+    "commit": {
+      "hash": "2ce6e9f41bbb7da0044e38c435220a79ef1e2a0c",
+      "time": 1765850700
+    }
+  }
+}

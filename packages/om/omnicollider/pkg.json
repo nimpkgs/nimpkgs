@@ -1,0 +1,97 @@
+{
+  "name": "omnicollider",
+  "url": "https://github.com/vitreo12/omnicollider",
+  "method": "git",
+  "description": "SuperCollider wrapper for omni.",
+  "license": "MIT",
+  "web": "https://github.com/vitreo12/omnicollider",
+  "tags": [
+    "dsl",
+    "dsp",
+    "audio",
+    "sound",
+    "supercollider"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.0"
+          }
+        },
+        {
+          "name": "omni",
+          "str": "0.4.2",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.4.2"
+          }
+        }
+      ],
+      "bin": [
+        "omnicollider"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.2",
+        "hash": "5e03045c3236316c609fb7fe5095158a6f5a385e",
+        "time": 1711720243
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "b07d56b3cc8384b0b039d47c17d1495cfa2e1988",
+        "time": 1653749535
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "f053768340f19947d9f81d973093397163905025",
+        "time": 1618760259
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "563076db200c6f5c811299e3a69df8b48d17ea79",
+        "time": 1603909041
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "2b561c4a8c3318ad0c4c5d54b65b460d84d9ce0c",
+        "time": 1603271534
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "40ce9be068219e1427db805bb18bcb9d5b598464",
+        "time": 1601649443
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "1e1ce5f39129f7886662ae35c84d0d216779a372",
+        "time": 1601460809
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "091129395c9fdb142ec6810c405cd74917a6e76d",
+        "time": 1593342233
+      }
+    ],
+    "commit": {
+      "hash": "5e03045c3236316c609fb7fe5095158a6f5a385e",
+      "time": 1711720243
+    }
+  }
+}

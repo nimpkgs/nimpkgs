@@ -1,0 +1,46 @@
+{
+  "name": "webterminal",
+  "url": "https://github.com/JohnAD/webterminal",
+  "method": "git",
+  "description": "Very simple browser Javascript TTY web terminal",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/webterminal",
+  "tags": [
+    "javascript",
+    "terminal",
+    "tty"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.0.2",
+        "hash": "e3b9ad126169534f1ba130a85af8227f66ac4a74",
+        "time": 1573676549
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "1b2ce4d3ec62560d28643cb386513f997bb53544",
+        "time": 1527716849
+      }
+    ],
+    "commit": {
+      "hash": "5c07ea85d2cfdd055cde755a117f50244d6c0021",
+      "time": 1582330319
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "noise",
+  "url": "https://github.com/jangko/nim-noise",
+  "method": "git",
+  "description": "Nim implementation of linenoise command line editor",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nim-noise",
+  "tags": [
+    "linenoise",
+    "readline",
+    "command-line",
+    "repl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.10",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.10",
+        "hash": "1062d35d38fcd4d8a3bcdee3003381e639786edf",
+        "time": 1729691031
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "3cb3250ddcdaa74809aad931c066e7ef6e4af36d",
+        "time": 1670311472
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "4923932454a0850edb2f1fb71c9bffff343f457f",
+        "time": 1662554140
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "947f195c5796d3aca331de39d49dc073140748c1",
+        "time": 1600141522
+      }
+    ],
+    "commit": {
+      "hash": "4ef91d821a01d317968404b40b0d1a41ade54939",
+      "time": 1765204068
+    }
+  }
+}

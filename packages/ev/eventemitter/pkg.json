@@ -1,0 +1,35 @@
+{
+  "name": "eventemitter",
+  "url": "https://github.com/al-bimani/eventemitter",
+  "method": "git",
+  "description": "event emitter for nim",
+  "license": "MIT",
+  "web": "https://github.com/al-bimani/eventemitter",
+  "tags": [
+    "eventemitter",
+    "events",
+    "on",
+    "emit"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f498d8531afe5f41b1d6dfbbd8ba45eb859510a9",
+      "time": 1761325906
+    }
+  }
+}

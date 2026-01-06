@@ -1,0 +1,63 @@
+{
+  "name": "nimSocks",
+  "url": "https://github.com/enthus1ast/nimSocks.git",
+  "method": "git",
+  "description": "A filtering SOCKS proxy server and client library written in nim.",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/nimSocks",
+  "tags": [
+    "SOCKS",
+    "server",
+    "client",
+    "SOCKS4",
+    "SOCKS4a",
+    "SOCKS5",
+    "whitelist",
+    "blacklist"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.3"
+          }
+        },
+        {
+          "name": "nimSHA2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dbg",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/enthus1ast/nimIsPrivateIp.git",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "db736aff10573aa5cc8ddd60170a26849219645a",
+      "time": 1676066160
+    }
+  }
+}

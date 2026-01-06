@@ -1,0 +1,90 @@
+{
+  "name": "treestand",
+  "url": "https://github.com/YesDrX/nim-treestand",
+  "method": "git",
+  "description": "A full tree-sitter (parser generator) clone/re-implementation for nim with powerful macros.",
+  "license": "MIT",
+  "web": "https://github.com/YesDrX/nim-treestand",
+  "tags": [
+    "tree-sitter",
+    "treesitter",
+    "tree-stand",
+    "treestand",
+    "parser",
+    "peg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "treestand"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.1",
+        "hash": "e31a984b48aedac8f97f8d78d3aa2dea7207735f",
+        "time": 1767922405
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "73e6545f3e09e0d392707317cfe9290cf349d15d",
+        "time": 1767917168
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "7fb9be48deec3e18128d7f9bbf9c929d89f560db",
+        "time": 1766864645
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "b507f5b0a54d43d01a6282e86d3eab193b7a19bf",
+        "time": 1766851310
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "5417aa31192b351bdaac72102e77043208d367d9",
+        "time": 1766785051
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "ac5fa3c4a709032bb4a2970c9f0153685ddbc505",
+        "time": 1766783282
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "c00c9dbed338ad4986c2de7d71c07382a3ca178e",
+        "time": 1766781096
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "59fd9acba7302d78b2180e48d671eb50b7321557",
+        "time": 1766722727
+      }
+    ],
+    "commit": {
+      "hash": "e31a984b48aedac8f97f8d78d3aa2dea7207735f",
+      "time": 1767922405
+    }
+  }
+}

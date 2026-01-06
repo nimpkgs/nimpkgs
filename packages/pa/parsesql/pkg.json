@@ -1,0 +1,41 @@
+{
+  "name": "parsesql",
+  "url": "https://github.com/nim-lang/parsesql",
+  "method": "git",
+  "description": "a high performance SQL file parser",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/parsesql",
+  "tags": [
+    "SQL",
+    "web",
+    "PostgreSQL"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "6462828bc2df864de6b421366d27b9eebca131f6",
+        "time": 1757509661
+      }
+    ],
+    "commit": {
+      "hash": "7045360405a3593a396e53b0cea076b903c2e1b1",
+      "time": 1760965211
+    }
+  }
+}

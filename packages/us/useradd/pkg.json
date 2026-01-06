@@ -1,0 +1,71 @@
+{
+  "name": "useradd",
+  "url": "https://github.com/theAkito/nim-useradd",
+  "method": "git",
+  "description": "Linux adduser/useradd library with all batteries included.",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "akito",
+    "gosu",
+    "su-exec",
+    "docker",
+    "kubernetes",
+    "helm",
+    "permission",
+    "linux",
+    "posix",
+    "postgres",
+    "process",
+    "security",
+    "alpine",
+    "busybox",
+    "useradd",
+    "adduser",
+    "shadow",
+    "musl",
+    "libc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "79d1c3df2cba0ea4be02a1d0bfa0c400ab1159a3",
+        "time": 1697315457
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "987de48f12dd2874ace0fd9660cb9c07980566eb",
+        "time": 1697295464
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "869266da86fc01ec7a8a694568dcd829f58b35c9",
+        "time": 1697285310
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "37dfc5db79376ff3381ee2fe99eacf993195503a",
+        "time": 1649940163
+      }
+    ],
+    "commit": {
+      "hash": "79d1c3df2cba0ea4be02a1d0bfa0c400ab1159a3",
+      "time": 1697315457
+    }
+  }
+}

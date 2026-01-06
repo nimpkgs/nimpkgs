@@ -1,0 +1,36 @@
+{
+  "name": "io-myo",
+  "url": "https://github.com/nimious/io-myo.git",
+  "method": "git",
+  "description": "Obsolete - please use myo instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-myo",
+  "tags": [
+    "binding",
+    "myo",
+    "thalmic",
+    "armband",
+    "gesture"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": "> 0.12.0",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "13cec2aaf0ab7b6371784a43caaf2fde0549f2a4",
+      "time": 1454175614
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "aglet",
+  "url": "https://github.com/liquid600pgm/aglet",
+  "method": "git",
+  "description": "A safe, high-level, optimized OpenGL wrapper",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/aglet",
+  "tags": [
+    "graphics",
+    "opengl",
+    "wrapper",
+    "safe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "https://github.com/liquid600pgm/nim-glm",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "https://github.com/nimgl/glfw",
+          "str": ">= 3.3.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.3.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.4",
+        "hash": "8f8469a50b633d263bd7eaa3c974e06a3bcd963f",
+        "time": 1604598167
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "be3bb0fa6d9dea2837f7d6943f59ef3962b7c7d3",
+        "time": 1604160188
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "6ca4ae531c56bd959bdc38aa96470002ecb7fe1d",
+        "time": 1600553561
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "a0ff8082493571a188ebea03e5421594c712689d",
+        "time": 1597958650
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "5a3bbc6e0c102e575b0027ace64d4deda41c0a39",
+        "time": 1597911246
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "ab243da0eba641619b77b147d381a2ea759cf413",
+        "time": 1595613894
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "9fe55f76f3fcbe31f244986a99ee5be3733141cd",
+        "time": 1595517904
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "8e494985014d644e00c0e5822ab74645874071df",
+        "time": 1595262382
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "252e3edf5d80f9778db782da9691ca82cf187c12",
+        "time": 1594554849
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "a6fa012dc763c55639d24c04aff173c8d22690f7",
+        "time": 1594374389
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "eb59607e8989a62644786ee9f722f40d07e976b0",
+        "time": 1593113005
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "bbf37c2c42cb9f76cdebef5b81bc85f75a31bc4c",
+        "time": 1592216773
+      }
+    ],
+    "commit": {
+      "hash": "5c3312982359f53d3ba8aaf05b9a927333289d71",
+      "time": 1630403877
+    }
+  }
+}

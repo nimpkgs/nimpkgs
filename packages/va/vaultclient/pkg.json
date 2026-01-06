@@ -1,0 +1,46 @@
+{
+  "name": "vaultclient",
+  "url": "https://github.com/jackhftang/vaultclient.nim",
+  "method": "git",
+  "description": "Hashicorp Vault HTTP Client",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/vaultclient.nim",
+  "tags": [
+    "vault",
+    "secret",
+    "secret-management"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "959dc3a58449b511d7787a4283d215413c8ef474",
+        "time": 1591754571
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f8619f0bf9694ae864d14418edc95523009302c7",
+        "time": 1591472056
+      }
+    ],
+    "commit": {
+      "hash": "3003d2c30b7d1e9bae34da37b8b66bd5f93d4f52",
+      "time": 1604558123
+    }
+  }
+}

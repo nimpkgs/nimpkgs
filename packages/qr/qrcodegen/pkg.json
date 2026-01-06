@@ -1,0 +1,33 @@
+{
+  "name": "qrcodegen",
+  "url": "https://github.com/bunkford/qrcodegen",
+  "method": "git",
+  "description": "QR Code Generator",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/qrcodegen",
+  "tags": [
+    "qr",
+    "barcode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f13233d757747ae1777b2df3d657a07cc400b129",
+      "time": 1566480880
+    }
+  }
+}

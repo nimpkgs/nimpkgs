@@ -1,0 +1,56 @@
+{
+  "name": "pixienator",
+  "url": "https://github.com/patternspandemic/pixienator",
+  "method": "git",
+  "description": "Helpers for visualizing delaunator with pixie.",
+  "license": "Unlicense",
+  "web": "https://github.com/patternspandemic/pixienator",
+  "doc": "https://patternspandemic.github.io/pixienator/",
+  "tags": [
+    "delaunator",
+    "pixie",
+    "visualization",
+    "delaunay",
+    "voronoi",
+    "dual graph",
+    "helpers",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "20230610",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.6"
+          }
+        },
+        {
+          "name": "delaunator",
+          "str": ">= 20230610",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "20230610"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "587097be5a017b7ddac309eaba50faf3c38a76ee",
+      "time": 1686609378
+    }
+  }
+}

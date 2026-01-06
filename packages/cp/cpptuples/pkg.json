@@ -1,0 +1,31 @@
+{
+  "name": "cpptuples",
+  "url": "https://github.com/sls1005/cpptuples",
+  "method": "git",
+  "description": "A wrapper for C++'s std::tuple",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/cpptuples",
+  "tags": [
+    "cpp",
+    "tuple"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "5be167fb14509d60403fdd2e8c1c25d60f19be3e",
+        "time": 1670129022
+      }
+    ],
+    "commit": {
+      "hash": "5be167fb14509d60403fdd2e8c1c25d60f19be3e",
+      "time": 1670129022
+    }
+  }
+}

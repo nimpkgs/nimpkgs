@@ -1,0 +1,47 @@
+{
+  "name": "jswebsockets",
+  "url": "https://github.com/stisa/jswebsockets",
+  "method": "git",
+  "description": "Websockets wrapper for nim js backend.",
+  "license": "MIT",
+  "web": "https://stisa.space/jswebsockets/",
+  "tags": [
+    "js",
+    "javascripts",
+    "ws",
+    "websockets"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.3",
+        "hash": "ff0ceecc4c071fa8aecbf223d678ac54af120f8d",
+        "time": 1490475966
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "54a601f9ce5d24454e99671dff9dc9accff3e3db",
+        "time": 1489261388
+      }
+    ],
+    "commit": {
+      "hash": "ff0ceecc4c071fa8aecbf223d678ac54af120f8d",
+      "time": 1490475966
+    }
+  }
+}

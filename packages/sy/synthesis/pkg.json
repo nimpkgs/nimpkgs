@@ -1,0 +1,50 @@
+{
+  "name": "synthesis",
+  "url": "https://github.com/mratsim/Synthesis",
+  "method": "git",
+  "description": "A compile-time, compact, fast, without allocation, state-machine generator.",
+  "license": "MIT or Apache License 2.0",
+  "web": "https://github.com/mratsim/Synthesis",
+  "tags": [
+    "finite-state-machine",
+    "state-machine",
+    "fsm",
+    "event-driven",
+    "reactive-programming",
+    "embedded",
+    "actor"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "09bef6df051b13baeb3a83d03f08b8886354839f",
+        "time": 1587504848
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "26c2d822aff94cd7126ca04e8ee75e1b2158d93b",
+        "time": 1576357873
+      }
+    ],
+    "commit": {
+      "hash": "09bef6df051b13baeb3a83d03f08b8886354839f",
+      "time": 1587504848
+    }
+  }
+}

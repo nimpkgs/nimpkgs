@@ -1,0 +1,53 @@
+{
+  "name": "zuhyo",
+  "url": "https://github.com/arashi-software/zuhyo",
+  "method": "git",
+  "description": "The easiest way to interact with a graphql api",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/arashi-software/zuhyo",
+  "tags": [
+    "graphql",
+    "api",
+    "web",
+    "library",
+    "helper",
+    "gql"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "puppy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "5e61001995c8830694a228ed7df52c5e6f658117",
+      "time": 1694755057
+    }
+  }
+}

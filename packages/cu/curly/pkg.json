@@ -1,0 +1,149 @@
+{
+  "name": "curly",
+  "url": "https://github.com/guzba/curly",
+  "method": "git",
+  "description": "Makes using libcurl efficiently easy",
+  "license": "MIT",
+  "web": "https://github.com/guzba/curly",
+  "tags": [
+    "curl",
+    "libcurl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "libcurl",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.6"
+          }
+        },
+        {
+          "name": "webby",
+          "str": ">= 0.1.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.7"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.1",
+        "hash": "a0f42baacbc48f4e5924b18854c0df9dcc251466",
+        "time": 1728281233
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "64f884484d560ece48d421c2984512445f655fb8",
+        "time": 1728261981
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "5da7fc415de782eaaa273f0caa7aa571401ad1c6",
+        "time": 1706010573
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "0fbe9b2f6cb39551f9ddefdb99c91414193c01c3",
+        "time": 1705784775
+      },
+      {
+        "tag": "0.1.13",
+        "hash": "a6b9e15e12b12ad1395b321eea5e476d9b6d3a14",
+        "time": 1705428082
+      },
+      {
+        "tag": "0.1.12",
+        "hash": "8598ad5c3b0c1eb65b5e3017688a2fa31a34225f",
+        "time": 1693336183
+      },
+      {
+        "tag": "0.1.11",
+        "hash": "ecffdf5c09929a044c49c1e52624d130c8f4825c",
+        "time": 1692333548
+      },
+      {
+        "tag": "0.1.10",
+        "hash": "a3fd81e3a79e51906a740b06306ebd55027fc943",
+        "time": 1685340058
+      },
+      {
+        "tag": "0.1.9",
+        "hash": "79e84143492ebc7fc47affc3e9766237c410202b",
+        "time": 1684382170
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "9f65e36e7dc47724db57851f9574fa2d4cc98ea6",
+        "time": 1684356985
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "c1bfcd9ea94ee653874ba297b9c659122999b79c",
+        "time": 1684206180
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "351925e978c2e00c087368495b2649372b43cd15",
+        "time": 1680634549
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "a582222a1c7489921de08a673a9e4135c1293d5b",
+        "time": 1676237403
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "4a742754e04485e95c01d0588adc8a7abb9d252d",
+        "time": 1676071140
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "e7a4c2c2482d22192c4f503f463e151ba8ce2706",
+        "time": 1676067721
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "af9c96c83184f5a79ca91578546eedb8af81707f",
+        "time": 1675478005
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "d0e09a7628fd1cf2e6ad041e3a49735ec52cdef6",
+        "time": 1673506062
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "be1bb5f7fee3ad91f105071521b9058b996177cd",
+        "time": 1673483407
+      }
+    ],
+    "commit": {
+      "hash": "a0f42baacbc48f4e5924b18854c0df9dcc251466",
+      "time": 1728281233
+    }
+  }
+}

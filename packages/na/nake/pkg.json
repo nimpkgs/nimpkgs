@@ -1,0 +1,94 @@
+{
+  "name": "nake",
+  "url": "https://github.com/fowlmouth/nake/",
+  "method": "git",
+  "description": "make-like for Nim. Describe your builds as tasks!",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nake",
+  "tags": [
+    "build",
+    "automation",
+    "sortof"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.9.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.2"
+          }
+        }
+      ],
+      "bin": [
+        "nake"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.9.5",
+        "hash": "63e87e1713459588f33844280de9821ba04e34c6",
+        "time": 1753866467
+      },
+      {
+        "tag": "1.9.4",
+        "hash": "8bfbd2fd86ea5935858a1c21a368952998c5e32b",
+        "time": 1615647180
+      },
+      {
+        "tag": "1.9.3",
+        "hash": "10bcbe8afae92dcd13b55332f4ae0f18b2a35f59",
+        "time": 1536223324
+      },
+      {
+        "tag": "1.9.2",
+        "hash": "7ece16fac895b179a654d897399e65326e9ab381",
+        "time": 1525443885
+      },
+      {
+        "tag": "1.9.1",
+        "hash": "73890084f51626ce68c465a32d41a3d782dd7223",
+        "time": 1506936919
+      },
+      {
+        "tag": "v1.8",
+        "hash": "a863d7929344ffdf1d6354e709641cc2abfeb3d0",
+        "time": 1430592822
+      },
+      {
+        "tag": "v1.6",
+        "hash": "3fe61c7dc8db7881ebbcf9ceb7f77e4fd6c8dc22",
+        "time": 1430001360
+      },
+      {
+        "tag": "v1.4",
+        "hash": "f8a78e3c9fdf88595867b7d44b3fc653cbd3a0e2",
+        "time": 1419975684
+      },
+      {
+        "tag": "v1.2",
+        "hash": "46ce7196852f22e106c066f5370c6b0c4bf455ea",
+        "time": 1393105465
+      },
+      {
+        "tag": "v1.1",
+        "hash": "6040b3f30cd89950402c1bf538ed53d8a48a6524",
+        "time": 1384034601
+      },
+      {
+        "tag": "v1.0",
+        "hash": "ebe39f691f069b374c7b2e3ab12db52d7b15e697",
+        "time": 1372626489
+      }
+    ],
+    "commit": {
+      "hash": "63e87e1713459588f33844280de9821ba04e34c6",
+      "time": 1753866467
+    }
+  }
+}

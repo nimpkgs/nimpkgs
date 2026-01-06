@@ -1,0 +1,66 @@
+{
+  "name": "c2nim",
+  "url": "https://github.com/nim-lang/c2nim",
+  "method": "git",
+  "description": "c2nim is a tool to translate Ansi C code to Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/c2nim",
+  "tags": [
+    "app",
+    "binary",
+    "tool",
+    "header",
+    "C"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.19",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "c2nim"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.9.19",
+        "hash": "5753fa7658ed50432ea6c2df84f0a45e36bcb2ea",
+        "time": 1670663641
+      },
+      {
+        "tag": "0.9.18",
+        "hash": "e0ae7240e624bfbd7a2b213318b36f113a13cdeb",
+        "time": 1622276437
+      },
+      {
+        "tag": "0.9.17",
+        "hash": "2f2eaf92cfb41a5cfa2cdca3a8da72a1b1642cd9",
+        "time": 1622111262
+      },
+      {
+        "tag": "0.9.16",
+        "hash": "f3c9eb3bce9ff086546240e5b6f6c90c49d1fc0b",
+        "time": 1621976083
+      },
+      {
+        "tag": "0.9.15",
+        "hash": "ef7d1e0ca061d416d49f8b8b38e8afa92a78f1e0",
+        "time": 1621754457
+      }
+    ],
+    "commit": {
+      "hash": "835ba0e49242ce086d8cb7a8d943d92f179de352",
+      "time": 1756368986
+    }
+  }
+}

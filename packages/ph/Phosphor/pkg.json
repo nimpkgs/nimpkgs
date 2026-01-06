@@ -1,0 +1,34 @@
+{
+  "name": "Phosphor",
+  "url": "https://github.com/barcharcraz/Phosphor",
+  "method": "git",
+  "description": "eaiser use of OpenGL and GLSL shaders",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/Phosphor",
+  "tags": [
+    "library",
+    "opengl",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "opengl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "93b1061e179fe14b12573e8bc14ddaa04f193318",
+      "time": 1442103004
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "openurl",
+  "url": "https://github.com/foxoman/openurl",
+  "method": "git",
+  "description": "Open Any Url/File in the default App / WebBrowser.",
+  "license": "MIT",
+  "web": "https://github.com/foxoman/openurl",
+  "doc": "https://nimopenurl.surge.sh/openurl.html",
+  "tags": [
+    "open",
+    "url",
+    "uri"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.9.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.1"
+          }
+        }
+      ],
+      "bin": [
+        "openurl"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v2.0.4-1",
+        "hash": "7320ee9b6220c731a6e46f7e567d8d988ef783a1",
+        "time": 1672262660
+      },
+      {
+        "tag": "v2.0.4",
+        "hash": "54e750c89dec3201565ea5fe88022aab55bc1500",
+        "time": 1672262488
+      },
+      {
+        "tag": "v2.0.3",
+        "hash": "17f4d4f59cc31ddc4d0ad028850f68c32eb48ed9",
+        "time": 1657208341
+      },
+      {
+        "tag": "v2.0.2",
+        "hash": "598936c2a86104e676a81c48839defacfb3b83a3",
+        "time": 1656666537
+      },
+      {
+        "tag": "v2.0.1",
+        "hash": "682c6cce32d80f6a945f5e1ecd0b9076e2492ef6",
+        "time": 1656106145
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "e08f959c6ebfb53a757e6cf025eb441cacde0181",
+        "time": 1656086385
+      }
+    ],
+    "commit": {
+      "hash": "14825fb9a36543ea8519c6ab322c6eb430e21abf",
+      "time": 1743171864
+    }
+  }
+}

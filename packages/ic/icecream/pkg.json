@@ -1,0 +1,35 @@
+{
+  "name": "icecream",
+  "url": "https://github.com/hmbemba/icecream",
+  "method": "git",
+  "description": "nim port of the icecream python library",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/icecream",
+  "tags": [
+    "print",
+    "icecream",
+    "ic",
+    "echo"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "fe633e3f1f24201743e5738404327485db88ec42",
+      "time": 1703465164
+    }
+  }
+}

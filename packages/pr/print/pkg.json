@@ -1,0 +1,59 @@
+{
+  "name": "print",
+  "url": "https://github.com/treeform/print",
+  "method": "git",
+  "description": "Print is a set of pretty print macros, useful for print-debugging.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/print",
+  "tags": [
+    "pretty"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.2",
+        "hash": "fb09637d6ebd6416b322a2b9bb95dd513040dea7",
+        "time": 1637360112
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "1066127918e0bedc5b66a6a3571db6a5aacad4ee",
+        "time": 1629305102
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "98346282168ff99fc3656e28026c09bd77108c40",
+        "time": 1620237922
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "4c4b0a29ad0b8b08eb10d0960802e49f3e762905",
+        "time": 1610742315
+      },
+      {
+        "tag": "v0.1.0, 0.1.0",
+        "hash": "a9df499a441d997ab9c8658b014e84c561f5528a",
+        "time": 1568057051
+      }
+    ],
+    "commit": {
+      "hash": "159e540f0686efdd1c8f30ad7b4225a6aa2a5ab9",
+      "time": 1683764539
+    }
+  }
+}

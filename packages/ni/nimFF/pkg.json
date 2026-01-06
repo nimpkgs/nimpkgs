@@ -1,0 +1,57 @@
+{
+  "name": "nimFF",
+  "url": "https://github.com/egeoz/nimFF",
+  "method": "git",
+  "description": "Farbfeld Encoder and Decoder written in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/egeoz/nimFF",
+  "tags": [
+    "graphics",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.0"
+          }
+        },
+        {
+          "name": "binarylang",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "88cbe17fec34305c8506fb970d367847e361a85b",
+      "time": 1655402124
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "RingBuffer",
+  "url": "https://github.com/megawac/RingBuffer.nim.git",
+  "method": "git",
+  "description": "Circular buffer implementation",
+  "license": "MIT",
+  "web": "https://github.com/megawac/RingBuffer.nim",
+  "tags": [
+    "sequence",
+    "seq",
+    "circular",
+    "ring",
+    "buffer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "0505f70b48ad912161a7feb35efd71ebead2e97d",
+        "time": 1430971260
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "e4e0a73e91669778fb08b4339fc343131edaa755",
+        "time": 1430929786
+      },
+      {
+        "tag": "v0.1",
+        "hash": "a888df28ccae3b006bc40b0a2c4997c7573620fb",
+        "time": 1430923154
+      }
+    ],
+    "commit": {
+      "hash": "0505f70b48ad912161a7feb35efd71ebead2e97d",
+      "time": 1430971260
+    }
+  }
+}

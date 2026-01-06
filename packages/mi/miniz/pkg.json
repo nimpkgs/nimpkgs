@@ -1,0 +1,46 @@
+{
+  "name": "miniz",
+  "url": "https://github.com/treeform/miniz",
+  "method": "git",
+  "description": "Bindings for Miniz lib.",
+  "license": "MIT",
+  "tags": [
+    "zlib",
+    "zip",
+    "wrapper",
+    "compression"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "e99dc20c36a86576d983dfa14cf1db2439193861",
+        "time": 1603901305
+      },
+      {
+        "tag": "v0.1.0, 0.1.0",
+        "hash": "c424ca808e2eb91382921b4a070862cd9e16d822",
+        "time": 1534816995
+      }
+    ],
+    "commit": {
+      "hash": "78852d53fb408432383c2e9bb625224f156c7b96",
+      "time": 1633028667
+    }
+  }
+}

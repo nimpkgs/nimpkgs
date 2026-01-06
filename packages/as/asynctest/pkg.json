@@ -1,0 +1,102 @@
+{
+  "name": "asynctest",
+  "url": "https://github.com/markspanbroek/asynctest",
+  "method": "git",
+  "description": "Test asynchronous code",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/asynctest",
+  "tags": [
+    "test",
+    "unittest",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.4",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.5.4",
+        "hash": "572c897a4e1177e905105a3bafe8c5573d9bae83",
+        "time": 1744101526
+      },
+      {
+        "tag": "0.5.3",
+        "hash": "73c08f77afc5cc2a5628d00f915b97bf72f70c9b",
+        "time": 1742579552
+      },
+      {
+        "tag": "0.5.2",
+        "hash": "32df0f19d6e0e6f84c762cf8de7361ddb419f4ba",
+        "time": 1723623111
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "8e2f4e73b97123be0f0041c129942b32df23ecb1",
+        "time": 1704888887
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "98f99df4b44cb4698f7335167d8828b986b6043f",
+        "time": 1704796962
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "9f31323a5f38bf9d7402676f8171aceea45fa091",
+        "time": 1702665132
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "048d8e419e50e1acd488ecc749caeeb654fd8f35",
+        "time": 1693236903
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "fe1a34caf572b05f8bdba3b650f1871af9fce31e",
+        "time": 1689067554
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "e29612543eb6c7148e848e163441ac8035717eee",
+        "time": 1687421563
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "a236a5f0f3031573ac2cb082b63dbf6e170e06e7",
+        "time": 1658394047
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "5347c59b4b057443a014722aa40800cd8bb95c69",
+        "time": 1646123143
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "3882ed64ed3159578f796bc5ae0c6b13837fe798",
+        "time": 1625646997
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "a7f3ae942889b3472a0083951654e937dfe935cc",
+        "time": 1610383315
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "737f01326c2184f1aca8d201520dabd46e11fc39",
+        "time": 1610382535
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "195f8cf668938e691e7e4a3126bf993c8d203008",
+        "time": 1610371416
+      }
+    ],
+    "commit": {
+      "hash": "572c897a4e1177e905105a3bafe8c5573d9bae83",
+      "time": 1744101526
+    }
+  }
+}

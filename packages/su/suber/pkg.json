@@ -1,0 +1,63 @@
+{
+  "name": "suber",
+  "url": "https://github.com/olliNiinivaara/Suber",
+  "method": "git",
+  "description": "Pub/Sub engine",
+  "license": "MIT",
+  "web": "https://github.com/olliNiinivaara/Suber",
+  "tags": [
+    "publish",
+    "subscribe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "stashtable",
+          "str": ">= 1.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "2.0.1",
+        "hash": "52da55cda38d4ddc5417f8ebd124c95b3589fdcf",
+        "time": 1631013505
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "459010f2edaeee194beb0492cd57c116ddec6e8f",
+        "time": 1628516294
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "a2cb9dbf162ae07fcaebed3475a0efac12f1371c",
+        "time": 1623846534
+      },
+      {
+        "tag": "0.9.9",
+        "hash": "e4212123c5b99e0a7fb6669fcd1e3f738c474c26",
+        "time": 1616060471
+      }
+    ],
+    "commit": {
+      "hash": "52da55cda38d4ddc5417f8ebd124c95b3589fdcf",
+      "time": 1631013505
+    }
+  }
+}

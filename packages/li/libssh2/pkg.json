@@ -1,0 +1,65 @@
+{
+  "name": "libssh2",
+  "url": "https://github.com/ba0f3/libssh2.nim",
+  "method": "git",
+  "description": "Nim wrapper for libssh2",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/libssh2.nim",
+  "tags": [
+    "lib",
+    "ssh",
+    "ssh2",
+    "openssh",
+    "client",
+    "sftp",
+    "scp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "a5cf5180cddf864b1bddbb0d35b3b5c499160176",
+        "time": 1742383178
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "2ca912809729a1df5be49727d08d390b4f8cdb50",
+        "time": 1714449321
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "f1d5bf02d3a2f5b7c173e7a13336a9d3f1109346",
+        "time": 1708657668
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "7c8e5690711bd4dd2caa2753e710bb1ccb585ee0",
+        "time": 1650809287
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "fe83d73c53c7fc71e1b650cbb42be538f94ae956",
+        "time": 1647420282
+      }
+    ],
+    "commit": {
+      "hash": "a570d088d7597d1f9e69d59445c71a585a0f5817",
+      "time": 1742383359
+    }
+  }
+}

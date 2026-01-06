@@ -1,0 +1,25 @@
+{
+  "name": "sfml",
+  "url": "https://github.com/fowlmouth/nimrod-sfml/",
+  "method": "git",
+  "description": "High level OpenGL-based Game Library",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimrod-sfml",
+  "tags": [
+    "game",
+    "library",
+    "opengl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "304b37b024ec41f41f1ebf74720539b04726dcc9",
+      "time": 1425889232
+    }
+  }
+}

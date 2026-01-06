@@ -1,0 +1,87 @@
+{
+  "name": "uibuilder",
+  "url": "https://github.com/ba0f3/uibuilder.nim",
+  "method": "git",
+  "description": "UI building with Gnome's Glade",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/uibuilder.nim",
+  "tags": [
+    "ui",
+    "builder",
+    "libui",
+    "designer",
+    "gtk",
+    "gnome",
+    "glade",
+    "interface",
+    "gui",
+    "linux",
+    "windows",
+    "osx",
+    "mac",
+    "native",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        },
+        {
+          "name": "ui",
+          "str": ">= 0.9.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.2"
+          }
+        },
+        {
+          "name": "xml",
+          "str": "#devel",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "uibuilder"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "a2a8189eb9e75592dac634c21cf974b1c028b1f2",
+        "time": 1534494718
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "2345853554620e8d05cf8228dce053f116261871",
+        "time": 1534472739
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "1ec0d7e9c739438a581471c1804a153c0f9831ba",
+        "time": 1534404392
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "b62e03700b8f388b6707081640eeca6af5371b2c",
+        "time": 1534232798
+      }
+    ],
+    "commit": {
+      "hash": "8418698fcb824ab452b7f936d19fe464e6fec714",
+      "time": 1563979825
+    }
+  }
+}

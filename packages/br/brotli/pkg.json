@@ -1,0 +1,44 @@
+{
+  "name": "brotli",
+  "url": "https://github.com/neroist/brotli",
+  "method": "git",
+  "description": "Brotli compression & decompression for Nim",
+  "license": "MIT",
+  "web": "https://github.com/neroist/brotli",
+  "doc": "https://neroist.github.io/brotli",
+  "tags": [
+    "brotli",
+    "compression",
+    "decompression",
+    "bindings",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "685b95113341555443835d0363a1889fbc3a72ff",
+        "time": 1721628302
+      }
+    ],
+    "commit": {
+      "hash": "645427cd18a67165fad4a5e2b066766c3ab026f1",
+      "time": 1746177730
+    }
+  }
+}

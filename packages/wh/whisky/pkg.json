@@ -1,0 +1,54 @@
+{
+  "name": "whisky",
+  "url": "https://github.com/guzba/whisky",
+  "method": "git",
+  "description": "A blocking WebSocket client",
+  "license": "MIT",
+  "web": "https://github.com/guzba/whisky",
+  "tags": [
+    "websockets"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.3",
+        "hash": "774f3274f5dc2c738f36e19d22291eca344b9f8e",
+        "time": 1687528051
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "11c3b73c6232928afd50ad9492f17ae238467c7c",
+        "time": 1684771125
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "1f0037e314211361df6a1ca5afad4b14714f3aea",
+        "time": 1680736047
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a3c92f6a2e3589454bcb5507539aacb06524e9d5",
+        "time": 1680719429
+      }
+    ],
+    "commit": {
+      "hash": "cc07274944e766676157791774069d020c378d5b",
+      "time": 1693247858
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "science",
+  "url": "https://github.com/ruivieira/nim-science",
+  "method": "git",
+  "description": "A library for scientific computations in pure Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/ruivieira/nim-science",
+  "tags": [
+    "science",
+    "algebra",
+    "statistics",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "58dffe403b50e5fcbc65a493d0e7628ed8f952ea",
+        "time": 1557217143
+      }
+    ],
+    "commit": {
+      "hash": "6a0bba45d0fc75a295f178924a88e2866018ddab",
+      "time": 1557217385
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "name": "vmath",
+  "url": "https://github.com/treeform/vmath",
+  "method": "git",
+  "description": "Collection of math routines for 2d and 3d graphics.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/vmath",
+  "tags": [
+    "math",
+    "graphics",
+    "2d",
+    "3d"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "2.0.1",
+        "hash": "ddfcd738578c47ed3330b917f5efecf5a15128b2",
+        "time": 1761608317
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "7282ae1247f2f384ebeaec3826d7fa38fd0e1df1",
+        "time": 1683869163
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "f4c668874e48e9153d52c4d098f8202e5abec8a9",
+        "time": 1659983995
+      },
+      {
+        "tag": "1.1.4",
+        "hash": "1110b97fac745feb458aa44164e8456e2777c16d",
+        "time": 1648833144
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "dd5d263ab001b94ea7b76c0d8ee1fb60f4da07d9",
+        "time": 1647639539
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "c5ef40ae9ffcd25ceafab7df17e48113b9515172",
+        "time": 1637476052
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "7082ed64529ccb2206761a2bb124d26d1df9a6f2",
+        "time": 1634018169
+      },
+      {
+        "tag": "1.0.11",
+        "hash": "0910ea5c0a3a5d37f8245a31ac25b616a4b99d0f",
+        "time": 1630862673
+      },
+      {
+        "tag": "1.0.10",
+        "hash": "1448f8860a28c661195061fae7a85452937782ab",
+        "time": 1626145737
+      },
+      {
+        "tag": "1.0.9",
+        "hash": "b2877a9cded1a0b507a668a58d61f716974af069",
+        "time": 1624066501
+      },
+      {
+        "tag": "1.0.8",
+        "hash": "693002bacd3727399a4ccf2f7e135ee8cba21740",
+        "time": 1622310946
+      },
+      {
+        "tag": "1.0.7",
+        "hash": "b355ff2a28a44e1d6142cc86aab28e1c4a0e8b8b",
+        "time": 1622305779
+      },
+      {
+        "tag": "1.0.6",
+        "hash": "8debf1f6a12a011e3cba70ed2cfb9554e9d4c2b7",
+        "time": 1620497415
+      },
+      {
+        "tag": "1.0.5",
+        "hash": "8619b9aea40a70164f3de309443c20bb7f5fd0b3",
+        "time": 1620496932
+      },
+      {
+        "tag": "1.0.4",
+        "hash": "b1722b9fa4d48f707f17de2ced6c242d08ac4449",
+        "time": 1619583333
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "19eb9dd33044b85b4432632d32f33693ed6ba81f",
+        "time": 1618789848
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "9cdf152ec7129666b53ac4c2421f5df085038a81",
+        "time": 1616798016
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "a4662ebf0a35ba4697ca5284077e74149ae896cb",
+        "time": 1616796996
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "0f80873e58e4d921f3e3ae1fb8a701d760d702c6",
+        "time": 1616792301
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "6fa95402dadd0f8e7efdafb316dce4b5bf9e8ca3",
+        "time": 1614491455
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "23e88bb951c845e8b1558e1b5fb0dd5a225781ab",
+        "time": 1609988962
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "a143105720fb8a61210b55672f8fda258333a07e",
+        "time": 1607651111
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "6890c72cfce1d2d9a36e18bb14215c0840b74d68",
+        "time": 1606018730
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "210c3fa128eba46fee1d689a435708112dbb1170",
+        "time": 1605406588
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "ee9a1f8c88cefcb90780904c874a49b3f75ab00f",
+        "time": 1588826336
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "9602785efe8212c73bd5f69c5eadb7436f6c985c",
+        "time": 1583643414
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "adbd4a6849c964c9b9dfab2ff1437dfc6f864073",
+        "time": 1583637961
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "b84d23be05ff0824d99f61897c7325a3e74f2360",
+        "time": 1574040936
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "c66c1ee9b39aa19988d86a70f4d7ff5de0b3273d",
+        "time": 1571323343
+      }
+    ],
+    "commit": {
+      "hash": "b1cb7ec85f6e7690cf1261227cd2d552275e3e53",
+      "time": 1766073142
+    }
+  }
+}

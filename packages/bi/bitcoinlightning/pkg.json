@@ -1,0 +1,32 @@
+{
+  "name": "bitcoinlightning",
+  "url": "https://github.com/juancarlospaco/bitcoin-lightning",
+  "method": "git",
+  "description": "Bitcoin Lightning client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/bitcoin-lightning",
+  "tags": [
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7e0f7eaad982175f559daed3fde608566b33bd96",
+      "time": 1719930917
+    }
+  }
+}

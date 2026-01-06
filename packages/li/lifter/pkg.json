@@ -1,0 +1,36 @@
+{
+  "name": "lifter",
+  "url": "https://github.com/thing-king/lifter",
+  "method": "git",
+  "description": "Lifts compile-time object to AST",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/lifter",
+  "tags": [
+    "object",
+    "ast",
+    "type",
+    "convert",
+    "lift"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "37d074715568685efefd2358a45c91cb3ba291b1",
+      "time": 1760569876
+    }
+  }
+}

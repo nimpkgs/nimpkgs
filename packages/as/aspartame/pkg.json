@@ -1,0 +1,51 @@
+{
+  "name": "aspartame",
+  "url": "https://git.sr.ht/~xigoi/aspartame",
+  "method": "git",
+  "description": "More syntactic sugar for Nim",
+  "license": "GPL-3.0-or-later",
+  "web": "https://git.sr.ht/~xigoi/aspartame",
+  "tags": [
+    "syntax",
+    "sugar",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2023.324.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "2023.324.0",
+        "hash": "46b2f4eeaa72be7e058a1777673f3a7c420e85ee",
+        "time": 1679646253
+      },
+      {
+        "tag": "2023.1.19",
+        "hash": "e449e4ed59611b3431f032907b7e1d2db051c95e",
+        "time": 1674135373
+      },
+      {
+        "tag": "2022.11.23",
+        "hash": "2a0d1b02bc8150b56148b071a3b5a22d9a027977",
+        "time": 1669206118
+      }
+    ],
+    "commit": {
+      "hash": "46b2f4eeaa72be7e058a1777673f3a7c420e85ee",
+      "time": 1679646253
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "sequtils2",
+  "url": "https://github.com/Michedev/sequtils2",
+  "method": "git",
+  "description": "Additional functions for sequences that are not present in sequtils",
+  "license": "MIT",
+  "web": "https://htmlpreview.github.io/?https://github.com/Michedev/sequtils2/blob/master/sequtils2.html",
+  "tags": [
+    "library",
+    "sequence",
+    "string",
+    "openArray",
+    "functional"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.1.0",
+        "hash": "7efcb0e34c583e73f34f6f407cb173f58ae79846",
+        "time": 1569516358
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "07e33d5ab72ca699427f42b39ae8d4af63fd17f2",
+        "time": 1512140983
+      }
+    ],
+    "commit": {
+      "hash": "7efcb0e34c583e73f34f6f407cb173f58ae79846",
+      "time": 1569516358
+    }
+  }
+}

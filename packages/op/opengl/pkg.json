@@ -1,0 +1,97 @@
+{
+  "name": "opengl",
+  "url": "https://github.com/nim-lang/opengl",
+  "method": "git",
+  "description": "High-level and low-level wrapper for OpenGL",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/opengl",
+  "tags": [
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        },
+        {
+          "name": "x11",
+          "str": ">= 1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.2.9",
+        "hash": "8e2e098f82dc5eefd874488c37b5830233cd18f4",
+        "time": 1696569934
+      },
+      {
+        "tag": "1.2.8",
+        "hash": "84bd93b2440b9a8144d7430d23d6c0496737975d",
+        "time": 1685590681
+      },
+      {
+        "tag": "1.2.7",
+        "hash": "57e01c58741066e8dae7eb19929f85b1d7c83bf8",
+        "time": 1678597471
+      },
+      {
+        "tag": "1.2.6",
+        "hash": "a6fb649e5bd94d8420d4a11287092a4dc3e922b4",
+        "time": 1588085036
+      },
+      {
+        "tag": "1.2.5",
+        "hash": "9e1a6a276590e546875425136841a968d69e4639",
+        "time": 1587974754
+      },
+      {
+        "tag": "1.2.4",
+        "hash": "d905d2de56c45ccae64dc292296be5d7f849c76d",
+        "time": 1587974315
+      },
+      {
+        "tag": "1.2.3",
+        "hash": "648d972e526173acb8f0697a7f31643ec714d61f",
+        "time": 1569760441
+      },
+      {
+        "tag": "v1.2.2",
+        "hash": "5719e4b3f923f380169c4b349314ce992a7c92b6",
+        "time": 1561288840
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "043c91e4fb58e9a3fc478a69abb0ee405c819a6f",
+        "time": 1538434027
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "48a97a03990d841a7c29432539ecf32d4f34df36",
+        "time": 1469804032
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "f7f902b62d9565810bfaae9d39e38fbf573db17b",
+        "time": 1454724786
+      }
+    ],
+    "commit": {
+      "hash": "8e2e098f82dc5eefd874488c37b5830233cd18f4",
+      "time": 1696569934
+    }
+  }
+}

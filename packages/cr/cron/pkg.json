@@ -1,0 +1,85 @@
+{
+  "name": "cron",
+  "url": "https://github.com/c-blake/cron",
+  "method": "git",
+  "description": "Library to ease writing cron-like programs",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/cron",
+  "tags": [
+    "cron",
+    "scheduled-tasks",
+    "task-scheduler",
+    "periodic-jobs",
+    "jobs",
+    "demon",
+    "daemon"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.9.3",
+        "hash": "1e42e55312ab1b52dc00860b0caeacde468d6d99",
+        "time": 1752943145
+      },
+      {
+        "tag": "0.9.2",
+        "hash": "293c6aa81e70375e1b5711ca0bca7d5a6df631e5",
+        "time": 1749044845
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "e73eefe3e7cc61c438d06fb85a3c205f335046a3",
+        "time": 1740086600
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "4441513aeb069bfb6aaf9200c1fee2e6128acf26",
+        "time": 1734264654
+      },
+      {
+        "tag": "0.8.1",
+        "hash": "0ab8f7b1d8df0cb15889aeb4243037f56a2e9c9a",
+        "time": 1717761049
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "76f68afe2dbc8c129350eb4805440dec5dc225fe",
+        "time": 1700575265
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "e5c436915687e5667a65a3770bc34ecf469c0f1d",
+        "time": 1682103745
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "ca78c5735d8f6ac4d5dee0dafbb51ddc8649d453",
+        "time": 1681215595
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "66ddf7e62f6e023e8f9846ff5d631c7aa38472e9",
+        "time": 1680965388
+      }
+    ],
+    "commit": {
+      "hash": "1e42e55312ab1b52dc00860b0caeacde468d6d99",
+      "time": 1752943145
+    }
+  }
+}

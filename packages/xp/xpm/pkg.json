@@ -1,0 +1,33 @@
+{
+  "name": "xpm",
+  "url": "https://github.com/juancarlospaco/xpm",
+  "method": "git",
+  "description": "X-Pixmap & NetPBM",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/xpm",
+  "tags": [
+    "netpbm",
+    "xpm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6c46c93f28e54a466b76acf4689f17451f64c68b",
+      "time": 1585779413
+    }
+  }
+}

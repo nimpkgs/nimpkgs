@@ -1,0 +1,51 @@
+{
+  "name": "lmdb",
+  "url": "https://github.com/FedericoCeratto/nim-lmdb",
+  "method": "git",
+  "description": "A wrapper for LMDB the Lightning Memory-Mapped Database",
+  "license": "OpenLDAP",
+  "web": "https://github.com/FedericoCeratto/nim-lmdb",
+  "tags": [
+    "wrapper",
+    "lmdb",
+    "key-value"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "88e384acc3f0d7bb627dc0a0602d1f451fd34e35",
+        "time": 1570875956
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "7976126cce3eabe58cf6aef099382f3bbcf2dc3f",
+        "time": 1550440922
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "6ccc92cb92841aca9bad5426076840f8aed04c8d",
+        "time": 1550345242
+      }
+    ],
+    "commit": {
+      "hash": "88e384acc3f0d7bb627dc0a0602d1f451fd34e35",
+      "time": 1570875956
+    }
+  }
+}

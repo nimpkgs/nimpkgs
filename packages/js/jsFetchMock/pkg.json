@@ -1,0 +1,48 @@
+{
+  "name": "jsFetchMock",
+  "url": "https://github.com/thisago/jsfetchMock",
+  "method": "git",
+  "description": "A simple lib to intercept Javascript fetch to capture or edit the data",
+  "license": "MIT",
+  "web": "https://github.com/thisago/jsfetchMock",
+  "tags": [
+    "web",
+    "js",
+    "mock",
+    "fetch",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "7ce1aab6072b5093b85414a8fe863d218abdc52e",
+        "time": 1678839253
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "232badd3265b440d783904788b56f4c2fe3cbf08",
+        "time": 1678837210
+      }
+    ],
+    "commit": {
+      "hash": "7ce1aab6072b5093b85414a8fe863d218abdc52e",
+      "time": 1678839253
+    }
+  }
+}

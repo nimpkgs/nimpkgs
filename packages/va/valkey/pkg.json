@@ -1,0 +1,43 @@
+{
+  "name": "valkey",
+  "url": "https://github.com/pshankinclarke/valkey-nim",
+  "method": "git",
+  "description": "Pure Nim async client for Valkey (Redis-compatible database), forked from nim-lang/redis",
+  "license": "MIT",
+  "web": "https://github.com/pshankinclarke/valkey-nim",
+  "tags": [
+    "valkey",
+    "redis",
+    "database",
+    "driver",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "72e58618a384dd302d43294d1bab26325c6f115a",
+        "time": 1765506774
+      }
+    ],
+    "commit": {
+      "hash": "28f4ddac3710d5a8031b6b947ab569efadda113c",
+      "time": 1765842383
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "subscribestar",
+  "url": "https://github.com/thisago/subscribestar",
+  "method": "git",
+  "description": "Subscribestar extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/subscribestar",
+  "tags": [
+    "web",
+    "library",
+    "scraper",
+    "data",
+    "extracting"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "useragent",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e37f996987464eab95e6a4bbe21535653ab178b0",
+      "time": 1678787326
+    }
+  }
+}

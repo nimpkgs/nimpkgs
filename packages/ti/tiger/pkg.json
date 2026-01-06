@@ -1,0 +1,49 @@
+{
+  "name": "tiger",
+  "url": "https://git.sr.ht/~ehmry/nim_tiger",
+  "method": "git",
+  "description": "Tiger hash function",
+  "license": "MIT",
+  "web": "https://git.sr.ht/~ehmry/nim_tiger",
+  "tags": [
+    "hash"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "017f0ce5f66f567acabd932b73c4f41ae7257084",
+        "time": 1560756301
+      },
+      {
+        "tag": "v0.2",
+        "hash": "619c6008bd8346622ced99b975f8754e5c9dc96b",
+        "time": 1560602669
+      },
+      {
+        "tag": "v0.1",
+        "hash": "377467093fe052e804b2d42bb11c8a0b5bcbcafd",
+        "time": 1496863240
+      }
+    ],
+    "commit": {
+      "hash": "c81b088704b09ff08304bbc0211ac9b22e1bb77e",
+      "time": 1570718449
+    }
+  }
+}

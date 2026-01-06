@@ -1,0 +1,49 @@
+{
+  "name": "nimtk",
+  "url": "https://github.com/neroist/nimtk",
+  "method": "git",
+  "description": "High-level Tk wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/neroist/nimtk",
+  "tags": [
+    "gui",
+    "ui",
+    "tcl",
+    "tk",
+    "tkinter",
+    "wrapper",
+    "cross-platform",
+    "windows",
+    "linux",
+    "macosx"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimtcl",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c4fce10fe329faecb450d4a4796e0ef219208f26",
+      "time": 1717638173
+    }
+  }
+}

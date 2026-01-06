@@ -1,0 +1,34 @@
+{
+  "name": "ffpass",
+  "url": "https://github.com/bunkford/ffpass",
+  "method": "git",
+  "description": "Api Calls for Ford vehicles equipped with the fordpass app.",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/ffpass",
+  "doc": "https://bunkford.github.io/ffpass/docs/ffpass.html",
+  "tags": [
+    "automotive",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e765b10d265735846868041c4c285dce10550889",
+      "time": 1637850421
+    }
+  }
+}

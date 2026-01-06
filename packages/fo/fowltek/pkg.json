@@ -1,0 +1,36 @@
+{
+  "name": "fowltek",
+  "url": "https://github.com/fowlmouth/nimlibs/",
+  "method": "git",
+  "description": "A collection of reusable modules and wrappers.",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimlibs",
+  "tags": [
+    "game",
+    "opengl",
+    "wrappers",
+    "library",
+    "assorted"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.9.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "c8db2ab0acc505d63f26c15d525e01fa970a8cf6",
+      "time": 1433253589
+    }
+  }
+}

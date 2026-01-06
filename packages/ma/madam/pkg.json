@@ -1,0 +1,71 @@
+{
+  "name": "madam",
+  "url": "https://github.com/openpeeps/madam",
+  "method": "git",
+  "description": "Local webserver for Design Prototyping and Front-end Development",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/madam",
+  "tags": [
+    "frontend",
+    "webserver",
+    "httpbeast",
+    "prototyping",
+    "frontend-development"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nyml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "tim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "httpx",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "madam"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "3823078f89ae7437a75ca5bd618c56b9964c648b",
+      "time": 1685824059
+    }
+  }
+}

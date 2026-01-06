@@ -1,0 +1,45 @@
+{
+  "name": "jester2swagger",
+  "url": "https://github.com/ThomasTJdev/jester2swagger",
+  "method": "git",
+  "description": "Converts a file with Jester routes to Swagger JSON which can be imported in Postman.",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/jester2swagger",
+  "tags": [
+    "jester",
+    "swagger",
+    "postman"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.3"
+          }
+        }
+      ],
+      "bin": [
+        "jester2swagger"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "88dd86859c47730773f4507d7a986a1c0fc7963a",
+      "time": 1638005395
+    }
+  }
+}

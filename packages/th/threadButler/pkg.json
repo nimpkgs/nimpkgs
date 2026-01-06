@@ -1,0 +1,69 @@
+{
+  "name": "threadButler",
+  "url": "https://github.com/PhilippMDoerner/Appster",
+  "method": "git",
+  "description": "Use threads as if they were servers/microservices to enable multi-threading with a simple mental model.",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/Appster",
+  "tags": [
+    "channels",
+    "multithreading",
+    "parallelism",
+    "message-passing",
+    "client-server",
+    "library",
+    "alpha"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "taskpools",
+          "str": ">= 0.0.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.5"
+          }
+        },
+        {
+          "name": "owlkettle",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "1594cf60d932cb342586f1f8f1d9d6a33137e775",
+        "time": 1703434103
+      }
+    ],
+    "commit": {
+      "hash": "55ceaca43edb7c4066178330f5e8a234f9a6868d",
+      "time": 1707129509
+    }
+  }
+}

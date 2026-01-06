@@ -1,0 +1,19 @@
+{
+  "name": "wpspin",
+  "url": "https://github.com/drygdryg/wpspin-nim",
+  "method": "git",
+  "description": "Full-featured WPS PIN generator",
+  "license": "MIT",
+  "web": "https://github.com/drygdryg/wpspin-nim",
+  "tags": [
+    "security",
+    "network",
+    "wireless",
+    "wifi",
+    "wps",
+    "tool"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

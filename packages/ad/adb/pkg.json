@@ -1,0 +1,34 @@
+{
+  "name": "adb",
+  "url": "https://github.com/nimbackup/nim-adb",
+  "method": "git",
+  "description": "ADB protocol implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/nim-adb",
+  "tags": [
+    "adb",
+    "protocol",
+    "android"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "837450b5b703ff3ca8d3995f2927ea45d65056d2",
+      "time": 1579776278
+    }
+  }
+}

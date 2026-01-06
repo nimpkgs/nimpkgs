@@ -1,0 +1,25 @@
+{
+  "name": "lazy",
+  "url": "https://github.com/petermora/nimLazy/",
+  "method": "git",
+  "description": "Iterator library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/petermora/nimLazy",
+  "tags": [
+    "library",
+    "iterator",
+    "lazy list"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "dbd392ecd5ddd3f43233bbafbd7071cec7a00699",
+      "time": 1456009563
+    }
+  }
+}

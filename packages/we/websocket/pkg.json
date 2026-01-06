@@ -1,0 +1,123 @@
+{
+  "name": "websocket",
+  "url": "https://github.com/niv/websocket.nim",
+  "method": "git",
+  "description": "websockets for nim",
+  "license": "MIT",
+  "web": "https://github.com/niv/websocket.nim",
+  "tags": [
+    "http",
+    "websockets",
+    "async",
+    "client",
+    "server"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.5.2",
+        "hash": "405f49382fbd482901a3d72bd7775569ae433413",
+        "time": 1670145016
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "b889d2f8bdb81fd800fb203866cf4b1f7a31c451",
+        "time": 1660564112
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "28cc44c8defc0b248b3abbc8205759b69a98f7f6",
+        "time": 1588439356
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "b24634144ef53f5b016b1e9ec7dcf9096a50de80",
+        "time": 1588360336
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "58fece6f85cae48e17a110bddeb6f6579a91e2a6",
+        "time": 1563571762
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "4fdd6a63d9ccf51d6dac2cffa498fcd2ca3ac32a",
+        "time": 1563266678
+      },
+      {
+        "tag": "0.3.6",
+        "hash": "edb2d41b08d97f77a154236a8cc5ec9da6c633c5",
+        "time": 1562974739
+      },
+      {
+        "tag": "0.3.5",
+        "hash": "62057bf43fef9c4a4ad42d5eebb8c2495ffc464c",
+        "time": 1548597436
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "5b9b05986615ca6b74a936d06b6013b6a9838a8a",
+        "time": 1538588180
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "a2e2674c1ba94941a4bd6608ec77d55cc68a7414",
+        "time": 1536780865
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "0cf2c2becfdcd2968e255b6dff6457ad80c66158",
+        "time": 1535651536
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "473313f18eca62ff96a8dd1b460a35e1f678b1ca",
+        "time": 1526319765
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "7a02aebf332758864ac58516d72a98e2aabf7899",
+        "time": 1524071723
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "760e2c46e1f2b588765a16c1d9628c7d656b57a4",
+        "time": 1488318347
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "bcc87643753021277550109fd59d8f3d4dbffbe6",
+        "time": 1488201436
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "482de09aaf2feb874234afbddc6117a9a07c4816",
+        "time": 1460831227
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a69b1afed201fe010707f4f811fedf10e5509b07",
+        "time": 1460658299
+      }
+    ],
+    "commit": {
+      "hash": "405f49382fbd482901a3d72bd7775569ae433413",
+      "time": 1670145016
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "harpoon",
+  "url": "https://github.com/juancarlospaco/harpoon",
+  "method": "git",
+  "description": "HTTP Client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/harpoon",
+  "tags": [
+    "http",
+    "curl",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.666",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9efebc8d7b67a00cbf88b53ffb60303da8c42d56",
+      "time": 1644423417
+    }
+  }
+}

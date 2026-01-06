@@ -1,0 +1,34 @@
+{
+  "name": "tweens",
+  "url": "https://github.com/RainbowAsteroids/tweens",
+  "method": "git",
+  "description": "Basic tweening library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/RainbowAsteroids/tweens",
+  "tags": [
+    "tween",
+    "math",
+    "animation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "24be719fc4699b42b308e256fc468a0301d05e8e",
+      "time": 1615834677
+    }
+  }
+}

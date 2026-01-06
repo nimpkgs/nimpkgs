@@ -1,0 +1,42 @@
+{
+  "name": "tecs",
+  "url": "https://github.com/Timofffee/tecs.nim",
+  "method": "git",
+  "description": "Simple ECS implementation for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Timofffee/tecs.nim",
+  "doc": "https://timofffee.github.io/tecs.nim/tecs.html",
+  "tags": [
+    "game",
+    "ecs",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1",
+        "hash": "967becf796fc2638d72486dc709a7af321b8fb23",
+        "time": 1636384435
+      }
+    ],
+    "commit": {
+      "hash": "967becf796fc2638d72486dc709a7af321b8fb23",
+      "time": 1636384435
+    }
+  }
+}

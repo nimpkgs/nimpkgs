@@ -1,0 +1,49 @@
+{
+  "name": "packedjson",
+  "url": "https://github.com/Araq/packedjson",
+  "method": "git",
+  "description": "packedjson is an alternative Nim implementation for JSON. The JSON is essentially kept as a single string in order to save memory over a more traditional tree representation.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/packedjson",
+  "tags": [
+    "json"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "d11d167905f65935e31772c1edec88ca8fe055e2",
+        "time": 1607177406
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "7198cc8d3385d5392b8fb6bb90a9feb24b2dddbf",
+        "time": 1587975845
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "bfcc97b215b1c39137c63a27f1b20144e02dc34a",
+        "time": 1526599649
+      }
+    ],
+    "commit": {
+      "hash": "02e2b1a590a32f6f3ddb25e988045aeb8acf691a",
+      "time": 1672564056
+    }
+  }
+}

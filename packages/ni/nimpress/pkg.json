@@ -1,0 +1,72 @@
+{
+  "name": "nimpress",
+  "url": "https://github.com/mpinese/nimpress",
+  "method": "git",
+  "description": "Fast and simple calculation of polygenic scores",
+  "license": "MIT",
+  "web": "https://github.com/mpinese/nimpress/",
+  "tags": [
+    "dna",
+    "genetics",
+    "genomics",
+    "gwas",
+    "polygenic",
+    "risk",
+    "vcf"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.8"
+          }
+        },
+        {
+          "name": "hts",
+          "str": ">= 0.2.21",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.21"
+          }
+        },
+        {
+          "name": "lapper",
+          "str": ">= 0.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.5"
+          }
+        }
+      ],
+      "bin": [
+        "nimpress"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "5b7f150565b93852396f2ab8fcd2864422825340",
+        "time": 1606037638
+      }
+    ],
+    "commit": {
+      "hash": "5b7f150565b93852396f2ab8fcd2864422825340",
+      "time": 1606037638
+    }
+  }
+}

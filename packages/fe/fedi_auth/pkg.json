@@ -1,0 +1,44 @@
+{
+  "name": "fedi_auth",
+  "url": "https://codeberg.org/pswilde/fedi_auth",
+  "method": "git",
+  "description": "A basic library to authenticate to fediverse instances",
+  "license": "GPLv3",
+  "web": "https://codeberg.org/pswilde/fedi_auth",
+  "tags": [
+    "library",
+    "fediverse",
+    "mastodon",
+    "gotosocial",
+    "pleroma",
+    "mastoapi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "472c63cb98ab5a83378f9e8e2927de5c6d1286da",
+        "time": 1695829620
+      }
+    ],
+    "commit": {
+      "hash": "472c63cb98ab5a83378f9e8e2927de5c6d1286da",
+      "time": 1695829620
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "googleapi",
+  "url": "https://github.com/treeform/googleapi",
+  "method": "git",
+  "description": "Google API for nim",
+  "license": "MIT",
+  "web": "https://github.com/treeform/googleapi",
+  "tags": [
+    "jwt",
+    "google"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "jwt",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "9d87a329825cc3c7fb11a7ce68829aa3d329d64a",
+        "time": 1694101938
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "70a04f1d6bc9542eab3107a272392811ec3a3fb8",
+        "time": 1641939928
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "b0411e1e1164a75c80a96fcd99d7bc6db89671df",
+        "time": 1637352142
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "5431a4e2c79b2b90a0eae9af3496bcc79d8e3f18",
+        "time": 1611118843
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "bbb68569afa2938fb2503ef6f79551216e3294a3",
+        "time": 1611118234
+      },
+      {
+        "tag": "v0.1.0, 0.1.0",
+        "hash": "e2153b7ffe9c916656bf78ba05fa9e683265710e",
+        "time": 1579208122
+      }
+    ],
+    "commit": {
+      "hash": "4f23aba8546365dada9f9f53a3c43efa4f449013",
+      "time": 1698973970
+    }
+  }
+}

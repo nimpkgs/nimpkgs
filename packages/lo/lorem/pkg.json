@@ -1,0 +1,38 @@
+{
+  "name": "lorem",
+  "url": "https://github.com/neroist/lorem",
+  "method": "git",
+  "description": "Nim library that generates \"Lorem ipsum\" text.",
+  "license": "MIT",
+  "web": "https://github.com/neroist/lorem",
+  "doc": "https://neroist.github.io/lorem/lorem.html",
+  "tags": [
+    "lorem-ipsum",
+    "lorem",
+    "ipsum",
+    "text-generator",
+    "text-generation",
+    "random"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8d7284313556406fe48f7d3c917f48432a6a65f0",
+      "time": 1683685865
+    }
+  }
+}

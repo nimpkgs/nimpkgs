@@ -1,0 +1,44 @@
+{
+  "name": "webtokens",
+  "url": "https://github.com/openpeeps/webtokens",
+  "method": "git",
+  "description": "JSON Web Token Library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/webtokens",
+  "tags": [
+    "jwt",
+    "json",
+    "token",
+    "webtoken",
+    "jwk",
+    "jwe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "c306a4a327e89ee856f34c914298d5c54e1efef9",
+        "time": 1764237751
+      }
+    ],
+    "commit": {
+      "hash": "7454ec96728b12d26b5f303503398b3af1e3fe59",
+      "time": 1764238797
+    }
+  }
+}

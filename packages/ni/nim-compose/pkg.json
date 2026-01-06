@@ -1,0 +1,61 @@
+{
+  "name": "nim-compose",
+  "url": "https://codeberg.org/emanresu3/nim-compose",
+  "method": "git",
+  "description": "Composition operators for Nim.",
+  "license": "MIT",
+  "web": "https://codeberg.org/emanresu3/nim-compose",
+  "tags": [
+    "functional",
+    "pipeline",
+    "composition"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "d07c204de1d5371eaafc3af35dee95a62c76aa83",
+        "time": 1671243292
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "0cf8aa62a8200e5d87df49912cb2194288802b94",
+        "time": 1671186822
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "c5447bc95e4c4e3fc53c887e91ed14804b13457d",
+        "time": 1671155489
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "5663d4445bdc684c91d139bdff91c76450ce51c6",
+        "time": 1670790444
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "d3e3ea92bcdc1f5998152aee8f339b258daff3df",
+        "time": 1670387661
+      }
+    ],
+    "commit": {
+      "hash": "d07c204de1d5371eaafc3af35dee95a62c76aa83",
+      "time": 1671243292
+    }
+  }
+}

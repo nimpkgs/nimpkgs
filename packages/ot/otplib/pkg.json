@@ -1,0 +1,38 @@
+{
+  "name": "otplib",
+  "url": "https://github.com/dimspith/otplib",
+  "method": "git",
+  "description": "Easy to use OTP library for Nim",
+  "license": "Unlicense",
+  "web": "https://github.com/dimspith/otplib",
+  "tags": [
+    "otp",
+    "totp",
+    "hotp",
+    "two-factor-authentication",
+    "2fa",
+    "one-time-password",
+    "mfa"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "90b38dd97c2d6937d487a300f136e03e71ffa985",
+      "time": 1645025496
+    }
+  }
+}

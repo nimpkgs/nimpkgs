@@ -1,0 +1,33 @@
+{
+  "name": "freedesktop_org",
+  "url": "https://git.sr.ht/~ehmry/freedesktop_org",
+  "method": "git",
+  "description": "Library implementation of some Freedesktop.org standards",
+  "license": "Unlicense",
+  "web": "https://git.sr.ht/~ehmry/freedesktop_org",
+  "tags": [
+    "library",
+    "freedesktop"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "20240930",
+      "requires": [
+        {
+          "name": "https://github.com/ehmry/nim-configparser.git",
+          "str": "#695f1285d63f1954c25eb1f42798d90fa7bcbe14",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "85a7c870bce023efe22c78001f56968328ca509f",
+      "time": 1753178357
+    }
+  }
+}

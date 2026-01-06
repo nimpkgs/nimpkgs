@@ -1,0 +1,61 @@
+{
+  "name": "numnim",
+  "url": "https://github.com/YesDrX/numnim",
+  "method": "git",
+  "description": "A numpy like ndarray and dataframe library for nim-lang.",
+  "license": "MIT",
+  "web": "https://github.com/YesDrX/numnim",
+  "doc": "https://github.com/YesDrX/numnim",
+  "tags": [
+    "numnim",
+    "numpy",
+    "ndarray",
+    "matrix",
+    "pandas",
+    "dataframe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nimblas",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "nimlapack",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "231e39b3eaf377bf907d68b6ddf598fb3f46c5b0",
+        "time": 1596338918
+      }
+    ],
+    "commit": {
+      "hash": "eb9a5b7a30ce165083c43eb517dcbebd43ee16a7",
+      "time": 1596683062
+    }
+  }
+}

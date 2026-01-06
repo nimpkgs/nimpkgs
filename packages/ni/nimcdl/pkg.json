@@ -1,0 +1,43 @@
+{
+  "name": "nimcdl",
+  "url": "https://gitlab.com/endes123321/nimcdl",
+  "method": "git",
+  "description": "Circuit Design language made in Nim",
+  "license": "GPLv3",
+  "web": "https://gitlab.com/endes123321/nimcdl",
+  "tags": [
+    "circuit",
+    "HDL",
+    "PCB",
+    "DSL"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "cascade",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "23f1f8b83cc2b5cfcba6cd45b986e99d703c87ee",
+      "time": 1553197523
+    }
+  }
+}

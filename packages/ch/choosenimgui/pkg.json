@@ -1,0 +1,51 @@
+{
+  "name": "choosenimgui",
+  "url": "https://github.com/ThomasTJdev/choosenim_gui",
+  "method": "git",
+  "description": "A simple GUI for choosenim.",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/choosenim_gui",
+  "tags": [
+    "choosenim",
+    "toolchain"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "webgui",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "choosenimgui"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "7d508fec5905a7124949746adaf8ac20b86a0a14",
+        "time": 1586673015
+      }
+    ],
+    "commit": {
+      "hash": "7d508fec5905a7124949746adaf8ac20b86a0a14",
+      "time": 1586673015
+    }
+  }
+}

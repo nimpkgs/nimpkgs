@@ -1,0 +1,54 @@
+{
+  "name": "servy",
+  "url": "https://github.com/xmonader/nim-servy",
+  "method": "git",
+  "description": "a down to earth webframework in nim",
+  "license": "MIT",
+  "web": "https://github.com/xmonader/nim-servy",
+  "tags": [
+    "webframework",
+    "microwebframework",
+    "async",
+    "httpserver"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "terminaltables",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ws",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "servy"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f097cdb5a0263b5592e36f65928ee53f00097613",
+      "time": 1604069893
+    }
+  }
+}

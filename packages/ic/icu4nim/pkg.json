@@ -1,0 +1,43 @@
+{
+  "name": "icu4nim",
+  "url": "https://github.com/ferus-web/icu4nim",
+  "method": "git",
+  "description": "Non-mature ICU 76.x bindings in Nim",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/icu4nim",
+  "tags": [
+    "unicode",
+    "icu",
+    "timezones",
+    "i18n"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "76.1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/ferus-web/ferrite",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "24fd5f19c1d9e15ab49f840f890cb1e82173203c",
+      "time": 1739627879
+    }
+  }
+}

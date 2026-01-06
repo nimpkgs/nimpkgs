@@ -1,0 +1,87 @@
+{
+  "name": "presto",
+  "url": "https://github.com/status-im/nim-presto",
+  "method": "git",
+  "description": "REST API framework for Nim language",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-presto",
+  "tags": [
+    "http",
+    "rest",
+    "server",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.3 & < 5.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "metrics",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "d66043dd7ede146442e6c39720c76a20bde5225f",
+        "time": 1760815167
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "92b1c7ff141e6920e1f8a98a14c35c1fa098e3be",
+        "time": 1730290892
+      }
+    ],
+    "commit": {
+      "hash": "62225bfa7ce703a99e04680bfc3498e69b52897f",
+      "time": 1762157762
+    }
+  }
+}

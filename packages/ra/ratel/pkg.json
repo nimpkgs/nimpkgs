@@ -1,0 +1,64 @@
+{
+  "name": "ratel",
+  "url": "https://github.com/PMunch/ratel",
+  "method": "git",
+  "description": "Zero-cost abstractions for microcontrollers",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/ratel",
+  "tags": [
+    "library",
+    "embedded"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "nimscripter",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "ratel"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "2d2cc1a7b23c1c92b31bfb2362f506b698572d9e",
+        "time": 1651820292
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "055530ece96ecc661fb6d4f39cdb182ce569fff8",
+        "time": 1646526719
+      }
+    ],
+    "commit": {
+      "hash": "8649f0a7bf712ddc56925e41521647a1706a7186",
+      "time": 1665947935
+    }
+  }
+}

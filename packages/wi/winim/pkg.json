@@ -1,0 +1,97 @@
+{
+  "name": "winim",
+  "url": "https://github.com/khchen/winim",
+  "method": "git",
+  "description": "Nim's Windows API and COM Library",
+  "license": "MIT",
+  "web": "https://github.com/khchen/winim",
+  "tags": [
+    "library",
+    "windows",
+    "api",
+    "com"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.9.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "3.9.4",
+        "hash": "6fdee629140baa0d7060ddf86662457d11f50d35",
+        "time": 1721365394
+      },
+      {
+        "tag": "3.9.3",
+        "hash": "7599a7a7ef1bf2763f5e65a09bc63118b988a87e",
+        "time": 1720805718
+      },
+      {
+        "tag": "3.9.2",
+        "hash": "154d6c6ffb1f19fce684381cdba5e3f3a729053e",
+        "time": 1692045626
+      },
+      {
+        "tag": "3.9.1",
+        "hash": "313ad151d9e9289213a0c6a30e3a6155cdd63f49",
+        "time": 1690943333
+      },
+      {
+        "tag": "3.9.0",
+        "hash": "3abd0ae122cd41efd0ce6d45fea720ef7091e4ac",
+        "time": 1660750916
+      },
+      {
+        "tag": "3.8.1",
+        "hash": "bda7de3b63f4644183a2b70cb9163b61e2320f12",
+        "time": 1654596048
+      },
+      {
+        "tag": "3.8.0",
+        "hash": "f658fc523a7c8960b2f808d774b0f77cecec86db",
+        "time": 1640222486
+      },
+      {
+        "tag": "3.7.2",
+        "hash": "c68e1bbf5c684fe872ff2d84687224078b9e661d",
+        "time": 1639539130
+      },
+      {
+        "tag": "3.7.1",
+        "hash": "5460161ec95c9e13812504a0f9b94b08999acf75",
+        "time": 1636959891
+      },
+      {
+        "tag": "3.7.0",
+        "hash": "8edc6daa1420cf4d1018be16b2067606bf8f43bf",
+        "time": 1636372593
+      },
+      {
+        "tag": "3.6.1",
+        "hash": "b7b32603f4ef672bc34405bc6200e8aab2c366b1",
+        "time": 1621678270
+      },
+      {
+        "tag": "3.6.0",
+        "hash": "bffaf742b4603d1f675b4558d250d5bfeb8b6630",
+        "time": 1608236024
+      }
+    ],
+    "commit": {
+      "hash": "6fdee629140baa0d7060ddf86662457d11f50d35",
+      "time": 1721365394
+    }
+  }
+}

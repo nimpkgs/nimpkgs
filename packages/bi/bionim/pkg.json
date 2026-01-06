@@ -1,0 +1,73 @@
+{
+  "name": "bionim",
+  "url": "https://github.com/Unaimend/bionim",
+  "method": "git",
+  "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
+  "license": "UNLICENSE",
+  "tags": [
+    "bioinformatics",
+    "needleman",
+    "wunsch",
+    "needleman-wunsch",
+    "biology"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        },
+        {
+          "name": "phylogeni",
+          "str": ">= 0.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.2"
+          }
+        },
+        {
+          "name": "bio_seq",
+          "str": ">= 0.0.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.4",
+        "hash": "5a2187d15f73515472b25576f6e5e7cd9a5f4eab",
+        "time": 1617549453
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "cc741739686d2617d6cd737232e29c573b8dca6d",
+        "time": 1614964957
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "763a472564c0ac5ee5e6a0336aaf5b55fd001116",
+        "time": 1614680264
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "0daf0a1d292aa393d355cd6524572f8aaa64408f",
+        "time": 1614527551
+      }
+    ],
+    "commit": {
+      "hash": "b5fbadf96ed29a32015c4f54ba123422205a5524",
+      "time": 1617552604
+    }
+  }
+}

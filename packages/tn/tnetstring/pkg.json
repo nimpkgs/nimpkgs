@@ -1,0 +1,46 @@
+{
+  "name": "tnetstring",
+  "url": "https://github.com/mahlonsmith/nim-tnetstring",
+  "method": "git",
+  "description": "Parsing and serializing for the TNetstring format.",
+  "license": "MIT",
+  "web": "https://github.com/mahlonsmith/nim-tnetstring",
+  "tags": [
+    "tnetstring",
+    "library",
+    "serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": " ^= >= 2.0.0",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "68e271f8f48817e543ddb7a00ee2970284cd0885",
+        "time": 1743705205
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "56613cf3fc760cec13dc1406e9144da3b546dd19",
+        "time": 1432140563
+      }
+    ],
+    "commit": {
+      "hash": "9247ac5f44bd633fe7c1951eac77f0c091cf3be3",
+      "time": 1751152255
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "name": "redismodules",
+  "url": "https://github.com/luisacosta828/redismodules",
+  "method": "git",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "web": "https://github.com/luisacosta828/redismodules",
+  "tags": [
+    "redis",
+    "redismodule"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "6bd5a8766c447e4d295cf79d8e05ac9517c2556f",
+        "time": 1627099383
+      },
+      {
+        "tag": "v0.1.11",
+        "hash": "96d2662035312a936b364b29db3ea1314c7a2103",
+        "time": 1625798365
+      },
+      {
+        "tag": "v0.1.10",
+        "hash": "006f5d60cb4733781130a35ea7f22d51a0749e88",
+        "time": 1624148173
+      },
+      {
+        "tag": "v0.1.9",
+        "hash": "100a3a82c464ee9c4b7346ddaf3d9c628150b50e",
+        "time": 1624139501
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "59249decb37ac6efd7cc52a2c5aafef93cbbd5a6",
+        "time": 1624138122
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "708f16ba1e3c64cfb3522ff19e5d76ce5937426f",
+        "time": 1624122406
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "71beb4a5031ee88597aa60e335d562ad13b017a9",
+        "time": 1623294681
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "514131f47e6e8c464e7d56ffb84e30e32a53b973",
+        "time": 1622955944
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "80df705cc3adbcfa5fa9fe7eb8aa3625abadf8e2",
+        "time": 1622940511
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "4fed3f52f579cdaeedcce3cf6ff7675d4b0e27ab",
+        "time": 1622822759
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "0b347f3481681ab5ce50e5388da4c7ac2e438ad6",
+        "time": 1622820506
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "84a580d9602b5687702f437d28ff0094b32353c5",
+        "time": 1622819300
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "5c3b693c1c42e2538bae7dd98e5639875917fbb5",
+        "time": 1622818368
+      }
+    ],
+    "commit": {
+      "hash": "6bd5a8766c447e4d295cf79d8e05ac9517c2556f",
+      "time": 1627099383
+    }
+  }
+}

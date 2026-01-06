@@ -1,0 +1,55 @@
+{
+  "name": "checkpack",
+  "url": "https://gitlab.com/EchoPouet/checkpack",
+  "method": "git",
+  "description": "Tiny library to check if a system package is already installed.",
+  "license": "MIT",
+  "web": "https://gitlab.com/EchoPouet/checkpack",
+  "tags": [
+    "package",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "b093fe64f434300ed50f91468a912be5a457c8eb",
+        "time": 1614467014
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "06cf22c5caf38538b50fc8aa224324d461ada57a",
+        "time": 1614439239
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "38d0aedf85111847c654ffa0f4607ee7a867b6af",
+        "time": 1614117677
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "6e6b1210f7882cdaeafd157021a1c02c1b692ead",
+        "time": 1614114373
+      }
+    ],
+    "commit": {
+      "hash": "b8423d10e9f0e6c94269e553a3772fbbb1d26c4a",
+      "time": 1672178840
+    }
+  }
+}

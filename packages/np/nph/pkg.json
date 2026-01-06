@@ -1,0 +1,124 @@
+{
+  "name": "nph",
+  "url": "https://github.com/arnetheduck/nph",
+  "method": "git",
+  "description": "Opinionated code formatter",
+  "license": "MIT License",
+  "web": "https://github.com/arnetheduck/nph",
+  "tags": [
+    "nim",
+    "formatter",
+    "vscode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0 & < 2.3",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "compiler",
+          "str": ">= 2.2.0 & < 2.3",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "hldiff",
+          "str": ">= 1.0.7 & < 2",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "glob",
+          "str": ">= 0.11.3 & < 0.12.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "toml_serialization",
+          "str": ">= 0.2.18 & < 0.3.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.26.3 & < 0.27.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nph"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.6.2",
+        "hash": "1c6d7813f9f6d6a4fbcd36dfd1489b18982d0d55",
+        "time": 1765131563
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "0d8000e741fa11ed48fdd116f24b4251b92aa9b5",
+        "time": 1736332878
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "31bdced07d3dc3d254669bd94210101c701deeda",
+        "time": 1721397854
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "de5cd4823e63424adb58ef3717524348ae6c4d87",
+        "time": 1709130232
+      },
+      {
+        "tag": "v0.5",
+        "hash": "bafe069def671c83a3d7a58ba1b704982261a412",
+        "time": 1708959681
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "af6450d68cdb39ef731d051822185cd73379ccd4",
+        "time": 1707493022
+      },
+      {
+        "tag": "v0.4",
+        "hash": "537f1ce6e30df1b915cac45538e7d0de7dd0b853",
+        "time": 1707129827
+      },
+      {
+        "tag": "v0.3",
+        "hash": "fa9c745442853300acbad3728b297dd12e8c6b44",
+        "time": 1704382881
+      },
+      {
+        "tag": "v0.2",
+        "hash": "5749abc338c058b9a54e801aa8a5ab706f19ff14",
+        "time": 1703155147
+      }
+    ],
+    "commit": {
+      "hash": "773fa32f47c02bc212bb5705db5c589ad1bd76df",
+      "time": 1766754315
+    }
+  }
+}

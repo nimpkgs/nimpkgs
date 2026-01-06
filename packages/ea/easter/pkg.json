@@ -1,0 +1,33 @@
+{
+  "name": "easter",
+  "url": "https://github.com/GeK2K/easter",
+  "method": "git",
+  "description": "Easter date calculation engine.",
+  "license": "MIT",
+  "web": "https://github.com/GeK2K/easter",
+  "tags": [
+    "gregorian",
+    "easter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b8c4b796b71d8ddf8b7a4e1de8e91f0e2483cd97",
+      "time": 1716625852
+    }
+  }
+}

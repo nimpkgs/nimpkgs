@@ -1,0 +1,58 @@
+{
+  "name": "json_schema_import",
+  "url": "https://github.com/Nycto/NimJsonSchemaImporter",
+  "method": "git",
+  "description": "Converts JSON schema definitions to nim types",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/NimJsonSchemaImporter",
+  "tags": [
+    "json",
+    "schema"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.26.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.26.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "53cc98938ecb1b0d504cd9fee3f2b39a162c94de",
+        "time": 1757872648
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "c72f199a1b613539677765b283022528c4a08f28",
+        "time": 1756699916
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "472743b3843368a858f78bf50aa34f4800949b7b",
+        "time": 1741317575
+      }
+    ],
+    "commit": {
+      "hash": "6875be792dd9d7bb119b104a79a08863d6954d6b",
+      "time": 1765298037
+    }
+  }
+}

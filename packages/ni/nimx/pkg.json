@@ -1,0 +1,193 @@
+{
+  "name": "nimx",
+  "url": "https://github.com/yglukhov/nimx",
+  "method": "git",
+  "description": "Cross-platform GUI framework",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/nimx",
+  "tags": [
+    "gui",
+    "ui",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2",
+      "requires": [
+        {
+          "name": "sdl2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "opengl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "winim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimsl",
+          "str": ">= 0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3"
+          }
+        },
+        {
+          "name": "jnim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nake",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "closure_compiler",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "plists",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "variant",
+          "str": ">= 0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2"
+          }
+        },
+        {
+          "name": "kiwi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/ttf",
+          "str": ">= 0.2.9 & < 0.3",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/async_http_request",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsbind",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "rect_packer",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/android",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "darwin",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "os_files",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/tormund/nester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimwebp",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/clipboard",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2",
+        "hash": "d93a6795a7e473627e52763deee0cb2df2d1a7fc",
+        "time": 1733387988
+      }
+    ],
+    "commit": {
+      "hash": "41f33530769743c3608efc6eee218a039161c85f",
+      "time": 1758978026
+    }
+  }
+}

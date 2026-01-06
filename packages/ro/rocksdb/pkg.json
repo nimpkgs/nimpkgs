@@ -1,0 +1,80 @@
+{
+  "name": "rocksdb",
+  "url": "https://github.com/status-im/nim-rocksdb",
+  "method": "git",
+  "description": "A wrapper for Facebook's RocksDB, an embeddable, persistent key-value store for fast storage",
+  "license": "Apache 2.0 or GPLv2",
+  "web": "https://github.com/status-im/nim-rocksdb",
+  "tags": [
+    "library",
+    "wrapper",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "10.4.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "tempfile",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v10.4.2.0",
+        "hash": "1e724b9c1b7ad2cc0f7210e72765a5b459ddd32f",
+        "time": 1756280597
+      },
+      {
+        "tag": "v10.2.1.0",
+        "hash": "a95240da0f674b014d2b732539f12bed566f2446",
+        "time": 1754146113
+      },
+      {
+        "tag": "v9.10.0.0",
+        "hash": "3df6bd7d65011b4e80cba2e822b2b5e1cc1b06c0",
+        "time": 1738124339
+      },
+      {
+        "tag": "v9.8.4.0",
+        "hash": "6149edce39b73f8a16b65970fad38eb992550aca",
+        "time": 1737440644
+      }
+    ],
+    "commit": {
+      "hash": "8eeb9d8b856dd07d9c98daa7c48f5466f90f6b61",
+      "time": 1765557304
+    }
+  }
+}

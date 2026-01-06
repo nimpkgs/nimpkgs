@@ -1,0 +1,57 @@
+{
+  "name": "dbschema",
+  "url": "https://github.com/vegansk/dbschema",
+  "method": "git",
+  "description": "Database schema migration library for Nim language.",
+  "license": "MIT",
+  "web": "https://github.com/vegansk/dbschema",
+  "tags": [
+    "library",
+    "database",
+    "db"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        },
+        {
+          "name": "nimboost",
+          "str": ">= 0.5.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.3"
+          }
+        },
+        {
+          "name": "nimfp",
+          "str": ">= 0.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "b951649846b503c9b6de725e6995c6805770f248",
+        "time": 1510722964
+      }
+    ],
+    "commit": {
+      "hash": "b98a8bba7671064de52df571f338e6fd95fe11fc",
+      "time": 1510736810
+    }
+  }
+}

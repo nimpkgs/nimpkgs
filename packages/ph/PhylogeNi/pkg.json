@@ -1,0 +1,44 @@
+{
+  "name": "PhylogeNi",
+  "url": "https://github.com/kerrycobb/PhylogeNi",
+  "method": "git",
+  "description": "A library with some basic functions for working with phylogenetic trees.",
+  "license": "MIT",
+  "web": "https://github.com/kerrycobb/PhylogeNi/",
+  "doc": "https://kerrycobb.github.io/PhylogeNi/",
+  "tags": [
+    "phylogenetics",
+    "phylogeny",
+    "tree",
+    "bioinformatics",
+    "evolution"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "36327eafcd1946c029a9aaa0ceae467efeeff747",
+        "time": 1665607893
+      }
+    ],
+    "commit": {
+      "hash": "b2f3cee9b036978fa0f5c6c1a33fb3e53c3e501f",
+      "time": 1711119089
+    }
+  }
+}

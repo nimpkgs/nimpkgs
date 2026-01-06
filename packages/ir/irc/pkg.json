@@ -1,0 +1,56 @@
+{
+  "name": "irc",
+  "url": "https://github.com/nim-lang/irc",
+  "method": "git",
+  "description": "Implements a simple IRC client.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/irc",
+  "tags": [
+    "library",
+    "irc",
+    "network"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.9.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "0b01ab158fb2a863f98f4bda89792b869955ce48",
+        "time": 1618957454
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "dd6db2e18be4e0582207a6351a111dfe2082f2c9",
+        "time": 1574806774
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "a085f1fcd5fa86248ccbfa7cad6d975db9e13903",
+        "time": 1570992040
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "4ba43e6003106ccf237e1e2cecc137a5f4a989b9",
+        "time": 1560456620
+      }
+    ],
+    "commit": {
+      "hash": "7522eafe3d14479435ab5b47f6c7bc070ae04114",
+      "time": 1650041211
+    }
+  }
+}

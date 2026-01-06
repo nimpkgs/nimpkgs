@@ -1,0 +1,45 @@
+{
+  "name": "maze",
+  "url": "https://github.com/jiro4989/maze",
+  "method": "git",
+  "description": "A command and library to generate mazes",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/maze",
+  "tags": [
+    "maze",
+    "cli",
+    "library",
+    "algorithm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [
+        "maze"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "c87c1707ad01377efd9d98ee0522e4a362f171bd",
+        "time": 1572606990
+      }
+    ],
+    "commit": {
+      "hash": "6d8f56837f4ece89703ccfc4dae1b22413a303be",
+      "time": 1574694245
+    }
+  }
+}

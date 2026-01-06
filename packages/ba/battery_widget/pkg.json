@@ -1,0 +1,36 @@
+{
+  "name": "battery_widget",
+  "url": "https://github.com/Cu7ious/nim-battery-widget",
+  "method": "git",
+  "description": "Battery widget for command prompt. Written in Nim",
+  "license": "GPL-3.0",
+  "web": "https://github.com/Cu7ious/nim-battery-widget",
+  "tags": [
+    "rompt-widget",
+    "battery-widget"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [
+        "battery_widget"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "28fc15f6df089d809129427a709e4d1962528318",
+      "time": 1597682600
+    }
+  }
+}

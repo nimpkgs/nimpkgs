@@ -1,0 +1,57 @@
+{
+  "name": "awesome_rmdir",
+  "url": "https://github.com/Araq/awesome_rmdir/",
+  "method": "git",
+  "description": "Command to remove acceptably empty directories.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/awesome_rmdir/",
+  "tags": [
+    "rmdir",
+    "awesome",
+    "command-line"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nake",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        },
+        {
+          "name": "argument_parser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "awesome_rmdir"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "c3765642d1578ef2fd7f21072076446dbd389294",
+        "time": 1387652797
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "3dc0bc90eb320997bed371c091c7ed26eef513de",
+        "time": 1366314909
+      }
+    ],
+    "commit": {
+      "hash": "b41cf9363819c52210f45df9cc31b9ffd2cf45b3",
+      "time": 1387652824
+    }
+  }
+}

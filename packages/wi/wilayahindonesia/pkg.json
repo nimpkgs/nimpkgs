@@ -1,0 +1,34 @@
+{
+  "name": "wilayahindonesia",
+  "url": "https://github.com/nekoding/wilayahindonesia-nim",
+  "method": "git",
+  "description": "Library data wilayah indonesia",
+  "license": "MIT",
+  "web": "https://github.com/nekoding/wilayahindonesia-nim",
+  "tags": [
+    "library",
+    "api",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "43a6096966953b2a8106c839b2203d1f77c7f93a",
+      "time": 1678223359
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "romanim",
+  "url": "https://github.com/bichanna/romanim",
+  "method": "git",
+  "description": "Converts Roman numerals to what you understand without a blink",
+  "license": "MIT",
+  "web": "https://github.com/bichanna/romanim#romanim",
+  "tags": [
+    "roman-numerals",
+    "library",
+    "converter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.4"
+          }
+        }
+      ],
+      "bin": [
+        "romanim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "b6e172fd177c5eab6a32aa3cb8cff240d153f27d",
+        "time": 1648168583
+      }
+    ],
+    "commit": {
+      "hash": "0ee4bf2041e3c8e95f1b070e1abf90f15965bea5",
+      "time": 1648169278
+    }
+  }
+}

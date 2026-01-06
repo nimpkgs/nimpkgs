@@ -1,0 +1,42 @@
+{
+  "name": "nimldap",
+  "url": "https://github.com/inv2004/nimldap",
+  "method": "git",
+  "description": "LDAP client bindings",
+  "license": "MIT",
+  "web": "https://github.com/inv2004/nimldap",
+  "tags": [
+    "ldap",
+    "bindings",
+    "openldap"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ba0c891a2ff7ab43496e13b95b2ee99d52cdd0df",
+      "time": 1692827236
+    }
+  }
+}

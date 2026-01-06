@@ -1,0 +1,170 @@
+{
+  "name": "vier",
+  "url": "https://git.sr.ht/~xigoi/vier",
+  "method": "git",
+  "description": "Vim-Inspired Editor of Rasters",
+  "license": "GPL-3.0-or-later",
+  "web": "https://xigoi.srht.site/vier/",
+  "tags": [
+    "pixel",
+    "editor",
+    "modal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2024.130.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "naylib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "spryvm",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "vier"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "2024.130.0",
+        "hash": "c4b41820291af863ef2b222eafb8d06a6ab39de6",
+        "time": 1706629679
+      },
+      {
+        "tag": "2024.129.1",
+        "hash": "ec1261f68ba13f09e565e7de8a2dc42ad65bcf64",
+        "time": 1706564636
+      },
+      {
+        "tag": "2024.129.0",
+        "hash": "8d25cd81136b3cb65b9a8fae8439741be2a68472",
+        "time": 1706562193
+      },
+      {
+        "tag": "2024.125.0",
+        "hash": "88d3a21a647bbb44aadb25f077e1745c6a9f0ddc",
+        "time": 1706191072
+      },
+      {
+        "tag": "2024.123.0",
+        "hash": "75e635db7c2474960514380a371e0b16afbaf5dc",
+        "time": 1706046840
+      },
+      {
+        "tag": "2024.108.0",
+        "hash": "f153af696b957271a0461df5f08d285e702012e8",
+        "time": 1704717271
+      },
+      {
+        "tag": "2024.107.0",
+        "hash": "29e2583e5d65b6fc0050a1b5285e8bc058b22a22",
+        "time": 1704654577
+      },
+      {
+        "tag": "2024.105.0",
+        "hash": "d860e48340dfa536050b7d473c89531be8926d7f",
+        "time": 1704482465
+      },
+      {
+        "tag": "2023.1230.0",
+        "hash": "6beed3e06fd31a172809fa37975bda17e1847ffb",
+        "time": 1703954882
+      },
+      {
+        "tag": "2023.1220.0",
+        "hash": "a27c2bace464e2b1512454e31e7d9a1b24773ab3",
+        "time": 1703074263
+      },
+      {
+        "tag": "2023.1219.1",
+        "hash": "e78511772f55ba8c1a180218a4e31b7e02797c93",
+        "time": 1703014709
+      },
+      {
+        "tag": "2023.1219.0",
+        "hash": "f80c0c3488c875b089eb675e9280ae64104a2239",
+        "time": 1702980513
+      },
+      {
+        "tag": "2023.1218.1",
+        "hash": "f68eab35590527529c5b3c977fead98c97e3c60d",
+        "time": 1702928611
+      },
+      {
+        "tag": "2023.1218.0",
+        "hash": "b097552653aa9568dc4d895a2e447c4e4c1ba3c6",
+        "time": 1702926482
+      },
+      {
+        "tag": "2023.1212.1",
+        "hash": "99332faf8e3951d102b52eb206926a7ea06c11f1",
+        "time": 1702404765
+      },
+      {
+        "tag": "2023.1212.0",
+        "hash": "796a1fcbfe333dd39c81be9de997836287aaebbd",
+        "time": 1702384410
+      },
+      {
+        "tag": "2023.1211.5",
+        "hash": "738b37695e6fd66e7f5860b0959891a70602ddff",
+        "time": 1702320109
+      },
+      {
+        "tag": "2023.1211.4",
+        "hash": "9b0f2cd6b1107b7125fff10e4c44699706897d95",
+        "time": 1702318234
+      },
+      {
+        "tag": "2023.1211.3",
+        "hash": "de088fa5880d10bab66326b00de0b327942cd756",
+        "time": 1702317680
+      },
+      {
+        "tag": "2023.1211.2",
+        "hash": "0dcfeb8af1eb6d641e48ebb97d1fe1ecf6b08afb",
+        "time": 1702287522
+      },
+      {
+        "tag": "2023.1211.1",
+        "hash": "78eb126281f5906e01e3e3c7d38dfc6858ac6fd4",
+        "time": 1702287474
+      },
+      {
+        "tag": "2023.1211.0",
+        "hash": "3bcbc870a137d95ba2ef086a9c88e85b8398328d",
+        "time": 1702283809
+      },
+      {
+        "tag": "2023.1208.1",
+        "hash": "0f6a49abf4e5ff5c572746a2820a21f74c2771ab",
+        "time": 1702051180
+      }
+    ],
+    "commit": {
+      "hash": "820563b4fa940f4dfb3695b0a96b1a6242387253",
+      "time": 1707170155
+    }
+  }
+}

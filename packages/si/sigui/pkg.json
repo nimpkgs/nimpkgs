@@ -1,0 +1,107 @@
+{
+  "name": "sigui",
+  "url": "https://github.com/levovix0/sigui",
+  "method": "git",
+  "description": "Easy to use and flexible UI framework in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/levovix0/sigui",
+  "tags": [
+    "ui",
+    "gui",
+    "opengl",
+    "siwin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "fusion",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "siwin",
+          "str": ">= 0.9.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.3"
+          }
+        },
+        {
+          "name": "bumpy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "opengl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "shady",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.3",
+        "hash": "e765e40ceed0700bd496b7c5c69d07b493ce2373",
+        "time": 1754356323
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "1c34f7ad53d925a1fd6f6fc667c85038707b9181",
+        "time": 1730830641
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "3ff5a9d2e4f842bac9f1d566393482771827836b",
+        "time": 1725826116
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "367213778461a30f44ac5d41b24e04b58ba61321",
+        "time": 1707652073
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "6edb911dfe9b4893c2a6e38005933d138afcc64f",
+        "time": 1707503648
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "11d7437c7f75ad70d634aba77cb04eab1630ffd7",
+        "time": 1707040674
+      }
+    ],
+    "commit": {
+      "hash": "34b0dbbfdf125bb568d59341675d5c9d20f6c83d",
+      "time": 1767535035
+    }
+  }
+}

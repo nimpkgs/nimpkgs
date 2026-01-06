@@ -1,0 +1,55 @@
+{
+  "name": "cligpt",
+  "url": "https://github.com/thisago/cligpt",
+  "method": "git",
+  "description": "Command line interface for ChatGPT",
+  "license": "GPL-3.0",
+  "web": "https://github.com/thisago/cligpt",
+  "tags": [
+    "cli",
+    "chatgpt",
+    "ai",
+    "chat",
+    "app"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dirtygpt",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "cligpt"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "b9ec584eb35a085d076d76c6c249625d87de26f8",
+      "time": 1694399751
+    }
+  }
+}

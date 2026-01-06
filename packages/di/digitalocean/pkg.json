@@ -1,0 +1,46 @@
+{
+  "name": "digitalocean",
+  "url": "https://github.com/treeform/digitalocean",
+  "method": "git",
+  "description": "Wrapper for DigitalOcean HTTP API.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/digitalocean",
+  "tags": [
+    "digitalocean",
+    "servers",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "8b75c880cf4f207f9d87cc60770c94ae4c943a58",
+        "time": 1591358663
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "abd8f95ba3427cb3360cacd2879f4ee289352775",
+        "time": 1539184831
+      }
+    ],
+    "commit": {
+      "hash": "76c4296751094a2ab5039dc754b9718a5ad447fa",
+      "time": 1655755070
+    }
+  }
+}

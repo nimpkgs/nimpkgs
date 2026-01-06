@@ -1,0 +1,37 @@
+{
+  "name": "etf",
+  "url": "https://github.com/metagn/etf",
+  "method": "git",
+  "description": "ETF (Erlang Term Format) library for nim",
+  "license": "MIT",
+  "web": "https://github.com/metagn/etf",
+  "tags": [
+    "etf",
+    "erlang",
+    "library",
+    "parser",
+    "binary",
+    "discord"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e0b77f78180e5c4d18e4b51d17fc95861035c1da",
+      "time": 1692378624
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "tradingview",
+  "url": "https://github.com/juancarlospaco/tradingview",
+  "method": "git",
+  "description": "TradingView client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/tradingview",
+  "tags": [
+    "tradingview",
+    "trading",
+    "finance",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a921d43dd47a3c54092f380de4776a772f7250cc",
+      "time": 1757592573
+    }
+  }
+}

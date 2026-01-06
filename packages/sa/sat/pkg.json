@@ -1,0 +1,34 @@
+{
+  "name": "sat",
+  "url": "https://github.com/nim-lang/sat",
+  "method": "git",
+  "description": "A SAT solver written in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/sat",
+  "tags": [
+    "sat",
+    "official",
+    "solver"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f344ca2dc852f62c812e6c203f85cdc14c768561",
+      "time": 1765859994
+    }
+  }
+}

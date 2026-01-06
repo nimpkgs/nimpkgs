@@ -1,0 +1,81 @@
+{
+  "name": "slicerator",
+  "url": "https://github.com/beef331/slicerator",
+  "method": "git",
+  "description": "Iterator package aimed at more ergonomic and efficient iterators.",
+  "license": "MIT",
+  "tags": [
+    "iterators",
+    "closure",
+    "slices",
+    "performance"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.6",
+        "hash": "f4aaf20227ee455095a1ce8bfd813741a1959d13",
+        "time": 1751075729
+      },
+      {
+        "tag": "v0.3.5",
+        "hash": "16f8779d9501565fd9950eb6f36536774feb0b55",
+        "time": 1701504146
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "b26dae590b9cd2ad7199243c5b6f8613cb8f58f7",
+        "time": 1701502938
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "49b168a013c3c00298b4867eaaa9e2bce5383705",
+        "time": 1692496119
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "bde748ec6684faece8bcac712d469f896ab06b8d",
+        "time": 1690960026
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "0142bfd52c5f37f5ff34780a5a47d86475131011",
+        "time": 1650157176
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "79a6281a47b5f915b5a15c129105fc5f8ae6c784",
+        "time": 1641934674
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "2153f3cb94473f1eba9fd858586986e65a301708",
+        "time": 1641855737
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "34203064f43c4569a2f61f715abe603b02e2ff7c",
+        "time": 1636680089
+      }
+    ],
+    "commit": {
+      "hash": "c5fc323b3ace2458ba8bf3e9841339be53f91e52",
+      "time": 1755621439
+    }
+  }
+}

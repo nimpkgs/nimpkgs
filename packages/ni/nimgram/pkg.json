@@ -1,0 +1,103 @@
+{
+  "name": "nimgram",
+  "url": "https://github.com/nimgram/nimgram",
+  "method": "git",
+  "description": "MTProto client written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimgram/nimgram",
+  "tags": [
+    "mtproto",
+    "telegram",
+    "telegram-api",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        },
+        {
+          "name": "https://github.com/nimgram/tl-parser",
+          "str": "#v0.2.0",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimgram/tl-types",
+          "str": "#v0.2.0",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "crc32",
+          "str": "#c8ccad9",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stint",
+          "str": "#d1acb42",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/dadadani/bigints",
+          "str": "#646d857",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "#a5742a9",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "norm",
+          "str": "#2.5.2",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "0cc5198eaa4d12a95da87df70b7df85ec1fead41",
+        "time": 1663265255
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c97083d5edc9b16153b962ee223ecf9ec9857da9",
+        "time": 1638305968
+      }
+    ],
+    "commit": {
+      "hash": "bd547ef07f6738462c976ce31babe9d2b4861c91",
+      "time": 1687038605
+    }
+  }
+}

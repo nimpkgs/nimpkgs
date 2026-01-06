@@ -1,0 +1,43 @@
+{
+  "name": "update_nimble_version",
+  "url": "https://github.com/philolo1/update_nimble_version",
+  "method": "git",
+  "description": "Cli tool to update the nimble version of a package.",
+  "license": "MIT",
+  "web": "https://github.com/philolo1/update_nimble_version",
+  "tags": [
+    "cli",
+    "nimble"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [
+        "update_nimble_version"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "4074249aa9419c755336774f4196dbd72ada7f5e",
+        "time": 1670772867
+      }
+    ],
+    "commit": {
+      "hash": "ad261211b3ba0e3c39bd6815ef1a0f67ace9f83e",
+      "time": 1671006110
+    }
+  }
+}

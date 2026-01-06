@@ -1,0 +1,51 @@
+{
+  "name": "palladian",
+  "url": "https://github.com/itsumura-h/nim-palladian",
+  "method": "git",
+  "description": "A Frontend Web Framework for Nim based on Preact",
+  "license": "MIT",
+  "web": "https://github.com/itsumura-h/nim-palladian",
+  "tags": [
+    "web",
+    "frontend"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.39",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.39"
+          }
+        }
+      ],
+      "bin": [
+        "palladian/cli/palladian_cli"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "6d953b7bf1c340d55d944418f78151dc931f987f",
+        "time": 1696326500
+      }
+    ],
+    "commit": {
+      "hash": "6d953b7bf1c340d55d944418f78151dc931f987f",
+      "time": 1696326500
+    }
+  }
+}

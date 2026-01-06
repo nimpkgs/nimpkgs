@@ -1,0 +1,38 @@
+{
+  "name": "sorta",
+  "url": "https://github.com/narimiran/sorta",
+  "method": "git",
+  "description": "Sorted Tables for Nim, based on B-Trees",
+  "license": "MIT",
+  "web": "https://narimiran.github.io/sorta/",
+  "tags": [
+    "sort",
+    "sorted",
+    "table",
+    "sorted-table",
+    "b-tree",
+    "btree",
+    "ordered"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "be57458b5b075151cbc192a99c2a43e513a6340a",
+      "time": 1591549435
+    }
+  }
+}

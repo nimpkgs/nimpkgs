@@ -1,0 +1,46 @@
+{
+  "name": "dumpincludes",
+  "url": "https://github.com/treeform/dumpincludes",
+  "method": "git",
+  "description": "See where your exe size comes from.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/dumpincludes",
+  "tags": [
+    "imports",
+    "includes",
+    "perf",
+    "exe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        }
+      ],
+      "bin": [
+        "dumpincludes"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "9e3f96b2a1beaa6e2f8a84cbb2fe377ba9af6590",
+      "time": 1683763740
+    }
+  }
+}

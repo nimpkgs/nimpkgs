@@ -1,0 +1,67 @@
+{
+  "name": "curlies",
+  "url": "https://github.com/svenrdz/curlies",
+  "method": "git",
+  "description": "A macro for object construction using {} (curlies).",
+  "license": "MIT",
+  "web": "https://github.com/svenrdz/curlies",
+  "tags": [
+    "object construction",
+    "field init shorthand",
+    "update syntax",
+    "rust update syntax",
+    "fungus"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "micros",
+          "str": ">= 0.1.13",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.13"
+          }
+        },
+        {
+          "name": "https://github.com/nim-lang/ast-pattern-matching",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "fungus",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "7a665b630eabcb23c6dcee1b697277ded1361835",
+        "time": 1705336824
+      }
+    ],
+    "commit": {
+      "hash": "7a665b630eabcb23c6dcee1b697277ded1361835",
+      "time": 1705336824
+    }
+  }
+}

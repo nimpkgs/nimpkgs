@@ -1,0 +1,37 @@
+{
+  "name": "highlightjs",
+  "url": "https://github.com/Ethosa/highlightjs",
+  "method": "git",
+  "description": "highlight.js bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Ethosa/highlightjs",
+  "tags": [
+    "highlight.js",
+    "highlight",
+    "javascript",
+    "frontend",
+    "web",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "11.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c193f42f7500d9869d2fba2fd43c3811fd2660b2",
+      "time": 1705146328
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "crossdb",
+  "url": "https://github.com/openpeeps/crossdb-nim",
+  "method": "git",
+  "description": "CrossDB Driver for Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/crossdb-nim",
+  "tags": [
+    "database",
+    "sql",
+    "imdb",
+    "embedded-db",
+    "crossdb",
+    "rdbms",
+    "in-memory"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "45522009cdeb38105d4d0cfffb4af639b405807f",
+      "time": 1730931096
+    }
+  }
+}

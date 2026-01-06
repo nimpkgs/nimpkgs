@@ -1,0 +1,46 @@
+{
+  "name": "Palette",
+  "url": "https://github.com/momeemt/Palette",
+  "method": "git",
+  "description": "Color Library",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/Palette",
+  "tags": [
+    "color",
+    "library",
+    "nigui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "e3a39940cf7758e48e403e9c080c78f8d309aee5",
+        "time": 1628596003
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "ffb993089fcd3322ccc0f0675643dd87fbc50fd7",
+        "time": 1609155777
+      }
+    ],
+    "commit": {
+      "hash": "836c36972e6ce8b06372651b959e8a9d41e8f50b",
+      "time": 1651052565
+    }
+  }
+}

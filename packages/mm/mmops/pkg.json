@@ -1,0 +1,55 @@
+{
+  "name": "mmops",
+  "url": "https://github.com/capocasa/mmops",
+  "method": "git",
+  "description": "Zero-cost typed SIMD operations for Nim using familiar math operators (`+`, `-`, `*`, `/`, etc.) that compile directly to AVX2 instructions.",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/mmops",
+  "tags": [
+    "simd",
+    "avx2",
+    "vector",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "a3cf2a4979899bd8f2b41beaf365daae42aa2fa0",
+        "time": 1754471193
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "b744658bf8fd43e1f027372375375d2313bf022e",
+        "time": 1754408495
+      }
+    ],
+    "commit": {
+      "hash": "dd9055eaae45cc8659544a2a40211000c6fda9c4",
+      "time": 1754471309
+    }
+  }
+}

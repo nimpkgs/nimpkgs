@@ -1,0 +1,33 @@
+{
+  "name": "i3ipc",
+  "url": "https://github.com/FedericoCeratto/nim-i3ipc",
+  "method": "git",
+  "description": "i3 IPC client library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-i3ipc",
+  "tags": [
+    "library",
+    "i3"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "0f5f68d32cedc9c7bae80e6ba81a1676fa46c1bd",
+      "time": 1525467877
+    }
+  }
+}

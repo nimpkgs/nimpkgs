@@ -1,0 +1,36 @@
+{
+  "name": "einheit",
+  "url": "https://github.com/jyapayne/einheit",
+  "method": "git",
+  "description": "Pretty looking, full featured, Python-inspired unit test library.",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/einheit",
+  "tags": [
+    "unit",
+    "tests",
+    "unittest",
+    "unit tests",
+    "unit test macro"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4480724889f86c7be31b76e2de9f7f50c0b89332",
+      "time": 1572967045
+    }
+  }
+}

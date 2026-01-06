@@ -1,0 +1,43 @@
+{
+  "name": "gungnir",
+  "url": "https://github.com/planety/gungnir",
+  "method": "git",
+  "description": "Cryptographic signing for Nim.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/planety/gungnir",
+  "tags": [
+    "web",
+    "starlight",
+    "prologue",
+    "signing",
+    "Cryptographic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "989cb8980054f6e082f0b1bf7ae61e277d245b7b",
+        "time": 1581692966
+      }
+    ],
+    "commit": {
+      "hash": "989cb8980054f6e082f0b1bf7ae61e277d245b7b",
+      "time": 1581692966
+    }
+  }
+}

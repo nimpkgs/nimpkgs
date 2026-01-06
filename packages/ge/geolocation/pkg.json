@@ -1,0 +1,34 @@
+{
+  "name": "geolocation",
+  "url": "https://github.com/HazeCS/geolocation",
+  "method": "git",
+  "description": "Retreive geolocation details from an IP",
+  "license": "MIT",
+  "tags": [
+    "geolocation",
+    "geoip",
+    "geo",
+    "location"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f132342badfd77635368cc894e7af86421cccd79",
+      "time": 1677295833
+    }
+  }
+}

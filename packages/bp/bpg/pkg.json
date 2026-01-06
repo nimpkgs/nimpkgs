@@ -1,0 +1,34 @@
+{
+  "name": "bpg",
+  "url": "https://github.com/def-/nim-bpg.git",
+  "method": "git",
+  "description": "BPG (Better Portable Graphics) for Nim",
+  "license": "MIT",
+  "web": "https://github.com/def-/nim-bpg",
+  "tags": [
+    "image",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "> 0.10",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "fbbe78737a062892181935b031e08b8fe4e430f9",
+      "time": 1465344442
+    }
+  }
+}

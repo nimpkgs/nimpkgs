@@ -1,0 +1,33 @@
+{
+  "name": "yasync",
+  "url": "https://github.com/yglukhov/yasync",
+  "method": "git",
+  "description": "Yet another async/await for Nim",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/yasync",
+  "tags": [
+    "async",
+    "futures"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "7b1762b86147d01320ec1f08364e67a83488f320",
+      "time": 1761430562
+    }
+  }
+}

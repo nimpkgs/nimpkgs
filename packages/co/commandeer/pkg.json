@@ -1,0 +1,139 @@
+{
+  "name": "commandeer",
+  "url": "https://github.com/fenekku/commandeer",
+  "method": "git",
+  "description": "Provides a small command line parsing DSL (domain specific language)",
+  "license": "MIT",
+  "web": "https://github.com/fenekku/commandeer",
+  "tags": [
+    "library",
+    "command-line",
+    "arguments",
+    "switches",
+    "parsing",
+    "options"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.12.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.12.3",
+        "hash": "d8f246703de3c17763a492c8f8ab53ffd8542a28",
+        "time": 1514910849
+      },
+      {
+        "tag": "0.12.1",
+        "hash": "0e9cee840845f8526631e28c93765d8de8523374",
+        "time": 1513727506
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "6729d9b92e89fb0a51aac2e9cef94e1e95518d7e",
+        "time": 1508087418
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "6b4ea600559785b99b2d69b29ad9f14f6363957c",
+        "time": 1488736418
+      },
+      {
+        "tag": "0.10.5",
+        "hash": "e4c7e52e10825ee91afce37ef43200a0d141099f",
+        "time": 1471724704
+      },
+      {
+        "tag": "0.10.4",
+        "hash": "131c2a43deee0344ea12801af17f5a962d2de411",
+        "time": 1465443116
+      },
+      {
+        "tag": "0.10.3",
+        "hash": "4a3f1cd2f3a33d98c06c9535a9d6823ae3a33f24",
+        "time": 1455492499
+      },
+      {
+        "tag": "0.10.2",
+        "hash": "3f532aed124230093a837ac16c239aada11bde84",
+        "time": 1455491273
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "5e42e54aa1a9759c533d9d608948e5b8db072928",
+        "time": 1448728835
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "5365af6554248658e62e60a7b9873018f67a077c",
+        "time": 1439664072
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "a4f1a3d37fbd8f7dfd4eaba2c8c38591e656e31b",
+        "time": 1436275936
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "ef0284563b315e85fe5a216ebdbc0f7425501cb1",
+        "time": 1433043161
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "e5bf5f6755bf0c740b639788acc281dffe3b4c4f",
+        "time": 1425060901
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "7b9a02294074abf98f41c1afe6bc090a110d5de6",
+        "time": 1421281578
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "15c3ae04bc028997ea89cd991b7fbddd70884a28",
+        "time": 1406072420
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "5ab7a0780c05f932b9837740b922e30af77cfec0",
+        "time": 1405271102
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "21c83457240c770bccbeb2923b823fb776d6bcdf",
+        "time": 1400956740
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "514437e27a2f442e7c433080da0ace99257d786f",
+        "time": 1399772808
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "458f56f2db123104c8544676f5c68d684a6a27ed",
+        "time": 1387898268
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "59d488105860b9bba6a93c98da13d0929dc7ea36",
+        "time": 1386529911
+      }
+    ],
+    "commit": {
+      "hash": "d8f246703de3c17763a492c8f8ab53ffd8542a28",
+      "time": 1514910849
+    }
+  }
+}

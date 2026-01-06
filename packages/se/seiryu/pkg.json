@@ -1,0 +1,66 @@
+{
+  "name": "seiryu",
+  "url": "https://github.com/glassesneo/seiryu",
+  "method": "git",
+  "description": "A nimble package for improving your Nim code",
+  "license": "MIT",
+  "web": "https://github.com/glassesneo/seiryu",
+  "tags": [
+    "assertions",
+    "design-by-contract",
+    "metaprogramming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.4",
+        "hash": "e2838c0d530d63305364943d4c6c8f499ddac68a",
+        "time": 1733807070
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "fa729831dedbe96b15c9d80a9debe0f375609d70",
+        "time": 1725550611
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "1e698a6e13882c097e825ab46fe8a93d934357eb",
+        "time": 1725457642
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "98eb50053b2efb18a3e47327df92d75cda6a6526",
+        "time": 1725450844
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "009a2dd0611f0d79d28a6a41995cf020a29b9504",
+        "time": 1725440054
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "c0f223bdab5176aa6ffd2dced5371a4381f09ba8",
+        "time": 1725380504
+      }
+    ],
+    "commit": {
+      "hash": "06bf3068aaa3d6fbd0cbe9cd091f94e60d7526b3",
+      "time": 1741185752
+    }
+  }
+}

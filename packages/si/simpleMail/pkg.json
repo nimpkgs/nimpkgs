@@ -1,0 +1,41 @@
+{
+  "name": "simpleMail",
+  "url": "https://github.com/up7down8/simpleMail",
+  "method": "git",
+  "description": "Make sending HTML and file emails easier.",
+  "license": "MIT",
+  "web": "https://github.com/up7down8/simpleMail",
+  "tags": [
+    "smtp",
+    "mail"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "smtp",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f998fe66e4df9391a8be58ec8d84916b20eb1fba",
+      "time": 1715943826
+    }
+  }
+}

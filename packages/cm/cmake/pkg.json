@@ -1,0 +1,53 @@
+{
+  "name": "cmake",
+  "url": "https://github.com/genotrance/cmake",
+  "method": "git",
+  "description": "CMake for Nimble",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/cmake",
+  "tags": [
+    "cmake",
+    "build",
+    "tool",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [
+        "cmake"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "6524d14a508df4414d7377ae530d6e236b850213",
+        "time": 1592712236
+      }
+    ],
+    "commit": {
+      "hash": "6524d14a508df4414d7377ae530d6e236b850213",
+      "time": 1592712236
+    }
+  }
+}

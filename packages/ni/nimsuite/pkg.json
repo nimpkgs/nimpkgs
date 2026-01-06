@@ -1,0 +1,42 @@
+{
+  "name": "nimsuite",
+  "url": "https://github.com/c6h4clch3/NimSuite",
+  "method": "git",
+  "description": "a simple test framework for nim.",
+  "license": "MIT",
+  "web": "https://github.com/c6h4clch3/NimSuite",
+  "tags": [
+    "unittest"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        }
+      ],
+      "bin": [
+        "nimsuite"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "cabc2ac68e455872c557edbe0e9e447fb9490410",
+        "time": 1581313079
+      }
+    ],
+    "commit": {
+      "hash": "76c90cb33b2ee28a4643e6ff53b86cacdd5920ab",
+      "time": 1581562420
+    }
+  }
+}

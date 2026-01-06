@@ -1,0 +1,42 @@
+{
+  "name": "nimbpf",
+  "url": "https://github.com/jasonk000/nimbpf",
+  "method": "git",
+  "description": "libbpf for nim",
+  "license": "MIT",
+  "web": "https://github.com/jasonk000/nimbpf",
+  "tags": [
+    "libbpf",
+    "ebpf",
+    "bpf"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "39b9f1a2cd47da8e456644d3eb3dbb6ed68907af",
+      "time": 1576707224
+    }
+  }
+}

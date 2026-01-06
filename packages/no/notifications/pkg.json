@@ -1,0 +1,44 @@
+{
+  "name": "notifications",
+  "url": "https://github.com/dom96/notifications",
+  "method": "git",
+  "description": "Library for displaying notifications on the desktop",
+  "license": "MIT",
+  "web": "https://github.com/dom96/notifications",
+  "tags": [
+    "notifications",
+    "alerts",
+    "gui",
+    "toasts",
+    "macosx",
+    "cocoa"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "95a56024c750e439feaedd195d1b6c81836072b2",
+        "time": 1520547039
+      }
+    ],
+    "commit": {
+      "hash": "5c30d45ea7235446647858bc50b2a24f0b5b1cb8",
+      "time": 1520547240
+    }
+  }
+}

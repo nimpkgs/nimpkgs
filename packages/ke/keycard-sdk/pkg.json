@@ -1,0 +1,70 @@
+{
+  "name": "keycard-sdk",
+  "url": "https://github.com/mmlado/keycard-nim",
+  "method": "git",
+  "description": "Nim SDK to interact with the Status Keycard",
+  "license": "MIT",
+  "web": "https://github.com/mmlado/keycard-nim",
+  "tags": [
+    "library",
+    "Keycard",
+    "SDK"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "pcsc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/status-im/nim-secp256k1",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "67b36377235d0978d2cf49f07933c135c600c971",
+        "time": 1762577408
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "31519609819dd93cb8628e23e7a40d4db0546c1c",
+        "time": 1762340555
+      }
+    ],
+    "commit": {
+      "hash": "7f3d352f2fc0cb29564224239720fa1f28929b19",
+      "time": 1762791408
+    }
+  }
+}

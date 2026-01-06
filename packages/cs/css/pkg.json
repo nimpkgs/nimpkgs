@@ -1,0 +1,43 @@
+{
+  "name": "css",
+  "url": "https://github.com/thing-king/css",
+  "method": "git",
+  "description": "CSS parser and validator",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/css",
+  "tags": [
+    "css",
+    "parser",
+    "validaator",
+    "validation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.68",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "lifter",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a6e195afd1bb85f768cfbdc5c8a0faced54cbec9",
+      "time": 1754532682
+    }
+  }
+}

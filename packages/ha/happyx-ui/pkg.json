@@ -1,0 +1,45 @@
+{
+  "name": "happyx-ui",
+  "url": "https://github.com/HapticX/happyx-ui",
+  "method": "git",
+  "description": "UI library for HappyX web framework",
+  "license": "MIT",
+  "web": "https://github.com/HapticX/happyx-ui",
+  "tags": [
+    "web",
+    "gui",
+    "ui",
+    "library",
+    "happyx",
+    "happyx-native"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "happyx",
+          "str": ">= 3.10.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.10.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0f9831edc98c830a92931f62d4074130e49b6dbc",
+      "time": 1716047291
+    }
+  }
+}

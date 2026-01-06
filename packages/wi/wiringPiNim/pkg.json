@@ -1,0 +1,36 @@
+{
+  "name": "wiringPiNim",
+  "url": "https://github.com/ThomasTJdev/nim_wiringPiNim",
+  "method": "git",
+  "description": "Wrapper that implements some of wiringPi's function for controlling a Raspberry Pi",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_wiringPiNim",
+  "tags": [
+    "wrapper",
+    "raspberry",
+    "rpi",
+    "wiringpi",
+    "pi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "99c693fee0a8b4136c5133c419cb38dfe794c5d2",
+      "time": 1518963640
+    }
+  }
+}

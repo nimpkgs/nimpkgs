@@ -1,0 +1,74 @@
+{
+  "name": "interface_implements",
+  "url": "https://github.com/itsumura-h/nim-interface-implements",
+  "method": "git",
+  "description": "implements macro creates toInterface proc.",
+  "license": "MIT",
+  "web": "https://github.com/itsumura-h/nim-interface-implements",
+  "tags": [
+    "interface"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.6",
+        "hash": "4cabf5dc5d0c36f8f26dd0f718498bcb9bd0d994",
+        "time": 1716406941
+      },
+      {
+        "tag": "v0.2.5",
+        "hash": "70b25ad4733dff3741db325576868d1c3f0acaaa",
+        "time": 1712759328
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "3e15837856118e8c9ee93a3bd9a877afbb2d457a",
+        "time": 1706067242
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "3b64362750b2796c643b13952e87d5c906dbb096",
+        "time": 1648005458
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "739afb8dc69653d7b7d31b99724aa28e76a7df79",
+        "time": 1630771385
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "f50213b5084c31350613f07ba272d31551533986",
+        "time": 1621007592
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "c28a5b52a4b41a9ecbbfc74def0148f7ad63474a",
+        "time": 1620857390
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "55f2cd853ea7eaea1fd614be2588edd1d91c89d5",
+        "time": 1620791719
+      }
+    ],
+    "commit": {
+      "hash": "ef7eacbc4b24b50481af7c074786e64b147164c7",
+      "time": 1716408090
+    }
+  }
+}

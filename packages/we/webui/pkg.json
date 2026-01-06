@@ -1,0 +1,96 @@
+{
+  "name": "webui",
+  "url": "https://github.com/webui-dev/nim-webui",
+  "method": "git",
+  "description": "Nim wrapper for WebUI",
+  "license": "MIT",
+  "web": "https://webui.me/",
+  "tags": [
+    "webui",
+    "web",
+    "gui",
+    "ui",
+    "wrapper",
+    "bindings",
+    "cross-platform",
+    "browser",
+    "chrome",
+    "firefox",
+    "safari",
+    "webapp",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.4.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "2.4.2",
+        "hash": "552a3e3fde6e3930bd8178affb42c4a5a0cec813",
+        "time": 1703982154
+      },
+      {
+        "tag": "2.3.0.2",
+        "hash": "5a51cd19b46c2ca26a64c86329c66cea4bd751f2",
+        "time": 1687290961
+      },
+      {
+        "tag": "2.3.0.1",
+        "hash": "b00be9cbd0ff6b96b19116b4c4d24d4995a6212c",
+        "time": 1684943915
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "f6df4a8546b954893184026a551d00f81df07528",
+        "time": 1683656836
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "bc6d423288637a6e58fa2d72a6ce6e24a36c6079",
+        "time": 1680387095
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "cf7d2f08b7efb13ccc80bd3653f3804d93170003",
+        "time": 1680304404
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "8fbb790d18d8617a10688f3cc8b5cbdfc30afe7c",
+        "time": 1680277054
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "aa439e8e0c9da02a30f0c8fdb305d5148499fb4b",
+        "time": 1679191637
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "d29bc2fc9eb2e5f88911a466a1f72635fa62eff2",
+        "time": 1678707310
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "9d10af6119e59172ccc8cd323533479b68c472bf",
+        "time": 1678654081
+      }
+    ],
+    "commit": {
+      "hash": "3d0d4e690a8c7a0502d100b4b8ace04dd7a79253",
+      "time": 1765406400
+    }
+  }
+}

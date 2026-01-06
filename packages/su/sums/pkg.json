@@ -1,0 +1,38 @@
+{
+  "name": "sums",
+  "url": "https://github.com/planetis-m/sums",
+  "method": "git",
+  "description": "Accurate summation functions",
+  "license": "MIT",
+  "web": "https://github.com/planetis-m/sums",
+  "tags": [
+    "summation",
+    "errors",
+    "floating point",
+    "rounding",
+    "numerical methods",
+    "number",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "4d5f687a672f08b3d294fb13124d4e8fe4df20d8",
+      "time": 1625582716
+    }
+  }
+}

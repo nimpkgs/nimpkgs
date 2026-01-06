@@ -1,0 +1,69 @@
+{
+  "name": "dnd",
+  "url": "https://github.com/adokitkat/dnd",
+  "method": "git",
+  "description": "Drag and drop source / target",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/adokitkat/dnd",
+  "tags": [
+    "drag-and-drop",
+    "binary",
+    "dnd",
+    "terminal",
+    "gtk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        },
+        {
+          "name": "gintro",
+          "str": "0.9.9",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.9.9"
+          }
+        }
+      ],
+      "bin": [
+        "dnd"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.7.0",
+        "hash": "1e9a85959951b12d534ac35cb3a2dbe4290b38e5",
+        "time": 1664049278
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "ce34e0e2c3f0a856ba291c446479ad24ec8d4618",
+        "time": 1645121781
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "94067a0550a55f174de582936e546d666a30a76e",
+        "time": 1644670111
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "9fca3cc77cd861cd32e7d026895ddef777996911",
+        "time": 1644582612
+      }
+    ],
+    "commit": {
+      "hash": "de4ac31831fdfa87120f263fb9e7ca4277b69f8c",
+      "time": 1740073938
+    }
+  }
+}

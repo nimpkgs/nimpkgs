@@ -1,0 +1,46 @@
+{
+  "name": "arduino",
+  "url": "https://github.com/markspanbroek/nim-arduino",
+  "method": "git",
+  "description": "Arduino bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/nim-arduino",
+  "tags": [
+    "arduino",
+    "platformio",
+    "embedded"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2 & < 2.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
+        "time": 1622193361
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "4fff29d36e880d67fcbc3edb62061e941d0cfb70",
+        "time": 1611409344
+      }
+    ],
+    "commit": {
+      "hash": "ea798d16d07cd64dce3cdddd6f8aa4d3c6be0173",
+      "time": 1622193361
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "parazoa",
+  "url": "https://github.com/paranim/parazoa",
+  "method": "git",
+  "description": "Immutable, persistent data structures",
+  "license": "Public Domain",
+  "tags": [
+    "immutable",
+    "persistent"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.7.0",
+        "hash": "d0d8f4146688c98876a98ffb41c41ee282f0edf1",
+        "time": 1672027619
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "cca9b0ef5cd3222f91b5ff4371e86f6c000521f9",
+        "time": 1672020851
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "4e583a9dae78a3efb430c79497d96d11cb4a393d",
+        "time": 1671937920
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "110a419f0972715f165ee349175d1accb678b887",
+        "time": 1671925134
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "4992f377beaf25752dae18254556557973a27765",
+        "time": 1671922009
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "eb4752b2318a3ecfcf7a722da4adb5a1f3084e66",
+        "time": 1671920322
+      }
+    ],
+    "commit": {
+      "hash": "8a9e8964f39b4591f91cbe582118e485503eff6b",
+      "time": 1672233045
+    }
+  }
+}

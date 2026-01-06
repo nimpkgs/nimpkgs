@@ -1,0 +1,73 @@
+{
+  "name": "proxyproto",
+  "url": "https://github.com/ba0f3/libproxy.nim",
+  "method": "git",
+  "description": "PROXY Protocol enabler for aged programs",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/libproxy.nim",
+  "tags": [
+    "proxy",
+    "protocol",
+    "proxy-protocol",
+    "haproxy",
+    "tcp",
+    "ipv6",
+    "ipv4",
+    "linux",
+    "unix",
+    "hook",
+    "load-balancer",
+    "socket",
+    "udp",
+    "ipv6-support",
+    "preload"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "f28a800c25f4b8470c3b83e39dcb360c4902b3ab",
+        "time": 1664383499
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "4d201311abec0b62edae73be811a759e8fccbfa6",
+        "time": 1655186420
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "8cd25e554d06f613e5bfa244a71a8cbd936c168c",
+        "time": 1633049501
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "3408a140d36cd733f387ad8722235aaf74c96c65",
+        "time": 1572372915
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "3c5f254c9bb56c436874651ccc0d0991930e8431",
+        "time": 1538318776
+      }
+    ],
+    "commit": {
+      "hash": "f28a800c25f4b8470c3b83e39dcb360c4902b3ab",
+      "time": 1664383499
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "xlsxio",
+  "url": "https://github.com/jiiihpeeh/xlsxio-nim",
+  "method": "git",
+  "description": "This is a xlsxio wrapper done Nim in mind.",
+  "license": "MIT",
+  "web": "https://github.com/jiiihpeeh/xlsxio-nim",
+  "tags": [
+    "xlsxio",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3791eae61832d8fdae88ea4759cc88d75c0a125c",
+      "time": 1641481207
+    }
+  }
+}

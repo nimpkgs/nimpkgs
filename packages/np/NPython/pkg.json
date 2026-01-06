@@ -1,0 +1,65 @@
+{
+  "name": "NPython",
+  "url": "https://github.com/nimpylib/NPython",
+  "method": "git",
+  "description": "Python interpreter implemented in Nim, supporting JS backends",
+  "license": "MIT",
+  "web": "https://nimpylib.org",
+  "tags": [
+    "pylib",
+    "python",
+    "vm",
+    "interpreter",
+    "language",
+    "javascript",
+    "node.js"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "> 2.0.8",
+          "ver": {
+            "kind": "verLater",
+            "ver": "2.0.8"
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyrepr",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/jscompat",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/translateEscape",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "npython"
+      ],
+      "srcDir": "."
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "6bb25e0b5a10b703b7b31f30b84107dccdbe613f",
+      "time": 1767021015
+    }
+  }
+}

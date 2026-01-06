@@ -1,0 +1,44 @@
+{
+  "name": "ansiutils",
+  "url": "https://github.com/ansiwave/ansiutils",
+  "method": "git",
+  "description": "Utilities for parsing CP437 and ANSI escape codes",
+  "license": "Public Domain",
+  "tags": [
+    "ansi",
+    "cp437"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "65811c1556cd103a060dcf0e08d2d5090633b8fd",
+        "time": 1671716484
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "fc681228ecb51d82cfb65bb2c7fe47d90823321b",
+        "time": 1651844094
+      }
+    ],
+    "commit": {
+      "hash": "65811c1556cd103a060dcf0e08d2d5090633b8fd",
+      "time": 1671716484
+    }
+  }
+}

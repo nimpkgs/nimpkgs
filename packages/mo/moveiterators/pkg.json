@@ -1,0 +1,44 @@
+{
+  "name": "moveiterators",
+  "url": "https://github.com/sls1005/moveiterators",
+  "method": "git",
+  "description": "Special iterators that use move semantics",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/moveiterators",
+  "tags": [
+    "iterator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "85b106139895c1ca55d3c40b020cc787dc202ca7",
+        "time": 1709136707
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "bd90fbf3276e8a6fb5db0c4eab4fb7e476958ab1",
+        "time": 1701950984
+      }
+    ],
+    "commit": {
+      "hash": "85b106139895c1ca55d3c40b020cc787dc202ca7",
+      "time": 1709136707
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "scfg",
+  "url": "https://codeberg.org/xoich/nim-scfg",
+  "method": "git",
+  "description": "Simple configuration file format (scfg) parser",
+  "license": "CC-BY-SA 4.0",
+  "web": "https://codeberg.org/xoich/nim-scfg",
+  "tags": [
+    "library",
+    "config",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f1116d89b46462d7a353c56288f75992523f675c",
+      "time": 1674817160
+    }
+  }
+}

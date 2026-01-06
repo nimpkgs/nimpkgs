@@ -1,0 +1,33 @@
+{
+  "name": "samson",
+  "url": "https://github.com/GULPF/samson",
+  "method": "git",
+  "description": "Implementation of JSON5.",
+  "license": "MIT",
+  "web": "https://github.com/GULPF/samson",
+  "tags": [
+    "json",
+    "json5"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "71ead61104302abfc0d4463c91f73a4126b2184c",
+      "time": 1588100064
+    }
+  }
+}

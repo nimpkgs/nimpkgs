@@ -1,0 +1,103 @@
+{
+  "name": "rclnim",
+  "url": "https://github.com/Pylgos/rclnim",
+  "method": "git",
+  "description": "Nim bindings for ROS2",
+  "license": "MIT",
+  "web": "https://github.com/Pylgos/rclnim",
+  "tags": [
+    "library",
+    "embedded",
+    "ros2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        },
+        {
+          "name": "tinyre",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/Pylgos/nim-concurrent.git",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronos",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "_rclnim_import_interface_helper"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.6.0",
+        "hash": "46d09a4eada14aca53209fb8637fbef83c535f42",
+        "time": 1700119165
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "04e4c6525fb1aeed4202ad30471c06ebf8adafe0",
+        "time": 1693100860
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "840a720a283ded2aaf606be2508099554d1018ea",
+        "time": 1691556765
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "be49e953ad181272b6460cbed7dd68902ae407bc",
+        "time": 1689491345
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "97852067fc32e4fff35e25a738573e453931a627",
+        "time": 1689259900
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "04bf5fe84d6eeecbc1ae91ec4bf4895b80600371",
+        "time": 1688983569
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "e3ee10dbdaf7e74f64a0f07067480eecd491b5ea",
+        "time": 1685972071
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "46fcce3e2fa64eef5bb98ff1984a18900d07609b",
+        "time": 1685855275
+      }
+    ],
+    "commit": {
+      "hash": "46d09a4eada14aca53209fb8637fbef83c535f42",
+      "time": 1700119165
+    }
+  }
+}

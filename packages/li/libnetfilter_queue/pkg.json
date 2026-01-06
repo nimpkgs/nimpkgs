@@ -1,0 +1,44 @@
+{
+  "name": "libnetfilter_queue",
+  "url": "https://github.com/ba0f3/libnetfilter_queue.nim",
+  "method": "git",
+  "description": "libnetfilter_queue wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/libnetfilter_queue.nim",
+  "tags": [
+    "wrapper",
+    "libnetfilter",
+    "queue",
+    "netfilter",
+    "firewall",
+    "iptables"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "ee0e49f69f39d9add5bf1a38796880812d0759af",
+        "time": 1593449648
+      }
+    ],
+    "commit": {
+      "hash": "71a7099f3b9729a880783f1bbe1228a6f76e46d1",
+      "time": 1633049498
+    }
+  }
+}

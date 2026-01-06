@@ -1,0 +1,83 @@
+{
+  "name": "versicles",
+  "url": "https://github.com/thisago/versicles",
+  "method": "git",
+  "description": "Lib and CLI tool to manipulate biblical verses!",
+  "license": "MIT",
+  "web": "https://github.com/thisago/versicles",
+  "tags": [
+    "bible",
+    "verses",
+    "versicles",
+    "scriptures",
+    "markdown",
+    "tool",
+    "cli",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "bibleTools",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "versicles"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.9.0",
+        "hash": "f99a71933fe37f35e2648a1ea5a0951d0803b5d5",
+        "time": 1691264814
+      },
+      {
+        "tag": "0.8.1",
+        "hash": "cb3d9872d03f5aaccd4d01d92f490ef5d2d43c47",
+        "time": 1680877926
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "6e4179d90b986d963cf167f2f5a8c171ce25bd5d",
+        "time": 1680828029
+      }
+    ],
+    "commit": {
+      "hash": "f99a71933fe37f35e2648a1ea5a0951d0803b5d5",
+      "time": 1691264814
+    }
+  }
+}

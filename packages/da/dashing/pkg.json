@@ -1,0 +1,44 @@
+{
+  "name": "dashing",
+  "url": "https://github.com/FedericoCeratto/nim-dashing",
+  "method": "git",
+  "description": "Terminal dashboards.",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-dashing",
+  "tags": [
+    "library",
+    "pure",
+    "terminal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [
+        "dashing"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "09a8ee027582521d4cffc98ba7c51c41520d9ee8",
+        "time": 1552835729
+      }
+    ],
+    "commit": {
+      "hash": "09a8ee027582521d4cffc98ba7c51c41520d9ee8",
+      "time": 1552835729
+    }
+  }
+}

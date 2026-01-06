@@ -1,0 +1,35 @@
+{
+  "name": "nest",
+  "url": "https://github.com/kedean/nest.git",
+  "method": "git",
+  "description": "RESTful URI router",
+  "license": "MIT",
+  "web": "https://github.com/kedean/nest",
+  "tags": [
+    "library",
+    "api",
+    "router",
+    "web"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "03b9c54925965c991e83527b256423130657e87a",
+      "time": 1533093502
+    }
+  }
+}

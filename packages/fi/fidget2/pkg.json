@@ -1,0 +1,138 @@
+{
+  "name": "fidget2",
+  "url": "https://github.com/treeform/fidget2",
+  "method": "git",
+  "description": "Cross platform UI, with Figma API and OpenGL backend.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/fidget2",
+  "tags": [
+    "ui",
+    "figma",
+    "gui",
+    "opengl",
+    "emscripten",
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        },
+        {
+          "name": "puppy",
+          "str": ">= 2.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.2"
+          }
+        },
+        {
+          "name": "boxy",
+          "str": ">= 0.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "a02a6e3b7dc8c55c52a9f62833f1039c84437dbe",
+        "time": 1761609047
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "43e0a8c870cf416871e187c94544187279519c35",
+        "time": 1761339686
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "2fe246ecea2895a622d2d2580e81f5da54e1e088",
+        "time": 1761245660
+      },
+      {
+        "tag": "0.0.12",
+        "hash": "e76054839b2eb758010fed79fbfc1a80036da58b",
+        "time": 1760553607
+      },
+      {
+        "tag": "0.0.11",
+        "hash": "a86c683a99a7d66765aeda153454b64ea9a2601f",
+        "time": 1760467107
+      },
+      {
+        "tag": "0.0.10",
+        "hash": "a52d4b3f80b473bd97b193653262a7b5e20d2f8d",
+        "time": 1760465744
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "e9ed56559c56d14c871edc4d5b0ca9579dc4d854",
+        "time": 1760379267
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "942ff265f2b0e49f5546d111bc08426600e1815f",
+        "time": 1759513834
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "7833e10b66095d3b86d038853ffd23be28d9c859",
+        "time": 1759255059
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "c6f783fa1ca990bcfb2b81b04a32ffc1995b25cd",
+        "time": 1759188206
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "5961bf702c163caadd249a6a20010c2117b740f8",
+        "time": 1759176083
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "0e8ff803eb5f61fac8875288ef5b2bc1ed8be930",
+        "time": 1759169390
+      },
+      {
+        "tag": "0.0.0",
+        "hash": "9b5225fb5129c5be6255c07fdd5c768a5a16d29b",
+        "time": 1758470726
+      }
+    ],
+    "commit": {
+      "hash": "b55e5b5731391081c69229809451112f10e39a9e",
+      "time": 1765926295
+    }
+  }
+}

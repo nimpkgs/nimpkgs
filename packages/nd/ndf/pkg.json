@@ -1,0 +1,67 @@
+{
+  "name": "ndf",
+  "url": "https://github.com/rustomax/ndf",
+  "method": "git",
+  "description": "Duplicate files finder",
+  "license": "MIT",
+  "web": "https://github.com/rustomax/ndf",
+  "tags": [
+    "app",
+    "binary",
+    "duplicates",
+    "utility",
+    "filesystem"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.5"
+          }
+        },
+        {
+          "name": "murmurhash",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        }
+      ],
+      "bin": [
+        "ndf"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "2b22b453d1cff1193a01a06e577220c6b164c245",
+        "time": 1612062143
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "bdd8d38cab2d1fe369341a383128175cf517d64d",
+        "time": 1574972755
+      }
+    ],
+    "commit": {
+      "hash": "2b22b453d1cff1193a01a06e577220c6b164c245",
+      "time": 1612062143
+    }
+  }
+}

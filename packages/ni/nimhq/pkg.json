@@ -1,0 +1,34 @@
+{
+  "name": "nimhq",
+  "url": "https://github.com/sillibird/nimhq",
+  "method": "git",
+  "description": "HQ Trivia API wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/sillibird/nimhq",
+  "tags": [
+    "library",
+    "api",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "57856e68ce2d203e6451051c9e0cb5ee27e8c14c",
+      "time": 1547588033
+    }
+  }
+}

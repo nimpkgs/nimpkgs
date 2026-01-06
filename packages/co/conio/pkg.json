@@ -1,0 +1,34 @@
+{
+  "name": "conio",
+  "url": "https://github.com/guevara-chan/conio",
+  "method": "git",
+  "description": ".NET-inspired lightweight terminal library",
+  "license": "MIT",
+  "web": "https://github.com/guevara-chan/conio",
+  "tags": [
+    "console",
+    "terminal",
+    "io"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b311f94f462057cf8df1d92a2c139227a9586618",
+      "time": 1569408908
+    }
+  }
+}

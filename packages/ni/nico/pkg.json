@@ -1,0 +1,73 @@
+{
+  "name": "nico",
+  "url": "https://github.com/ftsf/nico",
+  "method": "git",
+  "description": "Nico game engine",
+  "license": "MIT",
+  "web": "https://github.com/ftsf/nico",
+  "tags": [
+    "pico-8",
+    "game",
+    "library",
+    "ludum",
+    "dare"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.10",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "sdl2_nim",
+          "str": ">= 2.0.14.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.14.2"
+          }
+        },
+        {
+          "name": "gifenc",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.5.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.9"
+          }
+        }
+      ],
+      "bin": [
+        "nicosynth",
+        "nicoboot",
+        "nicoandroid"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "409eec1eeab05f5eb07d17343992638ce37f25ed",
+      "time": 1720484060
+    }
+  }
+}

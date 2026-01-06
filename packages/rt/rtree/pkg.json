@@ -1,0 +1,32 @@
+{
+  "name": "rtree",
+  "url": "https://github.com/stefansalewski/RTree",
+  "method": "git",
+  "description": "R-Tree",
+  "license": "MIT",
+  "web": "https://github.com/stefansalewski/RTree",
+  "tags": [
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2a6a80f5cbcbc0673bbf67628c1766baa838fc1d",
+      "time": 1617445526
+    }
+  }
+}

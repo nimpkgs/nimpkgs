@@ -1,0 +1,26 @@
+{
+  "name": "io-isense",
+  "url": "https://github.com/nimious/io-isense.git",
+  "method": "git",
+  "description": "Obsolete - please use isense instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-isense",
+  "tags": [
+    "binding",
+    "isense",
+    "intersense",
+    "inertiacube",
+    "intertrax",
+    "microtrax",
+    "thales",
+    "tracking",
+    "sensor"
+  ],
+  "meta": {
+    "broken": true,
+    "commit": {
+      "hash": "cb59c2f7aad209cda8a188d7089d929c8fa55eab",
+      "time": 1454174737
+    }
+  }
+}

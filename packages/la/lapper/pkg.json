@@ -1,0 +1,44 @@
+{
+  "name": "lapper",
+  "url": "https://github.com/brentp/nim-lapper",
+  "method": "git",
+  "description": "fast interval overlaps",
+  "license": "MIT",
+  "web": "https://github.com/brentp/nim-lapper",
+  "tags": [
+    "interval"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.8",
+        "hash": "bdd43a522d2bf1730794e3a68a45673f83a42cfe",
+        "time": 1750430429
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "36d12438d92bd90af0b4e592dc2ba6b6de21bb38",
+        "time": 1604497367
+      }
+    ],
+    "commit": {
+      "hash": "bdd43a522d2bf1730794e3a68a45673f83a42cfe",
+      "time": 1750430429
+    }
+  }
+}

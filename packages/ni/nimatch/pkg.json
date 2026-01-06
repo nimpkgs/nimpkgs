@@ -1,0 +1,40 @@
+{
+  "name": "nimatch",
+  "url": "https://github.com/voidpunk/NiMatch",
+  "method": "git",
+  "description": "Rust-like match syntax macros for Nim",
+  "license": "MIT",
+  "web": "https://github.com/voidpunk/NiMatch",
+  "tags": [
+    "match",
+    "rust",
+    "macro",
+    "nim",
+    "caseof",
+    "switch",
+    "sugar",
+    "synatx",
+    "nimatch"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a34dc184557e9bf52ff2e3650405a906ecc74aba",
+      "time": 1744586878
+    }
+  }
+}

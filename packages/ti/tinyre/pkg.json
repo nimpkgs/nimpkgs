@@ -1,0 +1,45 @@
+{
+  "name": "tinyre",
+  "url": "https://github.com/khchen/tinyre",
+  "method": "git",
+  "description": "Tiny Regex Engine for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/tinyre",
+  "tags": [
+    "re",
+    "regex"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.6.0",
+        "hash": "77469f58916369bc3863194cabb05238577fb257",
+        "time": 1723380349
+      },
+      {
+        "tag": "1.5.2",
+        "hash": "352cfd6a350cc1110c379559c2a8d0dd530de7fd",
+        "time": 1720808750
+      }
+    ],
+    "commit": {
+      "hash": "77469f58916369bc3863194cabb05238577fb257",
+      "time": 1723380349
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "recaptcha",
+  "url": "https://github.com/euantorano/recaptcha.nim",
+  "method": "git",
+  "description": "reCAPTCHA support for Nim, supporting rendering a capctcha and verifying a user's response.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/recaptcha.nim",
+  "tags": [
+    "recaptcha",
+    "captcha"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.3",
+        "hash": "d06488e1727bff975a32f22b93b144716a39fa8e",
+        "time": 1579342504
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "397bc9886cc97567a9786269ec1b8239c971c7d4",
+        "time": 1500835014
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "0c7fc5e24987db03f92e8f4fd8547c98ce4547c6",
+        "time": 1488838750
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "07c75d527b155fc42974ee50ec11f87e6fec95b2",
+        "time": 1488837805
+      }
+    ],
+    "commit": {
+      "hash": "0c471d24fee645fc50ffa35849a88d1a3ed00e82",
+      "time": 1586985858
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "chain",
+  "url": "https://github.com/khchen/chain",
+  "method": "git",
+  "description": "Nim's function chaining and method cascading",
+  "license": "MIT",
+  "web": "https://github.com/khchen/chain",
+  "tags": [
+    "macro",
+    "with",
+    "cascade",
+    "operator",
+    "chaining"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "09bfc377c8294c9bb3ddd1e14f61746bcd5da739",
+      "time": 1624562199
+    }
+  }
+}

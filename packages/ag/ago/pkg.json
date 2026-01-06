@@ -1,0 +1,36 @@
+{
+  "name": "ago",
+  "url": "https://github.com/daehee/ago",
+  "method": "git",
+  "description": "Time ago in words in Nim",
+  "license": "MIT",
+  "web": "https://github.com/daehee/ago",
+  "tags": [
+    "web",
+    "time",
+    "datetime",
+    "library",
+    "prologue"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "de420118c02fe2ad57f4b7e3d0affdb4e3bc60ee",
+      "time": 1611868110
+    }
+  }
+}

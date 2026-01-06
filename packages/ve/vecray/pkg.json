@@ -1,0 +1,37 @@
+{
+  "name": "vecray",
+  "url": "https://github.com/morganholly/vecray",
+  "method": "git",
+  "description": "2d/3d array and vector types with basic math for them",
+  "license": "MIT",
+  "web": "https://github.com/morganholly/vecray",
+  "tags": [
+    "vector",
+    "matrix",
+    "array",
+    "array2d",
+    "array3d",
+    "multidimensional-array"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9f421793dd4e349801b09e9b999f77dca713f424",
+      "time": 1751406439
+    }
+  }
+}

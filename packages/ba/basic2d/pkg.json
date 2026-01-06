@@ -1,0 +1,35 @@
+{
+  "name": "basic2d",
+  "url": "https://github.com/nim-lang/basic2d",
+  "method": "git",
+  "description": "Deprecated module for vector/matrices operations.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/basic2d",
+  "tags": [
+    "deprecated",
+    "vector",
+    "stdlib",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "6187392211fc701067e3c206a3024d291b98804c",
+      "time": 1506870001
+    }
+  }
+}

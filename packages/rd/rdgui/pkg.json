@@ -1,0 +1,43 @@
+{
+  "name": "rdgui",
+  "url": "https://github.com/liquid600pgm/rdgui",
+  "method": "git",
+  "description": "A modular GUI toolkit for rapid",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/rdgui",
+  "tags": [
+    "modular",
+    "retained",
+    "gui",
+    "toolkit"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        },
+        {
+          "name": "rapid",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "360035a29be04348430ad89045687844b5c6b2b4",
+      "time": 1641371882
+    }
+  }
+}

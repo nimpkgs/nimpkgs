@@ -1,0 +1,104 @@
+{
+  "name": "unifetch",
+  "url": "https://github.com/thisago/unifetch",
+  "method": "git",
+  "description": "Multi backend HTTP fetching",
+  "license": "MIT",
+  "web": "https://github.com/thisago/unifetch",
+  "tags": [
+    "library",
+    "web",
+    "multi-backend",
+    "seamless",
+    "fetch",
+    "httpclient"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.10.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.10.0",
+        "hash": "009c660a4096eb1b5903634bb9593106adb4d389",
+        "time": 1700121019
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "cd778ef11f486f3f2bbd222b21aa2e86c6d643e4",
+        "time": 1699421940
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "07e56d9159abce54d128f78ed513c0e1e1a65135",
+        "time": 1697219377
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "9fdcec23db54102e816167aa0a96575eaebde26f",
+        "time": 1695888894
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "53ca0507fbe22b6e6582a93a5235cc0df94e7de6",
+        "time": 1695887326
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "4757a005bd3734d20a6bdff1c0a90d3aadd41458",
+        "time": 1695884289
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "20c59d873c70ca3d62531c30253a3e3168d7fee1",
+        "time": 1695878724
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "d109c26f4e18294a174fd3b3fac30669f7e3834e",
+        "time": 1695770694
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "a329fffcf86b26ee4be2c2262063ba37a3d68e7a",
+        "time": 1695751887
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "1c2c77cadff883dca2a6f54ce44db65f45d4f709",
+        "time": 1695749370
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "f8f174f32367dcce4b1f8a5ea93386fce5710016",
+        "time": 1694736748
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "bc96dea867f00e1491aa8b78c33793d5a5f05288",
+        "time": 1694131429
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "d511365a20ca9f719de5b3774c6ae222dc269eee",
+        "time": 1693879081
+      }
+    ],
+    "commit": {
+      "hash": "009c660a4096eb1b5903634bb9593106adb4d389",
+      "time": 1700121019
+    }
+  }
+}

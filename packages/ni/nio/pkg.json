@@ -1,0 +1,291 @@
+{
+  "name": "nio",
+  "url": "https://github.com/c-blake/nio",
+  "method": "git",
+  "description": "Low Overhead Numerical/Native IO library & tools",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/nio",
+  "tags": [
+    "mmap",
+    "memory-mapping",
+    "binary data",
+    "data compiling",
+    "data debugging",
+    "serialize",
+    "serialization",
+    "deserialize",
+    "deserialization",
+    "marshal",
+    "unmarshal",
+    "marshalling",
+    "dataframe",
+    "file arrays",
+    "file format",
+    "file extension convention",
+    "hdf5",
+    "ndarray",
+    "multidimensional-array",
+    "string interning",
+    "open architecture",
+    "column-oriented",
+    "row-oriented",
+    "database",
+    "timeseries",
+    "headerless teafiles",
+    "DBMS",
+    "tables",
+    "SQL",
+    "CSV",
+    "TSV",
+    "extract-transform-load",
+    "ETL",
+    "magic number-keyed decompressor",
+    "command-line",
+    "data engineering",
+    "pipelines",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.10",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.9.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.2"
+          }
+        }
+      ],
+      "bin": [
+        "utils/c2tsv",
+        "nio",
+        "utils/c2tsvs",
+        "utils/lab2sv",
+        "utils/labs2sv",
+        "utils/nmatch",
+        "utils/nsv",
+        "utils/transpose",
+        "utils/lp2term",
+        "utils/addEmpty"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.7.10",
+        "hash": "0be97eefd69d41178dd90d80bd1c51ed2bcdefc1",
+        "time": 1758202095
+      },
+      {
+        "tag": "0.7.9",
+        "hash": "002488e332e8934c5effb62c15a964bf2f7131b1",
+        "time": 1744543787
+      },
+      {
+        "tag": "0.7.8",
+        "hash": "bb5995b29f46949f73707397280cf30e8ecf45bd",
+        "time": 1744484099
+      },
+      {
+        "tag": "0.7.7",
+        "hash": "9cbe86c5625dfb24f8a4873d7e3c39e10ea1987b",
+        "time": 1741716098
+      },
+      {
+        "tag": "0.7.6",
+        "hash": "fabb593682c1db44be07dbb431fa8e677b0dc9c2",
+        "time": 1740087730
+      },
+      {
+        "tag": "0.7.5",
+        "hash": "ffb671ce23b1b77899c3bcff7da2f1ebfb53e7d2",
+        "time": 1731765579
+      },
+      {
+        "tag": "0.7.4",
+        "hash": "b784d3da9b5f651a201eb81abbb27ba8bd5dd0f8",
+        "time": 1731765103
+      },
+      {
+        "tag": "0.7.3",
+        "hash": "2535894e0e50e285f2a46034f3f2a7de575b706b",
+        "time": 1729614219
+      },
+      {
+        "tag": "0.7.2",
+        "hash": "14986ab531faf01b054baa66c70dc6367956c8d4",
+        "time": 1725699144
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "35a4f2407974c703472b45e8bb9368d51307f662",
+        "time": 1721940051
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "81a7f8e5aa51bf5bad4f8dd0cf308a48a87493ea",
+        "time": 1713871085
+      },
+      {
+        "tag": "0.6.11",
+        "hash": "f30017fd69b5842a3a6969cacfeda7fe3c795fe8",
+        "time": 1705425723
+      },
+      {
+        "tag": "0.6.10",
+        "hash": "c5f28db40a4e877eb420d202096afd6aba921871",
+        "time": 1692796553
+      },
+      {
+        "tag": "0.6.9",
+        "hash": "d0b71f203e91a3072f45f73ecc97223f72b09b12",
+        "time": 1688734221
+      },
+      {
+        "tag": "0.6.8",
+        "hash": "44f3fd6ed22a22ce8070c910b9ffb4feeaeeaec3",
+        "time": 1687971153
+      },
+      {
+        "tag": "0.6.7",
+        "hash": "2a77caaeab1e02c727a43b30c5d061b2a2e9b998",
+        "time": 1686167864
+      },
+      {
+        "tag": "0.6.6",
+        "hash": "93c2b08d52a8e19c37f3d20192bd9e4cdd0ea459",
+        "time": 1684585035
+      },
+      {
+        "tag": "0.6.5",
+        "hash": "338eb2a3f75b204463e67c3ba95540463aff8ca6",
+        "time": 1683887008
+      },
+      {
+        "tag": "0.6.4",
+        "hash": "5d0af695d14da158da6016b8a4ffbcdf5b404b43",
+        "time": 1680260036
+      },
+      {
+        "tag": "0.6.3",
+        "hash": "86f2c7b06990311c93fe4c4516b097d454cfc961",
+        "time": 1679267204
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "9352f2b25058f7f1ff5b5bf8c6f9a5faf30a5a80",
+        "time": 1677759913
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "119a77e5f8b2d0e684b4f4c1a6c5d2dd839b0bce",
+        "time": 1673729791
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "1ddd209fd977e089682bb64ac73b16ceec2d4eb6",
+        "time": 1670531470
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "051f8dc2348184a31146aaa4b5b6e17706679dbf",
+        "time": 1665751048
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "f444ab9b2ac10a2ca76855c26794daa6c76b441c",
+        "time": 1641750877
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "bca76da329ea8daa16df30ba15d50aff2497afac",
+        "time": 1641401159
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "312dfd3296b974a55d88f522859eb024f3769a1e",
+        "time": 1641382242
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "90993128ef7bb54265c63b0191e3c5e91b0459aa",
+        "time": 1631866590
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "fb146bb1506601ec99bd420af31d34752ec24363",
+        "time": 1631544827
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "a23188bf22dc9feb95185b1f3c872d306c6712aa",
+        "time": 1630069973
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "3bb684631443e611379359112aab0f4dd2a2ca90",
+        "time": 1629571951
+      },
+      {
+        "tag": "0.1.9",
+        "hash": "1588cc81d08d9e05ec53fe32118bb562ebf36049",
+        "time": 1629555304
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "a205ac9a5042ae170574b9ce9eeac05e3bf274be",
+        "time": 1629475021
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "bc77e0a54d3c9e433e6f7ad821987a7dad3110e9",
+        "time": 1629152269
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "77a3083f65d67a538a8d58c45efcb99f3e527a35",
+        "time": 1629151804
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "9ce594b3d053378bbb92c0851824ce84e9ecae1f",
+        "time": 1628524951
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "b341e14f671f9ae7dab624c465f0343fcad47206",
+        "time": 1628153872
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "218e5e8c22a0fae403d953927655f0128e0eab28",
+        "time": 1626012615
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "84982c31dd2759d6f4d04ea2931ecc65a6ae60dc",
+        "time": 1625764924
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "bfed3aecf2564b694360e4a9528b18a27b388038",
+        "time": 1624986768
+      }
+    ],
+    "commit": {
+      "hash": "0be97eefd69d41178dd90d80bd1c51ed2bcdefc1",
+      "time": 1758202095
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "nimpk",
+  "url": "https://github.com/khchen/nimpk",
+  "method": "git",
+  "description": "PocketLang binding for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/nimpk",
+  "tags": [
+    "pocketlang",
+    "script",
+    "scripting",
+    "programming",
+    "language"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.5"
+          }
+        },
+        {
+          "name": "bigints",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.0.2",
+        "hash": "8bf87fbc8204b90c5a078ea31a7a0bd745266cdd",
+        "time": 1721364271
+      }
+    ],
+    "commit": {
+      "hash": "8bf87fbc8204b90c5a078ea31a7a0bd745266cdd",
+      "time": 1721364271
+    }
+  }
+}

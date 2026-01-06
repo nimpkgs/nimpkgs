@@ -1,0 +1,42 @@
+{
+  "name": "spacenimtraders",
+  "url": "https://github.com/ire4ever1190/SpaceNimTraders",
+  "method": "git",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/SpaceNimTraders",
+  "tags": [
+    "wrapper",
+    "game",
+    "api",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "838378b06dea2fb55bf554bd4d686214f59e319a",
+        "time": 1616288483
+      }
+    ],
+    "commit": {
+      "hash": "dd13996b2ff5f8aca2540d544cfa5223d073cc2a",
+      "time": 1616288743
+    }
+  }
+}

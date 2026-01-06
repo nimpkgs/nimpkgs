@@ -1,0 +1,41 @@
+{
+  "name": "md4",
+  "url": "https://github.com/infinoid/md4.nim",
+  "method": "git",
+  "description": "dumb MD4 digest calculation",
+  "license": "MIT",
+  "web": "https://github.com/infinoid/md4.nim",
+  "tags": [
+    "md4",
+    "digest",
+    "hash"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "328090bf22850011c438742c4dca0b2c35d3a2c6",
+        "time": 1738323389
+      }
+    ],
+    "commit": {
+      "hash": "328090bf22850011c438742c4dca0b2c35d3a2c6",
+      "time": 1738323389
+    }
+  }
+}

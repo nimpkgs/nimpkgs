@@ -1,0 +1,66 @@
+{
+  "name": "caprese",
+  "url": "https://github.com/zenywallet/caprese",
+  "method": "git",
+  "description": "A front-end web server specialized for real-time message exchange",
+  "license": "MIT",
+  "web": "https://github.com/zenywallet/caprese",
+  "tags": [
+    "web",
+    "http",
+    "https",
+    "ssl",
+    "tls",
+    "websocket",
+    "proxy",
+    "framework"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "karax",
+          "str": ">= 1.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.3"
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "caprese"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "2414d049497914816f848413039d21f380833fc6",
+      "time": 1767885895
+    }
+  }
+}

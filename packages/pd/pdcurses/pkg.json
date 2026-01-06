@@ -1,0 +1,18 @@
+{
+  "name": "pdcurses",
+  "url": "https://github.com/lcrees/pdcurses",
+  "method": "git",
+  "description": "Nim wrapper for PDCurses",
+  "license": "MIT",
+  "web": "https://github.com/lcrees/pdcurses",
+  "tags": [
+    "pdcurses",
+    "curses",
+    "console",
+    "gui",
+    "deleted"
+  ],
+  "meta": {
+    "status": "Deleted"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "plz",
+  "url": "https://github.com/juancarlospaco/nim-pypi",
+  "method": "git",
+  "description": "PLZ Python PIP alternative",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-pypi",
+  "tags": [
+    "python",
+    "pip",
+    "nimpy"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "requirementstxt",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        },
+        {
+          "name": "libarchibi",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        }
+      ],
+      "bin": [
+        "plz"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "1d03837a9bce94ede1d1063e5165646d8ff321ea",
+        "time": 1585328713
+      }
+    ],
+    "commit": {
+      "hash": "0cefec96334d9eb06335e19fe9f13402a059f7d4",
+      "time": 1670637291
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "httpkit",
+  "url": "https://github.com/tulayang/httpkit",
+  "method": "git",
+  "description": "An efficient HTTP tool suite written in pure nim. Help you to write HTTP services or clients via TCP, UDP, or even Unix Domain socket, etc.",
+  "license": "MIT",
+  "web": "https://github.com/tulayang/httpkit",
+  "tags": [
+    "http",
+    "request",
+    "response",
+    "stream",
+    "bigfile",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "8e91b610fa93293df26db842c4099836ebb8c007",
+      "time": 1506408014
+    }
+  }
+}

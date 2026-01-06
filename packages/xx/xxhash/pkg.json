@@ -1,0 +1,84 @@
+{
+  "name": "xxhash",
+  "url": "https://github.com/OpenSystemsLab/xxhash.nim",
+  "method": "git",
+  "description": "xxhash wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/xxhash.nim",
+  "tags": [
+    "fast",
+    "hash",
+    "algorithm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.12.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "nint128",
+          "str": ">= 0.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.12.1",
+        "hash": "dbe31c708115cd0e065e72f22c25cd7b1bdc491c",
+        "time": 1742459585
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "b66e7945d5ca996a5d5db09f499bfa9cc2172115",
+        "time": 1726539228
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "ad3c018623c0ced4c4a578564a9c2e35248716f7",
+        "time": 1722003980
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "e5823374ad1dc49bc139d0762a82e6748ad2530e",
+        "time": 1721986990
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "3277b646849f0b4afa41eab5de069899e1364d11",
+        "time": 1622508465
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "818ac3f9e84930e86a04f45efc6a61a1d77d83cc",
+        "time": 1616425514
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "8e3afa425a435c5e89e1c5e59e425a04cae7ab56",
+        "time": 1598033073
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "9d4ca02ded75122796062537c6def2296f2b32b6",
+        "time": 1553272667
+      }
+    ],
+    "commit": {
+      "hash": "dbe31c708115cd0e065e72f22c25cd7b1bdc491c",
+      "time": 1742459585
+    }
+  }
+}

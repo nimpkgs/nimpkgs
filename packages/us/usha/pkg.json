@@ -1,0 +1,44 @@
+{
+  "name": "usha",
+  "url": "https://github.com/subsetpark/untitled-shell-history-application",
+  "method": "git",
+  "description": "untitled shell history application",
+  "license": "MIT",
+  "web": "https://github.com/subsetpark/untitled-shell-history-application",
+  "tags": [
+    "shell",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "usha"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "dbf23bdd64055c18ac42df4f7538e7341adf180e",
+      "time": 1623087259
+    }
+  }
+}

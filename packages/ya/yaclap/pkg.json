@@ -1,0 +1,34 @@
+{
+  "name": "yaclap",
+  "url": "https://codeberg.org/emanresu3/yaclap",
+  "method": "git",
+  "description": "Yet another command line argument parser for Nim.",
+  "license": "MIT",
+  "web": "https://codeberg.org/emanresu3/yaclap",
+  "tags": [
+    "console",
+    "command-line",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "44e890687a25412d185f86e0f2361ff1d2eb7cb0",
+      "time": 1751433176
+    }
+  }
+}

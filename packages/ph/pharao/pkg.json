@@ -1,0 +1,74 @@
+{
+  "name": "pharao",
+  "url": "https://github.com/capocasa/pharao",
+  "method": "git",
+  "description": "Quick 'n easy Nim web programming, auto compile & run .nim from the web root",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/pharao",
+  "tags": [
+    "web",
+    "http",
+    "server",
+    "php"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "mummy",
+          "str": ">= 0.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.6"
+          }
+        },
+        {
+          "name": "curly",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "pharao"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "c639138f783c4e88aeeacce23b04664fd4cb96bf",
+        "time": 1744744147
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "2e0358887d8504c41aff556ebb8546ad8e744ef3",
+        "time": 1744733589
+      }
+    ],
+    "commit": {
+      "hash": "41a32f99f0f3a15453b15d2f84a3e7c6dcb806df",
+      "time": 1744762250
+    }
+  }
+}

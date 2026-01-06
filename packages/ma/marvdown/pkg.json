@@ -1,0 +1,62 @@
+{
+  "name": "marvdown",
+  "url": "https://github.com/openpeeps/marvdown",
+  "method": "git",
+  "description": "A stupid simple Markdown library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/marvdown",
+  "tags": [
+    "markdown",
+    "parser",
+    "text",
+    "md"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nyml",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "marvdown"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "02d30bc2ad34c42b0a3d94c0bfff09c212be719c",
+      "time": 1765602156
+    }
+  }
+}

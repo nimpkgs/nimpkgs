@@ -1,0 +1,40 @@
+{
+  "name": "awk",
+  "url": "https://github.com/greencardamom/awk",
+  "method": "git",
+  "description": "Nim for awk programmers",
+  "license": "MIT",
+  "web": "https://github.com/greencardamom/awk",
+  "tags": [
+    "awk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.1"
+          }
+        },
+        {
+          "name": "nre",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "558ac37a41884bcc33b6fc661f428157d1c4132f",
+      "time": 1733276224
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "nimfcuk",
+  "url": "https://github.com/2KAbhishek/nimfcuk",
+  "method": "git",
+  "description": "A brainfuck interpreter & compiler implemented in nim",
+  "license": "GPL-3.0",
+  "web": "https://github.com/2KAbhishek/nimfcuk",
+  "tags": [
+    "cli",
+    "library",
+    "brainfuck",
+    "compiler",
+    "interpreter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.8"
+          }
+        }
+      ],
+      "bin": [
+        "nimfcuk"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "a0c2693194b41bbb18300391a56f33476193af6f",
+        "time": 1611519529
+      }
+    ],
+    "commit": {
+      "hash": "08e33e6a374aaaafe2e9d5eac3b7075d208c23fe",
+      "time": 1676532849
+    }
+  }
+}

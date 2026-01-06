@@ -1,0 +1,46 @@
+{
+  "name": "gts_emoji_importer",
+  "url": "https://codeberg.org/pswilde/gts_emoji_importer",
+  "method": "git",
+  "description": "A tool for admins to import custom emojis into GoToSocial",
+  "license": "GPLv3",
+  "web": "https://codeberg.org/pswilde/gts_emoji_importer",
+  "tags": [
+    "library",
+    "emojis",
+    "fediverse",
+    "gotosocial"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "fedi_auth",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "gts_emoji_importer"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f8db763c17ad05484f8619751fe75d1637cb973d",
+      "time": 1758711580
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "cloths",
+  "url": "https://github.com/panno8M/cloths",
+  "method": "git",
+  "description": "Cloths provides the way to process and structure string easily.",
+  "license": "MIT",
+  "web": "https://github.com/panno8M/cloths",
+  "tags": [
+    "string",
+    "format"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.5.0",
+        "hash": "8ca381d1a2b7be5d6ee8dea327a48f49cc877bf1",
+        "time": 1720429301
+      },
+      {
+        "tag": "v1.4.1",
+        "hash": "b91e921c7c6b3ccfece51f92ce561c14f58600cf",
+        "time": 1720423745
+      },
+      {
+        "tag": "v1.4.0",
+        "hash": "27fd510305f41e2038325eabffdd6e2344b900ae",
+        "time": 1719469310
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "edf12a027e2552ba590c25a7d8747b0d4fe50ae5",
+        "time": 1719038112
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "37a8073c7d03434ca4b70ff32c77be5d01eaef84",
+        "time": 1718970593
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "d3a64136b18ba6f5c778179b586c7a1bfab65cd4",
+        "time": 1718958623
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "e4811a16740c0b2913aa154b5a8d2531a31f9628",
+        "time": 1718859287
+      }
+    ],
+    "commit": {
+      "hash": "8ca381d1a2b7be5d6ee8dea327a48f49cc877bf1",
+      "time": 1720429301
+    }
+  }
+}

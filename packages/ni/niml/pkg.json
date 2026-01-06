@@ -1,0 +1,86 @@
+{
+  "name": "niml",
+  "url": "https://github.com/jakubDoka/niml",
+  "method": "git",
+  "description": "html dsl",
+  "license": "MIT",
+  "web": "https://github.com/jakubDoka/niml",
+  "tags": [
+    "html",
+    "library",
+    "dls"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.3",
+        "hash": "6afb2518fb7f70a2d3de9e06ab08bde653ddac15",
+        "time": 1620563255
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "9c01d950a5f1368e28c82764a5a2f155025f48b9",
+        "time": 1620562972
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "d08c9841821da553de67309fc4559e23d2e1f015",
+        "time": 1620502728
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "4d135b6380b33ecf13b67c0bb1d67d5af8f2a736",
+        "time": 1620475186
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "1509389a4f9266f1d1b2ee1cc7521276d2d46097",
+        "time": 1619616801
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "c4d4a56a0cb1d798fe48fdb4ec26cc4a2a73c7eb",
+        "time": 1619615172
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "45f7656e3e608c92ad4657627e684f8a9e1f10c0",
+        "time": 1619615111
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "b9bda947c98fc2d16d3cd8c3fdbbcd429426e07d",
+        "time": 1619590028
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "9501bedf3acfc9fbe8ba31128f843b8aee0fa5f4",
+        "time": 1619535552
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "e8d9afafac2bb9bccc1e573b3de17a0de7815b05",
+        "time": 1619535214
+      }
+    ],
+    "commit": {
+      "hash": "ff1137ab890622440346c94cf144002439463446",
+      "time": 1620475822
+    }
+  }
+}

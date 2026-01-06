@@ -1,0 +1,32 @@
+{
+  "name": "nudates",
+  "url": "https://github.com/GeK2K/nudates",
+  "method": "git",
+  "description": "Some useful tools when working with dates.",
+  "license": "MIT",
+  "web": "https://github.com/GeK2K/nudates",
+  "tags": [
+    "dates"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0eb1a6cbc9ee7f1cc201ec6744409d572bd923bd",
+      "time": 1716686809
+    }
+  }
+}

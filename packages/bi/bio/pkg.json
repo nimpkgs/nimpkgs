@@ -1,0 +1,40 @@
+{
+  "name": "bio",
+  "url": "https://github.com/xzeshen/bio",
+  "method": "git",
+  "description": "Bytes utils for Nim.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/xzeshen/bio",
+  "tags": [
+    "streams",
+    "endians"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "0f5ed58b31c678920b6b4f7c1783984e6660be97",
+        "time": 1589634628
+      }
+    ],
+    "commit": {
+      "hash": "0f5ed58b31c678920b6b4f7c1783984e6660be97",
+      "time": 1589634628
+    }
+  }
+}

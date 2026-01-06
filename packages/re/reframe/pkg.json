@@ -1,0 +1,77 @@
+{
+  "name": "reframe",
+  "url": "https://github.com/rosado/reframe.nim",
+  "method": "git",
+  "description": "Tools for working with re-frame ClojureScript projects",
+  "license": "EPL-2.0",
+  "web": "https://github.com/rosado/reframe.nim",
+  "tags": [
+    "clojurescript",
+    "re-frame"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "edn",
+          "str": "0.2.3",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.2.3"
+          }
+        }
+      ],
+      "bin": [
+        "reframe",
+        "clojure_keyword_index"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.1",
+        "hash": "c26fa5f285fc36725ec7817ee15a9e4a77196bba",
+        "time": 1643462707
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "7916e895c4cdf2ddec8f2c43a7cd149c86df4c7a",
+        "time": 1620561960
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "35d710cf204af44824bd1ac9825c68c9f8735bca",
+        "time": 1591986601
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "b67ce6b2cfb3def56430a7074afc3242f039e9dc",
+        "time": 1586013722
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "3027cce33a52c3bb40df20308f5bf60e678dc1a7",
+        "time": 1582998533
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "afe133558ffd6281f1ced2236a7b3d48146ac418",
+        "time": 1566818954
+      }
+    ],
+    "commit": {
+      "hash": "c26fa5f285fc36725ec7817ee15a9e4a77196bba",
+      "time": 1643462707
+    }
+  }
+}

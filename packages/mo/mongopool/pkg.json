@@ -1,0 +1,65 @@
+{
+  "name": "mongopool",
+  "url": "https://github.com/JohnAD/mongopool",
+  "method": "git",
+  "description": "MongoDb pooled driver",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/mongopool",
+  "tags": [
+    "mongodb",
+    "mongo",
+    "database",
+    "driver",
+    "client",
+    "nosql"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "bson",
+          "str": ">= 1.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.2"
+          }
+        },
+        {
+          "name": "scram",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "5c2d5e39f19491411102406ba5fdf04e458de71a",
+        "time": 1578171677
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "f98411b74736f463fe29091053b4d37dd168b3aa",
+        "time": 1573326913
+      }
+    ],
+    "commit": {
+      "hash": "c8bc6ddd560f962b8ba497ea74bac93906c9d9b9",
+      "time": 1597030922
+    }
+  }
+}

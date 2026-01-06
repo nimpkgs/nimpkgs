@@ -1,0 +1,37 @@
+{
+  "name": "editlyconf",
+  "url": "https://github.com/thisago/editlyconf",
+  "method": "git",
+  "description": "Editly config generation tools and types",
+  "license": "mit",
+  "web": "https://github.com/thisago/editlyconf",
+  "tags": [
+    "video",
+    "config",
+    "library",
+    "video-editing",
+    "editly",
+    "video-generation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7043442910e36581cdf6dfa53145765dbfa32f8e",
+      "time": 1659648142
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "sos",
+  "url": "https://github.com/ct-clmsn/nim-sos/",
+  "method": "git",
+  "description": "Nim wrapper for Sandia OpenSHMEM, a high performance computing (HPC), distributed shared symmetric memory library",
+  "license": "boost",
+  "web": "https://github.com/ct-clmsn/nim-sos/",
+  "tags": [
+    "hpc",
+    "supercomputing",
+    "distributed-computing",
+    "openshmem"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "48bc549060337b6106b10de65ca91e92814de1a3",
+      "time": 1662746249
+    }
+  }
+}

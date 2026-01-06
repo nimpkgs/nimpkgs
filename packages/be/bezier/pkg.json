@@ -1,0 +1,58 @@
+{
+  "name": "bezier",
+  "url": "https://github.com/Nycto/bezier-nim",
+  "method": "git",
+  "description": "Bezier curve tools",
+  "license": "Apache-2.0",
+  "web": "https://github.com/Nycto/bezier-nim",
+  "tags": [
+    "bezier",
+    "curve"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "7d5f80f2cf0ecebd429511e370b155c33e710f85",
+        "time": 1676610151
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "b025a8c8e75915746917b7f976b0f4dc351f79cd",
+        "time": 1676524383
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "6503964e0855138024c0f6793b469a7cdcaf773f",
+        "time": 1676353202
+      }
+    ],
+    "commit": {
+      "hash": "7d5f80f2cf0ecebd429511e370b155c33e710f85",
+      "time": 1676610151
+    }
+  }
+}

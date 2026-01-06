@@ -1,0 +1,43 @@
+{
+  "name": "bttrwttrin",
+  "url": "https://github.com/nirokay/bttrwttrin",
+  "method": "git",
+  "description": "Nim library to fetch weather using wttr.in",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/nirokay/bttrwttrin",
+  "doc": "https://nirokay.github.io/nim-docs/bttrwttrin/bttrwttrin.html",
+  "tags": [
+    "weather",
+    "weather-api",
+    "wttrin",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "8e5605496406d619c7a470511ce820251e1fbd77",
+        "time": 1707212233
+      }
+    ],
+    "commit": {
+      "hash": "8e5605496406d619c7a470511ce820251e1fbd77",
+      "time": 1707212233
+    }
+  }
+}

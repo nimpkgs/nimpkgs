@@ -1,0 +1,172 @@
+{
+  "name": "boxy",
+  "url": "https://github.com/treeform/boxy",
+  "method": "git",
+  "description": "2D GPU rendering with a tiling atlas.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/boxy",
+  "tags": [
+    "GPU",
+    "openGL",
+    "graphics",
+    "atlas",
+    "texture"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        },
+        {
+          "name": "shady",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        },
+        {
+          "name": "bitty",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        },
+        {
+          "name": "windy",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.7.0",
+        "hash": "839bef0cc095f419b92df56b722624b893ed66bc",
+        "time": 1763068242
+      },
+      {
+        "tag": "0.6.6",
+        "hash": "71b6a52433e75424a4903c36af58aa0ab3f188d0",
+        "time": 1761608859
+      },
+      {
+        "tag": "0.6.5",
+        "hash": "8ea9f66c5c678311eb17207b4c2b4034a073380d",
+        "time": 1761339647
+      },
+      {
+        "tag": "0.6.4",
+        "hash": "f2ea49f304547a0096d1b60074a10dd55bb73aa4",
+        "time": 1760467044
+      },
+      {
+        "tag": "0.6.3",
+        "hash": "3db2a5bd5b7db2bc2b99b995d004e6d02a509303",
+        "time": 1760465726
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "362e5247349e9d11f7bf5c690963be2f4db14f57",
+        "time": 1760379203
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "2109364d512e0806d68b42fcc093a70d27d24fef",
+        "time": 1760372489
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "0aacbe50bbb5502eaf67c7560cc3bb134a3e2803",
+        "time": 1759513718
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "89fe9f8297018779487e71a4b3b363e57784217e",
+        "time": 1758398903
+      },
+      {
+        "tag": "v0.4.4",
+        "hash": "210f37ca3a9af8f97d7e5cfcb3cda6e5d47dc27f",
+        "time": 1756225867
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "cb1d338cebca44b823adcc316676c7152419ab43",
+        "time": 1716698017
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "08a6c40eacdda3d235e3f27e252eb475c7f9b6ca",
+        "time": 1690039822
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "ee6abbcb66872b497e0a97267bbf3d720cc32988",
+        "time": 1660797330
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "6a9b04fa3fdee674040b84164423757a3e722e8c",
+        "time": 1651028844
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "5cacd5062b22bf9bfa48d3243f580de53f89c543",
+        "time": 1641622049
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "c4a3900befd96eea404b8477c479db56f2f1c814",
+        "time": 1641175120
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "7dadb9285bfd21458d4136690267097ae8ba98bc",
+        "time": 1637710198
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "81a34a75ba4df61c79f2d03317cf2d0f734d333c",
+        "time": 1634096136
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "122745709337fd9b939f540fc2bde80c1b1b1226",
+        "time": 1633928680
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "00cdcb7f201b82bacf510aadc185e1f35bee8495",
+        "time": 1633896515
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "9d7886eb1a907ce40e436c0d886b420467e20b24",
+        "time": 1633818403
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "19acd2f15b6c8137ee7166ff9a3eb468de3b1f6b",
+        "time": 1633743813
+      }
+    ],
+    "commit": {
+      "hash": "f064ead838dbf980a520c827bc0fb600b8ea2364",
+      "time": 1764704418
+    }
+  }
+}

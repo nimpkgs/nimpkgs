@@ -1,0 +1,56 @@
+{
+  "name": "ballpark",
+  "url": "https://github.com/Mihara/ballpark",
+  "method": "git",
+  "description": "An amateur radio tool to get you a ballpark estimate of where a given Maidenhead grid square is.",
+  "license": "MIT",
+  "web": "https://github.com/Mihara/ballpark",
+  "tags": [
+    "amateur-radio",
+    "maidenhead"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "fsnotify",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "ballpark"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "d6e0eb467dce561554bd344261379b92520cd9f0",
+        "time": 1627816896
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "7eb8a01762cbca3a612deaa9ec7fc5ca890d86b3",
+        "time": 1627766105
+      }
+    ],
+    "commit": {
+      "hash": "a73d402ce76642c8792faa265e3e0c232dac75bd",
+      "time": 1686670480
+    }
+  }
+}

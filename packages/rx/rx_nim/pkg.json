@@ -1,0 +1,36 @@
+{
+  "name": "rx_nim",
+  "url": "https://github.com/nortero-code/rx-nim",
+  "method": "git",
+  "description": "An implementation of rx observables in nim",
+  "license": "MIT",
+  "web": "https://github.com/nortero-code/rx-nim",
+  "tags": [
+    "rx",
+    "observables",
+    "reactive",
+    "extensions",
+    "functional"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d3107b810952ab192753b030eb66af8f5542d341",
+      "time": 1631688872
+    }
+  }
+}

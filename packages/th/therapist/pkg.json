@@ -1,0 +1,48 @@
+{
+  "name": "therapist",
+  "url": "https://bitbucket.org/maxgrenderjones/therapist",
+  "method": "git",
+  "description": "Type-safe commandline parsing with minimal magic",
+  "license": "MIT",
+  "web": "https://bitbucket.org/maxgrenderjones/therapist",
+  "tags": [
+    "argparse",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "therapist"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "4ddc0f859676391605de1d753d8fc4aff1167131",
+        "time": 1658009483
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "1e8b699e24e820419e5a90c18b19eb58010f0b10",
+        "time": 1590192996
+      }
+    ],
+    "commit": {
+      "hash": "cf1b4b257fde6a7abe01c3ac1e82f8b8300298ea",
+      "time": 1704897937
+    }
+  }
+}

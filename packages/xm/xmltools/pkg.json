@@ -1,0 +1,98 @@
+{
+  "name": "xmltools",
+  "url": "https://github.com/vegansk/xmltools",
+  "method": "git",
+  "description": "High level xml library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/vegansk/xmltools",
+  "tags": [
+    "xml",
+    "functional",
+    "library",
+    "parsing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "nimfp",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
+          }
+        },
+        {
+          "name": "nimboost",
+          "str": ">= 0.5.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.5",
+        "hash": "d01fe4ee613124bd8a05a08188dca53c0cad155d",
+        "time": 1553512823
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "d005ccf2403d5123b7ab81adc5b95a7b2d5a8c66",
+        "time": 1510290714
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "54cae25c5f36d1ae44a5690d8794c5089f41d974",
+        "time": 1498382954
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "6f7256ba551730287a030bc64ac224fc340a8f6d",
+        "time": 1488859936
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "baac57e785ef90388f3e8b273defb48c9884f7ba",
+        "time": 1487560006
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "cfe5dfd4dbe1cf8cabaa6447eec3b9e5bffc0a0a",
+        "time": 1487223787
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "6ac597ad8a1f63d577fe3e3ed5ba5d8eb1afacf9",
+        "time": 1464688459
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "0f4d031bb15d6f7770eb1de26e276255dbb39ea4",
+        "time": 1459398789
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "52663760f2cfbc247970e10a8a13c5bfeb7f14af",
+        "time": 1459309357
+      }
+    ],
+    "commit": {
+      "hash": "1b2c55196aacb76e54b1caa2c5840190b41d241f",
+      "time": 1553571134
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "assert",
+  "url": "https://github.com/alexekdahl/assert",
+  "method": "git",
+  "description": "DbC library for Nim providing precondition and postcondition assertions",
+  "license": "MIT",
+  "web": "https://github.com/alexekdahl/assert",
+  "tags": [
+    "y"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "aa80d10d48231ffc873ccf8ab585b0033cb6f9cb",
+        "time": 1741872546
+      }
+    ],
+    "commit": {
+      "hash": "e015185af38a0b9156bf44f1fccfcbf17360d06b",
+      "time": 1742027859
+    }
+  }
+}

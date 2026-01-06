@@ -1,0 +1,46 @@
+{
+  "name": "passy",
+  "url": "https://github.com/infinitybeond1/passy",
+  "method": "git",
+  "description": "A fast little password generator",
+  "license": "GPL3",
+  "web": "https://github.com/infinitybeond1/passy",
+  "tags": [
+    "password",
+    "generator",
+    "cryptography",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "termui",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "passy"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "d087d07cb22b991abb09c3ed944946dbd07229f6",
+      "time": 1663942470
+    }
+  }
+}

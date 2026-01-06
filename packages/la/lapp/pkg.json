@@ -1,0 +1,18 @@
+{
+  "name": "lapp",
+  "url": "https://gitlab.3dicc.com/gokr/lapp.git",
+  "method": "git",
+  "description": "Opt parser using synopsis as specification, ported from Lua.",
+  "license": "MIT",
+  "web": "https://gitlab.3dicc.com/gokr/lapp",
+  "tags": [
+    "args",
+    "cmd",
+    "opt",
+    "parse",
+    "parsing"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

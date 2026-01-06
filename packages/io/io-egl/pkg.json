@@ -1,0 +1,45 @@
+{
+  "name": "io-egl",
+  "url": "https://github.com/nimious/io-egl.git",
+  "method": "git",
+  "description": "Obsolete - please use egl instead!",
+  "license": "MIT",
+  "web": "https://github.com/nimious/io-egl",
+  "tags": [
+    "binding",
+    "khronos",
+    "egl",
+    "opengl",
+    "opengl es",
+    "openvg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": "> 0.9.2",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.9.2"
+          }
+        },
+        {
+          "name": "x11",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "83439cd11aceb1b76b50f628d80fdd740b1077e3",
+      "time": 1561091370
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "nimcoon",
+  "url": "https://njoseph.me/gitweb/nimcoon.git",
+  "method": "git",
+  "description": "A command-line YouTube player and more",
+  "license": "GPL-3.0",
+  "web": "https://gitlab.com/njoseph/nimcoon",
+  "tags": [
+    "cli",
+    "youtube",
+    "streaming",
+    "downloader",
+    "magnet"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [
+        "nimcoon"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.9.0",
+        "hash": "fc5bf33f392a1d189695ca7624e5320ec5c79ff0",
+        "time": 1638532784
+      },
+      {
+        "tag": "0.8.3",
+        "hash": "ff0a15bf2f06bd2380dce5c5584c5d871346a3c9",
+        "time": 1617207992
+      },
+      {
+        "tag": "0.8.2",
+        "hash": "f1ba7a622ea9f05f87292c24e9dfc7acc67ed06d",
+        "time": 1615720840
+      },
+      {
+        "tag": "0.8.1",
+        "hash": "bf46415bcf5fa20ba6ffa0940af2fae9488874a3",
+        "time": 1609583534
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "d09270c390b7c8d2c6cc25f3f1a416b43c8c3387",
+        "time": 1608993909
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "c4b35c271e5a018450a1f599c70969aa6d8a0061",
+        "time": 1608908102
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "fabf02942a6fbc3004f6fe5894a489cbbe84fe42",
+        "time": 1599469143
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "16d771c40ce86b6fc551407d6dbb087a20bb7c78",
+        "time": 1599468631
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "22fff4dd672a532beb555bad7b57aecdd104af2e",
+        "time": 1596425738
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "76965ae0688a23c9456039d9474d6ae867dbe71b",
+        "time": 1593662664
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "c9e986cae6624ca4300bddcd8fd73b6074145da7",
+        "time": 1591300254
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "59e0f961b4181f52ef8648b16d425518640bdd27",
+        "time": 1591123585
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "ede339f5fd328fd22e320a087f5b594b2c7b2038",
+        "time": 1591063749
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "e4f082d920c20319371df852923d488a2f3b701f",
+        "time": 1591031126
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "4d92c88211867bd48ea229d9f8fbdbe588eb4ef0",
+        "time": 1589459311
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "e26cd8ca80865cf5e30f549008a001ba836a30c7",
+        "time": 1587400005
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "2a97409a93fad6c907239211eb5730e73f9b1183",
+        "time": 1587139384
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "763f653ff1183586ffad978b917f8deaa2d057c7",
+        "time": 1585297779
+      }
+    ],
+    "commit": {
+      "hash": "7247fec67473ab4c98bedf683fbcbfb07f61e693",
+      "time": 1707454662
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "libpcap",
+  "url": "https://github.com/praetoriannero/nim_libpcap",
+  "method": "git",
+  "description": "A wrapper for the libpcap library",
+  "license": "MIT",
+  "web": "https://github.com/praetoriannero/nim_libpcap",
+  "tags": [
+    "libpcap",
+    "packet",
+    "pcap",
+    "sniff",
+    "sniffer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "df6d077d28dc08d237bfc9593c31c386addc9ad4",
+      "time": 1672169378
+    }
+  }
+}

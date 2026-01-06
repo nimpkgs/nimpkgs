@@ -1,0 +1,60 @@
+{
+  "name": "pricecsv",
+  "url": "https://github.com/thisago/pricecsv",
+  "method": "git",
+  "description": "Easily calculate the total of all products in csv",
+  "license": "gpl-3.0",
+  "web": "https://github.com/thisago/pricecsv",
+  "tags": [
+    "cli",
+    "calculator",
+    "csv",
+    "bulk",
+    "price",
+    "tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.1"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "pricecsv"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.7.1",
+        "hash": "feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2",
+        "time": 1663766697
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "0bf8ec9b430c2f66bf9f7f1528aec99db8b4e205",
+        "time": 1663672631
+      }
+    ],
+    "commit": {
+      "hash": "feb8f91fd0f1f40f40d4be0bd9fe33b7afe8c4a2",
+      "time": 1663766697
+    }
+  }
+}

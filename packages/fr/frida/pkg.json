@@ -1,0 +1,57 @@
+{
+  "name": "frida",
+  "url": "https://github.com/ba0f3/frida.nim",
+  "method": "git",
+  "description": "Frida wrapper",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/frida.nim",
+  "tags": [
+    "frida",
+    "frida-core",
+    "instrument",
+    "reverse-engineering"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "5b616e45e3db986a6710fb37a9f9ab6b103f35d3",
+        "time": 1690870038
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "a7d9d2b2ebd5985039daa6c52abee2114c6fa41f",
+        "time": 1685442782
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "8e367848c031212ceca8b4f2bb672a5bdd2468f5",
+        "time": 1684591590
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "0afc661a711c5d062469e991e6049e32f90c28e1",
+        "time": 1635347308
+      }
+    ],
+    "commit": {
+      "hash": "210823cc570c149bd19bfd90b9a6da8cf803ebe7",
+      "time": 1709263413
+    }
+  }
+}

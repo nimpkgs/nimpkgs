@@ -1,0 +1,53 @@
+{
+  "name": "voicepeaky4gpt",
+  "url": "https://github.com/solaoi/voicepeaky4gpt",
+  "method": "git",
+  "description": "Voicepeak Server With GPT",
+  "license": "MIT",
+  "web": "https://github.com/solaoi/voicepeaky4gpt",
+  "tags": [
+    "voicepeak",
+    "wrapper",
+    "opeanai",
+    "gpt"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "httpbeast",
+          "str": ">= 0.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        }
+      ],
+      "bin": [
+        "voicepeaky4gpt"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "f849b017e5d998918c728dde161d2b49f90e9dc4",
+        "time": 1691069607
+      }
+    ],
+    "commit": {
+      "hash": "f944031430c2e8216601688440c67a9438fbc4ac",
+      "time": 1699768813
+    }
+  }
+}

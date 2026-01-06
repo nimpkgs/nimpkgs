@@ -1,0 +1,47 @@
+{
+  "name": "orgtables",
+  "url": "https://github.com/Vindaar/orgtables",
+  "method": "git",
+  "description": "A library to turn Nim data into Org tables",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/orgtables",
+  "tags": [
+    "org",
+    "org mode",
+    "tables",
+    "emacs"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "34d97a920c6b43d5dbd32c2e29ad47bf116f8d65",
+        "time": 1744391678
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "034b0c1dd5b3fd24702083862f698679f65f0699",
+        "time": 1710507887
+      }
+    ],
+    "commit": {
+      "hash": "34d97a920c6b43d5dbd32c2e29ad47bf116f8d65",
+      "time": 1744391678
+    }
+  }
+}

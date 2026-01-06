@@ -1,0 +1,34 @@
+{
+  "name": "getprime",
+  "url": "https://github.com/xjzh123/getprime",
+  "method": "git",
+  "description": "Generate random prime numbers, and do prime number tests. Note: don't support prime numbers larger than approximately 3037000499 (sqrt(int.high)).",
+  "license": "MIT",
+  "web": "https://github.com/xjzh123/getprime",
+  "tags": [
+    "math",
+    "prime numbers",
+    "random"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e299e2e3dae1efce8cb4a1c4ba2ffc55535ad62b",
+      "time": 1695449815
+    }
+  }
+}

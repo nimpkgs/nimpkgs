@@ -1,0 +1,37 @@
+{
+  "name": "zigcc",
+  "url": "https://github.com/enthus1ast/zigcc",
+  "method": "git",
+  "description": "wraps `zig cc` to be able to be called by the nim compiler",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/zigcc",
+  "tags": [
+    "zig",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [
+        "zigcpp",
+        "zigcc"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "85b4c8baf0ace7b5172352d4b6152522244ea474",
+      "time": 1729235007
+    }
+  }
+}

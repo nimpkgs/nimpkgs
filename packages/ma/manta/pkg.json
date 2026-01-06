@@ -1,0 +1,38 @@
+{
+  "name": "manta",
+  "url": "https://github.com/metagn/manta",
+  "method": "git",
+  "description": "runtime array types with destructors",
+  "license": "MIT",
+  "web": "https://github.com/metagn/manta",
+  "tags": [
+    "array",
+    "length",
+    "runtime",
+    "seq",
+    "destructor",
+    "arc",
+    "orc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b50131da38cd7b07f486d152997d4a8ffae2777c",
+      "time": 1729937669
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "brightcove",
+  "url": "https://github.com/thisago/brightcove",
+  "method": "git",
+  "description": "Brightcove player parser",
+  "license": "MIT",
+  "web": "https://github.com/thisago/brightcove",
+  "tags": [
+    "library",
+    "extractor",
+    "brightcove",
+    "video"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6148be4442e8566020dae564cc69c783398888ec",
+      "time": 1661552845
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "AccurateSums",
+  "url": "https://gitlab.com/lbartoletti/accuratesums",
+  "method": "git",
+  "description": "Accurate Floating Point Sums and Products.",
+  "license": "MIT",
+  "web": "https://gitlab.com/lbartoletti/accuratesums",
+  "tags": [
+    "sum",
+    "float",
+    "errors",
+    "floating point",
+    "rounding",
+    "numerical methods",
+    "number",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "814fe8871e7fc049079fe1ab0885bbb0b0608839",
+      "time": 1606453358
+    }
+  }
+}

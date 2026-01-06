@@ -1,0 +1,124 @@
+{
+  "name": "xlsx",
+  "url": "https://github.com/ringabout/xlsx",
+  "method": "git",
+  "description": "Read and parse Excel files",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/xlsx",
+  "tags": [
+    "xlsx",
+    "excel",
+    "reader"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.8",
+        "hash": "42d53d3c4ccec53c59573f6d23907afd0dfc9949",
+        "time": 1668342939
+      },
+      {
+        "tag": "v0.4.7",
+        "hash": "f6e183f8edc5202c032a9492631738f02ae557f6",
+        "time": 1667396649
+      },
+      {
+        "tag": "v0.4.6",
+        "hash": "cbae36148ade2741605469022df3297b8573f886",
+        "time": 1666284086
+      },
+      {
+        "tag": "0.4.5",
+        "hash": "1aa3ab99f0f5770c7650bda654c779155bf140cc",
+        "time": 1617441837
+      },
+      {
+        "tag": "v0.4.4",
+        "hash": "4f07bce1f68591bd9af793cceae3cad9a587cf1a",
+        "time": 1584021246
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "b1a7fd78b76b8bddd96b76fae2e5f3d92a555c48",
+        "time": 1580023494
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "d70e0c6b26c1bf77f0984ded61eafdc6497b9136",
+        "time": 1579960324
+      },
+      {
+        "tag": "v0.3.8",
+        "hash": "fefb8dbd40b2880b77dc2da323869ac13ad6196e",
+        "time": 1578052538
+      },
+      {
+        "tag": "v0.3.6",
+        "hash": "009f2158e47fcf2a0d1e8adc585fa7b3601bb723",
+        "time": 1578046185
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "b273cc3895070b5008bc9e7388df8856a3e6faec",
+        "time": 1578044359
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "2df5396a128508a7a6fe7cc9c01c670e03d2d8bd",
+        "time": 1577950349
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "c165eba2d80d0dbdf70b581b3c95d77442509150",
+        "time": 1577679026
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "1e94550034855f3dad3775363dbfadffcd8c5b23",
+        "time": 1577627114
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "ba83c7df890c5a6bc53168f36bfbd50c2ecdb4ea",
+        "time": 1577600987
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "4e562ca7233eef3b5227c57f1c0f3bd4f79924a1",
+        "time": 1577527642
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "7befee7a386a0e5ef2baf9ce5831300f6a984226",
+        "time": 1577451468
+      }
+    ],
+    "commit": {
+      "hash": "d354ba4a8cccd283eadc678c00e13d88fbfa559c",
+      "time": 1755509831
+    }
+  }
+}

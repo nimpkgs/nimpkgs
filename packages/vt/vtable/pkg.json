@@ -1,0 +1,81 @@
+{
+  "name": "vtable",
+  "url": "https://github.com/codehz/nim-vtable",
+  "method": "git",
+  "description": "Implement dynamic dispatch through vtable, should works for dynlib.",
+  "license": "LGPL-3.0",
+  "tags": [
+    "oop",
+    "method",
+    "vtable",
+    "trait"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.3",
+        "hash": "3d8dd914f86662816df0ea3186eee5c3cbd3efcc",
+        "time": 1609401666
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "75461eb8d84e46a38984a7f93af9aff1a5ca49e0",
+        "time": 1609158105
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "5acb663a21b1dad1d82c22fedd40c602498c0a20",
+        "time": 1608984965
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "28227af640b8036710e0838d4e92e9cfb3e81a1c",
+        "time": 1608977230
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "97b04f02a95e10cffd639d1934d4bd28ccb03506",
+        "time": 1608897376
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "8bbbcb434b7cb3e0371f9a849def384c823662b9",
+        "time": 1608896681
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "b26dd90423fc94a44ff428e58cee1f5fdde87d0d",
+        "time": 1608892151
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "f61551143219108ab11fe231309ee8a5770b82a0",
+        "time": 1608890271
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e8e59a779d3dfbfb76f60cbb1085568724abb245",
+        "time": 1608823749
+      }
+    ],
+    "commit": {
+      "hash": "3d8dd914f86662816df0ea3186eee5c3cbd3efcc",
+      "time": 1609401666
+    }
+  }
+}

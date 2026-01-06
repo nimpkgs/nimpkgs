@@ -1,0 +1,30 @@
+{
+  "name": "autoderef",
+  "url": "https://github.com/sls1005/autoderef",
+  "method": "git",
+  "description": "Syntax sugar which supports auto-dereferencing",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/autoderef",
+  "tags": [
+    "sugar"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "3d9448c9adb3dd0ebb089a37edff10e8ecda0b34",
+        "time": 1656140410
+      }
+    ],
+    "commit": {
+      "hash": "3d9448c9adb3dd0ebb089a37edff10e8ecda0b34",
+      "time": 1656140410
+    }
+  }
+}

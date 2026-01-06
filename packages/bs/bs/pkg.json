@@ -1,0 +1,17 @@
+{
+  "name": "bs",
+  "url": "https://github.com/maubg-debug/build-sys",
+  "method": "git",
+  "description": "A good alternative to Makefile.",
+  "license": "MIT",
+  "web": "https://github.com/maubg-debug/build-sys",
+  "tags": [
+    "bs",
+    "build-system",
+    "system",
+    "build"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

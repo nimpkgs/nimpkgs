@@ -1,0 +1,58 @@
+{
+  "name": "algebraicdatas",
+  "url": "https://github.com/chocobo333/AlgebraicDataTypes",
+  "method": "git",
+  "description": "This module provides the feature of algebraic data type and its associated method",
+  "license": "MIT",
+  "web": "https://github.com/chocobo333/AlgebraicDataTypes",
+  "tags": [
+    "algebraicdatatypes",
+    "adt",
+    "pattern-mathcing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "ast_pattern_matching",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "macroutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "optionsutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9eeaac2453ec0a642771ca9095df5a3a7bfc4791",
+      "time": 1628750988
+    }
+  }
+}

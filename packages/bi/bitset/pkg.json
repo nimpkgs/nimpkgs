@@ -1,0 +1,35 @@
+{
+  "name": "bitset",
+  "url": "https://github.com/joryschossau/bitset",
+  "method": "git",
+  "description": "A pure nim version of C++'s std::bitset",
+  "license": "MIT",
+  "web": "https://github.com/joryschossau/bitset",
+  "tags": [
+    "c++",
+    "library",
+    "stdlib",
+    "type"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "637612d288d4320495cfa0c3b1b47a6b0fcca674",
+      "time": 1604947330
+    }
+  }
+}

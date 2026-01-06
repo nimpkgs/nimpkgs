@@ -1,0 +1,46 @@
+{
+  "name": "httpform",
+  "url": "https://github.com/tulayang/httpform",
+  "method": "git",
+  "description": "Http request form parser",
+  "license": "MIT",
+  "web": "https://github.com/tulayang/httpform",
+  "tags": [
+    "request parser",
+    "upload",
+    "html5 file"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "a30e9c7202093c0ac1704230734d41cbbc05528a",
+        "time": 1563297166
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "7e081037fd96e78b4f8f3a75410cca07f489bdd1",
+        "time": 1439881562
+      }
+    ],
+    "commit": {
+      "hash": "10a25d6967dd3208bf964116add3491e5ac7360d",
+      "time": 1631073042
+    }
+  }
+}

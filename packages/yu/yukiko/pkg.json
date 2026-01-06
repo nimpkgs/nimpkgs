@@ -1,0 +1,18 @@
+{
+  "name": "yukiko",
+  "url": "https://github.com/ethosa/yukiko",
+  "method": "git",
+  "description": "The Nim GUI asynchronous framework based on SDL2.",
+  "license": "AGPLv3",
+  "web": "https://github.com/ethosa/yukiko",
+  "tags": [
+    "gui",
+    "async",
+    "framework",
+    "sdl2",
+    "deleted"
+  ],
+  "meta": {
+    "status": "Deleted"
+  }
+}

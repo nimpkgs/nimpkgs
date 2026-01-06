@@ -1,0 +1,42 @@
+{
+  "name": "nclip",
+  "url": "https://github.com/4zv4l/nclip",
+  "method": "git",
+  "description": "A simple wrapper around the winapi to control the clipboard",
+  "license": "MIT",
+  "web": "https://github.com/4zv4l/nclip",
+  "tags": [
+    "winapi",
+    "clipboard",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "winim",
+          "str": "3.9.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "3.9.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "bcf18785dd85131374a3d51db6b98c45ac1aa32d",
+      "time": 1678807221
+    }
+  }
+}

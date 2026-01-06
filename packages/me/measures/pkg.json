@@ -1,0 +1,53 @@
+{
+  "name": "measures",
+  "url": "https://github.com/energy-nim/measures",
+  "method": "git",
+  "description": "General purpose measuring units datatypes with integrated conversions and definitions.",
+  "license": "MIT",
+  "web": "https://github.com/energy-nim/measures",
+  "tags": [
+    "library",
+    "units",
+    "physics",
+    "metrics",
+    "measurements"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.0",
+        "hash": "0305fec45d9ef4b394caa21ff15d288157404b19",
+        "time": 1685854856
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "12d0eda6210224cf6208c0511a49ba18f86b8280",
+        "time": 1685581569
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "a8734d6bc8cd21c64efe021689e2d665301025fb",
+        "time": 1685508667
+      }
+    ],
+    "commit": {
+      "hash": "0305fec45d9ef4b394caa21ff15d288157404b19",
+      "time": 1685854856
+    }
+  }
+}

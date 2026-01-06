@@ -1,0 +1,50 @@
+{
+  "name": "brainlyextractor",
+  "url": "https://github.com/thisago/brainlyextractor",
+  "method": "git",
+  "description": "Brainly data extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/brainlyextractor",
+  "tags": [
+    "library",
+    "scraper",
+    "extractor"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "scraper",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://gitlab.com/lurlo/useragent",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4b735563d96363efb03aa61308eb4a9d8b484cd9",
+      "time": 1654257045
+    }
+  }
+}

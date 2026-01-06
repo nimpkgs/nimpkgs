@@ -1,0 +1,73 @@
+{
+  "name": "kirpi",
+  "url": "https://github.com/erayzesen/kirpi",
+  "method": "git",
+  "description": "A lightweight 2D game framework for Nim",
+  "license": "MIT",
+  "web": "https://github.com/erayzesen/kirpi",
+  "tags": [
+    "game",
+    "2d",
+    "framework",
+    "graphics",
+    "develop",
+    "löve2d",
+    "naylib"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "naylib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.4",
+        "hash": "c52415a445483a1fc21bf6c3e8b20a817a0dcbc8",
+        "time": 1766197630
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "10915cc056cd209b206e2774df72bdec7b4aefaf",
+        "time": 1766017207
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "7a8aeb8d533e8ced3f689272843a35e66f6f7b11",
+        "time": 1765858320
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "f26a6f2abae4841031cf18924575661739121084",
+        "time": 1765757951
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "6a66ab09f47ba578f6bb34b997d11d5a1cc176be",
+        "time": 1765673549
+      }
+    ],
+    "commit": {
+      "hash": "ad081f856f3313d334d1527ae642281e014b6f72",
+      "time": 1767741336
+    }
+  }
+}

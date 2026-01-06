@@ -1,0 +1,32 @@
+{
+  "name": "simpleargs",
+  "url": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs",
+  "method": "git",
+  "description": "Simple command line arguments parsing",
+  "license": "MIT",
+  "web": "https://github.com/HTGenomeAnalysisUnit/nim-simpleargs",
+  "tags": [
+    "argparse"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d5df9fae2216d60cb2655b0522116b09e7b06975",
+      "time": 1660127553
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "hannah",
+  "url": "https://github.com/sainttttt/hannah",
+  "method": "git",
+  "description": "xxhash wrapper library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/sainttttt/hannah",
+  "tags": [
+    "xxhash",
+    "wrapper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.10.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4dc2a907989deb5d939eb90488661784591ad0ba",
+      "time": 1721930945
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "selfpipe",
+  "url": "https://github.com/tdely/selfpipe",
+  "method": "git",
+  "description": "Easy safe signal handling",
+  "license": "MIT",
+  "web": "https://github.com/tdely/selfpipe",
+  "tags": [
+    "signal",
+    "signalhandling"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "75d9b9af657e7329d4b8919130d02b441709a348",
+        "time": 1708856500
+      }
+    ],
+    "commit": {
+      "hash": "782b12a7239588c5ea39d7b3b20e20aee1fb20a5",
+      "time": 1713616124
+    }
+  }
+}

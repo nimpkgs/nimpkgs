@@ -1,0 +1,216 @@
+{
+  "name": "fragments",
+  "url": "https://github.com/sinkingsugar/fragments",
+  "method": "git",
+  "description": "Our very personal collection of utilities",
+  "license": "MIT",
+  "web": "https://github.com/sinkingsugar/fragments",
+  "tags": [
+    "ffi",
+    "math",
+    "threading",
+    "dsl",
+    "memory",
+    "serialization",
+    "cpp",
+    "utilities"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.39",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.39",
+        "hash": "b150ba9622ab3a3925ffc837e5760c552be655f1",
+        "time": 1563206146
+      },
+      {
+        "tag": "v0.1.38",
+        "hash": "8ecac2fa6e34dd54dbfab6a874081ea5eac70d50",
+        "time": 1563018290
+      },
+      {
+        "tag": "v0.1.37",
+        "hash": "b013d97294d975109466d4993e3ec30571b95320",
+        "time": 1563017610
+      },
+      {
+        "tag": "v0.1.36, 0.1.36",
+        "hash": "ea39ef27976bed421784897c3966a67c9b42e817",
+        "time": 1562757031
+      },
+      {
+        "tag": "v0.1.35",
+        "hash": "249ddc355e859ae54dd37529263742f93325a458",
+        "time": 1562756738
+      },
+      {
+        "tag": "v0.1.34",
+        "hash": "a10d870d1900a4afb43f75dd117c9e5737f0c845",
+        "time": 1562466493
+      },
+      {
+        "tag": "v0.1.33",
+        "hash": "c4446af1ee812b05304c03153e413d7f46ed132c",
+        "time": 1551357499
+      },
+      {
+        "tag": "v0.1.32",
+        "hash": "0c2373ff060faab53a3c3d2b8197d5aa9274f997",
+        "time": 1551357061
+      },
+      {
+        "tag": "v0.1.31",
+        "hash": "0285f93a0b9f9363a7912add72b95eb7e11a7313",
+        "time": 1551356961
+      },
+      {
+        "tag": "v0.1.30",
+        "hash": "76983625a9ac3b8cb59233548c30f791021d29e8",
+        "time": 1549893746
+      },
+      {
+        "tag": "v0.1.29",
+        "hash": "70caac9464f8fe25ff83acd722b860810248ca9f",
+        "time": 1549771959
+      },
+      {
+        "tag": "v0.1.28",
+        "hash": "e713b1a625a73f43dd76a8e8d4b8c7ac185cde72",
+        "time": 1549770798
+      },
+      {
+        "tag": "v0.1.27",
+        "hash": "193f18cfa6b4177a2d0062e58f3906194c09f618",
+        "time": 1547991042
+      },
+      {
+        "tag": "v0.1.25",
+        "hash": "bfb91ae93b0f918d66aabe22730f183a5a8db617",
+        "time": 1545520376
+      },
+      {
+        "tag": "v0.1.23",
+        "hash": "1bf7826dd8fe2a8d7f367f5f32df506cb0f94e06",
+        "time": 1541483724
+      },
+      {
+        "tag": "v0.1.22",
+        "hash": "7d8275a4ae2f9bd4e65e014781ccb7e7163896b5",
+        "time": 1540489279
+      },
+      {
+        "tag": "v0.1.21",
+        "hash": "ed01ccd79267125339d30efa7045d53215419062",
+        "time": 1539519467
+      },
+      {
+        "tag": "v0.1.20",
+        "hash": "1fd3b2bd3028c54d90a8c8a8a0b67db4a4dbf910",
+        "time": 1538022649
+      },
+      {
+        "tag": "v0.1.19",
+        "hash": "cf49ad1322040d39253fbf7a4ef7b324c8e3aad8",
+        "time": 1537952871
+      },
+      {
+        "tag": "v0.1.18",
+        "hash": "6431840e87d8f088619b243b26e02d9963c21be5",
+        "time": 1537933525
+      },
+      {
+        "tag": "v0.1.17",
+        "hash": "0bcaf775bc8d4f29ea489089376fd5940eecbee2",
+        "time": 1537930135
+      },
+      {
+        "tag": "v0.1.16",
+        "hash": "4184b18fa970fa03f941777f49292c5dd5a57538",
+        "time": 1535957737
+      },
+      {
+        "tag": "v0.1.15",
+        "hash": "ebe0d5658b0e16ff722cf59a81e06d87ee18a0b8",
+        "time": 1535878409
+      },
+      {
+        "tag": "v0.1.14",
+        "hash": "fe48d6c8c37cd2069ae352f18f869e59e0fc10ec",
+        "time": 1535689925
+      },
+      {
+        "tag": "v0.1.12",
+        "hash": "afb34436980f1791c7a757592486e36e72a19878",
+        "time": 1535004198
+      },
+      {
+        "tag": "v0.1.11",
+        "hash": "f102da5b43b4d0ad50cefca6d68150197118dfab",
+        "time": 1534931586
+      },
+      {
+        "tag": "v0.1.10",
+        "hash": "88d2fe70c86581732780357999aae5089450dcf8",
+        "time": 1534919244
+      },
+      {
+        "tag": "v0.1.9",
+        "hash": "eba861ce953eba85d8771bfbae84a3f51cb3f696",
+        "time": 1534912217
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "ecde26cd44e53322a1c4ccba82413473864490bd",
+        "time": 1534502905
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "842cb3d7a0a4a42649f454c9223a9334f6340d95",
+        "time": 1534502852
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "bbfc27b76529e94553072d14f6a1d900612ba378",
+        "time": 1533795908
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "e76807b2ddafe4e01c643784ef4dd007d6daa774",
+        "time": 1533549301
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "94e946ad83d2f1bf23f79b3d778439d97828d8b6",
+        "time": 1533547641
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "6fd187d1f238114c0f950e45362a8ac611909fb4",
+        "time": 1532935018
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "907c528059bbc45fe4b4b43d0bf080eeef849c53",
+        "time": 1532708813
+      }
+    ],
+    "commit": {
+      "hash": "0f4df0e41dec441bdd39c33767af3e26560d5d72",
+      "time": 1578154987
+    }
+  }
+}

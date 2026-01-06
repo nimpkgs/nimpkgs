@@ -1,0 +1,44 @@
+{
+  "name": "tcping",
+  "url": "https://github.com/pdrb/tcping",
+  "method": "git",
+  "description": "Ping hosts using tcp packets",
+  "license": "MIT",
+  "web": "https://github.com/pdrb/tcping",
+  "tags": [
+    "ping,",
+    "tcp,",
+    "tcping"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        }
+      ],
+      "bin": [
+        "tcping"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "411f7678da744b68b963dea93d8ce7dd8bb7e46d",
+        "time": 1569455068
+      }
+    ],
+    "commit": {
+      "hash": "9b3aeeddfb78d1c8e993b891a5aaca56078554b2",
+      "time": 1569553225
+    }
+  }
+}

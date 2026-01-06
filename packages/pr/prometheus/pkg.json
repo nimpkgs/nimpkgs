@@ -1,0 +1,34 @@
+{
+  "name": "prometheus",
+  "url": "https://github.com/dom96/prometheus",
+  "method": "git",
+  "description": "Library for exposing metrics to Prometheus",
+  "license": "MIT",
+  "web": "https://github.com/dom96/prometheus",
+  "tags": [
+    "metrics",
+    "logging",
+    "graphs"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "eb4d67c1a84d4bd74cbd7f2a2065b60bcb8bad34",
+      "time": 1595534390
+    }
+  }
+}

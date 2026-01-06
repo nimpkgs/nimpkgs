@@ -1,0 +1,45 @@
+{
+  "name": "aloganimisc",
+  "url": "https://github.com/Alogani/aloganimisc",
+  "method": "git",
+  "description": "Dependency for asyncproc and shellcmd package. Small utilities not worthing a package. Not meant to be used in production",
+  "license": "MIT",
+  "web": "https://github.com/Alogani/aloganimisc",
+  "tags": [
+    "library",
+    "dependency"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "7116581eed725b63f90d4f818e8103c323239424",
+        "time": 1714068137
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "3af442b2962b770c50db4412644f429d80d842ec",
+        "time": 1713508390
+      }
+    ],
+    "commit": {
+      "hash": "b29ab4f7e8f321090f6638b73cc7906762379498",
+      "time": 1714556095
+    }
+  }
+}

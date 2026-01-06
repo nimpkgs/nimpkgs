@@ -1,0 +1,34 @@
+{
+  "name": "validator",
+  "url": "https://github.com/Adeohluwa/validator",
+  "method": "git",
+  "description": "Functions for string validation",
+  "license": "MIT",
+  "web": "https://github.com/Adeohluwa/validator",
+  "tags": [
+    "strings",
+    "validation",
+    "types"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9aa146ab3455e57d95843b13f1bf70b465afc4ad",
+      "time": 1693854780
+    }
+  }
+}

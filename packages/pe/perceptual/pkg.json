@@ -1,0 +1,50 @@
+{
+  "name": "perceptual",
+  "url": "https://github.com/deNULL/perceptual",
+  "method": "git",
+  "description": "A library for computing and comparing perceptual hashes in Nim",
+  "license": "MIT",
+  "web": "https://github.com/deNULL/perceptual",
+  "tags": [
+    "perceptual",
+    "hashes",
+    "images"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 0.2.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.7"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "fb0e2faf2d9c440e21fcec187158cfffe7cf8753",
+      "time": 1684793647
+    }
+  }
+}

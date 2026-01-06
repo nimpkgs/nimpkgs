@@ -1,0 +1,40 @@
+{
+  "name": "aossoa",
+  "url": "https://github.com/guibar64/aossoa",
+  "method": "git",
+  "description": "Use a Structure of Arrays like an Array of Structures",
+  "license": "MIT",
+  "web": "https://github.com/guibar64/aossoa",
+  "tags": [
+    "sugar",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "1c37d6f4ad83ad5e4a2d692932a5da04ceffb8b2",
+        "time": 1636228997
+      }
+    ],
+    "commit": {
+      "hash": "444e6cdf71f4af898f64340b3daf23f72cd94e39",
+      "time": 1636305111
+    }
+  }
+}

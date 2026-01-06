@@ -1,0 +1,36 @@
+{
+  "name": "png",
+  "url": "https://github.com/barcharcraz/nimlibpng",
+  "method": "git",
+  "description": "Nim wrapper for the libpng library",
+  "license": "libpng",
+  "web": "https://github.com/barcharcraz/nimlibpng",
+  "tags": [
+    "png",
+    "wrapper",
+    "library",
+    "libpng",
+    "image"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "011673a6e7b25e14cf5047d8f9ab6a84040239b6",
+      "time": 1512164644
+    }
+  }
+}

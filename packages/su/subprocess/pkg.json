@@ -1,0 +1,61 @@
+{
+  "name": "subprocess",
+  "url": "https://github.com/YesDrX/nim-subprocess",
+  "method": "git",
+  "description": "A cross-platform subprocess management library for Nim that makes redirecting stdin/stdout/stderr easy.",
+  "license": "MIT",
+  "web": "https://github.com/YesDrX/nim-subprocess",
+  "tags": [
+    "subprocess",
+    "process",
+    "child_process"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.2",
+        "hash": "8818967d6f4ed4240ee86de7f07c95e53af43dd7",
+        "time": 1766000262
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "e7f8bc44d2c5625a8621861748be8bc5b03a41f4",
+        "time": 1765999884
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "cb6489a4eafdc72443d0b2ad9dd5846022a71355",
+        "time": 1765999032
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "e21e66dca59fc35c4f899a4f7e29396c003c5301",
+        "time": 1765982406
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "63b527e6a6f5c15af903addda73de6f9b15958a2",
+        "time": 1765980231
+      }
+    ],
+    "commit": {
+      "hash": "4a8d79c61ce5d4474f08ecae8cccbc25d638316b",
+      "time": 1766000434
+    }
+  }
+}

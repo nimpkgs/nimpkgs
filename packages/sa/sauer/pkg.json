@@ -1,0 +1,111 @@
+{
+  "name": "sauer",
+  "url": "https://github.com/moigagoo/sauer",
+  "method": "git",
+  "description": "Scaffolder for Karax.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/sauer",
+  "tags": [
+    "web",
+    "SPA",
+    "Karax",
+    "Kraut",
+    "CLI",
+    "frontend",
+    "router"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        },
+        {
+          "name": "climate",
+          "str": " ~= >= 1.1.1",
+          "ver": {
+            "kind": "verTilde",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "sauer"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.1.2",
+        "hash": "6a375152b1560b8bd805c36f544e6cbbc5921969",
+        "time": 1729510749
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "8f0c0d506d453b1d22ec6275eac5acf18b9b9a9b",
+        "time": 1725081301
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "007e75549070e6cb54d5f6c4238b7963a8a89b73",
+        "time": 1725080938
+      },
+      {
+        "tag": "1.0.8",
+        "hash": "e59bf16dd8093c3d6e96712617942f14c3d7d7e3",
+        "time": 1695723403
+      },
+      {
+        "tag": "1.0.7",
+        "hash": "ed472bf9db8b12b5db27c3fa3e20f9c3bac5c1c9",
+        "time": 1695030036
+      },
+      {
+        "tag": "1.0.6",
+        "hash": "a4030a0cdde3e3bc9be32c613409ccdcbef5d5f5",
+        "time": 1691781540
+      },
+      {
+        "tag": "1.0.5",
+        "hash": "4eb94885195d643b00820b1c89685a2e4b0df8a1",
+        "time": 1691781367
+      },
+      {
+        "tag": "1.0.4",
+        "hash": "621d7e7c299eb1141d870b153c35c9ca732002b5",
+        "time": 1690806624
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "ec4aecd51e6daacd771409cdd56f57636a48fe46",
+        "time": 1686856100
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "2ac3f9ca00a335a431af297a5f0e76891b8462c2",
+        "time": 1683875347
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "5fb2851330435f22bc085e5aea190dddcaeeb22a",
+        "time": 1683875147
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "47ed9574a1272e41c6012e1bf8929fbfdac2e5da",
+        "time": 1678196828
+      }
+    ],
+    "commit": {
+      "hash": "f09fb74ce3550d71e5757d03a86a4dbb8fcdd590",
+      "time": 1729510768
+    }
+  }
+}

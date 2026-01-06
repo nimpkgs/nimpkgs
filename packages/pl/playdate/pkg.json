@@ -1,0 +1,125 @@
+{
+  "name": "playdate",
+  "url": "https://github.com/samdze/playdate-nim",
+  "method": "git",
+  "description": "Playdate Nim bindings with extra features.",
+  "license": "MIT",
+  "web": "https://github.com/samdze/playdate-nim",
+  "tags": [
+    "playdate",
+    "bindings",
+    "wrapper",
+    "game",
+    "sdk",
+    "gamedev"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.23.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 4.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.2"
+          }
+        }
+      ],
+      "bin": [
+        "pdn"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.23.0",
+        "hash": "1d6def17802b39252f55e31abee20a705f5058af",
+        "time": 1767888264
+      },
+      {
+        "tag": "v0.22.0",
+        "hash": "d95cd14174bb881516df8c2716ca7c3e818b0f1e",
+        "time": 1739632135
+      },
+      {
+        "tag": "v0.21.0",
+        "hash": "405d0b27bb646652097d6c008a5ce0785654ecec",
+        "time": 1735405544
+      },
+      {
+        "tag": "v0.20.0",
+        "hash": "1a752d3bbd0c10382b90091b032e76512e05445d",
+        "time": 1727797354
+      },
+      {
+        "tag": "v0.13.0",
+        "hash": "c390085257ae5cea46075d2cef91179c4aaca9aa",
+        "time": 1705600090
+      },
+      {
+        "tag": "v0.12.0",
+        "hash": "bd3c1b582a7624d2180951b5c7548541211e51b0",
+        "time": 1701278524
+      },
+      {
+        "tag": "v0.11.2",
+        "hash": "c7d9bac47ff9337e35bbb09247fab0ad845e5eb7",
+        "time": 1700325490
+      },
+      {
+        "tag": "v0.11.0",
+        "hash": "e4be6eb41085ec9ee5790a5460715e1bcec0fc2a",
+        "time": 1700158569
+      },
+      {
+        "tag": "v0.10.0",
+        "hash": "9de0d4ec387b1bdc114949ddc0c0d63968620b29",
+        "time": 1691100105
+      },
+      {
+        "tag": "v0.9.3",
+        "hash": "7edd981b0629834e31a1fc05f5aabbdd484277b3",
+        "time": 1690822083
+      },
+      {
+        "tag": "v0.9.0",
+        "hash": "832212fa8c2402e5394d1f387b4f6243db56dc4a",
+        "time": 1690660832
+      },
+      {
+        "tag": "v0.8.5",
+        "hash": "dd5269e7c703de0d39464dab5b14349bc3bbfc04",
+        "time": 1690577421
+      },
+      {
+        "tag": "v0.8.1",
+        "hash": "514cb71781eaee573ba5599ae659f37dafcee780",
+        "time": 1689190707
+      },
+      {
+        "tag": "v0.7.2",
+        "hash": "1543e480ee42a25491f652f3ab5a7bf2c2941ed5",
+        "time": 1677192259
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "e8931a9360084e452e71a0d1a6326c704b5a1926",
+        "time": 1675510638
+      }
+    ],
+    "commit": {
+      "hash": "1d6def17802b39252f55e31abee20a705f5058af",
+      "time": 1767888264
+    }
+  }
+}

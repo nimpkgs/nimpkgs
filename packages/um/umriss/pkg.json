@@ -1,0 +1,84 @@
+{
+  "name": "umriss",
+  "url": "https://github.com/tdely/umriss",
+  "method": "git",
+  "description": "Extract syscall stats from strace output files",
+  "license": "MIT",
+  "web": "https://github.com/tdely/umriss",
+  "tags": [
+    "cli",
+    "syscalls",
+    "tool",
+    "seccomp",
+    "strace"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.7.0 & < 2.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "umriss"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "d0b4031b8a4c898809fd2ea9f64e08b32ed8de41",
+        "time": 1710183663
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "53dbd0a48c81973b481aa122aef737dafb8f0cd1",
+        "time": 1710149155
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "5f564180d0f2d41e7e1f86cf089c6d5cdfd50837",
+        "time": 1709758820
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "b08df02d4a39a73047f61bdea01da2d06424f8f7",
+        "time": 1709676984
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "87f22a1e0b8adb30456356a1d7b3b0aa503b241b",
+        "time": 1709245482
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "7ac05aa8358dd1d363a810d6f567d3a1308b2448",
+        "time": 1709241284
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "6f11726a6a4a404365deeffa289d52c61e2ff9c5",
+        "time": 1709067595
+      }
+    ],
+    "commit": {
+      "hash": "d0b4031b8a4c898809fd2ea9f64e08b32ed8de41",
+      "time": 1710183663
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "name": "fitl",
+  "url": "https://github.com/c-blake/fitl",
+  "method": "git",
+  "description": "Self-contained fit of linear models with regression diagnostics",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/fitl",
+  "tags": [
+    "statistics",
+    "weighted",
+    "linear",
+    "regression",
+    "ridge",
+    "quantile",
+    "interpolation",
+    "Parzen",
+    "truncated",
+    "clipped",
+    "bootstrap",
+    "parameter",
+    "estimation",
+    "significance",
+    "model",
+    "glm",
+    "fit",
+    "goodness-of-fit",
+    "lack-of-fit",
+    "diagnostics",
+    "covariance",
+    "kolmogorov-smirnov",
+    "cramer-von mises",
+    "anderson-darling",
+    "kuiper",
+    "watson"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.9.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.5"
+          }
+        },
+        {
+          "name": "spfun",
+          "str": ">= 0.7.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.6"
+          }
+        }
+      ],
+      "bin": [
+        "fitl/gof",
+        "fitl/dists",
+        "fitl",
+        "fitl/qtl",
+        "fitl/estMI"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.6.5",
+        "hash": "78ffb807db4305ada4359636311eb34293686837",
+        "time": 1764172082
+      },
+      {
+        "tag": "0.6.4",
+        "hash": "3d3bd267ad581a2e9519aa1f208d51295a7ea26a",
+        "time": 1758202093
+      },
+      {
+        "tag": "0.6.3",
+        "hash": "f7b76abc3df64c1989bb42909222d8587b3b2ceb",
+        "time": 1752933014
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "86b5a3e72dfbe30c4defac89402804beae8cb885",
+        "time": 1740087732
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "e28216826cce1caeca4fdeb4cf2e6a854d32763f",
+        "time": 1731766406
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "1af0d296dd5b5fdf0083f510dc72215763c93ca3",
+        "time": 1727462284
+      },
+      {
+        "tag": "0.5.7",
+        "hash": "9d1845dec5f83da8ed766099b3f81de82872ed38",
+        "time": 1721939040
+      },
+      {
+        "tag": "0.5.6",
+        "hash": "b2a103165167a60306de497d0d7108ad3e0db38a",
+        "time": 1721938932
+      },
+      {
+        "tag": "0.5.5",
+        "hash": "2e668bf1052b7c3829f0e4410f829166f2fe74b1",
+        "time": 1719240867
+      },
+      {
+        "tag": "0.5.4",
+        "hash": "0ed111f46b754bbb4720f1dda19cdb2d68a4dd67",
+        "time": 1719164380
+      },
+      {
+        "tag": "0.5.3",
+        "hash": "228a43bba74ac100dd139b77d3c51b5a9abe863a",
+        "time": 1717617264
+      },
+      {
+        "tag": "0.5.2",
+        "hash": "8c8aee2dc7b8f5ea36c959429f68b9cc0ecbe5cd",
+        "time": 1715009985
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "bb573f57b95c66e1baf7b03c17649688dcd6b8de",
+        "time": 1713870358
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "b238aaa0ca0133f988c0ef77f59d9dd4ee9b03e9",
+        "time": 1713778273
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "df35f73b3860240c6a9536bb154cf21e7bb23649",
+        "time": 1708608032
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "350b7ce69842af9549fdefc70d0060cda41aa625",
+        "time": 1705426091
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "1bbe391a7d6bb637d76bfd8ab43946fa51b049e6",
+        "time": 1700570515
+      },
+      {
+        "tag": "0.3.5",
+        "hash": "09aac11d02ddc45e205eef140c3cc366c1996c90",
+        "time": 1697538907
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "3da5809e29d05e16da1b709481ddac3e652f5919",
+        "time": 1695491792
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "2593af0c9a2f756dbdb69e96fd48689eccb3e74d",
+        "time": 1695480098
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "617e5f18439e8b0f25f7ed9475ccc083b3b731a1",
+        "time": 1692793432
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "9c39213928b270c64492c3b24dad13ff88ba3b86",
+        "time": 1673728766
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "22ad82b92f6e4a5e4c23ddfcc17ee4e107a2eaa9",
+        "time": 1670328788
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "4b977034d7b64ca2f44e12901c5881937bac2cd1",
+        "time": 1655495558
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "41f6d1ebfe731101cf39a3a03ed4117b2b99e80a",
+        "time": 1643493839
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "9a29ed79a402050b7bcd657eb1341db140274cfe",
+        "time": 1641284316
+      }
+    ],
+    "commit": {
+      "hash": "78ffb807db4305ada4359636311eb34293686837",
+      "time": 1764172082
+    }
+  }
+}

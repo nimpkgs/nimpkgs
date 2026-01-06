@@ -1,0 +1,34 @@
+{
+  "name": "ctrulib",
+  "url": "https://github.com/skyforce77/ctrulib-nim.git",
+  "method": "git",
+  "description": "ctrulib wrapper",
+  "license": "GPLv2",
+  "web": "https://github.com/skyforce77/ctrulib-nim",
+  "tags": [
+    "library",
+    "nintendo",
+    "3ds"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e7c019ef02cbedadf61186ee3f1e93c9d18776cd",
+      "time": 1448721916
+    }
+  }
+}

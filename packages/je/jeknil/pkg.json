@@ -1,0 +1,64 @@
+{
+  "name": "jeknil",
+  "url": "https://github.com/tonogram/jeknil",
+  "method": "git",
+  "description": "A blog post generator for people with priorities.",
+  "license": "CC0-1.0",
+  "web": "https://github.com/tonogram/jeknil",
+  "tags": [
+    "web",
+    "binary",
+    "blog",
+    "markdown",
+    "html"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "markdown",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        }
+      ],
+      "bin": [
+        "jeknil"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "1f1b649f591f2410d3fd892853c8dec981141030",
+        "time": 1594335049
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "cb002fae504e16ba6ac9fbfffaa3567a35d733a5",
+        "time": 1594330264
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ed09fa1ae74eee33744b80ba53958a71f4db995a",
+        "time": 1594317587
+      }
+    ],
+    "commit": {
+      "hash": "53a3f47331ecc3a64238489ef3f37079bcc6d473",
+      "time": 1629469798
+    }
+  }
+}

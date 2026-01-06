@@ -1,0 +1,78 @@
+{
+  "name": "nephyr",
+  "url": "https://github.com/EmbeddedNim/nephyr",
+  "method": "git",
+  "description": "Nim wrapper for Zephyr RTOS",
+  "license": "Apache-2.0",
+  "web": "https://github.com/EmbeddedNim/nephyr",
+  "tags": [
+    "zephyr",
+    "embedded",
+    "wrapper",
+    "rtos",
+    "mcu"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "msgpack4nim",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "https://github.com/EmbeddedNim/mcu_utils",
+          "str": "#main",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/EmbeddedNim/fast_rpc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nephyr"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0-alpha",
+        "hash": "ec181d3ff89734ac8b537619e228ffc334fd2a2f",
+        "time": 1642197048
+      }
+    ],
+    "commit": {
+      "hash": "c2c29c5acaad56ee78e798d5b1c5b695ddc71b82",
+      "time": 1658969727
+    }
+  }
+}

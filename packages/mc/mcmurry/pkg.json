@@ -1,0 +1,59 @@
+{
+  "name": "mcmurry",
+  "url": "https://github.com/chocobo333/mcmurry",
+  "method": "git",
+  "description": "A module for generating lexer/parser.",
+  "license": "MIT",
+  "web": "https://github.com/chocobo333/mcmurry",
+  "tags": [
+    "parser",
+    "parsergenerator",
+    "library",
+    "lexer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        },
+        {
+          "name": "asciitype",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ast_pattern_matching",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "cdf28bd47d8a431722a0a7fb9b75e838922342c2",
+      "time": 1576806778
+    }
+  }
+}

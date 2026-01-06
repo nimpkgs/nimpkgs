@@ -1,0 +1,33 @@
+{
+  "name": "getch",
+  "url": "https://github.com/6A/getch",
+  "method": "git",
+  "description": "getch() for Windows and Unix",
+  "license": "MIT",
+  "web": "https://github.com/6A/getch",
+  "tags": [
+    "getch",
+    "char"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1d9f68d07ac1b965bcd6ce49d09867aa2e7b062a",
+      "time": 1600370291
+    }
+  }
+}

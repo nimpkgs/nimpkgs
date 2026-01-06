@@ -1,0 +1,35 @@
+{
+  "name": "tencil",
+  "url": "https://github.com/enimatek-nl/tencil",
+  "method": "git",
+  "description": "Tencil is a mustache-compatible JSON based template engine for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/enimatek-nl/tencil",
+  "tags": [
+    "web",
+    "html",
+    "template",
+    "mustache"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "de809dff9d7744b246ea3fd85add0ba59bedc40f",
+      "time": 1610439594
+    }
+  }
+}

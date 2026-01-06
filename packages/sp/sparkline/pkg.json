@@ -1,0 +1,34 @@
+{
+  "name": "sparkline",
+  "url": "https://github.com/aquilax/sparkline-nim",
+  "method": "git",
+  "description": "Sparkline library",
+  "license": "MIT",
+  "web": "https://github.com/aquilax/sparkline-nim",
+  "tags": [
+    "library",
+    "sparkline",
+    "console"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4cbbd2a734c68666ee3e7820e09326be8e15b44c",
+      "time": 1574001023
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "libgcrypt",
+  "url": "https://github.com/FedericoCeratto/nim-libgcrypt",
+  "method": "git",
+  "description": "libgcrypt wrapper",
+  "license": "LGPLv2.1",
+  "web": "https://github.com/FedericoCeratto/nim-libgcrypt",
+  "tags": [
+    "wrapper",
+    "library",
+    "security",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "8f9662a004c3078b1d3eff4e7bd2597f0bae7955",
+        "time": 1570877280
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "b33f8afa3a43b87e38084edd39116cbb2844f39e",
+        "time": 1559422490
+      }
+    ],
+    "commit": {
+      "hash": "8f9662a004c3078b1d3eff4e7bd2597f0bae7955",
+      "time": 1570877280
+    }
+  }
+}

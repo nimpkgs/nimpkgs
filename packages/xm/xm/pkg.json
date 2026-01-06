@@ -1,0 +1,55 @@
+{
+  "name": "xm",
+  "url": "https://github.com/c-blake/xm",
+  "method": "git",
+  "description": "Nim rewrite of `xzoom` with many new features",
+  "license": "MIT",
+  "web": "https://github.com/c-blake/xm",
+  "tags": [
+    "X11",
+    "zoom",
+    "magnification",
+    "magnifier",
+    "magnifying",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.9.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.5"
+          }
+        }
+      ],
+      "bin": [
+        "xm"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "34858ec5e25e9c765e031ac0480035eba4f8f72a",
+        "time": 1766779175
+      }
+    ],
+    "commit": {
+      "hash": "535a1c424586280dac78b2ca740978dcc8c30ffb",
+      "time": 1767010517
+    }
+  }
+}

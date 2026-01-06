@@ -1,0 +1,67 @@
+{
+  "name": "conventional_semver",
+  "url": "https://gitlab.com/SimplyZ/conventional_semver",
+  "method": "git",
+  "description": "Calculate the next semver version given the git log and previous version",
+  "license": "MIT",
+  "web": "https://gitlab.com/SimplyZ/conventional_semver",
+  "tags": [
+    "semver",
+    "conventional",
+    "commits",
+    "git",
+    "version"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        },
+        {
+          "name": "semver",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "simpleparseopt",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        }
+      ],
+      "bin": [
+        "conventional_semver"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "fa6385a7e8f7f9fb3d78c5b51546fe775c5a1e3f",
+        "time": 1641770823
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f2ada6853639028aa21e842ba6e5c35c0214116a",
+        "time": 1641755670
+      }
+    ],
+    "commit": {
+      "hash": "fa6385a7e8f7f9fb3d78c5b51546fe775c5a1e3f",
+      "time": 1641770823
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "gamelight",
+  "url": "https://github.com/dom96/gamelight",
+  "method": "git",
+  "description": "A set of simple modules for writing a JavaScript 2D game.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/gamelight",
+  "tags": [
+    "js",
+    "library",
+    "graphics",
+    "collision",
+    "2d"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        },
+        {
+          "name": "sdl2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "typography",
+          "str": ">= 0.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.4"
+          }
+        },
+        {
+          "name": "flippy",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e0abfd649c53a82e65c26a3fd930c838dbb45caa",
+      "time": 1614988445
+    }
+  }
+}

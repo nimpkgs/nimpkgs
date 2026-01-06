@@ -1,0 +1,87 @@
+{
+  "name": "eris",
+  "url": "https://codeberg.org/eris/nim-eris",
+  "method": "git",
+  "description": "Encoding for Robust Immutable Storage (ERIS)",
+  "license": "ISC",
+  "web": "https://eris.codeberg.page",
+  "tags": [
+    "eris"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "base32",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "nim-eris-0.4.2, 0.4.2",
+        "hash": "63d28bdcdf509d2e8a733299a3ddcb2ae4e495c7",
+        "time": 1652898863
+      },
+      {
+        "tag": "nim-eris-0.4.1, 0.4.1",
+        "hash": "ac0e5e161892608d0a7804f60d4cba6169ef4b0c",
+        "time": 1652291194
+      },
+      {
+        "tag": "nim-eris-0.4.0, 0.4.0",
+        "hash": "835563c1b5496a050c533b8d37cd161a74d8412c",
+        "time": 1651872328
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "eec112c9028a765724894c74821802f8c8a2f77b",
+        "time": 1643231147
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "990f53ed9222c95124364d9152d9cebc1baf9abe",
+        "time": 1629214956
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "cc782d2735ed455265b82e238d15b7aa2e801bc2",
+        "time": 1614266434
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "37f1503a4a75286e3799a48ccffaf43362cbca8b",
+        "time": 1612536103
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "dc42e1e22b46c8196132d04a7ff2239c63f6193b",
+        "time": 1612446612
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "175997896a5e83e0433d65dd8a255f64e92552eb",
+        "time": 1612437782
+      }
+    ],
+    "commit": {
+      "hash": "f2d2944cb48c6c85b336a989a1919b64434c4d7f",
+      "time": 1755291576
+    }
+  }
+}

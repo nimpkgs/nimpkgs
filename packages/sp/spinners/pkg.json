@@ -1,0 +1,39 @@
+{
+  "name": "spinners",
+  "url": "https://github.com/thechampagne/libspinners-nim",
+  "method": "git",
+  "description": "Binding for libspinners an elegant terminal spinners",
+  "license": "MIT",
+  "web": "https://github.com/thechampagne/libspinners-nim",
+  "tags": [
+    "spinners"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "26230adfb0de8719b743e8f8b2bd74ae2bb0a0a3",
+        "time": 1675373750
+      }
+    ],
+    "commit": {
+      "hash": "faf6af7cab8cdfa6625f748d62565231c0e6128f",
+      "time": 1675430079
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": "deser",
+  "url": "https://github.com/gabbhack/deser",
+  "method": "git",
+  "description": "De/serialization library for Nim ",
+  "license": "MIT",
+  "web": "https://github.com/gabbhack/deser",
+  "tags": [
+    "library",
+    "deserialization",
+    "serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.2",
+        "hash": "326df8d323a622c6381290c1c0963b050ccaf865",
+        "time": 1680624514
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "d980960bda219478cf141c1fc6d27206e15b6407",
+        "time": 1675611127
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "30ec5dfad00a6bf3ffd62b51e8561751d8e23365",
+        "time": 1675523889
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "7346b07978bbbff47b798662df72d92f1280a0bc",
+        "time": 1661356402
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "125728c7b465b67cc98dd0f72c11e3f8dacfb952",
+        "time": 1661339065
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "ca48c18dbcafe757ce1ad35be1d28745306e5e47",
+        "time": 1636102785
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "cd4606ede16989a9a58d885832bcf5c7ecd6ac09",
+        "time": 1635252874
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "bf3629897ae79e817304ecab60ff7dbc214f5cf6",
+        "time": 1608563453
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "1dbdf74fde55d1add9fbaf213c3590e9a9c288e6",
+        "time": 1608049930
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "42191beeaad92c6d0d68e478b4c8d928c735e1ea",
+        "time": 1607928646
+      },
+      {
+        "tag": "v0.1.1-alpha.2",
+        "hash": "e0f340d412b783a6cd60a4edb69ccbaf0c769482",
+        "time": 1607928429
+      },
+      {
+        "tag": "v0.1.1-alpha.1",
+        "hash": "70b9cef20a2c8f1319a7dd9ba92622e6eb45ec6e",
+        "time": 1607857702
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "26371ebb5429b2ab330fadb5cb4dffb1ab8bf9dc",
+        "time": 1607857076
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "bf21fa954fb60f8dcb8d5547e41ca56c11d2b00b",
+        "time": 1607801660
+      }
+    ],
+    "commit": {
+      "hash": "efa0b92765fa84130aadb62344aec4e703f13805",
+      "time": 1690732815
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "chatgptclient",
+  "url": "https://github.com/jaredmontoya/chatgptclient",
+  "method": "git",
+  "description": "Native gui client for OpenAI chatgpt",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/jaredmontoya/chatgptclient",
+  "tags": [
+    "client",
+    "openai",
+    "gpt",
+    "gui",
+    "chat"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "nigui",
+          "str": ">= 0.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.6"
+          }
+        },
+        {
+          "name": "pyopenai",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [
+        "chatgptclient"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "54890d21d007e97f63f8b19df4c4abe67235c59e",
+        "time": 1692119752
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "273704be6f37113d6012f440b8ea54ddcb8e7ee0",
+        "time": 1690635682
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "fab864c482efe31a8a87a359d9b4dadfd4ae45a5",
+        "time": 1690559683
+      }
+    ],
+    "commit": {
+      "hash": "415fa4f4392d7ba841011fa09e1aa9d22b60f51b",
+      "time": 1767882251
+    }
+  }
+}

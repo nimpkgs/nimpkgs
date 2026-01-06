@@ -1,0 +1,35 @@
+{
+  "name": "euclidean",
+  "url": "https://github.com/juancarlospaco/nim-euclidean",
+  "method": "git",
+  "description": "Euclidean Division & Euclidean Modulo",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-euclidean",
+  "tags": [
+    "euclidean",
+    "modulo",
+    "division",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "62d18ebf79434dc382a75effa5a7f936e9515893",
+      "time": 1572867029
+    }
+  }
+}

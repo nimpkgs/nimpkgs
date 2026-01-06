@@ -1,0 +1,70 @@
+{
+  "name": "hottext",
+  "url": "https://git.sr.ht/~ehmry/hottext",
+  "method": "git",
+  "description": "Rapid serial text presenter",
+  "license": "Unlicense",
+  "web": "https://git.sr.ht/~ehmry/hottext",
+  "tags": [
+    "rsvp",
+    "sdl",
+    "text"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "sdl2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "typography",
+          "str": ">= 0.7.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.8"
+          }
+        }
+      ],
+      "bin": [
+        "hottext"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.4",
+        "hash": "fcd21c253ea95ae89a9669dd9660bdf552135976",
+        "time": 1629290744
+      },
+      {
+        "tag": "v1.3",
+        "hash": "aa309599b633ba4b5394d4f0ae7fc7b44c248bc5",
+        "time": 1620466443
+      },
+      {
+        "tag": "v1.2",
+        "hash": "b65c83d1986f2695336e65e634657750a28b8ec6",
+        "time": 1619705071
+      }
+    ],
+    "commit": {
+      "hash": "45199169e0f39afbf3f1209a72bde35ebf4c2aba",
+      "time": 1728824158
+    }
+  }
+}

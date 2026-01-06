@@ -1,0 +1,47 @@
+{
+  "name": "brainimfuck",
+  "url": "https://github.com/nirokay/brainimfuck",
+  "method": "git",
+  "description": "Brainfuck interpreter with some advanced features, such as syntax checking and highlighting errors.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nirokay/brainimfuck",
+  "tags": [
+    "brainfuck",
+    "interpreter",
+    "language",
+    "cli",
+    "binary",
+    "app"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "brainimfuck"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "373bedcccafcbdbc6fd4798b8315536f2673e753",
+        "time": 1688907518
+      }
+    ],
+    "commit": {
+      "hash": "615e4c65223fa3bbc7894f998da511ea9f13aa1d",
+      "time": 1688982550
+    }
+  }
+}

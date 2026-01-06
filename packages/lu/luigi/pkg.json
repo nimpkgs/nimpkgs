@@ -1,0 +1,50 @@
+{
+  "name": "luigi",
+  "url": "https://github.com/neroist/luigi",
+  "method": "git",
+  "description": "Nim bindings for the barebones single-header GUI library for Win32, X11, and Essence: Luigi.",
+  "license": "MIT",
+  "web": "https://github.com/neroist/luigi",
+  "tags": [
+    "ui",
+    "gui",
+    "library",
+    "wrapper",
+    "luigi",
+    "X11",
+    "linux",
+    "windows",
+    "essence",
+    "essenceOS",
+    "cross-platform"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "freetype",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "92af8103ac9a4faa47af23a8e8cb15e73ada3ae2",
+      "time": 1746095678
+    }
+  }
+}

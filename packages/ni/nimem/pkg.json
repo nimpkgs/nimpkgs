@@ -1,0 +1,44 @@
+{
+  "name": "nimem",
+  "url": "https://github.com/qb-0/Nimem",
+  "method": "git",
+  "description": "Cross platform (windows, linux) library for external process memory manipulation",
+  "license": "MIT",
+  "web": "https://github.com/qb-0/Nimem",
+  "tags": [
+    "memory",
+    "process",
+    "memory",
+    "manipulation",
+    "external"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "winim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0a61504898a42062102c0595c41b629cb5e8cb6e",
+      "time": 1672402428
+    }
+  }
+}

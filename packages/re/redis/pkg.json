@@ -1,0 +1,51 @@
+{
+  "name": "redis",
+  "url": "https://github.com/nim-lang/redis",
+  "method": "git",
+  "description": "official redis client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/redis",
+  "tags": [
+    "redis",
+    "client",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.5.0",
+        "hash": "5b16cb1885f2de3652cd5008def8771e14a661e6",
+        "time": 1752060849
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "90930b1fa805eca1a690e1f63a68e8df536c2e2e",
+        "time": 1655303752
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "f1d67f91638340e5a7bc24fc6243ad769cf63455",
+        "time": 1545501893
+      }
+    ],
+    "commit": {
+      "hash": "5b16cb1885f2de3652cd5008def8771e14a661e6",
+      "time": 1752060849
+    }
+  }
+}

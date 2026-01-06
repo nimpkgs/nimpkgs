@@ -1,0 +1,110 @@
+{
+  "name": "paranim",
+  "url": "https://github.com/paranim/paranim",
+  "method": "git",
+  "description": "A game library",
+  "license": "Public Domain",
+  "tags": [
+    "games",
+    "opengl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.12.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "nimgl",
+          "str": ">= 1.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.9"
+          }
+        },
+        {
+          "name": "glm",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.12.0",
+        "hash": "1f2bb9d09caee71798facd436599252faa723ee8",
+        "time": 1651570368
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "b8fe4814ea74ed67f769d73bba1d4d2f53e1ad8a",
+        "time": 1613641162
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "ff68bebd9d565674c93c4e041987640586ae9541",
+        "time": 1603406749
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "f9b7be1492537eabf55e17d2e683b3fb9c35be5c",
+        "time": 1595803639
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "4b4e87b4d2d7056c1cb6b193692860be86861cbd",
+        "time": 1594941336
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "496196dbc9bf1593253ca6c186b3d4d3210861f8",
+        "time": 1593094450
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "7f98b3ffac05dc74a25a4b36d42259a235d9c3f3",
+        "time": 1589482521
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "3f873553b49ccba3d80ba72a7a2192b04524c96f",
+        "time": 1587219763
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "aa2c3d0c883fdf713dabf09f6501197f36b65835",
+        "time": 1586840793
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "103be926af29fed0b22b52b8f59bb8d60176e273",
+        "time": 1583953903
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "141a4619b3bef9219e560b3c50f100a91aecb0b1",
+        "time": 1582655366
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "989d8ae29ee3317f903bec4dce5b04e5632a0393",
+        "time": 1581853647
+      }
+    ],
+    "commit": {
+      "hash": "fd28a5acf75f9fca32f1acc828c89c651dd9ce05",
+      "time": 1696521648
+    }
+  }
+}

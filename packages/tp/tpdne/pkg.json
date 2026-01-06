@@ -1,0 +1,39 @@
+{
+  "name": "tpdne",
+  "url": "https://github.com/nemuelw/tpdne",
+  "method": "git",
+  "description": "Fetch and optionally save AI-generated faces from thispersondoesnotexist.com",
+  "license": "MIT",
+  "web": "https://github.com/nemuelw/tpdne",
+  "tags": [
+    "thispersondoesnotexist",
+    "thispersondoesnotexist.com",
+    "ai-faces",
+    "face-generation",
+    "image-download",
+    "tpdne",
+    "nim",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "66594054473e66f2cb6f6d58edc8e96fdd2d5751",
+      "time": 1750767971
+    }
+  }
+}

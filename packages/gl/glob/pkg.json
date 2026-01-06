@@ -1,0 +1,137 @@
+{
+  "name": "glob",
+  "url": "https://github.com/haltcase/glob",
+  "method": "git",
+  "description": "Pure library for matching file paths against Unix style glob patterns.",
+  "license": "MIT",
+  "web": "https://github.com/haltcase/glob",
+  "tags": [
+    "glob",
+    "pattern",
+    "match",
+    "walk",
+    "filesystem",
+    "pure"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.11.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.11.3",
+        "hash": "dfb567fe1803d08b2e6272c56f30885c8a63f4d1",
+        "time": 1706638185
+      },
+      {
+        "tag": "v0.11.2",
+        "hash": "a7d314f71ef1f47fd7526348e194e91e86517d6f",
+        "time": 1665780869
+      },
+      {
+        "tag": "v0.11.1",
+        "hash": "478c45c64ac7a36fe08e4da8e8e8da3e8d093ba9",
+        "time": 1618881494
+      },
+      {
+        "tag": "v0.11.0",
+        "hash": "1101bbb582496dd31bc7c24950ce6fc39e03b6e5",
+        "time": 1610818560
+      },
+      {
+        "tag": "v0.10.0",
+        "hash": "85fc1a2c6df8e05ddf63e39e47a5455543f3786a",
+        "time": 1605045834
+      },
+      {
+        "tag": "v0.9.1",
+        "hash": "48fa115711b30c70f671159c87aedc1592a09f32",
+        "time": 1604732515
+      },
+      {
+        "tag": "v0.9.0-doc",
+        "hash": "31111ddfcf07889f2ee44308a765e29cab3ee142",
+        "time": 1538542244
+      },
+      {
+        "tag": "v0.9.0",
+        "hash": "3b9945cde7ec652c5983166d0a4f9bb0fc763f91",
+        "time": 1538541105
+      },
+      {
+        "tag": "v0.8.1",
+        "hash": "98a5c791ed1b024473c345b52b7e7810b8013017",
+        "time": 1532204085
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "6fada01bd98f875c8e1decd49e397cbcf50dedd1",
+        "time": 1532203799
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "ca0513dca6896972bf5277b4ec94202f51ba49a9",
+        "time": 1530715371
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "1e1000f283087fae8c7ff8151765a243cb98ff85",
+        "time": 1528334422
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "ba811e790d6eda22ba55a769e4a097271792aaa9",
+        "time": 1527706887
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "bfdc3be5d54d858f8c1dc9f67c0acb251fc1c379",
+        "time": 1527128055
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "3df63d81ec2684c5be2f2b949bbf081d2fcc1fc9",
+        "time": 1527028601
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "14407d7a0bf831d3aa91b3bbef7792d4fb334d63",
+        "time": 1527012278
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "90b1e78a446369b8a01466e132fff961d5d8a967",
+        "time": 1526995683
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "6f5c5f48d96cb2b34c443d6eaf0a3030dac6d672",
+        "time": 1526875342
+      }
+    ],
+    "commit": {
+      "hash": "ab6087b0cfb56096258cb48f7e756a8c3e8e40cf",
+      "time": 1709049464
+    }
+  }
+}

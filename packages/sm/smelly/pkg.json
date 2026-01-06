@@ -1,0 +1,85 @@
+{
+  "name": "smelly",
+  "url": "https://github.com/guzba/smelly",
+  "method": "git",
+  "description": "Sometimes you have to parse XML",
+  "license": "MIT",
+  "web": "https://github.com/guzba/smelly",
+  "tags": [
+    "xml"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        },
+        {
+          "name": "unicody",
+          "str": ">= 0.1.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "eac5c917b9fd7cf6941d63fc0fe40bb606b3c9aa",
+        "time": 1734853023
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "4d2b6d044e2fb441471d905867ce30294f8d79cb",
+        "time": 1734840201
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "a7b6ec8a1312da62b6392190aadc4cfa534bf25b",
+        "time": 1731445499
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "f8c0494d5cf0e23e6a21bfa5b6394baddaf6962e",
+        "time": 1731258107
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "7e58be618e0ea215a952f2f35a16daaf9a59484d",
+        "time": 1731170779
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "2bbedd889c36091c4d41a730ee4b994288e5912f",
+        "time": 1731169691
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "66123671ee680c17d7ed2043636d790e71b19cca",
+        "time": 1731168869
+      }
+    ],
+    "commit": {
+      "hash": "eac5c917b9fd7cf6941d63fc0fe40bb606b3c9aa",
+      "time": 1734853023
+    }
+  }
+}

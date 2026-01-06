@@ -1,0 +1,38 @@
+{
+  "name": "units",
+  "url": "https://github.com/Udiknedormin/NimUnits",
+  "method": "git",
+  "description": " Statically-typed quantity units.",
+  "license": "MIT",
+  "web": "https://github.com/Udiknedormin/NimUnits",
+  "tags": [
+    "library",
+    "pure",
+    "units",
+    "physics",
+    "science",
+    "documentation",
+    "safety"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "08ae9675da38530237a3b8e1b5615732f421a8b8",
+      "time": 1527761365
+    }
+  }
+}

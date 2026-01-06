@@ -1,0 +1,53 @@
+{
+  "name": "segmentation",
+  "url": "https://github.com/nitely/nim-segmentation",
+  "method": "git",
+  "description": "Unicode text segmentation tr29",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-segmentation",
+  "tags": [
+    "unicode",
+    "text-segmentation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "6845c68cf00c1546f49d628ae11334acba966bfb",
+        "time": 1581812128
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "7c8d9b7cd63bc385c97a5c5212157d69ba5b9e49",
+        "time": 1581776477
+      }
+    ],
+    "commit": {
+      "hash": "8ac8570ea17bbbf1f737b2372a6b7e172a5afa6f",
+      "time": 1726706361
+    }
+  }
+}

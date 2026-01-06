@@ -1,0 +1,102 @@
+{
+  "name": "mcsrvstat.nim",
+  "url": "https://github.com/hitblast/mcsrvstat.nim",
+  "method": "git",
+  "description": "A hybrid and asynchronous Nim wrapper for the Minecraft Server Status API.",
+  "license": "MIT",
+  "web": "https://github.com/hitblast/mcsrvstat.nim",
+  "tags": [
+    "mcsrvstat",
+    "api-wrapper",
+    "minecraft",
+    "minecraft-server-status",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0"
+          }
+        },
+        {
+          "name": "illwill",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        }
+      ],
+      "bin": [
+        "mcsrvstat"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.4.1",
+        "hash": "92c575f42d8381cf8007286d9bcac25b7885f7a8",
+        "time": 1712431198
+      },
+      {
+        "tag": "1.4.0",
+        "hash": "e1485521f47bb660aef62faadd6e1845e1c0dee3",
+        "time": 1712388655
+      },
+      {
+        "tag": "1.3.2",
+        "hash": "285b5ab0cdfd40175534e6412991d0a2ee267018",
+        "time": 1710783133
+      },
+      {
+        "tag": "1.3.1",
+        "hash": "de588697a04972d836a5d9f51a81c0941cc615f3",
+        "time": 1691593068
+      },
+      {
+        "tag": "1.3.0",
+        "hash": "1a19befaa39bdfc4ca9619979c42a4834f79e5de",
+        "time": 1690288460
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "817de5c44115e57682ffae3ee3f12fd15fafa120",
+        "time": 1686981650
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "89b7c63ef8310226303620c7b1ab74b19eb5f94a",
+        "time": 1684313164
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "b6c20f5e93f9acabd3c01086d75551c16ef50f0f",
+        "time": 1682013892
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "45cbde70618c2adb3c1cba278c80c1dd5248cac8",
+        "time": 1681748981
+      }
+    ],
+    "commit": {
+      "hash": "fb52640e7f0fd3f0bfc5493d8c33327e00bffd60",
+      "time": 1767365912
+    }
+  }
+}

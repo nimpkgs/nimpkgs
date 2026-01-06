@@ -1,0 +1,42 @@
+{
+  "name": "sqids",
+  "url": "https://github.com/sqids/sqids-nim",
+  "method": "git",
+  "description": "Official Nim port of Sqids. Generate short YouTube-looking IDs from numbers.",
+  "license": "MIT",
+  "web": "https://github.com/sqids/sqids-nim",
+  "tags": [
+    "library",
+    "ids",
+    "id",
+    "sqids"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "4395eac1fadb92c0e66ef2a54be81344e22a55fb",
+        "time": 1701013589
+      }
+    ],
+    "commit": {
+      "hash": "df2ac211bb9593081f58a1649aba71f30175517f",
+      "time": 1701026724
+    }
+  }
+}

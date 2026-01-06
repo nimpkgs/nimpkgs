@@ -1,0 +1,33 @@
+{
+  "name": "webgeolocation",
+  "url": "https://github.com/maleyva1/webgeoloaction",
+  "method": "git",
+  "description": "Bindings to the Webgeolocation Web API",
+  "license": "MIT",
+  "web": "https://github.com/maleyva1/webgeoloaction",
+  "tags": [
+    "bindings",
+    "geolocation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "844881d2af68979fdbab685b0960fd58f8a44a9f",
+      "time": 1681357402
+    }
+  }
+}

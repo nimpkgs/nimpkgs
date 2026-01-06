@@ -1,0 +1,45 @@
+{
+  "name": "wZeeGrid",
+  "url": "https://github.com/bunkford/wZeeGrid",
+  "method": "git",
+  "description": "Grid plugin for wNim.",
+  "license": "MIT",
+  "web": "https://github.com/bunkford/wZeeGrid",
+  "doc": "https://bunkford.github.io/wZeeGrid/wZeeGrid.html",
+  "tags": [
+    "library",
+    "windows",
+    "gui",
+    "ui",
+    "wnim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "wNim",
+          "str": ">= 0.11.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f3bd27a5ba8c446fd692f86f5092b372ed09fac8",
+      "time": 1748910585
+    }
+  }
+}

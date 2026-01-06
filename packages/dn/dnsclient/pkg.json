@@ -1,0 +1,98 @@
+{
+  "name": "dnsclient",
+  "url": "https://github.com/ba0f3/dnsclient.nim",
+  "method": "git",
+  "description": "Simple DNS Client & Library",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/dnsclient.nim",
+  "tags": [
+    "dns",
+    "dnsclient"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [
+        "dnsclient"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.3.4",
+        "hash": "23214235d4784d24aceed99bbfe153379ea557c8",
+        "time": 1686734231
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "2b3d4b4e35b5e698fbbeafe16a4fa757926a4673",
+        "time": 1684381083
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "fcd7443634b950eaea574e5eaa00a628ae029823",
+        "time": 1666606252
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "6647ca8bd9ffcc13adaecb9cb6453032063967db",
+        "time": 1663809690
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "478c268b4d22fddbb8d311fc490cbeb9546ac343",
+        "time": 1663782290
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "4960de2b345f567b12f09a08e9967af104ab39a3",
+        "time": 1656553180
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "fbb76f8af8a33ab818184a7d4406d9fee20993be",
+        "time": 1641300892
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "8a1f6bfee27c95bf3a0e5933a45b7204e75d0f2c",
+        "time": 1629823896
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "647ed10deca7758a147c7f0af90d5addfe514c0f",
+        "time": 1623075928
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "cf85f991b38cff736e767eaa91a0659e39a2764b",
+        "time": 1601341778
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "e449580a606d349bdbe035f7be7fe6c6b78f8366",
+        "time": 1561650198
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "1f4b4d8350ea4f49a82846b2330501a0a4136fe8",
+        "time": 1561434334
+      }
+    ],
+    "commit": {
+      "hash": "23214235d4784d24aceed99bbfe153379ea557c8",
+      "time": 1686734231
+    }
+  }
+}

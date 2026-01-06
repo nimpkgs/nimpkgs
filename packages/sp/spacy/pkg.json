@@ -1,0 +1,74 @@
+{
+  "name": "spacy",
+  "url": "https://github.com/treeform/spacy",
+  "method": "git",
+  "description": "Spatial data structures for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/spacy",
+  "tags": [
+    "2d",
+    "collision",
+    "quadtree",
+    "kdtree",
+    "partition"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "bumpy",
+          "str": ">= 1.0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.4",
+        "hash": "4da943f5ebd05e50a1e461f46caeda13bdf9c490",
+        "time": 1616793790
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "e65ac6156e151323de09d3805a6f3c2bda9c74eb",
+        "time": 1613784430
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "ccd4e78eb174bf37b0deb82a51cf4b1d9fa9a27f",
+        "time": 1613723378
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "b69bd5880b5dffb8f0f975d0916f27a1cc494da9",
+        "time": 1613719814
+      }
+    ],
+    "commit": {
+      "hash": "b978eb0891d8e17b4ffcd628c8bc4af2cd727e03",
+      "time": 1683765134
+    }
+  }
+}

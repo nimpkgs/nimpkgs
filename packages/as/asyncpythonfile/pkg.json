@@ -1,0 +1,44 @@
+{
+  "name": "asyncpythonfile",
+  "url": "https://github.com/fallingduck/asyncpythonfile-nim",
+  "method": "git",
+  "description": "High level, asynchronous file API mimicking Python's file interface.",
+  "license": "ISC",
+  "web": "https://github.com/fallingduck/asyncpythonfile-nim",
+  "tags": [
+    "async",
+    "asynchronous",
+    "library",
+    "python",
+    "file",
+    "files"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "300b05923a2c1d053744eca54e98be9f293bf340",
+        "time": 1433975491
+      }
+    ],
+    "commit": {
+      "hash": "47232f14d8625ccd13c3159e0a174edb50de4633",
+      "time": 1497137261
+    }
+  }
+}

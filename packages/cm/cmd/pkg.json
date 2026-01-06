@@ -1,0 +1,35 @@
+{
+  "name": "cmd",
+  "url": "https://github.com/samdmarshall/cmd.nim",
+  "method": "git",
+  "description": "interactive command prompt",
+  "license": "BSD 3-Clause",
+  "web": "https://github.com/samdmarshall/cmd.nim",
+  "tags": [
+    "cmd",
+    "command-line",
+    "prompt",
+    "interactive"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "92f014d484d6dde9e4adc7edfb6ef0c7d8605328",
+      "time": 1523282033
+    }
+  }
+}

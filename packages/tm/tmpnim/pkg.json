@@ -1,0 +1,36 @@
+{
+  "name": "tmpnim",
+  "url": "https://github.com/ment1na/tmpnim",
+  "method": "git",
+  "description": "Create and remove ramdisks easily",
+  "license": "MPL-2.0",
+  "web": "https://github.com/ment1na/tmpnim",
+  "tags": [
+    "library",
+    "tmpfs",
+    "ramdisk",
+    "tempfile",
+    "linux"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1e7b20e97a124f3dd85885ab2a906928990964f8",
+      "time": 1652081815
+    }
+  }
+}

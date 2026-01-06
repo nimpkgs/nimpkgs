@@ -1,0 +1,61 @@
+{
+  "name": "phoon",
+  "url": "https://github.com/ducdetronquito/phoon",
+  "method": "git",
+  "description": "A web framework inspired by ExpressJS 🐇⚡",
+  "license": "Public Domain",
+  "web": "https://github.com/ducdetronquito/phoon",
+  "tags": [
+    "web",
+    "framework",
+    "http"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "253fdc7989853d9008d8b9a7baf94645262d1b6d",
+        "time": 1668284706
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "a91f8d2f83625f9f81ce66414f9455cbe7213dd1",
+        "time": 1667825682
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "724b83e9ba859945997fef134b4ff7fde3e1e60a",
+        "time": 1667470547
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "8a9f559096927174fdcc92fe3aa57ac91db13b09",
+        "time": 1666978222
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "9b53811b44c7d7cfa6f451f6a3bb75cdf0c05b63",
+        "time": 1579466220
+      }
+    ],
+    "commit": {
+      "hash": "253fdc7989853d9008d8b9a7baf94645262d1b6d",
+      "time": 1668284706
+    }
+  }
+}

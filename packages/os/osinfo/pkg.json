@@ -1,0 +1,34 @@
+{
+  "name": "osinfo",
+  "url": "https://github.com/nim-lang/osinfo.git",
+  "method": "git",
+  "description": "Modules providing information about the OS.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/osinfo",
+  "tags": [
+    "os",
+    "library",
+    "info"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "437486dff62eb9d91ab1e55c780f84dd0d225e2b",
+      "time": 1724911103
+    }
+  }
+}

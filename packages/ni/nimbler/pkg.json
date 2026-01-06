@@ -1,0 +1,36 @@
+{
+  "name": "nimbler",
+  "url": "https://github.com/paul-nameless/nimbler",
+  "method": "git",
+  "description": "A library to help you write rest APIs",
+  "license": "MIT",
+  "web": "https://github.com/paul-nameless/nimbler",
+  "tags": [
+    "web",
+    "http",
+    "rest",
+    "api",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "aa647004603c669a9fd929e89d5447d57defdcf8",
+      "time": 1583192635
+    }
+  }
+}

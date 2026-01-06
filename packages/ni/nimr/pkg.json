@@ -1,0 +1,36 @@
+{
+  "name": "nimr",
+  "url": "https://github.com/Jeff-Ciesielski/nimr",
+  "method": "git",
+  "description": "Helper to run nim code like a script",
+  "license": "MIT",
+  "web": "https://github.com/Jeff-Ciesielski/nimr",
+  "tags": [
+    "script",
+    "utils"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimr"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "9fcd05ba57402035d53d6cdece99668d12dee8e1",
+      "time": 1595958768
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "name": "nimview",
+  "url": "https://github.com/marcomq/nimview",
+  "method": "git",
+  "description": "Nim / Python / C library to run webview with HTML/JS as UI",
+  "license": "MIT",
+  "web": "https://github.com/marcomq/nimview",
+  "tags": [
+    "web",
+    "library",
+    "gui",
+    "webview",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "nimpy",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "nake",
+          "str": ">= 1.9.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.0"
+          }
+        },
+        {
+          "name": "ws",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.2",
+        "hash": "1c0343f131832b4ea8747768f847d6315ce58ac8",
+        "time": 1638625157
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "dc851ac9c2467279dd9dd44e3c2ff433079e3754",
+        "time": 1637270081
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "4fd8be6f0d51b0ae50e912a3db5046662b385f84",
+        "time": 1636195636
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "e45d7a63f1d83ab11cb5f5e3b2ce62fee19e3c3a",
+        "time": 1635196907
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "32cdf495c30f216f5eb0f0418b80296400921a54",
+        "time": 1634551228
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "4224147ddc828f85f5562d21b2f867a8221b69c2",
+        "time": 1632662845
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "a93d95e1d304a8cd15aeff6ec36303eeb1ebc791",
+        "time": 1631650249
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "d42ec4198726d228d0d7f30b559433c0648b0234",
+        "time": 1630332159
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "522eb32424b915a38f3960441c18a076b38d5a7f",
+        "time": 1628586547
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "7240b29a1811ce7f14273b7978b9823a73121587",
+        "time": 1625074069
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "12d5886c89ee226c3bb436521fd0974c6dd6ac40",
+        "time": 1624823794
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "c58311504877fd3973491fde61029ab75aee1a19",
+        "time": 1617197459
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "cd7b4737e49e998874e1a38c7c57d932b79aab8a",
+        "time": 1616511373
+      }
+    ],
+    "commit": {
+      "hash": "d6bf5ce39d710f6ed80f0ca320b93ee6323ae66f",
+      "time": 1663496723
+    }
+  }
+}

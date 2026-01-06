@@ -1,0 +1,38 @@
+{
+  "name": "SDF",
+  "url": "https://github.com/Halsys/SDF.nim",
+  "method": "git",
+  "description": "Signed Distance Field builder for contour texturing in Nim",
+  "license": "MIT",
+  "web": "https://github.com/Halsys/SDF.nim",
+  "tags": [
+    "sdf",
+    "text",
+    "contour",
+    "texture",
+    "signed",
+    "distance",
+    "transform"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "ddaaf3b8ee5e336d03ebba1b4206f5a75d91c088",
+      "time": 1507085179
+    }
+  }
+}

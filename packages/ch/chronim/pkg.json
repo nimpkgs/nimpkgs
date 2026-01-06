@@ -1,0 +1,23 @@
+{
+  "name": "chronim",
+  "url": "https://github.com/aad1995/chronim",
+  "method": "git",
+  "description": "Chronim is Chrome DevTools Protocol (CDP) for Nim lang",
+  "license": "MIT",
+  "web": "https://github.com/aad1995/chronim",
+  "tags": [
+    "cdp",
+    "chrome",
+    "devtools",
+    "webassembley",
+    "nim",
+    "automation"
+  ],
+  "meta": {
+    "broken": true,
+    "commit": {
+      "hash": "1e40fa6856e54fc259a22ad77a5b3fe2513618ef",
+      "time": 1753715730
+    }
+  }
+}

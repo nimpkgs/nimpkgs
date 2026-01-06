@@ -1,0 +1,69 @@
+{
+  "name": "nemini",
+  "url": "https://codeberg.org/pswilde/Nemini",
+  "method": "git",
+  "description": "Nemini is a very basic Gemini server able to host static files and with virtual host support",
+  "license": "AGPLv3",
+  "web": "https://codeberg.org/pswilde/Nemini",
+  "tags": [
+    "gemini",
+    "web servers",
+    "backend"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "gemini",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "parsetoml",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "threadlogging",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nemini"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "0f5e6f5dc1fb5e82b321368ce9baae42fe9edd97",
+      "time": 1704284463
+    }
+  }
+}

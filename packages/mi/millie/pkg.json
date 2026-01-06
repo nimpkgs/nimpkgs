@@ -1,0 +1,43 @@
+{
+  "name": "millie",
+  "url": "https://github.com/bichanna/millie.nim",
+  "method": "git",
+  "description": "Convert big numbers to what's pleasant to see (an adorable, little girl, perhaps?) ... in Nim!",
+  "license": "MIT",
+  "web": "https://github.com/bichanna/millie.nim",
+  "tags": [
+    "millify",
+    "number",
+    "converter",
+    "parsing",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "e672ef56b136cf5e8b5e6025b71d9faff80ccf8b",
+        "time": 1648602065
+      }
+    ],
+    "commit": {
+      "hash": "5b2b65b5f2bbe2611e5ecefd2d1c1a7ef5333020",
+      "time": 1650387368
+    }
+  }
+}

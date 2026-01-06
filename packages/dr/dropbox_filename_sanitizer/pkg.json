@@ -1,0 +1,55 @@
+{
+  "name": "dropbox_filename_sanitizer",
+  "url": "https://github.com/Araq/dropbox_filename_sanitizer/",
+  "method": "git",
+  "description": "Tool to clean up filenames shared on Dropbox",
+  "license": "MIT",
+  "web": "https://github.com/Araq/dropbox_filename_sanitizer/",
+  "tags": [
+    "dropbox"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nake",
+          "str": ">= 1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2"
+          }
+        },
+        {
+          "name": "argument_parser",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [
+        "dropbox_filename_sanitizer"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "b42c46b56477951a75dc89afad70788e7cd55380",
+        "time": 1397427134
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "458a566754ac4f59804c9ca5e2245c2747575d82",
+        "time": 1385764442
+      }
+    ],
+    "commit": {
+      "hash": "5234c578564beb217000cd7ee7d805635ef5ae3b",
+      "time": 1427639933
+    }
+  }
+}

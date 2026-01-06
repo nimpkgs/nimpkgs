@@ -1,0 +1,149 @@
+{
+  "name": "rn",
+  "url": "https://github.com/xioren/rn",
+  "method": "git",
+  "description": "minimal, performant mass file renamer",
+  "license": "MIT",
+  "web": "https://github.com/xioren/rn",
+  "tags": [
+    "rename",
+    "mass",
+    "batch"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        }
+      ],
+      "bin": [
+        "rn"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "06384d221b36b5ed18b9aa4d0fc024323b095df7",
+        "time": 1643220382
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "5a29676ec1d5aa4d25793ee358c2e453c5ea578f",
+        "time": 1641614004
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "b48c3f34feea4afbfd157f9a90d1b954ef62f36d",
+        "time": 1630379696
+      },
+      {
+        "tag": "v0.1.9",
+        "hash": "92dd1bc2ab0484b97acd508b7716fc47df450125",
+        "time": 1624209986
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "8d5dce318548e1a414d982071bfbf9ece180fd73",
+        "time": 1620676814
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "5e89188b35e1ebc86abde59284cb7b35de64cb4f",
+        "time": 1619638633
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "b4d84b49b8825170ee8b5ac7a9f7495c9e3ae24f",
+        "time": 1618779561
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "c63000977c075058cd1166286d12e602b18f4ba3",
+        "time": 1618100194
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "08c343c4da872ae0d3cae1085366322c40f9f2db",
+        "time": 1617937949
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "751305e0ed6d13d33dcf2ca42efa3a3e9b8bae47",
+        "time": 1617937413
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "1e9f7b95d341ff9d21a2956ad9b9755a49f5e590",
+        "time": 1617922521
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "ad122809967af68e43a00f4aa1eff23d485b6794",
+        "time": 1617911058
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "1a369a53b5d3b8a7dd414af1074d63103225bf73",
+        "time": 1617759633
+      },
+      {
+        "tag": "v0.0.9",
+        "hash": "b3ad0158951e10d666ca1803354ce18fff792133",
+        "time": 1617747873
+      },
+      {
+        "tag": "v0.0.8",
+        "hash": "1ac0334e3587b3cb0072e5bf970b7f3432ba7fe8",
+        "time": 1617674946
+      },
+      {
+        "tag": "v0.0.7",
+        "hash": "4a9c08f17a4f9d1b5ae3e24111f5210296d6b291",
+        "time": 1617673826
+      },
+      {
+        "tag": "v0.0.6",
+        "hash": "486e198adfc931f2ac9ccaa143804246a524ba21",
+        "time": 1617652667
+      },
+      {
+        "tag": "v0.0.5",
+        "hash": "97dee940f5adb8e6defa8ecbf2f6df38720f310e",
+        "time": 1617650484
+      },
+      {
+        "tag": "v0.0.4",
+        "hash": "0991970f376a6742cbd51fb17ceebeec961726e7",
+        "time": 1617574233
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "4253f10e21699478786279dcad396a9040aa3482",
+        "time": 1617565603
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "e93b8cec6ad8bfbc77fb559ff52683702fe671f2",
+        "time": 1617557519
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "b734eb84b29306c9db5525c6fd9788b04d4bc15d",
+        "time": 1617516098
+      }
+    ],
+    "commit": {
+      "hash": "06384d221b36b5ed18b9aa4d0fc024323b095df7",
+      "time": 1643220382
+    }
+  }
+}

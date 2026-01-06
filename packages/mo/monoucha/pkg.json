@@ -1,0 +1,176 @@
+{
+  "name": "monoucha",
+  "url": "https://git.sr.ht/~bptato/monoucha",
+  "method": "git",
+  "description": "High-level wrapper for QuickJS",
+  "license": "MIT & Unlicense",
+  "web": "https://git.sr.ht/~bptato/monoucha",
+  "tags": [
+    "quickjs",
+    "javascript",
+    "js",
+    "wrapper",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.10.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.10.0",
+        "hash": "410c4e2b9a6a27bd2a2103baf6f832da4e55d538",
+        "time": 1743180790
+      },
+      {
+        "tag": "v0.9.1",
+        "hash": "33efaee783c2adb20df019a8bc924411c4a97e7f",
+        "time": 1737051986
+      },
+      {
+        "tag": "v0.9.0",
+        "hash": "5cb905d9f07b651fc8a277ea633a44d9ac82f829",
+        "time": 1736794633
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "1dd173c6c4dcbdf0f6be135235048ab742c99398",
+        "time": 1735247517
+      },
+      {
+        "tag": "v0.7.2",
+        "hash": "c388e58127465687fe3c9353feb3185c1de0e90b",
+        "time": 1732572944
+      },
+      {
+        "tag": "v0.7.1",
+        "hash": "1f3eb04e60132afb76e6197228853b1960fd09c5",
+        "time": 1732300516
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "bf8665e22f491c2e52390ef04f6af4b9464b0d4a",
+        "time": 1731962037
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "a0fbd9ff258d2f3c36712474f365ccce2064a9b8",
+        "time": 1731778514
+      },
+      {
+        "tag": "v0.5.5",
+        "hash": "faff9e175ae6e6d781c4fb770a49bfa30bd6f703",
+        "time": 1731168167
+      },
+      {
+        "tag": "v0.5.4",
+        "hash": "33eb016ad907131690b2c3ad73f83aebd996ba9d",
+        "time": 1731094332
+      },
+      {
+        "tag": "v0.5.3",
+        "hash": "108d7319ebab9af2c29eb429718d5237dca01a01",
+        "time": 1730147365
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "dccd3c44c61927bca9df8da267963f61ce35691e",
+        "time": 1728746691
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "6f4f3d99cb1189ac3f6ac86f4b3fda76066c6980",
+        "time": 1727881651
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "47e5a98b4f1240d887639690f27b2e6f3d5512f9",
+        "time": 1727630951
+      },
+      {
+        "tag": "v0.4.3",
+        "hash": "f2b80f64d9b28c56dc81ab022cfe838f6bfec39f",
+        "time": 1726603131
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "e0762b8bcd698a21a988483baf21ae96b545242f",
+        "time": 1726593368
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "426c847debda688d6eb55b40a0a0651a3d7c81e7",
+        "time": 1724313542
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "cf86be35a5e6a0dce00d39a1c9ea57e0b7aa69e7",
+        "time": 1723739199
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "20cef6c267447ff389262dbd555fa44f7576c4e0",
+        "time": 1723213023
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "60178758cd7ecd0f4071a73607ac1a2c83296d08",
+        "time": 1723155323
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "6de5ceeff98a37dfdb6ab28acdea4947c759d2fa",
+        "time": 1722192247
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "9d93e6185e91e972dd4cd84956d53e98a389bc2d",
+        "time": 1721318012
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "20744728042c8e61e05781923c57600147036903",
+        "time": 1721231773
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "d481ea92f5284d3bf68d6b7dfcddf6fada1c0ddb",
+        "time": 1719091908
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "7b1607d5c6be2bc4736e79259ce1a3e684624b13",
+        "time": 1717441901
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "23e57a5e186b7a9faa5e9bdf0a2fb8fe428d1b2a",
+        "time": 1717439248
+      }
+    ],
+    "commit": {
+      "hash": "410c4e2b9a6a27bd2a2103baf6f832da4e55d538",
+      "time": 1743180790
+    }
+  }
+}

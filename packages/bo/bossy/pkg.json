@@ -1,0 +1,40 @@
+{
+  "name": "bossy",
+  "url": "https://github.com/guzba/bossy",
+  "method": "git",
+  "description": "Makes supporting command line arguments easier",
+  "license": "MIT",
+  "web": "https://github.com/guzba/bossy",
+  "tags": [
+    "command-line",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "6eb1e199d4b86c1f6b875a9334997a7735bf8d56",
+        "time": 1672285560
+      }
+    ],
+    "commit": {
+      "hash": "0589114471b07ae8f4ef206e8739f521ea2ea7ef",
+      "time": 1693248018
+    }
+  }
+}

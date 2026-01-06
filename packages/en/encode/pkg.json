@@ -1,0 +1,35 @@
+{
+  "name": "encode",
+  "url": "https://github.com/treeform/encode",
+  "method": "git",
+  "description": "Encode/decode utf8 utf16 and utf32.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/encode",
+  "tags": [
+    "encode",
+    "utf8",
+    "utf16",
+    "utf32"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4e0dbbb13f4fc7feee9b9ff35c1ca3c2d1894fa9",
+      "time": 1633047099
+    }
+  }
+}

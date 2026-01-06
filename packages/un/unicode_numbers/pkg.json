@@ -1,0 +1,35 @@
+{
+  "name": "unicode_numbers",
+  "url": "https://github.com/Aearnus/unicode_numbers",
+  "method": "git",
+  "description": "Converts a number into a specially formatted Unicode string",
+  "license": "MIT",
+  "web": "https://github.com/Aearnus/unicode_numbers",
+  "tags": [
+    "library",
+    "string",
+    "format",
+    "unicode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "777488f31eb8e49aa057412b9443786f21bdcebf",
+      "time": 1526880029
+    }
+  }
+}

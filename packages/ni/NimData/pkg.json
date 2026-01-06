@@ -1,0 +1,49 @@
+{
+  "name": "NimData",
+  "url": "https://github.com/bluenote10/NimData",
+  "method": "git",
+  "description": "DataFrame API enabling fast out-of-core data analytics",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/NimData",
+  "tags": [
+    "library",
+    "dataframe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "zip",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "plotly",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ed07c2fa76cae57477d61b08384148f308aa4c6d",
+      "time": 1623228631
+    }
+  }
+}

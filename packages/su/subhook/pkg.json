@@ -1,0 +1,90 @@
+{
+  "name": "subhook",
+  "url": "https://github.com/ba0f3/subhook.nim",
+  "method": "git",
+  "description": "subhook wrapper",
+  "license": "BSD2",
+  "web": "https://github.com/ba0f3/subhook.nim",
+  "tags": [
+    "hook",
+    "hooking",
+    "subhook",
+    "x86",
+    "windows",
+    "linux",
+    "unix"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.5.6",
+        "hash": "3b812449365e7e79609af593d67b99c22acfd5fe",
+        "time": 1734923013
+      },
+      {
+        "tag": "0.5.5",
+        "hash": "0bdb8d3299d56664e650d9409831a5883171de39",
+        "time": 1638233112
+      },
+      {
+        "tag": "0.5.3",
+        "hash": "0536a4f4d421c879a32463b67984eb5682b63d37",
+        "time": 1552364895
+      },
+      {
+        "tag": "0.5.2",
+        "hash": "b5608a206f94c9946c56f45b12691ab85849f557",
+        "time": 1543574249
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "aa54ba39a913748552ab703c7d30eae22ca41edd",
+        "time": 1537121983
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "9f636b04472f1616573209317a5296e2d108694b",
+        "time": 1537115971
+      },
+      {
+        "tag": "0.4.2.0",
+        "hash": "715f1ad900f2a8242fc626002247d19b4b90b99d",
+        "time": 1535864782
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "4896cfb8eb097fcf467c1c30e973742ac8abd563",
+        "time": 1532161360
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "b8c411fb210760fe49e9d8a23b077432fe175bdf",
+        "time": 1531906532
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f93225b08ad0e9c2fd065d52da82681044b5abdf",
+        "time": 1531901919
+      }
+    ],
+    "commit": {
+      "hash": "3b812449365e7e79609af593d67b99c22acfd5fe",
+      "time": 1734923013
+    }
+  }
+}

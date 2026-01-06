@@ -1,0 +1,41 @@
+{
+  "name": "oauth2",
+  "url": "https://github.com/Niminem/oauth2",
+  "method": "git",
+  "description": "A comprehensive OAuth2 library for Nim with support for multiple grant types, PKCE (RFC 7636), and token management utilities.",
+  "license": "MIT",
+  "web": "https://github.com/Niminem/oauth2",
+  "tags": [
+    "oauth",
+    "oauth2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b48a2a14b3fbc20c9ff49477f93231077ed3e3da",
+      "time": 1767598263
+    }
+  }
+}

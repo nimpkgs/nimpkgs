@@ -1,0 +1,30 @@
+{
+  "name": "sun_moon",
+  "url": "https://github.com/dschaadt/sun_moon",
+  "method": "git",
+  "description": "Astro functions for calcuation of sun and moon position, rise and set time as well as civil, nautical and astronomical dawn and dusk as a function of latitude and longitude.",
+  "license": "MIT",
+  "web": "https://github.com/dschaadt/sun_moon",
+  "tags": [
+    "astro",
+    "sun",
+    "moon",
+    "position",
+    "sunrise",
+    "sunset",
+    "moonrise",
+    "moonset"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "9cf7502cfb636576f3c49a84ae972ff10c7df5c7",
+      "time": 1689609220
+    }
+  }
+}

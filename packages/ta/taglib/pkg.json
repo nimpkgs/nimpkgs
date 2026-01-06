@@ -1,0 +1,36 @@
+{
+  "name": "taglib",
+  "url": "https://github.com/alex-laskin/nim-taglib",
+  "method": "git",
+  "description": "TagLib Audio Meta-Data Library wrapper",
+  "license": "MIT",
+  "web": "https://github.com/alex-laskin/nim-taglib",
+  "tags": [
+    "audio",
+    "metadata",
+    "tags",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "da4769d737df5d21d03975f1a1170a74a8165abe",
+      "time": 1761846823
+    }
+  }
+}

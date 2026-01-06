@@ -1,0 +1,49 @@
+{
+  "name": "Kinto",
+  "url": "https://github.com/OpenSystemsLab/kinto.nim",
+  "method": "git",
+  "description": "Kinto Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/kinto.nim",
+  "tags": [
+    "mozilla",
+    "kinto",
+    "json",
+    "storage",
+    "server",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "503a7a4d210a9c81e8f0c04f516a973a9acdc9e4",
+        "time": 1459162091
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "0132b0ad40bdd0559d5950275c263611ae58a542",
+        "time": 1459101296
+      }
+    ],
+    "commit": {
+      "hash": "eed71dc4ee879f769e1fa008c899a07ffd0ec346",
+      "time": 1633050247
+    }
+  }
+}

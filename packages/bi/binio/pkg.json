@@ -1,0 +1,42 @@
+{
+  "name": "binio",
+  "url": "https://github.com/Riderfighter/binio",
+  "method": "git",
+  "description": "Package for packing and unpacking byte data",
+  "license": "MIT",
+  "web": "https://github.com/Riderfighter/binio",
+  "tags": [
+    "structured",
+    "byte",
+    "data"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        },
+        {
+          "name": "struct",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "030715d7bfbb57cc794be2053686b74478d549e3",
+      "time": 1559445715
+    }
+  }
+}

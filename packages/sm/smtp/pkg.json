@@ -1,0 +1,34 @@
+{
+  "name": "smtp",
+  "url": "https://github.com/nim-lang/smtp",
+  "method": "git",
+  "description": "SMTP client implementation (originally in the stdlib).",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/smtp",
+  "tags": [
+    "stdlib",
+    "smtp",
+    "official"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "46ad524ada896bc45869d63077362718ca52873b",
+      "time": 1763967605
+    }
+  }
+}

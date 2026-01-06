@@ -1,0 +1,42 @@
+{
+  "name": "html_tools",
+  "url": "https://github.com/juancarlospaco/nim-html-tools",
+  "method": "git",
+  "description": "HTML5 Tools for Nim, all Templates, No CSS, No Libs, No JS Framework",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-html-tools",
+  "tags": [
+    "html",
+    "validation",
+    "frontend"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        },
+        {
+          "name": "contra",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "272acbcec56a381fdcc6299893fd1c05e09ffbc5",
+      "time": 1563936423
+    }
+  }
+}

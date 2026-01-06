@@ -1,0 +1,41 @@
+{
+  "name": "cppclass",
+  "url": "https://github.com/sls1005/NimCPPClass",
+  "method": "git",
+  "description": "Syntax sugar which helps to define C++ classes from Nim.",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/NimCPPClass",
+  "tags": [
+    "cpp",
+    "class",
+    "sugar"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "8c256e2732b1024643350a1dfc36220dfc987052",
+        "time": 1690979830
+      }
+    ],
+    "commit": {
+      "hash": "8c256e2732b1024643350a1dfc36220dfc987052",
+      "time": 1690979830
+    }
+  }
+}

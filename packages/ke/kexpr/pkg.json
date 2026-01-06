@@ -1,0 +1,41 @@
+{
+  "name": "kexpr",
+  "url": "https://github.com/brentp/kexpr-nim",
+  "method": "git",
+  "description": "wrapper for kexpr math expression evaluation library",
+  "license": "MIT",
+  "web": "https://github.com/brentp/kexpr-nim",
+  "tags": [
+    "math",
+    "expression",
+    "evalute"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.0.2",
+        "hash": "7302245f8dafb33f4ecf9861fd81ceb4d7b193c8",
+        "time": 1544482918
+      }
+    ],
+    "commit": {
+      "hash": "3a8dbf0d43370f8e4a103b644944b3478f044cd0",
+      "time": 1604674934
+    }
+  }
+}

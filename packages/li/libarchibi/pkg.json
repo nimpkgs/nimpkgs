@@ -1,0 +1,33 @@
+{
+  "name": "libarchibi",
+  "url": "https://github.com/juancarlospaco/libarchibi",
+  "method": "git",
+  "description": "Libarchive at compile-time, Libarchive Chibi Edition",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/libarchibi",
+  "tags": [
+    "zip",
+    "libarchive"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "862b18e47eacf45d87fd04215ec1875cb4d25fdf",
+      "time": 1594235825
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "ArrayFireNim",
+  "url": "https://github.com/bitstormGER/ArrayFire-Nim",
+  "method": "git",
+  "description": "A nim wrapper for ArrayFire",
+  "license": "BSD",
+  "web": "https://github.com/bitstormGER/ArrayFire-Nim",
+  "tags": [
+    "array",
+    "linear",
+    "algebra",
+    "scientific",
+    "computing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.2",
+        "hash": "d28d4cf79977b85d8cae0435fe12cdafce57f5fb",
+        "time": 1678019530
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "f176906bf383a7821628b8e4c70444213e4ad718",
+        "time": 1677860168
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "3310a62faaef032f5aeabb04a9292c042e595243",
+        "time": 1677431030
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "58a61e599d34ad5003b0452cab1a0b1f12744999",
+        "time": 1628700512
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "182c1cec3dd502646a95db05573a82d100ceac2e",
+        "time": 1628687027
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "c46eedd587055a0c18585a8cae42d3db4137aeac",
+        "time": 1601131111
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "0a0a27d18a5609da2e4646ec8847feaed6976566",
+        "time": 1601124027
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "460739dd24fce3aedc85ce4842d0044285a5fb8d",
+        "time": 1483039713
+      }
+    ],
+    "commit": {
+      "hash": "6079baaa38371c6c681dfce6448b11f22b3e7926",
+      "time": 1731091176
+    }
+  }
+}

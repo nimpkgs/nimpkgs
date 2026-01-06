@@ -1,0 +1,33 @@
+{
+  "name": "cloudbet",
+  "url": "https://github.com/juancarlospaco/cloudbet",
+  "method": "git",
+  "description": "Cloudbet Virtual Crypto Casino API Client",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/cloudbet",
+  "tags": [
+    "casino",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a6803845eee12487102f78b6d77aced42528e122",
+      "time": 1765867976
+    }
+  }
+}

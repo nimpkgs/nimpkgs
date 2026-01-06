@@ -1,0 +1,45 @@
+{
+  "name": "yawd",
+  "url": "https://github.com/zendbit/nim_yawd",
+  "method": "git",
+  "description": "Yet Another WebDriver (YAWD) for nim lang.",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_yawd",
+  "tags": [
+    "webdriver",
+    "yawd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "56b24e8ee039188d9aa7c9612ed848c14a3355a3",
+        "time": 1676184513
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "dafe0428d3de39000e181c48c3ec8e7f0f0b17a8",
+        "time": 1673581638
+      }
+    ],
+    "commit": {
+      "hash": "56b24e8ee039188d9aa7c9612ed848c14a3355a3",
+      "time": 1676184513
+    }
+  }
+}

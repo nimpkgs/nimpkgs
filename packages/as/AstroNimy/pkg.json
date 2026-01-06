@@ -1,0 +1,25 @@
+{
+  "name": "AstroNimy",
+  "url": "https://github.com/super-massive-black-holes/AstroNimy",
+  "method": "git",
+  "description": "Astronomical library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/super-massive-black-holes/AstroNimy",
+  "tags": [
+    "science",
+    "astronomy",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1b560bb469cc393ba01eceee232c6569d2759a74",
+      "time": 1435799867
+    }
+  }
+}

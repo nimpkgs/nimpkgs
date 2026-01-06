@@ -1,0 +1,68 @@
+{
+  "name": "bncurve",
+  "url": "https://github.com/status-im/nim-bncurve",
+  "method": "git",
+  "description": "Nim Barreto-Naehrig pairing-friendly elliptic curve implementation",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-bncurve",
+  "tags": [
+    "library",
+    "cryptography",
+    "barreto-naehrig",
+    "eliptic-curves",
+    "pairing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stint",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": ">= 0.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "709b846f5efb4aa57017ab78b992ff6f5bea29c3",
+      "time": 1765375089
+    }
+  }
+}

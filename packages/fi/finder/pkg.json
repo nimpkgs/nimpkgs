@@ -1,0 +1,65 @@
+{
+  "name": "finder",
+  "url": "https://github.com/bung87/finder",
+  "method": "git",
+  "description": "fs memory zip finder implement in Nim",
+  "license": "MIT",
+  "web": "https://github.com/bung87/finder",
+  "tags": [
+    "finder",
+    "fs",
+    "zip",
+    "memory"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "03be27007be27b2e4f101cfcfe0bde0e90bd4582",
+        "time": 1723092246
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "4e8586e5f7ba88a4947f3d5a2f22d8a71c95c656",
+        "time": 1662422313
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "adcf22afdfab2acf706bd98a1a12107765ba0c63",
+        "time": 1617147932
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "b64144c444a3305d8b64e3a36bb087fe0eba9fcd",
+        "time": 1616979440
+      }
+    ],
+    "commit": {
+      "hash": "03be27007be27b2e4f101cfcfe0bde0e90bd4582",
+      "time": 1723092246
+    }
+  }
+}

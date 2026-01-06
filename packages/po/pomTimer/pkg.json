@@ -1,0 +1,56 @@
+{
+  "name": "pomTimer",
+  "url": "https://github.com/MnlPhlp/pomTimer",
+  "method": "git",
+  "description": "A simple pomodoro timer for the comandline with cli-output and notifications.",
+  "license": "MIT",
+  "web": "https://github.com/MnlPhlp/pomTimer",
+  "tags": [
+    "timer",
+    "pomodoro",
+    "pomodoro-technique",
+    "pomodoro-timer",
+    "cli",
+    "pomodoro-cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "progress",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "notify",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "pomTimer"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "2d3c09fe66bf9636287f04cfe5089255f82580f9",
+      "time": 1594586691
+    }
+  }
+}

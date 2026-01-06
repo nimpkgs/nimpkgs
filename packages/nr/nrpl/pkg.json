@@ -1,0 +1,36 @@
+{
+  "name": "nrpl",
+  "url": "https://github.com/vegansk/nrpl",
+  "method": "git",
+  "description": "A rudimentary Nim REPL",
+  "license": "MIT",
+  "web": "https://github.com/vegansk/nrpl",
+  "tags": [
+    "REPL",
+    "application"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [
+        "nrpl"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "15e6270295f2d5865fb95e2b47188937a0acccd5",
+      "time": 1459481701
+    }
+  }
+}

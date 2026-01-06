@@ -1,0 +1,34 @@
+{
+  "name": "pastebin",
+  "url": "https://github.com/achesak/nim-pastebin",
+  "method": "git",
+  "description": "Pastebin API wrapper",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pastebin",
+  "tags": [
+    "library",
+    "wrapper",
+    "pastebin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f97db91a3769744e56abf9f606f51e692ffca5e7",
+      "time": 1500858501
+    }
+  }
+}

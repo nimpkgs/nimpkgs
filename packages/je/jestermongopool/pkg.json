@@ -1,0 +1,59 @@
+{
+  "name": "jestermongopool",
+  "url": "https://github.com/JohnAD/jestermongopool",
+  "method": "git",
+  "description": "A Jester web plugin that gets a pooled MongoDB connection for each web query.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jestermongopool",
+  "tags": [
+    "web",
+    "jester",
+    "mongodb",
+    "pooled",
+    "plugin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "jesterwithplugins",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "mongopool",
+          "str": ">= 1.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "a6503a5eaea3525a028f70b27a91760b188973e7",
+        "time": 1592095631
+      }
+    ],
+    "commit": {
+      "hash": "a6503a5eaea3525a028f70b27a91760b188973e7",
+      "time": 1592095631
+    }
+  }
+}

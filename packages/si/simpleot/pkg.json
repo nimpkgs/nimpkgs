@@ -1,0 +1,63 @@
+{
+  "name": "simpleot",
+  "url": "https://github.com/markspanbroek/simpleot.nim",
+  "method": "git",
+  "description": "Simple OT wrapper",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/simpleot.nim",
+  "tags": [
+    "ot",
+    "mpc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0 & < 2.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.5.8 & < 0.6.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.5.1",
+        "hash": "2f4671f378bf6ef3e1c1241c09243c72bd42ed29",
+        "time": 1592469588
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "4d36591f5dfc0987fe161219c56280d2003bfc85",
+        "time": 1592464899
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "77206f9a640415f350246024b8db6202122b9506",
+        "time": 1572880528
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "924d27f32e22a8443370adae275d68181adf2550",
+        "time": 1572447624
+      }
+    ],
+    "commit": {
+      "hash": "2f4671f378bf6ef3e1c1241c09243c72bd42ed29",
+      "time": 1592469588
+    }
+  }
+}

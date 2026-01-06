@@ -1,0 +1,92 @@
+{
+  "name": "kdl",
+  "url": "https://github.com/Patitotective/kdl-nim",
+  "method": "git",
+  "description": "KDL document language Nim implementation",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/kdl-nim",
+  "tags": [
+    "kdl",
+    "parser",
+    "config",
+    "serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "2.0.3",
+        "hash": "b4e923f9d1a5c9dd48cf2a24d67d3a093bc946ea",
+        "time": 1732030155
+      },
+      {
+        "tag": "2.0.2",
+        "hash": "48bf5643da828ab3e6ea9cded3d9bf47c78f1e1c",
+        "time": 1731527191
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "9050d1d7d73a87cfa458246f8bcfe67f2b56a42b",
+        "time": 1704926417
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "5cae3441fecde025342286dba0c9e78ffd63e9c6",
+        "time": 1700689867
+      },
+      {
+        "tag": "1.2.4",
+        "hash": "2183130592589bba2440b6c4d665ec9b26fe09de",
+        "time": 1698201720
+      },
+      {
+        "tag": "1.2.3",
+        "hash": "e412de9064f621449c3b9f6afcc0da251a5a7e86",
+        "time": 1697931558
+      },
+      {
+        "tag": "1.2.2",
+        "hash": "a37a00bb0fe2b3f747bb351b1f5ef77fc6585b17",
+        "time": 1697466735
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "0de48457cd30a08992fdd085a3f8cd051940a87b",
+        "time": 1683338088
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "f1adf58c0d332599358fd14f12b05ac3b156d1f7",
+        "time": 1676824707
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "0c41b400606f2cfa4656d565a65a957086173568",
+        "time": 1665671999
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "75dd93ccad89eaf61d492f5a1c10d62f3762415d",
+        "time": 1665617863
+      }
+    ],
+    "commit": {
+      "hash": "3a5d0b45bde5c3b75e08176cb660b33b0aae93ea",
+      "time": 1732030441
+    }
+  }
+}

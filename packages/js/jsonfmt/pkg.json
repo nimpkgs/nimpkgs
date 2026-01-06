@@ -1,0 +1,44 @@
+{
+  "name": "jsonfmt",
+  "url": "https://github.com/fkdosilovic/jsonfmt",
+  "method": "git",
+  "description": "Ridiculously simple and effective JSON formatter.",
+  "license": "MIT",
+  "web": "https://github.com/fkdosilovic/jsonfmt",
+  "tags": [
+    "json",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "jsonfmt"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "cd4c0b4d28a505d69f86527eed23f32eb31215e4",
+      "time": 1676411437
+    }
+  }
+}

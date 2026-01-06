@@ -1,0 +1,104 @@
+{
+  "name": "DxLib",
+  "url": "https://github.com/777shuang/DxLib",
+  "method": "git",
+  "description": "A Nim binding for DX Library",
+  "license": "MIT",
+  "web": "https://github.com/777shuang/DxLib",
+  "tags": [
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.24.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "puppy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "zippy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "c2nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "winim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "DxLibHeaderSpliter"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "3.24.6",
+        "hash": "767377cf31c5a08d092ddb361c1030cc09abf4d9",
+        "time": 1743002565
+      },
+      {
+        "tag": "3.24.4_1",
+        "hash": "ec5e16add98a55049390d46470ca28b9003ff5c6",
+        "time": 1713074279
+      },
+      {
+        "tag": "3.24.4",
+        "hash": "65f917a2a91bfe7a878315fc21ee5f542920ad91",
+        "time": 1713072885
+      },
+      {
+        "tag": "3.24.2_3",
+        "hash": "34cd38181ad1c541ffab12a723f043490d7366c8",
+        "time": 1691913956
+      },
+      {
+        "tag": "3.24.2_2",
+        "hash": "cc9a425f93559aaaa2edbeb2ce4271941024f922",
+        "time": 1691462921
+      },
+      {
+        "tag": "3.24.2_1",
+        "hash": "6bcf36fb648c1f2b47190fe83ba9c483f0bb1434",
+        "time": 1691462631
+      },
+      {
+        "tag": "3.24.2",
+        "hash": "501a3b93f113dcac3e50e121f049dd9e41afd43a",
+        "time": 1689235128
+      }
+    ],
+    "commit": {
+      "hash": "767377cf31c5a08d092ddb361c1030cc09abf4d9",
+      "time": 1743002565
+    }
+  }
+}

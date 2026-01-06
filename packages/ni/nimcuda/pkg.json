@@ -1,0 +1,95 @@
+{
+  "name": "nimcuda",
+  "url": "https://github.com/andreaferretti/nimcuda",
+  "method": "git",
+  "description": "CUDA bindings",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/nimcuda",
+  "tags": [
+    "CUDA",
+    "GPU"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "319b8deb31812fd9277c6232f0ae3fca31c6d55d",
+        "time": 1732957045
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "ebb88d7689ee9a51c6c3af2b48d301992282d93e",
+        "time": 1728896597
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "2ba1770c407ea0e217b1858c11aa8c8b5ebcfdac",
+        "time": 1728637265
+      },
+      {
+        "tag": "v0.1.9",
+        "hash": "5c3cf233726549b63266f6dba14788f30e0405b6",
+        "time": 1688463205
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "eb9a7ad738fafed0eef36f57560f8098ca72fe8a",
+        "time": 1656485498
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "a562a4aeeb74bab00a7d03353f9bc4636258b197",
+        "time": 1585835423
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "45ba7698cfc4ae5430d75adfd02fc33c6c318539",
+        "time": 1565363034
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "78a125bcfe425ac998de50a9d1b75dd45b1bb4ef",
+        "time": 1519923355
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "4bf458d13fe98380aa7241b891c1e850393ae57f",
+        "time": 1497013289
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "26035f8e1b3122c4453c446d6f8ff7046aa9ec82",
+        "time": 1497011941
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "80a864efbc3763f5db3dbe0a42541668a62e1410",
+        "time": 1495719844
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "9c9d147241d488accd1af0ceec27f61155fc7562",
+        "time": 1495718423
+      }
+    ],
+    "commit": {
+      "hash": "319b8deb31812fd9277c6232f0ae3fca31c6d55d",
+      "time": 1732957045
+    }
+  }
+}

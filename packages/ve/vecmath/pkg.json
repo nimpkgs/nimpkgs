@@ -1,0 +1,25 @@
+{
+  "name": "vecmath",
+  "url": "https://github.com/barcharcraz/vecmath",
+  "method": "git",
+  "description": "various vector maths utils for nimrod",
+  "license": "MIT",
+  "web": "https://github.com/barcharcraz/vecmath",
+  "tags": [
+    "library",
+    "math",
+    "vector"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2e31e5a824a6e4c9e26a87b67b52204e225a05e6",
+      "time": 1452791960
+    }
+  }
+}

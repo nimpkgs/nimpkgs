@@ -1,0 +1,56 @@
+{
+  "name": "shizuka",
+  "url": "https://github.com/ethosa/shizuka",
+  "method": "git",
+  "description": "The Nim framework for VK API.",
+  "license": "AGPLv3",
+  "web": "https://github.com/ethosa/shizuka",
+  "tags": [
+    "vk",
+    "api",
+    "framework"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "shizuka"
+    },
+    "versions": [
+      {
+        "tag": "stable-1.0.0",
+        "hash": "19b66ff863a65e97117f3494c988c403fe844b30",
+        "time": 1639070923
+      },
+      {
+        "tag": "nightly-0.3.0",
+        "hash": "bb1f0127227bacf6326c56214580c408900e4a98",
+        "time": 1638608742
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "49e5b316b4699d8e2dd38f65fa30dafd74e26dc6",
+        "time": 1584093435
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "37f2aab3eb61b97fbc1a8500be647788dfb72a07",
+        "time": 1584022799
+      }
+    ],
+    "commit": {
+      "hash": "3ce6fe7df26cdc1df116f4c2d3456917d1c237fd",
+      "time": 1656566210
+    }
+  }
+}

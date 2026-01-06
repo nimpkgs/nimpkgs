@@ -1,0 +1,53 @@
+{
+  "name": "entgrep",
+  "url": "https://github.com/srozb/entgrep",
+  "method": "git",
+  "description": "A grep but for secrets (based on entropy).",
+  "license": "MIT",
+  "web": "https://github.com/srozb/entgrep",
+  "tags": [
+    "command-line",
+    "crypto",
+    "cryptography",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.24",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.24"
+          }
+        }
+      ],
+      "bin": [
+        "entgrep"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "8fd1116e3694b82236385105093efe8b2ff61292",
+        "time": 1658135962
+      }
+    ],
+    "commit": {
+      "hash": "8fd1116e3694b82236385105093efe8b2ff61292",
+      "time": 1658135962
+    }
+  }
+}

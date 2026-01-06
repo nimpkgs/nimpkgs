@@ -1,0 +1,47 @@
+{
+  "name": "blarg",
+  "url": "https://github.com/squattingmonk/blarg",
+  "method": "git",
+  "description": "A basic little argument parser",
+  "license": "MIT",
+  "web": "https://github.com/squattingmonk/blarg",
+  "tags": [
+    "command-line",
+    "options",
+    "arguments",
+    "parseopt"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "dbc661f9bd1391013fb2de5d3309ea87d6d6375d",
+        "time": 1672583576
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "59ebae2ed50a177c0047359f9d49054a26992910",
+        "time": 1652348367
+      }
+    ],
+    "commit": {
+      "hash": "dbc661f9bd1391013fb2de5d3309ea87d6d6375d",
+      "time": 1672583576
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "ad",
+  "url": "https://github.com/subsetpark/ad",
+  "method": "git",
+  "description": "A simple RPN calculator",
+  "license": "MIT",
+  "web": "https://github.com/subsetpark/ad",
+  "tags": [
+    "calculator",
+    "rpn"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "bignum",
+          "str": ">= 0.2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.5"
+          }
+        }
+      ],
+      "bin": [
+        "ad"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.7.4",
+        "hash": "fdc731c9ee3d7dfe0200877700e7bd16d57e098a",
+        "time": 1645493232
+      },
+      {
+        "tag": "0.7.2",
+        "hash": "38661e503e7b45816a1239458ff9012361a8956c",
+        "time": 1502286536
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "89939814b143fc8c34daff4eb5d1e396faba8f63",
+        "time": 1502227360
+      },
+      {
+        "tag": "0.6.4",
+        "hash": "cc1b1da0f691f7ac2a7123bf269d08315bf93eb3",
+        "time": 1497996064
+      },
+      {
+        "tag": "0.6.3",
+        "hash": "dd414fe51912a798973acf92ad29adaab877f669",
+        "time": 1494814014
+      }
+    ],
+    "commit": {
+      "hash": "0e1fa79e2a1b7e0f7411136a84c612bf03c5d7af",
+      "time": 1645493275
+    }
+  }
+}

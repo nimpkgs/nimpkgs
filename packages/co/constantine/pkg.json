@@ -1,0 +1,62 @@
+{
+  "name": "constantine",
+  "url": "https://github.com/mratsim/constantine",
+  "method": "git",
+  "description": "Modular, high-performance, zero-dependency cryptography stack for proof systems and blockchain protocols.",
+  "license": "MIT or Apache License 2.0",
+  "web": "https://github.com/mratsim/constantine",
+  "tags": [
+    "cryptography",
+    "blockchain",
+    "zk",
+    "bigint",
+    "math",
+    "proof-systems",
+    "elliptic-curves",
+    "finite-fields",
+    "assembly",
+    "gpu",
+    "cuda",
+    "sha256",
+    "hash",
+    "hmac",
+    "hkdf",
+    "crypto",
+    "security",
+    "simd",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "8d6a6a38b90fb8ee3ec2230839773e69aab36d80",
+        "time": 1737931921
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "1b4d969fca86a8756cf35ec8a116f4d6a9285464",
+        "time": 1720214364
+      }
+    ],
+    "commit": {
+      "hash": "8e117d74f165297a7a459e3cea3911dff8fe105c",
+      "time": 1761030843
+    }
+  }
+}

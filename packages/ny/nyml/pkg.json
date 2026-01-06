@@ -1,0 +1,98 @@
+{
+  "name": "nyml",
+  "url": "https://github.com/openpeeps/nyml",
+  "method": "git",
+  "description": "Stupid simple YAML-like implementation from YAML to JsonNode",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/nyml",
+  "tags": [
+    "yaml",
+    "yaml-parser",
+    "yml",
+    "nyml"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "toktok",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.8",
+        "hash": "f22c4b3116815cadeb729134727fcf98b782b78c",
+        "time": 1713974781
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "1a83c95192605805a81e404771a7a7b5432e10fb",
+        "time": 1711549612
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "20da5ccdf7ffbc8a3d81fd937bcbf29507b36a24",
+        "time": 1698130653
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "ac503d507dee3aa2c7b26ca69e85c2c2280d6bd1",
+        "time": 1685059095
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "73513d71847e26df0f09de5f59d9141ef274ac0c",
+        "time": 1684657120
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "cb94068a2fad088a752d09ed77dbfb2e65db3103",
+        "time": 1675964282
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "dbad8e03949df7a5efc4f3650ad30adc95dd5368",
+        "time": 1674681952
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "b2dc5102d4fc2f9699e64a5eea529d56c6b60e91",
+        "time": 1673917587
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "788fb0cc4feb90d8da912ebc5476e1c8d6952ff7",
+        "time": 1669058255
+      }
+    ],
+    "commit": {
+      "hash": "c7811b480e4d30518d519710f6ab85625262173b",
+      "time": 1765428932
+    }
+  }
+}

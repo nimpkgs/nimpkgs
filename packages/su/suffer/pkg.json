@@ -1,0 +1,34 @@
+{
+  "name": "suffer",
+  "url": "https://github.com/emekoi/suffer",
+  "method": "git",
+  "description": "a nim library for drawing 2d shapes, text, and images to 32bit software pixel buffers",
+  "license": "MIT",
+  "web": "https://github.com/emekoi/suffer",
+  "tags": [
+    "graphics",
+    "font",
+    "software"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "773dcff99a4ab2575f9c296949009a0485c32c53",
+      "time": 1593156409
+    }
+  }
+}

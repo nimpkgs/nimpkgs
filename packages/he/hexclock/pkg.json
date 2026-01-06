@@ -1,0 +1,46 @@
+{
+  "name": "hexclock",
+  "url": "https://github.com/RainbowAsteroids/hexclock",
+  "method": "git",
+  "description": "Hex clock made in SDL and Nim",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/RainbowAsteroids/hexclock",
+  "tags": [
+    "sdl",
+    "gui",
+    "clock",
+    "color"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "sdl2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "hexclock"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "47032a6dd71c8173389d416260190ec3d9f02ecb",
+      "time": 1644967941
+    }
+  }
+}

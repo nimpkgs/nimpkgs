@@ -1,0 +1,37 @@
+{
+  "name": "datetime2human",
+  "url": "https://github.com/juancarlospaco/nim-datetime2human",
+  "method": "git",
+  "description": "Human friendly DateTime string representations, seconds to millenniums.",
+  "license": "LGPLv3",
+  "web": "https://github.com/juancarlospaco/nim-datetime2human",
+  "tags": [
+    "date",
+    "time",
+    "datetime",
+    "ISO-8601",
+    "human",
+    "minimalism"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d9f1b5038ca16d3057aac76a3dd53e425f6f40d0",
+      "time": 1697112839
+    }
+  }
+}

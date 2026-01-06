@@ -1,0 +1,75 @@
+{
+  "name": "microasynchttpserver",
+  "url": "https://github.com/philip-wernersbach/microasynchttpserver",
+  "method": "git",
+  "description": "A thin asynchronous HTTP server library, API compatible with Nim's built-in asynchttpserver.",
+  "license": "MIT",
+  "web": "https://github.com/philip-wernersbach/microasynchttpserver",
+  "tags": [
+    "web",
+    "http",
+    "async",
+    "server"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.11.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "picohttpparser",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.11.0",
+        "hash": "2f2065143261e6cf07a8f45f4e8ef38575657745",
+        "time": 1681656175
+      },
+      {
+        "tag": "0.10.2",
+        "hash": "90118afb1dab0ffe81eb496536895ce2b121b031",
+        "time": 1500933121
+      },
+      {
+        "tag": "0.10.1",
+        "hash": "ab56cab429e336c09485ae3adb2e662dfdfa446d",
+        "time": 1500567669
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "7a461767f961536200c7232448d0446687e71a67",
+        "time": 1480310884
+      },
+      {
+        "tag": "0.9.5",
+        "hash": "dd5884d717ecb5e94fc8e3b2a8c462e2e78e4c84",
+        "time": 1477587765
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "77a5badaf786fd627eb77757d1545e41fb1059ce",
+        "time": 1471746232
+      }
+    ],
+    "commit": {
+      "hash": "2f2065143261e6cf07a8f45f4e8ef38575657745",
+      "time": 1681656175
+    }
+  }
+}

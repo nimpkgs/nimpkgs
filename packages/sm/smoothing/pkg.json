@@ -1,0 +1,48 @@
+{
+  "name": "smoothing",
+  "url": "https://github.com/paulnorrie/smoothing",
+  "method": "git",
+  "description": "Smoothing functions for Regression and Density Estimation",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/paulnorrie/smoothing",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        },
+        {
+          "name": "arraymancer",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "smoothing"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "db987825475b99d09c81475644b2ca09447ffdb5",
+        "time": 1652332766
+      }
+    ],
+    "commit": {
+      "hash": "db987825475b99d09c81475644b2ca09447ffdb5",
+      "time": 1652332766
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "tailwindcss",
+  "url": "https://github.com/Ethosa/tailwindcss-nim",
+  "method": "git",
+  "description": "Tailwind CSS bindings for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Ethosa/tailwindcss-nim",
+  "tags": [
+    "web",
+    "frontend",
+    "tailwindcss",
+    "tailwind",
+    "javascript",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6c7c6208c7d212a661d35ac516e02ffa676276fe",
+      "time": 1704947738
+    }
+  }
+}

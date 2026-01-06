@@ -1,0 +1,84 @@
+{
+  "name": "ready",
+  "url": "https://github.com/guzba/ready",
+  "method": "git",
+  "description": "A Redis client for multi-threaded servers",
+  "license": "MIT",
+  "web": "https://github.com/guzba/ready",
+  "tags": [
+    "redis"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "e8dc4bbcda772dbc166969c029f9f64c5f10d4cd",
+        "time": 1705348453
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "a7bce99f44f850327c82530ab4fe0ae328425ccc",
+        "time": 1703621240
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "8b7923ac7c9c1fe6dc86deae5b4b89aa0fea4a2d",
+        "time": 1696213804
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "cc97240877336d71d63485348143525fb6b54472",
+        "time": 1693333868
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "e94d69dd297df6f9db28706017cc09b7ea34cf85",
+        "time": 1692660319
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "3afb6adb1f0f15dfb86f63dbcad1f96dda06327c",
+        "time": 1688844575
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "c21bb9cf0371923ccc44a633c7e1a10b6701b10c",
+        "time": 1687991581
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "57fb8bb71d8cbc1ac390aada77697b8abe221983",
+        "time": 1684547165
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "d53a92631f85939714ab2af90604a438a7902824",
+        "time": 1677437226
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a7ff603a72fef898208d5ab9a29615429b389a90",
+        "time": 1674967788
+      }
+    ],
+    "commit": {
+      "hash": "82f12ce64b9c8a03a60382118ce4b6a014fc9aa0",
+      "time": 1705985047
+    }
+  }
+}

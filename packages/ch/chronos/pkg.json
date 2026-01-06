@@ -1,0 +1,112 @@
+{
+  "name": "chronos",
+  "url": "https://github.com/status-im/nim-chronos",
+  "method": "git",
+  "description": "An efficient library for asynchronous programming",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-chronos",
+  "tags": [
+    "library",
+    "networking",
+    "async",
+    "asynchronous",
+    "eventloop",
+    "timers",
+    "sendfile",
+    "tcp",
+    "udp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "4.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.16",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.16"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "bearssl",
+          "str": ">= 0.2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.5"
+          }
+        },
+        {
+          "name": "httputils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v4.0.4",
+        "hash": "0646c444fce7c7ed08ef6f2c9a7abfd172ffe655",
+        "time": 1738854754
+      },
+      {
+        "tag": "v4.0.3",
+        "hash": "c04576d829b8a0a1b12baaa8bc92037501b3a4a0",
+        "time": 1724284428
+      },
+      {
+        "tag": "v4.0.2",
+        "hash": "ef1b077adfdc803fcce880e81a5740b964bac0bc",
+        "time": 1711359517
+      },
+      {
+        "tag": "v4.0.1",
+        "hash": "0e806d59aea5e49a65524567cfa18de34e37ccca",
+        "time": 1711009311
+      },
+      {
+        "tag": "v4.0.0",
+        "hash": "672db137b7cad9b384b8f4fb551fb6bbeaabfe1b",
+        "time": 1706117593
+      },
+      {
+        "tag": "v3.2.0",
+        "hash": "ba143e029f35fd9b4cd3d89d007cc834d0d5ba3c",
+        "time": 1685864764
+      }
+    ],
+    "commit": {
+      "hash": "90085c31ce4e54ec83a544d9350261826d9beedb",
+      "time": 1767772418
+    }
+  }
+}

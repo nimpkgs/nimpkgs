@@ -1,0 +1,46 @@
+{
+  "name": "opus",
+  "url": "https://github.com/capocasa/nim-opus",
+  "method": "git",
+  "description": "A nimterop wrapper for the opus audio decoder",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/nim-opus",
+  "tags": [
+    "opus",
+    "decoder",
+    "xiph",
+    "audio",
+    "codec",
+    "lossy",
+    "compression"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "837a820e351602dd2efbea1bafdef372ac449d2e",
+      "time": 1611308642
+    }
+  }
+}

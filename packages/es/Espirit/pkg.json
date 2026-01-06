@@ -1,0 +1,52 @@
+{
+  "name": "Espirit",
+  "url": "https://github.com/Toma400/Espirit",
+  "method": "git",
+  "description": "Parser for Morrowind's .esp/.esm modding files",
+  "license": "MIT NON-AI License",
+  "web": "https://baedoor.github.io/projects/esp.html",
+  "tags": [
+    "elder-scrolls",
+    "morrowind",
+    "parser",
+    "parse",
+    "esm",
+    "esp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "flatty",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "cbc62df527d50a4575cf7e3cdc5263944c832805",
+        "time": 1753459558
+      }
+    ],
+    "commit": {
+      "hash": "b845fa359e9c902ace0a8a891001023c68e457a6",
+      "time": 1754565765
+    }
+  }
+}

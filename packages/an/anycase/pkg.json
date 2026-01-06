@@ -1,0 +1,70 @@
+{
+  "name": "anycase",
+  "url": "https://github.com/lamartire/anycase",
+  "method": "git",
+  "description": "Convert strings to any case",
+  "license": "MIT",
+  "web": "https://github.com/lamartire/anycase",
+  "tags": [
+    "camelcase",
+    "kebabcase",
+    "snakecase",
+    "case"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.23.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.23.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "c3a8b1b41cb9b6311ab117f80a1c31710540f74d",
+        "time": 1706093333
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "efa44b58fb1d9fbfffde42b07b4e32b0940bfe32",
+        "time": 1689527439
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "b03cd5718c5ccee86c1714ca61ce8e06585897b9",
+        "time": 1689495648
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "7f987b756d000fadba30c89e0c639427de7e0056",
+        "time": 1613551734
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "b9cb42fc9fe3fd48c78e02546ac7744a614e7c3b",
+        "time": 1576514162
+      }
+    ],
+    "commit": {
+      "hash": "c3a8b1b41cb9b6311ab117f80a1c31710540f74d",
+      "time": 1706093333
+    }
+  }
+}

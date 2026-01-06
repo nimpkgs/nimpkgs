@@ -1,0 +1,30 @@
+{
+  "name": "lz77",
+  "url": "https://github.com/sealmove/LZ77",
+  "method": "git",
+  "description": "Implementation of various LZ77 algorithms",
+  "license": "MIT",
+  "web": "https://github.com/sealmove/LZ77",
+  "tags": [
+    "library",
+    "compress",
+    "decompress",
+    "encode",
+    "decode",
+    "huffman",
+    "mam",
+    "prefetch"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "39713096943091baf7fea154aec8c2a7bcc40bb7",
+      "time": 1589194089
+    }
+  }
+}

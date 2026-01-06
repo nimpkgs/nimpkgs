@@ -1,0 +1,41 @@
+{
+  "name": "css_html_minify",
+  "url": "https://github.com/juancarlospaco/nim-css-html-minify",
+  "method": "git",
+  "description": "HTML & CSS Minify Lib & App based on Regexes & parallel MultiReplaces",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-css-html-minify",
+  "tags": [
+    "css",
+    "html",
+    "minify"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.5",
+        "hash": "eb3735c4f5de10e341ba8389b575684ca38673ff",
+        "time": 1541439167
+      }
+    ],
+    "commit": {
+      "hash": "b168974d7ebadecce22771980a9f26653284398c",
+      "time": 1552898571
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "skEasing",
+  "url": "https://github.com/Skrylar/skEasing",
+  "method": "git",
+  "description": "A collection of easing curves for animation purposes.",
+  "license": "BSD",
+  "web": "https://github.com/Skrylar/skEasing",
+  "tags": [
+    "math",
+    "curves",
+    "animation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "9c369849c65d9425eab698bd578922d7f360f330",
+      "time": 1531414710
+    }
+  }
+}

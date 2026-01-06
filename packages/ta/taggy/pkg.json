@@ -1,0 +1,51 @@
+{
+  "name": "taggy",
+  "url": "https://github.com/treeform/taggy",
+  "method": "git",
+  "description": "Everything to do with HTML and XML",
+  "license": "MIT",
+  "web": "https://github.com/treeform/taggy",
+  "tags": [
+    "html",
+    "xml",
+    "css"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.3",
+        "hash": "0013a4bf921dc9fa735f81577518b2c1e155f062",
+        "time": 1704492033
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "a791378850e58f9d0d6dc0ded6a28bd6e189bcde",
+        "time": 1690039564
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "ba31c9eeba9d75c6dac1a4c81b2fdfb48b87ecfa",
+        "time": 1684630421
+      }
+    ],
+    "commit": {
+      "hash": "bb1608ad866d5d4ac076cd7bcec3e64ae7d568e5",
+      "time": 1704571706
+    }
+  }
+}

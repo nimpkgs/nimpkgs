@@ -1,0 +1,61 @@
+{
+  "name": "util",
+  "url": "https://github.com/thisago/util",
+  "method": "git",
+  "description": "Small utilities that isn't large enough to have a individual modules",
+  "license": "MIT",
+  "web": "https://github.com/thisago/util",
+  "tags": [
+    "html",
+    "utility",
+    "string"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "3.1.0",
+        "hash": "e449c43f5cf3cf517b76ef23efc8473148d3020a",
+        "time": 1694739096
+      },
+      {
+        "tag": "3.0.1",
+        "hash": "ce520cfea737990c4ec52cb628c6477e8b7a8e6a",
+        "time": 1694447633
+      },
+      {
+        "tag": "3.0.0",
+        "hash": "797fcbf580fcfdf40408dd6c2869b5a68d5af541",
+        "time": 1689699560
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "2a75d6e307aa57037eccbb05693fcaaa58ec8a72",
+        "time": 1680826450
+      },
+      {
+        "tag": "1.15.0",
+        "hash": "12acddbe5c0efc9051c9ccc0b0c6285fa78d7b9f",
+        "time": 1680819109
+      }
+    ],
+    "commit": {
+      "hash": "e449c43f5cf3cf517b76ef23efc8473148d3020a",
+      "time": 1694739096
+    }
+  }
+}

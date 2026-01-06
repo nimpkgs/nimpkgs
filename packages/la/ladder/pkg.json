@@ -1,0 +1,44 @@
+{
+  "name": "ladder",
+  "url": "https://gitlab.com/ryukoposting/nim-ladder",
+  "method": "git",
+  "description": "Ladder logic macros for Nim",
+  "license": "Apache-2.0",
+  "web": "https://gitlab.com/ryukoposting/nim-ladder",
+  "tags": [
+    "ladder",
+    "logic",
+    "PLC",
+    "state",
+    "machine",
+    "ryukoposting"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "786eb7397e3b76913c29362f0b5ba222a6e526b6",
+        "time": 1550537401
+      }
+    ],
+    "commit": {
+      "hash": "1745ab4abb849584318dfa14b8720cf47a766fd2",
+      "time": 1551833900
+    }
+  }
+}

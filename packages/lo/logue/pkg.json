@@ -1,0 +1,82 @@
+{
+  "name": "logue",
+  "url": "https://github.com/planety/logue",
+  "method": "git",
+  "description": "Command line tools for Prologue.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/planety/logue",
+  "tags": [
+    "cli",
+    "prologue",
+    "web"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [
+        "logue"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.4",
+        "hash": "fdad43b69bc4517a3595d1a28e86161e8cfca614",
+        "time": 1602342252
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "a4d649a01487930b1b4fa8cbb7453a6c2fe1d898",
+        "time": 1600258290
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "048b87a89426b97f465b535da85bbce370c49ffb",
+        "time": 1600176450
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "24d3276aa8226bb7e1c1bb7f6d06e2c5d1baf0dd",
+        "time": 1600175954
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "1e7b5c1b273966c6eee73414940c5ced333343d4",
+        "time": 1599904242
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "25234ea79b9a7a783ced72918d529ef1e3886ac7",
+        "time": 1598834742
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "1c5fa52997dd1542d2efab446d89ee99268b98df",
+        "time": 1596876609
+      }
+    ],
+    "commit": {
+      "hash": "abdc645a410a9fed0f4125023e3f57d9957fb376",
+      "time": 1657676057
+    }
+  }
+}

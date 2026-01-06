@@ -1,0 +1,71 @@
+{
+  "name": "servclip",
+  "url": "https://github.com/thisago/servclip",
+  "method": "git",
+  "description": "Manage your clipboard remotely",
+  "license": "MIT",
+  "web": "https://github.com/thisago/servclip",
+  "tags": [
+    "clipboard",
+    "remote",
+    "server",
+    "utility",
+    "cli",
+    "tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.1"
+          }
+        },
+        {
+          "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimclipboard",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "bluesoftcosmos",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "servclip"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "6d59a9a8c0a199d33bae69a35d3e2992b40efdc7",
+        "time": 1654171559
+      }
+    ],
+    "commit": {
+      "hash": "2bf2c138f7e12c87555a85dfa2dc834abe8a8d13",
+      "time": 1663704964
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "tokarax",
+  "url": "https://github.com/thisago/tokarax",
+  "method": "git",
+  "description": "Converts HTML to Karax representation",
+  "license": "MIT",
+  "web": "https://github.com/thisago/tokarax",
+  "tags": [
+    "html",
+    "converter",
+    "karax"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "tokarax"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "b63616c53335f48cdc153ecb4abe5e7f098d6edc",
+      "time": 1635328684
+    }
+  }
+}

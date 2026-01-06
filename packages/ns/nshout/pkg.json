@@ -1,0 +1,38 @@
+{
+  "name": "nshout",
+  "url": "https://github.com/Senketsu/nshout",
+  "method": "git",
+  "description": "Nim bindings for libshout",
+  "license": "MIT",
+  "web": "https://github.com/Senketsu/nshout",
+  "tags": [
+    "library",
+    "shouter",
+    "libshout",
+    "wrapper",
+    "bindings",
+    "audio",
+    "web"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c254314c179d66eab51938527d7b2858c2457a34",
+      "time": 1431437263
+    }
+  }
+}

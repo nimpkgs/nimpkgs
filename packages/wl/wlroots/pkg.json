@@ -1,0 +1,43 @@
+{
+  "name": "wlroots",
+  "url": "https://github.com/j-james/nim-wlroots",
+  "method": "git",
+  "description": "Nim bindings for wlroots",
+  "license": "MIT",
+  "web": "https://github.com/j-james/nim-wlroots",
+  "tags": [
+    "wayland",
+    "wlroots",
+    "wrapper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.14.1",
+      "requires": [
+        {
+          "name": "https://github.com/j-james/nim-wayland",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/j-james/nim-xkbcommon",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b37019ef35381e8aba8728175486d348122f7f7d",
+      "time": 1659513717
+    }
+  }
+}

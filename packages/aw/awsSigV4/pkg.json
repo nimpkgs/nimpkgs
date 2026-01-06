@@ -1,0 +1,60 @@
+{
+  "name": "awsSigV4",
+  "url": "https://github.com/ThomasTJdev/nim_awsSigV4",
+  "method": "git",
+  "description": "Simple package for creating AWS Signature Version 4 (SigV4)",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_awsSigV4",
+  "tags": [
+    "aws",
+    "sigv4",
+    "signed",
+    "presigned"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.18"
+          }
+        },
+        {
+          "name": "crunchy",
+          "str": "0.1.11",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.11"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.0.3",
+        "hash": "6e23455792456a22ef72d9d3309b473290325387",
+        "time": 1739517264
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "6be9c1a07057503e849492188b99175280bbcb03",
+        "time": 1706422809
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "4b4f7167ef668e1cd50df7d1fe96ab40805bdc2a",
+        "time": 1706342485
+      }
+    ],
+    "commit": {
+      "hash": "6e23455792456a22ef72d9d3309b473290325387",
+      "time": 1739517264
+    }
+  }
+}

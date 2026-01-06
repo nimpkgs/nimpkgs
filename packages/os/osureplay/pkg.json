@@ -1,0 +1,39 @@
+{
+  "name": "osureplay",
+  "url": "https://github.com/nimbackup/nim-osureplay",
+  "method": "git",
+  "description": "osu! replay parser",
+  "license": "MIT",
+  "web": "https://github.com/nimbackup/nim-osureplay",
+  "tags": [
+    "library",
+    "osu!",
+    "parser",
+    "osugame",
+    "replay"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [
+        "osureader"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "437a396fafd77da355d39f7015ba0d454b90a06d",
+      "time": 1584648695
+    }
+  }
+}

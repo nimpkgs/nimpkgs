@@ -1,0 +1,42 @@
+{
+  "name": "array2d",
+  "url": "https://github.com/avahe-kellenberger/array2d",
+  "method": "git",
+  "description": "A 2D Array Implementation",
+  "license": "GPL-2.0-only",
+  "web": "https://github.com/avahe-kellenberger/array2d",
+  "tags": [
+    "nim",
+    "array2d",
+    "grid"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "https://github.com/avahe-kellenberger/nimtest",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8ef8209e01855a51729d30880c1c2f4eebf1ce4c",
+      "time": 1658543521
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "lis3dhtr",
+  "url": "https://github.com/garrettkinman/ratel-LIS3DHTR",
+  "method": "git",
+  "description": "Ratel library for the LIS3DHTR 3-axis accelerometer",
+  "license": "MIT",
+  "web": "https://github.com/garrettkinman/ratel-LIS3DHTR",
+  "tags": [
+    "library",
+    "embedded",
+    "accelerometer",
+    "sensor",
+    "ratel"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "ratel",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "58cc305c27065e9802f9eba526144e1c94e75b94",
+      "time": 1675828982
+    }
+  }
+}

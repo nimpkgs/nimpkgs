@@ -1,0 +1,105 @@
+{
+  "name": "normalize",
+  "url": "https://github.com/nitely/nim-normalize",
+  "method": "git",
+  "description": "Unicode normalization forms (tr15)",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-normalize",
+  "tags": [
+    "unicode",
+    "normalization",
+    "nfc",
+    "nfd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.9.0",
+        "hash": "08caa2a4da40580ed7fe3ce723b3f7feabcca8e5",
+        "time": 1726676294
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "db9a74ad6a301f991c477fc2d90894957f640654",
+        "time": 1590869233
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "d32fc4b01ddc5f4c1b3c6467e9deacb7c3ccea7b",
+        "time": 1558204776
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "5ab3c453d621d3101cf642116ebcda230f4282f5",
+        "time": 1558129904
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "25ba863b2d998248a551041f1da771b105c56254",
+        "time": 1538964837
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "7a5286d7cdc7b55755663b08b7d34e9c33e40e1d",
+        "time": 1528545787
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "35ed016d82c8c85798cef4cb76242e10b40d64df",
+        "time": 1528331439
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "1d9b380a2e71a57df928fce06b34454f875d53e9",
+        "time": 1524271494
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "016ada30cd3e2d3ed9929a712f432f2d6b499dcb",
+        "time": 1523712985
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "531ca997ee938796301010578551439b6e5077ba",
+        "time": 1521178350
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "a70b8ecdada1c3e9883715dce25fea728d05343d",
+        "time": 1515728223
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0aa4d7c0e283a78ce5bda8011bec038475c99775",
+        "time": 1511765476
+      }
+    ],
+    "commit": {
+      "hash": "1c51c44a1541c2402af9fc21fef9ff4028e8e9ce",
+      "time": 1726707504
+    }
+  }
+}

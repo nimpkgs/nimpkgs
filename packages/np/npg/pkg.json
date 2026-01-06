@@ -1,0 +1,57 @@
+{
+  "name": "npg",
+  "url": "https://github.com/rustomax/npg",
+  "method": "git",
+  "description": "Password generator in Nim",
+  "license": "MIT",
+  "web": "https://github.com/rustomax/npg",
+  "tags": [
+    "password-generator",
+    "password",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "passgen",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "npg"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "23ee913f6829600b61dc0ea98d52f673f083eebe",
+        "time": 1613855274
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "29eaa380547d2f01bd0ca3c05cb82883b0508aa1",
+        "time": 1571370489
+      }
+    ],
+    "commit": {
+      "hash": "23ee913f6829600b61dc0ea98d52f673f083eebe",
+      "time": 1613855274
+    }
+  }
+}

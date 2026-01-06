@@ -1,0 +1,46 @@
+{
+  "name": "NimbleImGui",
+  "url": "https://github.com/qb-0/NimbleImGui",
+  "method": "git",
+  "description": "ImGui Frontend for Nimble",
+  "license": "MIT",
+  "web": "https://github.com/qb-0/NimbleImGui",
+  "tags": [
+    "nimble",
+    "gui",
+    "imgui",
+    "ui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "nimgl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "NimbleImGui"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "fce46b5489e6eaaaec432a9a8eeaaab5dd93549f",
+      "time": 1687602959
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "treesitter_ruby",
+  "url": "https://github.com/genotrance/nimtreesitter?subdir=treesitter_ruby",
+  "method": "git",
+  "description": "Nim wrapper for Ruby language support within tree-sitter",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtreesitter",
+  "tags": [
+    "tree-sitter",
+    "ruby",
+    "parser",
+    "language",
+    "code"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nimgen",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "treesitter",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "c6975d8c8d288e3499e665f1b3f5cdd299df1e8f",
+        "time": 1563492067
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "136096655d866b07727a6494ba1774620f344b88",
+        "time": 1563489664
+      }
+    ],
+    "commit": {
+      "hash": "c6975d8c8d288e3499e665f1b3f5cdd299df1e8f",
+      "time": 1563492067
+    }
+  }
+}

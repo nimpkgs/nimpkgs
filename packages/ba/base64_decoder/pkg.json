@@ -1,0 +1,17 @@
+{
+  "name": "base64_decoder",
+  "url": "https://github.com/momeemt/base64_cui",
+  "method": "git",
+  "description": "base64 cui",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/base64_cui",
+  "tags": [
+    "base64",
+    "cui",
+    "tool",
+    "deleted"
+  ],
+  "meta": {
+    "status": "Deleted"
+  }
+}

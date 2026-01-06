@@ -1,0 +1,47 @@
+{
+  "name": "nim_kyber",
+  "url": "https://github.com/roger-padrell/nim-kyber",
+  "method": "git",
+  "description": "Implementation of KYBER in NIM",
+  "license": "MIT",
+  "web": "https://roger-padrell.github.io/nim-kyber/",
+  "tags": [
+    "crypto",
+    "encrypting",
+    "kyber",
+    "post-quantum"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "db1e62a80bc2ecf228cd72125c7d4ee91b18aa6b",
+        "time": 1739610185
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "91ba6d124721dbf456e4dba0ec7d3d31b1d7620f",
+        "time": 1739309621
+      }
+    ],
+    "commit": {
+      "hash": "db1e62a80bc2ecf228cd72125c7d4ee91b18aa6b",
+      "time": 1739610185
+    }
+  }
+}

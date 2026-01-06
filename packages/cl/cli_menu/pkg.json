@@ -1,0 +1,36 @@
+{
+  "name": "cli_menu",
+  "url": "https://github.com/MnlPhlp/cli_menu",
+  "method": "git",
+  "description": "A library to create interactive commandline menus without writing boilerplate code.",
+  "license": "MIT",
+  "web": "https://github.com/MnlPhlp/cli_menu",
+  "tags": [
+    "menu",
+    "library",
+    "cli",
+    "interactive",
+    "userinput"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4ef855e5c24aabeb90bc837f8e87d96a24897691",
+      "time": 1573410212
+    }
+  }
+}

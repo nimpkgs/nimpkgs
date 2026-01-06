@@ -1,0 +1,241 @@
+{
+  "name": "nodesnim",
+  "url": "https://github.com/Ethosa/nodesnim",
+  "method": "git",
+  "description": "The Nim GUI/2D framework based on OpenGL and SDL2.",
+  "license": "MIT",
+  "web": "https://github.com/Ethosa/nodesnim",
+  "tags": [
+    "GUI",
+    "2D",
+    "framework",
+    "OpenGL",
+    "SDL2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "compiler",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "stable-0.4.2",
+        "hash": "7abb307658d459159c001cba1b15fc1b61a1ad0d",
+        "time": 1637492938
+      },
+      {
+        "tag": "nightly-0.4.2b",
+        "hash": "89e22549a582de5eee1f44485fd9b1a4d907287c",
+        "time": 1637491080
+      },
+      {
+        "tag": "nightly-0.4.2a",
+        "hash": "fa5ad011533b6bed31d1741a8ad96ef9dcfbbe00",
+        "time": 1636868276
+      },
+      {
+        "tag": "stable-0.4.1",
+        "hash": "4ef5a913f2e2648964d787ebf874dbc585730db0",
+        "time": 1635956250
+      },
+      {
+        "tag": "nightly-0.4.1b",
+        "hash": "2f0e198e768fd33a777bcf88770d77167f803a16",
+        "time": 1635955518
+      },
+      {
+        "tag": "nightly-0.4.1a",
+        "hash": "cc0b43679731b5afc8fbd255332d97103b1f39c8",
+        "time": 1635850852
+      },
+      {
+        "tag": "stable-0.4.0",
+        "hash": "3a47afac5756db551603c76b1049bfc18a3501ec",
+        "time": 1634486092
+      },
+      {
+        "tag": "nightly-0.4.0c",
+        "hash": "5a47dbf6be78bff78dd4fffa7c8012d3b638b8d9",
+        "time": 1634485360
+      },
+      {
+        "tag": "nightly-0.4.0b",
+        "hash": "3a79c5d336ca58b64e09c43e9a17661f35595eb5",
+        "time": 1634317576
+      },
+      {
+        "tag": "nightly-0.4.0a",
+        "hash": "c08576abd7d31d8e9ba55835fa97b8895e2c9695",
+        "time": 1633880647
+      },
+      {
+        "tag": "nightly-0.3.3b",
+        "hash": "60d61da4787dc1404d5d4e52336bd21c788e3f67",
+        "time": 1633848052
+      },
+      {
+        "tag": "nightly-0.3.3a",
+        "hash": "9ef01d48dc013935218c0f2c46db61db5a790510",
+        "time": 1633792811
+      },
+      {
+        "tag": "stable_0.3.2",
+        "hash": "6abbd4d3d1886d1b15266fcb21932ee68ed0e647",
+        "time": 1632661773
+      },
+      {
+        "tag": "nightly-0.3.2f",
+        "hash": "4b790edd039126440773dac18f8909437b214fb4",
+        "time": 1632660250
+      },
+      {
+        "tag": "nightly-0.3.2e",
+        "hash": "d518afb33cc9825e76f7e5a27b2014d4b79387e9",
+        "time": 1632537703
+      },
+      {
+        "tag": "nightly-0.3.2d",
+        "hash": "05a59dc02ce1ec46eb3ad11d27f071e46eb7c8b3",
+        "time": 1632490582
+      },
+      {
+        "tag": "nightly-0.3.2c",
+        "hash": "54c3cb00bcedbcd79c4b4aa9c1c25d081d27a472",
+        "time": 1632416147
+      },
+      {
+        "tag": "nightly-0.3.2b",
+        "hash": "42fbab61ad523d1d21f5645cb584c72b41b446cb",
+        "time": 1632328553
+      },
+      {
+        "tag": "nightly-0.3.2a",
+        "hash": "3f2b4080606d56b1323c3cff98693e3e9517912d",
+        "time": 1632291920
+      },
+      {
+        "tag": "stable-0.3.2, stable-0.3.1",
+        "hash": "2d695458a60e1a1d84e08c4c9921c6cadc0db7cd",
+        "time": 1632155015
+      },
+      {
+        "tag": "nightly-0.3.1b",
+        "hash": "79ec5fa42e6d7f1aeac7949581414eefdac5962b",
+        "time": 1632153198
+      },
+      {
+        "tag": "nightly-0.3.1a",
+        "hash": "feddeed5551daec50f8788a52ebd6ee81462e50c",
+        "time": 1632123126
+      },
+      {
+        "tag": "stable-0.3.0",
+        "hash": "54980e5fb3178343cea0d67573d1a6db096fc281",
+        "time": 1631780828
+      },
+      {
+        "tag": "nightly-0.3.0c",
+        "hash": "897fdeadf089b2cfb89f538c94adc801a5647fc0",
+        "time": 1631778172
+      },
+      {
+        "tag": "nightly-0.3.0b",
+        "hash": "d11bdf9016de299e8fd2d2d80d7598a66fa603e8",
+        "time": 1631627510
+      },
+      {
+        "tag": "nightly-0.3.0a",
+        "hash": "359da2e55a2314b6a42df5321d19a199f386db52",
+        "time": 1631553386
+      },
+      {
+        "tag": "stable-0.2.4",
+        "hash": "04af92c04d9fdaaa65415c3b71b412c38035252b",
+        "time": 1631453044
+      },
+      {
+        "tag": "nightly-0.2.4c",
+        "hash": "5bfb9ea8ddb98666d4a34bc61cc6f05d3b4e88a7",
+        "time": 1631449079
+      },
+      {
+        "tag": "nightly-0.2.4b",
+        "hash": "5cac73d1df7b975f1654e1308faec73380cce9b4",
+        "time": 1631434042
+      },
+      {
+        "tag": "nightly-0.2.4a",
+        "hash": "8f2819a73bd8eb032961e6a64148c4029c35ad86",
+        "time": 1631426090
+      },
+      {
+        "tag": "stable-0.2.2",
+        "hash": "269a77018b8c611d3573d7c6dfbb7510b3bb9b90",
+        "time": 1631291130
+      },
+      {
+        "tag": "nightly-0.2.2a",
+        "hash": "98a7d75f326ec557e5a86a97a02c6a7e70df7f5a",
+        "time": 1631289853
+      },
+      {
+        "tag": "nightly-0.2.1a",
+        "hash": "93a206ba18ce3b5a5a7ae4a5793014a43a3854c2",
+        "time": 1631285267
+      },
+      {
+        "tag": "stable-0.2.1",
+        "hash": "f7fb795da945f1d026a9ce5ba6ef8191ef30daeb",
+        "time": 1631125547
+      },
+      {
+        "tag": "nightly_0.2.1",
+        "hash": "f5e5a31f26a767b36f780963fd9bff26dfdea80d",
+        "time": 1631116571
+      },
+      {
+        "tag": "nightly-0.2.0",
+        "hash": "e7ebaba73e0424683f6aa2ade321016f1bdd005d",
+        "time": 1630830671
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "6228384d08eff8bcc12157d2db87cd9eb27a227d",
+        "time": 1630583822
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "b3534cce520b7a703f9098340cce16a7be01bf15",
+        "time": 1630582531
+      },
+      {
+        "tag": "01.09.21_1.24_0.0.6",
+        "hash": "68f9290a05a6212f4dfb61c2fff53cdff97ae4ee",
+        "time": 1630433686
+      }
+    ],
+    "commit": {
+      "hash": "7abb307658d459159c001cba1b15fc1b61a1ad0d",
+      "time": 1637492938
+    }
+  }
+}

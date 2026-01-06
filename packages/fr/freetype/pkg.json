@@ -1,0 +1,34 @@
+{
+  "name": "freetype",
+  "url": "https://github.com/jangko/freetype",
+  "method": "git",
+  "description": "wrapper for FreeType2 library",
+  "license": "MIT",
+  "web": "https://github.com/jangko/freetype",
+  "tags": [
+    "font",
+    "renderint",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "22b81d059d17ebb393469a3ee11e6f443e18ad5e",
+      "time": 1693410436
+    }
+  }
+}

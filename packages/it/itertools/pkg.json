@@ -1,0 +1,79 @@
+{
+  "name": "itertools",
+  "url": "https://github.com/narimiran/itertools",
+  "method": "git",
+  "description": "Itertools for Nim",
+  "license": "MIT",
+  "web": "https://narimiran.github.io/itertools/",
+  "tags": [
+    "itertools",
+    "iterutils",
+    "python",
+    "iter",
+    "iterator",
+    "iterators"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "41ed3d60ae494a89502c6e9230621039099c70f3",
+        "time": 1609163092
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "0e61385f46c212debe2c5edb9a153553890b494c",
+        "time": 1571046825
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "b0f6bb887c39bc7730f45abb72f7e9edd4714a66",
+        "time": 1543667539
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "8c212779b5ed35b8e75958783bcb7dfea489aef8",
+        "time": 1540839617
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "72b9b2a4e2c8b6bc4465ed45f7e583218f01955e",
+        "time": 1539710380
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "fa37307077f15c6d391ecac0caa09975aeac983b",
+        "time": 1538646071
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "8da9711a6bbea046b6ccc1e62d54ffb547b52375",
+        "time": 1525719422
+      },
+      {
+        "tag": "v0.1",
+        "hash": "5262b466a28a278df603f9d54673458cff00ca74",
+        "time": 1521915569
+      }
+    ],
+    "commit": {
+      "hash": "06c4de8b6b124368be269b00ecd0b34a3731739f",
+      "time": 1671438512
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "package_visible_types",
+  "url": "https://github.com/zah/nim-package-visible-types",
+  "method": "git",
+  "description": "A hacky helper lib for authoring Nim packages with package-level visiblity",
+  "license": "MIT",
+  "web": "https://github.com/zah/nim-package-visible-types",
+  "tags": [
+    "library",
+    "packages",
+    "visibility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "cbdee48feb05045c673e7d2cab16ae0f5c957157",
+      "time": 1539688698
+    }
+  }
+}

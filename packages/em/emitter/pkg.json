@@ -1,0 +1,54 @@
+{
+  "name": "emitter",
+  "url": "https://github.com/supranim/emitter",
+  "method": "git",
+  "description": "Supranim's Event Emitter - Subscribe & listen for various events within your application",
+  "license": "MIT",
+  "web": "https://github.com/supranim/emitter",
+  "tags": [
+    "events",
+    "event-emitter",
+    "emitter",
+    "listener",
+    "subscriber",
+    "subscribe",
+    "actions"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "malebolgia",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "msgpack4nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3cff217bc430a925940602e046363f938b296d10",
+      "time": 1712849680
+    }
+  }
+}

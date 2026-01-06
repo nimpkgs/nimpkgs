@@ -1,0 +1,34 @@
+{
+  "name": "minmaxheap",
+  "url": "https://github.com/stefansalewski/minmaxheap",
+  "method": "git",
+  "description": "MinMaxHeap",
+  "license": "MIT",
+  "web": "https://github.com/stefansalewski/minmaxheap",
+  "tags": [
+    "minmaxheap",
+    "heap",
+    "priorityqueue"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "63fd1d00588006e4b004d13156e78c1043b127c9",
+      "time": 1552657160
+    }
+  }
+}

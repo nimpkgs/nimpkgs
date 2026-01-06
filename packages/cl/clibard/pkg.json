@@ -1,0 +1,62 @@
+{
+  "name": "clibard",
+  "url": "https://github.com/thisago/clibard",
+  "method": "git",
+  "description": "Command line interface for Google Bard",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/thisago/clibard",
+  "tags": [
+    "cli",
+    "bard",
+    "ai",
+    "chat"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "bard",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
+          }
+        },
+        {
+          "name": "iecook",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "clibard"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "8b52e626b033848fbe7fecb554f22e5e366a780e",
+      "time": 1695082438
+    }
+  }
+}

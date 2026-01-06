@@ -1,0 +1,38 @@
+{
+  "name": "pager",
+  "url": "https://git.sr.ht/~reesmichael1/nim-pager",
+  "method": "git",
+  "description": "A simple library for paging, similar to less",
+  "license": "GPL-3.0",
+  "web": "https://git.sr.ht/~reesmichael1/nim-pager",
+  "tags": [
+    "pager",
+    "paging",
+    "less",
+    "more"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [
+        "pager"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "eab3163332d96b29755741b82383f7a36e92ba12",
+      "time": 1568435615
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "morepretty",
+  "url": "https://github.com/treeform/morepretty",
+  "method": "git",
+  "description": "Morepretty - Does more than nimpretty.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/morepretty",
+  "tags": [
+    "nimpretty",
+    "autoformat",
+    "code"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "morepretty"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "d9b219f04b7a316e5104fcc72ef8537d1b459703",
+        "time": 1583694604
+      }
+    ],
+    "commit": {
+      "hash": "10e7b2754e5a34f758789e64804d90dad6d2953f",
+      "time": 1683587314
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "nimtess2",
+  "url": "https://github.com/genotrance/nimtess2",
+  "method": "git",
+  "description": "Nim wrapper for libtess2",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimtess2",
+  "tags": [
+    "glu",
+    "tesselator",
+    "libtess2",
+    "opengl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nimgen",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "f536ab14e6df9c65c104dc4f0c8845e79119a840",
+        "time": 1546619076
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "3a05af9e6671796e7bc5488943f93c0f975904d1",
+        "time": 1541570060
+      }
+    ],
+    "commit": {
+      "hash": "f536ab14e6df9c65c104dc4f0c8845e79119a840",
+      "time": 1546619076
+    }
+  }
+}

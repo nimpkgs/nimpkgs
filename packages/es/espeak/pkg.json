@@ -1,0 +1,34 @@
+{
+  "name": "espeak",
+  "url": "https://github.com/juancarlospaco/nim-espeak",
+  "method": "git",
+  "description": "Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-espeak",
+  "tags": [
+    "espeak",
+    "voice",
+    "texttospeech"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "119e6e1f385b02dff310ebcf976a98512237c00a",
+      "time": 1559848371
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "emailparser",
+  "url": "https://github.com/mildred/emailparser.nim",
+  "method": "git",
+  "description": "Email parser to JsonNode based on Cyrus JMAP parser",
+  "license": "BSD",
+  "web": "https://github.com/mildred/emailparser.nim",
+  "tags": [
+    "email",
+    "rfc822",
+    "rfc2822",
+    "parser",
+    "jmap"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.9.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "480a496bbdfb51758ed998f62651c16e7ebc1b48",
+      "time": 1692458126
+    }
+  }
+}

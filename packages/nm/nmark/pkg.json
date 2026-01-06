@@ -1,0 +1,42 @@
+{
+  "name": "nmark",
+  "url": "https://github.com/kyoheiu/nmark",
+  "method": "git",
+  "description": "fast markdown parser",
+  "license": "MIT",
+  "web": "https://github.com/kyoheiu/nmark",
+  "tags": [
+    "markdown",
+    "parser",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.10",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6aae07347e928b817c03940d68d0162ef3964204",
+      "time": 1628973566
+    }
+  }
+}

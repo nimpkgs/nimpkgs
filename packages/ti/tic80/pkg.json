@@ -1,0 +1,35 @@
+{
+  "name": "tic80",
+  "url": "https://github.com/thisago/tic80",
+  "method": "git",
+  "description": "TIC-80 bindings",
+  "license": "MIT",
+  "web": "https://github.com/thisago/tic80",
+  "tags": [
+    "tic80",
+    "games",
+    "js",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ff808fa8c44d93cef3eb62ca21ec87419a21dfef",
+      "time": 1655647120
+    }
+  }
+}

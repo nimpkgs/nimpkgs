@@ -1,0 +1,53 @@
+{
+  "name": "vimeo",
+  "url": "https://github.com/thisago/vimeo",
+  "method": "git",
+  "description": "Vimeo extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/vimeo",
+  "tags": [
+    "vimeo",
+    "extractor",
+    "video"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "vimeo"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "dab3c6f462de6da1bdc03a28ff4dabf231939fd1",
+      "time": 1662148832
+    }
+  }
+}

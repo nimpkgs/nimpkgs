@@ -1,0 +1,47 @@
+{
+  "name": "opusenc",
+  "url": "https://git.sr.ht/~ehmry/nim_opusenc",
+  "method": "git",
+  "description": "Bindings to libopusenc",
+  "license": "BSD-3-Clause",
+  "web": "https://git.sr.ht/~ehmry/nim_opusenc",
+  "tags": [
+    "opus",
+    "audio",
+    "encoder",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "7f0c91bc710db309332e0229818199a95f3a865d",
+        "time": 1593087477
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "322671e76cf927bb96fbd2c83d65641268a60d65",
+        "time": 1592416854
+      }
+    ],
+    "commit": {
+      "hash": "7f0c91bc710db309332e0229818199a95f3a865d",
+      "time": 1593087477
+    }
+  }
+}

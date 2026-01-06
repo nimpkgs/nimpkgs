@@ -1,0 +1,42 @@
+{
+  "name": "tang",
+  "url": "https://github.com/5-6-1/tang-nim",
+  "method": "git",
+  "description": "Elegant sugar",
+  "license": "MIT",
+  "web": "https://github.com/5-6-1/tang-nim",
+  "tags": [
+    "syntax",
+    "dsl",
+    "macros",
+    "sugar"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "72230cb1f0b2d2d403405f1f325106e9862dfd8b",
+        "time": 1748714417
+      }
+    ],
+    "commit": {
+      "hash": "e4be17e835e72e59ecd8c9adb396f63211e67112",
+      "time": 1749121616
+    }
+  }
+}

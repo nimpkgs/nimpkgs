@@ -1,0 +1,46 @@
+{
+  "name": "genny",
+  "url": "https://github.com/treeform/genny",
+  "method": "git",
+  "description": "Generate a shared library and bindings for many languages.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/genny",
+  "tags": [
+    "C",
+    "python",
+    "node.js"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "51ad022440fad02419a4f2901276c549352ae380",
+        "time": 1758653885
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a855a2b21e46e8dae4878238ddf65f1025c8b947",
+        "time": 1683766957
+      }
+    ],
+    "commit": {
+      "hash": "1481e60fef90aabdb9a0c7e5ce18b9b989bb1a98",
+      "time": 1762906458
+    }
+  }
+}

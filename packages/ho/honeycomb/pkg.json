@@ -1,0 +1,51 @@
+{
+  "name": "honeycomb",
+  "url": "https://github.com/KatrinaKitten/honeycomb",
+  "method": "git",
+  "description": "A dead simple, no-nonsense parser combinator library written in pure Nim.",
+  "license": "MPL-2.0",
+  "web": "https://github.com/KatrinaKitten/honeycomb",
+  "tags": [
+    "parsing",
+    "parser-combinator",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "84ec624169aafcc47fb6e0b9d1b499d1c916c515",
+        "time": 1655763653
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "ea10bf45b83e3f703366875517e74672637a3c0b",
+        "time": 1640906913
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "d8c46573e8f095dab9024c533fd2492a507014c8",
+        "time": 1640768338
+      }
+    ],
+    "commit": {
+      "hash": "84ec624169aafcc47fb6e0b9d1b499d1c916c515",
+      "time": 1655763653
+    }
+  }
+}

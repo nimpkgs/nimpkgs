@@ -1,0 +1,53 @@
+{
+  "name": "meow",
+  "url": "https://github.com/disruptek/meow",
+  "method": "git",
+  "description": "meowhash wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/meow",
+  "tags": [
+    "meow",
+    "hash"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nimterop",
+          "str": ">= 0.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.8"
+          }
+        }
+      ],
+      "bin": [
+        "meow"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "d62bfb605a8bcea67d58e7b930c41cbfdab17f88",
+        "time": 1597344406
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "297a27a2796e0d284f659ec6c9c5c5789fb7ecf6",
+        "time": 1597084805
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "07ac524210b671b39849c6834d06170c03e2a09e",
+        "time": 1597084058
+      }
+    ],
+    "commit": {
+      "hash": "d62bfb605a8bcea67d58e7b930c41cbfdab17f88",
+      "time": 1597344406
+    }
+  }
+}

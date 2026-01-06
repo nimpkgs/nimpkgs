@@ -1,0 +1,85 @@
+{
+  "name": "collections",
+  "url": "https://github.com/zielmicha/collections.nim",
+  "method": "git",
+  "description": "Various collections and utilities",
+  "license": "MIT",
+  "web": "https://github.com/zielmicha/collections.nim",
+  "tags": [
+    "iterator",
+    "functional"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.5.2",
+        "hash": "11d16f6418ce6b3adbd02e3e5fcebbba377fd0ba",
+        "time": 1547960330
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "a6b3a024c95390adb6d95549471b14af9a515efc",
+        "time": 1546363363
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "f246134210344f879f7ce92332f4a9f0236433ff",
+        "time": 1527592692
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "9a131d803199073ac8fc6467a17fe52e6e8125f8",
+        "time": 1521756134
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "0b817733285fad3d5d2bc70610a68d01116f5544",
+        "time": 1506363153
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "31fc9aa5e55b6793350cbfb785223910559c57bb",
+        "time": 1492800473
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "41a4c5451d2ad71bd28fbabb9335aed427b19ae4",
+        "time": 1486565490
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "b614b4c57eb8be641e5009f53758a5ac38705013",
+        "time": 1484077147
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "17c4695ae2f75ed1c6634d8b8b8710f827675305",
+        "time": 1482166302
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "f5a7db984bcf373ee868f2678f3c35ea63ee9f13",
+        "time": 1482164851
+      }
+    ],
+    "commit": {
+      "hash": "11d16f6418ce6b3adbd02e3e5fcebbba377fd0ba",
+      "time": 1547960330
+    }
+  }
+}

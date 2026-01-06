@@ -1,0 +1,50 @@
+{
+  "name": "openal",
+  "url": "https://github.com/treeform/openal",
+  "method": "git",
+  "description": "An OpenAL wrapper.",
+  "license": "MIT",
+  "tags": [
+    "sound",
+    "OpenAL",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "1686996c840c1aaa224603dafbb19fa0cb842992",
+        "time": 1700327330
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "72c78955be4b3ccf99c9dc6f8708d0e74b37126d",
+        "time": 1592351892
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "6dbd23eccd608e510cfd5c109dddcc4a5860b447",
+        "time": 1571322725
+      }
+    ],
+    "commit": {
+      "hash": "1686996c840c1aaa224603dafbb19fa0cb842992",
+      "time": 1700327330
+    }
+  }
+}

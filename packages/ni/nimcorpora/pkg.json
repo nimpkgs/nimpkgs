@@ -1,0 +1,61 @@
+{
+  "name": "nimcorpora",
+  "url": "https://github.com/neroist/nimcorpora",
+  "method": "git",
+  "description": "A Nim interface for Darius Kazemi's Corpora Project",
+  "license": "0BSD",
+  "web": "https://github.com/neroist/nimcorpora",
+  "doc": "https://neroist.github.io/nimcorpora/nimcorpora.html",
+  "tags": [
+    "corpora"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "fab",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "118e340c6fa95e816e702283620d46f396d3d8a7",
+        "time": 1673167736
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1a23ebfa9b2e580638d8fa2b96db6a92111a04f3",
+        "time": 1672686616
+      }
+    ],
+    "commit": {
+      "hash": "43f0edf3637ab6817a2f9621fcb5ec7523d46769",
+      "time": 1673376541
+    }
+  }
+}

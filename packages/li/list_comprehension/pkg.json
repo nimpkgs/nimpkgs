@@ -1,0 +1,37 @@
+{
+  "name": "list_comprehension",
+  "url": "https://github.com/nim-lang/graveyard?subdir=lc",
+  "method": "git",
+  "description": "List comprehension, for creating sequences.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/graveyard/tree/master/lc",
+  "tags": [
+    "graveyard",
+    "lc",
+    "list",
+    "comprehension",
+    "list_comp",
+    "list_comprehension"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "cca4055a063e2469de820495ec403a0c11ba837f",
+      "time": 1661381415
+    }
+  }
+}

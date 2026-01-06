@@ -1,0 +1,41 @@
+{
+  "name": "w8crc",
+  "url": "https://github.com/sumatoshi/w8crc",
+  "method": "git",
+  "description": "Full-featured CRC library for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/sumatoshi/w8crc",
+  "tags": [
+    "crc",
+    "checksum",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "c681bc47a264c6a02e2dc2ad44ef2bf82fbc1afb",
+        "time": 1645056664
+      }
+    ],
+    "commit": {
+      "hash": "fdfd2b33fa6d29456e089b6ec45fb3f3b2b81a9c",
+      "time": 1666556949
+    }
+  }
+}

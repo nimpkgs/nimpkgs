@@ -1,0 +1,124 @@
+{
+  "name": "retranslator",
+  "url": "https://github.com/linksplatform/RegularExpressions.Transformer",
+  "method": "git",
+  "description": "Transformer",
+  "license": "LGPLv3",
+  "web": "https://github.com/linksplatform/RegularExpressions.Transformer",
+  "tags": [
+    "regular",
+    "expressions",
+    "transformer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nre",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "nim/src"
+    },
+    "versions": [
+      {
+        "tag": "csharp_0.3.4",
+        "hash": "6fbfd89e8bc4943b504871035f8ea986fd6238f9",
+        "time": 1653983990
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "8f1f76aea0acf3fb35a12bf213a69876fe32f38f",
+        "time": 1600862008
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "abeb2d74f65ee28c393f9ab992da776ae954eea9",
+        "time": 1585987830
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "2131cc2bced10a316c114c9cac7d30b7f3341e1d",
+        "time": 1583571279
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "23fba17493083a412f9eea4aea57cf0818948ca4",
+        "time": 1583072601
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "8d5be80980260386409c4b72e32a6d5e0050ce14",
+        "time": 1583065014
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "3c836a9d6251ddf7b3c29bb27e9ab0b2a6d534b8",
+        "time": 1582903132
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "9a4955a992eb77d53d6ef0feddb1f92e3bea24a7",
+        "time": 1582891291
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "0384ddcaa7f4617e1aae67984202926df9358b57",
+        "time": 1582876428
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "85d4442084376ac3092eb36971027e4853dc3f2e",
+        "time": 1582826060
+      },
+      {
+        "tag": "0.0.8",
+        "hash": "6598f6a314ff98eb742c685eee952ee6d6f58476",
+        "time": 1582198304
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "b6c8f945cf43c1d4da81dc92cc323af13fc54c7b",
+        "time": 1582190118
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "3d750fc55762071d956dfcce733c66dadc7afee6",
+        "time": 1582187471
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "612278f2ea74d58707ec55198fa1c42846c7d919",
+        "time": 1581249395
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "1b8890be4e6ac995c48472d090aba8dca9ef7cac",
+        "time": 1571952852
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "a7fc774627a134eb219aa2bc9a602e4cd8bf7c5d",
+        "time": 1571927150
+      }
+    ],
+    "commit": {
+      "hash": "5654c8f08a2662e4b3f3badf30c760ca58f3f29a",
+      "time": 1752940884
+    }
+  }
+}

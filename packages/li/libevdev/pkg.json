@@ -1,0 +1,34 @@
+{
+  "name": "libevdev",
+  "url": "https://github.com/luked99/libevdev.nim",
+  "method": "git",
+  "description": "Wrapper for libevdev, Linux input device processing library",
+  "license": "MIT",
+  "web": "https://github.com/luked99/libevdev.nim",
+  "tags": [
+    "wrapper",
+    "os",
+    "linux"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "5dba39fe69c1b9a73aa9b911355860ba94c4d650",
+      "time": 1484778093
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "snail",
+  "url": "https://github.com/stisa/snail",
+  "method": "git",
+  "description": "Simple linear algebra for nim. Js too.",
+  "license": "MIT",
+  "web": "https://stisa.space/snail/",
+  "tags": [
+    "js",
+    "matrix",
+    "linear algebra"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        },
+        {
+          "name": "nimblas",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "f4cbbe211e2309ab5ef184f80745191d1bcfe917",
+        "time": 1495117597
+      }
+    ],
+    "commit": {
+      "hash": "c1c541f84aeeb3b6f0c52f93cc5d9689984d77e7",
+      "time": 1600693419
+    }
+  }
+}

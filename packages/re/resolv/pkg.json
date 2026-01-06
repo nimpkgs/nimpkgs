@@ -1,0 +1,42 @@
+{
+  "name": "resolv",
+  "url": "https://github.com/mildred/resolv.nim",
+  "method": "git",
+  "description": "DNS resolution nimble making use of the native glibc resolv library",
+  "license": "MIT",
+  "web": "https://github.com/mildred/resolv.nim",
+  "tags": [
+    "dns",
+    "dnsclient",
+    "client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "dnsprotocol",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "bcddd47a813872233ec62424278480f01638cb44",
+      "time": 1625158828
+    }
+  }
+}

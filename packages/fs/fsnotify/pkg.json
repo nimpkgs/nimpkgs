@@ -1,0 +1,54 @@
+{
+  "name": "fsnotify",
+  "url": "https://github.com/planety/fsnotify",
+  "method": "git",
+  "description": "A file system monitor in Nim.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/planety/fsnotify",
+  "tags": [
+    "os",
+    "watcher",
+    "prologue"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "xio",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.4",
+        "hash": "f51ea41f0805f0c43556db455886107edae7e99d",
+        "time": 1648442865
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "6bc3998f807e026d07410b6302e629beb7c39b17",
+        "time": 1648387799
+      }
+    ],
+    "commit": {
+      "hash": "5b1562e4a021c4757b058b6ae353245b2dd4eb32",
+      "time": 1764066469
+    }
+  }
+}

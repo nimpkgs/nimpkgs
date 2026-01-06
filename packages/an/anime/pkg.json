@@ -1,0 +1,33 @@
+{
+  "name": "anime",
+  "url": "https://github.com/ethosa/anime",
+  "method": "git",
+  "description": "The Nim wrapper for tracemoe.",
+  "license": "AGPLv3",
+  "web": "https://github.com/ethosa/anime",
+  "tags": [
+    "tracemoe",
+    "framework"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c53f7da1a00303ba7acf189cdf267f8fadaecffc",
+      "time": 1582017042
+    }
+  }
+}

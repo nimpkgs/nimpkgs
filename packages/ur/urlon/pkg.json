@@ -1,0 +1,42 @@
+{
+  "name": "urlon",
+  "url": "https://github.com/Double-oxygeN/urlon-nim",
+  "method": "git",
+  "description": "URL Object Notation implemented in Nim",
+  "license": "MIT",
+  "web": "https://github.com/Double-oxygeN/urlon-nim",
+  "tags": [
+    "json",
+    "urlon",
+    "parser",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1",
+        "hash": "2ebbae97299749aac6bc8ffd4573ec5bb333fead",
+        "time": 1657188965
+      }
+    ],
+    "commit": {
+      "hash": "2ebbae97299749aac6bc8ffd4573ec5bb333fead",
+      "time": 1657188965
+    }
+  }
+}

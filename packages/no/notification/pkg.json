@@ -1,0 +1,67 @@
+{
+  "name": "notification",
+  "url": "https://github.com/SolitudeSF/notification",
+  "method": "git",
+  "description": "Desktop notifications",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/notification",
+  "tags": [
+    "notifications",
+    "desktop",
+    "dbus"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "dbus",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "imageman",
+          "str": ">= 0.8.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "4cc31eb77ff086d815bac399953f1bb498af7c5c",
+        "time": 1614427487
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "34dc77cb629911df0ac26d19415d73f8a551154a",
+        "time": 1614380816
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "f6d608b6ee4073446704faca25b528dcf499ffc9",
+        "time": 1589743478
+      }
+    ],
+    "commit": {
+      "hash": "4cc31eb77ff086d815bac399953f1bb498af7c5c",
+      "time": 1614427487
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "simple_parseopt",
+  "url": "https://github.com/onelivesleft/simple_parseopt",
+  "method": "git",
+  "description": "Nim module which provides clean, zero-effort command line parsing.",
+  "license": "MIT",
+  "web": "https://github.com/onelivesleft/simple_parseopt",
+  "tags": [
+    "parseopt",
+    "command",
+    "line",
+    "simple",
+    "option",
+    "argument",
+    "parameter",
+    "options",
+    "arguments",
+    "parameters",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.1.1",
+        "hash": "519b1fcc9f554782953b2fe6cd4615d3ae2c3056",
+        "time": 1619365077
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "f338908883218c82b4c339a51f4eee9cdda85727",
+        "time": 1585060173
+      },
+      {
+        "tag": "v1.0.10",
+        "hash": "1e3bb40f0cf367cae23214128b2e506b5e65827f",
+        "time": 1585060027
+      },
+      {
+        "tag": "v1.0.9",
+        "hash": "a8aa26c430dba3d08d5a35c1f66f9be938b29529",
+        "time": 1585059590
+      },
+      {
+        "tag": "v1.0.8",
+        "hash": "6c6939d90ec9a6ccaaee9a4155bd56442de6067c",
+        "time": 1575384434
+      }
+    ],
+    "commit": {
+      "hash": "22f883465918bc0180bda61162c755031b0bf980",
+      "time": 1633605434
+    }
+  }
+}

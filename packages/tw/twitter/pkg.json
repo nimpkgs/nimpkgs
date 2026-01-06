@@ -1,0 +1,67 @@
+{
+  "name": "twitter",
+  "url": "https://github.com/snus-kin/twitter.nim",
+  "method": "git",
+  "description": "Low-level twitter API wrapper library for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/snus-kin/twitter.nim",
+  "tags": [
+    "library",
+    "wrapper",
+    "twitter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "uuids",
+          "str": ">= 0.1.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.10"
+          }
+        },
+        {
+          "name": "hmac",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "2.0.0",
+        "hash": "afe1a53f3478aebdb9cb5edf435547b31ebfc7e3",
+        "time": 1654416511
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "717b3ee7f3634518d0cf255e1fa199e6baa58069",
+        "time": 1595691464
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "276fbdce40de0c992da76eaad11b8a56029f23b9",
+        "time": 1595681172
+      }
+    ],
+    "commit": {
+      "hash": "bcacb22670cfe67f64ed372afd220deee894e1be",
+      "time": 1659271057
+    }
+  }
+}

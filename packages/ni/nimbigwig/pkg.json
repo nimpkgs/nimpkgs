@@ -1,0 +1,46 @@
+{
+  "name": "nimbigwig",
+  "url": "https://github.com/genotrance/nimbigwig",
+  "method": "git",
+  "description": "libBigWig wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/genotrance/nimbigwig",
+  "tags": [
+    "bigwig",
+    "bigbend",
+    "genome"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nimgen",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "6e019eb11c6248b18dcc52cef12b4398acaae5c8",
+        "time": 1541271947
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "04c3999f5bbc71781d60bcda26799837cba49d0e",
+        "time": 1530993129
+      }
+    ],
+    "commit": {
+      "hash": "6e019eb11c6248b18dcc52cef12b4398acaae5c8",
+      "time": 1541271947
+    }
+  }
+}

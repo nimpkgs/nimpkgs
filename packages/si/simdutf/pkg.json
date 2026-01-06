@@ -1,0 +1,64 @@
+{
+  "name": "simdutf",
+  "url": "https://github.com/ferus-web/simdutf",
+  "method": "git",
+  "description": "High performance, SIMD accelerated routines for unicode and base64 processing",
+  "license": "Apache-2.0",
+  "web": "https://github.com/ferus-web/simdutf",
+  "tags": [
+    "simd",
+    "performance",
+    "base64",
+    "unicode",
+    "avx2",
+    "avx512",
+    "neon",
+    "sse",
+    "riscv",
+    "utf8",
+    "utf16",
+    "utf32",
+    "transcoding"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "6.5.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "6.5.1",
+        "hash": "f461f1a02a7fffbda5367e426d783108eb536c3a",
+        "time": 1744905013
+      },
+      {
+        "tag": "6.5.0",
+        "hash": "6509fa765e0607c6ef0e10d52b3d46a5ba5973ef",
+        "time": 1744902522
+      }
+    ],
+    "commit": {
+      "hash": "c9ce60944110b10406ec8a6ad312efb31722fd69",
+      "time": 1744956634
+    }
+  }
+}

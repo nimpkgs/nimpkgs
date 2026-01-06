@@ -1,0 +1,33 @@
+{
+  "name": "cliptomania",
+  "url": "https://github.com/Guevara-chan/Cliptomania",
+  "method": "git",
+  "description": ".NET-inspired lightweight clipboard library",
+  "license": "MIT",
+  "web": "https://github.com/Guevara-chan/Cliptomania",
+  "tags": [
+    "clip",
+    "clipboard"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "347b9b1e63dc2bff660a75709129fc90d16bbc18",
+      "time": 1558011440
+    }
+  }
+}

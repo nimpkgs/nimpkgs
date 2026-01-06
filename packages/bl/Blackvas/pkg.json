@@ -1,0 +1,49 @@
+{
+  "name": "Blackvas",
+  "url": "https://github.com/momeemt/Blackvas",
+  "method": "git",
+  "description": "declarative UI framework for building Canvas",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/Blackvas",
+  "tags": [
+    "canvas",
+    "html",
+    "html5",
+    "javascript",
+    "web",
+    "framework"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "dfbee8587c31962c4ecc65406c743426a4150954",
+        "time": 1599973565
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1b645d61cdfe4a0895b24ab3edc1ecc20a46c21c",
+        "time": 1599826191
+      }
+    ],
+    "commit": {
+      "hash": "79b4bf2ae763d2acd0fb67e73838b858a722e519",
+      "time": 1599975696
+    }
+  }
+}

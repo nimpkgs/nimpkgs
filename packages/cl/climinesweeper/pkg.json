@@ -1,0 +1,81 @@
+{
+  "name": "climinesweeper",
+  "url": "https://github.com/KerorinNorthFox/MineSweeper_on_CLI",
+  "method": "git",
+  "description": "Play MineSweeper on CLI",
+  "license": "MIT",
+  "web": "https://github.com/KerorinNorthFox/MineSweeper_on_CLI",
+  "tags": [
+    "minesweeper",
+    "cli",
+    "game",
+    "application"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        },
+        {
+          "name": "illwill",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        }
+      ],
+      "bin": [
+        "climinesweeper"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.2.2",
+        "hash": "1e3248ac4d60b65c17e3e0d58ace9c97c716eeee",
+        "time": 1695027189
+      },
+      {
+        "tag": "v1.2.1",
+        "hash": "e1273d36e048d7836fe449c626924410f4baf315",
+        "time": 1695026769
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "f9e1d15c07ea72ffb356a3bba10fb3258a2463e3",
+        "time": 1691716291
+      },
+      {
+        "tag": "v1.1.1",
+        "hash": "e7b04fe4d4488c9b6fed02af48fdcb780a4e661e",
+        "time": 1679202098
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "fac643a764721dde9b714c3afd84fb850409f405",
+        "time": 1679130230
+      }
+    ],
+    "commit": {
+      "hash": "1e3248ac4d60b65c17e3e0d58ace9c97c716eeee",
+      "time": 1695027189
+    }
+  }
+}

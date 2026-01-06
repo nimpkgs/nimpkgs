@@ -1,0 +1,36 @@
+{
+  "name": "myo",
+  "url": "https://github.com/nimious/myo.git",
+  "method": "git",
+  "description": "Bindings for the Thalmic Labs Myo gesture control armband SDK.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/myo",
+  "tags": [
+    "binding",
+    "myo",
+    "thalmic",
+    "armband",
+    "gesture"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": "> 0.12.0",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "13cec2aaf0ab7b6371784a43caaf2fde0549f2a4",
+      "time": 1454175614
+    }
+  }
+}

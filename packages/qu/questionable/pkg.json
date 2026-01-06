@@ -1,0 +1,182 @@
+{
+  "name": "questionable",
+  "url": "https://github.com/codex-storage/questionable",
+  "method": "git",
+  "description": "Elegant optional types",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/questionable",
+  "tags": [
+    "option",
+    "result",
+    "error"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.10.15",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.10.15",
+        "hash": "82d90b67bcfb7f2e918b61dace2ff1a4ced60935",
+        "time": 1713593311
+      },
+      {
+        "tag": "0.10.14",
+        "hash": "83ae4a6409f612eb57c2009f69989d612aa8b6f7",
+        "time": 1710069299
+      },
+      {
+        "tag": "0.10.13",
+        "hash": "47692e0d923ada8f7f731275b2a87614c0150987",
+        "time": 1704815844
+      },
+      {
+        "tag": "0.10.12",
+        "hash": "2dd6b6b220f9f14a1231f6cafdf24f012bcc8414",
+        "time": 1699955823
+      },
+      {
+        "tag": "0.10.11",
+        "hash": "c2a08bd7036d1318106d2f03cfac90d4b07cc38f",
+        "time": 1699434865
+      },
+      {
+        "tag": "0.10.10",
+        "hash": "b3cf35ac450fd42c9ea83dc084f5cba2efc55da3",
+        "time": 1688375871
+      },
+      {
+        "tag": "0.10.9",
+        "hash": "58c10fb333d855177451d0e065da274930eed82d",
+        "time": 1687766545
+      },
+      {
+        "tag": "0.10.8",
+        "hash": "6cbbda7e4d009e02d0583b325b31dc68dff27854",
+        "time": 1676363518
+      },
+      {
+        "tag": "0.10.7",
+        "hash": "1dcef4b302c450a92bfc2dacaee50e3a737cae64",
+        "time": 1666260823
+      },
+      {
+        "tag": "0.10.6",
+        "hash": "30e4184a99c8c1ba329925912d2c5d4b09acf8cc",
+        "time": 1664357856
+      },
+      {
+        "tag": "0.10.5",
+        "hash": "82408a5ca2c24eca411d6774cf83816877170627",
+        "time": 1660131540
+      },
+      {
+        "tag": "0.10.4",
+        "hash": "0f9b12abc6a6a92a5f7556f897d67a15c6ef6b05",
+        "time": 1656921599
+      },
+      {
+        "tag": "0.10.3",
+        "hash": "d7e9f0bf7fec14df13a26e699437a2fe577b26ba",
+        "time": 1649059013
+      },
+      {
+        "tag": "0.10.2",
+        "hash": "6018fd43e033d5a5310faa45bcaa1b44049469a4",
+        "time": 1642006623
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "986716511fc860ee79524b2bfbf9718a61293286",
+        "time": 1622471166
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "54516fd2d1afb9ac556099c061ec60aa201cae74",
+        "time": 1620314988
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "dd9ac6dc20594d6100feac8ceab05e25b5b2d6a8",
+        "time": 1620314059
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "7303be50da3280548f5af7f1ee462c6ccb94bc99",
+        "time": 1620137938
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "ebc7a2b48e3d6e8727763948b698cb5d77eb50eb",
+        "time": 1618840407
+      },
+      {
+        "tag": "0.6.3",
+        "hash": "fca4c14e0c11e2ae644395693e6b53ede296b315",
+        "time": 1618568946
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "b85a8eb5c85a7fb05813badb9822721e5f3ae142",
+        "time": 1618477494
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "a66e42d0584a33621dd2ad67536599881bd5516f",
+        "time": 1618476921
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "83101ce07315c76d28afbfaf6653e5f3e41780e4",
+        "time": 1618472889
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "a8fe7bf7b3633cc29fd32c4dcb43fb9e7a04c7de",
+        "time": 1618236500
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "e0d236aaf82be103c53aed4dae5e68e9a345e012",
+        "time": 1616418370
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "4f0010638bbeed7b138603963d7b6e9aeef9cd1f",
+        "time": 1616057443
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "68153ab182ee5c2130e20f32165522574aeb5cf6",
+        "time": 1615884357
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "56e0e123d691957a4349c6fdb89229e97875d777",
+        "time": 1615630241
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "e266870dfa83ae6ba98e268ba7414cb477242ecb",
+        "time": 1615481478
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "8a5ff10244df431a3b9eeff331dbdd866400aea6",
+        "time": 1615278361
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "c7fabfc23b5acf66023a7624a2bd1335c22d83dc",
+        "time": 1615216280
+      }
+    ],
+    "commit": {
+      "hash": "2906828765d4f253b59e351219ce7bf9e3a3e699",
+      "time": 1761142378
+    }
+  }
+}

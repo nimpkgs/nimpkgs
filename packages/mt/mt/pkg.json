@@ -1,0 +1,77 @@
+{
+  "name": "mt",
+  "url": "https://codeberg.org/eqf0/mt",
+  "method": "git",
+  "description": "A simple TLDR pages client",
+  "license": "MIT",
+  "web": "https://codeberg.org/eqf0/mt/",
+  "tags": [
+    "tldr",
+    "manpages"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.7.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.7.1"
+          }
+        },
+        {
+          "name": "zip",
+          "str": ">= 0.3.0 & < 1.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 3.0.0 & < 4.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/disruptek/cutelog",
+          "str": ">= 2.0.0 & < 3.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "tldr"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "2e59e90903f89180358d3336e05431d703488e98",
+        "time": 1643931237
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "7ce7c0c4f3216304ed0f9012e4d5132360368149",
+        "time": 1643783330
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "7ade369ed202f9a2cc02669194d6e0ea9c7c52c1",
+        "time": 1642721639
+      }
+    ],
+    "commit": {
+      "hash": "3c93457628dd01b641e20db73e5feae15902e9cd",
+      "time": 1644638799
+    }
+  }
+}

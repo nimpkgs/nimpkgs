@@ -1,0 +1,35 @@
+{
+  "name": "timerpool",
+  "url": "https://github.com/mikra01/timerpool/",
+  "method": "git",
+  "description": "threadsafe timerpool implementation for event purpose",
+  "license": "MIT",
+  "web": "https://github.com/mikra01/timerpool",
+  "tags": [
+    "timer",
+    "pool",
+    "events",
+    "thread"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "7e42cd224442b787c628abb7fe6daeed5005e8b3",
+      "time": 1589036537
+    }
+  }
+}

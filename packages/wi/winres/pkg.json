@@ -1,0 +1,40 @@
+{
+  "name": "winres",
+  "url": "https://github.com/codehz/nim-winres",
+  "method": "git",
+  "description": "Windows resource file generator",
+  "license": "MIT",
+  "web": "https://github.com/codehz/nim-winres",
+  "tags": [
+    "windows",
+    "resource"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "6507007a2bb26004ae9f15bec53b64d4a98b161f",
+        "time": 1612990460
+      }
+    ],
+    "commit": {
+      "hash": "6507007a2bb26004ae9f15bec53b64d4a98b161f",
+      "time": 1612990460
+    }
+  }
+}

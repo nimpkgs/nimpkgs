@@ -1,0 +1,42 @@
+{
+  "name": "sparc",
+  "url": "https://github.com/ph4mished/sparc",
+  "method": "git",
+  "description": "Schema Parser for Arguments and Commands.",
+  "license": "MIT",
+  "web": "https://github.com/ph4mished/sparc",
+  "tags": [
+    "console",
+    "command-line",
+    "cli",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v.0.1.0",
+        "hash": "22ab7fcfd98001f121dab2ad0b63a1395110e386",
+        "time": 1763153406
+      }
+    ],
+    "commit": {
+      "hash": "2fe29f776678f37d8ac90153d6aa79dc9f3bf7f3",
+      "time": 1764922748
+    }
+  }
+}

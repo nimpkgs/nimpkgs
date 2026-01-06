@@ -1,0 +1,51 @@
+{
+  "name": "turso-nim",
+  "url": "https://codeberg.org/13thab/turso-nim",
+  "method": "git",
+  "description": "A new awesome nimble client for libsql and turso",
+  "license": "BSD-3-Clause",
+  "web": "https://codeberg.org/13thab/turso-nim",
+  "tags": [
+    "client",
+    "sdk",
+    "db"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "4a5d369e2e15516b99728138be151ae884b62e12",
+        "time": 1749933789
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "b0b637ed32f2010382d2223eb38aa0b601ece9d7",
+        "time": 1724079764
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "b779abacbd6f95db09ed5880f10ec77a0235b7f6",
+        "time": 1724067423
+      }
+    ],
+    "commit": {
+      "hash": "44cce7f907c7d250faf3274e506f5e239b132273",
+      "time": 1749933853
+    }
+  }
+}

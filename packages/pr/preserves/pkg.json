@@ -1,0 +1,48 @@
+{
+  "name": "preserves",
+  "url": "https://git.syndicate-lang.org/ehmry/preserves-nim",
+  "method": "git",
+  "description": "Preserves data model and serialization format",
+  "license": "ISC",
+  "web": "https://preserves.gitlab.io/preserves/",
+  "tags": [
+    "binary",
+    "library",
+    "serialization",
+    "syndicate"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.20260109",
+      "requires": [
+        {
+          "name": "https://github.com/zevv/npeg.git",
+          "str": "1.2.2",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.2.2"
+          }
+        },
+        {
+          "name": "https://git.syndicate-lang.org/ehmry/nim-bigints.git",
+          "str": "20231006",
+          "ver": {
+            "kind": "verEq",
+            "ver": "20231006"
+          }
+        }
+      ],
+      "bin": [
+        "preserves-schemac",
+        "preserves-schema-nim",
+        "preserves-encode"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "e1fe47650bee798886f70ea981013b94a6ce3443",
+      "time": 1767873600
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "jsony_plus",
+  "url": "https://github.com/thing-king/jsony_plus",
+  "method": "git",
+  "description": "An extension of `jsony` supporting better hooks, and type creation from schemas",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/jsony_plus",
+  "tags": [
+    "json",
+    "serializer",
+    "serialization",
+    "schema",
+    "jsony"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.10",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        },
+        {
+          "name": "colors",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7bfb045a698bd7d29d7863ea1bd917d1bbb9da41",
+      "time": 1741731115
+    }
+  }
+}

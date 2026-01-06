@@ -1,0 +1,17 @@
+{
+  "name": "skbintext",
+  "url": "https://github.com/skrylar/skbintext",
+  "method": "git",
+  "description": "Binary <-> text conversion.",
+  "license": "MPL",
+  "web": "https://github.com/Skrylar/skbintext",
+  "tags": [
+    "hexdigest",
+    "hexadecimal",
+    "binary",
+    "deleted"
+  ],
+  "meta": {
+    "status": "Deleted"
+  }
+}

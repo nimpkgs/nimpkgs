@@ -1,0 +1,33 @@
+{
+  "name": "vla",
+  "url": "https://github.com/bpr/vla",
+  "method": "git",
+  "description": "Variable length arrays for Nim",
+  "license": "MIT",
+  "web": "https://github.com/bpr/vla",
+  "tags": [
+    "vla",
+    "alloca"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "27580a5023e9411d9608b79d9e191a632c8e17e4",
+      "time": 1621201010
+    }
+  }
+}

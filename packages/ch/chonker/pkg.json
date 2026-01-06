@@ -1,0 +1,44 @@
+{
+  "name": "chonker",
+  "url": "https://github.com/juancarlospaco/nim-chonker",
+  "method": "git",
+  "description": "Arch Linux Pacman Optimizer",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-chonker",
+  "tags": [
+    "arch",
+    "linux",
+    "pacman"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [
+        "chonker"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "cc0a17a8bd4075042dfd0776db18eb1b4c0c92ed",
+        "time": 1572728113
+      }
+    ],
+    "commit": {
+      "hash": "82b53baf643daf606c2e6d64ce95c0aa2f5ea536",
+      "time": 1572865002
+    }
+  }
+}

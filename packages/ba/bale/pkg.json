@@ -1,0 +1,57 @@
+{
+  "name": "bale",
+  "url": "https://github.com/hamidb80/bale",
+  "method": "git",
+  "description": "Bale.ai bot API",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/bale",
+  "tags": [
+    "bale",
+    "bale.ai",
+    "bot",
+    "api",
+    "client",
+    "messanger"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "macroplus",
+          "str": ">= 0.2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "510eeeeb6ec0a8c414bc443051acc9845b40b6c0",
+        "time": 1696591115
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "6b028588d7501a0e554f1e143e92c4c9a29d029d",
+        "time": 1696575963
+      }
+    ],
+    "commit": {
+      "hash": "a2cb0b5a5f2ee0d313eeea9def1c13f768802ebf",
+      "time": 1696597954
+    }
+  }
+}

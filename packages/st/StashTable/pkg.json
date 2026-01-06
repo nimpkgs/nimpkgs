@@ -1,0 +1,60 @@
+{
+  "name": "StashTable",
+  "url": "https://github.com/olliNiinivaara/StashTable",
+  "method": "git",
+  "description": "Concurrent hash table",
+  "license": "MIT",
+  "web": "https://github.com/olliNiinivaara/StashTable",
+  "doc": "https://htmlpreview.github.io/?https://github.com/olliNiinivaara/StashTable/blob/master/src/stashtable.html",
+  "tags": [
+    "hash table",
+    "associative array",
+    "map",
+    "dictionary",
+    "key-value store",
+    "concurrent",
+    "multi-threading",
+    "parallel",
+    "data structure",
+    "benchmark"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.2",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.2.2",
+        "hash": "d472ee8611a9ed986c49fed57540d67496ea2f10",
+        "time": 1691922130
+      },
+      {
+        "tag": "1.2.1",
+        "hash": "95b01fd8be306fe3d18c733be331e878e2003fda",
+        "time": 1618395503
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "ed89b76da52e76b43702b035041d5b67b4ec6922",
+        "time": 1612962100
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "ed1b0658723555fc0355e9e9db141567a8ab8a9c",
+        "time": 1587653464
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "b8593b6ee8411bd1f75ffb88348a5580859ad434",
+        "time": 1587625407
+      }
+    ],
+    "commit": {
+      "hash": "d472ee8611a9ed986c49fed57540d67496ea2f10",
+      "time": 1691922130
+    }
+  }
+}

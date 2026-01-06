@@ -1,0 +1,67 @@
+{
+  "name": "shimsham",
+  "url": "https://github.com/apense/shimsham",
+  "method": "git",
+  "description": "Hashing/Digest collection in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/apense/shimsham",
+  "tags": [
+    "crypto",
+    "hash",
+    "hashing",
+    "digest"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.4",
+        "hash": "a025c782b8e07827840d8e15501a8e38b3dc4ce4",
+        "time": 1442462352
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "60e30d94b8b54b36350c8d2e2a65f9afe802db89",
+        "time": 1442461613
+      },
+      {
+        "tag": "v0.3.1-alpha, 0.3.2",
+        "hash": "29ffb7080d5c42c1fd12715430abe33de1be1f0b",
+        "time": 1433954814
+      },
+      {
+        "tag": "v0.2.0-alpha",
+        "hash": "526860bc49df74ad79cf0908c43566760a085428",
+        "time": 1433209448
+      },
+      {
+        "tag": "v0.1.0-alpha",
+        "hash": "539bf592eb4e42980517ec2ce213fc98a475a6fa",
+        "time": 1432773368
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "edfbc38bb56f965cc6c9606cdb2bd26f92194585",
+        "time": 1432438290
+      }
+    ],
+    "commit": {
+      "hash": "a025c782b8e07827840d8e15501a8e38b3dc4ce4",
+      "time": 1442462352
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "clblast",
+  "url": "https://github.com/numforge/nim-clblast",
+  "method": "git",
+  "description": "Wrapper for CLBlast, an OpenCL BLAS library",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/numforge/nim-clblast",
+  "tags": [
+    "BLAS",
+    "linear",
+    "algebra",
+    "vector",
+    "matrix",
+    "opencl",
+    "high",
+    "performance",
+    "computing",
+    "GPU",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        },
+        {
+          "name": "opencl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "cdadb10dd85b95c9e7248f0b9661ad1e7616efe6",
+      "time": 1697700650
+    }
+  }
+}

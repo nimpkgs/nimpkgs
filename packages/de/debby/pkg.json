@@ -1,0 +1,96 @@
+{
+  "name": "debby",
+  "url": "https://github.com/treeform/debby",
+  "method": "git",
+  "description": "Database ORM layer",
+  "license": "MIT",
+  "web": "https://github.com/treeform/debby",
+  "tags": [
+    "db",
+    "sqlite",
+    "mysql",
+    "postgresql",
+    "orm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.6.1",
+        "hash": "fa7bb049b0a5a5682792f23033583b58be3ce317",
+        "time": 1714597264
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "849f1382878cbaea98a677512bc7c460d4a07abc",
+        "time": 1707419735
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "b240a33c3511b64f03a6862031796e8f16734bc4",
+        "time": 1707415449
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "c66b3f8d68f3316cc7b1643de77d1aa445007df4",
+        "time": 1704922634
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "47e9358011eb84584b9d0245a6d6ba1be46cf90d",
+        "time": 1704492199
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "7f4d35d0ae925ea3b14a58e2c7eafa4186aa53d7",
+        "time": 1698606820
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "23f33df634657587796e584e0afe97ce6643ea71",
+        "time": 1698271217
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "3f16691eda23c65929f595b7c5538e7c815a12ff",
+        "time": 1698112578
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "7b889b15cda86e463837cebbd6d84b457e43df16",
+        "time": 1690335059
+      },
+      {
+        "tag": "0.0.0",
+        "hash": "25f387c65c14ed3a754a948f6f954296a8499ce9",
+        "time": 1690035812
+      }
+    ],
+    "commit": {
+      "hash": "fa7bb049b0a5a5682792f23033583b58be3ce317",
+      "time": 1714597264
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "geometrymath",
+  "url": "https://github.com/can-lehmann/geometrymath",
+  "method": "git",
+  "description": "Linear algebra library for computer graphics applications",
+  "license": "MIT",
+  "web": "https://github.com/can-lehmann/geometrymath",
+  "tags": [
+    "library",
+    "geometry",
+    "math",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "58e94d9d086eb117f29b8b35a6f858545df611f8",
+        "time": 1664279861
+      }
+    ],
+    "commit": {
+      "hash": "e07b2336a497ce8ba7b5ad6f957e8abc2cf1d82e",
+      "time": 1676946845
+    }
+  }
+}

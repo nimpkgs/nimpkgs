@@ -1,0 +1,51 @@
+{
+  "name": "pfring",
+  "url": "https://github.com/ba0f3/pfring.nim",
+  "method": "git",
+  "description": "PF_RING wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/pfring.nim",
+  "tags": [
+    "pf_ring",
+    "packet",
+    "sniff",
+    "pcap",
+    "pfring",
+    "network",
+    "capture",
+    "socket"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.0.3",
+        "hash": "0b3cb2c2bc5aec36edf16a38860cea70b8312861",
+        "time": 1440084112
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "7f91b8a4f123084bf870580523a2cda02cf72ffb",
+        "time": 1439947352
+      }
+    ],
+    "commit": {
+      "hash": "c3fbbd27686d24830d45c4c2ad642a9263433873",
+      "time": 1633049827
+    }
+  }
+}

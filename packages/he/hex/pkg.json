@@ -1,0 +1,24 @@
+{
+  "name": "hex",
+  "url": "https://github.com/esbullington/nimrod-hex",
+  "method": "git",
+  "description": "A simple hex package for Nim",
+  "license": "MIT",
+  "web": "https://github.com/esbullington/nimrod-hex",
+  "tags": [
+    "hex",
+    "encoding"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "ee6559b2a5d991bc9d2017878b197e6f05e9caaf",
+      "time": 1400176791
+    }
+  }
+}

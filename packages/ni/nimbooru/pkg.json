@@ -1,0 +1,58 @@
+{
+  "name": "nimbooru",
+  "url": "https://github.com/filvyb/nimbooru",
+  "method": "git",
+  "description": "Basic wrapper for APIs of various Boorus",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/filvyb/nimbooru",
+  "tags": [
+    "api",
+    "async",
+    "wrapper",
+    "booru",
+    "gelbooru"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "aa81f224fdffdadd1365d6b8d78510c760660ab0",
+        "time": 1767467350
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "17cd0bc3ce2b0402a3027f43abb03f229cf0a264",
+        "time": 1715881920
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "16d03d226886f62e9b9cf16c4d1400b4f4a687e2",
+        "time": 1709674111
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "9da6a599c2a5c770784a0e9cb2ea10bacf17b261",
+        "time": 1694726689
+      }
+    ],
+    "commit": {
+      "hash": "aa81f224fdffdadd1365d6b8d78510c760660ab0",
+      "time": 1767467350
+    }
+  }
+}

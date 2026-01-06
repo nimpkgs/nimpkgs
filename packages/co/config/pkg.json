@@ -1,0 +1,63 @@
+{
+  "name": "config",
+  "url": "https://github.com/vsajip/nim-cfg-lib",
+  "method": "git",
+  "description": "A library for working with the CFG configuration format",
+  "license": "BSD-3-Clause",
+  "web": "https://docs.red-dove.com/cfg/index.html",
+  "tags": [
+    "configuration",
+    "config",
+    "library",
+    "CFG"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nre",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "timezones",
+          "str": ">= 0.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "bb46bf3c74915c34ed38da50bc6d90ba7094897d",
+        "time": 1636453084
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "0ceaf586bbf4ecaae0e145989c251120f6bf1899",
+        "time": 1635971770
+      }
+    ],
+    "commit": {
+      "hash": "8d9c3af61030c72be5cbac7135991ec118ed03ed",
+      "time": 1741704232
+    }
+  }
+}

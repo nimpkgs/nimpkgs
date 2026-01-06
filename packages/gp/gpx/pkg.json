@@ -1,0 +1,17 @@
+{
+  "name": "gpx",
+  "url": "https://github.com/achesak/nim-gpx",
+  "method": "git",
+  "description": "Nim module for parsing GPX (GPS Exchange format) files",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-gpx",
+  "tags": [
+    "GPX",
+    "GPS",
+    "waypoint",
+    "route"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

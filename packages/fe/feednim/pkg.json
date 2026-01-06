@@ -1,0 +1,32 @@
+{
+  "name": "feednim",
+  "url": "https://github.com/johnconway/feed-nim",
+  "method": "git",
+  "description": "An Atom, RSS, and JSONfeed parser",
+  "license": "MIT",
+  "web": "https://github.com/johnconway/feed-nim",
+  "tags": [
+    "yes"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "47535cdac92c6d0cdb4fa94f5e232b2d2c6b0005",
+      "time": 1582304289
+    }
+  }
+}

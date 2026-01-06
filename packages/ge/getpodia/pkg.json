@@ -1,0 +1,66 @@
+{
+  "name": "getpodia",
+  "url": "https://github.com/thisago/getpodia",
+  "method": "git",
+  "description": "Extract Podia sites courses data",
+  "license": "GPL-3",
+  "web": "https://github.com/thisago/getpodia",
+  "tags": [
+    "scraper",
+    "podia",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.7.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nimquery",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/thisago/findxml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "scraper",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ffa38076ed5b77b17bcfc038e971dcb9bded30ba",
+      "time": 1701636088
+    }
+  }
+}

@@ -2,3 +2,4 @@ repos/
 result
 site/
 !site/index.html
+nimbleDir

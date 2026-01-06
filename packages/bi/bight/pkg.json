@@ -1,0 +1,45 @@
+{
+  "name": "bight",
+  "url": "https://github.com/auxym/bight",
+  "method": "git",
+  "description": "Byte-ordering operations with a simple read/write API.",
+  "license": "MIT",
+  "web": "https://github.com/auxym/bight",
+  "doc": "https://auxym.github.io/bight/bight.html",
+  "tags": [
+    "endianness",
+    "bytes",
+    "serialize",
+    "serialization",
+    "deserialize",
+    "deserialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "3460ad45d9f174ab81778983f746f318b1ef8d5c",
+        "time": 1683669017
+      }
+    ],
+    "commit": {
+      "hash": "35ab85cd015f40da5091d2332ed0acc9440bb0dd",
+      "time": 1763259515
+    }
+  }
+}

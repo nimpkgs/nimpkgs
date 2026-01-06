@@ -1,0 +1,41 @@
+{
+  "name": "AntTweakBar",
+  "url": "https://github.com/krux02/nimAntTweakBar",
+  "method": "git",
+  "description": "nim wrapper around the AntTweakBar c library",
+  "license": "MIT",
+  "web": "https://github.com/krux02/nimAntTweakBar",
+  "tags": [
+    "gui",
+    "opengl",
+    "rendering"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.0.2",
+        "hash": "9844876394d9bd763bc1c7f78c748ff853cc00fc",
+        "time": 1533685279
+      }
+    ],
+    "commit": {
+      "hash": "5edfe9a0c019674dba3260dc6b112611d6619c5b",
+      "time": 1632043009
+    }
+  }
+}

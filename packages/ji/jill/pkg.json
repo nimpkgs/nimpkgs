@@ -1,0 +1,60 @@
+{
+  "name": "jill",
+  "url": "https://github.com/capocasa/jill",
+  "method": "git",
+  "description": "Jill is a Nimish high-level interface to the Jack Audio Connection Kit.",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/jill",
+  "tags": [
+    "jack",
+    "dsp",
+    "audio",
+    "realtime"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "jacket",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "f442d1cee9abeea6ded2e61078229461b87e85a0",
+        "time": 1750365599
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "50f38081a7cb60b67e7565f40f3e953654d9737a",
+        "time": 1749719070
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1f3a3d10bb186a1401fd007a04f96c07ee0cd47c",
+        "time": 1747325168
+      }
+    ],
+    "commit": {
+      "hash": "103a24f340d17b4ceacb26a7681b19696956391c",
+      "time": 1753511027
+    }
+  }
+}

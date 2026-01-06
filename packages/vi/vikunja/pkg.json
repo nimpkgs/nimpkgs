@@ -1,0 +1,59 @@
+{
+  "name": "vikunja",
+  "url": "https://github.com/ruivieira/nim-vikunja",
+  "method": "git",
+  "description": "Nim REST client to Vikunja",
+  "license": "apache 2.0",
+  "web": "https://github.com/ruivieira/nim-vikunja",
+  "tags": [
+    "client",
+    "rest",
+    "project-management"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "cab20213869bc9ed5fc0543c4d283fe3d5c28232",
+        "time": 1674513245
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "328c5534a7954f5204fd9f1c1f6227502a58b87f",
+        "time": 1674427806
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0e477f08dfe446251fe9759fe985029d1355869d",
+        "time": 1674427640
+      }
+    ],
+    "commit": {
+      "hash": "cab20213869bc9ed5fc0543c4d283fe3d5c28232",
+      "time": 1674513245
+    }
+  }
+}

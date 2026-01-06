@@ -1,0 +1,49 @@
+{
+  "name": "nimongo",
+  "url": "https://github.com/SSPkrolik/nimongo",
+  "method": "git",
+  "description": "MongoDB driver in pure Nim language with synchronous and asynchronous I/O support",
+  "license": "MIT",
+  "web": "https://github.com/SSPkrolik/nimongo",
+  "tags": [
+    "mongo",
+    "mongodb",
+    "database",
+    "server",
+    "driver",
+    "storage"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [
+        {
+          "name": "scram",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "e425935b00a0ed696ad391b92f68b58755c155f4",
+        "time": 1539695190
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "a9581799304b8a6e4b7328d820695485cecea365",
+        "time": 1531345099
+      }
+    ],
+    "commit": {
+      "hash": "c07fafba7a20c61cba07f126548923a898880151",
+      "time": 1603460380
+    }
+  }
+}

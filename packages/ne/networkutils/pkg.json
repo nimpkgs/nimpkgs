@@ -1,0 +1,96 @@
+{
+  "name": "networkutils",
+  "url": "https://github.com/Q-Master/networkutils.nim",
+  "method": "git",
+  "description": "Various networking utils",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/networkutils.nim",
+  "tags": [
+    "networking",
+    "sockets",
+    "async",
+    "sync",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.00",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.00"
+          }
+        },
+        {
+          "name": "ptr_math",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.6.2",
+        "hash": "32db7c01c2b9e560a3f2a547f0e6e50443cd8c21",
+        "time": 1740825962
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "da0185f3a1f1416bb727f60cadc1f92f8e7d325b",
+        "time": 1657201249
+      },
+      {
+        "tag": "v0.6",
+        "hash": "5d43b74f8813455311318ad5ee5180e52c412ba1",
+        "time": 1657195455
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "038fd4168a526fb2135ca98cac4e72d7509a6d62",
+        "time": 1657049337
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "361d7c56692917088ee307c91da223ccc700b9d7",
+        "time": 1648588096
+      },
+      {
+        "tag": "v0.5",
+        "hash": "14b2a49b7ebe84370d1d3cf7a20ec36ea3132509",
+        "time": 1648468912
+      },
+      {
+        "tag": "v0.4",
+        "hash": "282f8b1a876fdaff8b536b31f3b687d99ca6c922",
+        "time": 1648132797
+      },
+      {
+        "tag": "v0.3",
+        "hash": "a2674ccc68cbeaefb0da2394e45c0752019b7ec5",
+        "time": 1645373509
+      },
+      {
+        "tag": "v0.2",
+        "hash": "08ead6dec8edf7ae671c1a1b91aa76a7b7ba0a5b",
+        "time": 1644682339
+      },
+      {
+        "tag": "v0.1",
+        "hash": "c44f1e543f274728c8387016c841e215c97e4270",
+        "time": 1644352746
+      }
+    ],
+    "commit": {
+      "hash": "7a2e5c255d4e40e5a6431c11b86e9d3cb7e0ce06",
+      "time": 1742239105
+    }
+  }
+}

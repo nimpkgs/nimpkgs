@@ -1,0 +1,24 @@
+{
+  "name": "shoco",
+  "url": "https://github.com/onionhammer/shoconim.git",
+  "method": "git",
+  "description": "A fast compressor for short strings",
+  "license": "MIT",
+  "web": "https://github.com/onionhammer/shoconim",
+  "tags": [
+    "compression",
+    "shoco"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f398de07893fe09a9d921dd3f354adb62b0e3a56",
+      "time": 1398476175
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "nimlz4",
+  "url": "https://github.com/dfdeshom/nimlz4.git",
+  "method": "git",
+  "description": "Nim wrapper for the LZ4 library. There is also a high-level API for easy use",
+  "license": "BSD",
+  "web": "https://github.com/dfdeshom/nimlz4",
+  "tags": [
+    "wrapper",
+    "compression",
+    "lzo",
+    "lz4"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "211aac02a0643087fb82a7f1df8294fb0c6fe5e0",
+      "time": 1451357935
+    }
+  }
+}

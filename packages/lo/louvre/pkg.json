@@ -1,0 +1,74 @@
+{
+  "name": "louvre",
+  "url": "https://github.com/xTrayambak/nim-louvre",
+  "method": "git",
+  "description": "Bindings to Louvre, a simple-to-use C++ library that lets you build high-performance compositors with minimal amounts of code.",
+  "license": "LGPL-2.1-or-later",
+  "web": "https://github.com/xTrayambak/gbm-nim",
+  "tags": [
+    "wayland",
+    "linux",
+    "louvre",
+    "compositor",
+    "window-manager"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "cppstl",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
+          }
+        },
+        {
+          "name": "colored_logger",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "61a207ef4ed5ccba0c24d769e670ba47502c3f76",
+        "time": 1764233659
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "6ab9205d4bbee02abf9d0804dc2564de1aa6529c",
+        "time": 1764229172
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "ea396198c60ec2325655ece835f755fb51335a1f",
+        "time": 1764167523
+      },
+      {
+        "tag": "2.16.3.1",
+        "hash": "2cde3f1660125803184fff2713bcdab732e9e8de",
+        "time": 1745665691
+      }
+    ],
+    "commit": {
+      "hash": "efd78956ff1ea7bd77c718f28cf898dac0054144",
+      "time": 1764669866
+    }
+  }
+}

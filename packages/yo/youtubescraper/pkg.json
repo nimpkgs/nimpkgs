@@ -1,0 +1,43 @@
+{
+  "name": "youtubescraper",
+  "url": "https://github.com/TaxMachine/youtubescraper",
+  "method": "git",
+  "description": "Very fast and lightweight YouTube scraper for Nim.",
+  "license": "WTFPL",
+  "web": "https://github.com/TaxMachine/youtubescraper",
+  "tags": [
+    "youtube",
+    "scraper",
+    "api",
+    "wrapper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0",
+        "hash": "bab1b17e754b19deb3a64800c13d82a6f8e6e852",
+        "time": 1694720532
+      }
+    ],
+    "commit": {
+      "hash": "bab1b17e754b19deb3a64800c13d82a6f8e6e852",
+      "time": 1694720532
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "traitor",
+  "url": "https://github.com/beef331/traitor",
+  "method": "git",
+  "description": "Trait-like package made without insight",
+  "license": "MIT",
+  "web": "https://github.com/beef331/traitor",
+  "tags": [
+    "trait",
+    "interfaces",
+    "vtable"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.19",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "micros",
+          "str": ">= 0.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.19",
+        "hash": "0d4c23663331a6b2e52680d2280bef30c8148675",
+        "time": 1747070595
+      },
+      {
+        "tag": "v0.2.18",
+        "hash": "826ff819780e527616b4f59f5548485a20ff1484",
+        "time": 1747069992
+      },
+      {
+        "tag": "v0.2.17",
+        "hash": "24dbd5a871c439dd820f645974de5bfe2390e311",
+        "time": 1724215604
+      },
+      {
+        "tag": "v0.2.16",
+        "hash": "14cf1e08440b917e26ca8cc9ff96becb4099cf84",
+        "time": 1723843266
+      },
+      {
+        "tag": "v0.2.15",
+        "hash": "e1accb74a9fc527025b37126a786f6c3cd011b3d",
+        "time": 1715737136
+      },
+      {
+        "tag": "v0.2.14",
+        "hash": "a5224b987daeedde83b88b7a93a4cca8d26c65b4",
+        "time": 1715736301
+      },
+      {
+        "tag": "v0.2.13",
+        "hash": "ce397c659455a3acb4e754b2e37c26f4f817d2b0",
+        "time": 1713728598
+      },
+      {
+        "tag": "v0.2.12",
+        "hash": "e3a00d4230758fa27855543aab51d4f545ddc7af",
+        "time": 1707815467
+      },
+      {
+        "tag": "v0.2.11",
+        "hash": "73c3fc74087973bf487055a6310a7f2c9a521c8a",
+        "time": 1707773948
+      },
+      {
+        "tag": "v0.2.10",
+        "hash": "3bcb71ea337c10822e1354ecd477cc990492c21d",
+        "time": 1707637494
+      },
+      {
+        "tag": "v0.2.9",
+        "hash": "10829e924a7bd67605d90b98423e7a04fe7f70db",
+        "time": 1707637324
+      },
+      {
+        "tag": "v0.2.8",
+        "hash": "b36b615ee081ea0b92bba0460c526a1f8dd87c81",
+        "time": 1707617239
+      },
+      {
+        "tag": "v0.2.7",
+        "hash": "ad129f04447e378a62ef1000bf7d4f8d43b7cd11",
+        "time": 1707260552
+      },
+      {
+        "tag": "v0.2.6",
+        "hash": "733d375b159fb20268b0c50dd5c079f485f1ca36",
+        "time": 1707260339
+      },
+      {
+        "tag": "v0.2.5",
+        "hash": "dd64946892408d1a380ada1dcfef17c0cf30eecb",
+        "time": 1707104781
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "8f257050e5ca9168a4e47810303abf50722de202",
+        "time": 1706999004
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "60db97d7113298c25e7b4f9e4f17d292fe498044",
+        "time": 1706602815
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "092ebc7d3f3b1cc18fa1f72da7695e20b0cc5375",
+        "time": 1706602594
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "8fbff8c75d3fef935d878d8cb33cd2b86c3bd8a5",
+        "time": 1705803067
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c5b4b7a79209c9ff371faf891519323f7f358ae6",
+        "time": 1644822218
+      }
+    ],
+    "commit": {
+      "hash": "0dbf3aafa2839e5c6cbb65bf5c42b36a67406e40",
+      "time": 1752784088
+    }
+  }
+}

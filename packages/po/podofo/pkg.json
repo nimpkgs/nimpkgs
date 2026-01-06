@@ -1,0 +1,33 @@
+{
+  "name": "podofo",
+  "url": "https://github.com/fox0430/nim-podofo",
+  "method": "git",
+  "description": "Nim bindings for PoDoFo libary",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/nim-podofo",
+  "tags": [
+    "binding",
+    "pdf"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "00c1f26728dd236e71fd6011610f530b35476508",
+      "time": 1765174002
+    }
+  }
+}

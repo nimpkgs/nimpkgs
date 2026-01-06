@@ -1,0 +1,45 @@
+{
+  "name": "cppconst",
+  "url": "https://github.com/sls1005/nim-cppconst",
+  "method": "git",
+  "description": "Nim wrapper for C++ const-qualified types.",
+  "license": "MIT",
+  "web": "https://github.com/sls1005/nim-cppconst",
+  "tags": [
+    "cpp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "726613be82c59d10bfda49033697799eb397ba93",
+        "time": 1712153709
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "9ed7067f96594c37a09351aecd81f17059dade0a",
+        "time": 1708948133
+      },
+      {
+        "tag": "v0.2.0, 0.2.0",
+        "hash": "0747204118298195bc6fce2ec3d26d2ee7b00d17",
+        "time": 1708871774
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ef1663c030249032d0c2d9305188419d8e67234c",
+        "time": 1708580777
+      }
+    ],
+    "commit": {
+      "hash": "e4f05199747208a1b1747121368e49b53a7f9b61",
+      "time": 1717850417
+    }
+  }
+}

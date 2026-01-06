@@ -1,0 +1,33 @@
+{
+  "name": "binaryheap",
+  "url": "https://github.com/bluenote10/nim-heap",
+  "method": "git",
+  "description": "Simple binary heap implementation",
+  "license": "MIT",
+  "web": "https://github.com/bluenote10/nim-heap",
+  "tags": [
+    "heap",
+    "priority queue"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b53c8312917acc2881d001b731dc4e2fa0c4b348",
+      "time": 1623230603
+    }
+  }
+}

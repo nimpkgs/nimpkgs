@@ -1,0 +1,65 @@
+{
+  "name": "hashtree_abi",
+  "url": "https://github.com/OffchainLabs/hashtree",
+  "method": "git",
+  "description": "Low-level ABI package for hashtree, a SHA256 implementation specialized for merkle trees and 64-byte chunks",
+  "license": "MIT",
+  "web": "https://github.com/OffchainLabs/hashtree",
+  "tags": [
+    "library",
+    "ssz",
+    "serialization",
+    "ethereum",
+    "hash",
+    "crypto",
+    "sha256"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.3",
+        "hash": "6049f7738e28b7f50db427eb7e89f775315c9274",
+        "time": 1767897002
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "4277a136f1e7181e142bb6c60bc781ada1db13f8",
+        "time": 1767715623
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "a3d1915488c6ecd159e15acc235b2783995e5431",
+        "time": 1765296956
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "67979dccfc99b02b488ed8f5fddee9f09aea411e",
+        "time": 1723740831
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "616c243905b38285373771a30e9ba13bf96a3aa8",
+        "time": 1714667427
+      }
+    ],
+    "commit": {
+      "hash": "6049f7738e28b7f50db427eb7e89f775315c9274",
+      "time": 1767897002
+    }
+  }
+}

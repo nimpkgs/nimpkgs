@@ -1,0 +1,53 @@
+{
+  "name": "jestercookiemsgs",
+  "url": "https://github.com/JohnAD/jestercookiemsgs",
+  "method": "git",
+  "description": "A Jester web plugin that allows easy message passing between pages using a browser cookie.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jestercookiemsgs",
+  "tags": [
+    "web",
+    "jester",
+    "cookie",
+    "message",
+    "notify",
+    "notification",
+    "plugin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "jesterwithplugins",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "27a6b7c5bc5dfe4520183bfa31a627070dd8d3af",
+        "time": 1592091737
+      }
+    ],
+    "commit": {
+      "hash": "27a6b7c5bc5dfe4520183bfa31a627070dd8d3af",
+      "time": 1592091737
+    }
+  }
+}

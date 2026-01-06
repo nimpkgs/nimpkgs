@@ -1,0 +1,42 @@
+{
+  "name": "FastKiss",
+  "url": "https://github.com/mrhdias/fastkiss",
+  "method": "git",
+  "description": "FastCGI Web Framework for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/mrhdias/fastkiss",
+  "tags": [
+    "fastcgi",
+    "framework",
+    "web"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "9f5916edb782d2c0fc828dcbf29df779a1300690",
+      "time": 1708725726
+    }
+  }
+}

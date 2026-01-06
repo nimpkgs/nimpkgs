@@ -1,0 +1,34 @@
+{
+  "name": "sumtypes",
+  "url": "https://github.com/beef331/sumtypes",
+  "method": "git",
+  "description": "Simple variant generator empowering easy heterogeneous type operations",
+  "license": "MIT",
+  "web": "https://github.com/beef331/sumtypes",
+  "tags": [
+    "variant",
+    "sumtype",
+    "type"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e0951418317195bce2b867a0d9c9ec9d19de2ca5",
+      "time": 1645869460
+    }
+  }
+}

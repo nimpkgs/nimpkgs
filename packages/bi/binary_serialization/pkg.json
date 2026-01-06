@@ -1,0 +1,50 @@
+{
+  "name": "binary_serialization",
+  "url": "https://github.com/status-im/nim-binary-serialization",
+  "method": "git",
+  "description": "Binary packed serialization compatible with the status-im/nim-serialization framework",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-binary-serialization",
+  "tags": [
+    "library",
+    "binary",
+    "serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.16",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.16"
+          }
+        },
+        {
+          "name": "serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "38a73a70fd43f3835ca01a877353858b19e39d70",
+      "time": 1697469322
+    }
+  }
+}

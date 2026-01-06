@@ -1,0 +1,36 @@
+{
+  "name": "nimstopwatch",
+  "url": "https://github.com/twist-vector/nim-stopwatch.git",
+  "method": "git",
+  "description": "A Nim-based, non-graphical application designed to measure the amount of time elapsed from its activation to deactivation, includes total elapsed time, lap, and split times.",
+  "license": "LGPL",
+  "web": "https://github.com/twist-vector/nim-stopwatch",
+  "tags": [
+    "app",
+    "timer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [
+        "stopwatch"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "6a06320cecd19ea413415b9c0fb3340a53673d52",
+      "time": 1448391345
+    }
+  }
+}

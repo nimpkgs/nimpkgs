@@ -1,0 +1,88 @@
+{
+  "name": "mcd",
+  "url": "https://gitlab.com/malicious-commit-detector/mcd",
+  "method": "git",
+  "description": "Application to detect which commit generates malicious code detection by antivirus software.",
+  "license": "MIT",
+  "web": "https://gitlab.com/malicious-commit-detector/mcd",
+  "tags": [
+    "antivirus",
+    "utility",
+    "binary"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "parsetoml",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        },
+        {
+          "name": "colorizeEcho",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "mcd"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.3.2",
+        "hash": "dacf276156c3f9b59561293eb473f63d555ebc6d",
+        "time": 1640790654
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "4af7595a08be630e3e73a011c47fb183c6f808bb",
+        "time": 1635885623
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "34cc8ae756a2144f5e0ee57a3614d33667e4d7e6",
+        "time": 1625257779
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "c972cfc4c74b1a992d7d8832955962a02c7163cf",
+        "time": 1624657550
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "689d7aed62810f73d97eff8d713c17a21a48e58e",
+        "time": 1624259678
+      }
+    ],
+    "commit": {
+      "hash": "46ebb49878fcd37153833cda887ec8ceb5dcddcd",
+      "time": 1677876148
+    }
+  }
+}

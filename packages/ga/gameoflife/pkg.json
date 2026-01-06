@@ -1,0 +1,53 @@
+{
+  "name": "gameoflife",
+  "url": "https://github.com/jiro4989/gameoflife",
+  "method": "git",
+  "description": "gameoflife is library for Game of Life.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/gameoflife",
+  "tags": [
+    "gameoflife",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "gameoflife"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.4.0",
+        "hash": "e38cda2ac81f4adf355cbbe3b0c95d5cbac7dcbd",
+        "time": 1658498357
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "32b342cb74d08683523603ee899af34d69248734",
+        "time": 1647518394
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "35b5c0cf4bb7b9d05329f8ac3baa6abc9d828ca4",
+        "time": 1647430346
+      }
+    ],
+    "commit": {
+      "hash": "9d45f2784dfe6f677941ae9d61344486f723e2b6",
+      "time": 1710910769
+    }
+  }
+}

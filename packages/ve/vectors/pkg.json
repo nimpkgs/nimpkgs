@@ -1,0 +1,34 @@
+{
+  "name": "vectors",
+  "url": "https://github.com/blamestross/nimrod-vectors",
+  "method": "git",
+  "description": "Simple multidimensional vector math",
+  "license": "MIT",
+  "web": "https://github.com/blamestross/nimrod-vectors",
+  "tags": [
+    "math",
+    "vectors",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.9.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "70a6c78bdaa7684c6916276064fac528354759f8",
+      "time": 1404260095
+    }
+  }
+}

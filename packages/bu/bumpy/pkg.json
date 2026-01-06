@@ -1,0 +1,98 @@
+{
+  "name": "bumpy",
+  "url": "https://github.com/treeform/bumpy",
+  "method": "git",
+  "description": "2d collision library for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/bumpy",
+  "tags": [
+    "2d",
+    "collision"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.3",
+        "hash": "edc6e19ddbe6b9e46c3384e9a4131d7063a3f610",
+        "time": 1757132630
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "d7eaf00c24820ad0317c9926737402e62431e931",
+        "time": 1688132421
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "2801fcff08996f3eb79ddfe8ebcb6e0ff8c19d19",
+        "time": 1653184720
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "3f7e53bbb37628366fc63acad0367799a3a23d69",
+        "time": 1648862345
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "8169edb3697d7b33fea0b1bdac38ebb172e0ae1a",
+        "time": 1616792568
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "e5edde5d4b9ddbb40b1fc5584637546af5e4ed4d",
+        "time": 1613339539
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "cd27d3c602eb5b4b00593f426afd41dcb6ced578",
+        "time": 1611545709
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "10d49a57e4fb319591a11e7ff706978a41fe298d",
+        "time": 1610387686
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "46abca5968bb969eea111916f25c46bc78532f33",
+        "time": 1607653005
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "f272b79b74e4cf5d134a77edd8740552a39293a7",
+        "time": 1607651167
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "84f2c15e6675a866a6ffcb06fd4000cc6c09d1a0",
+        "time": 1607581568
+      }
+    ],
+    "commit": {
+      "hash": "dc9a3d6d15680ec7f603959d65ba8ee4f1ddbc72",
+      "time": 1758391972
+    }
+  }
+}

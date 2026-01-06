@@ -1,0 +1,15 @@
+{
+  "name": "nish",
+  "url": "https://github.com/owlinux1000/nish",
+  "method": "git",
+  "description": "A Toy Shell Application",
+  "license": "MIT",
+  "web": "https://github.com/owlinux1000/nish",
+  "tags": [
+    "nish",
+    "shell"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

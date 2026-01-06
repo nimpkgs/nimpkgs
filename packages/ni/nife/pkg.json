@@ -1,0 +1,51 @@
+{
+  "name": "nife",
+  "url": "https://github.com/ANSI-D/NiFE",
+  "method": "git",
+  "description": "A simple terminal file manager for Linux and MacOS inspired by Ranger FM",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/ANSI-D/NiFE",
+  "tags": [
+    "file-manager",
+    "terminal-based",
+    "linux",
+    "files",
+    "unix"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "nife"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v.0.1.2",
+        "hash": "fba0169e22a17259ffee5cf492cdfb2b94574558",
+        "time": 1756487087
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "24167483da7980d00fa98e3ce0206ecf58f9607f",
+        "time": 1753296084
+      }
+    ],
+    "commit": {
+      "hash": "7e9730301c1c1b2526750fe63735f5fbeeab58eb",
+      "time": 1760644925
+    }
+  }
+}

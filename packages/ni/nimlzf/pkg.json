@@ -1,0 +1,50 @@
+{
+  "name": "nimlzf",
+  "url": "https://github.com/Anuken/nimlzf",
+  "method": "git",
+  "description": "Nim wrapper of the liblzf C library.",
+  "license": "MIT",
+  "web": "https://github.com/Anuken/nimlzf",
+  "tags": [
+    "compression",
+    "lzf"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.1",
+        "hash": "47df2c021f73a75ef18208de7282dd704ad72b56",
+        "time": 1760815139
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "a3d18587bfadd85c2b174aed766f80fd5bb49f34",
+        "time": 1760806454
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "d9bad1dca9d52fba51c4c9b877a3d23c0acf6ffb",
+        "time": 1760797593
+      }
+    ],
+    "commit": {
+      "hash": "50073102ffdaef076f378ac77c3a599c40c02cf9",
+      "time": 1762625848
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "alut",
+  "url": "https://github.com/rmt/alut",
+  "method": "git",
+  "description": "OpenAL Utility Toolkit (ALUT)",
+  "license": "LGPL-2.1",
+  "web": "https://github.com/rmt/alut",
+  "tags": [
+    "alut",
+    "openal",
+    "audio",
+    "sound"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "openal",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d03e506af02e2bb85cde9e65bcca13495b7e8629",
+      "time": 1585210734
+    }
+  }
+}

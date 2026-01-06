@@ -1,0 +1,35 @@
+{
+  "name": "nordaudio",
+  "url": "https://github.com/Psirus/nordaudio",
+  "method": "git",
+  "description": "A small wrapper around PortAudio for cross-platform audio IO.",
+  "license": "MIT",
+  "web": "https://github.com/Psirus/nordaudio",
+  "tags": [
+    "sound",
+    "audio",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "dcc5ca5ce5d477fb6c145d37386b517347867151",
+      "time": 1640252944
+    }
+  }
+}

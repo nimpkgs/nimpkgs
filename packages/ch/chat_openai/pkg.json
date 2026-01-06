@@ -1,0 +1,64 @@
+{
+  "name": "chat_openai",
+  "url": "https://github.com/joshuajohncohen/chat_openai-nim",
+  "method": "git",
+  "description": "A CLI for the Chat series of models provided by OpenAI",
+  "license": "MIT",
+  "web": "https://github.com/joshuajohncohen/chat_openai-nim",
+  "tags": [
+    "openai",
+    "chatgpt",
+    "chat",
+    "client",
+    "cli",
+    "gpt4",
+    "gpt-4",
+    "gpt"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        }
+      ],
+      "bin": [
+        "chat_openai"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "32613593122694f5f553866726be353a563f99be",
+        "time": 1684760509
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "370b89522a969cb24b21b5da6246a640e5e46017",
+        "time": 1684508841
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "3840b665ed3e8c8900ea03fb3b4c0cee7805d83f",
+        "time": 1684427504
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c6c127cafdd97a9bc59cdb02ad97b708156331ba",
+        "time": 1684340179
+      }
+    ],
+    "commit": {
+      "hash": "b74c801dd3f634ae56c69bafac4dab730a99e406",
+      "time": 1684868346
+    }
+  }
+}

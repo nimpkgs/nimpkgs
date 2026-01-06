@@ -1,0 +1,107 @@
+{
+  "name": "gen",
+  "url": "https://github.com/Adeohluwa/gen",
+  "method": "git",
+  "description": "Boilerplate generator for Jester web framework",
+  "license": "MIT",
+  "web": "https://github.com/Adeohluwa/gen",
+  "tags": [
+    "library",
+    "jester",
+    "boilerplate",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        },
+        {
+          "name": "progress",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "docopt",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "fab",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "gara",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "gen"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.4.0",
+        "hash": "7c25d0fca7d34fde8ddf948972b4b029214dd40d",
+        "time": 1582234733
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "2ae3784f556c77c4edd1fac8e9eae5275441e10c",
+        "time": 1578662129
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "df0c65f28707d62ec2c52ab681e5490f3658e9c0",
+        "time": 1576847617
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "168fab9431140f35459dfc6adc1f51d4fdc25b7b",
+        "time": 1576537656
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "528c6fac0e173c4b026be006e7394d37f1cc1034",
+        "time": 1575812780
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "c1f14cead5ce0eeb1116823dcac007dd993bc043",
+        "time": 1575809105
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "646d31ce7d8a8410a04022b77cd463a82051a9da",
+        "time": 1574973013
+      }
+    ],
+    "commit": {
+      "hash": "7c25d0fca7d34fde8ddf948972b4b029214dd40d",
+      "time": 1582234733
+    }
+  }
+}

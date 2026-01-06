@@ -1,0 +1,66 @@
+{
+  "name": "metrics",
+  "url": "https://github.com/status-im/nim-metrics",
+  "method": "git",
+  "description": "Nim metrics client library supporting the Prometheus monitoring toolkit",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-metrics",
+  "tags": [
+    "library",
+    "metrics",
+    "prometheus",
+    "statsd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.3"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "11d0cddfb0e711aa2a8c75d1892ae24a64c299fc",
+        "time": 1746518714
+      }
+    ],
+    "commit": {
+      "hash": "9b9afee96357ad82dabf4563cf292f89b50423df",
+      "time": 1762157736
+    }
+  }
+}

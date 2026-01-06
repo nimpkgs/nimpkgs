@@ -1,0 +1,80 @@
+{
+  "name": "DotNimRemoting",
+  "url": "https://github.com/filvyb/DotNimRemoting",
+  "method": "git",
+  "description": "library for communicating with .NET applications using MS-NRTP",
+  "license": "MIT",
+  "web": "https://github.com/filvyb/DotNimRemoting",
+  "tags": [
+    "dotnet",
+    "remoting",
+    "nrbf",
+    "nrtp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.5.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "faststreams",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.9.5.1",
+        "hash": "a1e78dd0b137e3819a84a1f9996d3ab80358b82b",
+        "time": 1766515553
+      },
+      {
+        "tag": "0.9.5",
+        "hash": "328b8d01654dc4cadc544a98c4e6d9f14305c388",
+        "time": 1750528155
+      },
+      {
+        "tag": "0.9.4",
+        "hash": "a3a97df65a01c22bbca83b18f0777a20b7edf16f",
+        "time": 1750266865
+      },
+      {
+        "tag": "0.9.3",
+        "hash": "31fb76a2bcc6f6e18334f981171f155a39c1e98b",
+        "time": 1750089903
+      },
+      {
+        "tag": "0.9.2",
+        "hash": "3703458a746340aaadb7146748a5479e3127642e",
+        "time": 1742934876
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "4b79a4c4ebaca7070a05a33fee583087681513e8",
+        "time": 1742920734
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "dc3d8c6279bef5a77e5140c0b7647609c474cc35",
+        "time": 1742762695
+      }
+    ],
+    "commit": {
+      "hash": "a1e78dd0b137e3819a84a1f9996d3ab80358b82b",
+      "time": 1766515553
+    }
+  }
+}

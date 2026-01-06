@@ -1,0 +1,67 @@
+{
+  "name": "nimpari",
+  "url": "https://github.com/BarrOff/nim-pari",
+  "method": "git",
+  "description": "Nim wrapper for the PARI library",
+  "license": "MIT",
+  "web": "https://github.com/BarrOff/nim-pari",
+  "tags": [
+    "library",
+    "wrapper",
+    "math",
+    "cas",
+    "scientific",
+    "number-theory"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.6.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.11"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "e39042f6758727122a0567cb32ec5365bc56b7df",
+        "time": 1609601590
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "0cbf2d0096a689be79758500bd52f8ec21eb13b4",
+        "time": 1599081620
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "7ea1f08d4c00cf1e9f92c78a2c487f399a901f19",
+        "time": 1589365909
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "860b04e2ccecea61aef90583249ae9cadf91e5f5",
+        "time": 1587822781
+      }
+    ],
+    "commit": {
+      "hash": "7d6417a7d8d4d56e7279db2e4a3f58080e3f2488",
+      "time": 1638909242
+    }
+  }
+}

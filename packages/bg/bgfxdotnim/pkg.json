@@ -1,0 +1,37 @@
+{
+  "name": "bgfxdotnim",
+  "url": "https://github.com/zacharycarter/bgfx.nim",
+  "method": "git",
+  "description": "bindings to bgfx c99 api",
+  "license": "MIT",
+  "web": "https://github.com/zacharycarter/bgfx.nim",
+  "tags": [
+    "bgfx",
+    "3d",
+    "vulkan",
+    "opengl",
+    "metal",
+    "directx"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "eeb8b174b9a1a5bacbb182cda9f514d60ce54ba5",
+      "time": 1568659753
+    }
+  }
+}

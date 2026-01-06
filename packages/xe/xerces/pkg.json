@@ -1,0 +1,33 @@
+{
+  "name": "xerces",
+  "url": "https://github.com/fox0430/nim-xerces",
+  "method": "git",
+  "description": "Nim bindings for Apache Xerces-C++",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/nim-xerces",
+  "tags": [
+    "binding",
+    "xml"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f666ac08a36c59e83f6c8e264889bfd2b77756dc",
+      "time": 1765257003
+    }
+  }
+}

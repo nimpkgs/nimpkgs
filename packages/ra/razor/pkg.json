@@ -1,0 +1,37 @@
+{
+  "name": "razor",
+  "url": "https://github.com/navid-m/razor",
+  "method": "git",
+  "description": "Library for data analysis and manipulation, equivalent to Pandas.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/navid-m/razor",
+  "tags": [
+    "pandas",
+    "polars",
+    "data-science",
+    "dataframe",
+    "dataframes",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "05a0fff002166967188632aeb7e8e17041cd80b0",
+      "time": 1762869535
+    }
+  }
+}

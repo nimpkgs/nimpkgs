@@ -1,0 +1,43 @@
+{
+  "name": "htmlparser",
+  "url": "https://github.com/nim-lang/htmlparser",
+  "method": "git",
+  "description": "Parse a HTML document in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/htmlparser",
+  "tags": [
+    "parser",
+    "HTML",
+    "official",
+    "web",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "5ffa3021d78e79f18482192548b8bd835002f7ab",
+        "time": 1698414708
+      }
+    ],
+    "commit": {
+      "hash": "c3ab4d5157759ad1a3b67be5b4562f44c55c0ef7",
+      "time": 1764066526
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "asciitables",
+  "url": "https://github.com/xmonader/nim-asciitables",
+  "method": "git",
+  "description": "terminal ascii tables for nim",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/xmonader/nim-asciitables",
+  "tags": [
+    "ascii",
+    "terminal",
+    "tables",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "17adfde12e6362249783662fae3fc7fd457a6348",
+      "time": 1559143194
+    }
+  }
+}

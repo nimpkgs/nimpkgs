@@ -1,0 +1,58 @@
+{
+  "name": "genderize",
+  "url": "https://github.com/nemuelw/genderize",
+  "method": "git",
+  "description": "Nim wrapper for the Genderize.io API",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nemuelw/genderize",
+  "tags": [
+    "genderize",
+    "genderizeio",
+    "genderize.io",
+    "genderize-api",
+    "nim",
+    "wrapper",
+    "api-wrapper",
+    "nim-wrapper",
+    "client",
+    "api-client",
+    "nim-client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "736a8d23c60cb6c9018f0fd72f70d97cec06a0e6",
+      "time": 1752086865
+    }
+  }
+}

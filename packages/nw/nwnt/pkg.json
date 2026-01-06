@@ -1,0 +1,112 @@
+{
+  "name": "nwnt",
+  "url": "https://github.com/WilliamDraco/NWNT",
+  "method": "git",
+  "description": "GFF <-> NWNT Converter (NeverWinter Nights Text)",
+  "license": "MIT",
+  "web": "https://github.com/WilliamDraco/NWNT",
+  "tags": [
+    "nwn",
+    "neverwinternights",
+    "neverwinter",
+    "game",
+    "bioware"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "neverwinter",
+          "str": ">= 1.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.1"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.8"
+          }
+        }
+      ],
+      "bin": [
+        "nwn_nwnt"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.4.1",
+        "hash": "e10e2bf30e0caab652972a394ab10c6765eba7ca",
+        "time": 1690941040
+      },
+      {
+        "tag": "v1.4.0",
+        "hash": "1bdecb2bf5a4c30a6f14512f8d113911579e60ca",
+        "time": 1688296659
+      },
+      {
+        "tag": "v1.3.3",
+        "hash": "bb94e1f98e8601a485680851ce5206194f7670f5",
+        "time": 1626477176
+      },
+      {
+        "tag": "v1.3.2",
+        "hash": "d1a70527e4c93356dfd68f6e95849db37e589e8e",
+        "time": 1609549595
+      },
+      {
+        "tag": "v1.3.1",
+        "hash": "2e0637b1296c985b7512188961a90128d29e8955",
+        "time": 1609500779
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "112f96467fb8d5ba091074bf9255c03bf10b9cde",
+        "time": 1608802251
+      },
+      {
+        "tag": "v1.2.2",
+        "hash": "6a81f111ddb1e0429535fb831d2a43bdb2527a12",
+        "time": 1606393401
+      },
+      {
+        "tag": "v1.2.1",
+        "hash": "7fa7525a5c36a2088cd622db0e704d0f1129316c",
+        "time": 1605534552
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "5e699da55e416fcb5cb570eacdd70e570e3aadcc",
+        "time": 1605409648
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "b5bae3c6e37bb52387ecd253691a3351138e9751",
+        "time": 1605320055
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "4eff7fca8b169ef926779b01a96111ce4f58f9f7",
+        "time": 1605267176
+      }
+    ],
+    "commit": {
+      "hash": "692bd26a0a2c3f0becf1b3ab7b733cf5f2264976",
+      "time": 1695644786
+    }
+  }
+}

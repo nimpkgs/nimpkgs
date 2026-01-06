@@ -1,0 +1,113 @@
+{
+  "name": "textformats",
+  "url": "https://github.com/ggonnella/textformats",
+  "method": "git",
+  "description": "Easy specification of text formats for structured data",
+  "license": "ISC",
+  "web": "https://github.com/ggonnella/textformats",
+  "tags": [
+    "parsing",
+    "formats",
+    "textfiles",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "1.5.19",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.5.19"
+          }
+        },
+        {
+          "name": "yaml",
+          "str": "0.16.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.16.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": "0.19.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "nimpy",
+          "str": "0.2.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "msgpack4nim",
+          "str": "0.3.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.3.1"
+          }
+        }
+      ],
+      "bin": [
+        "tf_spec",
+        "tf_decode",
+        "tf_validate",
+        "tf_encode"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.2.3",
+        "hash": "21582760ef24167a27241d0608180b3b0f20910e",
+        "time": 1676480176
+      },
+      {
+        "tag": "v1.2.2",
+        "hash": "341798a71d6bfd43b9b604faba0554c0f52375f2",
+        "time": 1645101900
+      },
+      {
+        "tag": "v1.2.1",
+        "hash": "a1e46aa52b5ad67e1884642491e5db684e33babc",
+        "time": 1644958484
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "8c19af7bf81935a9f6b649721478dafef85109df",
+        "time": 1644750390
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "8df0873b514ec203cb7c43862f48ee03662803b2",
+        "time": 1636737694
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "2e0c4ae6e28fffc68115639748ae30d1ad85db44",
+        "time": 1636561227
+      }
+    ],
+    "commit": {
+      "hash": "ce5fb38f0ee5c2b645b0befe9874e94a53121d26",
+      "time": 1677512983
+    }
+  }
+}

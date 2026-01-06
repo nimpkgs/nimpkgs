@@ -1,0 +1,80 @@
+{
+  "name": "nimsight",
+  "url": "https://github.com/ire4ever1190/nimsight",
+  "method": "git",
+  "description": "LSP implementation for Nim based on `nim check`",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/nimsight",
+  "tags": [
+    "lsp",
+    "tooling"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "anano",
+          "str": ">= 0.2.1 & < 0.3.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "threading",
+          "str": "#c5a39a0",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/status-im/nim-minilru",
+          "str": "#c353041",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/ire4ever1190/jaysonrpc",
+          "str": "#0f1f4fc",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nimsight"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "857a3da8227857caa35173b96e6e4f56620db1e2",
+        "time": 1766823471
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "2fde22977fde87d398dd9553235c88721d95004a",
+        "time": 1746345600
+      }
+    ],
+    "commit": {
+      "hash": "a8fe0566ea0c7d6d180362632ea58ebb4af2c9c1",
+      "time": 1767954644
+    }
+  }
+}

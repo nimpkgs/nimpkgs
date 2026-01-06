@@ -1,0 +1,43 @@
+{
+  "name": "littlefs",
+  "url": "https://github.com/Graveflo/nim-littlefs.git",
+  "method": "git",
+  "description": "API and bindings for littlefs. Includes a fuse implementation.",
+  "license": "BSD-3-Clause-1",
+  "web": "https://github.com/Graveflo/nim-littlefs",
+  "tags": [
+    "littlefs",
+    "embedded",
+    "filesystem",
+    "fuse"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.1"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "164eb9834785fc60d8fce3ddc79695e2e7575df3",
+      "time": 1707669936
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "enet",
+  "url": "https://github.com/fowlmouth/nimrod-enet/",
+  "method": "git",
+  "description": "Wrapper for ENet UDP networking library",
+  "license": "MIT",
+  "web": "https://github.com/fowlmouth/nimrod-enet",
+  "tags": [
+    "game",
+    "networking",
+    "udp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.3",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "352192e3dcf4cf8ea42613c9595ad313754d896e",
+      "time": 1543361714
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "sprymicro",
+  "url": "https://github.com/gokr/sprymicro",
+  "method": "git",
+  "description": "Small demo Spry interpreters",
+  "license": "MIT",
+  "web": "https://github.com/gokr/sprymicro",
+  "tags": [
+    "spry",
+    "demo"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "spryvm",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "sprymicro",
+        "sprymin"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f4ae830760d0a7fddb79bf80cc595e8239d8b3c4",
+      "time": 1512165981
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "json_serialization",
+  "url": "https://github.com/status-im/nim-json-serialization",
+  "method": "git",
+  "description": "Flexible JSON serialization not relying on run-time type information",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-json-serialization",
+  "tags": [
+    "library",
+    "json",
+    "serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "faststreams",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.4.4",
+        "hash": "c343b0e243d9e17e2c40f3a8a24340f7c4a71d44",
+        "time": 1760465433
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "e076cb9a2dff30e13aad0bb4a13049da86d07967",
+        "time": 1753852188
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "c20d95ac196bb5b95a2b205cd39c1196cc6f5f9c",
+        "time": 1753717913
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "53267308d00ed57c05e107f58a647cccb7468c59",
+        "time": 1753338916
+      },
+      {
+        "tag": "v0.2.9",
+        "hash": "6eadb6e939ffa7882ff5437033c11a9464d3385c",
+        "time": 1729330097
+      }
+    ],
+    "commit": {
+      "hash": "a6dcf03e04e179127a5fcb7e495d19a821d56c17",
+      "time": 1762463701
+    }
+  }
+}

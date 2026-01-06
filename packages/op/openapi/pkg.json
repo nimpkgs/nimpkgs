@@ -1,0 +1,173 @@
+{
+  "name": "openapi",
+  "url": "https://github.com/disruptek/openapi",
+  "method": "git",
+  "description": "OpenAPI Code Generator",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/openapi",
+  "tags": [
+    "api",
+    "openapi",
+    "rest",
+    "cloud"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.4.0",
+      "requires": [
+        {
+          "name": "npeg",
+          "str": "< 2.0.0",
+          "ver": {
+            "kind": "verEarlier",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "foreach",
+          "str": ">= 1.0.1 & < 2.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/disruptek/rest.git",
+          "str": ">= 1.0.3 & < 2.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "3.4.0",
+        "hash": "f0fabca3f7c7df44e0df7eecc6b804f701bfadb6",
+        "time": 1723214415
+      },
+      {
+        "tag": "4.0.1",
+        "hash": "4f584fd20985955c15b13f912aa38a998c300b2c",
+        "time": 1682451925
+      },
+      {
+        "tag": "4.0.0",
+        "hash": "65f77486593e27cfd85f622b7eb04ce25af28885",
+        "time": 1677712640
+      },
+      {
+        "tag": "3.3.1",
+        "hash": "6a4424fc184c61781b16d5f75cdd3d809736673f",
+        "time": 1628463390
+      },
+      {
+        "tag": "3.3.0",
+        "hash": "5a797bc4a3c7eae0b8c18c41d5b006f6e083c7f8",
+        "time": 1624049259
+      },
+      {
+        "tag": "3.2.2",
+        "hash": "e40c2249d845c6f8c65e63c7a612ade5a18a1148",
+        "time": 1604854098
+      },
+      {
+        "tag": "3.2.1",
+        "hash": "dc2874b7b8cf577425f6e2b8e0fb95b8a0ebf579",
+        "time": 1601302614
+      },
+      {
+        "tag": "3.2.0",
+        "hash": "d6c03c658dccde21dc32b7ae21411364b73f04ec",
+        "time": 1593100010
+      },
+      {
+        "tag": "3.1.7",
+        "hash": "953bb02535a132ef0b155f64721338de87f79178",
+        "time": 1590427655
+      },
+      {
+        "tag": "3.1.6",
+        "hash": "a607768052d6d8487d6c8ebbd0d8f521793d67c1",
+        "time": 1588303061
+      },
+      {
+        "tag": "3.1.5",
+        "hash": "fa14318c21621350a0dd4c8c4adb28d2879beb6f",
+        "time": 1588282646
+      },
+      {
+        "tag": "3.1.4",
+        "hash": "ad6f112cb367d6afe4794bd7e60844f962ed1b2d",
+        "time": 1579540820
+      },
+      {
+        "tag": "3.1.3",
+        "hash": "7f5980e7d15fe301e22c42632b566da20149aa17",
+        "time": 1572904213
+      },
+      {
+        "tag": "3.1.2",
+        "hash": "3538a379b81f6eb15ad8b902fd4cb5e1e2e7ad6c",
+        "time": 1571533981
+      },
+      {
+        "tag": "3.1.1",
+        "hash": "0957c684ecccdeaf16a4e952ce0498a24a4b65f1",
+        "time": 1571435837
+      },
+      {
+        "tag": "3.1.0",
+        "hash": "3f1d33048bcb99bbf0805d650d9ccb736543a5c4",
+        "time": 1569711014
+      },
+      {
+        "tag": "3.0.1",
+        "hash": "3a291bf44d352dd81bd55566e86ee754a0ef3c19",
+        "time": 1569689981
+      },
+      {
+        "tag": "3.0.0",
+        "hash": "29fa150208a01a1114eb549852dee1c317052a81",
+        "time": 1569688075
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "e146b5443091e9268363a16f640efd1540184c3e",
+        "time": 1569262694
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "306ec5b1182463759512018723690dda41bec9d8",
+        "time": 1569259155
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "d2b6b063d06b968bb6b0fbd4c27ac55191b330b7",
+        "time": 1569206756
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "90f13c7378999bedb9129022e716859879a64441",
+        "time": 1569161814
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "1d003cdb5e6589d1b858163f8a5367b7e557fbb3",
+        "time": 1569036332
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "9ad11b94ad183031b49a7fb0c763b5a2455bbbfa",
+        "time": 1568915496
+      }
+    ],
+    "commit": {
+      "hash": "4f584fd20985955c15b13f912aa38a998c300b2c",
+      "time": 1682451925
+    }
+  }
+}

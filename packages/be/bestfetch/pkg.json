@@ -1,0 +1,130 @@
+{
+  "name": "bestfetch",
+  "url": "https://gitlab.com/Maxb0tbeep/bestfetch",
+  "method": "git",
+  "description": "a customizable, beautiful, and blazing fast system fetch",
+  "license": "GPLv3",
+  "web": "https://gitlab.com/Maxb0tbeep/bestfetch",
+  "tags": [
+    "console",
+    "cli",
+    "terminal",
+    "linux",
+    "fetch",
+    "system-fetch",
+    "sysfetch"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        },
+        {
+          "name": "termstyle",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "elvis",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "yaml",
+          "str": ">= 2.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.1"
+          }
+        },
+        {
+          "name": "bytesized",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "bestfetch"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.5.1",
+        "hash": "257fe46ffd7e25a01f4377c8cda68f2efe815005",
+        "time": 1767730772
+      },
+      {
+        "tag": "1.5.0",
+        "hash": "16563d4ca56712fa8e312b806c8bc4abf164a2af",
+        "time": 1767671575
+      },
+      {
+        "tag": "1.4.0",
+        "hash": "ca10a523d55022c1c5c46c1efa565390ab57a406",
+        "time": 1759368153
+      },
+      {
+        "tag": "1.3.1",
+        "hash": "f959acb964bb503dc0982e985689eca0f5cd4060",
+        "time": 1744960284
+      },
+      {
+        "tag": "1.3.0",
+        "hash": "d803cd5b1c600dc469c9e935f7d8f809200c65a4",
+        "time": 1744836149
+      },
+      {
+        "tag": "1.2.3",
+        "hash": "e3785e65628ee81b581c84c84b230c4c335e171e",
+        "time": 1732346102
+      },
+      {
+        "tag": "1.2.2",
+        "hash": "97cdb12811c18b8f6a1adc66971679a848f1f9fe",
+        "time": 1732345333
+      },
+      {
+        "tag": "1.2.1",
+        "hash": "2fe2ce9de71511e42a1cef1fcace46b5bf765829",
+        "time": 1732259881
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "1a089e3b40e6f54fe9bf277bff6f9f04706d5d37",
+        "time": 1732258793
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "7c27e1544f09e623a848411adcd3bfdfb881f14e",
+        "time": 1732248763
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "ac98fb28b09bd600a1154127a0ce9800280d6fc2",
+        "time": 1732220583
+      }
+    ],
+    "commit": {
+      "hash": "257fe46ffd7e25a01f4377c8cda68f2efe815005",
+      "time": 1767730772
+    }
+  }
+}

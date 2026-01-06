@@ -1,0 +1,34 @@
+{
+  "name": "currying",
+  "url": "https://github.com/t8m8/currying",
+  "method": "git",
+  "description": "Currying library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/t8m8/currying",
+  "tags": [
+    "library",
+    "functional",
+    "currying"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "8317844f0d9d7d1e05e2110a1a61cc27e1632aec",
+      "time": 1658733527
+    }
+  }
+}

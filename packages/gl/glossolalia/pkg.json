@@ -1,0 +1,41 @@
+{
+  "name": "glossolalia",
+  "url": "https://github.com/fowlmouth/glossolalia",
+  "method": "git",
+  "description": "A DSL for quickly writing parsers",
+  "license": "CC0",
+  "web": "https://github.com/fowlmouth/glossolalia",
+  "tags": [
+    "parser",
+    "peg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": "> 0.9.2",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.9.2"
+          }
+        },
+        {
+          "name": "fowltek",
+          "str": ">= 0.9.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f8b89478387e09aaf286fd05cda7323465572532",
+      "time": 1432043881
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "jack",
+  "url": "https://github.com/Skrylar/nim-jack",
+  "method": "git",
+  "description": "Shiny bindings to the JACK Audio Connection Kit.",
+  "license": "MIT",
+  "web": "https://github.com/Skrylar/nim-jack",
+  "tags": [
+    "jack",
+    "audio",
+    "binding",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "c50c6c26708ab477078732b54785642d50f7f506",
+      "time": 1596520599
+    }
+  }
+}

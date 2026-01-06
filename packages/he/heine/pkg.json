@@ -1,0 +1,190 @@
+{
+  "name": "heine",
+  "url": "https://git.sr.ht/~xigoi/heine",
+  "method": "git",
+  "description": "A compact notation for math that transpiles to LaTeX",
+  "license": "GPL-3.0-or-later",
+  "web": "https://xigoi.srht.site/heine/",
+  "tags": [
+    "math",
+    "latex",
+    "language"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2025.204.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.21",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.21"
+          }
+        },
+        {
+          "name": "npeg",
+          "str": "1.2.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.2.1"
+          }
+        }
+      ],
+      "bin": [
+        "heine"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "2025.204.0",
+        "hash": "9fb6bf50f745f0886502259e9d387861d657fe64",
+        "time": 1738698434
+      },
+      {
+        "tag": "2024.227.0",
+        "hash": "300407b7fe06bc6900f42e6e417e4b7286acbdec",
+        "time": 1709055770
+      },
+      {
+        "tag": "2023.1027.0",
+        "hash": "26ac536a74fd8f031f6c9dfce33d072594c6e0ce",
+        "time": 1698401644
+      },
+      {
+        "tag": "2023.10.27",
+        "hash": "b30883e5624745a016d8f4ba60b992f2ea537127",
+        "time": 1698401475
+      },
+      {
+        "tag": "2023.1010.1",
+        "hash": "dfeb8b0cf301f4a08737115fa9765dac1e254700",
+        "time": 1696935195
+      },
+      {
+        "tag": "2023.1010.0",
+        "hash": "45bd7936655055ad823774a6e30f1e909ef0c6e9",
+        "time": 1696934672
+      },
+      {
+        "tag": "2023.718.0",
+        "hash": "27dec0b9b5145c2d6160b36abcdb6e30b4235dff",
+        "time": 1689699015
+      },
+      {
+        "tag": "2023.417.0",
+        "hash": "c3aea2ab5fa1696a3d47b7690ed1a05176181e10",
+        "time": 1681739849
+      },
+      {
+        "tag": "2023.414.1",
+        "hash": "6c93aa8ffe004f1a5ef90cbc408d97338d903f2d",
+        "time": 1681481874
+      },
+      {
+        "tag": "2023.414.0",
+        "hash": "f3bde1e881bd7b77138e39cfff808f2dddd888fc",
+        "time": 1681476397
+      },
+      {
+        "tag": "2023.413.0",
+        "hash": "12d6ece87e1c8ca8f68cdd0718ab590f69d9b4c5",
+        "time": 1681386296
+      },
+      {
+        "tag": "2023.311.0",
+        "hash": "5ddfaa2d4d6df96b4bf9cb0053bebaf4dcbc50fb",
+        "time": 1678555896
+      },
+      {
+        "tag": "2023.308.1",
+        "hash": "55c182df7605318b684a532af51c3ddf2ad29e25",
+        "time": 1678291834
+      },
+      {
+        "tag": "2023.308.0",
+        "hash": "a15d5664cdc78b0f867f377a3ed94806c40e3e0b",
+        "time": 1678291366
+      },
+      {
+        "tag": "2023.302.0",
+        "hash": "b79d59ab894aa21efe40db0cf26d400d1acfcdc6",
+        "time": 1677751610
+      },
+      {
+        "tag": "2023.301.1",
+        "hash": "19608b7a76dc26ece1ce3a9231eed56df4d135cd",
+        "time": 1677684057
+      },
+      {
+        "tag": "2023.301.0",
+        "hash": "2c5c63f7ba0951ca511061e5be30d8454376025c",
+        "time": 1677683402
+      },
+      {
+        "tag": "2023.226.0",
+        "hash": "fcc1e9b09f97d6871ddb43e91b0b2c9c7cd62c6b",
+        "time": 1677432354
+      },
+      {
+        "tag": "2023.225.2",
+        "hash": "eaa04f90e73a862ac9cd37d934d8a89825a35da9",
+        "time": 1677340020
+      },
+      {
+        "tag": "2023.225.1",
+        "hash": "351a285e54c3b2b608069378a992915b0da3bee0",
+        "time": 1677339869
+      },
+      {
+        "tag": "2023.225.0",
+        "hash": "4e757cbdad73f5aa891e3c4d2e9f08f0315b3fbb",
+        "time": 1677339541
+      },
+      {
+        "tag": "2023.223.2",
+        "hash": "1beeb3a17ea40eda7e8da98313395eb196d2ba17",
+        "time": 1677172529
+      },
+      {
+        "tag": "2023.223.1",
+        "hash": "3e4390179c55aef49a28339d436f8d3ac3da793d",
+        "time": 1677144119
+      },
+      {
+        "tag": "2023.223.0",
+        "hash": "af1109fd5cd2b641fc80153148c5900aadaa5baf",
+        "time": 1677143953
+      },
+      {
+        "tag": "2023.2.22",
+        "hash": "3c2bd45c2dcc026b3fdd8376a81cec8035a9f9b9",
+        "time": 1677072669
+      },
+      {
+        "tag": "2023.2.21",
+        "hash": "9c28e18ba9995d8d81013f8eb898793f04f521be",
+        "time": 1676965760
+      },
+      {
+        "tag": "2023.2.20",
+        "hash": "329f0d6705f421ea0e05d007b624f5b8f4a63625",
+        "time": 1676925826
+      }
+    ],
+    "commit": {
+      "hash": "9fb6bf50f745f0886502259e9d387861d657fe64",
+      "time": 1738698434
+    }
+  }
+}

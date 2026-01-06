@@ -1,0 +1,66 @@
+{
+  "name": "rect",
+  "url": "https://github.com/jiro4989/rect",
+  "method": "git",
+  "description": "rect is a command to crop/paste rectangle text.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/rect",
+  "tags": [
+    "cli",
+    "tool",
+    "text",
+    "rectangle"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        },
+        {
+          "name": "eastasianwidth",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.8"
+          }
+        }
+      ],
+      "bin": [
+        "rect"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "8d8eb05b631ed3974833b6d0cab021e879c7f09b",
+        "time": 1563976192
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "49ea8a08ab8c57a5d55510ea60e45f1d9472b084",
+        "time": 1558686240
+      }
+    ],
+    "commit": {
+      "hash": "8d8eb05b631ed3974833b6d0cab021e879c7f09b",
+      "time": 1563976192
+    }
+  }
+}

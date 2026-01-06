@@ -1,0 +1,45 @@
+{
+  "name": "switch_build",
+  "url": "https://github.com/jyapayne/switch-build",
+  "method": "git",
+  "description": "An easy way to build homebrew files for the Nintendo Switch",
+  "license": "MIT",
+  "web": "https://github.com/jyapayne/switch-build",
+  "tags": [
+    "switch",
+    "nintendo",
+    "build",
+    "builder"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [
+        "switch_build"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "8ab57a101c29c759171e25616ea32feb22f65a06",
+        "time": 1531483606
+      }
+    ],
+    "commit": {
+      "hash": "a660561818a7ff4943f6f4fccc52da28fae69f73",
+      "time": 1669818796
+    }
+  }
+}

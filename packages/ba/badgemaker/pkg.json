@@ -1,0 +1,34 @@
+{
+  "name": "badgemaker",
+  "url": "https://github.com/ethosa/badgemaker",
+  "method": "git",
+  "description": "The Nim badgemaker tool.",
+  "license": "AGPLv3",
+  "web": "https://github.com/ethosa/badgemaker",
+  "tags": [
+    "badge",
+    "badge-generator",
+    "tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "badgemaker"
+    },
+    "commit": {
+      "hash": "5f88cea15689b724ced0a2ce38876766f0de2967",
+      "time": 1582883798
+    }
+  }
+}

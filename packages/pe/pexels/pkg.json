@@ -1,0 +1,44 @@
+{
+  "name": "pexels",
+  "url": "https://github.com/openpeeps/nim-pexels",
+  "method": "git",
+  "description": "Nim library for the Pexels API",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/nim-pexels",
+  "tags": [
+    "client",
+    "library",
+    "pexels",
+    "photo",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a7d5d880826e80b31105c762d9f984c7b9ea488e",
+      "time": 1763397157
+    }
+  }
+}

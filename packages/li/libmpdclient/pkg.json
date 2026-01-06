@@ -1,0 +1,33 @@
+{
+  "name": "libmpdclient",
+  "url": "https://github.com/lompik/libmpdclient.nim",
+  "method": "git",
+  "description": "Bindings for the Music Player Daemon C client library",
+  "license": "BSD",
+  "web": "https://github.com/lompik/libmpdclient.nim",
+  "tags": [
+    "MPD",
+    "Music Player Daemon"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b5189300878620ecb5acd4caf9761f4bc2b86fca",
+      "time": 1519796031
+    }
+  }
+}

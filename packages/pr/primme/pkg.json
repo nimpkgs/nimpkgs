@@ -1,0 +1,72 @@
+{
+  "name": "primme",
+  "url": "https://github.com/jxy/primme",
+  "method": "git",
+  "description": "Nim interface for PRIMME: PReconditioned Iterative MultiMethod Eigensolver",
+  "license": "MIT",
+  "web": "https://github.com/jxy/primme",
+  "tags": [
+    "library",
+    "eigenvalues",
+    "high-performance",
+    "singular-value-decomposition"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v3.0.0",
+        "hash": "779eb229ce4585a30f57604cc9b11147fe034230",
+        "time": 1544643663
+      },
+      {
+        "tag": "v2.1.1",
+        "hash": "c02328017a526e258a61dd70b3698ffad63fcfdc",
+        "time": 1544561589
+      },
+      {
+        "tag": "v2.1.0",
+        "hash": "722c2543096e64fcf99ad05fe5b7a08ce3f6f65d",
+        "time": 1542340780
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "80deff312c96663d0bd2d3263a84084da8cb407f",
+        "time": 1540932649
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "023cf315eef5c3bcaa990c64ce7fa8c741c55ec1",
+        "time": 1497376852
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0c17e6a82c60769514eaf3838dcb2cf0703c2e3a",
+        "time": 1496783346
+      },
+      {
+        "tag": "v0.0.0",
+        "hash": "a6867ce00c46aabe3e8833a5fe3802b60a2645e0",
+        "time": 1494518671
+      }
+    ],
+    "commit": {
+      "hash": "722c2543096e64fcf99ad05fe5b7a08ce3f6f65d",
+      "time": 1542340780
+    }
+  }
+}

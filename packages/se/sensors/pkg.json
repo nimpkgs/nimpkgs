@@ -1,0 +1,52 @@
+{
+  "name": "sensors",
+  "url": "https://github.com//inv2004/sensors",
+  "method": "git",
+  "description": "libsensors wrapper",
+  "license": "MIT",
+  "web": "https://github.com//inv2004/sensors",
+  "tags": [
+    "sensors",
+    "wrapper",
+    "linux",
+    "temperature"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.4",
+        "hash": "94affc14aa003ec3fe19a5286026e0472e51bc8f",
+        "time": 1674427023
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "f3efbae17c29c42d06e8d3dda7648f620ddd439c",
+        "time": 1674242308
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "9423415d8be89988ca9f6caca26ea69ee802b321",
+        "time": 1674162449
+      }
+    ],
+    "commit": {
+      "hash": "94affc14aa003ec3fe19a5286026e0472e51bc8f",
+      "time": 1674427023
+    }
+  }
+}

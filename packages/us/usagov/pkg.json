@@ -1,0 +1,33 @@
+{
+  "name": "usagov",
+  "url": "https://github.com/juancarlospaco/nim-usagov",
+  "method": "git",
+  "description": "USA Code.Gov MultiSync API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-usagov",
+  "tags": [
+    "gov",
+    "opendata"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "63b21aca18b2b67d050712e8393c841ce4257767",
+      "time": 1558849695
+    }
+  }
+}

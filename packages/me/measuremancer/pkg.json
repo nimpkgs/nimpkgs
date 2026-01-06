@@ -1,0 +1,93 @@
+{
+  "name": "measuremancer",
+  "url": "https://github.com/SciNim/Measuremancer",
+  "method": "git",
+  "description": "A library to handle measurement uncertainties",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/Measuremancer",
+  "tags": [
+    "measurements",
+    "error propagation",
+    "errors",
+    "uncertainties",
+    "science"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.9",
+        "hash": "9d9dacb0f131f099704d026cbbddc97024985a59",
+        "time": 1729010356
+      },
+      {
+        "tag": "v0.2.8",
+        "hash": "459b531615afd9d6186897fd198a4f278d5243a1",
+        "time": 1720709974
+      },
+      {
+        "tag": "v0.2.7",
+        "hash": "9e85f0b212bd25b4becf2885ff4267a22be8f32a",
+        "time": 1708944115
+      },
+      {
+        "tag": "v0.2.6",
+        "hash": "3caf152d93c1f18349fc1e5e14ede683de5f6e67",
+        "time": 1707815336
+      },
+      {
+        "tag": "v0.2.5",
+        "hash": "685e61565cc8a8e3bdaad9be8791781967250c0b",
+        "time": 1695479925
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "607596102ac3f9ca8d9c3eabc1b1053dacea175b",
+        "time": 1692871518
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "d27a1a83c0510b2a557621000d401490175a5015",
+        "time": 1668704632
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "e592671a981bfabef8b1d24875218edc6fe8d73d",
+        "time": 1668624768
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "5a6a0f8ad19c2285e1a37057c98ae83e8054cc80",
+        "time": 1666197450
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "8b2c8981b282efa6126e061dda2b97af5d04de48",
+        "time": 1666183603
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "0581cd76c6bb9a9823a2c36cb12aa0d92b22998b",
+        "time": 1666117369
+      }
+    ],
+    "commit": {
+      "hash": "9d9dacb0f131f099704d026cbbddc97024985a59",
+      "time": 1729010356
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "gtrends",
+  "url": "https://github.com/thisago/gtrends",
+  "method": "git",
+  "description": "Google Trends RSS",
+  "license": "MIT",
+  "web": "https://github.com/thisago/gtrends",
+  "tags": [
+    "library",
+    "google_trends",
+    "trends",
+    "rss",
+    "google"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "rss",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2acf29e650ed61ad269e2cb2220e8a550d1efdb5",
+      "time": 1689293663
+    }
+  }
+}

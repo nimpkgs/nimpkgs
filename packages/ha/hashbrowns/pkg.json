@@ -1,0 +1,54 @@
+{
+  "name": "hashbrowns",
+  "url": "https://github.com/bk20x/Hashbrowns",
+  "method": "git",
+  "description": "Small GUI utility for hashing files or mass hashing directories",
+  "license": "MIT",
+  "web": "https://github.com/bk20x/Hashbrowns",
+  "tags": [
+    "hash",
+    "hashing",
+    "utility",
+    "gui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        },
+        {
+          "name": "nigui",
+          "str": ">= 0.2.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.8"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.7.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.2"
+          }
+        }
+      ],
+      "bin": [
+        "hashbrowns"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "1f19a624ed8203249ca200bea3133dbf4ce33df6",
+      "time": 1765192131
+    }
+  }
+}

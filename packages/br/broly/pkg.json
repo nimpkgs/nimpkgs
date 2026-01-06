@@ -1,0 +1,123 @@
+{
+  "name": "broly",
+  "url": "https://github.com/solaoi/broly",
+  "method": "git",
+  "description": "High Performance Stub Server",
+  "license": "MIT",
+  "web": "https://github.com/solaoi/broly",
+  "tags": [
+    "mock",
+    "stub",
+    "test",
+    "server"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "httpbeast",
+          "str": ">= 0.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        }
+      ],
+      "bin": [
+        "broly"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "14d92ba8db04ed72601a1e1dd06267763e258695",
+        "time": 1678285008
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "5ced7d1d04126e5f997c731358bb036ccbf70887",
+        "time": 1670902193
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "d28aa807623ecbef38ad8f3194db741ad644dae9",
+        "time": 1670892494
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "800d8a93399153e326bc6ef469996bc1da9299d4",
+        "time": 1658418962
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "65554a7899aee4448c01fa3192b578a220542b88",
+        "time": 1658418739
+      },
+      {
+        "tag": "v0.1.9",
+        "hash": "da697999a898ce3297879a739f2356178f6915a7",
+        "time": 1658417520
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "565f598650118b76d990ada093b62de2bdef6b19",
+        "time": 1658415572
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "8c2ada06a29a29468e51c875e71ae0c730ce6421",
+        "time": 1658403882
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "ded8e02d0974d4c783560f21b3ba26a2fdf0ad1f",
+        "time": 1658403478
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "d1dfbc5ecc0d36279b01d1226c631cbded93ca39",
+        "time": 1658403279
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "8bf7af67fd7a1f642ce2a969e55750c4519fe7c2",
+        "time": 1658374565
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "8e543eed92c64d6205e62525e33d67350f7ecbc8",
+        "time": 1658336328
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "d848c6ca8e385032c8b8f54930f3c0757da85fa7",
+        "time": 1658335052
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "4c3b37cd0deebf5f6b9b470d8888a9fa97c4dc4d",
+        "time": 1658334568
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ba8405195cbd7c128be1290fb9140f24e7afbfe4",
+        "time": 1658333827
+      }
+    ],
+    "commit": {
+      "hash": "7430c2a196191b74aa3fd598ec0800092bc796b3",
+      "time": 1689583241
+    }
+  }
+}

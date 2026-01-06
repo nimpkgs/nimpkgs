@@ -1,0 +1,38 @@
+{
+  "name": "ndbex",
+  "url": "https://github.com/Senketsu/nim-db-ex",
+  "method": "git",
+  "description": "extension modules for Nim's 'db_*' modules",
+  "license": "MIT",
+  "web": "https://github.com/Senketsu/nim-db-ex",
+  "tags": [
+    "extension",
+    "database",
+    "convenience",
+    "db",
+    "mysql",
+    "postgres",
+    "sqlite"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0533fc0587d5bca2b9748fab3ef59806951bcddd",
+      "time": 1522926572
+    }
+  }
+}

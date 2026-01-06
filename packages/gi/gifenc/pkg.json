@@ -1,0 +1,33 @@
+{
+  "name": "gifenc",
+  "url": "https://github.com/ftsf/gifenc",
+  "method": "git",
+  "description": "Gif Encoder",
+  "license": "Public Domain",
+  "web": "https://github.com/ftsf/gifenc",
+  "tags": [
+    "gif",
+    "encoder"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "73ffba128127e6a53492ba85019f9a75056ce651",
+      "time": 1544793585
+    }
+  }
+}

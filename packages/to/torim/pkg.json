@@ -1,0 +1,34 @@
+{
+  "name": "torim",
+  "url": "https://github.com/Techno-Fox/torim",
+  "method": "git",
+  "description": "Updated version of tor.nim from https://github.com/FedericoCeratto/nim-tor",
+  "license": "GPL-3.0",
+  "web": "https://github.com/Techno-Fox/torim",
+  "doc": "https://github.com/Techno-Fox/torim",
+  "tags": [
+    "tor",
+    "hiddenservice"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "be96022a180c838a6d666af185d9753550f24b56",
+      "time": 1602461687
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "db_wrapper",
+  "url": "https://github.com/sivchari/db_wrapper",
+  "method": "git",
+  "description": "this libraly able to use database/sql of Go",
+  "license": "MIT",
+  "web": "https://github.com/sivchari/db_wrapper",
+  "tags": [
+    "database",
+    "wrapper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6700bf4c9980689e37021cff0b223af4155529fa",
+      "time": 1621926562
+    }
+  }
+}

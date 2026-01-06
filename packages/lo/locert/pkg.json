@@ -1,0 +1,82 @@
+{
+  "name": "locert",
+  "url": "https://github.com/vandot/locert",
+  "method": "git",
+  "description": "Simple cert generator for local development.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/vandot/locert",
+  "tags": [
+    "cert",
+    "ca",
+    "developer-tools"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        },
+        {
+          "name": "https://github.com/vandot/nim-sudo",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "locert"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "9f6acc2012a5702b67453fb7714c19fc580510fd",
+        "time": 1680532541
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "5283f5da4fb2b1a9c8531ed5b69986204c3b58a1",
+        "time": 1679669910
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "08c539ca38f4d951cf1dd56ee51cf334ffa40b56",
+        "time": 1675871379
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "347e62dd0b356a52a12b081d16733d9af09b6ef5",
+        "time": 1675785392
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "24dafc6075ae9801dfe045a8394048cb60dde2ad",
+        "time": 1675766812
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "16f46604b9bf275796d09bf29cc78b2b13fe39ca",
+        "time": 1675766244
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "d69125edf8af44c106323c74d894434398d174d2",
+        "time": 1675766012
+      }
+    ],
+    "commit": {
+      "hash": "9f6acc2012a5702b67453fb7714c19fc580510fd",
+      "time": 1680532541
+    }
+  }
+}

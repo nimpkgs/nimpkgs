@@ -1,0 +1,32 @@
+{
+  "name": "upraises",
+  "url": "https://github.com/markspanbroek/upraises",
+  "method": "git",
+  "description": "exception tracking for older versions of nim",
+  "license": "MIT",
+  "web": "https://github.com/markspanbroek/upraises",
+  "tags": [
+    "raise",
+    "error",
+    "defect"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "d9f268db1021959fe0f2c7a5e49fba741f9932a0",
+        "time": 1617265918
+      }
+    ],
+    "commit": {
+      "hash": "bc2628989b63854d980e92dadbd58f83e34b6f25",
+      "time": 1657696227
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "name": "tim",
+  "url": "https://github.com/openpeeps/tim",
+  "method": "git",
+  "description": "Really lightweight template engine",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/tim",
+  "tags": [
+    "template-engine",
+    "emmet",
+    "template",
+    "engine",
+    "tim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "toktok",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/openpeeps/importer",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "watchout",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "denim",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "flatty",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nyml",
+          "str": ">= 0.1.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.8"
+          }
+        },
+        {
+          "name": "urlly",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "semver",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "genny",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "htmlparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "httpbeast",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "tim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.3",
+        "hash": "7d430f496c16a6a5347a4124f94d3b56020943b1",
+        "time": 1741314302
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "76b383aa3c1119d8b8999d973acaa94f04cbf567",
+        "time": 1713339533
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "8c54d8d55d72a47992addd713850482674193103",
+        "time": 1713190172
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "b896d819ecd98a6eb1caff6d541122ca684658f4",
+        "time": 1712663646
+      }
+    ],
+    "commit": {
+      "hash": "3fd1c345b20aa59fed5faebd2e8b6541b8347995",
+      "time": 1761157923
+    }
+  }
+}

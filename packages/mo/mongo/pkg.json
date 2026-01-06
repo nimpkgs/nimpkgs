@@ -1,0 +1,34 @@
+{
+  "name": "mongo",
+  "url": "https://github.com/nim-lang/mongo",
+  "method": "git",
+  "description": "Bindings and a high-level interface for MongoDB",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/mongo",
+  "tags": [
+    "library",
+    "wrapper",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "lib"
+    },
+    "commit": {
+      "hash": "a78161f8a89d950fa9102cff2a09d3b3863b9213",
+      "time": 1435756357
+    }
+  }
+}

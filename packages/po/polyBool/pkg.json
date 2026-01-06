@@ -1,0 +1,34 @@
+{
+  "name": "polyBool",
+  "url": "https://github.com/jangko/polyBool",
+  "method": "git",
+  "description": "Polygon Clipper Library (Martinez Algorithm)",
+  "license": "MIT",
+  "web": "https://github.com/jangko/polyBool",
+  "tags": [
+    "polygon",
+    "clipper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e7281860b002ed1e62b5802ede40c530dfd5bfde",
+      "time": 1493983378
+    }
+  }
+}

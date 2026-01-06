@@ -1,0 +1,44 @@
+{
+  "name": "nestegg",
+  "url": "https://github.com/capocasa/nim-nestegg",
+  "method": "git",
+  "description": "A nimterop wrapper for the nestegg portable webm video demuxer",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/nim-nestegg",
+  "tags": [
+    "nestegg",
+    "demuxer",
+    "webm",
+    "video",
+    "container"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "0d1fb41be2536177157ba84f36d1d14a0cb09934",
+      "time": 1622624890
+    }
+  }
+}

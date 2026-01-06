@@ -1,0 +1,32 @@
+{
+  "name": "nimmikudance",
+  "url": "https://github.com/aphkyle/NimMikuDance",
+  "method": "git",
+  "description": "MMD I/O!",
+  "license": "ISC",
+  "tags": [
+    "MMD",
+    "pure"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "52772ae5dce004ab6ac1829ab8ad403a379375e1",
+      "time": 1653291614
+    }
+  }
+}

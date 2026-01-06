@@ -1,0 +1,27 @@
+{
+  "name": "libsha",
+  "url": "https://github.com/forlan-ua/nim-libsha",
+  "method": "git",
+  "description": "Sha1 and Sha2 implementations",
+  "license": "MIT",
+  "web": "https://github.com/forlan-ua/nim-libsha",
+  "tags": [
+    "sha1",
+    "sha224",
+    "sha256",
+    "sha384",
+    "sha512"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "fcdc448a63cc70814df5e92de050d8225715fe0a",
+      "time": 1534428256
+    }
+  }
+}

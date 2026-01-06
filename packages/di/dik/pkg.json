@@ -1,0 +1,32 @@
+{
+  "name": "dik",
+  "url": "https://github.com/juancarlospaco/dik",
+  "method": "git",
+  "description": "Table implemented as optimized sorted hashed dictionary of {array[char]: Option[T]}, same size as OrderedTable",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/dik",
+  "tags": [
+    "dictionary"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7ce5bf5fa2167cb76d07ed595437fa037bbfab94",
+      "time": 1643231592
+    }
+  }
+}

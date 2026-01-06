@@ -1,0 +1,37 @@
+{
+  "name": "calendar",
+  "url": "https://github.com/adam-mcdaniel/calendar",
+  "method": "git",
+  "description": "A tiny calendar program",
+  "license": "MIT",
+  "web": "https://github.com/adam-mcdaniel/calendar",
+  "tags": [
+    "time",
+    "calendar",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        }
+      ],
+      "bin": [
+        "cal"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "1b748dbed1be5092dff20f8e9a555b193c022dc9",
+      "time": 1595974964
+    }
+  }
+}

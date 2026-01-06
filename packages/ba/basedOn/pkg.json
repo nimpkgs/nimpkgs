@@ -1,0 +1,40 @@
+{
+  "name": "basedOn",
+  "url": "https://github.com/KaceCottam/basedOn",
+  "method": "git",
+  "description": "A library for cleanly creating an object or tuple based on another object or tuple",
+  "license": "MIT",
+  "web": "https://github.com/KaceCottam/basedOn",
+  "tags": [
+    "nim",
+    "object-oriented",
+    "tuple",
+    "object",
+    "functional",
+    "syntax",
+    "macro",
+    "nimble",
+    "package"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "45f927dc682eac90b4d4a740e5b91a9db6f9ed86",
+      "time": 1583636085
+    }
+  }
+}

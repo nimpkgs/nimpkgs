@@ -1,0 +1,36 @@
+{
+  "name": "streamfix",
+  "url": "https://github.com/inv2004/streamfix",
+  "method": "git",
+  "description": "FIX Protocol streaming parser (Financial Information eXchange)",
+  "license": "Apache-2.0",
+  "web": "https://github.com/inv2004/streamfix",
+  "tags": [
+    "fix",
+    "protocol",
+    "parser",
+    "financial",
+    "streaming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "632c37441247f8e2a61eca2103107bea686b4b62",
+      "time": 1618013764
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "name": "pkgit",
+  "url": "https://github.com/dacctal/pkgit",
+  "method": "git",
+  "description": "unconventional package manager",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/dacctal/pkgit",
+  "tags": [
+    "package",
+    "manager",
+    "git",
+    "source",
+    "build",
+    "dependency",
+    "cli",
+    "tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "parsetoml",
+          "str": ">= 0.7.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.2"
+          }
+        }
+      ],
+      "bin": [
+        "pkgit"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.0.11",
+        "hash": "95add494fc8f2098408f5058aae8d2c8cf849289",
+        "time": 1761624693
+      },
+      {
+        "tag": "0.0.10",
+        "hash": "002dff9ae64503529cfaff9033e81c5865dad127",
+        "time": 1761598438
+      },
+      {
+        "tag": "0.0.9",
+        "hash": "c2e33bde6743ae4f3740a4d2ccae83014548d958",
+        "time": 1761519925
+      },
+      {
+        "tag": "0.0.8",
+        "hash": "f9d530ab26f63026a5fbd14bbb4f9bc2e3836d6f",
+        "time": 1761468169
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "077a62822fe402c66530d7c19fdf0f0b9b4efec1",
+        "time": 1761353422
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "fde60b189428b046fd29fca4147d797e759284fe",
+        "time": 1761350874
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "eb55d2923e443988fcd76b89e485f1dc2274ba14",
+        "time": 1761266858
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "b83bfe589eae2e5041ab8fca5e7783e3f75e5d31",
+        "time": 1760487946
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "2bc65bfcdbf62d33869ed8140c4a217556be8acd",
+        "time": 1760418017
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "5cfc5b98c72a87ae3edcb961d6954936ecc34597",
+        "time": 1760342386
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "1633a620950368be5ab36252792768ef2cb99a42",
+        "time": 1760335918
+      }
+    ],
+    "commit": {
+      "hash": "71a8f694c860b2c5a47fe2969d7ab0c0eed48252",
+      "time": 1762165005
+    }
+  }
+}

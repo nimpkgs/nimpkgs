@@ -1,0 +1,85 @@
+{
+  "name": "noisy",
+  "url": "https://github.com/guzba/noisy",
+  "method": "git",
+  "description": "SIMD-accelerated noise generation (Simplex, Perlin).",
+  "license": "MIT",
+  "web": "https://github.com/guzba/noisy",
+  "tags": [
+    "perlin",
+    "simplex",
+    "noise",
+    "simd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 0.4.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.5",
+        "hash": "06f5ae31121f32e572a83b60524d8d63f962f186",
+        "time": 1659516012
+      },
+      {
+        "tag": "0.4.4",
+        "hash": "c824811950a80160564472e0f17b3074fb8bda5f",
+        "time": 1606946820
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "60fc889952fe8f08e38df026eb82c66f87932cc8",
+        "time": 1606897442
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "edc2ca353b0b3041ac1c1e1caf5430644dce6ea4",
+        "time": 1606854277
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "33fe8c015783c610e01ca5d1c1dccf0c112c6975",
+        "time": 1605670978
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "cb171f54e8ede70cf25dc8bb57b40d08f8195419",
+        "time": 1605398188
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "cd6d1b0fc6efc052ebbfb89bfa0f9629ac8412a6",
+        "time": 1603219955
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "861d430b1843dfd1f6ad6844f390d0fc7cdf849a",
+        "time": 1597262064
+      }
+    ],
+    "commit": {
+      "hash": "9625ee0a9dbdae44c427df95a4f8de006c061150",
+      "time": 1693248341
+    }
+  }
+}

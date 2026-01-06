@@ -1,0 +1,104 @@
+{
+  "name": "mike",
+  "url": "https://github.com/ire4ever1190/mike",
+  "method": "git",
+  "description": "A very simple micro web framework",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/mike",
+  "tags": [
+    "web",
+    "library",
+    "rest",
+    "framework",
+    "simple"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.3.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.3"
+          }
+        },
+        {
+          "name": "httpx",
+          "str": ">= 0.3.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.7"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.3.5",
+        "hash": "1bedd1723e80f827172146d4f97e32126eb710f9",
+        "time": 1734433384
+      },
+      {
+        "tag": "1.3.4",
+        "hash": "96c824e00fa2d0a16331c420ba7d46eba36363c2",
+        "time": 1734418942
+      },
+      {
+        "tag": "1.3.3",
+        "hash": "6e0246c25fb46b7d04e27752e02955bf2216a588",
+        "time": 1723283098
+      },
+      {
+        "tag": "1.3.2",
+        "hash": "8c0544194dfaad345e5eb0cd7a59fd7c3f40074f",
+        "time": 1723279077
+      },
+      {
+        "tag": "1.3.1",
+        "hash": "a0da25bc3835e5802d4e3209dfa4b721227e659f",
+        "time": 1715484813
+      },
+      {
+        "tag": "1.3.0",
+        "hash": "c813824276563d204ceb4719b4a58a5aa9aba671",
+        "time": 1691111408
+      },
+      {
+        "tag": "1.2.1",
+        "hash": "86238bbdf182419b9540fded4aef24036bb1d92c",
+        "time": 1635147429
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "f8ec0f9916a29f5ef55470a254daec7f89a49f3a",
+        "time": 1634708953
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "5f1829c14804d772537b402ab91ef9773782e853",
+        "time": 1619243580
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "96a31e4f9bdb5377e616ad00731bdefe522432ef",
+        "time": 1618718347
+      }
+    ],
+    "commit": {
+      "hash": "a1a61e831b14e571bea7ffaade3a34e06e77cfbe",
+      "time": 1767155506
+    }
+  }
+}

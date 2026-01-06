@@ -1,0 +1,74 @@
+{
+  "name": "crockfordb32",
+  "url": "https://github.com/The-Ticking-Clockwork/Crockford-Base32-Nim",
+  "method": "git",
+  "description": "A simple implementation of Crockford Base32.",
+  "license": "CC0",
+  "web": "https://github.com/The-Ticking-Clockwork/Crockford-Base32-Nim",
+  "doc": "https://the-ticking-clockwork.github.io/Crockford-Base32-Nim/",
+  "tags": [
+    "base",
+    "base32",
+    "crockford",
+    "encode",
+    "decode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v2.0.1",
+        "hash": "8f42b213a4e35f5fc0b151a0ef76958e76c460a8",
+        "time": 1756262892
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "97d87dadda5bf0e98ab2393882cc67eb538bb897",
+        "time": 1739988084
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "f1b4b3d923056993dd1491a0e007e3f4c31b84a2",
+        "time": 1698746910
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "eb48f0bfdfaf42dfe93d9572bcda9b2a3c3357ea",
+        "time": 1696927551
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "3bd0be7fa6aef04d50287a9550e3c1de0ae2f72c",
+        "time": 1693598083
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "62237a4a8a6a1ae39f618bac9b1e4d82920f75d5",
+        "time": 1693534726
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "fbd0c84b00d03d8be565ed8c64115e616f9bcc49",
+        "time": 1693532438
+      }
+    ],
+    "commit": {
+      "hash": "8f42b213a4e35f5fc0b151a0ef76958e76c460a8",
+      "time": 1756262892
+    }
+  }
+}

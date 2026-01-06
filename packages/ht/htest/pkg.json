@@ -1,0 +1,55 @@
+{
+  "name": "htest",
+  "url": "https://github.com/Yandall/HTest/",
+  "method": "git",
+  "description": "Simple library to make tests on html string using css query selectors",
+  "license": "MIT",
+  "web": "https://github.com/Yandall/HTest/",
+  "tags": [
+    "html",
+    "test",
+    "unittest",
+    "nimquery"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "nimquery",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "236f95e35e1946e86a0c3df9e416b461dd0e874c",
+        "time": 1672068597
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "3e99ded58c9aabe44c05b5a1a747e146f7eabbbf",
+        "time": 1671658205
+      }
+    ],
+    "commit": {
+      "hash": "236f95e35e1946e86a0c3df9e416b461dd0e874c",
+      "time": 1672068597
+    }
+  }
+}

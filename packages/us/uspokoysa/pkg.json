@@ -1,0 +1,44 @@
+{
+  "name": "uspokoysa",
+  "url": "https://github.com/ioplker/uspokoysa",
+  "method": "git",
+  "description": "Dead simple Nim app for making timebreaks",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/ioplker/uspokoysa",
+  "tags": [
+    "timebreaks",
+    "nigui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nigui",
+          "str": "0.2.5",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.2.5"
+          }
+        }
+      ],
+      "bin": [
+        "uspokoysa"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "57be76666f4e40b98e0d29d6dc3eef9989063d3c",
+      "time": 1651855066
+    }
+  }
+}

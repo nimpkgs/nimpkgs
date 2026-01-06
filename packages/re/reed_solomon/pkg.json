@@ -1,0 +1,40 @@
+{
+  "name": "reed_solomon",
+  "url": "https://github.com/lscrd/Reed-Solomon",
+  "method": "git",
+  "description": "Library to encode and decode data using Reed-Solomon correction codes.",
+  "license": "MIT",
+  "web": "https://github.com/lscrd/Reed-Solomon",
+  "tags": [
+    "library",
+    "Reed-Solomon"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "b5b6882b007809b4bcc208c4332ae916ef5695bd",
+        "time": 1692369831
+      }
+    ],
+    "commit": {
+      "hash": "ee3548a988bf6975e4ec5d26bbcc76b6064943c5",
+      "time": 1765046587
+    }
+  }
+}

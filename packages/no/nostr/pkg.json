@@ -1,0 +1,103 @@
+{
+  "name": "nostr",
+  "url": "https://github.com/theAkito/nim-nostr",
+  "method": "git",
+  "description": "NOSTR Protocol implementation.",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "akito",
+    "nostr",
+    "nostrich",
+    "relay",
+    "api",
+    "node",
+    "cluster",
+    "note",
+    "notes",
+    "amethyst",
+    "social",
+    "protocol",
+    "nip",
+    "nipple",
+    "security",
+    "pgp",
+    "gpg",
+    "bitcoin",
+    "twitter",
+    "mastodon",
+    "bluesky",
+    "blog",
+    "blogging",
+    "microblog",
+    "microblogging"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "puppy",
+          "str": ">= 1.0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.3"
+          }
+        },
+        {
+          "name": "timestamp",
+          "str": ">= 0.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.2"
+          }
+        },
+        {
+          "name": "timezones",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        },
+        {
+          "name": "zero_functional",
+          "str": ">= 1.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.0"
+          }
+        },
+        {
+          "name": "yaml",
+          "str": "#189844a72b90ba7ade864f997280809efcb21d0a",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimSHA2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "fa6b60589b264937cbd372951117106d743a2100",
+      "time": 1698851534
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "parseFixed",
+  "url": "https://github.com/jlp765/parsefixed",
+  "method": "git",
+  "description": "Parse fixed-width fields within lines of text (complementary to parsecsv)",
+  "license": "MIT",
+  "web": "https://github.com/jlp765/parsefixed",
+  "tags": [
+    "parse",
+    "fixed",
+    "width",
+    "parser",
+    "text"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "f57c3063aa4f1a6830ca18113ac2935b7e9cb1cc",
+        "time": 1566612012
+      }
+    ],
+    "commit": {
+      "hash": "f57c3063aa4f1a6830ca18113ac2935b7e9cb1cc",
+      "time": 1566612012
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "delight",
+  "url": "https://github.com/liquid600pgm/delight",
+  "method": "git",
+  "description": "Engine-agnostic library for computing 2D raycasted lights",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/delight",
+  "tags": [
+    "raycasting",
+    "math",
+    "light",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.4"
+          }
+        },
+        {
+          "name": "glm",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "179240787e82fb13a8958151cfdd5e39f36d37e9",
+        "time": 1580652929
+      }
+    ],
+    "commit": {
+      "hash": "ff314c3fa33085e282c347bf8ded2346f538e843",
+      "time": 1582580223
+    }
+  }
+}

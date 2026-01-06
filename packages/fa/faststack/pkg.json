@@ -1,0 +1,32 @@
+{
+  "name": "faststack",
+  "url": "https://github.com/Vladar4/FastStack",
+  "method": "git",
+  "description": "Dynamically resizable data structure optimized for fast iteration.",
+  "license": "MIT",
+  "web": "https://github.com/Vladar4/FastStack",
+  "tags": [
+    "collection"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "8aa7a65277eca78136e055c980126537d8fe2711",
+      "time": 1471617491
+    }
+  }
+}

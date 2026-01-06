@@ -1,0 +1,42 @@
+{
+  "name": "cliSeqSelector",
+  "url": "https://github.com/z-kk/cliSeqSelector",
+  "method": "git",
+  "description": "Seq selector in CLI",
+  "license": "MIT",
+  "web": "https://github.com/z-kk/cliSeqSelector",
+  "tags": [
+    "cli",
+    "console",
+    "selector",
+    "combo"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "d9631c01f06825804cc7b5e80cf3517b11dcd6ab",
+        "time": 1675255786
+      }
+    ],
+    "commit": {
+      "hash": "d9631c01f06825804cc7b5e80cf3517b11dcd6ab",
+      "time": 1675255786
+    }
+  }
+}

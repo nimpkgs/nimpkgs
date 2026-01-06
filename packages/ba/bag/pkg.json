@@ -1,0 +1,43 @@
+{
+  "name": "bag",
+  "url": "https://github.com/openpeeps/bag",
+  "method": "git",
+  "description": "Validate HTTP input data in a fancy way",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/bag",
+  "tags": [
+    "form",
+    "validation",
+    "input",
+    "input-validation"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "valido",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "be7da1f5c69d02633a21da8a9f0cbf1a058b1371",
+      "time": 1751422440
+    }
+  }
+}

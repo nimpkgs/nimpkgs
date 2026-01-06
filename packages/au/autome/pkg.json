@@ -1,0 +1,34 @@
+{
+  "name": "autome",
+  "url": "https://github.com/miere43/autome",
+  "method": "git",
+  "description": "Write GUI automation scripts with Nim",
+  "license": "MIT",
+  "web": "https://github.com/miere43/autome",
+  "tags": [
+    "gui",
+    "automation",
+    "windows"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "c2a3925f55417df09bb74f80b445fc34e7c80c51",
+      "time": 1479458808
+    }
+  }
+}

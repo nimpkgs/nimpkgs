@@ -1,0 +1,34 @@
+{
+  "name": "uuid",
+  "url": "https://github.com/idlewan/nim-uuid",
+  "method": "git",
+  "description": "UUID wrapper",
+  "license": "MIT",
+  "web": "https://github.com/idlewan/nim-uuid",
+  "tags": [
+    "library",
+    "wrapper",
+    "uuid"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.9.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "372e99dfbdaa93533a81e1c474f4ff90fbba5bf2",
+      "time": 1409429140
+    }
+  }
+}

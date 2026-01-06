@@ -1,0 +1,37 @@
+{
+  "name": "replim",
+  "url": "https://github.com/gmshiba/replim",
+  "method": "git",
+  "description": "most quick REPL of nim",
+  "license": "MIT",
+  "web": "https://github.com/gmshiba/replim",
+  "tags": [
+    "repl",
+    "binary",
+    "program"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [
+        "replim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "6328febc7ae72fbbda7273472739b07f20c1c2e2",
+      "time": 1613973734
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "validateip",
+  "url": "https://github.com/theAkito/nim-validateip",
+  "method": "git",
+  "description": "Checks if a provided string is actually a correct IP address. Supports detection of Class A to D of IPv4 addresses.",
+  "license": "GPL-3.0-or-later",
+  "tags": [
+    "akito",
+    "ip",
+    "ipaddress",
+    "ipv4",
+    "ip4",
+    "checker",
+    "check"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "035b973e2bd89e6929a54798c7789550a2f045ff",
+        "time": 1562010623
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f58b39e64b7a9d61693fd59247c7d8f983770385",
+        "time": 1561642582
+      }
+    ],
+    "commit": {
+      "hash": "ead604c504bce6eb149ab42191bdde2de652569a",
+      "time": 1625270806
+    }
+  }
+}

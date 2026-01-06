@@ -1,0 +1,52 @@
+{
+  "name": "rapid",
+  "url": "https://github.com/liquid600pgm/rapid",
+  "method": "git",
+  "description": "A game engine for rapid development and easy prototyping",
+  "license": "MIT",
+  "web": "https://github.com/liquid600pgm/rapid",
+  "tags": [
+    "game",
+    "engine",
+    "2d",
+    "graphics",
+    "audio"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2020.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "aglet",
+          "str": ">= 0.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.2"
+          }
+        },
+        {
+          "name": "stbimage",
+          "str": ">= 2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e9712c8dc35954e950c554e75d1fdd1e7548d664",
+      "time": 1655578170
+    }
+  }
+}

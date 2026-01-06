@@ -1,0 +1,15 @@
+{
+  "name": "subviewer",
+  "url": "https://github.com/achesak/nim-subviewer",
+  "method": "git",
+  "description": "Nim module for parsing SubViewer subtitle files",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-subviewer",
+  "tags": [
+    "subviewer",
+    "subtitle"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

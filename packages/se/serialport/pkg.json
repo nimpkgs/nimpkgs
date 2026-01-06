@@ -1,0 +1,35 @@
+{
+  "name": "serialport",
+  "url": "https://github.com/nimious/serialport.git",
+  "method": "git",
+  "description": "Bindings for libserialport, the cross-platform serial communication library.",
+  "license": "MIT",
+  "web": "https://github.com/nimious/serialport",
+  "tags": [
+    "binding",
+    "libserialport",
+    "serial",
+    "communication"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": "> 0.12.0",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3445ecd3e553183f53905cb7e6795f326711960c",
+      "time": 1454173195
+    }
+  }
+}

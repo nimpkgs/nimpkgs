@@ -1,0 +1,39 @@
+{
+  "name": "ipsumgenera",
+  "url": "https://github.com/dom96/ipsumgenera",
+  "method": "git",
+  "description": "Static blog generator ala Jekyll.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/ipsumgenera",
+  "tags": [
+    "app",
+    "binary",
+    "blog",
+    "static",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [
+        "ipsum"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "86d141379d32c22ed65695c032226e8e6718fe03",
+      "time": 1556032916
+    }
+  }
+}

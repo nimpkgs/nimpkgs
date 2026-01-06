@@ -1,0 +1,37 @@
+{
+  "name": "lrparser",
+  "url": "https://github.com/vanyle/lrparser/",
+  "method": "git",
+  "description": "A SLR parser written in Nim with compile-time and run-time grammar generation.",
+  "license": "MIT",
+  "web": "https://github.com/vanyle/lrparser/",
+  "doc": "https://vanyle.github.io/lrparser/lrparser.html",
+  "tags": [
+    "parser",
+    "slr",
+    "grammar",
+    "lexer",
+    "tokenizer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3287bfdaca7beaff8f9009a2e6c3b660694cc2d7",
+      "time": 1642807803
+    }
+  }
+}

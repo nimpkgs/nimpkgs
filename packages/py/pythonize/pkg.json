@@ -1,0 +1,41 @@
+{
+  "name": "pythonize",
+  "url": "https://github.com/marcoapintoo/nim-pythonize.git",
+  "method": "git",
+  "description": "A higher-level wrapper for the Python Programing Language",
+  "license": "MIT",
+  "web": "https://github.com/marcoapintoo/nim-pythonize",
+  "tags": [
+    "python",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "python",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "613a8c11a8e0fbfc9ac35d731c31d876f80f9a47",
+      "time": 1559914278
+    }
+  }
+}

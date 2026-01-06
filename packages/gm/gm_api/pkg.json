@@ -1,0 +1,47 @@
+{
+  "name": "gm_api",
+  "url": "https://github.com/thisago/gm_api",
+  "method": "git",
+  "description": "Bindings for Greasemonkey API and an userscript header generator",
+  "license": "MIT",
+  "web": "https://github.com/thisago/gm_api",
+  "tags": [
+    "greasemonkey",
+    "javascript",
+    "userscript",
+    "js"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "da7d9007250cc1fd759d81b50a0c7740296e4982",
+        "time": 1681140808
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "af64b566c85df75e411e0f4745561f69fc275e98",
+        "time": 1681139193
+      }
+    ],
+    "commit": {
+      "hash": "5c03f5344a7932f98f3bef6c128f8af35d2ddb29",
+      "time": 1681141016
+    }
+  }
+}

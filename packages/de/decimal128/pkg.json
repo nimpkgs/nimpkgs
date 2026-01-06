@@ -1,0 +1,52 @@
+{
+  "name": "decimal128",
+  "url": "https://github.com/JohnAD/decimal128",
+  "method": "git",
+  "description": "Decimal type support based on the IEEE 754 2008 specification.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/decimal128",
+  "tags": [
+    "decimal",
+    "ieee",
+    "standard",
+    "number"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "8239d9ff39ae4f68dfa09490061320a0bca14af9",
+        "time": 1592164306
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "e03f91e66b49135fe140c093955b4b926c533f1f",
+        "time": 1591030593
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "9ec5431b583cb22789ddf1c47dab22e99b1d74b5",
+        "time": 1588994482
+      }
+    ],
+    "commit": {
+      "hash": "68add444773abb3d5e03979690959bf1d4881364",
+      "time": 1624414228
+    }
+  }
+}

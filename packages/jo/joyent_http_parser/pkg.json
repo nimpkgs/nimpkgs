@@ -1,0 +1,34 @@
+{
+  "name": "joyent_http_parser",
+  "url": "https://github.com/nim-lang/joyent_http_parser",
+  "method": "git",
+  "description": "Wrapper for high performance HTTP parsing library.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/joyent_http_parser",
+  "tags": [
+    "wrapper",
+    "library",
+    "parsing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e7ca3516ff8418bf84d9b9359822672b2a8bb134",
+      "time": 1518889919
+    }
+  }
+}

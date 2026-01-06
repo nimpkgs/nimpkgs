@@ -1,0 +1,390 @@
+{
+  "name": "bali",
+  "url": "https://github.com/ferus-web/bali",
+  "method": "git",
+  "description": "Bali is an embeddable JavaScript engine written in Nim from scratch.",
+  "license": "LGPL-3.0",
+  "web": "https://ferus-web.github.io/bali/",
+  "tags": [
+    "javascript",
+    "interpreter",
+    "compiler",
+    "jit",
+    "x86-64",
+    "optimizer",
+    "bytecode",
+    "scripting",
+    "lexer",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.8.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "librng",
+          "str": "0.1.3",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.3"
+          }
+        },
+        {
+          "name": "pretty",
+          "str": "0.1.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "colored_logger",
+          "str": "0.1.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "simdutf",
+          "str": "6.5.12",
+          "ver": {
+            "kind": "verEq",
+            "ver": "6.5.12"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        },
+        {
+          "name": "crunchy",
+          "str": ">= 0.1.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.11"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "noise",
+          "str": ">= 0.1.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.10"
+          }
+        },
+        {
+          "name": "fuzzy",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "yaml",
+          "str": ">= 2.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.1"
+          }
+        },
+        {
+          "name": "kaleidoscope",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "https://github.com/ferus-web/nim-gmp",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "ferrite",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        },
+        {
+          "name": "icu4nim",
+          "str": ">= 76.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "76.1.0"
+          }
+        },
+        {
+          "name": "ptr_math",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "libbacktrace",
+          "str": ">= 0.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.8"
+          }
+        },
+        {
+          "name": "shakar",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        },
+        {
+          "name": "url",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "balde"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.8.2",
+        "hash": "99f0aa14155d0b0c9e39f6273a51c35b497207de",
+        "time": 1761739423
+      },
+      {
+        "tag": "0.8.1",
+        "hash": "130a87639dd920b5d91cc844c2380b2772d4247e",
+        "time": 1758536676
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "aa6b6e88421a4722f7da70d2ef5fe8d1b45b13b4",
+        "time": 1757243896
+      },
+      {
+        "tag": "0.7.8",
+        "hash": "b8a5b37073b81a1d404990827ec015f1aa2dac88",
+        "time": 1756449787
+      },
+      {
+        "tag": "0.7.7",
+        "hash": "af063e0ea368cd0accfeaf7723267471586693c1",
+        "time": 1755873979
+      },
+      {
+        "tag": "0.7.6",
+        "hash": "b92ab0a5f81abd5186ccf407b92a2d97a8197539",
+        "time": 1754492232
+      },
+      {
+        "tag": "0.7.5",
+        "hash": "8ec5a9bcf537b86fd1d16413045aad7241eb65dd",
+        "time": 1753941460
+      },
+      {
+        "tag": "0.7.4",
+        "hash": "2dac884fe5aa8c8fcd8b5769534da786a53120ca",
+        "time": 1752414360
+      },
+      {
+        "tag": "0.7.3",
+        "hash": "a7ea9d81405395ed2d3a86ee8fe21dcd5ef33652",
+        "time": 1751696972
+      },
+      {
+        "tag": "0.7.2",
+        "hash": "7fe77962f2f85c842d113606b6ef586e76eb32d2",
+        "time": 1751285327
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "ee74ebdd6d6815cca757881bd7999b37b7d84f1d",
+        "time": 1750587835
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "9414fff556916c3efc47d5449db7f06c52e889e2",
+        "time": 1749706410
+      },
+      {
+        "tag": "0.6.5",
+        "hash": "4e10630f29a50f55df37b0fb7997c08ada62b821",
+        "time": 1748261473
+      },
+      {
+        "tag": "0.6.4",
+        "hash": "a51cb4854fb4b482674dd999c7d889afe6cf43f8",
+        "time": 1747581342
+      },
+      {
+        "tag": "0.6.3",
+        "hash": "1ce3633a0267a280abe4118863ba251654b89d50",
+        "time": 1740654491
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "ce8d37d36ec4394a75e14b8fa86490681a4f53fd",
+        "time": 1739787704
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "069aac22faedc9c1d0e479b9fa8524364c4eb4dc",
+        "time": 1739637333
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "fd0d4ff99f2cc39f6ffb451326d663ef249ab6b6",
+        "time": 1739634717
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "4df3f8e5962dda98292d902bd94e499f14f51088",
+        "time": 1737903703
+      },
+      {
+        "tag": "0.4.4",
+        "hash": "997aed3a0649049a690180beb6140454db096856",
+        "time": 1736836021
+      },
+      {
+        "tag": "0.4.31",
+        "hash": "6b80ac215b01c18742bf87a262b8776f7c075775",
+        "time": 1736235475
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "5b18f3c8abb8bd1aa83c518806b11f5543ed929f",
+        "time": 1736170507
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "65351c7486da3dce4f9d83b58e7af2cedb48a7ec",
+        "time": 1734454780
+      },
+      {
+        "tag": "0.4.13",
+        "hash": "6b9151fccb7f68f0e5de48a665eb89aa459d74dc",
+        "time": 1733915838
+      },
+      {
+        "tag": "0.4.13-alpha2",
+        "hash": "aeae33bfcb21dbc6119b00b1717ec7086b6c5b65",
+        "time": 1733749846
+      },
+      {
+        "tag": "0.4.13-alpha1",
+        "hash": "6645e8506f51880d810b75b928b103d21be0c6c3",
+        "time": 1733641447
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "362550cb23c92fb63d22c25e90718c979f4781b1",
+        "time": 1732977356
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "fd44f336da4c91518666096d229b800013024b1d",
+        "time": 1732775153
+      },
+      {
+        "tag": "0.3.83",
+        "hash": "4ed0b8e0ca3d563c8f76208e84c19e5680d4213c",
+        "time": 1732506707
+      },
+      {
+        "tag": "0.3.82",
+        "hash": "6e1ae97cf5e4883a1566b66e2059c032775af9b7",
+        "time": 1731993449
+      },
+      {
+        "tag": "0.3.81",
+        "hash": "be730964799dee6510dc72d95b9007c488b7d4b6",
+        "time": 1731840155
+      },
+      {
+        "tag": "0.3.8",
+        "hash": "8548a6690e201008c352062cc75b50d9748e3646",
+        "time": 1731669929
+      },
+      {
+        "tag": "0.3.7",
+        "hash": "dcf171f068cf16f4218efef0e37412a96ac505c8",
+        "time": 1731135283
+      },
+      {
+        "tag": "0.3.6",
+        "hash": "827b694dd77fcf5f1cee140b5743d4cd7d9002e5",
+        "time": 1730615910
+      },
+      {
+        "tag": "0.3.52",
+        "hash": "964dc46df432e982337f727829d6e0ea95785501",
+        "time": 1730451078
+      },
+      {
+        "tag": "0.3.51",
+        "hash": "be8f98c81f550bedeac648c860ca0f2c11be0420",
+        "time": 1730450733
+      },
+      {
+        "tag": "0.3.5",
+        "hash": "5803902d214e710777e9132fa1436a8f0cb6ee5c",
+        "time": 1730443732
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "eb95f02a1a6939032715e431ca8861998f6996a1",
+        "time": 1730005503
+      },
+      {
+        "tag": "0.3.3, 0.3.2",
+        "hash": "fc95937f7cce06c5058f5acb5e56de505bff6d02",
+        "time": 1729149149
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "5680cf0f6a9bdecb59d83b4a473db8138053217a",
+        "time": 1727507722
+      }
+    ],
+    "commit": {
+      "hash": "71044b3999f7e6503594b826ab1f80c28eb7cd64",
+      "time": 1767869114
+    }
+  }
+}

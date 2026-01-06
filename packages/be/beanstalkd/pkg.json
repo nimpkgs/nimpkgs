@@ -1,0 +1,37 @@
+{
+  "name": "beanstalkd",
+  "url": "https://github.com/tormaroe/beanstalkd.nim.git",
+  "method": "git",
+  "description": "A beanstalkd work queue client library.",
+  "license": "MIT",
+  "web": "https://github.com/tormaroe/beanstalkd.nim",
+  "tags": [
+    "library",
+    "queue",
+    "messaging"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "43b9b11ba0f6c4b0c31d4bb7ac3241ce4c480cb5",
+        "time": 1428842526
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "dfffb769b5141a550fd7131d6447bc5ab0f301dd",
+        "time": 1428790371
+      }
+    ],
+    "commit": {
+      "hash": "0cdf821a3f4f8ac0c6e1ddb99f7d01c4f795b20d",
+      "time": 1430318682
+    }
+  }
+}

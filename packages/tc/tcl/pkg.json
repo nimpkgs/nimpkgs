@@ -1,0 +1,32 @@
+{
+  "name": "tcl",
+  "url": "https://github.com/nim-lang/tcl",
+  "method": "git",
+  "description": "Wrapper for the TCL programming language",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/tcl",
+  "tags": [
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": "> 0.9.2",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.9.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "aeaccae0db216dc0cfe61f58a9b084482a647586",
+      "time": 1620743078
+    }
+  }
+}

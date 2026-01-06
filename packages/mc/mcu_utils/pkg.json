@@ -1,0 +1,51 @@
+{
+  "name": "mcu_utils",
+  "url": "https://github.com/EmbeddedNim/mcu_utils",
+  "method": "git",
+  "description": "Utilities and simple helpers for programming with Nim on embedded MCU devices",
+  "license": "Apache-2.0",
+  "web": "https://github.com/EmbeddedNim/mcu_utils",
+  "tags": [
+    "embedded",
+    "mcu",
+    "utilities",
+    "microcontroller"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.5"
+          }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "persistent_enums",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a585835c140d54c2c807313b43442e17c44a1a1a",
+      "time": 1756957157
+    }
+  }
+}

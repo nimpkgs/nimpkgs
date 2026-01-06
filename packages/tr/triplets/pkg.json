@@ -1,0 +1,87 @@
+{
+  "name": "triplets",
+  "url": "https://github.com/linksplatform/Data.Triplets",
+  "method": "git",
+  "description": "The Nim bindings for linksplatform/Data.Triplets.Kernel.",
+  "license": "AGPLv3",
+  "web": "https://github.com/linksplatform/Data.Triplets",
+  "tags": [
+    "triplets",
+    "database",
+    "C",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "nim/src"
+    },
+    "versions": [
+      {
+        "tag": "csharp_0.1.1",
+        "hash": "7766537fcfafd8840a4902fe7ed5d3b4480175d8",
+        "time": 1653983968
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "41b195b3cd256f8c8b4da510caa0997de6875a8f",
+        "time": 1635079547
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "024b14cbe2994c3bd6612bda2cc09ce27241721b",
+        "time": 1582657964
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "a1aba26ebab787aceee571ad585b81cb5403ce47",
+        "time": 1573415461
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "2caa5401718f907212d5f5c19c53b7d7bdd60329",
+        "time": 1573213864
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "07b9eb2c1d5c819a7eb67ec26debd1df3e65cb54",
+        "time": 1568727946
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "876cfb244f94b33afea20801b764150c32c5e774",
+        "time": 1566576386
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "ab8cfb393e4d3314387efc52ea6707ec419fedf9",
+        "time": 1566496514
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "e4feebeab96a4fb03e655d366b99bf84a6a34af9",
+        "time": 1564474316
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "76992ca366bda4d6da43054b9e4f6e288a565246",
+        "time": 1564472188
+      }
+    ],
+    "commit": {
+      "hash": "cf7bf6c2bde297faaa2cd27b77890a9c8ad5272c",
+      "time": 1752940745
+    }
+  }
+}

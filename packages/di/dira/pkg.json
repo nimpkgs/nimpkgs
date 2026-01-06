@@ -1,0 +1,57 @@
+{
+  "name": "dira",
+  "url": "https://github.com/tdely/dira",
+  "method": "git",
+  "description": "git profile manager",
+  "license": "MIT",
+  "web": "https://github.com/tdely/dira",
+  "tags": [
+    "git",
+    "profile",
+    "manager"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.7"
+          }
+        }
+      ],
+      "bin": [
+        "dira"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.1",
+        "hash": "30fef7e9500920d47fc1eab642bf8de82e938e57",
+        "time": 1762362501
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "9f27a7f6f47e2bc4c1538458b682e8839bdaf171",
+        "time": 1715513662
+      }
+    ],
+    "commit": {
+      "hash": "30fef7e9500920d47fc1eab642bf8de82e938e57",
+      "time": 1762362501
+    }
+  }
+}

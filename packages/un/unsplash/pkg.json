@@ -1,0 +1,44 @@
+{
+  "name": "unsplash",
+  "url": "https://github.com/juancarlospaco/nim-unsplash",
+  "method": "git",
+  "description": "Unsplash API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-unsplash",
+  "tags": [
+    "unsplash",
+    "photos",
+    "images",
+    "async",
+    "multisync",
+    "photography"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "e3e6af3cbb34ecd2476cb9cc886726de914a54a4",
+        "time": 1546070650
+      }
+    ],
+    "commit": {
+      "hash": "3ca0a9f6c1c1d7dbae79d617ccdea154204eb856",
+      "time": 1546071762
+    }
+  }
+}

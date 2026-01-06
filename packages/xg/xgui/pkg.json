@@ -1,0 +1,72 @@
+{
+  "name": "xgui",
+  "url": "https://github.com/thatrandomperson5/xgui-nim",
+  "method": "git",
+  "description": "XGui is a tool for nigui that imports xml files and turns them into nim at compile-time.",
+  "license": "MIT",
+  "web": "https://github.com/thatrandomperson5/xgui-nim",
+  "tags": [
+    "library",
+    "gui",
+    "xml"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nigui",
+          "str": ">= 0.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.6"
+          }
+        },
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.20.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "68b44c2dc732f160536af6cf6e999b4df987f046",
+        "time": 1704923682
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "244fe7fd37fb1f36d839aa44915577d2e8f6dda7",
+        "time": 1704909109
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "32598201dccc2a0f13c80a0717f0734cc9ddb6fa",
+        "time": 1673359200
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "2bbed873fac7165c1055b0ca3e71e0d64fab559f",
+        "time": 1673280418
+      }
+    ],
+    "commit": {
+      "hash": "f25da858e833a7b6bf3fd1631831ef7330d94d4d",
+      "time": 1704928537
+    }
+  }
+}

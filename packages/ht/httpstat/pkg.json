@@ -1,0 +1,37 @@
+{
+  "name": "httpstat",
+  "url": "https://github.com/ucpr/httpstat",
+  "method": "git",
+  "description": "curl statistics made simple ",
+  "license": "MIT",
+  "web": "https://github.com/ucpr/httpstat",
+  "tags": [
+    "curl",
+    "httpstat",
+    "nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        }
+      ],
+      "bin": [
+        "httpstat"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "7d695685cc6fcbae25f5eb0ecb7c812a3aa58c98",
+      "time": 1674631921
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "formulas",
+  "url": "https://github.com/thisago/formulas",
+  "method": "git",
+  "description": "Mathematical formulas",
+  "license": "MIT",
+  "web": "https://github.com/thisago/formulas",
+  "tags": [
+    "math",
+    "geometry"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "498ecad0c69e3a5bd4144695bc3d1ec946afe29f",
+      "time": 1631840593
+    }
+  }
+}

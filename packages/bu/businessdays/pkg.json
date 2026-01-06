@@ -1,0 +1,51 @@
+{
+  "name": "businessdays",
+  "url": "https://github.com/GeK2K/businessdays",
+  "method": "git",
+  "description": "Business Days (or Working Days) calculator.",
+  "license": "MIT",
+  "web": "https://github.com/GeK2K/businessdays",
+  "tags": [
+    "calendar",
+    "businessday",
+    "bizday",
+    "holiday"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "questionable",
+          "str": ">= 0.10.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.10"
+          }
+        },
+        {
+          "name": "nimutils",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "66a42ef020ef7459d08c8e8addcdd882e903fd80",
+      "time": 1727514025
+    }
+  }
+}

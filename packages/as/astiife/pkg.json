@@ -1,0 +1,32 @@
+{
+  "name": "astiife",
+  "url": "https://github.com/xjzh123/astiife",
+  "method": "git",
+  "description": "AST IIFE for nim. Generate code with AST.",
+  "license": "MIT",
+  "web": "https://github.com/xjzh123/astiife",
+  "tags": [
+    "macros"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "be1985e357eeb859467157e12e3a0f24c75c7d31",
+      "time": 1699444274
+    }
+  }
+}

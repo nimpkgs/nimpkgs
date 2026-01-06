@@ -1,0 +1,43 @@
+{
+  "name": "pymod",
+  "url": "https://github.com/jboy/nim-pymod",
+  "method": "git",
+  "description": "Auto-generate a Python module that wraps a Nim module.",
+  "license": "MIT",
+  "web": "https://github.com/jboy/nim-pymod",
+  "tags": [
+    "wrapper",
+    "python",
+    "module",
+    "numpy",
+    "array",
+    "matrix",
+    "ndarray",
+    "pyobject",
+    "pyarrayobject",
+    "iterator",
+    "iterators",
+    "docstring"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "> 0.12.0",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "3e4c49afdfdab2c3325588b6b823c102f22fc588",
+      "time": 1478010213
+    }
+  }
+}

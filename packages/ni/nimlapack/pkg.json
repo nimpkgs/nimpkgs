@@ -1,0 +1,65 @@
+{
+  "name": "nimlapack",
+  "url": "https://github.com/andreaferretti/nimlapack",
+  "method": "git",
+  "description": "LAPACK bindings",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/nimlapack",
+  "tags": [
+    "LAPACK",
+    "linear-algebra"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "231430b3d2156f5cbe8fe16bb8967cd9a93964c5",
+        "time": 1716451926
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "7a86e9aa7b2cecbc56735d80d0574b7516a8206e",
+        "time": 1696752876
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "8b9baa9a7b7ad5b068563aa39920f040769f9416",
+        "time": 1686126711
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "983fa690c98814ddef92747de70586a50379a804",
+        "time": 1650707840
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "e0bcb7cc0b77911d37ea0588656f69db56608aee",
+        "time": 1569340878
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "dfe88ee0a5e33a4917c268074b5809ad8f668027",
+        "time": 1497619121
+      }
+    ],
+    "commit": {
+      "hash": "231430b3d2156f5cbe8fe16bb8967cd9a93964c5",
+      "time": 1716451926
+    }
+  }
+}

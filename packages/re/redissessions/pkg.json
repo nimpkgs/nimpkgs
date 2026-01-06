@@ -1,0 +1,42 @@
+{
+  "name": "redissessions",
+  "url": "https://github.com/ithkuil/redissessions/",
+  "method": "git",
+  "description": "Redis-backed sessions for jester",
+  "license": "MIT",
+  "web": "https://github.com/ithkuil/redissessions/",
+  "tags": [
+    "jester",
+    "sessions",
+    "redis"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.9.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.2"
+          }
+        },
+        {
+          "name": "jester",
+          "str": ">= 0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "7dbc1cf16017df8a17d301d68573c0dae17b3721",
+      "time": 1475381231
+    }
+  }
+}

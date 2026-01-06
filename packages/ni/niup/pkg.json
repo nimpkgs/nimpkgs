@@ -1,0 +1,136 @@
+{
+  "name": "niup",
+  "url": "https://github.com/dariolah/niup",
+  "method": "git",
+  "description": "IUP FFI bindings",
+  "license": "MIT",
+  "web": "https://github.com/dariolah/niup",
+  "tags": [
+    "iup",
+    "gui",
+    "nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.30.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v3.30.7",
+        "hash": "7ecf5cef8ee4dd2c88c8d04efb0cd321cf0a6d9f",
+        "time": 1642186593
+      },
+      {
+        "tag": "v3.30.6",
+        "hash": "77ed4015c728f44d7cf59cc1d6faf27db37cb68c",
+        "time": 1640714825
+      },
+      {
+        "tag": "v3.30.5",
+        "hash": "247f88fae07f691173780c6ef9feb30c09b52d5e",
+        "time": 1640007667
+      },
+      {
+        "tag": "3.30.2",
+        "hash": "bb552ac0017481f1266f4b79d4f2241f2e4b23c9",
+        "time": 1634750685
+      },
+      {
+        "tag": "3.30.1",
+        "hash": "e5afba592aa2cdb57d485dcc819569d087a0c6bd",
+        "time": 1626616451
+      },
+      {
+        "tag": "3.30.0",
+        "hash": "6c73ad0f7f5768b5cd54436526ca467a93474a71",
+        "time": 1598792793
+      },
+      {
+        "tag": "3.29.1",
+        "hash": "7d2198b300b7ab3d2ee9edf7b7c1e39dc507ce19",
+        "time": 1591540093
+      },
+      {
+        "tag": "3.29.0",
+        "hash": "91cc72407a749dc6f003e2897b1c1bed8aa7baa0",
+        "time": 1590243611
+      },
+      {
+        "tag": "3.28.2",
+        "hash": "1350a4dc460fdd40685bdfb00eb6a01a77eba6d7",
+        "time": 1586607444
+      },
+      {
+        "tag": "3.28.1",
+        "hash": "796869d7b1d3a953241fca4498987846c61a38a5",
+        "time": 1576609685
+      },
+      {
+        "tag": "3.28.0",
+        "hash": "4d201360ffab2b0e54b8931d90bb12c0b28e23a7",
+        "time": 1570468237
+      },
+      {
+        "tag": "3.27.8",
+        "hash": "485a087998352def23ffc30a25c2542209be8a8e",
+        "time": 1570375759
+      },
+      {
+        "tag": "3.27.7",
+        "hash": "52afe8dcc8d36ee2e5e6181bdcad2c0bcaf106ac",
+        "time": 1569522770
+      },
+      {
+        "tag": "3.27.6",
+        "hash": "09cb652caf8d9ae1a7a97f702784094ec617cfdf",
+        "time": 1568657737
+      },
+      {
+        "tag": "3.27.5",
+        "hash": "ad3b88638a5219cc0fe8a5b3986a9386962a421b",
+        "time": 1567872698
+      },
+      {
+        "tag": "3.27.4",
+        "hash": "7f842f84b043533ba973b22413580aebd7846db4",
+        "time": 1567845809
+      },
+      {
+        "tag": "3.27.3",
+        "hash": "97cdcec2c9d0b687ebfaf8a2538140ba8ae72849",
+        "time": 1567788894
+      },
+      {
+        "tag": "3.27.2",
+        "hash": "99d1fa1fe99972a28b78381ae81978db353cb29a",
+        "time": 1562407509
+      },
+      {
+        "tag": "3.27.1",
+        "hash": "0a67ff49c7ccb0d974a0360afc9e4b2c7357f5f2",
+        "time": 1559761360
+      },
+      {
+        "tag": "3.27.0",
+        "hash": "2e1b4810e830a261155682d506939229bbe60e50",
+        "time": 1559327467
+      }
+    ],
+    "commit": {
+      "hash": "b5ee23eb139f3eefaf54ccb9159be188d187433d",
+      "time": 1642187190
+    }
+  }
+}

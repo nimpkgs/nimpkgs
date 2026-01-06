@@ -1,0 +1,48 @@
+{
+  "name": "libffi",
+  "url": "https://github.com/Araq/libffi",
+  "method": "git",
+  "description": "libffi wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/libffi",
+  "tags": [
+    "ffi",
+    "library",
+    "C",
+    "calling",
+    "convention"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.0.4",
+        "hash": "d5b23c440584f1569b8a5c8469ad6dcc95141c4d",
+        "time": 1601991154
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "88401f510fb978818fe0167c5e4c6582ff515a38",
+        "time": 1601989685
+      }
+    ],
+    "commit": {
+      "hash": "bb2bdaf1a29a4bff6fbd8ae4695877cbb3ec783e",
+      "time": 1661234792
+    }
+  }
+}

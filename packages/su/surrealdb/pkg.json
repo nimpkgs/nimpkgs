@@ -1,0 +1,73 @@
+{
+  "name": "surrealdb",
+  "url": "https://github.com/Xkonti/surrealdb.nim",
+  "method": "git",
+  "description": "SurrealDB driver for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Xkonti/surrealdb.nim",
+  "tags": [
+    "surrealdb",
+    "database",
+    "surrealql",
+    "driver",
+    "sql",
+    "nosql",
+    "websocket"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "ws",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "tinyre",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "asynctest",
+          "str": ">= 0.5.2 & < 0.6.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "surrealdb"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "7b2ecabfd84c3c2e2e94b60a2a986d0dad4eab3c",
+      "time": 1763668711
+    }
+  }
+}

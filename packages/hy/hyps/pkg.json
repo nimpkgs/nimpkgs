@@ -1,0 +1,49 @@
+{
+  "name": "hyps",
+  "url": "https://github.com/nitely/nim-hyps",
+  "method": "git",
+  "description": "An async pub/sub client and server",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-hyps",
+  "tags": [
+    "pubsub",
+    "web",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "hyperx",
+          "str": ">= 0.1.53",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.53"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "39379574b8faa1a18706275d337ef914cb42dbb0",
+        "time": 1746488974
+      }
+    ],
+    "commit": {
+      "hash": "39379574b8faa1a18706275d337ef914cb42dbb0",
+      "time": 1746488974
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "ed25519",
+  "url": "https://github.com/niv/ed25519.nim",
+  "method": "git",
+  "description": "ed25519 key crypto bindings",
+  "license": "MIT",
+  "web": "https://github.com/niv/ed25519.nim",
+  "tags": [
+    "ed25519",
+    "cryptography",
+    "crypto",
+    "publickey",
+    "privatekey",
+    "signing",
+    "keyexchange",
+    "native"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "176aff141a27ec94f954e961be21671b64531b39",
+      "time": 1484929858
+    }
+  }
+}

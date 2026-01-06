@@ -1,0 +1,79 @@
+{
+  "name": "stew",
+  "url": "https://github.com/status-im/nim-stew",
+  "method": "git",
+  "description": "stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-stew",
+  "tags": [
+    "library",
+    "backports",
+    "shims",
+    "ranges",
+    "bitwise",
+    "bitops",
+    "endianness",
+    "bytes",
+    "blobs",
+    "pointer-arithmetic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.4.2",
+        "hash": "b66168735d6f3841c5239c3169d3fe5fe98b1257",
+        "time": 1759488424
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "e5740014961438610d336cd81706582dbf2c96f0",
+        "time": 1750246149
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "58abb4891f97c6cdc07335e868414e0c7b736c68",
+        "time": 1747127937
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "79e4fa5a9d3374db17ed63622714d3e1094c7f34",
+        "time": 1733304957
+      }
+    ],
+    "commit": {
+      "hash": "b66168735d6f3841c5239c3169d3fe5fe98b1257",
+      "time": 1759488424
+    }
+  }
+}

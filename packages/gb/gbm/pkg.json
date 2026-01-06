@@ -1,0 +1,37 @@
+{
+  "name": "gbm",
+  "url": "https://github.com/xTrayambak/gbm-nim",
+  "method": "git",
+  "description": "Raw low-level bindings and idiomatic high-level bindings for Mesa's GBM API",
+  "license": "MIT",
+  "web": "https://github.com/xTrayambak/gbm-nim",
+  "tags": [
+    "gpu",
+    "linux",
+    "wayland",
+    "gbm",
+    "graphics",
+    "vram"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8f6177cafff70a233dcca27c2def101cd045a81e",
+      "time": 1744106433
+    }
+  }
+}

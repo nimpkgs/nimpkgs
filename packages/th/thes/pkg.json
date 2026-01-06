@@ -1,0 +1,128 @@
+{
+  "name": "thes",
+  "url": "https://github.com/c-blake/thes",
+  "method": "git",
+  "description": "Thesaurus CLI/Library & Analyzer in Nim",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/thes",
+  "tags": [
+    "thesaurus",
+    "definitions",
+    "graph algorithms",
+    "graph example"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.9.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.1"
+          }
+        },
+        {
+          "name": "gralg",
+          "str": ">= 0.5.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.5.6",
+        "hash": "d6c51a1c5fd9a4bde31f6378232727fbe781d728",
+        "time": 1757426504
+      },
+      {
+        "tag": "0.5.5",
+        "hash": "88be13b890bf75cf4b2a7d6ca990fbca3c1fc675",
+        "time": 1752943142
+      },
+      {
+        "tag": "0.5.4",
+        "hash": "5d961dc2bbde8c598d7b885003d1f80e43f1866d",
+        "time": 1744543788
+      },
+      {
+        "tag": "0.5.3",
+        "hash": "f6a7816750172ebe2d1e5208afd68f89c66e871c",
+        "time": 1740087727
+      },
+      {
+        "tag": "0.5.2",
+        "hash": "e3ae6a8ecdcf0781fb44cf519105438f75795f98",
+        "time": 1731766064
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "cc7dade342fdefab03aaa57203d0a9bd7a922fd4",
+        "time": 1719163675
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "4bf4db54a7f18845b9176566bc7d11bfca6896b7",
+        "time": 1718206510
+      },
+      {
+        "tag": "0.4.4",
+        "hash": "13097b7e2fd0d51b84314dd24fc925f2e6064e40",
+        "time": 1688734471
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "51e51e67440ee6c3acd321fa03b043251562e28a",
+        "time": 1683888032
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "38b83d3bcca89a1cd8139887cf7b044b95f3f06e",
+        "time": 1673802567
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "a577adb41d0296d86067bb3dce9410bafcb7c568",
+        "time": 1673801975
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "308329b9225798af51bbcef76cdc77a4cd83cd14",
+        "time": 1670532211
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "559ec272ece9a97b60640b9c5e9c0d47ab2f4614",
+        "time": 1659723147
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "2180662951fbf3c70f2d0ce502421f72b3b303a4",
+        "time": 1659556753
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "ac696f7a99f255f3786bf8f0a53545172b897a7d",
+        "time": 1659495949
+      }
+    ],
+    "commit": {
+      "hash": "2e5dcf8a9e77972ee17822d290aaa96d6dfe85bf",
+      "time": 1761938944
+    }
+  }
+}

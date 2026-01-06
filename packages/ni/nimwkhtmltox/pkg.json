@@ -1,0 +1,58 @@
+{
+  "name": "nimwkhtmltox",
+  "url": "https://github.com/neroist/nim-wkhtmltox",
+  "method": "git",
+  "description": "Nim bindings for wkhtmltox",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/neroist/nim-wkhtmltox",
+  "tags": [
+    "wkhtmltopdf",
+    "wkhtmltoimage",
+    "wkhtmltox",
+    "pdf",
+    "image",
+    "html",
+    "htmltopdf",
+    "htmltoimage",
+    "bindings",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "229ad8f0a17456cbbc3fb40cc49b814188a39296",
+        "time": 1683732709
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "8cf6e5c4bd6c38295ac0e34cd3643237491a0faf",
+        "time": 1683147689
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "f1fd532578918a4ce289dc3c61bb86d5d715770c",
+        "time": 1683088856
+      }
+    ],
+    "commit": {
+      "hash": "95c2093c299ad7970f3ea02b69b3cc1b7067f63b",
+      "time": 1683733000
+    }
+  }
+}

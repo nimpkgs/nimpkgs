@@ -1,0 +1,94 @@
+{
+  "name": "ws",
+  "url": "https://github.com/treeform/ws",
+  "method": "git",
+  "description": "Simple WebSocket library for nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/ws",
+  "tags": [
+    "websocket"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "> 1.0.0",
+          "ver": {
+            "kind": "verLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.5.0",
+        "hash": "9536bf99ddf5948db221ccb7bb3663aa238a8e21",
+        "time": 1637352233
+      },
+      {
+        "tag": "0.4.4",
+        "hash": "13cbd43972fdc7fbe6beade281116beaa945078f",
+        "time": 1627010532
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "3db8a12249de5276798be5d7a569884140209c5d",
+        "time": 1597936647
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "974a508cdd6412bdc6cbb52e4824e4d7149233a1",
+        "time": 1596814035
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "e7708425a4a1fb10eac6d4420a86a9e6b12ed09c",
+        "time": 1592524736
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "d5f96d5c954338e563555f22f7c896c46e548bc6",
+        "time": 1577400807
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "116964a616576d99aaf504b8cdad51851157814a",
+        "time": 1575478481
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "c9ed9552c4d31bc212566fcbe395669ca2f2020d",
+        "time": 1573599439
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "085d4470b7fd88b980b86a8a548765353e0522bc",
+        "time": 1573409323
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "658529cc0ae219baf9c611bbfd3c265559f66b03",
+        "time": 1573241663
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "5100489ddc8c96245bbe7adca3be4e5478c37373",
+        "time": 1573240308
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "10fa5edf6c4804f24c05027f997983e3da925e1b",
+        "time": 1571252296
+      }
+    ],
+    "commit": {
+      "hash": "cbb8f763b436669392d10baec2a45778395395cc",
+      "time": 1758338260
+    }
+  }
+}

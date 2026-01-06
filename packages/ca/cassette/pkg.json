@@ -1,0 +1,36 @@
+{
+  "name": "cassette",
+  "url": "https://github.com/LemonBoy/cassette",
+  "method": "git",
+  "description": "Record and replay your HTTP sessions!",
+  "license": "MIT",
+  "web": "https://github.com/LemonBoy/cassette",
+  "tags": [
+    "http",
+    "network",
+    "test",
+    "mock",
+    "requests"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8cf4ffc56648e5f0b07130a9f43942cf2bb6f268",
+      "time": 1549310428
+    }
+  }
+}

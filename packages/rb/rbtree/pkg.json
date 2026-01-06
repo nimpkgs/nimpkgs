@@ -1,0 +1,62 @@
+{
+  "name": "rbtree",
+  "url": "https://github.com/Nycto/RBTreeNim",
+  "method": "git",
+  "description": "Red/Black Trees",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/RBTreeNim",
+  "tags": [
+    "tree",
+    "binary search tree",
+    "rbtree",
+    "red black tree"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.5.0",
+        "hash": "a789f733f70884b0c30129ee57ae05a88ce4f4f5",
+        "time": 1553703620
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "813bbb1036e057d7085db6fb876b28e15e6af1aa",
+        "time": 1455076541
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "2bb35817098c2e566270f9f8e27da2781a9c84ee",
+        "time": 1442178157
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "3e271b139b525d9a50591c5f3cb28428d4049522",
+        "time": 1440602505
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "47314e58561e6a08e92a580c89518f45059ed53e",
+        "time": 1434304869
+      }
+    ],
+    "commit": {
+      "hash": "8f702af02aadb45b53d2bbcbead028332538f569",
+      "time": 1696098365
+    }
+  }
+}

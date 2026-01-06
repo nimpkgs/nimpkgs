@@ -1,0 +1,108 @@
+{
+  "name": "couchdbapi",
+  "url": "https://github.com/zendbit/nim_couchdbapi",
+  "method": "git",
+  "description": "Apache CouchDb driver (REST API) for nim lang.",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_couchdbapi",
+  "tags": [
+    "couchdb",
+    "database",
+    "apache",
+    "nosql",
+    "json"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "f310e9c75856abbf6cae6418f02ab0b7e4c4cbb0",
+        "time": 1693877616
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "40511b430b0f40bf0523e361584213adf459fe74",
+        "time": 1690380106
+      },
+      {
+        "tag": "v0.2.0, V0.2.0.beta",
+        "hash": "1892c9f6da7255eb06b9d686adf559e7019f7d69",
+        "time": 1690089574
+      },
+      {
+        "tag": "V0.2.0",
+        "hash": "47cd44f608414777ffec95156c54452c0ae495ac",
+        "time": 1690080788
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "4cf6524a134363876fcd945a7b1caa739aa438f5",
+        "time": 1689321810
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "946a014510c20461c73b4047c856c81100957375",
+        "time": 1677031965
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "3bec125c328a3c7506db70cfd9e7cb5c72bfc521",
+        "time": 1677031476
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "1c8c689385c6f07775c23ab082ca773b31efc073",
+        "time": 1677029676
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "fb15950705b1723e98889d7074e68d08e37cbbea",
+        "time": 1676183173
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ec8365790a1e7511e7d681f0cf2d46815ceec774",
+        "time": 1675990288
+      },
+      {
+        "tag": "v0.0.4",
+        "hash": "5110fd8e8a69b392b4437605fe92526295505222",
+        "time": 1673084463
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "4a8d87eec88958d9335f1e2831c3e8bae0b2c416",
+        "time": 1673078011
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "0cf6ab551ef07d7de0cc8d5aee047c45ef600ba4",
+        "time": 1672130031
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "581a564b322363aea506a0f14b45a7fbf3af235f",
+        "time": 1672057364
+      }
+    ],
+    "commit": {
+      "hash": "f310e9c75856abbf6cae6418f02ab0b7e4c4cbb0",
+      "time": 1693877616
+    }
+  }
+}

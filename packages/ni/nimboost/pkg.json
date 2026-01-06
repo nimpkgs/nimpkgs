@@ -1,0 +1,159 @@
+{
+  "name": "nimboost",
+  "url": "https://github.com/vegansk/nimboost",
+  "method": "git",
+  "description": "Additions to the Nim's standard library, like boost for C++",
+  "license": "MIT",
+  "web": "https://vegansk.github.io/nimboost/",
+  "tags": [
+    "stdlib",
+    "library",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "patty",
+          "str": ">= 0.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.5.5",
+        "hash": "68d8e681cbdd1e6b805327d335ab1319e5d6eaf9",
+        "time": 1553499871
+      },
+      {
+        "tag": "v0.5.4",
+        "hash": "86b5ab51893e8fa410f83a93b601aa92968eeba1",
+        "time": 1529030612
+      },
+      {
+        "tag": "v0.5.3",
+        "hash": "83ee022e2d21e2b8b3a57275ddb53cb6b2913953",
+        "time": 1510303923
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "b30518b0a41d3c81ed0325f3670eaec8f21e9ee1",
+        "time": 1505273444
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "4389a6edb72f259157e1b09af49a8fbc09a06325",
+        "time": 1501737363
+      },
+      {
+        "tag": "v0.4.8",
+        "hash": "d940b0ec630c141dfb6a060be20f82cc85262485",
+        "time": 1498446281
+      },
+      {
+        "tag": "v0.4.5",
+        "hash": "07e5ab9fb3287c94f02625a444a2781755a0edc7",
+        "time": 1490611725
+      },
+      {
+        "tag": "v0.4.4",
+        "hash": "234ff4e8fbd8eb683f87de1123feb0db85fc572c",
+        "time": 1489483004
+      },
+      {
+        "tag": "v0.4.3",
+        "hash": "401a5bc7245f46c69ce4be8a98fc35f7419eabb1",
+        "time": 1489482210
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "ab27712eb914fb70fbad3eee34d7545366709422",
+        "time": 1489386245
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "aaad60d78f070863c22111b6e712d1402ee8b71f",
+        "time": 1489116228
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "225c11e49c5a1fe28ffa90a22b7618fde03b2701",
+        "time": 1488531007
+      },
+      {
+        "tag": "v0.3.6",
+        "hash": "de6f4e256f8eecef2ad77175f9752dffa04c6580",
+        "time": 1487578725
+      },
+      {
+        "tag": "v0.3.5",
+        "hash": "d24ecc6649504fd7dc4e42014a0ae01e2c0e95ff",
+        "time": 1486966410
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "5cd94a0634a4ff9a678240bb2d4215d96f25d942",
+        "time": 1481797574
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "2bb69caf602c4b9de7a13b1f97f8535e62352d06",
+        "time": 1481797353
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "6819a5035e50c273fb2b83c9b1d52632b5244b48",
+        "time": 1480409453
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "e9b3db74812dc68b165866c1def78d1d2be03161",
+        "time": 1479873078
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "571d7382ee61a840a671c5470be203eb56badda3",
+        "time": 1473925175
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "8a982a3ad43a3d8db8be4a70fa109ef86a7f87be",
+        "time": 1472208150
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "5ffa292a95e1230c114759e4e61cc6f3d3bb59ee",
+        "time": 1472183752
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e8ba2cc8855f3ae251c71cc1ab88acc2fe3f274b",
+        "time": 1468390331
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "e967c11e333202a64ab0e09c5a318a6de213aadc",
+        "time": 1467086882
+      }
+    ],
+    "commit": {
+      "hash": "e3a6a736197ab97411d2f7ede7af4d6be76fdf6b",
+      "time": 1553500020
+    }
+  }
+}

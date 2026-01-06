@@ -1,0 +1,50 @@
+{
+  "name": "tram",
+  "url": "https://github.com/facorazza/tram",
+  "method": "git",
+  "description": "🚋 Traffic Analysis in Nim",
+  "license": "GPL-3.0",
+  "web": "https://github.com/facorazza/tram",
+  "tags": [
+    "traffic analysis",
+    "pcap"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "a85ed168025a12b253993006cf35d27a9f1da3cc",
+        "time": 1671306840
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "1e45e51742717c31f14f63abcf6b0e63127644d6",
+        "time": 1671304463
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "9bd5307e74fbdf6584c15fb87a834bd8bd1b2684",
+        "time": 1671301592
+      }
+    ],
+    "commit": {
+      "hash": "a85ed168025a12b253993006cf35d27a9f1da3cc",
+      "time": 1671306840
+    }
+  }
+}

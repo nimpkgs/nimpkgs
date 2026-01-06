@@ -1,0 +1,37 @@
+{
+  "name": "limiter",
+  "url": "https://github.com/supranim/limiter",
+  "method": "git",
+  "description": "A simple to use HTTP rate limiting library to limit any action during a specific period of time.",
+  "license": "MIT",
+  "web": "https://github.com/supranim/limiter",
+  "tags": [
+    "http",
+    "limiter",
+    "rate-limiter",
+    "throttle",
+    "api",
+    "supranim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "11096ff21f78e9365c5d85f6567b91fb0ad5a06e",
+      "time": 1745641090
+    }
+  }
+}

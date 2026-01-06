@@ -1,0 +1,43 @@
+{
+  "name": "NimDBX",
+  "url": "https://github.com/snej/nimdbx",
+  "method": "git",
+  "description": "Fast persistent key-value store, based on libmdbx",
+  "license": "Apache-2.0",
+  "tags": [
+    "database",
+    "libmdbx",
+    "LMDB",
+    "bindings",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.6.13",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.13"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "3a0cabd39297b8d21b225cd0a76a3cac19beac2e",
+      "time": 1680985697
+    }
+  }
+}

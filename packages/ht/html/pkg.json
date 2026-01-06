@@ -1,0 +1,36 @@
+{
+  "name": "html",
+  "url": "https://github.com/thing-king/html",
+  "method": "git",
+  "description": "Typed HTML5 element data and builder for structured HTML",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/html",
+  "tags": [
+    "html",
+    "codegen",
+    "builder",
+    "web",
+    "official"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "5d1de6b6f988d0c4cdcd0b965edcb03015cbe13d",
+      "time": 1754532836
+    }
+  }
+}

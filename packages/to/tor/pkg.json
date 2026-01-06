@@ -1,0 +1,48 @@
+{
+  "name": "tor",
+  "url": "https://github.com/FedericoCeratto/nim-tor",
+  "method": "git",
+  "description": "Tor helper library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-tor",
+  "tags": [
+    "library",
+    "security",
+    "crypto",
+    "tor",
+    "onion"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "c2bec83962af1c17cfe96bdfaf77da879cf8ecf4",
+        "time": 1598301833
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "3bdf6b46d06a7fa7cb271000c7a0060901bfb391",
+        "time": 1578525459
+      }
+    ],
+    "commit": {
+      "hash": "f3e20d2c71f21ca17cac109e22120cf9ad37801c",
+      "time": 1602436761
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "pas2nim",
+  "url": "https://github.com/nim-lang/pas2nim",
+  "method": "git",
+  "description": "pas2nim is a tool to translate Pascal code to Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/pas2nim",
+  "tags": [
+    "app",
+    "binary",
+    "tool",
+    "Pascal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.9.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.4"
+          }
+        }
+      ],
+      "bin": [
+        "pas2nim"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "cec4c960267e19fb7248f025b776644686da850b",
+      "time": 1424968606
+    }
+  }
+}

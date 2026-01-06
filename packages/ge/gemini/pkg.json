@@ -1,0 +1,42 @@
+{
+  "name": "gemini",
+  "url": "https://github.com/benob/gemini",
+  "method": "git",
+  "description": "Building blocks for making async Gemini servers",
+  "license": "MIT",
+  "web": "https://github.com/benob/gemini",
+  "tags": [
+    "gemini,",
+    "server,",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "165db7ab5846265b12e9cfa7b7b07e45941fd647",
+      "time": 1616246105
+    }
+  }
+}

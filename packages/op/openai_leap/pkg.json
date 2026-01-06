@@ -1,0 +1,170 @@
+{
+  "name": "openai_leap",
+  "url": "https://github.com/monofuel/openai_leap",
+  "method": "git",
+  "description": "OpenAI ChatGPT API client library.",
+  "license": "MIT",
+  "web": "https://monofuel.github.io/openai_leap/",
+  "tags": [
+    "openai",
+    "chatgpt",
+    "llm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "7.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "curly",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        },
+        {
+          "name": "webby",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v7.3.2",
+        "hash": "afdd4e467057d2f6fe8a2247e03da6b94e011aa5",
+        "time": 1754521385
+      },
+      {
+        "tag": "v7.2.2",
+        "hash": "15ab9a31b83ac42433de30493d062fa666020ac7",
+        "time": 1753383479
+      },
+      {
+        "tag": "v7.2.1",
+        "hash": "e54a923f1d1bfbe235e3573c1af24da685b80c4b",
+        "time": 1753381093
+      },
+      {
+        "tag": "v7.2.0",
+        "hash": "a3540989bf3f0fb4c4073d7da2a1ddf9c82e6749",
+        "time": 1753380771
+      },
+      {
+        "tag": "v7.1.0",
+        "hash": "2c8b3e8fe34e5fd0a4e1db4e4fd7658c17b9130b",
+        "time": 1753325478
+      },
+      {
+        "tag": "7.0.0",
+        "hash": "f0db60a838c96d76bf7eaf2a82937acb785bae3c",
+        "time": 1752813804
+      },
+      {
+        "tag": "6.0.0",
+        "hash": "0d06ecff4727572f91367ebc4ab966a4c165d666",
+        "time": 1751741351
+      },
+      {
+        "tag": "5.0.0",
+        "hash": "3ad74a189ed125472bdae5b21a5f437744edcd5d",
+        "time": 1751248815
+      },
+      {
+        "tag": "4.0.0",
+        "hash": "799ce3dea764af74c1457e916f50cecceac8e66d",
+        "time": 1750811016
+      },
+      {
+        "tag": "3.1.1",
+        "hash": "71fdbc28842b55e6d59f611f81b03595381489d0",
+        "time": 1750361126
+      },
+      {
+        "tag": "3.1.0",
+        "hash": "2d2e5585bf38ec61daa3e005f561ba86ae4c9e03",
+        "time": 1750357716
+      },
+      {
+        "tag": "2.0.10",
+        "hash": "e5d4492d5b9052c32970a5082964b25c6b6efeda",
+        "time": 1730234112
+      },
+      {
+        "tag": "2.0.9",
+        "hash": "6e5e30861c5109f58f80089202b97a4a8f91abb2",
+        "time": 1730233060
+      },
+      {
+        "tag": "2.0.8",
+        "hash": "b02672bfa41d349ba3d3cca1363e8f7405b5f196",
+        "time": 1730232650
+      },
+      {
+        "tag": "2.0.7",
+        "hash": "224aa52c85876d9ceb3ba498009fc018c1b83553",
+        "time": 1730151853
+      },
+      {
+        "tag": "2.0.6",
+        "hash": "b6734a7b6d2ddd9561261febbe480d90787f09ba",
+        "time": 1730138223
+      },
+      {
+        "tag": "2.0.5",
+        "hash": "86ee75fe009155e50bea836eb9606189c9762cd4",
+        "time": 1729718850
+      },
+      {
+        "tag": "2.0.4",
+        "hash": "ab0a47e7468228d8da3104fe8c802fb9ca45ccf7",
+        "time": 1728062736
+      },
+      {
+        "tag": "v2.0.3",
+        "hash": "a26a35b1aa7103eb9c80984124497b7436c8517c",
+        "time": 1727288161
+      },
+      {
+        "tag": "v2.0.2",
+        "hash": "7004ccebd3d774b13f02d20a23c78a947291f9d0",
+        "time": 1727287118
+      },
+      {
+        "tag": "v2.0.1",
+        "hash": "4851c4bac5720daf5110abd45d1bf8bf4c2b2ba6",
+        "time": 1727286953
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "47be72955206d2c92b07409d1b764fb8dcacc3a0",
+        "time": 1724885876
+      }
+    ],
+    "commit": {
+      "hash": "61130a5d3dca60e0f32b2f95a0c991c322e3fc0d",
+      "time": 1762494351
+    }
+  }
+}

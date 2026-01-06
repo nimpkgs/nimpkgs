@@ -1,0 +1,86 @@
+{
+  "name": "nmr",
+  "url": "https://github.com/HapticX/nmr",
+  "method": "git",
+  "description": "A super-fast Nim package manager with automatic dependency graph and parallel installation.",
+  "license": "MIT",
+  "web": "https://github.com/HapticX/nmr",
+  "tags": [
+    "package-manager",
+    "package",
+    "nimble-alternative",
+    "nimble"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.8.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.8.4"
+          }
+        },
+        {
+          "name": "illwill",
+          "str": ">= 0.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        },
+        {
+          "name": "qrgen",
+          "str": ">= 3.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.1.0"
+          }
+        },
+        {
+          "name": "taskpools",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "cli/nmr"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "716392e1e7944b21a28333c1e7c9c9200f656843",
+      "time": 1749742189
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "mealdb",
+  "url": "https://github.com/thechampagne/mealdb-nim",
+  "method": "git",
+  "description": "TheMealDB API client",
+  "license": "Apache-2.0",
+  "web": "https://github.com/thechampagne/mealdb-nim",
+  "tags": [
+    "api-client",
+    "api-wrapper",
+    "mealdb"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "de764a835683bf71bef7d5a19e11111b6126bbb6",
+        "time": 1651333183
+      }
+    ],
+    "commit": {
+      "hash": "de764a835683bf71bef7d5a19e11111b6126bbb6",
+      "time": 1651333183
+    }
+  }
+}

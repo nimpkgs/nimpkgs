@@ -1,0 +1,34 @@
+{
+  "name": "tim_sort",
+  "url": "https://github.com/bung87/tim_sort",
+  "method": "git",
+  "description": "A new awesome nimble package",
+  "license": "MIT",
+  "web": "https://github.com/bung87/tim_sort",
+  "tags": [
+    "tim",
+    "sort",
+    "algorithm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b0e410f05ea1f600049c15fe67741e0b97a94cf7",
+      "time": 1591399472
+    }
+  }
+}

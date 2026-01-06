@@ -1,0 +1,74 @@
+{
+  "name": "httpauth",
+  "url": "https://github.com/FedericoCeratto/nim-httpauth",
+  "method": "git",
+  "description": "HTTP Authentication and Authorization",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-httpauth",
+  "tags": [
+    "http",
+    "authentication",
+    "authorization",
+    "library",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "libsodium",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "httpauth"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "46e89aeb779ee256aba478c94908229a3ee1824e",
+        "time": 1588449715
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "15fd0686dc363075c08976ad897d6c92e1e6283c",
+        "time": 1577492028
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "f368aa3331ce091fe3b701bfb8f3480696029774",
+        "time": 1539724940
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "323deaabf18fe60b7f56685e9206486a47100ffb",
+        "time": 1539721662
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "0dce5f6f247e3e2f865b218639a93f7231da3092",
+        "time": 1507417705
+      }
+    ],
+    "commit": {
+      "hash": "46e89aeb779ee256aba478c94908229a3ee1824e",
+      "time": 1588449715
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "name": "hastysite",
+  "url": "https://github.com/h3rald/hastysite",
+  "method": "git",
+  "description": "A small but powerful static site generator powered by HastyScribe and min",
+  "license": "MIT",
+  "web": "https://hastysite.h3rald.com",
+  "tags": [
+    "markdown",
+    "html",
+    "static-site-generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0 & <= 3.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "min",
+          "str": ">= 0.45.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.45.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        },
+        {
+          "name": "hastyscribe",
+          "str": ">= 2.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.0"
+          }
+        },
+        {
+          "name": "mustache",
+          "str": ">= 0.4.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.3"
+          }
+        }
+      ],
+      "bin": [
+        "hastysite"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.4.0",
+        "hash": "ab9e4c37a9066d809f021557972daf81aebef79c",
+        "time": 1729488116
+      },
+      {
+        "tag": "v1.3.10",
+        "hash": "7414cc17ecbf64cdc136b30c121f8ffaa4340e6c",
+        "time": 1696836110
+      },
+      {
+        "tag": "v1.3.9",
+        "hash": "7f08e8ac7366787b752d984720acac52790e6769",
+        "time": 1693581102
+      },
+      {
+        "tag": "v1.3.8",
+        "hash": "be46889b9561d4752f03d877ef7ebb7ae28d3038",
+        "time": 1692111723
+      },
+      {
+        "tag": "v1.3.7",
+        "hash": "dfc425491ba2581bdaacc28e67d9d15d21f20d5b",
+        "time": 1619353950
+      },
+      {
+        "tag": "v1.3.6",
+        "hash": "b3c6166909b77f76f60cada1e521b53e13c7f0b0",
+        "time": 1616232467
+      },
+      {
+        "tag": "v1.3.5",
+        "hash": "bd0dd23a602472cb032748343f2372d0ff91dcba",
+        "time": 1604183074
+      },
+      {
+        "tag": "v1.3.4",
+        "hash": "e3053e019f47a48eb917673a23434da064652275",
+        "time": 1599398103
+      },
+      {
+        "tag": "v1.3.3",
+        "hash": "05e0102acb1fbfe612f60c224b1890fc61f046e8",
+        "time": 1577622815
+      },
+      {
+        "tag": "v1.3.2",
+        "hash": "9628925ad0d8579dd4de11322112f4a8ae0509a2",
+        "time": 1569848742
+      },
+      {
+        "tag": "v1.3.1",
+        "hash": "25cd16cc6c32264dadc85b1910ebc824a63e81f6",
+        "time": 1566752988
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "5d52d15dc29f7e5106b62fddd9662a0cc415b208",
+        "time": 1544370375
+      },
+      {
+        "tag": "v1.2.2",
+        "hash": "67c1494b8ee114acf23cc387e076cad9b4b96d17",
+        "time": 1543061374
+      },
+      {
+        "tag": "v1.2.1",
+        "hash": "d1a24fd13906a50d9d5c65e4579af0f62c3bf328",
+        "time": 1531665151
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "c385d134b04205775e0f320d913d6f7801dcdd2b",
+        "time": 1525014862
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "6e1ed2eec9c3d544be62391be3369412fd4f7991",
+        "time": 1520772868
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "b2e7da1eb54dc581af9c5ab6013976cafd116d8a",
+        "time": 1510663210
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "d6561b7cf73e292f2878274344413fdfe32f4ce6",
+        "time": 1510508184
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "6b4b057d363e58f7b7d9945df87b8536a24cec8f",
+        "time": 1508074478
+      }
+    ],
+    "commit": {
+      "hash": "ab9e4c37a9066d809f021557972daf81aebef79c",
+      "time": 1729488116
+    }
+  }
+}

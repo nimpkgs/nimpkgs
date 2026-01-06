@@ -1,0 +1,113 @@
+{
+  "name": "imstyle",
+  "url": "https://github.com/Patitotective/ImStyle",
+  "method": "git",
+  "description": "A nice way to manage your ImGui application's style",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/ImStyle",
+  "tags": [
+    "style",
+    "imgui",
+    "toml",
+    "dear-imgui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        },
+        {
+          "name": "kdl",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimgl",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "3.0.0",
+        "hash": "9b01889f651f6881b73053eae7e145e06ff64530",
+        "time": 1700791761
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "c24ec6cf205b11a1f53485362860b8e2dbdf23c7",
+        "time": 1692548896
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "79056a308f800d7e7e8e56b1a505103213d5219f",
+        "time": 1659229442
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "c9d23cff192049661fe02e65da03bbf8d3be9b89",
+        "time": 1659205630
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "f52c60047d9f8c540af925873999d6be121f0b4a",
+        "time": 1654820980
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "b2e5915ea97a761783a0cdf0bceb37789b40eafb",
+        "time": 1654811690
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "ff89027f641fced808ef8923e8bac5ee1353d914",
+        "time": 1654806880
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "b462b1fff82d3d319a633fa666c0b702df0c5e41",
+        "time": 1654701752
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "4c578abe05ce5d1cf45e35948c32c941129de137",
+        "time": 1654437892
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "848ffbcac1908059420366d036c17eb0e4aab6be",
+        "time": 1654367048
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "133f36c8563836d2d2b7ac1576631aa0c73a5813",
+        "time": 1654054202
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "70a4ad10681cf10d6f206aa56dea4099be8c21cd",
+        "time": 1648253884
+      }
+    ],
+    "commit": {
+      "hash": "72e17f5fc25595a264d068946beff651432cf5c0",
+      "time": 1760092461
+    }
+  }
+}

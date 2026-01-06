@@ -1,0 +1,50 @@
+{
+  "name": "amicus",
+  "url": "https://codeberg.org/onbox/amicus",
+  "method": "git",
+  "description": "Social networking library powering Onbox.",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://codeberg.org/onbox/amicus",
+  "tags": [
+    "library",
+    "social",
+    "media"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.6.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.3"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "adbb164ef1fdf2509746e93409001c9aba397aee",
+      "time": 1767810938
+    }
+  }
+}

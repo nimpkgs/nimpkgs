@@ -1,0 +1,77 @@
+{
+  "name": "wNim",
+  "url": "https://github.com/khchen/wNim",
+  "method": "git",
+  "description": "Nim's Windows GUI Framework.",
+  "license": "MIT",
+  "web": "https://github.com/khchen/wNim",
+  "doc": "https://khchen.github.io/wNim/wNim.html",
+  "tags": [
+    "library",
+    "windows",
+    "gui",
+    "ui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "winim",
+          "str": ">= 3.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.6.0"
+          }
+        },
+        {
+          "name": "npeg",
+          "str": ">= 0.24.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.24.1"
+          }
+        },
+        {
+          "name": "memlib",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "16105eec911c633e3c994c879e42a43584b6d5b5",
+        "time": 1721418500
+      },
+      {
+        "tag": "0.13.5",
+        "hash": "1dee5983972570a27eee6ca49bfb96d4328f9a0e",
+        "time": 1721366265
+      },
+      {
+        "tag": "0.13.4",
+        "hash": "27fc2038350689794a947dc1268af13bb74b735e",
+        "time": 1720808011
+      }
+    ],
+    "commit": {
+      "hash": "16105eec911c633e3c994c879e42a43584b6d5b5",
+      "time": 1721418500
+    }
+  }
+}

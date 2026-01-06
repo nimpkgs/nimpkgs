@@ -1,0 +1,58 @@
+{
+  "name": "ffmpeg",
+  "url": "https://github.com/momeemt/ffmpeg.nim",
+  "method": "git",
+  "description": "ffmpeg.nim is the Nim binding for FFMpeg(4.3.2).",
+  "license": "MIT",
+  "web": "https://github.com/momeemt/ffmpeg.nim",
+  "tags": [
+    "wrapper",
+    "ffmpeg",
+    "movie",
+    "video",
+    "multimedia"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.5.4",
+        "hash": "06812b4d50a02fd35cafa744b9443e6d125ecf85",
+        "time": 1660537942
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "27642fdc794fc0cb3983b5627fd1eca8dcee12cd",
+        "time": 1646232090
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "253322c70332e0188c237dcdba062ee0c19e54b2",
+        "time": 1628517248
+      },
+      {
+        "tag": "0.3.11",
+        "hash": "ad416e6d000d6d1c68fdf159974e7c515caeb3f8",
+        "time": 1618626585
+      }
+    ],
+    "commit": {
+      "hash": "1b66579f96025c88b34c73191c2e161d5f74145b",
+      "time": 1707607966
+    }
+  }
+}

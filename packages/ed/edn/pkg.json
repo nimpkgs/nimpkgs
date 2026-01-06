@@ -1,0 +1,65 @@
+{
+  "name": "edn",
+  "url": "https://github.com/rosado/edn.nim",
+  "method": "git",
+  "description": "EDN and Clojure parser",
+  "license": "EPL-2.0",
+  "web": "https://github.com/rosado/edn.nim",
+  "tags": [
+    "edn",
+    "clojure"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.3",
+        "hash": "505bf78c4672f324218f5e89e561f3debee72868",
+        "time": 1620555931
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "9e03ed66ef3228f13f6783d3d9b3ebaa50ae7f09",
+        "time": 1620468323
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "4cda60880e108f0cb7efe1c209308f2db03267d9",
+        "time": 1582369624
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "dc8100ee2ed0027fc1aafd8d595427eacbba6278",
+        "time": 1580415063
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "8100cd9158d54340ffbea87d6f047afb3c7fd47d",
+        "time": 1580322490
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "72e24c489ec9e2339bedea1d1f095fd4766d0008",
+        "time": 1566583367
+      }
+    ],
+    "commit": {
+      "hash": "8680c479eb1dafa1db6df1345de4504d59cf84ed",
+      "time": 1626629847
+    }
+  }
+}

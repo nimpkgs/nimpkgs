@@ -1,0 +1,37 @@
+{
+  "name": "cmixer",
+  "url": "https://github.com/rxi/cmixer-nim",
+  "method": "git",
+  "description": "Lightweight audio mixer for games",
+  "license": "MIT",
+  "web": "https://github.com/rxi/cmixer-nim",
+  "tags": [
+    "library",
+    "audio",
+    "mixer",
+    "sound",
+    "wav",
+    "ogg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "eee48407f3727f89900e0a3e672575f54ad2eef1",
+      "time": 1498318438
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "name": "eth",
+  "url": "https://github.com/status-im/nim-eth",
+  "method": "git",
+  "description": "A collection of Ethereum related libraries",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-eth",
+  "tags": [
+    "library",
+    "ethereum",
+    "p2p",
+    "devp2p",
+    "rplx",
+    "networking",
+    "whisper",
+    "swarm",
+    "rlp",
+    "cryptography",
+    "trie",
+    "patricia-trie",
+    "keyfile",
+    "wallet",
+    "bloom",
+    "bloom-filter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.10"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stint",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        },
+        {
+          "name": "secp256k1",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronos",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nat_traversal",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "metrics",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "sqlite3_abi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "confutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "testutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "minilru",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "snappy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.9.0",
+        "hash": "d9135e6c3c5d6d819afdfb566aa8d958756b73a8",
+        "time": 1753750948
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "5c3969a5c12c7c5acc3d223723a8c005467deea6",
+        "time": 1747404496
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "a1f7d63ababa6ce90798e16a110fc4e43ac93f03",
+        "time": 1744701364
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "57fa21263a50a325e80636280f976e8077f6627c",
+        "time": 1741596867
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "dcfbc4291d39b59563828c3e32be4d51a2f25931",
+        "time": 1733312444
+      }
+    ],
+    "commit": {
+      "hash": "d88157dc9350502796a906ff25c9699584ecf8ec",
+      "time": 1765976517
+    }
+  }
+}

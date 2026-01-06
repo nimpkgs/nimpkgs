@@ -1,0 +1,53 @@
+{
+  "name": "jestergeoip",
+  "url": "https://github.com/JohnAD/jestergeoip",
+  "method": "git",
+  "description": "A Jester web plugin that determines geographic information for each web request via API. Uses sqlite3 for a cache.",
+  "license": "MIT",
+  "web": "https://github.com/JohnAD/jestergeoip",
+  "tags": [
+    "web",
+    "jester",
+    "ip",
+    "geo",
+    "geographic",
+    "tracker",
+    "plugin"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "jesterwithplugins",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "5fa8e4680f3cd975b45dbbd2406421ccefebf6c9",
+        "time": 1592094531
+      }
+    ],
+    "commit": {
+      "hash": "5fa8e4680f3cd975b45dbbd2406421ccefebf6c9",
+      "time": 1592094531
+    }
+  }
+}

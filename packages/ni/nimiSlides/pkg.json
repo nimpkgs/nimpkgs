@@ -1,0 +1,85 @@
+{
+  "name": "nimiSlides",
+  "url": "https://github.com/HugoGranstrom/nimib-reveal/",
+  "method": "git",
+  "description": "Create Reveal.js slideshows in Nim",
+  "license": "MIT",
+  "web": "https://github.com/HugoGranstrom/nimib-reveal/",
+  "tags": [
+    "presentation",
+    "slideshow",
+    "nimib",
+    "reveal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "nimib",
+          "str": ">= 0.3.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.6",
+        "hash": "557f35708044423dc3aec6979e8c0bbb80f527d5",
+        "time": 1716494377
+      },
+      {
+        "tag": "v0.2.5",
+        "hash": "c9e80b9f590a845bbe6f2ac0d3e5d9801d1551e5",
+        "time": 1706292218
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "fc96adcac01e683e2a6f27ce30dd50989ea20f35",
+        "time": 1691071418
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "216d3c8a503f7158e892750ae0b1cead964e2f85",
+        "time": 1687986185
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "e83f647f43bff37c4d5c37a0da1b57c02e32327d",
+        "time": 1673262589
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "e2f0299c8db0da0e8d1b9b665181c9637f8f3981",
+        "time": 1668417512
+      },
+      {
+        "tag": "v0.2",
+        "hash": "03fdbadd2118923806757806f48bb54b2a505dd5",
+        "time": 1664312599
+      },
+      {
+        "tag": "v0.1",
+        "hash": "87765a7e358a78a3772bcc755268ea81e1290a69",
+        "time": 1657661000
+      }
+    ],
+    "commit": {
+      "hash": "2fe737b7dcdf82ab4fc291848f1bfde96243e45e",
+      "time": 1723639798
+    }
+  }
+}

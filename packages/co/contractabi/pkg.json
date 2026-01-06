@@ -1,0 +1,142 @@
+{
+  "name": "contractabi",
+  "url": "https://github.com/status-im/nim-contract-abi",
+  "method": "git",
+  "description": "ABI Encoding for Ethereum contracts",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-contract-abi",
+  "tags": [
+    "ethereum",
+    "contract",
+    "abi",
+    "encoding",
+    "decoding"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.3",
+      "requires": [
+        {
+          "name": "stint",
+          "str": ">= 0.8.1 & < 0.9.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.6.2 & < 0.8.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "questionable",
+          "str": ">= 0.10.10 & < 0.11.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.7.3",
+        "hash": "0a7b4cecce725bcb11ad8648035a92704a8854d3",
+        "time": 1765398590
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "524bda044baecdf1ead4f179bdad2b8706ae3a5a",
+        "time": 1739428307
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "36dd1086ab51a261a19cffe897e98b366dd65e58",
+        "time": 1739420674
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "9ea526814d80ad16430c21334774981f6ad73de8",
+        "time": 1693303520
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "87894f69aa0378dd02eb658ca9c77392623c6c76",
+        "time": 1688029953
+      },
+      {
+        "tag": "0.4.6",
+        "hash": "61f8f59b3917d8e27c6eb4330a6d8cf428e98b2d",
+        "time": 1663139772
+      },
+      {
+        "tag": "0.4.5",
+        "hash": "df55276f1d7bed529cf8d423a5077ca8a2a2d4ca",
+        "time": 1655279587
+      },
+      {
+        "tag": "0.4.4",
+        "hash": "b111c27b619fc1d81fb1c6942372824a18a71960",
+        "time": 1649825303
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "fd377e59dae28339e3bbdf3e711013ece45c4339",
+        "time": 1649338524
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "0d9a25ec0ab9c4b807664a357c7ec31006986cae",
+        "time": 1643799130
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "a2b8daa320b9ea0d1cfdf7b6442b2316486fda67",
+        "time": 1642582093
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "4eb7e750a86df523a8ebf9ec50b4004f0ae19b89",
+        "time": 1639047873
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "56005d623df91e8f3cdcee1be146b72e7a195685",
+        "time": 1638440614
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "3d868758b8ec7b478559e791534b6e1daee47abc",
+        "time": 1638261808
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "abd66679adb9409c3ffeb13ebc0e1e2874b37ba4",
+        "time": 1637833392
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "ac257548eabc6736df0835bb67e28c167a8b24b1",
+        "time": 1637829220
+      }
+    ],
+    "commit": {
+      "hash": "0a7b4cecce725bcb11ad8648035a92704a8854d3",
+      "time": 1765398590
+    }
+  }
+}

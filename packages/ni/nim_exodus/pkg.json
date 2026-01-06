@@ -1,0 +1,45 @@
+{
+  "name": "nim_exodus",
+  "url": "https://github.com/shinriyo/nim_exodus",
+  "method": "git",
+  "description": "Template generator for gester",
+  "license": "MIT",
+  "web": "https://github.com/shinriyo/nim_exodus",
+  "tags": [
+    "web",
+    "html",
+    "template"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.2"
+          }
+        },
+        {
+          "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "exodus"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "2136500667dfc309e9b48b708534151e59928c3e",
+      "time": 1521507248
+    }
+  }
+}

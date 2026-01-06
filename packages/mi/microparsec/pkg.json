@@ -1,0 +1,50 @@
+{
+  "name": "microparsec",
+  "url": "https://github.com/schneiderfelipe/microparsec",
+  "method": "git",
+  "description": "A performant Nim parsing library built for humans.",
+  "license": "MIT",
+  "web": "https://github.com/schneiderfelipe/microparsec",
+  "tags": [
+    "parser-combinators",
+    "parser-library",
+    "microparsec",
+    "parsec"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "result",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1-alpha",
+        "hash": "a388d319b64d572e2bedf3e7b1def0013135f2e8",
+        "time": 1624572138
+      }
+    ],
+    "commit": {
+      "hash": "d098696de6ed98ad906229ec7f88584a96589819",
+      "time": 1630506036
+    }
+  }
+}

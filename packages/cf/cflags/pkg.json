@@ -1,0 +1,42 @@
+{
+  "name": "cflags",
+  "url": "https://github.com/MCRusher/cflags",
+  "method": "git",
+  "description": "A C-compatible bitmask flags interface, with a subset of nim set functionality",
+  "license": "MIT",
+  "web": "https://github.com/MCRusher/cflags",
+  "doc": "https://mcrusher.github.io/cflags/cflags.html",
+  "tags": [
+    "c",
+    "interop",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.1",
+        "hash": "518a762e51a0dfff6f787e5b30cfef463b4b4487",
+        "time": 1692045381
+      }
+    ],
+    "commit": {
+      "hash": "518a762e51a0dfff6f787e5b30cfef463b4b4487",
+      "time": 1692045381
+    }
+  }
+}

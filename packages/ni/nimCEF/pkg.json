@@ -1,0 +1,36 @@
+{
+  "name": "nimCEF",
+  "url": "https://github.com/jangko/nimCEF",
+  "method": "git",
+  "description": "Nim wrapper for the Chromium Embedded Framework",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimCEF",
+  "tags": [
+    "chromium",
+    "embedded",
+    "framework",
+    "cef",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1dd96ad929da209aa26947c8411b51eb0f824263",
+      "time": 1604126565
+    }
+  }
+}

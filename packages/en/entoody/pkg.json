@@ -1,0 +1,34 @@
+{
+  "name": "entoody",
+  "url": "https://bitbucket.org/fowlmouth/entoody",
+  "method": "git",
+  "description": "A component/entity system",
+  "license": "CC0",
+  "web": "https://bitbucket.org/fowlmouth/entoody",
+  "tags": [
+    "component",
+    "entity",
+    "composition"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": "> 0.9.4",
+          "ver": {
+            "kind": "verLater",
+            "ver": "0.9.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c2aaa6f3194aa733039b687c8b3c6b874884cb94",
+      "time": 1437656501
+    }
+  }
+}

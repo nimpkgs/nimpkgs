@@ -1,0 +1,32 @@
+{
+  "name": "cliche",
+  "url": "https://github.com/juancarlospaco/cliche",
+  "method": "git",
+  "description": "AutoMagic CLI argument parsing is Cliche",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/cliche",
+  "tags": [
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "57ceab14928cccdb3f833e75d990ffdfb0a69d95",
+      "time": 1756683916
+    }
+  }
+}

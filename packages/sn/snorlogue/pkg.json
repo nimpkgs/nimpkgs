@@ -1,0 +1,104 @@
+{
+  "name": "snorlogue",
+  "url": "https://github.com/PhilippMDoerner/Snorlogue",
+  "method": "git",
+  "description": "A Prologue extension. Provides an admin environment for your prologue server making use of norm.",
+  "license": "MIT",
+  "web": "https://github.com/PhilippMDoerner/Snorlogue",
+  "tags": [
+    "web",
+    "prologue",
+    "norm",
+    "extension",
+    "administration",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        },
+        {
+          "name": "norm",
+          "str": ">= 2.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.5.0"
+          }
+        },
+        {
+          "name": "prologue",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "nimja",
+          "str": ">= 0.8.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.4"
+          }
+        },
+        {
+          "name": "lowdb",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "HTest",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.4",
+        "hash": "08e4cd72fd2564914a575f3e6316dde6c41f4d7a",
+        "time": 1698446730
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "26494169f5a96bfad6715ff41430dcae069663db",
+        "time": 1678572593
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "65f5c2fcedf73bca09eb50cbcfb3e6cb0d51a3c9",
+        "time": 1670677371
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "4e73eed025bd37beedc16afabc9d27f21340862e",
+        "time": 1670676409
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "dfc01ab16883d10c5106da8826a523438cf48509",
+        "time": 1670627058
+      }
+    ],
+    "commit": {
+      "hash": "08e4cd72fd2564914a575f3e6316dde6c41f4d7a",
+      "time": 1698446730
+    }
+  }
+}

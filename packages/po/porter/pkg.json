@@ -1,0 +1,45 @@
+{
+  "name": "porter",
+  "url": "https://github.com/iourinski/porter",
+  "method": "git",
+  "description": "Simple extensible implementation of Porter stemmer algorithm",
+  "license": "MIT",
+  "web": "https://github.com/iourinski/porter",
+  "tags": [
+    "stemmer",
+    "multilanguage",
+    "snowball"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "mutableseqs",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nim",
+          "str": ">= 0.15.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.2"
+          }
+        }
+      ],
+      "bin": [
+        "porter"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "891db099c1be02f3cd2e5cfd58f2cb6cfe76e2c9",
+      "time": 1484918686
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "analytics",
+  "url": "https://github.com/dom96/analytics",
+  "method": "git",
+  "description": "Allows statistics to be sent to and recorded in Google Analytics.",
+  "license": "MIT",
+  "web": "https://github.com/dom96/analytics",
+  "tags": [
+    "google",
+    "telemetry",
+    "statistics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        },
+        {
+          "name": "uuids",
+          "str": ">= 0.1.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.7"
+          }
+        },
+        {
+          "name": "osinfo",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "puppy",
+          "str": ">= 1.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "7bfefcfc0826c3137561902ae38fee9d48b49402",
+        "time": 1633277267
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "2403015407680444234d90556f284b6807f3911e",
+        "time": 1555874354
+      }
+    ],
+    "commit": {
+      "hash": "7bfefcfc0826c3137561902ae38fee9d48b49402",
+      "time": 1633277267
+    }
+  }
+}

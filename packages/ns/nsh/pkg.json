@@ -1,0 +1,37 @@
+{
+  "name": "nsh",
+  "url": "https://github.com/gmshiba/nish",
+  "method": "git",
+  "description": "nsh: Nim SHell(cross platform)",
+  "license": "MIT",
+  "web": "https://github.com/gmshiba/nish",
+  "tags": [
+    "shell",
+    "repl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [
+        "tocl",
+        "nsh"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "3687312f5cbdb8fe982dc3ed2e82ceada1650ec8",
+      "time": 1544777963
+    }
+  }
+}

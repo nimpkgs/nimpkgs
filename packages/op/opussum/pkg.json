@@ -1,0 +1,101 @@
+{
+  "name": "opussum",
+  "url": "https://github.com/ire4ever1190/opussum",
+  "method": "git",
+  "description": "Wrapper around libopus",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/opussum",
+  "doc": "https://tempdocs.netlify.app/opussum/stable/",
+  "tags": [
+    "audio",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.6.3",
+        "hash": "7026e53acc38e613db09901036f48b9aea0df032",
+        "time": 1682306630
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "b16db59b6817c035029da732339c31e64ae6a266",
+        "time": 1656849766
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "a4991a6f22bfadce4e037913b9198e5eda38c579",
+        "time": 1644823182
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "a2777c5a476413c02b765385ebf995e4b2c9dc23",
+        "time": 1644233192
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "859004d1149e14bc53b257d9f3b697fa597e5a11",
+        "time": 1642829466
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "5d668dd683ce96ab010e0bf1db84e6db1fcf6160",
+        "time": 1640858947
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "1561236c5f87a11a7c979bbe153e6d4519b9df92",
+        "time": 1640607905
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "0796e770ea43a6ee390fdf4ea4feebba09738067",
+        "time": 1640519651
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "c13bc2b5c40d9b7574272898293c4579f55bc5a9",
+        "time": 1640516377
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "687bd6726da3cfb6ffae8924627e092ec57b49e5",
+        "time": 1640514743
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "c98acf98a9b5a39a271f441a7764d0a1f3452db6",
+        "time": 1640404428
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "b81b3515078afaff3bd19a7b36841edbb2004351",
+        "time": 1640393016
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f969e2490f1fa6af1f0e3acd122136e11ebe89a2",
+        "time": 1640322887
+      }
+    ],
+    "commit": {
+      "hash": "0df504a0f09dc7e87522ba2c108b91de9520a2b9",
+      "time": 1699069278
+    }
+  }
+}

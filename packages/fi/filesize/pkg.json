@@ -1,0 +1,34 @@
+{
+  "name": "filesize",
+  "url": "https://github.com/sergiotapia/filesize",
+  "method": "git",
+  "description": "A Nim package to convert filesizes into other units, and turns filesizes into human readable strings.",
+  "license": "MIT",
+  "web": "https://github.com/sergiotapia/filesize",
+  "doc": "https://github.com/sergiotapia/filesize",
+  "tags": [
+    "filesize",
+    "size"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f3ea51bde207462e37e4fc9a9e10326658c70e73",
+      "time": 1722630091
+    }
+  }
+}

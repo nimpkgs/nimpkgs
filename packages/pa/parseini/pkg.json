@@ -1,0 +1,33 @@
+{
+  "name": "parseini",
+  "url": "https://github.com/lihf8515/parseini",
+  "method": "git",
+  "description": "A high-performance ini parse library for nim.",
+  "license": "MIT",
+  "web": "https://github.com/lihf8515/parseini",
+  "tags": [
+    "parseini",
+    "nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a7f203db35c56bbd47b2af39355319c5a0aad667",
+      "time": 1709196333
+    }
+  }
+}

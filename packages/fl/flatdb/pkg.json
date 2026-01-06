@@ -1,0 +1,34 @@
+{
+  "name": "flatdb",
+  "url": "https://github.com/enthus1ast/flatdb",
+  "method": "git",
+  "description": "small/tiny, flatfile, jsonl based, inprogress database for nim",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/flatdb",
+  "tags": [
+    "database",
+    "json",
+    "pure"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "732574d4e3b15da59a82ad508638981490d3ad7c",
+      "time": 1692432391
+    }
+  }
+}

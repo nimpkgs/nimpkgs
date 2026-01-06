@@ -1,0 +1,73 @@
+{
+  "name": "macroplus",
+  "url": "https://github.com/hamidb80/macroplus",
+  "method": "git",
+  "description": "a collection of useful macro functionalities",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/macroplus",
+  "tags": [
+    "macroplus",
+    "macro",
+    "macro",
+    "nim",
+    "compiletime"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.5",
+        "hash": "ab49b1b2bfd92fbf69b39ddb3096472d72aaf815",
+        "time": 1688318406
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "cfad1ca74b545b481edf327c796b15fba576f0b9",
+        "time": 1685009602
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "fcd0d5ab7c3033840d02518150de6bf0c8544190",
+        "time": 1655063223
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "b28d5c2c1a2e874e26c0cccda539914afa59007a",
+        "time": 1648020917
+      },
+      {
+        "tag": "0.1.22",
+        "hash": "598228408ab9273286e358cdbd1bc436988d8fad",
+        "time": 1645813417
+      },
+      {
+        "tag": "0.1.20",
+        "hash": "8dc6f921b44becebe7701915703691832e534798",
+        "time": 1644838991
+      },
+      {
+        "tag": "0.1.17",
+        "hash": "155019ff60e185693f09c8f14a90730a0a51c68c",
+        "time": 1643874874
+      }
+    ],
+    "commit": {
+      "hash": "ab49b1b2bfd92fbf69b39ddb3096472d72aaf815",
+      "time": 1688318406
+    }
+  }
+}

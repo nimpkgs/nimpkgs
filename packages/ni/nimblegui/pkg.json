@@ -1,0 +1,67 @@
+{
+  "name": "nimblegui",
+  "url": "https://github.com/ThomasTJdev/nim_nimble_gui",
+  "method": "git",
+  "description": "A simple GUI front for Nimble.",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_nimble_gui",
+  "tags": [
+    "nimble",
+    "gui",
+    "packages"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "webgui",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimblegui"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "67f0e1612b9aca9d61df0d00ed2e4c1cc2c174f7",
+        "time": 1593843809
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "f1649c85f0aab2e705e17fc297c4641e5794036f",
+        "time": 1586674032
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "c9a410ef56a38b1c7c56ef20d0418e365871f411",
+        "time": 1586580577
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "2030a5a6487442628408e569cb9c09338b23f9f7",
+        "time": 1541244237
+      }
+    ],
+    "commit": {
+      "hash": "67f0e1612b9aca9d61df0d00ed2e4c1cc2c174f7",
+      "time": 1593843809
+    }
+  }
+}

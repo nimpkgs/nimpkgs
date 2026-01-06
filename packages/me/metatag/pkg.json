@@ -1,0 +1,43 @@
+{
+  "name": "metatag",
+  "url": "https://github.com/sauerbread/metatag",
+  "method": "git",
+  "description": "A metadata reading & writing library",
+  "license": "MIT",
+  "web": "https://github.com/sauerbread/metatag",
+  "tags": [
+    "mp3",
+    "id3",
+    "flac",
+    "metadata"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        },
+        {
+          "name": "zip",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "aa729d8e0bb67959281d45fac476aac2892d2286",
+      "time": 1650266327
+    }
+  }
+}

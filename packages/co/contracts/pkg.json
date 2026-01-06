@@ -1,0 +1,43 @@
+{
+  "name": "contracts",
+  "url": "https://github.com/Udiknedormin/NimContracts",
+  "method": "git",
+  "description": "Design by Contract (DbC) library with minimal runtime.",
+  "license": "MIT",
+  "web": "https://github.com/Udiknedormin/NimContracts",
+  "tags": [
+    "library",
+    "pure",
+    "contract",
+    "contracts",
+    "DbC",
+    "utility",
+    "automation",
+    "documentation",
+    "safety",
+    "test",
+    "tests",
+    "unit-testing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "8b44799eb10874863333c886f06efae30c73ac50",
+      "time": 1664222324
+    }
+  }
+}

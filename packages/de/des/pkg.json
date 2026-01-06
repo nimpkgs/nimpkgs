@@ -1,0 +1,34 @@
+{
+  "name": "des",
+  "url": "https://github.com/LucaWolf/des.nim",
+  "method": "git",
+  "description": "3DES native library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/LucaWolf/des.nim",
+  "tags": [
+    "library",
+    "encryption",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.12",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1fe5f4f88d3e5fda44ed0093024a5a162626656b",
+      "time": 1569319809
+    }
+  }
+}

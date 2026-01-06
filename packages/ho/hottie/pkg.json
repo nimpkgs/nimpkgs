@@ -1,0 +1,53 @@
+{
+  "name": "hottie",
+  "url": "https://github.com/treeform/hottie",
+  "method": "git",
+  "description": "Sampling profiler that finds hot paths in your code.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/hottie",
+  "tags": [
+    "profile",
+    "timing",
+    "performance"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        },
+        {
+          "name": "ptrace",
+          "str": ">= 0.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.4"
+          }
+        }
+      ],
+      "bin": [
+        "hottie"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "86a839f60f90e65bd39cc79a4958dadccca40bb7",
+      "time": 1686850597
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "pape",
+  "url": "https://github.com/hdbg/pape",
+  "method": "git",
+  "description": "Pure Nim PE parsing library",
+  "license": "MIT",
+  "web": "https://github.com/hdbg/pape",
+  "tags": [
+    "windows",
+    "internal",
+    "pe",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9ba289d60619593cb0f1d19d4133afc0d82d6b0c",
+      "time": 1673894118
+    }
+  }
+}

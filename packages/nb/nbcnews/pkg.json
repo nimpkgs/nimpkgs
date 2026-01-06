@@ -1,0 +1,62 @@
+{
+  "name": "nbcnews",
+  "url": "https://github.com/thisago/nbcnews",
+  "method": "git",
+  "description": "NBC News scraper",
+  "license": "gpl-3.0-only",
+  "web": "https://github.com/thisago/nbcnews",
+  "tags": [
+    "scraper",
+    "library",
+    "news",
+    "nbcnews"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "https://github.com/thisago/useragent",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nbcnews"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "8cd6dfba067425973502cf6281c4b46c5a6c56d8",
+      "time": 1662993197
+    }
+  }
+}

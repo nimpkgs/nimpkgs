@@ -1,0 +1,90 @@
+{
+  "name": "awsSTS",
+  "url": "https://github.com/ThomasTJdev/nim_awsSTS",
+  "method": "git",
+  "description": "AWS Security Token Service API in Nim",
+  "license": "MIT",
+  "web": "https://github.com/ThomasTJdev/nim_awsSTS",
+  "tags": [
+    "aws",
+    "amazon",
+    "sts",
+    "asia"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.18"
+          }
+        },
+        {
+          "name": "awsSigV4",
+          "str": ">= 0.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v2.1.0",
+        "hash": "4170b92e4b6be92319c8c09717b61073fcde02d7",
+        "time": 1739514180
+      },
+      {
+        "tag": "v2.0.3",
+        "hash": "a61046658293b25bdd7ecb050fed46058333a2f8",
+        "time": 1739187415
+      },
+      {
+        "tag": "v2.0.2",
+        "hash": "7546de050fead13448232b2dec663ee1739fcdc1",
+        "time": 1706516593
+      },
+      {
+        "tag": "v2.0.1",
+        "hash": "20baf1f4a060885ce9d980323bb92a9ac58be113",
+        "time": 1706515375
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "8238139344ddae36dc79a8360dd66bdf97ff341c",
+        "time": 1706367325
+      },
+      {
+        "tag": "v1.0.3",
+        "hash": "5bf72edf498b038b11a6e24e031b867806ccf427",
+        "time": 1652507885
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "9577ef2dacb801a66ce347d5ec5f87e8cfe7423c",
+        "time": 1624709202
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "2c8ea35ea649bda4aef1bbfa597fc1c7bfb9f7fa",
+        "time": 1624704801
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "e74dcea40e797bdda708f795c0e37ba71b06cc67",
+        "time": 1624696031
+      }
+    ],
+    "commit": {
+      "hash": "4170b92e4b6be92319c8c09717b61073fcde02d7",
+      "time": 1739514180
+    }
+  }
+}

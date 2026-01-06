@@ -1,0 +1,33 @@
+{
+  "name": "biscuits",
+  "url": "https://github.com/achesak/nim-biscuits",
+  "method": "git",
+  "description": "better cookie handling",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-biscuits",
+  "tags": [
+    "cookie",
+    "persistence"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "8f337e1d0233e0e0c88fe8e88edea74275fca994",
+      "time": 1535669090
+    }
+  }
+}

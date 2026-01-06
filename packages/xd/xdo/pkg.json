@@ -1,0 +1,38 @@
+{
+  "name": "xdo",
+  "url": "https://github.com/juancarlospaco/nim-xdo",
+  "method": "git",
+  "description": "Nim GUI Automation Linux, simulate user interaction, mouse and keyboard.",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-xdo",
+  "tags": [
+    "automation",
+    "linux",
+    "gui",
+    "keyboard",
+    "mouse",
+    "typing",
+    "clicker"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d6a9d9496be636c2b903c452b8b6126fff5576b4",
+      "time": 1643231722
+    }
+  }
+}

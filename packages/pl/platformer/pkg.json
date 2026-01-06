@@ -1,0 +1,61 @@
+{
+  "name": "platformer",
+  "url": "https://github.com/def-/nim-platformer",
+  "method": "git",
+  "description": "Writing a 2D Platform Game in Nim with SDL2",
+  "license": "MIT",
+  "web": "https://github.com/def-/nim-platformer",
+  "tags": [
+    "game",
+    "sdl",
+    "2d"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "sdl2",
+          "str": ">= 1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1"
+          }
+        },
+        {
+          "name": "strfmt",
+          "str": ">= 0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6"
+          }
+        },
+        {
+          "name": "basic2d",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "platformer"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "9e79719369ae1722c01b4546a54792a77413c22f",
+      "time": 1551097885
+    }
+  }
+}

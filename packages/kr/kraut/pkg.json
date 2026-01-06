@@ -1,0 +1,86 @@
+{
+  "name": "kraut",
+  "url": "https://github.com/moigagoo/kraut",
+  "method": "git",
+  "description": "Router for Karax frontend framework.",
+  "license": "MIT",
+  "web": "https://github.com/moigagoo/kraut",
+  "tags": [
+    "frontend",
+    "router",
+    "karax",
+    "spa",
+    "js"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        },
+        {
+          "name": "karax",
+          "str": ">= 1.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.2.2",
+        "hash": "128db8f9361acf6ed38e8a20e16a7e97853d583c",
+        "time": 1721587680
+      },
+      {
+        "tag": "1.2.1",
+        "hash": "1c25edd81167f23d23ec828b61b0c29638942215",
+        "time": 1720815704
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "cc2dc84f24a31a8e7223bc14251dd0458c63e035",
+        "time": 1720646013
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "bd4c5a6fb5fbbabd2029503176891b53ddc1ad0d",
+        "time": 1703590262
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "97b945d8b6d36130fe446c00229dfd84b13828cc",
+        "time": 1690804948
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "ba11ff4dcd622922b58418432663a49bcbbccf67",
+        "time": 1681672348
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "28a62a1b8257663c12f034e57f8833f4c728595f",
+        "time": 1678189965
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "6dc338626ae637ab0e71e60e13ded5ab333d5414",
+        "time": 1677509598
+      }
+    ],
+    "commit": {
+      "hash": "b246836c8059a41e2a71f0a5a7de4fd735b21ccc",
+      "time": 1721587711
+    }
+  }
+}

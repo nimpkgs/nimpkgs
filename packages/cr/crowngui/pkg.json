@@ -1,0 +1,180 @@
+{
+  "name": "crowngui",
+  "url": "https://github.com/bung87/crowngui",
+  "method": "git",
+  "description": "Web Technologies based Crossplatform GUI Framework",
+  "license": "MIT",
+  "web": "https://github.com/bung87/crowngui",
+  "tags": [
+    "web-based",
+    "gui",
+    "framework"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "objc_runtime",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        },
+        {
+          "name": "darwin",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "winim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.9",
+        "hash": "4018a7efa066dc1e5acb6ae726995fccdb82a712",
+        "time": 1728434655
+      },
+      {
+        "tag": "v0.3.8",
+        "hash": "ad17ae10e7232d71229121f08ac22319b89150e0",
+        "time": 1728433967
+      },
+      {
+        "tag": "v0.3.7",
+        "hash": "761e6fce1b8445ae09a6da8588e14b4f84f40232",
+        "time": 1728408492
+      },
+      {
+        "tag": "v0.3.6",
+        "hash": "14f14ed1e5e16fe4ddc703584128fb358d92d358",
+        "time": 1728135994
+      },
+      {
+        "tag": "v0.3.5",
+        "hash": "90e671bf9b5d07e3742f95f067770d7bcfe5101a",
+        "time": 1727972728
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "cfead9aeaa6b9fe4a03b32fa2beca54e5067129b",
+        "time": 1727332101
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "218a4a1d6de1dca8a9733441c2629e016b07673e",
+        "time": 1726737221
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "bc13340fb1f1061865bea9580601ce9e84b1b600",
+        "time": 1726036330
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "3041166a37119cc1359706cb377c693807568db4",
+        "time": 1725962257
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "e0109b30542fd8627d96d957f02a15584483befc",
+        "time": 1725959112
+      },
+      {
+        "tag": "v0.2.19",
+        "hash": "89fb69b5f7a807691dc988d6e53be83a805495d2",
+        "time": 1725952885
+      },
+      {
+        "tag": "v0.2.18",
+        "hash": "37b38bdbf82f9ca4a586a6deab54c14ae4d9b458",
+        "time": 1725950649
+      },
+      {
+        "tag": "v0.2.17",
+        "hash": "7b296669631fcb5cf061ab8763f67852c1c290aa",
+        "time": 1723823233
+      },
+      {
+        "tag": "v0.2.16",
+        "hash": "9a68ead31004e478e0bb4e97adb710141adb5b65",
+        "time": 1723822837
+      },
+      {
+        "tag": "v0.2.15",
+        "hash": "c365a0572f25341506e6d68e4ff44f8319eb5989",
+        "time": 1723021856
+      },
+      {
+        "tag": "v0.2.13",
+        "hash": "16e044264f61622f8b8979bae2c6c5745402f4e1",
+        "time": 1722764965
+      },
+      {
+        "tag": "v0.2.12",
+        "hash": "fa4e1a447c5f81936a1621bcfb7bd6c576cbe422",
+        "time": 1689935573
+      },
+      {
+        "tag": "v0.2.11",
+        "hash": "77051a276aab403c14c58a51fc19effc1bede115",
+        "time": 1689931252
+      },
+      {
+        "tag": "v0.2.10",
+        "hash": "636bfcb2651d9425e2415125ce479f1066512875",
+        "time": 1689766063
+      },
+      {
+        "tag": "v0.2.9",
+        "hash": "9ae082ee6b69805340602faab42c183fb99d7836",
+        "time": 1620126749
+      },
+      {
+        "tag": "v0.2.8",
+        "hash": "eb26cb72a4b413db8a76b45d7d5844cfaaf0a737",
+        "time": 1619947834
+      },
+      {
+        "tag": "v0.2.7",
+        "hash": "021275cf656748db9dc7b6efb70990710b6f2126",
+        "time": 1619805037
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "1c0f0a018ee389d7c412e3958207b96b657cc686",
+        "time": 1616980118
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "0217c5d0b47ebbb9d7bc57fd74a749ec596e8b9c",
+        "time": 1616949479
+      }
+    ],
+    "commit": {
+      "hash": "c4766fae329d857d3c26d75334e2ef94070f836d",
+      "time": 1728532091
+    }
+  }
+}

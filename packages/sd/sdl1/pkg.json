@@ -1,0 +1,37 @@
+{
+  "name": "sdl1",
+  "url": "https://github.com/nim-lang/sdl1",
+  "method": "git",
+  "description": "SDL 1.2 wrapper for Nim.",
+  "license": "LGPL",
+  "web": "https://github.com/nim-lang/sdl1",
+  "tags": [
+    "graphics",
+    "library",
+    "multi-media",
+    "input",
+    "sound",
+    "joystick"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d8ef41f393de0f0df3647431067b2ac74a3ab3ec",
+      "time": 1687644114
+    }
+  }
+}

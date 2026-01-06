@@ -1,0 +1,114 @@
+{
+  "name": "propositionalLogic",
+  "url": "https://github.com/Azumabashi/nim-propositional-logic/",
+  "method": "git",
+  "description": "A library for (standard) propositional logic",
+  "license": "MIT",
+  "web": "https://github.com/Azumabashi/nim-propositional-logic/",
+  "tags": [
+    "logic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.16",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.16"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v3.3.0",
+        "hash": "73c6cca08098649678c398d72c68691cb42ce0ea",
+        "time": 1697673732
+      },
+      {
+        "tag": "v3.2.1",
+        "hash": "0479612fc892cdb8e3b505f54d35f5eadc759a74",
+        "time": 1695387718
+      },
+      {
+        "tag": "v3.2.0",
+        "hash": "9c80efb9d57c6e6bb9e7aea93320bc96ac704462",
+        "time": 1694937500
+      },
+      {
+        "tag": "3.1.0",
+        "hash": "ffbeac64ad1048caeeeb3af9b840ca71f063861d",
+        "time": 1693727544
+      },
+      {
+        "tag": "v3.0.0",
+        "hash": "c11ff780225ba76f7c72f78ac8c27ba985a50b49",
+        "time": 1693463679
+      },
+      {
+        "tag": "v2.3.1",
+        "hash": "6f294a72c4dee4adb1350745006a5c4a52df799b",
+        "time": 1693282829
+      },
+      {
+        "tag": "v2.3.0",
+        "hash": "bb5b4f39e5894383916668ffb24818dabe14d41b",
+        "time": 1692888549
+      },
+      {
+        "tag": "v2.2.2",
+        "hash": "4b5633c9e9e60c88e6ee797e5413fbd02c67708e",
+        "time": 1692753936
+      },
+      {
+        "tag": "v2.2.1",
+        "hash": "097b13fbf821c41e22af20a9322584599fe9eec0",
+        "time": 1692675945
+      },
+      {
+        "tag": "v2.2.0",
+        "hash": "008dd38cd2f2dd774d4ff1746031f0df288d1c06",
+        "time": 1692617835
+      },
+      {
+        "tag": "v2.1.0",
+        "hash": "d0b6925a429c83a4adcfd7b13d302f0dbe0a3a28",
+        "time": 1692593161
+      },
+      {
+        "tag": "v2.0.2",
+        "hash": "5fbf6f00f28252c413eaae5f3a5e50c6e6e43232",
+        "time": 1691995088
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "02cffadd573c4eb3bd1365987a007276219bf154",
+        "time": 1691642840
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "5ba6b05bbbfa19f7f3fade9260f283787d72dad5",
+        "time": 1691636101
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "4e552a905779742601ac298a330a04a0b72b4c4f",
+        "time": 1691567202
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "74313b3ef137b1d3467881b0b5a426d343a6d255",
+        "time": 1691423321
+      }
+    ],
+    "commit": {
+      "hash": "73c6cca08098649678c398d72c68691cb42ce0ea",
+      "time": 1697673732
+    }
+  }
+}

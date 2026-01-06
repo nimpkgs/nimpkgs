@@ -1,0 +1,61 @@
+{
+  "name": "downit",
+  "url": "https://github.com/Patitotective/downit",
+  "method": "git",
+  "description": "An asynchronous donwload system.",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/downit",
+  "tags": [
+    "downloads",
+    "downloads-manager",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.3",
+        "hash": "227aac577278f193c870aaf26e042a9a66dc167f",
+        "time": 1705020154
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "e9cbc6c53034d51131761280af13aae7d9542788",
+        "time": 1661374390
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "e9cc2f3f64ea27f51067f9e1eb507d1b4968f666",
+        "time": 1659052677
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "b572ce4af2c8e99ed19030b0654eb45c185bc80f",
+        "time": 1658691637
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "14bb94026adb51f36d3d0b85af841884abc57cd5",
+        "time": 1655344884
+      }
+    ],
+    "commit": {
+      "hash": "227aac577278f193c870aaf26e042a9a66dc167f",
+      "time": 1705020154
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "fastcgi",
+  "url": "https://github.com/ba0f3/fastcgi.nim",
+  "method": "git",
+  "description": "FastCGI library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/fastcgi.nim",
+  "tags": [
+    "fastcgi",
+    "fcgi",
+    "cgi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "eb361f53a93915e313388a4a45dd22ed140161d8",
+        "time": 1752653814
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "a5253dd7431b6cad2a4277f14b34a6f12f24824b",
+        "time": 1752110119
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "88054e6978f49708852505e284814bb21baabde9",
+        "time": 1697116034
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1d1d897a6612a818df8dfe1690af765fe52fd09c",
+        "time": 1591055055
+      }
+    ],
+    "commit": {
+      "hash": "eb361f53a93915e313388a4a45dd22ed140161d8",
+      "time": 1752653814
+    }
+  }
+}

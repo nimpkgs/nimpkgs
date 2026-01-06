@@ -1,0 +1,86 @@
+{
+  "name": "lrucache",
+  "url": "https://github.com/jackhftang/lrucache",
+  "method": "git",
+  "description": "Least recently used (LRU) cache",
+  "license": "MIT",
+  "web": "https://github.com/jackhftang/lrucache",
+  "tags": [
+    "cache",
+    "lru",
+    "data structure"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.4",
+        "hash": "adbd43435b56ee1432c1a46a40727b92e7eaac3f",
+        "time": 1645375675
+      },
+      {
+        "tag": "1.1.3",
+        "hash": "68768b8829f29eeb013e6217ae6fd834d824b434",
+        "time": 1603376392
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "04c947d2f14dd2942439338ed597f1481ee5d493",
+        "time": 1603300015
+      },
+      {
+        "tag": "1.1.1",
+        "hash": "60a590023b064ae9ee64d9a99e951bffc9286036",
+        "time": 1603297488
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "1df5053b7d1441efd353bce70215bd1f4b03d796",
+        "time": 1599477022
+      },
+      {
+        "tag": "1.0.4",
+        "hash": "5cb13acd04f4fa499a3c81d79a84202c48054dc7",
+        "time": 1594780343
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "0960b5943ee859b90ea6382f824cfd06b096e7fe",
+        "time": 1594778992
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "e7c2c67a8e564ee2f467d2f56adb5f0539bb0227",
+        "time": 1589191900
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "0d1cbdbb4c700c0a7aec983d34aa3e9b7e63e777",
+        "time": 1588867797
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "5da497fbf8e1c97f6ca7d5ca6685ebe7b435120e",
+        "time": 1586696329
+      }
+    ],
+    "commit": {
+      "hash": "1c2eede7e2fbe05b0498537a6f82be8063e093d6",
+      "time": 1674817975
+    }
+  }
+}

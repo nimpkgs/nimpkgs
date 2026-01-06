@@ -1,0 +1,59 @@
+{
+  "name": "SLAP",
+  "url": "https://github.com/bichanna/slap",
+  "method": "git",
+  "description": "A SLow And Powerless programming language written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/bichanna/slap/blob/master/docs/index.md#slap",
+  "doc": "https://github.com/bichanna/slap/blob/master/docs/index.md#syntax",
+  "tags": [
+    "language",
+    "interpreter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        }
+      ],
+      "bin": [
+        "main"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "0b336b4a493f5fc0577f0070e5ba0d82e134c907",
+        "time": 1648082323
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "ec34b9fb85e8180fbd0b06efeee10be4e9e8c6ee",
+        "time": 1646981686
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "f050e763b31ea56d2c334b0b57866bb0f005e855",
+        "time": 1646445864
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "6ac0d5e935d8b824997739285dd8941da1ad5572",
+        "time": 1646014007
+      }
+    ],
+    "commit": {
+      "hash": "6fdffa47aa9f7c537767c146d4ff5c3bd0ffd6df",
+      "time": 1666013155
+    }
+  }
+}

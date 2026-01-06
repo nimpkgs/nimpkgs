@@ -1,0 +1,34 @@
+{
+  "name": "colorize",
+  "url": "https://github.com/molnarmark/colorize",
+  "method": "git",
+  "description": "A simple and lightweight terminal coloring library.",
+  "license": "MIT",
+  "web": "https://github.com/molnarmark/colorize",
+  "tags": [
+    "color",
+    "colors",
+    "colorize"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "39435f76aa0ec3a30b027e913aa95a9e427d45f0",
+      "time": 1765446899
+    }
+  }
+}

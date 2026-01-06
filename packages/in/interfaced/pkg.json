@@ -1,0 +1,44 @@
+{
+  "name": "interfaced",
+  "url": "https://github.com/andreaferretti/interfaced",
+  "method": "git",
+  "description": "Go-like interfaces",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/interfaced",
+  "tags": [
+    "interface"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "c5284cb3242cf893fe33156b80ec528acccb8faf",
+        "time": 1508776321
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "08459efa442d1bc69c2f6a3b1f6d65e3ea113e9c",
+        "time": 1508487500
+      }
+    ],
+    "commit": {
+      "hash": "c5284cb3242cf893fe33156b80ec528acccb8faf",
+      "time": 1508776321
+    }
+  }
+}

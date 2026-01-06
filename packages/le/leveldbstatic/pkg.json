@@ -1,0 +1,81 @@
+{
+  "name": "leveldbstatic",
+  "url": "https://github.com/codex-storage/nim-leveldb",
+  "method": "git",
+  "description": "Statically linked LevelDB wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/codex-storage/nim-leveldb",
+  "tags": [
+    "leveldb",
+    "library",
+    "wrapper",
+    "static",
+    "static-linked"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [
+        "leveldbtool"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "5a0cd8de6b2363827c43cafd3ed346ecee427e1e",
+        "time": 1765451670
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "bd9b8394a75c77578ac5d8ea3c15e482b0550292",
+        "time": 1739271960
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "4da61d231a5e73c5daf85eb23f146242b90b144f",
+        "time": 1723711556
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "9e89afa8560e0c9fa40f1f6a82e90818c3442db4",
+        "time": 1723627498
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "06947b4b605097cc4fd07355bb5a5f508db37eba",
+        "time": 1716188853
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "f51e61c5ce7777e57e178b79db4d6930a8ae9cf5",
+        "time": 1715672947
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "e6ba737764e57e2b53d93c8c8160379a5f1bfa92",
+        "time": 1715671457
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "afab7b9fa7cdd0eae3aa2a3a8d7ce410c8960985",
+        "time": 1715603977
+      }
+    ],
+    "commit": {
+      "hash": "5a0cd8de6b2363827c43cafd3ed346ecee427e1e",
+      "time": 1765451670
+    }
+  }
+}

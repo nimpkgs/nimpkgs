@@ -1,0 +1,65 @@
+{
+  "name": "fastpnm",
+  "url": "https://github.com/hamidb80/pbm",
+  "method": "git",
+  "description": "fast PNM (.pbm .pgm .ppm) parser",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/fastpnm",
+  "tags": [
+    "netpbm",
+    "parser",
+    "pbm",
+    "pgm",
+    "ppm",
+    "pnm",
+    "fast"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "025eee305ae30a0866263a9a551614c6395502d3",
+        "time": 1725421825
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "7f01f76599630a5b0d2b2a21362b9e95ea0e3ec4",
+        "time": 1691780629
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "9db83e6b78ab3aea5ea274a6189ed4e82ac9bced",
+        "time": 1691779171
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "71937cc57584fb3eb4915b4cb71725438d0fb7cc",
+        "time": 1691766752
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "a5dcccff75d6745d92efa3208c792c6ea148667a",
+        "time": 1691751468
+      }
+    ],
+    "commit": {
+      "hash": "025eee305ae30a0866263a9a551614c6395502d3",
+      "time": 1725421825
+    }
+  }
+}

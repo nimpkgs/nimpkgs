@@ -1,0 +1,35 @@
+{
+  "name": "viper",
+  "url": "https://gitlab.com/navid-m/viper",
+  "method": "git",
+  "description": "SQL builder library with fluent syntax",
+  "license": "GPL-3.0-only",
+  "web": "https://gitlab.com/navid-m/viper",
+  "tags": [
+    "sql",
+    "builder",
+    "sqlbuilder",
+    "language"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "870e994c0d2b140eee64990a0ffc437985ef811a",
+      "time": 1745074612
+    }
+  }
+}

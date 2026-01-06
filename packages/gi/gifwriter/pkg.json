@@ -1,0 +1,41 @@
+{
+  "name": "gifwriter",
+  "url": "https://github.com/rxi/gifwriter",
+  "method": "git",
+  "description": "Animated GIF writing library based on jo_gif",
+  "license": "MIT",
+  "web": "https://github.com/rxi/gifwriter",
+  "tags": [
+    "gif",
+    "image",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "d92796c0040ecea2e826cedbdced9b5e01ed22a7",
+        "time": 1495352922
+      }
+    ],
+    "commit": {
+      "hash": "d92796c0040ecea2e826cedbdced9b5e01ed22a7",
+      "time": 1495352922
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "fileinput",
+  "url": "https://github.com/achesak/nim-fileinput",
+  "method": "git",
+  "description": "iterate through files and lines",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-fileinput",
+  "tags": [
+    "file",
+    "io",
+    "input"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

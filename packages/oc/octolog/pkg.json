@@ -1,0 +1,51 @@
+{
+  "name": "octolog",
+  "url": "https://github.com/jaar23/octolog",
+  "method": "git",
+  "description": "octolog is a logging library built on top of std/logging for multi-threaded logging.",
+  "license": "GPL3",
+  "web": "https://github.com/jaar23/octolog",
+  "doc": "https://jaar23.github.io/octolog",
+  "tags": [
+    "std-logging",
+    "thread",
+    "multiple-thread",
+    "logging"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "malebolgia",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "db9b14faf8255f52b64e6bf67c63ffb526d4d21a",
+        "time": 1712412219
+      }
+    ],
+    "commit": {
+      "hash": "0eeb32007532a8018f4af3b161e4b4880cee5726",
+      "time": 1712428295
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "name": "sdl2_nim",
+  "url": "https://github.com/Vladar4/sdl2_nim",
+  "method": "git",
+  "description": "Wrapper of the SDL 2 library for the Nim language.",
+  "license": "zlib",
+  "web": "https://github.com/Vladar4/sdl2_nim",
+  "tags": [
+    "library",
+    "wrapper",
+    "sdl2",
+    "game",
+    "video",
+    "image",
+    "audio",
+    "network",
+    "ttf"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.14.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        },
+        {
+          "name": "winim",
+          "str": ">= 3.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.6.0"
+          }
+        },
+        {
+          "name": "x11",
+          "str": ">= 1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v2.0.14.3-legacy",
+        "hash": "4f5479aa131e7bc222d4b27b237d6d6eebd19580",
+        "time": 1633086895
+      },
+      {
+        "tag": "v2.0.14.3",
+        "hash": "035a13adcb89aa1197c5dab87a0b84b41c73ef49",
+        "time": 1633086357
+      },
+      {
+        "tag": "v2.0.14.2-legacy",
+        "hash": "1aa39ed89a1ad40799def02199db7eb4e2276688",
+        "time": 1629224298
+      },
+      {
+        "tag": "v2.0.14.2",
+        "hash": "43bbdb99e01aa3d2117fc536dd6b0ed3280791a9",
+        "time": 1629223922
+      },
+      {
+        "tag": "v2.0.14.0",
+        "hash": "bef595812a29a3d5333a8b7ba073f189c89036bf",
+        "time": 1609088430
+      },
+      {
+        "tag": "v2.0.12.1",
+        "hash": "5d322ce55eb1a4ecd29180e2d18d4b68dca398be",
+        "time": 1608237873
+      },
+      {
+        "tag": "v2.0.12.0",
+        "hash": "292df934222cc83d07ecb82fba873ea0afbf8fb9",
+        "time": 1584044191
+      },
+      {
+        "tag": "v2.0.10.0",
+        "hash": "575ff5b842a76d9cd774c2ba2531b866af681157",
+        "time": 1566770961
+      },
+      {
+        "tag": "v2.0.9.2",
+        "hash": "aa8315e2340f175959fab53a305a9f50d505327f",
+        "time": 1553012672
+      },
+      {
+        "tag": "v2.0.9.1",
+        "hash": "7784d4d281ae8ff14ff35edacb74b65654735e65",
+        "time": 1548420931
+      },
+      {
+        "tag": "v2.0.9.0",
+        "hash": "4fa05144c515b247a0599f43bc00ab6c175d982a",
+        "time": 1541688369
+      },
+      {
+        "tag": "v2.0.8.0",
+        "hash": "8b549fd46d875c6cef062fa8e21034b0434ad169",
+        "time": 1520285689
+      },
+      {
+        "tag": "v2.0.7.1",
+        "hash": "b4227de82fbde90a2f4786afe80ec726f1a0fb8d",
+        "time": 1514821662
+      },
+      {
+        "tag": "v2.0.7.0",
+        "hash": "c38514b0364e90ae33735935546d831032bf4cd9",
+        "time": 1509093331
+      },
+      {
+        "tag": "v2.0.6.1",
+        "hash": "e0ca3d1d9e09070e926c3d26db8e282715588963",
+        "time": 1508238943
+      },
+      {
+        "tag": "v2.0.6.0",
+        "hash": "80cd6ac0c0330ec11a70da21be24199927c7096c",
+        "time": 1506682788
+      },
+      {
+        "tag": "v2.0.5.0",
+        "hash": "07e36481bf2094061977080c38b4e48d801ae4a8",
+        "time": 1501570844
+      },
+      {
+        "tag": "v0.96",
+        "hash": "da861961813b7ec5bc5e40d7004c87a7394aeace",
+        "time": 1482435500
+      },
+      {
+        "tag": "v0.95",
+        "hash": "4983f0425b33cc757ecda387f0a301063c3f06b8",
+        "time": 1457795383
+      }
+    ],
+    "commit": {
+      "hash": "bef9a610a6bf53fba4cca231631603a3679b5b98",
+      "time": 1637412295
+    }
+  }
+}

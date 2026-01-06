@@ -1,0 +1,123 @@
+{
+  "name": "nitro",
+  "url": "https://github.com/status-im/nim-nitro",
+  "method": "git",
+  "description": " Nitro state channels in Nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-nitro",
+  "tags": [
+    "state-channels",
+    "smart-contracts",
+    "blockchain",
+    "ethereum"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6 & < 2.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.5.4 & < 0.6.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "questionable",
+          "str": ">= 0.10.1 & < 0.11.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "upraises",
+          "str": ">= 0.1.0 & < 0.2.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "contractabi",
+          "str": ">= 0.4.1 & < 0.5.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "secp256k1",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stint",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.5.1",
+        "hash": "6b4c455bf4dad7449c1580055733a1738fcd5aec",
+        "time": 1652086005
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "213551c5121e41e190df51563355d95bac6d7d39",
+        "time": 1637831267
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "adcd534eb57be1c2535c2b34c62c8dd45e9e8252",
+        "time": 1620630766
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "85ffad6fb11d5305bbe05553017c7003dcf360cd",
+        "time": 1618478132
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "04beab5b916e7dcba4a4889fe77a651e8a2f4f55",
+        "time": 1618243900
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "f7d06a995b161686898d06bbc1a1c52236cd5e91",
+        "time": 1617779726
+      }
+    ],
+    "commit": {
+      "hash": "5ccdeb46e06dcf5cef80d0acbb80ee8a17d596e7",
+      "time": 1765442623
+    }
+  }
+}

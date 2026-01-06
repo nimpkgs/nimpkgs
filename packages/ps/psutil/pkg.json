@@ -1,0 +1,45 @@
+{
+  "name": "psutil",
+  "url": "https://github.com/juancarlospaco/psutil-nim",
+  "method": "git",
+  "description": "psutil is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network). Since 2018 maintained by Juan Carlos because was abandoned.",
+  "license": "BSD",
+  "web": "https://github.com/johnscillieri/psutil-nim",
+  "tags": [
+    "psutil",
+    "process",
+    "network",
+    "system",
+    "disk",
+    "cpu"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "unpack",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "65098a9a8f0de164cbbfcc0256cb6b458e1b6535",
+      "time": 1705060016
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "sound",
+  "url": "https://github.com/yglukhov/sound.git",
+  "method": "git",
+  "description": "Cross-platform sound mixer library",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/sound",
+  "tags": [
+    "sound",
+    "ogg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "jnim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/async_http_request",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsbind",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/android",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "6656ab2164401699944eb70259d35106c27b0b4a",
+      "time": 1608717472
+    }
+  }
+}

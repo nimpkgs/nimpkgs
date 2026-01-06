@@ -1,0 +1,42 @@
+{
+  "name": "ansitohtml",
+  "url": "https://github.com/PMunch/ansitohtml",
+  "method": "git",
+  "description": "Converts ANSI colour codes to HTML span tags with style tags",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/ansitohtml",
+  "tags": [
+    "ansi",
+    "library",
+    "html"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "ansiparse",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "bbcb7060931abe5b79eb08399318d36a81551d28",
+      "time": 1565781969
+    }
+  }
+}

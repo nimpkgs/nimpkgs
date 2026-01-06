@@ -1,0 +1,44 @@
+{
+  "name": "spotlightr",
+  "url": "https://github.com/thisago/spotlightr",
+  "method": "git",
+  "description": "Spotlightr basic extractor to get the video",
+  "license": "MIT",
+  "web": "https://github.com/thisago/spotlightr",
+  "tags": [
+    "library",
+    "extractor",
+    "scraper",
+    "video",
+    "stream"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d12ecf7dc4f8bf146fa00248941700278392c5c5",
+      "time": 1689544383
+    }
+  }
+}

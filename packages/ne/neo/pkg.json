@@ -1,0 +1,153 @@
+{
+  "name": "neo",
+  "url": "https://github.com/andreaferretti/neo",
+  "method": "git",
+  "description": "Linear algebra for Nim",
+  "license": "Apache License 2.0",
+  "web": "https://andreaferretti.github.io/neo/",
+  "tags": [
+    "vector",
+    "matrix",
+    "linear-algebra",
+    "BLAS",
+    "LAPACK",
+    "CUDA"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "nimblas",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "nimcuda",
+          "str": ">= 0.1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.6"
+          }
+        },
+        {
+          "name": "nimlapack",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.5",
+        "hash": "b8bff4337c7da457261ffd929d842f5db889f7ac",
+        "time": 1693990235
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "6f015e4252bfd111dc522ac8d3f9919bad66b0b7",
+        "time": 1673456491
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "089116c0bac441a3d52a7bfabf985e9063d7e4ea",
+        "time": 1665610294
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "39cde72b9f7db5de5d75fd4900c7b06aaf4eca93",
+        "time": 1645175718
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "2a5c04466d3ce62a6c1cb171f6ef2342c57a2b98",
+        "time": 1603701041
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "a256a5127ccb7993010b4be68ef1c336f3997ad3",
+        "time": 1569332785
+      },
+      {
+        "tag": "0.2.5",
+        "hash": "9af22205183882ca280267960dadbde52ddd34dc",
+        "time": 1546621739
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "847d51d6ec20f989347e04f1f24ea38feba4ed24",
+        "time": 1541599149
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "8d0b131e54096c3bd06072f6dc20deeb8d22d2f2",
+        "time": 1539166628
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "8c4905159569e0dbdac8d1c11758ac0cc65b1f04",
+        "time": 1539162764
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "99fb45f76f77eb49ecd7064c965a540611e68234",
+        "time": 1533313689
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "9a379a3c44cb9fef83c17dc8c89646f85666eda6",
+        "time": 1523032588
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "d1cd6f6ba2566cb590bc38df0f6220f35646d0bc",
+        "time": 1523018741
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "b2a72c41efeda3e6a643d193f840858937b83cf9",
+        "time": 1518801972
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "5536d64b397399f1b92e5d7f2a1b27719e244ef1",
+        "time": 1518714326
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "593e6f6096e88cd12bf30624d06882ec000ddf7c",
+        "time": 1497283647
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "8898b229756d930d361e8b2cb1f230781216283a",
+        "time": 1497274218
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "05d1111659989c296b410e79ed1495aba3531f52",
+        "time": 1497262801
+      }
+    ],
+    "commit": {
+      "hash": "6c6a81c8a3acf45a4bb117f9d04d94859b67e8c9",
+      "time": 1724832249
+    }
+  }
+}

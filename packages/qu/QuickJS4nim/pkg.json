@@ -1,0 +1,35 @@
+{
+  "name": "QuickJS4nim",
+  "url": "https://github.com/ImVexed/quickjs4nim",
+  "method": "git",
+  "description": "A QuickJS wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ImVexed/quickjs4nim",
+  "tags": [
+    "QuickJS",
+    "Javascript",
+    "Runtime",
+    "Wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b3b40ff15b88d0181121520ce0aa2a0829cd9afe",
+      "time": 1679952139
+    }
+  }
+}

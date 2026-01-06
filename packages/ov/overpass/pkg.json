@@ -1,0 +1,47 @@
+{
+  "name": "overpass",
+  "url": "https://github.com/juancarlospaco/nim-overpass",
+  "method": "git",
+  "description": "OpenStreetMap Overpass API Lib",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-overpass",
+  "tags": [
+    "openstreetmap",
+    "overpass",
+    "multisync",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.5",
+        "hash": "585f8d24d5706cc53add54626e75d8d2bccc2d9c",
+        "time": 1541097326
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "73374e0ff905c424b084852cdb9bf3d7b363a023",
+        "time": 1535007489
+      }
+    ],
+    "commit": {
+      "hash": "aa63fdc4a0526081a1ee9fdb650712fee210b1f3",
+      "time": 1689985285
+    }
+  }
+}

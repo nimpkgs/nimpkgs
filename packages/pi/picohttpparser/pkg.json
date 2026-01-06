@@ -1,0 +1,50 @@
+{
+  "name": "picohttpparser",
+  "url": "https://github.com/philip-wernersbach/nim-picohttpparser",
+  "method": "git",
+  "description": "Bindings for picohttpparser.",
+  "license": "MIT",
+  "web": "https://github.com/philip-wernersbach/nim-picohttpparser",
+  "tags": [
+    "web",
+    "http"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.11.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.11.0",
+        "hash": "2e1e6d9c00aa4ab8da1641274baa1729691ea03c",
+        "time": 1681622976
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "5248bd34815542efa8e86fea45a7e1d051eb693d",
+        "time": 1480310426
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "e7bc46f8c4ce186adb907af0652436d145a8ed38",
+        "time": 1471736004
+      }
+    ],
+    "commit": {
+      "hash": "2e1e6d9c00aa4ab8da1641274baa1729691ea03c",
+      "time": 1681622976
+    }
+  }
+}

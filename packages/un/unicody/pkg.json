@@ -1,0 +1,89 @@
+{
+  "name": "unicody",
+  "url": "https://github.com/guzba/unicody",
+  "method": "git",
+  "description": "An alternative / companion to std/unicode",
+  "license": "MIT",
+  "web": "https://github.com/guzba/unicody",
+  "tags": [
+    "utf8",
+    "utf-8",
+    "unicode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "d18d62440651868241c9ccc1e6aa41c68fc7414b",
+        "time": 1734855165
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "b1559f0183b6cc17de473859e72d1d459f20dbcb",
+        "time": 1734852780
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "b70869f75e3b3fc04239f1c4624150539a1cd359",
+        "time": 1734839971
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "e60edd329ae8ff3819663cdaac6903df6d86b1b5",
+        "time": 1728863989
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "d8d038e4c388f6a3199dba2d8019d5e95d88f007",
+        "time": 1709591985
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "f19aeb79d669f68fe568578da166066ffdf94b3e",
+        "time": 1709530108
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "fb8651cd11fdd076756a06d6aa84e4d533855f63",
+        "time": 1708815386
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "9b174aa2a7822c8d4d0b9e2edd94e6c7aef0328f",
+        "time": 1707694026
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "d85383723f0fa5ccb7fa2a0b614e2aca8a0546c7",
+        "time": 1707692383
+      }
+    ],
+    "commit": {
+      "hash": "d18d62440651868241c9ccc1e6aa41c68fc7414b",
+      "time": 1734855165
+    }
+  }
+}

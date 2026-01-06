@@ -1,0 +1,38 @@
+{
+  "name": "nimSHA2",
+  "url": "https://github.com/jangko/nimSHA2",
+  "method": "git",
+  "description": "Secure Hash Algorithm - 2, [224, 256, 384, and 512 bits]",
+  "license": "MIT",
+  "web": "https://github.com/jangko/nimSHA2",
+  "tags": [
+    "hash",
+    "crypto",
+    "library",
+    "sha256",
+    "sha224",
+    "sha384",
+    "sha512"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b8f666069dff1ed0c5142dd1ca692f0e71434716",
+      "time": 1631171307
+    }
+  }
+}

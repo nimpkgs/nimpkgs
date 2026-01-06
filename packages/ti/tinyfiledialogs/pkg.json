@@ -1,0 +1,39 @@
+{
+  "name": "tinyfiledialogs",
+  "url": "https://github.com/juancarlospaco/nim-tinyfiledialogs",
+  "method": "git",
+  "description": "TinyFileDialogs for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-tinyfiledialogs",
+  "tags": [
+    "gui",
+    "wrapper",
+    "gtk",
+    "qt",
+    "linux",
+    "windows",
+    "mac",
+    "osx"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.8.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e64a3d68b1f526296055784cf312e1697b8dc667",
+      "time": 1662157744
+    }
+  }
+}

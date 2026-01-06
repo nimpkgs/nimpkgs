@@ -1,0 +1,52 @@
+{
+  "name": "c4",
+  "url": "https://github.com/c0ntribut0r/cat-400",
+  "method": "git",
+  "description": "Game framework, modular and extensible",
+  "license": "MPL-2.0",
+  "web": "https://github.com/c0ntribut0r/cat-400",
+  "doc": "https://github.com/c0ntribut0r/cat-400/tree/master/docs/tutorials",
+  "tags": [
+    "game",
+    "framework",
+    "2d",
+    "3d"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        },
+        {
+          "name": "msgpack4nim",
+          "str": "0.4.4",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.4.4"
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": "0.10.3",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.10.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "df9f2fea2430ffca8461279ca93a7a00c7c9a763",
+      "time": 1702914329
+    }
+  }
+}

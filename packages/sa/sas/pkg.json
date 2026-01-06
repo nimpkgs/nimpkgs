@@ -1,0 +1,19 @@
+{
+  "name": "sas",
+  "url": "https://github.com/xcodz-dot/sas",
+  "method": "git",
+  "description": "SAS compiler",
+  "license": "MIT",
+  "web": "https://github.com/xcodz-dot/sas",
+  "tags": [
+    "emulator",
+    "cpu",
+    "architecture",
+    "toy",
+    "simulator",
+    "compiler"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

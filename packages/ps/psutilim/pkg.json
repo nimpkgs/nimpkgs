@@ -1,0 +1,36 @@
+{
+  "name": "psutilim",
+  "url": "https://github.com/Techno-Fox/psutil-nim",
+  "method": "git",
+  "description": "Updated psutil module from https://github.com/johnscillieri/psutil-nim",
+  "license": "MIT",
+  "web": "https://github.com/Techno-Fox/psutil-nim",
+  "doc": "https://github.com/Techno-Fox/psutil-nim",
+  "tags": [
+    "psutilim",
+    "nim",
+    "psutils",
+    "psutil"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a793440b66d1a48d86145d7dce57379e6dbe08a5",
+      "time": 1647609069
+    }
+  }
+}

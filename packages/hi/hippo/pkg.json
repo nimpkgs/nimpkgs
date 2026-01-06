@@ -1,0 +1,46 @@
+{
+  "name": "hippo",
+  "url": "https://github.com/monofuel/hippo",
+  "method": "git",
+  "description": "HIP / CUDA programming library for Nim.",
+  "license": "MIT",
+  "web": "https://monofuel.github.io/hippo/",
+  "tags": [
+    "cuda",
+    "hip",
+    "gpu"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.5.7",
+        "hash": "090e32b61253c4f2f4b69bc77c60d0c30c235f4f",
+        "time": 1725297166
+      },
+      {
+        "tag": "0.5.2",
+        "hash": "ef601207b4f2457f9931a479c39ea63ac2cd70d8",
+        "time": 1725228122
+      }
+    ],
+    "commit": {
+      "hash": "75e27942a6f1b2f094cb8dcbc6555845ff4e6ea2",
+      "time": 1762582992
+    }
+  }
+}

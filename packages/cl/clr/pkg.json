@@ -1,0 +1,82 @@
+{
+  "name": "clr",
+  "url": "https://github.com/Calinou/clr",
+  "method": "git",
+  "description": "Get information about colors and convert them in the command line",
+  "license": "MIT",
+  "web": "https://github.com/Calinou/clr",
+  "tags": [
+    "command-line",
+    "color",
+    "rgb",
+    "hsl",
+    "hsv"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": "#1bbe72ead9fe8270a8d038eb92bd4f83b3f0fc87",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 0.9.31",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.31"
+          }
+        }
+      ],
+      "bin": [
+        "clr"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "cb8ed08c445064fb38d5fb8aa479b343434017fe",
+        "time": 1562538454
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "10346b5c212f388f7f5537c886c85adbb6710775",
+        "time": 1547021837
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "c97591d295f4e64e940dd5baf98df21a1c4e3f78",
+        "time": 1532614967
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "be49727f9f8d27be0e35b058a907ed619d321987",
+        "time": 1532458729
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "6da766c3746e8cdafee7d40eef7847dc6f2827e9",
+        "time": 1532295985
+      }
+    ],
+    "commit": {
+      "hash": "74233813a0497ac239b76dbfe14ccb1947edb353",
+      "time": 1569401182
+    }
+  }
+}

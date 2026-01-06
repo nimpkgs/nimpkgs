@@ -1,0 +1,59 @@
+{
+  "name": "daemonize",
+  "url": "https://github.com/OpenSystemsLab/daemonize.nim",
+  "method": "git",
+  "description": "This library makes your code run as a daemon process on Unix-like systems",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/daemonize.nim",
+  "tags": [
+    "daemonize",
+    "background",
+    "fork",
+    "unix",
+    "linux",
+    "process"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.0.5",
+        "hash": "a745d67becc409b4b5a5e7c03b13085ebd3ca2e5",
+        "time": 1561446979
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "82002d80fbffa29e2e35581897eb47f46412f00f",
+        "time": 1487776861
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "ff6f4e7f22e76ebc61950874b1921b7e39eea898",
+        "time": 1444122754
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "b4be443e98f7fd6db881634c0fcd7e2e0cc5d264",
+        "time": 1444118333
+      }
+    ],
+    "commit": {
+      "hash": "61dc74960cf5b3f2e34fad85a0e5e0076a1c61e9",
+      "time": 1633050235
+    }
+  }
+}

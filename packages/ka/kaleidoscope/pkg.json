@@ -1,0 +1,69 @@
+{
+  "name": "kaleidoscope",
+  "url": "https://github.com/xTrayambak/kaleidoscope",
+  "method": "git",
+  "description": "Non-mature SIMD-accelerated drop-ins for std/strutils functions",
+  "license": "MIT",
+  "web": "https://github.com/xTrayambak/kaleidoscope",
+  "tags": [
+    "simd",
+    "strutils",
+    "strings",
+    "avx",
+    "sse",
+    "non-mature",
+    "x86"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.1"
+          }
+        },
+        {
+          "name": "benchy",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        },
+        {
+          "name": "drchaos",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "1dced21e32c190812f92e89e9fb3ef0707084618",
+        "time": 1758960989
+      }
+    ],
+    "commit": {
+      "hash": "ceaa27e1478b08355970f56985bddbac842603c3",
+      "time": 1758961272
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "nimwin",
+  "url": "https://github.com/TriedAngle/nimwin",
+  "method": "git",
+  "description": "Platform Agnostic Windowing Library for Nim",
+  "license": "Apache-2.0",
+  "web": "https://github.com/TriedAngle/nimwin",
+  "tags": [
+    "gui",
+    "opengl",
+    "vulkan",
+    "web",
+    "windowing",
+    "window",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "44945992e459de65bd22fd108497dec7dc73f179",
+      "time": 1657758307
+    }
+  }
+}

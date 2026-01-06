@@ -1,0 +1,22 @@
+{
+  "name": "jade-nim",
+  "url": "https://github.com/idlewan/jade-nim",
+  "method": "git",
+  "description": "Compiles jade templates to Nim procedures.",
+  "license": "MIT",
+  "web": "https://github.com/idlewan/jade-nim",
+  "tags": [
+    "template",
+    "jade",
+    "web",
+    "dsl",
+    "html"
+  ],
+  "meta": {
+    "broken": true,
+    "commit": {
+      "hash": "af64d47068cf62042ff0186937c5956dced58a02",
+      "time": 1400617544
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "keystone",
+  "url": "https://github.com/6A/Keystone.nim",
+  "method": "git",
+  "description": "Bindings to the Keystone Assembler.",
+  "license": "MIT",
+  "web": "https://github.com/6A/Keystone.nim",
+  "tags": [
+    "binding",
+    "keystone",
+    "asm",
+    "assembler",
+    "x86",
+    "arm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "be01fa7e4a90e5a340d2e999dd2d257a6f300e7e",
+      "time": 1606145558
+    }
+  }
+}

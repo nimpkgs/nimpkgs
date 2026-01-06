@@ -1,0 +1,54 @@
+{
+  "name": "facedetect",
+  "url": "https://github.com/deNULL/facedetect",
+  "method": "git",
+  "description": "A face detection, pupil/eyes localization and facial landmark points detection library",
+  "license": "MIT",
+  "web": "https://github.com/deNULL/facedetect",
+  "tags": [
+    "face",
+    "detection",
+    "eye",
+    "pupil",
+    "pico",
+    "facial",
+    "landmarks"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 0.2.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.7"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e73c08a7ebaf6de706dcb2b3b84a35bb2ebd8394",
+      "time": 1685302245
+    }
+  }
+}

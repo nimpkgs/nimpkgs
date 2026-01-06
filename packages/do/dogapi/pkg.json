@@ -1,0 +1,41 @@
+{
+  "name": "dogapi",
+  "url": "https://github.com/thechampagne/dogapi-nim",
+  "method": "git",
+  "description": "Dog API client",
+  "license": "Apache-2.0",
+  "web": "https://github.com/thechampagne/dogapi-nim",
+  "tags": [
+    "api-client",
+    "api-wrapper",
+    "dogapi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "b803a6d57e63568b83460bdc04587ac874983e9c",
+        "time": 1649497644
+      }
+    ],
+    "commit": {
+      "hash": "b803a6d57e63568b83460bdc04587ac874983e9c",
+      "time": 1649497644
+    }
+  }
+}

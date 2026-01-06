@@ -1,0 +1,43 @@
+{
+  "name": "nimgraphviz",
+  "url": "https://github.com/Aveheuzed/nimgraphviz",
+  "method": "git",
+  "description": "Nim bindings for the GraphViz tool and the DOT graph language",
+  "license": "MIT",
+  "web": "https://github.com/Aveheuzed/nimgraphviz",
+  "tags": [
+    "graph",
+    "viz",
+    "graphviz",
+    "dot",
+    "pygraphviz"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v3.0",
+        "hash": "de13bc4714e8ea79de443677c00a02c3e37be87b",
+        "time": 1631002871
+      }
+    ],
+    "commit": {
+      "hash": "de13bc4714e8ea79de443677c00a02c3e37be87b",
+      "time": 1631002871
+    }
+  }
+}

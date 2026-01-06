@@ -1,0 +1,33 @@
+{
+  "name": "luhncheck",
+  "url": "https://github.com/sillibird/luhncheck",
+  "method": "git",
+  "description": "Implementation of Luhn algorithm in nim.",
+  "license": "MIT",
+  "web": "https://github.com/sillibird/luhncheck",
+  "tags": [
+    "library",
+    "algorithm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6ec1c8fc09690fd3bf7563f4b9fe321afb6eb36e",
+      "time": 1553738390
+    }
+  }
+}

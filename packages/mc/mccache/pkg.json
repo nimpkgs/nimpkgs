@@ -1,0 +1,55 @@
+{
+  "name": "mccache",
+  "url": "https://github.com/abbeymart/mccache-nim",
+  "method": "git",
+  "description": "mccache package: in-memory caching",
+  "license": "MIT",
+  "web": "https://github.com/abbeymart/mccache-nim",
+  "tags": [
+    "web",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "59c8f83440cbd2282310bd833d64cf3ef1246ae6",
+        "time": 1665879633
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "35f1a353ce1c0cba31b56cff6f2be932f0bbfa81",
+        "time": 1641699690
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "10327263ea65676b4dddbf850c0f5991d84514bc",
+        "time": 1612967660
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "924f88efc2bc5e7b43f62f0d9affa26020893f8e",
+        "time": 1594501454
+      }
+    ],
+    "commit": {
+      "hash": "cd4fda8e5b01997352b16563abcaf73593fa371a",
+      "time": 1669155369
+    }
+  }
+}

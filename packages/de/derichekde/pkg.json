@@ -1,0 +1,43 @@
+{
+  "name": "derichekde",
+  "url": "https://github.com/chancyk/deriche-kde",
+  "method": "git",
+  "description": "Fast KDE implementation in pure Nim using linear binning and Deriche approximation",
+  "license": "BSD-3-Clause",
+  "tags": [
+    "kde",
+    "density",
+    "kernel",
+    "estimation",
+    "deriche",
+    "plot"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.20",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.20"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "b88fd362d8c80693440ea9a32a42d18801e83559",
+        "time": 1734628030
+      }
+    ],
+    "commit": {
+      "hash": "b88fd362d8c80693440ea9a32a42d18801e83559",
+      "time": 1734628030
+    }
+  }
+}

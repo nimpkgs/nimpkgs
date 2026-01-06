@@ -1,0 +1,45 @@
+{
+  "name": "pretty",
+  "url": "https://github.com/treeform/pretty",
+  "method": "git",
+  "description": "A pretty printer for Nim types",
+  "license": "MIT",
+  "web": "https://github.com/treeform/pretty",
+  "tags": [
+    "pretty",
+    "print"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "9e770046c5cdf23d395d6b21c4657345481b1c76",
+        "time": 1731799865
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "60850f8c595d4f0b9e55f3a99c7c471244a3182a",
+        "time": 1684073745
+      }
+    ],
+    "commit": {
+      "hash": "9e770046c5cdf23d395d6b21c4657345481b1c76",
+      "time": 1731799865
+    }
+  }
+}

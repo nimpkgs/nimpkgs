@@ -1,0 +1,86 @@
+{
+  "name": "amqpstats",
+  "url": "https://github.com/Q-Master/amqp-stats.nim",
+  "method": "git",
+  "description": "Pure Nim library to read AMQP stats via management plugin API",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/amqp-stats.nim",
+  "tags": [
+    "library",
+    "pure",
+    "rabbitmq",
+    "async",
+    "sync"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "packets",
+          "str": ">= 2.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "ca87d4a1dd5396fbf65385ae6a93991cd8c438a4",
+        "time": 1732545230
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "2b2a5276226a80c93f44184928ef66f9531b95d7",
+        "time": 1712136627
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "3127a5c32789aa776277a5c8f93228534681430e",
+        "time": 1712080342
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "69443b22cc6af2821b4787a003d6d416e4da9344",
+        "time": 1711919962
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "417f3314507796f48f1990265a62e87a7a941074",
+        "time": 1711634505
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "c2217632fca50fe3fa23b43ece390d5d234b0cb1",
+        "time": 1710436791
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "274fcf1ed50429d4c9be1148c68080219ed9e0d1",
+        "time": 1710420591
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c8aa69198a6418e21e1a12c2168dfbfb5ad73a97",
+        "time": 1708464151
+      }
+    ],
+    "commit": {
+      "hash": "ca87d4a1dd5396fbf65385ae6a93991cd8c438a4",
+      "time": 1732545230
+    }
+  }
+}

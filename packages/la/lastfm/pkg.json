@@ -1,0 +1,66 @@
+{
+  "name": "lastfm",
+  "url": "https://gitlab.com/tandy1000/lastfm-nim",
+  "method": "git",
+  "description": "Last.FM API bindings",
+  "license": "Apache-2.0",
+  "web": "https://gitlab.com/tandy1000/lastfm-nim",
+  "doc": "https://tandy1000.gitlab.io/lastfm-nim/",
+  "tags": [
+    "last.fm",
+    "lastfm",
+    "music",
+    "metadata",
+    "api",
+    "multisync",
+    "ryukoposting"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.8.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.8.2",
+        "hash": "38d04d70065dd38c12021474781885e8744a3a76",
+        "time": 1631528375
+      },
+      {
+        "tag": "0.8.1",
+        "hash": "e6196cd72e51d57619bce856f9e95546579f7795",
+        "time": 1627549243
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "80be88f07419147cf9d0813af3fcc31a9b422bdd",
+        "time": 1624622058
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "18abc79910b571e064636490020aa87b46fe9da1",
+        "time": 1606048928
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "cbbf56144456c28e55641d226076a5743fef1e61",
+        "time": 1549513358
+      }
+    ],
+    "commit": {
+      "hash": "7440fcd6f92da7e3e5271bf1076bb524dc1cefb7",
+      "time": 1649801159
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "gemmaJSON",
+  "url": "https://github.com/sainttttt/gemmaJSON",
+  "method": "git",
+  "description": "json parsing library based on bindings of simdjson",
+  "license": "MIT",
+  "web": "https://github.com/sainttttt/gemmaJSON",
+  "tags": [
+    "simd",
+    "json",
+    "parser",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1382d7c86a726d724503f73d0196f6c893e35c24",
+      "time": 1720069591
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "knot",
+  "url": "https://github.com/metagn/knot",
+  "method": "git",
+  "description": "tie compile-time values to types under names",
+  "license": "MIT",
+  "web": "https://github.com/metagn/knot",
+  "tags": [
+    "macro",
+    "namespace",
+    "trait"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "05af6c144be1a9aa0e78afe07a3e1cdec0000500",
+      "time": 1693212837
+    }
+  }
+}

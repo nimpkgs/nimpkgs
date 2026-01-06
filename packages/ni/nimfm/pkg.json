@@ -1,0 +1,66 @@
+{
+  "name": "nimfm",
+  "url": "https://github.com/neonnnnn/nimfm",
+  "method": "git",
+  "description": "A library for factorization machines in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/neonnnnn/nimfm",
+  "tags": [
+    "machine-learning",
+    "factorization-machine"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 0.9.43",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.43"
+          }
+        },
+        {
+          "name": "nimlapack",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "168d33222c781cbcb7cb54b191d76bd511642c2a",
+        "time": 1606225083
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "94ec144f478bb16697588fb10d02e01242962731",
+        "time": 1603013149
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "42c6f3916b7d5b94743fab4bbf29e06732760220",
+        "time": 1584020344
+      }
+    ],
+    "commit": {
+      "hash": "377202d483b8085afd75b0ec955e1abb40e11761",
+      "time": 1610509151
+    }
+  }
+}

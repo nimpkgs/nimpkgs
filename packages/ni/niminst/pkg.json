@@ -1,0 +1,36 @@
+{
+  "name": "niminst",
+  "url": "https://github.com/nim-lang/niminst",
+  "method": "git",
+  "description": "tool to generate installers for Nim programs",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/niminst",
+  "tags": [
+    "app",
+    "binary",
+    "tool",
+    "installation",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "b30ea9685f34fce3d827f9fe016a14cb47f405ef",
+      "time": 1575278897
+    }
+  }
+}

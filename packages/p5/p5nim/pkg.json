@@ -1,0 +1,37 @@
+{
+  "name": "p5nim",
+  "url": "https://github.com/pietroppeter/p5nim",
+  "method": "git",
+  "description": "Nim bindings for p5.js.",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/p5nim",
+  "tags": [
+    "p5",
+    "javascript",
+    "creative",
+    "coding",
+    "processing",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "cee7207ba09dc5c090af18b8cc9e1e070fbc4aa6",
+      "time": 1686321554
+    }
+  }
+}

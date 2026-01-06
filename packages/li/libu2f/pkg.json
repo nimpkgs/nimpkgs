@@ -1,0 +1,43 @@
+{
+  "name": "libu2f",
+  "url": "https://github.com/FedericoCeratto/nim-libu2f",
+  "method": "git",
+  "description": "A wrapper for libu2f, a library for FIDO/U2F",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-libu2f",
+  "tags": [
+    "u2f",
+    "library",
+    "security",
+    "authentication",
+    "fido"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "a93cd835e405cd2d4b1d783570c681baf77e2c15",
+        "time": 1573064330
+      }
+    ],
+    "commit": {
+      "hash": "a93cd835e405cd2d4b1d783570c681baf77e2c15",
+      "time": 1573064330
+    }
+  }
+}

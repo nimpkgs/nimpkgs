@@ -1,0 +1,45 @@
+{
+  "name": "quickjwt",
+  "url": "https://github.com/treeform/quickjwt",
+  "method": "git",
+  "description": "JSON Web Tokens for Nim",
+  "license": "MIT",
+  "web": "https://github.com/treeform/quickjwt",
+  "tags": [
+    "crypto",
+    "hash"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1, 0.2.1",
+        "hash": "d3989dce8b025bd7c813190b7079f6531b9f0f27",
+        "time": 1579208162
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "3b923666c339d252721763f470498495f4af0cef",
+        "time": 1558647928
+      }
+    ],
+    "commit": {
+      "hash": "4021980db44e3ec64eb0e47039cea3dacb6d80df",
+      "time": 1683764923
+    }
+  }
+}

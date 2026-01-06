@@ -1,0 +1,34 @@
+{
+  "name": "LLVM",
+  "url": "https://github.com/FedeOmoto/llvm",
+  "method": "git",
+  "description": "LLVM bindings for the Nim language.",
+  "license": "MIT",
+  "web": "https://github.com/FedeOmoto/llvm",
+  "tags": [
+    "LLVM",
+    "bindings",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "389448012ebf1b8a577c56247a85580e879a3709",
+      "time": 1437499963
+    }
+  }
+}

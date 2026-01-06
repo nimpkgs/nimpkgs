@@ -1,0 +1,79 @@
+{
+  "name": "dirtygpt",
+  "url": "https://github.com/thisago/dirtygpt",
+  "method": "git",
+  "description": "A dirty and free way to use ChatGPT in Nim",
+  "license": "MIT",
+  "web": "https://github.com/thisago/dirtygpt",
+  "tags": [
+    "chatgpt",
+    "gpt",
+    "ai",
+    "lib",
+    "free",
+    "prompt",
+    "userscript"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "gm_api",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jswebsockets",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ws",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "e1051a3455e973abc12061d827c135ffdf37436f",
+        "time": 1696779127
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "756bee59946d4cb791d0d2f670f8b7dd7caf0e34",
+        "time": 1694570899
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "813854c2d18cb99906eefa55673833397766a95f",
+        "time": 1694569298
+      }
+    ],
+    "commit": {
+      "hash": "e1051a3455e973abc12061d827c135ffdf37436f",
+      "time": 1696779127
+    }
+  }
+}

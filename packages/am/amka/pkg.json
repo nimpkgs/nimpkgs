@@ -1,0 +1,33 @@
+{
+  "name": "amka",
+  "url": "https://github.com/zoispag/amka-nim",
+  "method": "git",
+  "description": "A validator for greek social security number (AMKA)",
+  "license": "MIT",
+  "web": "https://github.com/zoispag/amka-nim",
+  "tags": [
+    "amka",
+    "greek-social-security-number"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2b048f22b98712597c467864aa0d2cef8de46739",
+      "time": 1608489154
+    }
+  }
+}

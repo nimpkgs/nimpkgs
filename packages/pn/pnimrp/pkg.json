@@ -1,0 +1,40 @@
+{
+  "name": "pnimrp",
+  "url": "https://github.com/bloomingchad/pnimrp",
+  "method": "git",
+  "description": "simple terminal radio station player in nim making life easier",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/bloomingchad/pnimrp",
+  "tags": [
+    "radio",
+    "terminal",
+    "minimal",
+    "mpv",
+    "libmpv",
+    "nim-lang"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [
+        "pnimrp"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "bc80a9e445a58d059ebd184e670449c0debaaf65",
+      "time": 1747664578
+    }
+  }
+}

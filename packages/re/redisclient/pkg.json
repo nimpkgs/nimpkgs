@@ -1,0 +1,50 @@
+{
+  "name": "redisclient",
+  "url": "https://github.com/xmonader/nim-redisclient",
+  "method": "git",
+  "description": "Redis client for Nim",
+  "license": "Apache2",
+  "web": "https://github.com/xmonader/nim-redisclient",
+  "tags": [
+    "redis",
+    "client",
+    "protocol",
+    "resp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "redisparser",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "c0911502399d5333d00b3bcc448c987a36f07817",
+        "time": 1542611808
+      }
+    ],
+    "commit": {
+      "hash": "6a28bb1a82636f16996d8c29db38ec122a0b8197",
+      "time": 1631305204
+    }
+  }
+}

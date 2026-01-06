@@ -1,0 +1,104 @@
+{
+  "name": "matext",
+  "url": "https://git.sr.ht/~xigoi/matext",
+  "method": "git",
+  "description": "Render LaTeX math as multiline Unicode text",
+  "license": "GPL-3.0-or-later",
+  "web": "https://git.sr.ht/~xigoi/matext",
+  "tags": [
+    "math",
+    "latex"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2022.11.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.21",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.21"
+          }
+        },
+        {
+          "name": "honeycomb",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [
+        "matext"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "2022.11.9",
+        "hash": "f13d8fbb826b639c7f5838a3d78ece6cffe51d11",
+        "time": 1667993518
+      },
+      {
+        "tag": "2022.11.1",
+        "hash": "f9cc867b48a2044b80ee257d0edaaec3c4766e29",
+        "time": 1667305151
+      },
+      {
+        "tag": "2022.10.13",
+        "hash": "8d7b10765f98f5c854ca603a0435fb1d0063dcaf",
+        "time": 1665658455
+      },
+      {
+        "tag": "2022.10.12",
+        "hash": "8fa5a57330fa09eb27d674ebf8b01ae7fc772ad5",
+        "time": 1665570342
+      },
+      {
+        "tag": "2022.9.3",
+        "hash": "dbf8f6a2122f5c5b7ecaf18754070f52c27a2743",
+        "time": 1662237746
+      },
+      {
+        "tag": "2022.7.20",
+        "hash": "cb299f2e75bba8b793b26edf60b468835572fad5",
+        "time": 1658318141
+      },
+      {
+        "tag": "2022.7.6",
+        "hash": "20e97f70bc9152669ebdfcd84ad60687ab932fa4",
+        "time": 1657062173
+      },
+      {
+        "tag": "2022.6.27",
+        "hash": "7cb349426906cd50493fe4a3a01648b958d8decc",
+        "time": 1656335656
+      },
+      {
+        "tag": "2022.6.21",
+        "hash": "fce8703f11fb8024e2efa14cbd33f8a53f8cd500",
+        "time": 1655827423
+      },
+      {
+        "tag": "2022.5.13",
+        "hash": "af7bad8b16a8416a49e2dcfd30ccc3e7f6017597",
+        "time": 1652428104
+      }
+    ],
+    "commit": {
+      "hash": "f13d8fbb826b639c7f5838a3d78ece6cffe51d11",
+      "time": 1667993518
+    }
+  }
+}

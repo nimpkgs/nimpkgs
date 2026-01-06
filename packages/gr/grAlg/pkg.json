@@ -1,0 +1,104 @@
+{
+  "name": "grAlg",
+  "url": "https://github.com/c-blake/gralg",
+  "method": "git",
+  "description": "Classical Graph Algos in Nim",
+  "license": "MIT/ISC",
+  "web": "https://github.com/c-blake/gralg",
+  "tags": [
+    "graph",
+    "digraph",
+    "dag",
+    "algorithm",
+    "dfs",
+    "bfs",
+    "dijkstra",
+    "topological sort",
+    "shortest paths",
+    "transitive closure"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.9.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.1"
+          }
+        }
+      ],
+      "bin": [
+        "util/conncomp"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.5.2",
+        "hash": "f1f7d991295448502e8aee723dd2aa41c02634d7",
+        "time": 1757426498
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "f0f8598c4d2a60625198ae20d80f5d6b47e0e582",
+        "time": 1731765970
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "8153e4bfbc5c31d237a6b687bb0c053ba8850382",
+        "time": 1712668195
+      },
+      {
+        "tag": "0.4.4",
+        "hash": "79a41c4e106ce63b48ef823130b9903c2d29c299",
+        "time": 1705426275
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "4573b03f692c7995f517c7e77d4a36819f0580fd",
+        "time": 1683886068
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "f933cc9c6634aacdbc4527eee59b5c5d34c17945",
+        "time": 1673802451
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "14e29ad9ed7a89b3aa621ab05ba8330af9317bdc",
+        "time": 1673801739
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "85851f7e265ba98f577d02b001480069d65c1784",
+        "time": 1667223572
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "92dfd67d5ea4fc78d89719a052f337905d8b52b4",
+        "time": 1659722948
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "126abbe2fc2e44d01acc7345df9835d5f162a75c",
+        "time": 1659554302
+      }
+    ],
+    "commit": {
+      "hash": "f1f7d991295448502e8aee723dd2aa41c02634d7",
+      "time": 1757426498
+    }
+  }
+}

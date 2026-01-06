@@ -1,0 +1,101 @@
+{
+  "name": "bibleTools",
+  "url": "https://github.com/thisago/bibleTools",
+  "method": "git",
+  "description": "Bible tools!",
+  "license": "MIT",
+  "web": "https://github.com/thisago/bibleTools",
+  "tags": [
+    "bible",
+    "tool",
+    "library",
+    "tools",
+    "text"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.2.4",
+        "hash": "9dd7cb58add91ee2ea2f8b5838e061030a42a470",
+        "time": 1680887676
+      },
+      {
+        "tag": "1.2.3",
+        "hash": "3390d30d56f7e9e34d42df26952fde4eb3caecd4",
+        "time": 1680881526
+      },
+      {
+        "tag": "1.2.2",
+        "hash": "b4b66645482ed3cb48f03fd2baa3e4d8f4efdb72",
+        "time": 1680878790
+      },
+      {
+        "tag": "1.2.1",
+        "hash": "7068c69b02c428c6761da135ae930cf2ea0f83e0",
+        "time": 1680877826
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "10faf15aa97f7e106c9df41969e5dc9330970559",
+        "time": 1680876353
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "740a68ca86db1ef252acbc14c77ac06d6033f92a",
+        "time": 1680830824
+      },
+      {
+        "tag": "1.0.4",
+        "hash": "303dfba37ab565a6de7442f6db175a7099652511",
+        "time": 1679858644
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "7d793a9be03c272a3379eff6b847aeb299fcdbca",
+        "time": 1679857134
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "703dfd6f6204d50ce89c6d2ed483dcd5e6745f2b",
+        "time": 1679848631
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "5aad1e848ffe6a7c4030240401051d92ad40f34e",
+        "time": 1679485612
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "4adface1092c2ecaf30b4939e0ed6f03abe64c02",
+        "time": 1679426901
+      }
+    ],
+    "commit": {
+      "hash": "e7f01081fd8128fb75d7850d5ed8a314adfde100",
+      "time": 1691263657
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "nimpretty_t",
+  "url": "https://github.com/tobealive/nimpretty_t",
+  "method": "git",
+  "description": "Use nimpretty with tab indentation.",
+  "license": "MIT",
+  "web": "https://github.com/tobealive/nimpretty_t",
+  "tags": [
+    "nimpretty",
+    "code",
+    "formatter",
+    "formatting",
+    "autoformat",
+    "cli",
+    "terminal",
+    "command-line",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.4"
+          }
+        }
+      ],
+      "bin": [
+        "nimpretty_t"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "ff65a3863fbe72d6428882cdd16e6e98c4ca14b8",
+        "time": 1727778964
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "9943917d75ed71997fad6139f6f9362d0656d8cc",
+        "time": 1718712250
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e36dc23f6930c95fe3f84ea23d6fc0ea156c1c10",
+        "time": 1678957740
+      }
+    ],
+    "commit": {
+      "hash": "375924cd42a2b1369647ced52e60c9dd0d13e6a9",
+      "time": 1727794962
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "oblivion",
+  "url": "https://github.com/sealmove/oblivion",
+  "method": "git",
+  "description": "Shell command manager",
+  "license": "MIT",
+  "web": "https://github.com/sealmove/oblivion",
+  "tags": [
+    "cli",
+    "alias",
+    "binary"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [
+        "o"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "ae180ff3102e223fbae86b97a6ebbaa854301b8b",
+        "time": 1602082091
+      }
+    ],
+    "commit": {
+      "hash": "afd0581d7cd7f054ee849e65ab4b026238f23d8c",
+      "time": 1618572788
+    }
+  }
+}

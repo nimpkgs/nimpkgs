@@ -1,0 +1,60 @@
+{
+  "name": "paramidib",
+  "url": "https://github.com/pietroppeter/paramidib",
+  "method": "git",
+  "description": "paramidi with nimib",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/paramidib",
+  "tags": [
+    "midi",
+    "music",
+    "wav",
+    "nimib",
+    "paramidi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "paramidi",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "paramidi_soundfonts",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "parasound",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "808174d97ec40ae77798ea12e5eebe591414e56b",
+      "time": 1678917319
+    }
+  }
+}

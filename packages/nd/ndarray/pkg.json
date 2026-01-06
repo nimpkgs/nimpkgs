@@ -1,0 +1,49 @@
+{
+  "name": "ndarray",
+  "url": "https://github.com/jailop/ndarray-nim",
+  "method": "git",
+  "description": "Nim bindings for ndarray-c library",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/jailop/ndarray-nim",
+  "tags": [
+    "array",
+    "numerical"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2"
+          }
+        }
+      ],
+      "bin": [
+        "example"
+      ],
+      "srcDir": "./src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "c60974352777537a956bdb3e8c75ae216a5570b4",
+        "time": 1767934841
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ae030bd07cc7ec0a22f0b8c789ff4bcb5333b0fe",
+        "time": 1767899138
+      }
+    ],
+    "commit": {
+      "hash": "6ae0e57e0111923d2ee8b72c181b5298e2d3e15b",
+      "time": 1767934899
+    },
+    "status": "Unknown"
+  }
+}

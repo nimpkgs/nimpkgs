@@ -1,0 +1,50 @@
+{
+  "name": "nimcatapi",
+  "url": "https://github.com/nirokay/nimcatapi",
+  "method": "git",
+  "description": "nimcatapi is a library that lets you easily request images from thecatapi and/or thedogapi.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nirokay/nimcatapi",
+  "doc": "https://nirokay.github.io/nim-docs/nimcatapi/nimcatapi.html",
+  "tags": [
+    "thecatapi",
+    "thedogapi",
+    "api",
+    "animals",
+    "network",
+    "images"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "2.0.0",
+        "hash": "aff06d5d50bb223db2cd0467f92756db122c1d22",
+        "time": 1687181232
+      },
+      {
+        "tag": "1.0.1, 1.0.0",
+        "hash": "96792f9973bc4e531aca91e1e1538c77709b14ae",
+        "time": 1685478416
+      }
+    ],
+    "commit": {
+      "hash": "06e810b38c558055df8882f535b7308fc4e7be59",
+      "time": 1687181733
+    }
+  }
+}

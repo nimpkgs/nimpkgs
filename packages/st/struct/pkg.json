@@ -1,0 +1,73 @@
+{
+  "name": "struct",
+  "url": "https://github.com/OpenSystemsLab/struct.nim",
+  "method": "git",
+  "description": "Python-like 'struct' for Nim",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/struct.nim",
+  "tags": [
+    "struct",
+    "library",
+    "python",
+    "pack",
+    "unpack"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.3",
+        "hash": "b00809c24f4d3e09558cce3d73f02195dda5e175",
+        "time": 1633530974
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "549d9d852037f5c34209d2f801a2d9832624a91a",
+        "time": 1633484895
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "ebe0a91e55906cfb96a1bdb54e29010eec91f707",
+        "time": 1564461582
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "176e72e2b09aad091903ff3ce14651d49f704fad",
+        "time": 1563901057
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "e498592868d596ca81a48d41cc188d13c7782490",
+        "time": 1532511915
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "d1b7fe0af0620e9901cd1eb532f03e45ab3a6f66",
+        "time": 1441732942
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "5c722a0336db892c2888e408aee1d40c47b76b75",
+        "time": 1441702080
+      }
+    ],
+    "commit": {
+      "hash": "b00809c24f4d3e09558cce3d73f02195dda5e175",
+      "time": 1633530974
+    }
+  }
+}

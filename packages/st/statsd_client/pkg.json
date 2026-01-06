@@ -1,0 +1,43 @@
+{
+  "name": "statsd_client",
+  "url": "https://github.com/FedericoCeratto/nim-statsd-client",
+  "method": "git",
+  "description": "A simple, stateless StatsD client library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-statsd-client",
+  "tags": [
+    "library",
+    "statsd",
+    "client",
+    "statistics",
+    "metrics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "c55b76acce3200b039fc6684a6cf7ed53c13d635",
+        "time": 1541334078
+      }
+    ],
+    "commit": {
+      "hash": "af0bccd79e2acc66134594480b9e3855a7be5c23",
+      "time": 1556317673
+    }
+  }
+}

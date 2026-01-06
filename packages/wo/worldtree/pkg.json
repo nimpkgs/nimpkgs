@@ -1,0 +1,33 @@
+{
+  "name": "worldtree",
+  "url": "https://github.com/keithaustin/worldtree",
+  "method": "git",
+  "description": "A small, lightweight ECS framework for Nim.",
+  "license": "MIT",
+  "tags": [
+    "entity-component-system",
+    "ecs",
+    "dod"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3517517c9fa400b4cf4e3c9962197daae57be11d",
+      "time": 1694897885
+    }
+  }
+}

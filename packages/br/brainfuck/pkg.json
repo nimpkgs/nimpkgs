@@ -1,0 +1,48 @@
+{
+  "name": "brainfuck",
+  "url": "https://github.com/def-/nim-brainfuck.git",
+  "method": "git",
+  "description": "A brainfuck interpreter and compiler",
+  "license": "MIT",
+  "web": "https://github.com/def-/nim-brainfuck",
+  "tags": [
+    "library",
+    "binary",
+    "app",
+    "interpreter",
+    "compiler",
+    "language"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "docopt",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "brainfuck"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "62d0175881b3dbd80d1c48eb36aa0050a07c85dc",
+      "time": 1512726242
+    }
+  }
+}

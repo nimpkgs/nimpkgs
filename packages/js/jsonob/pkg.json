@@ -1,0 +1,34 @@
+{
+  "name": "jsonob",
+  "url": "https://github.com/cjxgm/jsonob",
+  "method": "git",
+  "description": "JSON / Object mapper",
+  "license": "MIT",
+  "web": "https://github.com/cjxgm/jsonob",
+  "tags": [
+    "json",
+    "object",
+    "marshal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "f12cf9628542b8075ca0e4d9df1b3f86304fe16b",
+      "time": 1468559424
+    }
+  }
+}

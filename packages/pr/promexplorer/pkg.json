@@ -1,0 +1,73 @@
+{
+  "name": "promexplorer",
+  "url": "https://github.com/marcusramberg/promexplorer",
+  "method": "git",
+  "description": "A simple tool to explore Prometheus exporter metrics",
+  "license": "mit",
+  "web": "https://github.com/marcusramberg/promexplorer",
+  "tags": [
+    "prometheus",
+    "tui",
+    "illwill",
+    "monitoring"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        },
+        {
+          "name": "illwill",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        }
+      ],
+      "bin": [
+        "promexplorer"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.0.5",
+        "hash": "f02192d2f5ca67ef3c144530e9b98f10dc78a550",
+        "time": 1683137830
+      },
+      {
+        "tag": "v0.0.4",
+        "hash": "f6c49fdd9e8fa5db67e00dd1f4a32b92b1be9261",
+        "time": 1680944207
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "27c391f9dc8f36355c19ca594f3ee24cfb54e9f9",
+        "time": 1680635429
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "ee8dae4beeda5308c6887f05a248ef8b5e8b785c",
+        "time": 1680515970
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "f601ded7cff0ecead53eebb8b6dfa9a2e9d89a1b",
+        "time": 1680456848
+      }
+    ],
+    "commit": {
+      "hash": "9119787f6833b924b9734a2fcdbb404e720a11e8",
+      "time": 1684058327
+    }
+  }
+}

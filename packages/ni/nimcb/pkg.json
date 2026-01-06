@@ -1,0 +1,36 @@
+{
+  "name": "nimcb",
+  "url": "https://github.com/AdrianV/nimcb",
+  "method": "git",
+  "description": "Integrate nim projects in the C++Builder build process",
+  "license": "MIT",
+  "web": "https://github.com/AdrianV/nimcb",
+  "tags": [
+    "c++-builder",
+    "msbuild"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        }
+      ],
+      "bin": [
+        "nimcb"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "b07815e1f0174da6035e9570f390dd9b833b715a",
+      "time": 1537371372
+    }
+  }
+}

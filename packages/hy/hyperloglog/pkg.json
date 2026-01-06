@@ -1,0 +1,37 @@
+{
+  "name": "hyperloglog",
+  "url": "https://github.com/deNULL/hyperloglog",
+  "method": "git",
+  "description": "A HyperLogLog data structure implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/deNULL/hyperloglog",
+  "tags": [
+    "hyperloglog",
+    "hll",
+    "data-structure",
+    "count-distinct",
+    "cardinality",
+    "sets"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9744b8012b177ef671648fcd48450faf1cd4a6b4",
+      "time": 1686913664
+    }
+  }
+}

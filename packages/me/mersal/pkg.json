@@ -1,0 +1,42 @@
+{
+  "name": "mersal",
+  "url": "https://github.com/foxoman/mersal",
+  "method": "git",
+  "description": "Send SMS and Otp in nim, a wrapper for TextBelt's public API",
+  "license": "MIT",
+  "web": "https://github.com/foxoman/mersal",
+  "doc": "https://mersal-doc.surge.sh/mersal",
+  "tags": [
+    "otp",
+    "wrapper",
+    "sms"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "18406bd01177daa0e9b840bcc20e6989b3cd88e0",
+        "time": 1660339473
+      }
+    ],
+    "commit": {
+      "hash": "4e58599ed2197dabc171ef49e53db8faea14109f",
+      "time": 1743171758
+    }
+  }
+}

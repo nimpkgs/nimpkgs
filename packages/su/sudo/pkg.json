@@ -1,0 +1,63 @@
+{
+  "name": "sudo",
+  "url": "https://github.com/FyraLabs/sudo.nim",
+  "method": "git",
+  "description": "Detect if you are running as root, restart self with sudo if needed or setup uid zero when running with the SUID flag set.",
+  "license": "MIT",
+  "web": "https://github.com/FyraLabs/sudo.nim",
+  "doc": "https://fyralabs.github.io/sudo.nim/",
+  "tags": [
+    "sudo",
+    "linux",
+    "unix"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "sweet",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "36455ab07524ca2a1896ef1bbad493ea9421c84b",
+        "time": 1713785389
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "341fb5dbabe7a2fdaf66b3c055de8681f9866af0",
+        "time": 1713773970
+      }
+    ],
+    "commit": {
+      "hash": "36455ab07524ca2a1896ef1bbad493ea9421c84b",
+      "time": 1713785389
+    }
+  }
+}

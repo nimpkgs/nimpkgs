@@ -1,0 +1,48 @@
+{
+  "name": "jacket",
+  "url": "https://github.com/SpotlightKid/jacket",
+  "method": "git",
+  "description": "A Nim wrapper for the JACK client-side C API aka libjack",
+  "license": "MIT",
+  "web": "https://github.com/SpotlightKid/jacket",
+  "tags": [
+    "audio",
+    "midi",
+    "jack",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "3b40310afd4a8ed453cfe262bbd1ddd8582e0ef1",
+        "time": 1737336225
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "20aed9e3730de0cc3a662f00108b0d7b5cac559d",
+        "time": 1700757016
+      }
+    ],
+    "commit": {
+      "hash": "bda3a94913df34ba138b854947afb253a094aea4",
+      "time": 1750599210
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "respite",
+  "url": "https://github.com/guzba/respite",
+  "method": "git",
+  "description": "Redis protocol backed by SQLite",
+  "license": "MIT",
+  "web": "https://github.com/guzba/respite",
+  "tags": [
+    "redis",
+    "resp",
+    "sqlite",
+    "sql",
+    "database",
+    "server"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "0ee0f1c6a2cd6233956a176f25407769eaf6b56e",
+        "time": 1713803831
+      }
+    ],
+    "commit": {
+      "hash": "aeb8102438408b9ac788d189c7397505e2c333c2",
+      "time": 1713804350
+    }
+  }
+}

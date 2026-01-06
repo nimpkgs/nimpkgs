@@ -1,0 +1,105 @@
+{
+  "name": "criterion",
+  "url": "https://github.com/disruptek/criterion",
+  "method": "git",
+  "description": "Statistic-driven microbenchmark framework",
+  "license": "MIT",
+  "web": "https://github.com/disruptek/criterion",
+  "tags": [
+    "benchmark"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "9fbf5930a25a56fc248a183f6a9f827cf7a41386",
+        "time": 1736535066
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "246efe7ffe85de611457e7889fcae0c7b7a76bfb",
+        "time": 1709472687
+      },
+      {
+        "tag": "0.2.9",
+        "hash": "4836d903f1dfae241b0d57441ba07b1f7f604806",
+        "time": 1693850860
+      },
+      {
+        "tag": "0.2.8",
+        "hash": "12b47b3e26d4c83e15b423f8a46546a30d4d92b2",
+        "time": 1622405602
+      },
+      {
+        "tag": "0.2.7",
+        "hash": "7351b128634ff9179105c65f62a48360840fe155",
+        "time": 1610820167
+      },
+      {
+        "tag": "0.2.6",
+        "hash": "cc9cb3650a9ba4026af50f1fa794fc34af85d3c3",
+        "time": 1610302888
+      },
+      {
+        "tag": "0.2.5",
+        "hash": "1be755639ce402ebf9c24916ef2970fd1ff386bd",
+        "time": 1610302599
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "0170d38964eb19d3276acafe516c70ce1f26afd7",
+        "time": 1608674067
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "85c0d8681f92fabc56ff4a4f50dafd17614e175c",
+        "time": 1603472445
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "71396651ea877e1bcb991ad69013ca9dbfb1cf35",
+        "time": 1603420888
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "5a53b12198664b1fd13a54c5ba5679d5b2d84c57",
+        "time": 1603404540
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "cad44144c133304b4943dfd74d0fb222ee4e0000",
+        "time": 1591570046
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "741883d9fa849983ba7944d64674bcd503ed76a9",
+        "time": 1591495564
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "c687781e92aec07218ba3029d7215cbde915e9c8",
+        "time": 1591105829
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "6293237fd43fa6cb3a6fb2fd02d1e272f4208f60",
+        "time": 1589910047
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "8216b0267122ba7658d8fabc9a4d81c0415e5352",
+        "time": 1531751083
+      }
+    ],
+    "commit": {
+      "hash": "9fbf5930a25a56fc248a183f6a9f827cf7a41386",
+      "time": 1736535066
+    }
+  }
+}

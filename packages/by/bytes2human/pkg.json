@@ -1,0 +1,35 @@
+{
+  "name": "bytes2human",
+  "url": "https://github.com/juancarlospaco/nim-bytes2human",
+  "method": "git",
+  "description": "Convert bytes to kilobytes, megabytes, gigabytes, etc.",
+  "license": "LGPLv3",
+  "web": "https://github.com/juancarlospaco/nim-bytes2human",
+  "tags": [
+    "bytes",
+    "human",
+    "minimalism",
+    "size"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ec2c1a758cabdd4751a06c8ebf2b923f19e32731",
+      "time": 1613005372
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "name": "nimalyzer",
+  "url": "https://github.com/thindil/nimalyzer",
+  "method": "git",
+  "description": "A static code analyzer for Nim",
+  "license": "BSD-3",
+  "tags": [
+    "cli",
+    "tool",
+    "static analyzer",
+    "code analyzer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.12.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "contracts",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "coloredlogger",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nimalyzer"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.12.2",
+        "hash": "196844f8c93798922dce6490119dc91158f0969c",
+        "time": 1758429118
+      },
+      {
+        "tag": "0.12.1",
+        "hash": "3617124888197e2ba17b847554446bbf8e353a9b",
+        "time": 1748576836
+      },
+      {
+        "tag": "0.12.0",
+        "hash": "55b32a7d6b011c39a44edffc249181568ef51978",
+        "time": 1738303290
+      },
+      {
+        "tag": "0.11.0",
+        "hash": "f53e44e95e1691560c26eb7810ca3de0c7de74dc",
+        "time": 1733898448
+      },
+      {
+        "tag": "0.10.1",
+        "hash": "d871bbf03d6ac8e46c1870a8fbd0ef728ec4a41f",
+        "time": 1728792864
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "a76cdbc434a05746fa1535bdc03accb88c13fa3b",
+        "time": 1723781401
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "4c94b003b78ee75fca533014fc0e83aa9011d234",
+        "time": 1718338094
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "7ee091ab1b69150c03f229eeb28f8da162aad295",
+        "time": 1713848204
+      },
+      {
+        "tag": "0.7.1",
+        "hash": "901d498f440ca79ba29ed939ae971bd32e88129a",
+        "time": 1696308583
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "10037ee0ad5a47c5a4245826dc6f93a69fde3111",
+        "time": 1694664149
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "bd98b5aa19a435e75a821ad88c1213383201be10",
+        "time": 1692332171
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "c9e6caa61ffbd755af09b6cfaf4faefaf7d7de95",
+        "time": 1688962137
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "4fb99804ca51ac6a39d1b742f1b4dbd389e89479",
+        "time": 1686199278
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "57c21e36307fbd2efa2b65d86ed6b67674e93f30",
+        "time": 1682654424
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "3620ef1afca0bfe640cc7aece0f9607e6103b265",
+        "time": 1679296900
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "bce2d892cdb229a4b8e5b5f3361cc7cd12ea46d5",
+        "time": 1676264994
+      }
+    ],
+    "commit": {
+      "hash": "1e117adaab89e557f7d7701a84ff09a8d6b1d584",
+      "time": 1760788513
+    }
+  }
+}

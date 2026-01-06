@@ -1,0 +1,61 @@
+{
+  "name": "lsblk",
+  "url": "https://github.com/FyraLabs/lsblk.nim",
+  "method": "git",
+  "description": "List out block-devices, including disks, partitions and their mountpoints",
+  "license": "MIT",
+  "web": "https://github.com/FyraLabs/lsblk.nim",
+  "tags": [
+    "lsblk",
+    "disks",
+    "partitions",
+    "mountpoints",
+    "filesystem"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "09e539cbec8ffad20bd14ee17be6e8cbe8318d92",
+        "time": 1720707646
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "f8b788e83a16e37bbef6018812fa7ca77adb8046",
+        "time": 1720090218
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "bfb60aba71156bdda8172bb2daff267b5213610a",
+        "time": 1719826700
+      }
+    ],
+    "commit": {
+      "hash": "09e539cbec8ffad20bd14ee17be6e8cbe8318d92",
+      "time": 1720707646
+    }
+  }
+}

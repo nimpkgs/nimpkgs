@@ -1,0 +1,67 @@
+{
+  "name": "watchout",
+  "url": "https://github.com/openpeeps/watchout",
+  "method": "git",
+  "description": "⚡️ Just... yellin' for changes! File System Monitor for devs",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/watchout",
+  "tags": [
+    "filesystem",
+    "monitor",
+    "filesystem-monitor",
+    "watcher",
+    "fswatch",
+    "watchout",
+    "reload",
+    "fsnotify"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "httpx",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "websocketx",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "fef0a2adda4d63e9266549a28b09171841a7bfaf",
+        "time": 1738015431
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "e04f9a50eaf33bf23eb15d81ca81b30edf0b6ea6",
+        "time": 1714454002
+      }
+    ],
+    "commit": {
+      "hash": "f5dbed379e50dabfde6b8e37c3308965c3b1fa56",
+      "time": 1758359852
+    }
+  }
+}

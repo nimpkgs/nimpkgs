@@ -1,0 +1,59 @@
+{
+  "name": "cap10",
+  "url": "https://github.com/crashappsec/cap10",
+  "method": "git",
+  "description": "A tool to capture and replay command line terminal sessions",
+  "license": "Apache-2.0",
+  "web": "https://github.com/crashappsec/cap10",
+  "tags": [
+    "terminal",
+    "expect",
+    "pty",
+    "capture",
+    "replay"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/crashappsec/nimutils",
+          "str": "#ec728cf7c1bc0fd19ca203fe3504abbfe127e6bd",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "cap10"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "fdedfad82d05cb9525e411747ab3358746a3db36",
+        "time": 1699210855
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "ab3cb7c6876fc2717bfd596046026b5b9a7af493",
+        "time": 1698855138
+      }
+    ],
+    "commit": {
+      "hash": "ff5eab30d6069f98c850b09688886958b1c9c085",
+      "time": 1701797516
+    }
+  }
+}

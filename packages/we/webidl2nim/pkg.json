@@ -1,0 +1,63 @@
+{
+  "name": "webidl2nim",
+  "url": "https://github.com/ASVIEST/webidl2nim",
+  "method": "git",
+  "description": "webidl to Nim bindings generator",
+  "license": "MIT",
+  "web": "https://github.com/ASVIEST/webidl2nim",
+  "tags": [
+    "web",
+    "webidl",
+    "js",
+    "javascript",
+    "tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.9.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.1"
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "npeg",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "webidl2nim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "a50303ea276ad77b1ee151b4d1475892133e4927",
+      "time": 1706399413
+    }
+  }
+}

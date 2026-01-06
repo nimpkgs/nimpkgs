@@ -1,0 +1,42 @@
+{
+  "name": "fur",
+  "url": "https://github.com/capocasa/fur",
+  "method": "git",
+  "description": "Fur is a pure Nim set of finite impulse response filters (FIR) for realtime use.",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/fur",
+  "tags": [
+    "dsp",
+    "filter",
+    "fir",
+    "realtime"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "727918f721f701514089e3b5acdfc6a90071ff32",
+        "time": 1746796111
+      }
+    ],
+    "commit": {
+      "hash": "34a4bd9bccecfb3c5689ff176662a3535d0c7d1a",
+      "time": 1753137690
+    }
+  }
+}

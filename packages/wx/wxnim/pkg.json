@@ -1,0 +1,35 @@
+{
+  "name": "wxnim",
+  "url": "https://github.com/PMunch/wxnim",
+  "method": "git",
+  "description": "Nim wrapper for wxWidgets. Also contains high-level genui macro",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/wxnim",
+  "tags": [
+    "wrapper",
+    "library",
+    "graphics",
+    "gui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "64776687361c7381a80e27c042e4deaadc11772d",
+      "time": 1718742771
+    }
+  }
+}

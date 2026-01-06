@@ -1,0 +1,75 @@
+{
+  "name": "ponairi",
+  "url": "https://github.com/ire4ever1190/ponairi",
+  "method": "git",
+  "description": "Simple ORM for SQLite that can perform CRUD operations",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/ponairi",
+  "doc": "https://tempdocs.netlify.app/ponairi/stable",
+  "tags": [
+    "orm",
+    "sql",
+    "sqlite"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "lowdb",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.3",
+        "hash": "0302a58cc9d001c7d3959c2a790c31fd177c4a63",
+        "time": 1700888491
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "8538488892919e66093af339d838f4b23decf192",
+        "time": 1686094913
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "6ea278cb0e98997675787ea3935c4e4f1d477198",
+        "time": 1685789798
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "7a1b488faf2086a18750a23b4d983e6cd030e771",
+        "time": 1684630415
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "91304287482064d4c71edbaeadd5d6fe0baa5e92",
+        "time": 1677708731
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "2972d62f376ebfaabb86e28244cfb401a1c9b2bd",
+        "time": 1674644772
+      }
+    ],
+    "commit": {
+      "hash": "74b27a59f727f1643d0dfcbb4d88f43e0fe3e589",
+      "time": 1706230007
+    }
+  }
+}

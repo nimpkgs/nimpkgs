@@ -1,0 +1,52 @@
+{
+  "name": "cpuwhat",
+  "url": "https://github.com/awr1/cpuwhat",
+  "method": "git",
+  "description": "Nim utilities for advanced CPU operations: CPU identification, bindings to assorted intrinsics",
+  "license": "ISC",
+  "web": "https://github.com/awr1/cpuwhat",
+  "tags": [
+    "cpu",
+    "cpuid",
+    "hardware",
+    "intrinsics",
+    "simd",
+    "sse",
+    "avx",
+    "avx2",
+    "x86",
+    "arm",
+    "architecture",
+    "arch",
+    "nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "source"
+    },
+    "commit": {
+      "hash": "a7db6be3849f5371df370be1062b7553febb20ea",
+      "time": 1609539288
+    }
+  }
+}

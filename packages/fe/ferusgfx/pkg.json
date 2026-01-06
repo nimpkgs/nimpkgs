@@ -1,0 +1,144 @@
+{
+  "name": "ferusgfx",
+  "url": "https://github.com/ferus-web/ferusgfx",
+  "method": "git",
+  "description": "A high-performance graphics renderer made for web engines",
+  "license": "MIT",
+  "web": "https://github.com/ferus-web/ferusgfx",
+  "tags": [
+    "graphics",
+    "gpu"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "windy",
+          "str": ">= 0.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.0"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 1.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.4"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.6"
+          }
+        },
+        {
+          "name": "boxy",
+          "str": ">= 0.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.2"
+          }
+        },
+        {
+          "name": "opengl",
+          "str": ">= 1.2.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.9"
+          }
+        },
+        {
+          "name": "glfw",
+          "str": ">= 3.4.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.4.0.4"
+          }
+        },
+        {
+          "name": "weave",
+          "str": ">= 0.4.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.10"
+          }
+        },
+        {
+          "name": "iniplus",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.1.0",
+        "hash": "89f2011632fcee2ae66fd1adbdeb44404975b7ff",
+        "time": 1725267051
+      },
+      {
+        "tag": "1.0.23",
+        "hash": "ed865ffd2b08688f114900759621316837147237",
+        "time": 1714201587
+      },
+      {
+        "tag": "1.0.22",
+        "hash": "729e38fcba52d445857e8f57c3702635cee62e65",
+        "time": 1714198713
+      },
+      {
+        "tag": "1.0.21",
+        "hash": "e7364159b70d2aa96b4fac7895fdc8ee2feaa307",
+        "time": 1714196661
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "2e1d71ada71ba4bd445d71daa05703bdd2c0372f",
+        "time": 1714194050
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "4bef5c678bcec59e15c7183221080f9615621855",
+        "time": 1714126170
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "3a52d7ce49fdb70f627af061c18febd066298de6",
+        "time": 1713359843
+      },
+      {
+        "tag": "0.1.2-hotfix",
+        "hash": "078cac760e450b7567f63c2eec816fb3c51e07a9",
+        "time": 1711173793
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "ae0cf7fa6d0f4c1554cd5ed52ce32b188f9bea35",
+        "time": 1711173203
+      }
+    ],
+    "commit": {
+      "hash": "92d89a7e8e8a9834f0bdd9aabfa4292d4d5a2227",
+      "time": 1732104305
+    }
+  }
+}

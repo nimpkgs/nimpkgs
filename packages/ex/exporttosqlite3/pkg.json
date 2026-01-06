@@ -1,0 +1,36 @@
+{
+  "name": "exporttosqlite3",
+  "url": "https://github.com/niklaskorz/nim-exporttosqlite3",
+  "method": "git",
+  "description": "Export Nim functions to sqlite3",
+  "license": "MIT",
+  "web": "https://github.com/niklaskorz/nim-exporttosqlite3",
+  "tags": [
+    "sqlite3",
+    "export",
+    "database",
+    "db_sqlite",
+    "sql"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "03c9081d6e3192a30adacb4ffec14caaa226a2d8",
+      "time": 1624523649
+    }
+  }
+}

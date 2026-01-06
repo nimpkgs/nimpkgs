@@ -1,0 +1,42 @@
+{
+  "name": "finalseg",
+  "url": "https://github.com/bung87/finalseg",
+  "method": "git",
+  "description": "jieba's finalseg port to nim",
+  "license": "MIT",
+  "web": "https://github.com/bung87/finalseg",
+  "tags": [
+    "library",
+    "chinese",
+    "words"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "638728cf8606765a04f989c2510c1699fe58ecb4",
+      "time": 1652661156
+    }
+  }
+}

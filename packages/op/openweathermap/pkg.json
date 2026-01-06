@@ -1,0 +1,36 @@
+{
+  "name": "openweathermap",
+  "url": "https://github.com/juancarlospaco/nim-openweathermap",
+  "method": "git",
+  "description": "OpenWeatherMap API Lib for Nim, Free world wide Creative Commons & Open Data Licensed Weather data",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-openweathermap",
+  "tags": [
+    "OpenWeatherMap",
+    "weather",
+    "CreativeCommons",
+    "OpenData",
+    "multisync"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "812f028358067d9197669e2a4e137369e3a656b9",
+      "time": 1559848139
+    }
+  }
+}

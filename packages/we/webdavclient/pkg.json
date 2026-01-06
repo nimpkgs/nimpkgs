@@ -1,0 +1,41 @@
+{
+  "name": "webdavclient",
+  "url": "https://github.com/beshrkayali/webdavclient",
+  "method": "git",
+  "description": "WebDAV Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/beshrkayali/webdavclient",
+  "tags": [
+    "webdav",
+    "library",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "8e32db41a7596a2917045efeaf82921a703dd692",
+        "time": 1578253509
+      }
+    ],
+    "commit": {
+      "hash": "bbdd40250a8bb7448ffb0c4e1017e43924ea81eb",
+      "time": 1603115137
+    }
+  }
+}

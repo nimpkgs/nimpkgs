@@ -1,0 +1,61 @@
+{
+  "name": "gptcli",
+  "url": "https://github.com/jaredmontoya/gptcli",
+  "method": "git",
+  "description": "chatgpt cli client written in nim",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/jaredmontoya/gptcli",
+  "tags": [
+    "client",
+    "cli",
+    "chatgpt",
+    "openai"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "4.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": " ^= >= 2.0.0",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": " ^= >= 1.6.16",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        },
+        {
+          "name": "pyopenai",
+          "str": " ^= >= 0.2.0",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "gptcli"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "4.0.0",
+        "hash": "0271dacdd7b9fd0a93338239005e1504a9bec84a",
+        "time": 1699486675
+      }
+    ],
+    "commit": {
+      "hash": "0612ccc141f45e70f766dbe92a748542cb7ad6a2",
+      "time": 1709220573
+    }
+  }
+}

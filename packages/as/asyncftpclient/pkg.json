@@ -1,0 +1,34 @@
+{
+  "name": "asyncftpclient",
+  "url": "https://github.com/nim-lang/asyncftpclient",
+  "method": "git",
+  "description": "FTP client implementation (originally in the stdlib).",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/asyncftpclient",
+  "tags": [
+    "stdlib",
+    "ftpclient",
+    "official"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0350c36d9545040f1038258d7a815493a6103de0",
+      "time": 1669978756
+    }
+  }
+}

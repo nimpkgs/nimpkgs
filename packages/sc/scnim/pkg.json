@@ -1,0 +1,37 @@
+{
+  "name": "scnim",
+  "url": "https://github.com/capocasa/scnim",
+  "method": "git",
+  "description": "Develop SuperCollider UGens in Nim",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/scnim",
+  "tags": [
+    "music",
+    "synthesizer",
+    "realtime",
+    "supercollider",
+    "ugen",
+    "plugin",
+    "binding",
+    "audio"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "e95e4f6d8db47e24a469ed4854137631649ed9f3",
+        "time": 1520970067
+      }
+    ],
+    "commit": {
+      "hash": "93c45a5730f5e3d3cbcecd50509ac21f27f61b3b",
+      "time": 1574623851
+    }
+  }
+}

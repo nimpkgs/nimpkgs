@@ -1,0 +1,91 @@
+{
+  "name": "db_presto",
+  "url": "https://github.com/Bennyelg/nimPresto",
+  "method": "git",
+  "description": "prestodb simple connector",
+  "license": "MIT",
+  "web": "https://github.com/Bennyelg/nimPresto",
+  "tags": [
+    "prestodb",
+    "connector",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.1.0",
+        "hash": "d7b58ef825778499790b58924e1e1a78ab417175",
+        "time": 1536860831
+      },
+      {
+        "tag": "1.0.11",
+        "hash": "1a50b0c63d7e6e398a3a79f39d21f0e8386de164",
+        "time": 1523877487
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "bc16eb821aed772613f652fb1cf7754a406a1c37",
+        "time": 1519828187
+      },
+      {
+        "tag": "0.9.91",
+        "hash": "567778d81b589da278a1fdeaa951a62c2a2057e3",
+        "time": 1506849702
+      },
+      {
+        "tag": "0.9.9",
+        "hash": "5993e2914aad2ea0b72e3f67e5538cf8b51cc988",
+        "time": 1506807219
+      },
+      {
+        "tag": "0.9.8",
+        "hash": "a523551ecde3149d73566a6cb9fd94d5e3aa3c79",
+        "time": 1505913805
+      },
+      {
+        "tag": "0.9.5",
+        "hash": "72ba8ad87360693d9cbe032463786aad0126cfbd",
+        "time": 1505631656
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "2fa1044c8c11b44b238fcbec012d9ab9b5078ac2",
+        "time": 1505577131
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "0992503ed44b243645f48b47c2ed9785caf7cbaf",
+        "time": 1505487246
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "29f36f64d7b850cf604a2e6353aaf4c2adfe1b28",
+        "time": 1505480026
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "87b4a7956fd86f35c7fb44aee85c43c81589f50c",
+        "time": 1505411254
+      }
+    ],
+    "commit": {
+      "hash": "d7b58ef825778499790b58924e1e1a78ab417175",
+      "time": 1536860831
+    }
+  }
+}

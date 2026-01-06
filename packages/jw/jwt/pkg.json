@@ -1,0 +1,50 @@
+{
+  "name": "jwt",
+  "url": "https://github.com/yglukhov/nim-jwt.git",
+  "method": "git",
+  "description": "JSON Web Tokens for Nim",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/nim-jwt",
+  "tags": [
+    "library",
+    "crypto",
+    "hash"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "bearssl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/bearssl_pkey_decoder",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "7da158687b86640da42639845f7144ac53b15c87",
+      "time": 1691270779
+    }
+  }
+}

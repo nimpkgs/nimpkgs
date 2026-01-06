@@ -1,0 +1,64 @@
+{
+  "name": "nimja",
+  "url": "https://github.com/enthus1ast/nimja",
+  "method": "git",
+  "description": "typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim",
+  "license": "MIT",
+  "web": "https://github.com/enthus1ast/nimja",
+  "tags": [
+    "template",
+    "web",
+    "compiled",
+    "typed",
+    "jinja2",
+    "twig"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.10.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.10.1",
+        "hash": "b7a25c62e63b459b9bfbef1de05199e4837c67d0",
+        "time": 1726501498
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "708dbc6cde890de2613e9cd2387c594f0028d6e3",
+        "time": 1726500346
+      },
+      {
+        "tag": "0.9.1",
+        "hash": "574ac76a85f2932cd242a4635483904410fd9b5a",
+        "time": 1724856184
+      },
+      {
+        "tag": "0.9.0",
+        "hash": "8cfb53e545c4d1c10568e92efd040383c1c71a00",
+        "time": 1723281883
+      },
+      {
+        "tag": "0.8.7",
+        "hash": "2ab66e6520e0b0ec89d4f196e5daf84876c01488",
+        "time": 1688652283
+      }
+    ],
+    "commit": {
+      "hash": "438fc1f6c654c69cd85c9a5d9cbe45a48f507f8c",
+      "time": 1757584170
+    }
+  }
+}

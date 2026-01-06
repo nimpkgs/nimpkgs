@@ -1,0 +1,54 @@
+{
+  "name": "nmi",
+  "url": "https://github.com/jiro4989/nmi",
+  "method": "git",
+  "description": "nmi display animations aimed to correct users who accidentally enter nmi instead of nim.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/nmi",
+  "tags": [
+    "sl",
+    "joke",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
+          }
+        }
+      ],
+      "bin": [
+        "nmi"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "54fdd4730965908ddc598fa06fb4e607d9075db8",
+        "time": 1596028003
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "fa464d7418764e7d1289b5e734f2d7c01a3262a6",
+        "time": 1590068230
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "fa22123748f7c1baa1b6908f1d252db313a696ae",
+        "time": 1590067052
+      }
+    ],
+    "commit": {
+      "hash": "54fdd4730965908ddc598fa06fb4e607d9075db8",
+      "time": 1596028003
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "qt5_qtsql",
+  "url": "https://github.com/philip-wernersbach/nim-qt5_qtsql.git",
+  "method": "git",
+  "description": "Binding for Qt 5's Qt SQL library that integrates with the features of the Nim language. Uses one API for multiple database engines.",
+  "license": "MIT",
+  "web": "https://github.com/philip-wernersbach/nim-qt5_qtsql",
+  "tags": [
+    "library",
+    "wrapper",
+    "database",
+    "qt",
+    "qt5",
+    "qtsql",
+    "sqlite",
+    "postgres",
+    "mysql"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "1.1.1",
+        "hash": "c057ad80971be80c0a2489e0ed6826cbca856aa6",
+        "time": 1501020595
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "9202f23f5efc9f1fc3aef9fb55a5e05f8b7ea8c2",
+        "time": 1498841152
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "8700f4d1e891dd3472e44fb1db9b1d71600d232e",
+        "time": 1497562443
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "69f8dc2c6f4bfd9970c793da43934d2ff56633d2",
+        "time": 1496439911
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "fe13cd6c0ce63ec29b02720a0649b14e90c7b49d",
+        "time": 1477589666
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "268e15e6cb4c8db50caba7d87be8e03d950e9de5",
+        "time": 1471729800
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "8a65f5e5c3b83e3c7f4cc74e19039d2c1274277d",
+        "time": 1430029307
+      }
+    ],
+    "commit": {
+      "hash": "c057ad80971be80c0a2489e0ed6826cbca856aa6",
+      "time": 1501020595
+    }
+  }
+}

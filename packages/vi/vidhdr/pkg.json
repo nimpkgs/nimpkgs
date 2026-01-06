@@ -1,0 +1,16 @@
+{
+  "name": "vidhdr",
+  "url": "https://github.com/achesak/nim-vidhdr",
+  "method": "git",
+  "description": "Library for detecting the format of an video file",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-vidhdr",
+  "tags": [
+    "video",
+    "formats",
+    "file"
+  ],
+  "meta": {
+    "status": "Unreachable"
+  }
+}

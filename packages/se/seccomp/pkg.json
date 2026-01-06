@@ -1,0 +1,47 @@
+{
+  "name": "seccomp",
+  "url": "https://github.com/FedericoCeratto/nim-seccomp",
+  "method": "git",
+  "description": "Linux Seccomp sandbox library",
+  "license": "LGPLv2.1",
+  "web": "https://github.com/FedericoCeratto/nim-seccomp",
+  "tags": [
+    "linux",
+    "security",
+    "sandbox",
+    "seccomp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "5a77686d4eadd40bb120c75a028ee94249256c42",
+        "time": 1627750625
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "c676263b5183b8a1805cdf86bdd10d05ad6d65fe",
+        "time": 1554570881
+      }
+    ],
+    "commit": {
+      "hash": "5a77686d4eadd40bb120c75a028ee94249256c42",
+      "time": 1627750625
+    }
+  }
+}

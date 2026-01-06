@@ -1,0 +1,35 @@
+{
+  "name": "pythonfile",
+  "url": "https://github.com/achesak/nim-pythonfile",
+  "method": "git",
+  "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pythonfile",
+  "tags": [
+    "library",
+    "python",
+    "files",
+    "file"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "417bdf54d4da8fc79577018f1eef6e8a2f39a008",
+      "time": 1570335682
+    }
+  }
+}

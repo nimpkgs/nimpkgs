@@ -1,0 +1,36 @@
+{
+  "name": "mutableseqs",
+  "url": "https://github.com/iourinski/mutableseqs",
+  "method": "git",
+  "description": "utilities for transforming sequences",
+  "license": "MIT",
+  "web": "https://github.com/iourinski/mutableseqs",
+  "tags": [
+    "sequences",
+    "mapreduce"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.2"
+          }
+        }
+      ],
+      "bin": [
+        "mutableseqs"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "75bd0a6e5db62ceb0e632ac8ce92ca85dfbf4db4",
+      "time": 1489082129
+    }
+  }
+}

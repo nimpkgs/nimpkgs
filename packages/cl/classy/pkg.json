@@ -1,0 +1,56 @@
+{
+  "name": "classy",
+  "url": "https://github.com/nigredo-tori/classy",
+  "method": "git",
+  "description": "typeclasses for Nim",
+  "license": "Unlicense",
+  "web": "https://github.com/nigredo-tori/classy",
+  "tags": [
+    "library",
+    "typeclasses",
+    "macros"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.0.4",
+        "hash": "1796023bbf6eb5cdf3e993a459f2f53b227bbc91",
+        "time": 1617280550
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "40cb9087d3ba8dd502ab72573001c2894666a8ab",
+        "time": 1553247119
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "2b9a329d47d1839d74cc4d2e3a2d3d6f2fe6289e",
+        "time": 1483331741
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "694850d0ca2b46e61673f59c95fc96236b46dd44",
+        "time": 1478020032
+      }
+    ],
+    "commit": {
+      "hash": "2a4c5ec004ff58a63ad452255311624f86e3d3c9",
+      "time": 1617282537
+    }
+  }
+}

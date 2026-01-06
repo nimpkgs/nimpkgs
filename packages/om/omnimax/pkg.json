@@ -1,0 +1,97 @@
+{
+  "name": "omnimax",
+  "url": "https://github.com/vitreo12/omnimax",
+  "method": "git",
+  "description": "Max wrapper for omni.",
+  "license": "MIT",
+  "web": "https://github.com/vitreo12/omnimax",
+  "tags": [
+    "dsl",
+    "dsp",
+    "audio",
+    "sound",
+    "maxmsp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.0"
+          }
+        },
+        {
+          "name": "omni",
+          "str": "0.4.2",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.4.2"
+          }
+        }
+      ],
+      "bin": [
+        "omnimax"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.2",
+        "hash": "7db9b36f3ef855280812fa273836534682c0994c",
+        "time": 1711719448
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "1e9cfcc39e97926db12d06e1b2fca19dbdfc41d8",
+        "time": 1653749617
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "6400910431f36a69ba9e2bc58fcd292445134b5d",
+        "time": 1618649883
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "06480f99a4899ce52b8a69bafb2bbaaaa11c681f",
+        "time": 1603908996
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "5258dd428f71e52b498d4a00705a05e4282617cd",
+        "time": 1603271671
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "c1bb42d745abc26515b3a743cd9c6fae60d4c489",
+        "time": 1601649410
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "d5709d7bd440b0df76e33054a82c6432ec1d5206",
+        "time": 1601461125
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "cd226f7fb631cea37abec3378fe164730ae975fa",
+        "time": 1593342523
+      }
+    ],
+    "commit": {
+      "hash": "7db9b36f3ef855280812fa273836534682c0994c",
+      "time": 1711719448
+    }
+  }
+}

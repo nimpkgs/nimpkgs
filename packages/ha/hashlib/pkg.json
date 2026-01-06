@@ -1,0 +1,42 @@
+{
+  "name": "hashlib",
+  "url": "https://github.com/khchen/hashlib",
+  "method": "git",
+  "description": "Hash Library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/khchen/hashlib",
+  "tags": [
+    "library",
+    "hashes",
+    "hmac"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.4.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.11"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "84e0247555e4488594975900401baaf5bbbfb531",
+      "time": 1620358621
+    }
+  }
+}

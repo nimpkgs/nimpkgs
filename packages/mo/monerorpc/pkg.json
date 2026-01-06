@@ -1,0 +1,36 @@
+{
+  "name": "monerorpc",
+  "url": "https://github.com/eversinc33/nim-monero-rpc",
+  "method": "git",
+  "description": "Library for interacting with Monero wallets via RPC.",
+  "license": "MIT",
+  "web": "https://github.com/eversinc33/nim-monero-rpc",
+  "tags": [
+    "monero",
+    "rpc",
+    "client",
+    "wallet",
+    "cryptocurrency"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "989a4ed35d6b631632903b3250e5e263af69ebb6",
+      "time": 1660432812
+    }
+  }
+}

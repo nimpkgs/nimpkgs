@@ -1,0 +1,51 @@
+{
+  "name": "ptr_math",
+  "url": "https://github.com/kaushalmodi/ptr_math",
+  "method": "git",
+  "description": "Pointer arithmetic library",
+  "license": "MIT",
+  "web": "https://github.com/kaushalmodi/ptr_math",
+  "tags": [
+    "pointer",
+    "arithmetic",
+    "math"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "fb1b0d5f484b80ec956d40d543ec836da4cfbc3b",
+        "time": 1623264503
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "23de2eef31764e1b4bac13e88c89e744b7ed6462",
+        "time": 1622742519
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "b66a5a0d15794c4e4a57d82be59311da5434a4b4",
+        "time": 1621563817
+      }
+    ],
+    "commit": {
+      "hash": "1ee3b7fe12f394edd5a1e2841491e8c2e9fd193b",
+      "time": 1635774136
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "name": "denim",
+  "url": "https://github.com/openpeeps/denim",
+  "method": "git",
+  "description": "DENIM - Nim code to Bun.js/Node.js in seconds via NAPI",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/denim",
+  "tags": [
+    "node",
+    "nodejs",
+    "bun",
+    "bunsh",
+    "napi",
+    "addon",
+    "toolkit"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "denim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "2741eec08249855cd5345800003aa170622a25d3",
+        "time": 1712569323
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "11505f4e0390098a1ce4ca3ac6e82875c096efd3",
+        "time": 1696417045
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "6a8701502612cb8c9c728fa43c4530b075fc2b53",
+        "time": 1688686217
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "66b2c99b3f0d53142df68f012c068900603be0f6",
+        "time": 1688076924
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "a30f5507f396118dd5693767a18f5ed60c8d57f8",
+        "time": 1688066791
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "55a73f657422005b4153ca990b490efa58291772",
+        "time": 1686245989
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "2dec539fe026d12d6d860263dec49859de86dbbb",
+        "time": 1686235755
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "7f3d88335a7e62a2424e4696c4bf209600bba3af",
+        "time": 1686230726
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "02347796cfc9ccdc876255138efa72fcf6043410",
+        "time": 1686150271
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "e733c676a7984ce972053864c4cfc99a7cee41e3",
+        "time": 1685271145
+      }
+    ],
+    "commit": {
+      "hash": "e258f72bbf7285295c0843f4908a5087b6c215a1",
+      "time": 1751422455
+    }
+  }
+}

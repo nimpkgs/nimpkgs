@@ -1,0 +1,36 @@
+{
+  "name": "BipBuffer",
+  "url": "https://github.com/MarcAzar/BipBuffer",
+  "method": "git",
+  "description": "A Nim implementation of Simon Cooke's Bip Buffer. A type of circular buffer ensuring contiguous blocks of memory",
+  "license": "MIT",
+  "web": "https://marcazar.github.io/BipBuffer",
+  "tags": [
+    "Bip Buffer",
+    "Circular",
+    "Ring",
+    "Buffer",
+    "nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6a6b917740eae5b7aefa694ed3734ae4aa5a7941",
+      "time": 1559659998
+    }
+  }
+}

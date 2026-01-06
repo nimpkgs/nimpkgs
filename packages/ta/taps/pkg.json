@@ -1,0 +1,62 @@
+{
+  "name": "taps",
+  "url": "https://git.sr.ht/~ehmry/nim_taps",
+  "method": "git",
+  "description": "Transport Services Interface",
+  "license": "BSD-3-Clause",
+  "web": "https://datatracker.ietf.org/wg/taps/about/",
+  "tags": [
+    "networking",
+    "udp",
+    "tcp",
+    "sctp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.3",
+        "hash": "19e7e2bbb668d5961229b86d749c9e230c770ca2",
+        "time": 1652827051
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "d90aa9f17e20b112e425e093a7f527d325f0fe4d",
+        "time": 1643454569
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "d3384ebdbcb95e47cddd7c3086f99aa30c92f2ef",
+        "time": 1614253933
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "7760b64b412030549ebf5e18509e12888643c664",
+        "time": 1611577179
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "227bf7bfe68be489a709b65ace3b2841eaa2dafa",
+        "time": 1576933018
+      }
+    ],
+    "commit": {
+      "hash": "989a1b07850ea74ec4480a1440e9de13d9eabda2",
+      "time": 1737947897
+    }
+  }
+}

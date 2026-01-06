@@ -1,0 +1,34 @@
+{
+  "name": "punycode",
+  "url": "https://github.com/nim-lang/punycode",
+  "method": "git",
+  "description": "Implements a representation of Unicode with the limited ASCII character subset in Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/punycode",
+  "tags": [
+    "stdlib",
+    "punycode",
+    "official"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.7.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.7.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "03fa3cf9f37c0fbcbdf400c37d9be7a458660dd6",
+      "time": 1669980617
+    }
+  }
+}

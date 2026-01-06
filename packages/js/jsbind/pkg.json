@@ -1,0 +1,34 @@
+{
+  "name": "jsbind",
+  "url": "https://github.com/yglukhov/jsbind",
+  "method": "git",
+  "description": "Define bindings to JavaScript and Emscripten",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/jsbind",
+  "tags": [
+    "bindings",
+    "emscripten",
+    "javascript"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "https://github.com/yglukhov/wasmrt",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "d9c2ded6b81a69cbf8636eb3402c077c524c56a9",
+      "time": 1684500453
+    }
+  }
+}

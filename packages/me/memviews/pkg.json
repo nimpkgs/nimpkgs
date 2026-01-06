@@ -1,0 +1,45 @@
+{
+  "name": "memviews",
+  "url": "https://github.com/ReneSac/memviews",
+  "method": "git",
+  "description": "Unsafe in-place slicing",
+  "license": "MIT",
+  "web": "https://github.com/ReneSac/memviews",
+  "tags": [
+    "library",
+    "slice",
+    "slicing",
+    "shallow",
+    "array",
+    "vector"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "c_alikes",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "21b91e87eec1a29608c22c068cb126712bc2fe0f",
+      "time": 1678231283
+    }
+  }
+}

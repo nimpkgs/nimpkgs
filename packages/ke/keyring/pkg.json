@@ -1,0 +1,93 @@
+{
+  "name": "keyring",
+  "url": "https://github.com/iffy/nim-keyring",
+  "method": "git",
+  "description": "Cross-platform access to OS keychain",
+  "license": "MIT",
+  "web": "https://github.com/iffy/nim-keyring",
+  "tags": [
+    "keyring",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        },
+        {
+          "name": "dbus",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.2",
+        "hash": "811a2d0d77221f1077e060e802dc681cfa2e8d6e",
+        "time": 1708655916
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "72c566ff199e66584ea8a8cea33a8832a186d1a0",
+        "time": 1675689528
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "2cae1514de9e80ef1a10e419611bed3b1efd23c2",
+        "time": 1672981685
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "bc9d6e7133c1578f4ceb3e387163aaf43affb472",
+        "time": 1657938861
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "d60be7d91eae2bb6ef1d8f03e2b35163d703aceb",
+        "time": 1609356928
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "804f967033b82a12789756d86b73f206068a3841",
+        "time": 1586574986
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "26e1352e59e02a1a6ede3220bef2c5be9233b25a",
+        "time": 1586468557
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "0488dfabb8bd93020178c9e89977c9c1eee4fe4d",
+        "time": 1586383262
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "c0c63b530eac2233257794cfcb864eb51170c521",
+        "time": 1583559569
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c5bd3cbdbb903ae49cc2d1868c2153b5976208a9",
+        "time": 1579746746
+      }
+    ],
+    "commit": {
+      "hash": "811a2d0d77221f1077e060e802dc681cfa2e8d6e",
+      "time": 1708655916
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "docchanger",
+  "url": "https://github.com/nirokay/docchanger",
+  "method": "git",
+  "description": "Replaces substrings in .docx files with data, that is parsed from a json config file.",
+  "license": "GPL-3.0-only",
+  "web": "https://github.com/nirokay/docchanger",
+  "doc": "https://nirokay.github.io/nim-docs/docchanger/docchanger",
+  "tags": [
+    "document-changer",
+    "document-generator",
+    "document-generation",
+    "docx",
+    "docx-files",
+    "binary"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "docchanger"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.1.0",
+        "hash": "3206a41414c3ddd22dd908f586ea9d1061e534b0",
+        "time": 1698920322
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "d4af8ab0bfeedaf0529348a09cc16cd5a4f07655",
+        "time": 1698741745
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "e3d824fadd933f1388486eda4e30d1d84c62298c",
+        "time": 1698408977
+      }
+    ],
+    "commit": {
+      "hash": "2b2c901d1346340af5aac4cbe630e089f08c4a87",
+      "time": 1698930380
+    }
+  }
+}

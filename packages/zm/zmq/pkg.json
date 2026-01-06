@@ -1,0 +1,103 @@
+{
+  "name": "zmq",
+  "url": "https://github.com/nim-lang/nim-zmq",
+  "method": "git",
+  "description": "ZeroMQ 4 wrapper",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/nim-zmq",
+  "tags": [
+    "library",
+    "wrapper",
+    "zeromq",
+    "messaging",
+    "queue"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.5.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.5.3",
+        "hash": "4cc1ca3fda59c3a95e8e572317e553306ef5ed98",
+        "time": 1730739183
+      },
+      {
+        "tag": "v1.5.2",
+        "hash": "6eb2f6e4c7b83fd40991a169408bccadf3af4cfc",
+        "time": 1716923020
+      },
+      {
+        "tag": "v1.5.1",
+        "hash": "d9483701f34697281cfc13a7c6bbe06bb90cb5da",
+        "time": 1712764060
+      },
+      {
+        "tag": "v1.5.0",
+        "hash": "2c5e7a52dfabad5de64b121f47a28bb6eed74b5c",
+        "time": 1703189210
+      },
+      {
+        "tag": "v1.4.0",
+        "hash": "06380aa3bdbf2933990b131a46b1865837e89d49",
+        "time": 1683814601
+      },
+      {
+        "tag": "v1.3.1",
+        "hash": "c9d9814c1060daffcfbff3dbd9dd9c503af99c86",
+        "time": 1647962281
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "a537431efee37ab569ab9c7083ca2fcf74141518",
+        "time": 1647878675
+      },
+      {
+        "tag": "v1.2.1",
+        "hash": "d9c13f7a598915ccaaba23d719afbcfcc5ec7ab7",
+        "time": 1629491723
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "fd98938cba827e3e199f4e6b687e0d634d1d57db",
+        "time": 1628675943
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "5daedf04f2a25c12c847ae0db1ce01afe4bc6c32",
+        "time": 1616524036
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "f650fce6d25503a7bf45319573751120456c0847",
+        "time": 1601575201
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "261fa7043acdd3bed142e0c586609d9a198b33d3",
+        "time": 1588100230
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "a14129c36e579aa9d4434054625c2258748f4c60",
+        "time": 1541343194
+      }
+    ],
+    "commit": {
+      "hash": "f922f734f90785e11f4d6284aec8bb0b5ba2f7ca",
+      "time": 1764066444
+    }
+  }
+}

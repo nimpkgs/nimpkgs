@@ -1,0 +1,393 @@
+{
+  "name": "nimletter",
+  "url": "https://github.com/ThomasTJdev/nimletter",
+  "method": "git",
+  "description": "Self-hosted newsletter, drip, and transactional email system",
+  "license": "AGPL-3.0",
+  "web": "https://github.com/ThomasTJdev/nimletter",
+  "tags": [
+    "email",
+    "newsletter",
+    "drip"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.18"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/mummy",
+          "str": "0.4.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.4.1"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/mummy_utils",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/waterpark",
+          "str": "0.1.6",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.6"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/nim-schedules",
+          "str": "0.2.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/nimMime",
+          "str": ">= 0.0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.3"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/bcryptnim",
+          "str": "0.2.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.2.1"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/nim-mmgeoip",
+          "str": "0.1.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/nim_awsSigV4",
+          "str": ">= 0.0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.3"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/nim_sqlbuilder",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/nim_awsSES_SNS",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        },
+        {
+          "name": "https://github.com/ThomasTJdev/nim_yubikey_otp.git",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [
+        "nimletter"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.9.1",
+        "hash": "5beb63e28442d4c8fbaa24f78b66cef87a59c34e",
+        "time": 1767966307
+      },
+      {
+        "tag": "v0.9.0",
+        "hash": "9c664077ff9638a16993b358a29321dbda6bb7f0",
+        "time": 1767935470
+      },
+      {
+        "tag": "v0.8.4",
+        "hash": "c0976e6e749d9773e253850ce7542c18d02646e6",
+        "time": 1765370952
+      },
+      {
+        "tag": "v0.8.3",
+        "hash": "44a794ddb08992fdcccdb1b265d935488cb0b6f8",
+        "time": 1765314352
+      },
+      {
+        "tag": "v0.8.2",
+        "hash": "bd17d8a1b9e0bc246feeb99b317270ae67f916df",
+        "time": 1765313434
+      },
+      {
+        "tag": "v0.8.1",
+        "hash": "e1d362176b5830038425ae4d0bd2d32d53223ae9",
+        "time": 1765310378
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "325ff4350a354296667b0bcf544609cf4978b5cc",
+        "time": 1765310309
+      },
+      {
+        "tag": "v0.7.2",
+        "hash": "efcff6837c7df6cd0d6f578ac1b090603354dd06",
+        "time": 1765296170
+      },
+      {
+        "tag": "v0.7.1",
+        "hash": "aa0a512b420817b3bfab9c18fc48a2a5aaa35857",
+        "time": 1757239132
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "222b11b6e33976ce61bd61eadedb493b04332e41",
+        "time": 1757229866
+      },
+      {
+        "tag": "v0.6.9",
+        "hash": "4aee8874ef8c2c49db01ea3c6e1196c394917585",
+        "time": 1757226952
+      },
+      {
+        "tag": "v0.6.8",
+        "hash": "6452c0283fe6d3afcc7f1ad9b742fa01f0c3b77b",
+        "time": 1757226482
+      },
+      {
+        "tag": "v0.6.7",
+        "hash": "d84d8cd3e02d56c60faf7f418f7b266d164552c1",
+        "time": 1757163620
+      },
+      {
+        "tag": "v0.6.6",
+        "hash": "a3fef582a6152a2aa5e3b5aba9241fa44f412c20",
+        "time": 1757161828
+      },
+      {
+        "tag": "v0.6.5",
+        "hash": "87e2d80de567d39862b53903aa4c39514b9c1df2",
+        "time": 1757139755
+      },
+      {
+        "tag": "v0.6.4",
+        "hash": "7ef4426955a555b1ca8196ce385655e84e66246b",
+        "time": 1756529122
+      },
+      {
+        "tag": "v0.6.3",
+        "hash": "c8babf126fe083440b7f3d4295b583eb8c3246d5",
+        "time": 1756447221
+      },
+      {
+        "tag": "v0.6.2",
+        "hash": "e4807fe0244371c98ebf02455b911b21466717f8",
+        "time": 1755231366
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "37f8bac0a5ca1a156066513dc1d803dd02b46635",
+        "time": 1754971786
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "45fef86830f22cf3edd195bb042525b0054837e8",
+        "time": 1754156752
+      },
+      {
+        "tag": "v0.5.9",
+        "hash": "514d81226bd6821e965e411b8f7f49bbea7e272f",
+        "time": 1753774149
+      },
+      {
+        "tag": "v0.5.8",
+        "hash": "57cc007dfc360b775cf334dd514c1776675b84f5",
+        "time": 1747137362
+      },
+      {
+        "tag": "v0.5.7",
+        "hash": "929cafadb01f4c67871111050dfd9693d3cb0e35",
+        "time": 1747125541
+      },
+      {
+        "tag": "v0.5.6",
+        "hash": "954df08565d86e1e78079143c3968f97a9d26414",
+        "time": 1747124150
+      },
+      {
+        "tag": "v0.5.5",
+        "hash": "64c8af9c0c36c221ddc308754210f45a2b27a186",
+        "time": 1747113253
+      },
+      {
+        "tag": "v0.5.3",
+        "hash": "9ed392f38f1d83d1d8702b3c757a7945239b8889",
+        "time": 1746906467
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "8d922eddae6baf5ad63054d13d98194f18049c13",
+        "time": 1745162606
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "2ec6154bd771c5abce370fb683647bf4fb48e933",
+        "time": 1745159861
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "6b7b4c94458f15c61c876f1dca869975562a5d42",
+        "time": 1745124656
+      },
+      {
+        "tag": "v0.4.8",
+        "hash": "085b7b288f28cff35967c5222e84e467e4cce146",
+        "time": 1744093381
+      },
+      {
+        "tag": "v0.4.7",
+        "hash": "5fb0fdfc13e1823287ad762ebad9c4e3640f2101",
+        "time": 1744008880
+      },
+      {
+        "tag": "v0.4.6",
+        "hash": "30dd53dcfbbeee76cdb855c60d7100efd8fd85d5",
+        "time": 1743827349
+      },
+      {
+        "tag": "v0.4.5",
+        "hash": "c450b22e2a7fe1da38bbc76a86abe01e4a28b937",
+        "time": 1743824107
+      },
+      {
+        "tag": "v0.4.4",
+        "hash": "bb624215ddfc1d9b9a51b809e5a587030d2d96ea",
+        "time": 1743793176
+      },
+      {
+        "tag": "v0.4.3",
+        "hash": "939527124585344fad85f31f54dc889299290094",
+        "time": 1743754802
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "2304d3e9fd11fdf645b649e215baefd0c6ac290d",
+        "time": 1743752035
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "22578e395e7c6ff8e7cc4b15f596da3b23853e4d",
+        "time": 1738991046
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "cbc33711251ab6efe8ceb36c31ae87bc97dc35f8",
+        "time": 1738647242
+      },
+      {
+        "tag": "v0.3.9",
+        "hash": "7b7cf0703aa731f46d396a5b617a7aacae764b43",
+        "time": 1738646402
+      },
+      {
+        "tag": "v0.3.7",
+        "hash": "0e156777c0b257458892d4acd183db76cdf054ea",
+        "time": 1738600142
+      },
+      {
+        "tag": "v0.3.6",
+        "hash": "27fc676b50df275f35418f5cf81002092d61816f",
+        "time": 1738598365
+      },
+      {
+        "tag": "v0.3.5",
+        "hash": "8b94196c6051e5a7069f1372323d9da31c61e8ab",
+        "time": 1738597348
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "790afb43bed96c8848f4324035ce70fa9ca95b88",
+        "time": 1738521874
+      },
+      {
+        "tag": "v0.3.3_2",
+        "hash": "e9e6f0e9f6ccc7e4ee1273ff6896d9ad1d47814c",
+        "time": 1738264782
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "93c5a66a236b2f9ac9466c6fae90f9eff3b2048c",
+        "time": 1738264564
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "9d5eada3898004ffc181cd05937984ab397a2a4d",
+        "time": 1738240731
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "fbba96327f0d2d62a3d3dc65504e0a7760f4c711",
+        "time": 1738238055
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "b53ff3273b2e1cad709ff05125cff365212a65a9",
+        "time": 1738236145
+      },
+      {
+        "tag": "v0.2.9",
+        "hash": "c91bacf7dd7081fb500e53ab4f04aaf846e06ef3",
+        "time": 1738235562
+      },
+      {
+        "tag": "v0.2.8",
+        "hash": "c036f79134a840204de66e03e3b5a923ba47245f",
+        "time": 1738224382
+      },
+      {
+        "tag": "v0.2.7",
+        "hash": "8966ebaab449867bdbea214541eb32c3dac703d6",
+        "time": 1738175390
+      },
+      {
+        "tag": "v0.2.6",
+        "hash": "1de14004312e760151af4aeb8b900852686044b7",
+        "time": 1738140268
+      },
+      {
+        "tag": "v0.2.5",
+        "hash": "707507d1c6a29db14cac9d9c79852fa0b033e633",
+        "time": 1738097834
+      }
+    ],
+    "commit": {
+      "hash": "5beb63e28442d4c8fbaa24f78b66cef87a59c34e",
+      "time": 1767966307
+    },
+    "status": "Unknown"
+  }
+}

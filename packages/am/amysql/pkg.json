@@ -1,0 +1,128 @@
+{
+  "name": "amysql",
+  "url": "https://github.com/bung87/amysql",
+  "method": "git",
+  "description": "Async MySQL Connector write in pure Nim.",
+  "license": "MIT",
+  "web": "https://github.com/bung87/amysql",
+  "tags": [
+    "async",
+    "mysql",
+    "client",
+    "connector",
+    "driver"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.1"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "zstd",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "urlly",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronos",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.7.6",
+        "hash": "44ba4c2fd97f388e88e7389895bf427f5c1d9942",
+        "time": 1635660204
+      },
+      {
+        "tag": "v0.7.5",
+        "hash": "cb2b6b429549af719ee1dc288d931b85f58eb103",
+        "time": 1630603561
+      },
+      {
+        "tag": "v0.7.4",
+        "hash": "bab64c9ef2ef4e55e1394c6f538ac15b8fb6ea0a",
+        "time": 1622777850
+      },
+      {
+        "tag": "v0.7.3",
+        "hash": "e45bde373d6aaedec8feaa136d1f4df524be0d47",
+        "time": 1622445441
+      },
+      {
+        "tag": "v0.7.2",
+        "hash": "66e9e4f9739a76e4ed15d10c8b63097bc2571399",
+        "time": 1622256112
+      },
+      {
+        "tag": "v0.7.1",
+        "hash": "2b26b2d4f0661f1376407d709ef159b3eb56cf52",
+        "time": 1622165663
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "0dd88deae3272881c35e24a2ea94151931c6e2f6",
+        "time": 1622135632
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "3e1d6d6dbe21234b62133787681fdc888d065bb1",
+        "time": 1621994671
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "f8058bba4c8cb922db0d41f1b835a571737ac084",
+        "time": 1621555446
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "6273eeacdb008e1d560e61ae28fe41f486737077",
+        "time": 1598636567
+      }
+    ],
+    "commit": {
+      "hash": "a202f5335ef5b47d1fabd897999f730c9e7fce20",
+      "time": 1751505138
+    }
+  }
+}

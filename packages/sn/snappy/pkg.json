@@ -1,0 +1,66 @@
+{
+  "name": "snappy",
+  "url": "https://github.com/status-im/nim-snappy",
+  "method": "git",
+  "description": "Nim implementation of Snappy compression algorithm",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-snappy",
+  "tags": [
+    "compression",
+    "snappy",
+    "lzw"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "faststreams",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "00bfcef94f8ef6981df5d5b994897f6695badfb2",
+      "time": 1760102724
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "biblioteca_guarrilla",
+  "url": "https://github.com/juancarlospaco/biblioteca-guarrilla",
+  "method": "git",
+  "description": "Simple web to share books, Calibre, Jester, Spectre CSS, No JavaScript, WebP & ZIP to reduce bandwidth",
+  "license": "GPL",
+  "web": "https://github.com/juancarlospaco/biblioteca-guarrilla",
+  "tags": [
+    "books",
+    "calibre",
+    "jester"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.9",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        },
+        {
+          "name": "jester",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "webp",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "zip",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "biblioteca_guarrilla"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "979c044c78b8a3b9e190d08fb235077c435f5ae4",
+        "time": 1546000020
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "10a37427a31612564276e650df4c30423c0b1b10",
+        "time": 1541840150
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "fce41084df456dbae7240d745491fb9db884da02",
+        "time": 1541693210
+      }
+    ],
+    "commit": {
+      "hash": "1fc83dc423b5b2452c414e224c068bbd081fbd4f",
+      "time": 1559847682
+    }
+  }
+}

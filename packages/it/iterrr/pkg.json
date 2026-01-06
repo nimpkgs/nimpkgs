@@ -1,0 +1,112 @@
+{
+  "name": "iterrr",
+  "url": "https://github.com/hamidb80/iterrr",
+  "method": "git",
+  "description": "iterate faster. functional style, lazy like, extensible iterator library",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/steps",
+  "tags": [
+    "iterator",
+    "iterate",
+    "iterating",
+    "functional",
+    "lazy",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "macroplus",
+          "str": ">= 0.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.2.0",
+        "hash": "18137ad6b1a448a9dc889fa87155323ebaff23f0",
+        "time": 1670504465
+      },
+      {
+        "tag": "1.0.6",
+        "hash": "a6736374e061a42cdf30202899d4ebfa5c9ca356",
+        "time": 1669997771
+      },
+      {
+        "tag": "v1.0.4",
+        "hash": "3e2ff8a2c788b6e398af0c1d3b7b98e5317a552c",
+        "time": 1660360706
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "433d4d528cfd3eebc491c90538caf6280e6641fa",
+        "time": 1660326324
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "a82aa846c8fc8561c7479228b4c21ccdf35df406",
+        "time": 1660324903
+      },
+      {
+        "tag": "0.4.6",
+        "hash": "5cb5e12886fe348fb2e823f57ff60449fdf5f492",
+        "time": 1655063473
+      },
+      {
+        "tag": "0.4.5",
+        "hash": "f86b756a43940bd997db5ebd4f89ee9996a42cbe",
+        "time": 1654802845
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "b4c586349ff3c236d60ff645847d05e70c476fc4",
+        "time": 1650998370
+      },
+      {
+        "tag": "0.3.8",
+        "hash": "75c629d2415628d0e62ff320f31e02a3d2426034",
+        "time": 1648575210
+      },
+      {
+        "tag": "0.3.5",
+        "hash": "247ea0faa0aea434921ab8d620cb9489994bea2e",
+        "time": 1648139103
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "10ecdb7bfa57955bda70ffae6c87c1b9d472cbba",
+        "time": 1647875150
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "f037a412ea5dbb5e52e26fdabed122811e7b7bdd",
+        "time": 1647856962
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "09d7608d0acd53a1634e3995c866276b0c6dc217",
+        "time": 1647848411
+      }
+    ],
+    "commit": {
+      "hash": "0843fc3a3a6923a3c1b909e36ea4e20ad2ebfef1",
+      "time": 1703956831
+    }
+  }
+}

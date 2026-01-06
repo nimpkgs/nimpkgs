@@ -1,0 +1,93 @@
+{
+  "name": "cello",
+  "url": "https://github.com/andreaferretti/cello",
+  "method": "git",
+  "description": "String algorithms with succinct data structures",
+  "license": "Apache2",
+  "web": "https://andreaferretti.github.io/cello/",
+  "tags": [
+    "string",
+    "succinct-data-structure",
+    "rank",
+    "select",
+    "Burrows-Wheeler",
+    "FM-index",
+    "wavelet-tree"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "spills",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "325e92896a33a1a4dbd91d0cb37fed18f7663d81",
+        "time": 1569326311
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "f5d58853f1f53d2249e284f2bac711d18ec557e2",
+        "time": 1560338824
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "1d3edcc4f68443bdac0f372c0ebb644184068d0e",
+        "time": 1551888764
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "ab5deaa84f942bc4da76d0b2656085faef7658c1",
+        "time": 1551805719
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "380ee2b192861eb63cac65c5cb04839864127751",
+        "time": 1541599361
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "4b20250178961f43b7aa0c60a788914dd5980d72",
+        "time": 1518628431
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "ceb1344e0d779932b22ebf1c1daaf0cdfcd409eb",
+        "time": 1511959631
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "bca67ec166bf851083d5b5bdfdf49f09aba031c8",
+        "time": 1491559121
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "997e84efe582550976698842e17cf4c072e131b8",
+        "time": 1491069436
+      }
+    ],
+    "commit": {
+      "hash": "c397c78820464987a8d872a0e5051e6a6af326c8",
+      "time": 1611221642
+    }
+  }
+}

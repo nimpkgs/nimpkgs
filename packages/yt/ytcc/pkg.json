@@ -1,0 +1,70 @@
+{
+  "name": "ytcc",
+  "url": "https://github.com/thisago/ytcc",
+  "method": "git",
+  "description": "CLI tool to get Youtube video captions (with chapters)",
+  "license": "MIT",
+  "web": "https://github.com/thisago/ytcc",
+  "tags": [
+    "cli",
+    "youtube",
+    "cc",
+    "captions",
+    "tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "ytextractor",
+          "str": ">= 1.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "ytcc"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.1",
+        "hash": "d43137fb13fca4607ac4d48610695787169ca907",
+        "time": 1698928940
+      }
+    ],
+    "commit": {
+      "hash": "efb05f46230f034dda9387200e63f940420a9e2c",
+      "time": 1700353762
+    }
+  }
+}

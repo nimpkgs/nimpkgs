@@ -1,0 +1,50 @@
+{
+  "name": "strides",
+  "url": "https://github.com/fsh/strides",
+  "method": "git",
+  "description": "Strided indexing and slicing with a step",
+  "license": "MIT",
+  "web": "https://github.com/fsh/strides",
+  "doc": "https://fsh.github.io/strides/strides.html",
+  "tags": [
+    "stride",
+    "range",
+    "slicing",
+    "indexing",
+    "utility",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "52d21364be0247e8882a99e718017f4e89db0cae",
+        "time": 1670685899
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "35e3cd19d4da228a31f3b03e61ec6ceeb80ea1c1",
+        "time": 1670680460
+      }
+    ],
+    "commit": {
+      "hash": "52d21364be0247e8882a99e718017f4e89db0cae",
+      "time": 1670685899
+    }
+  }
+}

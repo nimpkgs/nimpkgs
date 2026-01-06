@@ -1,0 +1,27 @@
+{
+  "name": "cassandra",
+  "url": "https://github.com/yglukhov/cassandra",
+  "method": "git",
+  "description": "Bindings to Cassandra DB driver",
+  "license": "MIT",
+  "web": "https://github.com/yglukhov/cassandra",
+  "tags": [
+    "cassandra",
+    "database",
+    "wrapper",
+    "bindings",
+    "driver"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "1399234e9138a74fd1750e082b4702aec89d861e",
+      "time": 1695403967
+    }
+  }
+}

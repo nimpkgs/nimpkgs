@@ -1,0 +1,37 @@
+{
+  "name": "shaname",
+  "url": "https://github.com/Torro/nimble-packages?subdir=shaname",
+  "method": "git",
+  "description": "Rename files to their sha1sums",
+  "license": "BSD",
+  "web": "https://github.com/Torro/nimble-packages/tree/master/shaname",
+  "tags": [
+    "sha1",
+    "command-line",
+    "utilities"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [
+        "shaname"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "cd84ca927f4aa4375158612673abc2202db016d9",
+      "time": 1526463157
+    }
+  }
+}

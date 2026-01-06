@@ -1,0 +1,84 @@
+{
+  "name": "dhash",
+  "url": "https://github.com/filvyb/dhash",
+  "method": "git",
+  "description": "Nim implementation of dHash algorithm",
+  "license": "LGPLv3",
+  "web": "https://github.com/filvyb/dhash",
+  "tags": [
+    "hash",
+    "library",
+    "difference",
+    "image"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "imageman",
+          "str": ">= 0.8.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.2"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 4.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.1"
+          }
+        },
+        {
+          "name": "bigints",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "dhash"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "2.1.1",
+        "hash": "01672d6e9a60b34404459d3671c3b09ece335883",
+        "time": 1681228097
+      },
+      {
+        "tag": "2.1.0",
+        "hash": "df9f4c4c0d3cf4b69cde210eaa90b2e0d9a72edb",
+        "time": 1679334449
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "97dc577eac6cd3af0b466fd22437320ee7e20ad6",
+        "time": 1678736994
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "5ab32923e57d272f3c0104310d486d7547707a92",
+        "time": 1678657154
+      }
+    ],
+    "commit": {
+      "hash": "01672d6e9a60b34404459d3671c3b09ece335883",
+      "time": 1681228097
+    }
+  }
+}

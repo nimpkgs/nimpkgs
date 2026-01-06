@@ -1,0 +1,33 @@
+{
+  "name": "cal",
+  "url": "https://github.com/ringabout/cal",
+  "method": "git",
+  "description": "A simple interactive calculator",
+  "license": "MIT",
+  "web": "https://github.com/ringabout/cal",
+  "tags": [
+    "calculator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [],
+      "bin": [
+        "cal"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "17a34a2b995277f87223296950af4e741715239a",
+        "time": 1590837321
+      }
+    ],
+    "commit": {
+      "hash": "d5a242613274d76cf12cf7cfce97fcd565d94c52",
+      "time": 1619675299
+    }
+  }
+}

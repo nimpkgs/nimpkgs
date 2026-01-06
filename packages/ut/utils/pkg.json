@@ -1,0 +1,41 @@
+{
+  "name": "utils",
+  "url": "https://github.com/nim-appkit/utils",
+  "method": "git",
+  "description": "Collection of string, parsing, pointer, ... utilities.",
+  "license": "MIT",
+  "web": "https://github.com/nim-appkit/utils",
+  "tags": [
+    "library",
+    "utilities"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        },
+        {
+          "name": "values",
+          "str": ">= 0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "95fecae378fffc204bd326ded6f41b69da5786a0",
+      "time": 1448900934
+    }
+  }
+}

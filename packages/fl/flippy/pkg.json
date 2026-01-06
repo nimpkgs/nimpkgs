@@ -1,0 +1,113 @@
+{
+  "name": "flippy",
+  "url": "https://github.com/treeform/flippy",
+  "method": "git",
+  "description": "Flippy is a simple 2d image and drawing library.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/flippy",
+  "tags": [
+    "image",
+    "graphics",
+    "2d"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 0.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.2"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 0.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.5"
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": ">= 0.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.6"
+          }
+        },
+        {
+          "name": "supersnappy",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.7",
+        "hash": "862af28bdc3f4e5d06dcffc3207168a4d8de5ef0",
+        "time": 1605647751
+      },
+      {
+        "tag": "0.4.6",
+        "hash": "fddc6adc63ba9596b2e162ba7c10df276d8c564c",
+        "time": 1598460789
+      },
+      {
+        "tag": "0.4.5",
+        "hash": "c84fe0e7270a337063e27b0ecb38832b1e5d38c7",
+        "time": 1590251119
+      },
+      {
+        "tag": "0.4.4",
+        "hash": "ffcbf4d039adefc88f4c90005c02132240ebc00c",
+        "time": 1588825732
+      },
+      {
+        "tag": "0.4.3",
+        "hash": "06c751f3035aba4df29427e6b85765e44c3a3c89",
+        "time": 1588824093
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "b75eb917b9740ad37d34448ca902fb791bb3e2d1",
+        "time": 1588187914
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "481d9349b439456b6a8ced9e6760b4bf385d332a",
+        "time": 1579108665
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "c9221dcc4900022a43cb7543e57bb560307ddb55",
+        "time": 1579108403
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "f1d0bd05182590d336e17b14af0fd4ac4716f31e",
+        "time": 1572932957
+      }
+    ],
+    "commit": {
+      "hash": "410578cdeb9a166e33c5e92cd9e5a1460b321f7c",
+      "time": 1622733633
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "q",
+  "url": "https://github.com/OpenSystemsLab/q.nim",
+  "method": "git",
+  "description": "Simple package for query HTML/XML elements using a CSS3 or jQuery-like selector syntax",
+  "license": "MIT",
+  "web": "https://github.com/OpenSystemsLab/q.nim",
+  "tags": [
+    "css",
+    "selector",
+    "query",
+    "match",
+    "find",
+    "html",
+    "xml",
+    "jquery"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.8",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.0.8",
+        "hash": "7931d15c8e5bbd50a3d1188fc95fd9fd347cb130",
+        "time": 1642128133
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "2d33c3a33d377f11102108f727297211e3c41243",
+        "time": 1540805306
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "0ea6b3f595ee5ef45524b66e7b613a29d82f629e",
+        "time": 1533724567
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "115ad90605faae6cf82f96545c000f65265facfc",
+        "time": 1533724046
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "ce41bd0e23b8507e2278837b51a93785def73810",
+        "time": 1531244629
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "1a23a2d11fbbfd73ab418aff51494064d4cad303",
+        "time": 1522524491
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "8ee0487d0256ae67bacf66af603d898940c39a0d",
+        "time": 1433963012
+      }
+    ],
+    "commit": {
+      "hash": "7931d15c8e5bbd50a3d1188fc95fd9fd347cb130",
+      "time": 1642128133
+    }
+  }
+}

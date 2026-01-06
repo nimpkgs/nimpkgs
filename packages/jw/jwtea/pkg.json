@@ -1,0 +1,54 @@
+{
+  "name": "jwtea",
+  "url": "https://github.com/guzba/jwtea",
+  "method": "git",
+  "description": "Brew JSON Web Tokens in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/guzba/jwtea",
+  "tags": [
+    "jwt",
+    "hmac",
+    "rsa"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "crunchy",
+          "str": ">= 0.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "4cedfbe1179412c76e8a30f7884ba6607016d41d",
+        "time": 1674695181
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "16d7ee9c71feb6f333ea59fe7fc1e3d2bc39b78f",
+        "time": 1674522335
+      }
+    ],
+    "commit": {
+      "hash": "21d1617996f1928492e665c8008b0b3fc8b4a629",
+      "time": 1693247527
+    }
+  }
+}

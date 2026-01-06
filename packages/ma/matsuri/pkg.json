@@ -1,0 +1,52 @@
+{
+  "name": "matsuri",
+  "url": "https://github.com/zer0-star/matsuri",
+  "method": "git",
+  "description": "Useful Variant Type and Powerful Pattern Matching for Nim",
+  "license": "MIT",
+  "web": "https://github.com/zer0-star/matsuri",
+  "tags": [
+    "library",
+    "variant",
+    "algebraic_data_type",
+    "pattern_matching"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "d74bbc2b2a95034eb4ad5d2479e87eb43634fde0",
+        "time": 1591362848
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "dbe26c68f52f7e237865b0b687e210cd1d1bb74d",
+        "time": 1588348810
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "7d715bac8cb353f173e0e55c42e173fcead1db55",
+        "time": 1588163671
+      }
+    ],
+    "commit": {
+      "hash": "d74bbc2b2a95034eb4ad5d2479e87eb43634fde0",
+      "time": 1591362848
+    }
+  }
+}

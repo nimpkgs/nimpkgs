@@ -1,0 +1,52 @@
+{
+  "name": "nimAdif",
+  "url": "https://github.com/clzls/nimAdif",
+  "method": "git",
+  "description": "An Amateur Data Interchange Format (ADIF) formatter and parser.",
+  "license": "MIT",
+  "web": "https://github.com/clzls/nimAdif",
+  "tags": [
+    "ham",
+    "adif",
+    "parser",
+    "formatter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "f523f2d9796875811c6e6b34af16f03af14d6b0d",
+        "time": 1728499776
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "be552bc9b217cd5f87093d27109c7ace90fde6c1",
+        "time": 1714495864
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "fd4cc218118a5e1f3e4a884c6cb9f2af206b8b3e",
+        "time": 1708525956
+      }
+    ],
+    "commit": {
+      "hash": "f523f2d9796875811c6e6b34af16f03af14d6b0d",
+      "time": 1728499776
+    }
+  }
+}

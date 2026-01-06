@@ -1,0 +1,40 @@
+{
+  "name": "backoff",
+  "url": "https://github.com/CORDEA/backoff",
+  "method": "git",
+  "description": "Implementation of exponential backoff for nim",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/CORDEA/backoff",
+  "tags": [
+    "exponential-backoff",
+    "backoff"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1",
+        "hash": "e1705de060f8c5f3ccd4d0621192ddda37175913",
+        "time": 1542523040
+      }
+    ],
+    "commit": {
+      "hash": "cf567b616d9af81fe712ca408928a2ccf7d9538f",
+      "time": 1644119493
+    }
+  }
+}

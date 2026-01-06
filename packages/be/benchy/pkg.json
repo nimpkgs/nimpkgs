@@ -1,0 +1,45 @@
+{
+  "name": "benchy",
+  "url": "https://github.com/treeform/benchy",
+  "method": "git",
+  "description": "Simple benchmarking to time your code.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/benchy",
+  "tags": [
+    "bench",
+    "benchmark",
+    "profile",
+    "runtime",
+    "profiling",
+    "performance",
+    "speed"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "hash": "ca61d823c114e9c9ff957d3770f3fc9d0b52d3d6",
+        "time": 1683761781
+      }
+    ],
+    "commit": {
+      "hash": "03e4094b7543f0e58aac848893f359ac0e468885",
+      "time": 1758341956
+    }
+  }
+}

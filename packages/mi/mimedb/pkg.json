@@ -1,0 +1,49 @@
+{
+  "name": "mimedb",
+  "url": "https://github.com/openpeeps/mimedb",
+  "method": "git",
+  "description": "A large Database of MIME types",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/mimedb",
+  "tags": [
+    "files",
+    "filetypes",
+    "mime"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "f10b13e6c40d5d06d57b80182ab504fb0416408b",
+        "time": 1764861862
+      }
+    ],
+    "commit": {
+      "hash": "ce734c2f0bf01b4a1f9da8187d466d5db7ea5d4c",
+      "time": 1764888822
+    }
+  }
+}

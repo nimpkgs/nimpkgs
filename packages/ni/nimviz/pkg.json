@@ -1,0 +1,34 @@
+{
+  "name": "nimviz",
+  "url": "https://github.com/Rekihyt/nimviz",
+  "method": "git",
+  "description": "A wrapper for the graphviz c api.",
+  "license": "MIT",
+  "web": "https://github.com/Rekihyt/nimviz",
+  "tags": [
+    "graphviz",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "df916b1d12b3627a76a32aa49b506e11efd8bb05",
+      "time": 1612028496
+    }
+  }
+}

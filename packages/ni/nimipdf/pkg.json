@@ -1,0 +1,51 @@
+{
+  "name": "nimipdf",
+  "url": "https://github.com/neroist/nimipdf",
+  "method": "git",
+  "description": "Nim library that adds a PDF backend for nimib",
+  "license": "MIT",
+  "web": "https://neroist.github.io/nimipdf/index.pdf",
+  "tags": [
+    "nimib",
+    "pdf",
+    "wkhtmltopdf",
+    "nimibex"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "nimwkhtmltox",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nimib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2d42e80a45020276ff38879c458615684bd3cc41",
+      "time": 1684089908
+    }
+  }
+}

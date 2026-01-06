@@ -1,0 +1,32 @@
+{
+  "name": "simplelog",
+  "url": "https://github.com/sslime336/simplelog",
+  "method": "git",
+  "description": "A deadly simply log package supporting very simple colorful logging.",
+  "license": "MIT",
+  "web": "https://github.com/sslime336/simplelog",
+  "tags": [
+    "log"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "058901234f217c84a82975885666b8bae9cca2ba",
+      "time": 1685693263
+    }
+  }
+}

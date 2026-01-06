@@ -1,0 +1,91 @@
+{
+  "name": "scinim",
+  "url": "https://github.com/SciNim/scinim",
+  "method": "git",
+  "description": "The core types and functions of the SciNim ecosystem",
+  "license": "MIT",
+  "web": "https://github.com/SciNim/scinim",
+  "tags": [
+    "scinim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "threading",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "arraymancer",
+          "str": ">= 0.7.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.3"
+          }
+        },
+        {
+          "name": "polynumeric",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "nimpy",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.2.5",
+        "hash": "67207e89a11a62ceb671da45e8032039f20eef12",
+        "time": 1701685357
+      },
+      {
+        "tag": "v0.2.4",
+        "hash": "09632b7476e46a097b1dcdb200511fe7f9d3bbec",
+        "time": 1679770096
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "a6f937ad7a78708333a93e51a1355035491090d7",
+        "time": 1636102503
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "f97967cab1a153fd82de5ce790fa2da4fb5d26e4",
+        "time": 1635343783
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0817498d5e64ff798896fafa86e4caac5e9daa53",
+        "time": 1626019717
+      }
+    ],
+    "commit": {
+      "hash": "c5250b41ee16d268594a4e899967b703d04b1bd8",
+      "time": 1742505995
+    }
+  }
+}

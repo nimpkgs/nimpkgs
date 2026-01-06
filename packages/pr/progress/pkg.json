@@ -1,0 +1,67 @@
+{
+  "name": "progress",
+  "url": "https://github.com/euantorano/progress.nim",
+  "method": "git",
+  "description": "A simple progress bar for Nim.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/progress.nim",
+  "tags": [
+    "progress",
+    "bar",
+    "terminal",
+    "ui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.1.3",
+        "hash": "ef9406ff02d23499ae7c1a24aaa369a8c23cbce9",
+        "time": 1613151108
+      },
+      {
+        "tag": "v1.1.1",
+        "hash": "7ee15b1f0b392fb5c78e204160f39bdd744787d8",
+        "time": 1551452537
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "5ac179ee811b3392d96af933db8066c61cb3b856",
+        "time": 1492596555
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "42907bc538ee142e9eb5e711062add37fcc9f811",
+        "time": 1472838031
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "0852ffd254173b10027db22a97de490586016c9d",
+        "time": 1460736487
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "234352404d4c126e6017214864add3320b4d4399",
+        "time": 1460653264
+      }
+    ],
+    "commit": {
+      "hash": "ef9406ff02d23499ae7c1a24aaa369a8c23cbce9",
+      "time": 1613151108
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "animatecss",
+  "url": "https://github.com/thisago/animatecss",
+  "method": "git",
+  "description": "Easily use Animate.css classes",
+  "license": "MIT",
+  "web": "https://github.com/thisago/animatecss",
+  "tags": [
+    "javascript",
+    "animatecss"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7d03f0d2465d48f99a8270a53dc027197e68e85e",
+      "time": 1636379493
+    }
+  }
+}

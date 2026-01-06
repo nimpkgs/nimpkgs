@@ -1,0 +1,51 @@
+{
+  "name": "convertKana",
+  "url": "https://github.com/z-kk/convertKana",
+  "method": "git",
+  "description": "Convert Japanese Kana",
+  "license": "MIT",
+  "web": "https://github.com/z-kk/convertKana",
+  "tags": [
+    "convert",
+    "japanese",
+    "kana",
+    "hiragana",
+    "katakana"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "convertKana"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "77989c3ee90221240a196a4ffd132642c5e2951a",
+        "time": 1698321504
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ab5073226b32db7fc9e3aad5bcb0827a8b73cec2",
+        "time": 1668936565
+      }
+    ],
+    "commit": {
+      "hash": "77989c3ee90221240a196a4ffd132642c5e2951a",
+      "time": 1698321504
+    }
+  }
+}

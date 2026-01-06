@@ -1,0 +1,73 @@
+{
+  "name": "nimibook",
+  "url": "https://github.com/pietroppeter/nimibook",
+  "method": "git",
+  "description": "A port of mdbook to nim",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/nimibook",
+  "tags": [
+    "book",
+    "nimib",
+    "markdown",
+    "publish"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "nimib",
+          "str": ">= 0.3.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.7"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "1405553199b12915a502df8b871ffe86dcfc5e91",
+        "time": 1677267579
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "797d0c1f910b276c0de2f1b548fd746072889305",
+        "time": 1676838732
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "81733b417ebb4dd5a9d72f59e007084b5ca015b5",
+        "time": 1636310601
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "728af92022e1c7949b8e321d3f9b62dc47b617b1",
+        "time": 1636220178
+      }
+    ],
+    "commit": {
+      "hash": "2f50ef11bfdad01540fd3a9dd15e88ee974285a6",
+      "time": 1742094304
+    }
+  }
+}

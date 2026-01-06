@@ -1,0 +1,36 @@
+{
+  "name": "webpage_extractors",
+  "url": "https://github.com/bung87/webpage_extractors",
+  "method": "git",
+  "description": "webpage information extractor",
+  "license": "MIT",
+  "web": "https://github.com/bung87/webpage_extractors",
+  "tags": [
+    "web",
+    "page",
+    "html",
+    "content",
+    "extractors"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "21ae10d83baf94017021d500adff5bc2f4c72c8a",
+      "time": 1699762045
+    }
+  }
+}

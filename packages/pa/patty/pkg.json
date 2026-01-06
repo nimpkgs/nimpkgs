@@ -1,0 +1,133 @@
+{
+  "name": "patty",
+  "url": "https://github.com/andreaferretti/patty",
+  "method": "git",
+  "description": "Algebraic data types and pattern matching",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/andreaferretti/patty",
+  "tags": [
+    "pattern",
+    "adt",
+    "variant",
+    "pattern matching",
+    "algebraic data type"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.5",
+        "hash": "31bb61b990b8b3bae1cba2f353fb978448942318",
+        "time": 1680612935
+      },
+      {
+        "tag": "0.3.4",
+        "hash": "4bed5b8c05ad9b46ac67d848b64c0d77e4dab190",
+        "time": 1599665199
+      },
+      {
+        "tag": "0.3.3",
+        "hash": "1a89606b1873846669d35c70f2770aa797150670",
+        "time": 1542126357
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "af77d8f24817633c12e516de152460a2109a4748",
+        "time": 1542014177
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "51b6a4a52dd08063be7494da7e65589ec1f8a47f",
+        "time": 1491577095
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "0d53df194cd50f7d0a01271d5c97a9fdd751c458",
+        "time": 1491554462
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "abfd0224cffff9598d0eb70f4b65cf6c097f41e6",
+        "time": 1490026784
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "22db539273ff47b196d926e3873350ec5c7927ab",
+        "time": 1483374786
+      },
+      {
+        "tag": "0.1.10",
+        "hash": "782265a20145bafdc2f41ce08dbcd6aa0a14def4",
+        "time": 1482313926
+      },
+      {
+        "tag": "0.1.9",
+        "hash": "d9a31e99241ef6784224cae154656ba2687fe084",
+        "time": 1465386513
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "6a3ae644d408f8359679f737cdfebdb6de41c390",
+        "time": 1464769253
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "2019860070f375d759047af4b5287796526297e7",
+        "time": 1440017148
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "7dfd161e6175752ca5053cde7443314f35225117",
+        "time": 1437832683
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "3bbcb3a51468f69af2cf4605e902c9bff29f480d",
+        "time": 1437153892
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "a80323097df4823e95323a07b34eb347c00835b3",
+        "time": 1437079273
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "3123d3642f5e03f1c8c9ca1dea1f1a10e0d3eefd",
+        "time": 1436909458
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "9d1882b4dc5a3076e688a829ba0cdfd054da33f7",
+        "time": 1436710983
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "bbc844cee685a5fb6a6fbabb411f5baf0f5a8dee",
+        "time": 1436710241
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "b80483ff08853e1fddf294021de5182326aca507",
+        "time": 1436103345
+      }
+    ],
+    "commit": {
+      "hash": "31bb61b990b8b3bae1cba2f353fb978448942318",
+      "time": 1680612935
+    }
+  }
+}

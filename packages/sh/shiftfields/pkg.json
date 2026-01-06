@@ -1,0 +1,34 @@
+{
+  "name": "shiftfields",
+  "url": "https://github.com/sumatoshi/shiftfields",
+  "method": "git",
+  "description": "ShiftField type and sugar for c-style shift bitfields in nim.",
+  "license": "MIT",
+  "web": "https://github.com/sumatoshi/shiftfields",
+  "tags": [
+    "bitfield",
+    "bitfields",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1400224274aad5a88f9819ea9f5924257db1ee1c",
+      "time": 1663058040
+    }
+  }
+}

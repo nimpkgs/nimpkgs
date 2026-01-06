@@ -1,0 +1,34 @@
+{
+  "name": "pluginmanager",
+  "url": "https://github.com/samdmarshall/plugin-manager",
+  "method": "git",
+  "description": "Simple plugin implementation",
+  "license": "BSD 3-Clause",
+  "web": "https://github.com/samdmarshall/plugin-manager",
+  "tags": [
+    "plugin",
+    "dylib",
+    "manager"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "dd9729b8b21c0d7dc1b3f1c136fe1029ce520270",
+      "time": 1492290274
+    }
+  }
+}

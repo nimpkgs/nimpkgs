@@ -1,0 +1,430 @@
+{
+  "name": "pixie",
+  "url": "https://github.com/treeform/pixie",
+  "method": "git",
+  "description": "Full-featured 2d graphics library for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/pixie",
+  "tags": [
+    "images",
+    "paths",
+    "stroke",
+    "fill",
+    "vector",
+    "raster",
+    "png",
+    "bmp",
+    "jpg",
+    "graphics",
+    "2D",
+    "svg",
+    "font",
+    "opentype",
+    "truetype",
+    "text"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "5.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 1.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.4"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 0.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.6"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.3"
+          }
+        },
+        {
+          "name": "flatty",
+          "str": ">= 0.3.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.4"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        },
+        {
+          "name": "bumpy",
+          "str": ">= 1.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.3"
+          }
+        },
+        {
+          "name": "crunchy",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "5.1.0",
+        "hash": "f05c89f547006a76816254c8bf06ff7ad176543c",
+        "time": 1758323243
+      },
+      {
+        "tag": "5.0.7",
+        "hash": "3b65ca5605a1156987041bf0295449e4c56128cf",
+        "time": 1714330451
+      },
+      {
+        "tag": "5.0.6",
+        "hash": "f3e73f722fbb0e5d496fbc59ee860a9fd49983de",
+        "time": 1674617807
+      },
+      {
+        "tag": "5.0.5",
+        "hash": "9619cc4e540b6eac7917d8af08a9efb1408d4155",
+        "time": 1673456119
+      },
+      {
+        "tag": "5.0.4",
+        "hash": "e4b0327cfc7f2d3871d0de940578c847358e3cf4",
+        "time": 1671332938
+      },
+      {
+        "tag": "5.0.3",
+        "hash": "7aa356bfa8eee59c1fdf0dbdf76674e5f227a502",
+        "time": 1671320758
+      },
+      {
+        "tag": "5.0.2",
+        "hash": "a911e9d49883f05504cfb294e181bd6810a5c4ed",
+        "time": 1670690338
+      },
+      {
+        "tag": "5.0.1",
+        "hash": "d88da02bd8dadcda582ce4f09095a7f22e9575aa",
+        "time": 1660085500
+      },
+      {
+        "tag": "5.0.0",
+        "hash": "5022a8afe7c1848d6f342752d889b4bc463c56d2",
+        "time": 1660012643
+      },
+      {
+        "tag": "4.4.0",
+        "hash": "d26a30d3530b78d4c97feebd764698dbc63eedac",
+        "time": 1655826332
+      },
+      {
+        "tag": "4.3.0",
+        "hash": "e5d8589c4a212787348b984c3d7a28d072dc3fe7",
+        "time": 1653344264
+      },
+      {
+        "tag": "4.2.0",
+        "hash": "bc0a2787f485430cc2013ba758257f9f1e45e01e",
+        "time": 1651028458
+      },
+      {
+        "tag": "4.1.0",
+        "hash": "c887910285e0b38bce6054c16f4537412ed544f7",
+        "time": 1647918386
+      },
+      {
+        "tag": "4.0.5",
+        "hash": "fa6d9ec6bb18cea7c042a8c58777a06e7d864c1f",
+        "time": 1647723773
+      },
+      {
+        "tag": "4.0.4",
+        "hash": "6bbe858e5c433747652f3491eed86c92742f35b3",
+        "time": 1647644015
+      },
+      {
+        "tag": "4.0.2",
+        "hash": "e0ab3829b16a6caa090bb509d9a7259fd06cb9f6",
+        "time": 1647216284
+      },
+      {
+        "tag": "4.0.1",
+        "hash": "00d93e69214f36402342c0671ed2c5c63825410c",
+        "time": 1645581731
+      },
+      {
+        "tag": "4.0.0",
+        "hash": "1a89f5d07b49d778cbf119604f76482c56e0e7ef",
+        "time": 1644819353
+      },
+      {
+        "tag": "3.1.4",
+        "hash": "0843b262503e38493b8ba3d17589b5a40a020170",
+        "time": 1644121192
+      },
+      {
+        "tag": "3.1.3",
+        "hash": "19c92863c390002671b9dcee9a45f010bff95d02",
+        "time": 1643152934
+      },
+      {
+        "tag": "3.1.2",
+        "hash": "68fcf88b9fc10468c6de542fbb4b66e1ec31e303",
+        "time": 1640292409
+      },
+      {
+        "tag": "3.1.1",
+        "hash": "cbd3af90244e9e173ba5d2d80cae409b501d37ce",
+        "time": 1639683316
+      },
+      {
+        "tag": "3.1.0",
+        "hash": "21d00222d4dc9f61c3f6e4697cfeb1647a9e7e77",
+        "time": 1639612899
+      },
+      {
+        "tag": "3.0.4",
+        "hash": "c92fe9f3e3e10fc2020a97a6631c3e9a9401eeac",
+        "time": 1638670677
+      },
+      {
+        "tag": "3.0.3",
+        "hash": "2a54de7604d21cf50ae7e1a408a74f74a199b308",
+        "time": 1637295464
+      },
+      {
+        "tag": "3.0.2",
+        "hash": "351d8d0353338f8a0c8b3ddfa02da7e098f487a4",
+        "time": 1634695910
+      },
+      {
+        "tag": "3.0.1",
+        "hash": "f7ca3fc480740967eb8a8004441253f97218d54d",
+        "time": 1634689281
+      },
+      {
+        "tag": "3.0.0",
+        "hash": "ad2ceed3cae4405109dc9c03a5572a4c0aa6fc28",
+        "time": 1633386444
+      },
+      {
+        "tag": "2.1.1",
+        "hash": "61d93113abcd1ed82fb4bc8421c873fbce8d63c2",
+        "time": 1626633815
+      },
+      {
+        "tag": "2.1.0",
+        "hash": "70232e87e67212fe4f9f82a74d05a78a84fe4d30",
+        "time": 1624080141
+      },
+      {
+        "tag": "2.0.5",
+        "hash": "5d3fed368cf729846252660df91726dea3a81883",
+        "time": 1624050829
+      },
+      {
+        "tag": "2.0.4",
+        "hash": "759c0455680f2b6292620314184729c7d8a69c9d",
+        "time": 1622761470
+      },
+      {
+        "tag": "2.0.3",
+        "hash": "625c473ef84860ee5166f139d170304129a2d6de",
+        "time": 1622586481
+      },
+      {
+        "tag": "2.0.2",
+        "hash": "f42b7038320114e589c563f2822b01cb49578042",
+        "time": 1622323098
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "1df4ed5b89c70de28579b223902a6a010d804594",
+        "time": 1622322812
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "907c17622a6bcbcc13ca3b83585484a488f7cf55",
+        "time": 1621315820
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "aa7f31ba78a81705d673c50b125e72ac4fffffa0",
+        "time": 1620792015
+      },
+      {
+        "tag": "1.1.3",
+        "hash": "a781580ac878f04d47c26ad1b1d5750edcb2a824",
+        "time": 1618790040
+      },
+      {
+        "tag": "1.1.2",
+        "hash": "75915ab05fb3dcc94aa46b15ab21800eda0cf9ae",
+        "time": 1616793011
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "26bd527edb9cb2aca68ebacf9b9aaf727261f826",
+        "time": 1615521386
+      },
+      {
+        "tag": "1.0.5",
+        "hash": "4a9d1297db5982751142308ca0708b9b1e28f060",
+        "time": 1614831278
+      },
+      {
+        "tag": "1.0.4",
+        "hash": "1418a68f409779d26bb87717fda6e14c8239b4da",
+        "time": 1614496420
+      },
+      {
+        "tag": "1.0.3",
+        "hash": "351cd2f61a419607a78d160babfbd0a18199054d",
+        "time": 1614409715
+      },
+      {
+        "tag": "1.0.2",
+        "hash": "36b10a62d640a320d14ae0d3b7869082f4e3b480",
+        "time": 1614389156
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "851c15f9436a1d24c817fbd00e38a2a27ffdd34c",
+        "time": 1614386858
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "06515623fe9048e848110d1fa100b10ecb9a7f0d",
+        "time": 1614301919
+      },
+      {
+        "tag": "0.0.21",
+        "hash": "bdf8e5601df67439f0270cf7e712f3d5df077d1d",
+        "time": 1613676337
+      },
+      {
+        "tag": "0.0.20",
+        "hash": "f3a7e5013d8136f84f590c138ba3476110fee2d8",
+        "time": 1611591942
+      },
+      {
+        "tag": "0.0.18",
+        "hash": "82f9339fe031dd4e2c589bf5ec153ee3977b65ad",
+        "time": 1611547576
+      },
+      {
+        "tag": "0.0.17",
+        "hash": "86de2a92fbb89a5d062c09dcf819615b9c4a47d6",
+        "time": 1611543771
+      },
+      {
+        "tag": "0.0.16",
+        "hash": "a4b9e524c3f3d4348a354201f2350ec1ef11744d",
+        "time": 1611462005
+      },
+      {
+        "tag": "0.0.15",
+        "hash": "45da7c4db93f6ada7e94d45b930d8636b783480b",
+        "time": 1611429679
+      },
+      {
+        "tag": "0.0.14",
+        "hash": "49c363afc584c47a23c63c4c99adb879e5ef87c4",
+        "time": 1611366335
+      },
+      {
+        "tag": "0.0.13",
+        "hash": "e9d340d6a4a62b00117f7a3151e1e153251385a7",
+        "time": 1611358203
+      },
+      {
+        "tag": "0.0.12",
+        "hash": "9bc80aba4ac1a32101b4bc5b76710b680005a66b",
+        "time": 1611349680
+      },
+      {
+        "tag": "0.0.11",
+        "hash": "90bfaff60478ba1263e68dded6dc300f55e7bc56",
+        "time": 1610399135
+      },
+      {
+        "tag": "0.0.10",
+        "hash": "040a66018b79946bb41ed1e7d1de2cbd58fde7f8",
+        "time": 1609650297
+      },
+      {
+        "tag": "0.0.9",
+        "hash": "b125dbabaeb03aac4eb8656737f5df1043009ced",
+        "time": 1609287214
+      },
+      {
+        "tag": "0.0.8",
+        "hash": "507cb5fba3eac63a36e547cd89057a18c006f80f",
+        "time": 1609284149
+      },
+      {
+        "tag": "0.0.7",
+        "hash": "56365f3c29656fb26935319ba2b03a5d31fe92bb",
+        "time": 1609029095
+      },
+      {
+        "tag": "0.0.6",
+        "hash": "8d3784790bc75d700811ff426e6429d71329f846",
+        "time": 1607651613
+      },
+      {
+        "tag": "0.0.5",
+        "hash": "351590861362525f6c4e4b517e583bc47dd48aba",
+        "time": 1607582623
+      },
+      {
+        "tag": "0.0.4",
+        "hash": "5e390b9db8f0fa67704a2fc4f1b236bc2d7865a0",
+        "time": 1607581910
+      },
+      {
+        "tag": "0.0.3",
+        "hash": "6dcf108c0155db5e28ec865d9864218e8d3f1e33",
+        "time": 1607019158
+      },
+      {
+        "tag": "0.0.2",
+        "hash": "abea88585a63c58ae7e15313b050ba12fe9079af",
+        "time": 1606019154
+      }
+    ],
+    "commit": {
+      "hash": "5eda4949a3c8bea318cfac8e42060a8f90f3f35d",
+      "time": 1761080768
+    }
+  }
+}

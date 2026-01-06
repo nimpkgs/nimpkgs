@@ -1,0 +1,55 @@
+{
+  "name": "toktok",
+  "url": "https://github.com/openpeeps/toktok",
+  "method": "git",
+  "description": "Generic tokenizer written in Nim language 👑 Powered by Nim's Macros",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/toktok",
+  "tags": [
+    "lexer",
+    "token",
+    "tokenizer",
+    "lex",
+    "toktok",
+    "lexbase",
+    "macros"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "f2b85e6fc8b00e9f3fd89937408d36dc2221d378",
+        "time": 1691674268
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "e2d71f9fe0db0b4bd97e9930c4c72615aef8dfac",
+        "time": 1685158689
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "93e94b74230398d58f8ddc16b644e0e5f53af6a9",
+        "time": 1674679517
+      }
+    ],
+    "commit": {
+      "hash": "5100e0442ee16e0984672d84f946b14e197f9cea",
+      "time": 1713465068
+    }
+  }
+}

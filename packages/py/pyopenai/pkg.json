@@ -1,0 +1,58 @@
+{
+  "name": "pyopenai",
+  "url": "https://github.com/jaredmontoya/pyopenai",
+  "method": "git",
+  "description": "An attempt to reimplement python OpenAI API bindings in nim",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/jaredmontoya/pyopenai",
+  "tags": [
+    "python",
+    "openai",
+    "http",
+    "api",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": " ^= >= 2.0.0",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "d7774a37b87f33ea7de380cdbef0376333ec1c6f",
+        "time": 1699293265
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "df9c8058fc5f78387717da0fd12df181e200c3bf",
+        "time": 1692131151
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "650bfde7bd6f312ecdf5f91afb194b0a84f79a2d",
+        "time": 1690634269
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "2c9f83e64b1d433e77666f1d3cad5c3fa55d876f",
+        "time": 1690552386
+      }
+    ],
+    "commit": {
+      "hash": "26135201880d6c7b8c68f8917cdeaf233db76b19",
+      "time": 1714081865
+    }
+  }
+}

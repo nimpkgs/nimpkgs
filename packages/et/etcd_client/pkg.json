@@ -1,0 +1,45 @@
+{
+  "name": "etcd_client",
+  "url": "https://github.com/FedericoCeratto/nim-etcd-client",
+  "method": "git",
+  "description": "etcd client library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-etcd-client",
+  "tags": [
+    "library",
+    "etcd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "62fc98faca9e98b63afa191ebc319247b7a9a06d",
+        "time": 1588447336
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "7efa1e5eb8a90b63f752a494bcee8ef9b37b5b01",
+        "time": 1480795150
+      }
+    ],
+    "commit": {
+      "hash": "62fc98faca9e98b63afa191ebc319247b7a9a06d",
+      "time": 1588447336
+    }
+  }
+}

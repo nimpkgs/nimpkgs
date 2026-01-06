@@ -1,0 +1,49 @@
+{
+  "name": "timecop",
+  "url": "https://github.com/ba0f3/timecop.nim",
+  "method": "git",
+  "description": "Time travelling for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/timecop.nim",
+  "tags": [
+    "time",
+    "travel",
+    "timecop"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.1"
+          }
+        },
+        {
+          "name": "subhook",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "42f3d08822e350a41e2c1619a21ae4f63554913d",
+        "time": 1531934539
+      }
+    ],
+    "commit": {
+      "hash": "f4496338a7688b50d000f81cec880c17e94fb4d8",
+      "time": 1633049514
+    }
+  }
+}

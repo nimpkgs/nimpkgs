@@ -1,0 +1,52 @@
+{
+  "name": "web",
+  "url": "https://github.com/thing-king/web",
+  "method": "git",
+  "description": "Macro-based HTML generation/templating with CSS validation",
+  "license": "MIT",
+  "web": "https://github.com/thing-king/web",
+  "tags": [
+    "web",
+    "html",
+    "components",
+    "component",
+    "react"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.27",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "css",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "html",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "807103593cd8b0c5982c0edf60b653b23a919b8f",
+      "time": 1754532616
+    }
+  }
+}

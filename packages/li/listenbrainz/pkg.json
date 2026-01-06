@@ -1,0 +1,56 @@
+{
+  "name": "listenbrainz",
+  "url": "https://gitlab.com/tandy1000/listenbrainz-nim",
+  "method": "git",
+  "description": "Low-level multisync bindings to the ListenBrainz web API.",
+  "license": "MIT",
+  "web": "https://gitlab.com/tandy1000/listenbrainz-nim",
+  "doc": "https://tandy1000.gitlab.io/listenbrainz-nim/",
+  "tags": [
+    "listenbrainz",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "0c6c47ef9b2fee0bfe60d7af9fbc67612b82d0d2",
+        "time": 1633180935
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "c2a41add283f2a45f4ff533c98a006b2ac2c8890",
+        "time": 1630514749
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "e645234d1e89a5d0614212ae10ca9daf9dc28f47",
+        "time": 1624970072
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "dc9bf64ddfba1204e9630e0a4e96e460d94c4fbc",
+        "time": 1624021453
+      }
+    ],
+    "commit": {
+      "hash": "427aaba97a5c39148bfda0c1843773bbb852a888",
+      "time": 1662013853
+    }
+  }
+}

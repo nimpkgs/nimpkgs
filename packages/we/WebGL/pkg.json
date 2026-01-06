@@ -1,0 +1,60 @@
+{
+  "name": "WebGL",
+  "url": "https://github.com/stisa/webgl",
+  "method": "git",
+  "description": "Experimental wrapper to webgl for Nim",
+  "license": "MIT",
+  "web": "https://stisa.space/webgl/",
+  "tags": [
+    "webgl",
+    "graphic",
+    "js",
+    "javascript",
+    "wrapper",
+    "3D",
+    "2D"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "18ef9a0ce37824779e6cf2c2c6a9ba72b4c120f5",
+        "time": 1535127480
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "9103431db30d1d29e2225255351001d5f8635506",
+        "time": 1494436329
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "6d47c2c7aa88c98b24d4d9a18fef00434e111b1a",
+        "time": 1489263509
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "7f74212fa0019998fe91e3beac61b2b77d400fdb",
+        "time": 1489262094
+      }
+    ],
+    "commit": {
+      "hash": "1196ef8df277dd70cab70972c738108a8e0e8481",
+      "time": 1595939545
+    }
+  }
+}

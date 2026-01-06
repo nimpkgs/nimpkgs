@@ -1,0 +1,45 @@
+{
+  "name": "appdirs",
+  "url": "https://github.com/MrJohz/appdirs",
+  "method": "git",
+  "description": "A utility library to find the directory you need to app in.",
+  "license": "MIT",
+  "web": "https://github.com/MrJohz/appdirs",
+  "tags": [
+    "utility",
+    "filesystem"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nimrod",
+          "str": ">= 0.9.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "63d4fa414d2410d79f86e405b336184b2a75a4ef",
+        "time": 1405884621
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "6af6710db9257ad09942ad6e0dd8b6f7bd46f59d",
+        "time": 1405883479
+      }
+    ],
+    "commit": {
+      "hash": "b4c0e17ab66a187d7d614c2ae9ba85f1bdfdd33e",
+      "time": 1414674838
+    }
+  }
+}

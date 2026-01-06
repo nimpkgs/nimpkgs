@@ -1,0 +1,58 @@
+{
+  "name": "asyncchannels",
+  "url": "https://github.com/status-im/nim-async-channels",
+  "method": "git",
+  "description": "Thread-safe channels for chronos",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-async-channels",
+  "tags": [
+    "chronos",
+    "threads",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.4 & < 5.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.1"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e63ac3634373facf14984433a7a366503ea1d0f7",
+      "time": 1765528446
+    }
+  }
+}

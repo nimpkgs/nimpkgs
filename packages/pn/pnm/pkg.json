@@ -1,0 +1,56 @@
+{
+  "name": "pnm",
+  "url": "https://github.com/jiro4989/pnm",
+  "method": "git",
+  "description": "pnm is library for PNM (Portable AnyMap).",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/pnm",
+  "tags": [
+    "pnm",
+    "image",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v2.1.1",
+        "hash": "556633d87e65f73f3917321fe1ea59afc2dc9302",
+        "time": 1612116174
+      },
+      {
+        "tag": "v2.1.0",
+        "hash": "710dbada4c2ca308441392601a666d4a82e851fc",
+        "time": 1612114621
+      },
+      {
+        "tag": "v2.0.1",
+        "hash": "21b510fc684765ce15ce475c0a362363b3bf52b4",
+        "time": 1611853183
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "1acbe3f1a0a81c15b4639acca68114ff262b4743",
+        "time": 1562976188
+      }
+    ],
+    "commit": {
+      "hash": "556633d87e65f73f3917321fe1ea59afc2dc9302",
+      "time": 1612116174
+    }
+  }
+}

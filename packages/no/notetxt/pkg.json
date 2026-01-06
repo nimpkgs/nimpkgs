@@ -1,0 +1,34 @@
+{
+  "name": "notetxt",
+  "url": "https://github.com/mrshu/nim-notetxt",
+  "method": "git",
+  "description": "A library that implements the note.txt specification for note taking.",
+  "license": "MIT",
+  "web": "https://github.com/mrshu/nim-notetxt",
+  "tags": [
+    "notetxt,",
+    "note",
+    "taking"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "fa5ac89b1b0733cbcf9a59941c1e567f72b944e9",
+      "time": 1518636736
+    }
+  }
+}

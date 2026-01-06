@@ -1,0 +1,61 @@
+{
+  "name": "ducominer",
+  "url": "https://github.com/its5Q/ducominer",
+  "method": "git",
+  "description": "A fast, multithreaded miner for DuinoCoin",
+  "license": "MIT",
+  "web": "https://github.com/its5Q/ducominer",
+  "tags": [
+    "miner",
+    "mining",
+    "duco",
+    "duinocoin",
+    "cryptocurrency"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "ducominer"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.2.0",
+        "hash": "509e7036f2094fe85e2ad7eee3c0ea65c6286be8",
+        "time": 1612225425
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "3fce8738b122352a6da6e4d550567bd306ec433d",
+        "time": 1611960956
+      },
+      {
+        "tag": "1.0.1",
+        "hash": "7341c3592329c3011ab0402ec6c1648d78683b75",
+        "time": 1611924322
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "fe48bcdd93063d1458609f860b9a7666d752075f",
+        "time": 1611908203
+      }
+    ],
+    "commit": {
+      "hash": "d8c767db67c3f40569b445601090faf956b56e12",
+      "time": 1612225962
+    }
+  }
+}

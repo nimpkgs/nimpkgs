@@ -1,0 +1,42 @@
+{
+  "name": "shlex",
+  "url": "https://github.com/SolitudeSF/shlex",
+  "method": "git",
+  "description": "Library for splitting a string into shell words",
+  "license": "MIT",
+  "web": "https://github.com/SolitudeSF/shlex",
+  "tags": [
+    "shlex",
+    "shell",
+    "parse",
+    "split"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "513b299d5d621255c4be623ddfd3d82d11293a08",
+        "time": 1557244724
+      }
+    ],
+    "commit": {
+      "hash": "513b299d5d621255c4be623ddfd3d82d11293a08",
+      "time": 1557244724
+    }
+  }
+}

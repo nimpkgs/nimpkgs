@@ -1,0 +1,36 @@
+{
+  "name": "nim_lk",
+  "url": "https://git.sr.ht/~ehmry/nim_lk",
+  "method": "git",
+  "description": "Nix lockfile generator",
+  "license": "BSD-3-Clause",
+  "web": "https://git.sr.ht/~ehmry/nim_lk",
+  "tags": [
+    "package",
+    "sbom"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "20250428",
+      "requires": [
+        {
+          "name": "https://github.com/nim-lang/nimble.git",
+          "str": "#master",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nim_lk"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
+      "time": 1745845849
+    }
+  }
+}

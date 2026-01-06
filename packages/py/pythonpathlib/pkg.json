@@ -1,0 +1,35 @@
+{
+  "name": "pythonpathlib",
+  "url": "https://github.com/achesak/nim-pythonpathlib.git",
+  "method": "git",
+  "description": "Module for working with paths that is as similar as possible to Python's pathlib",
+  "license": "MIT",
+  "web": "https://github.com/achesak/nim-pythonpathlib",
+  "tags": [
+    "path",
+    "directory",
+    "python",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.15",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "5614493682166a8407edd86c6be701ecf6f27318",
+      "time": 1500824081
+    }
+  }
+}

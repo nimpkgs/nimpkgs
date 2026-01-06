@@ -1,0 +1,62 @@
+{
+  "name": "tnim",
+  "url": "https://github.com/jlp765/tnim",
+  "method": "git",
+  "description": "tnim is a Nim REPL - an interactive sandbox for testing Nim code",
+  "license": "MIT",
+  "web": "https://github.com/jlp765/tnim",
+  "tags": [
+    "REPL",
+    "sandbox",
+    "interactive",
+    "compiler",
+    "code",
+    "language"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [
+        "tnim"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v2.0.6",
+        "hash": "980c5f6cacdf89ac31fecd890adbcc123918459a",
+        "time": 1608525003
+      },
+      {
+        "tag": "2.0.6",
+        "hash": "2c165b704be25a2dfcdf6ec2575ec2330a895416",
+        "time": 1608524637
+      },
+      {
+        "tag": "2.0.5",
+        "hash": "52d23937de328b03c11c4145808212fb295299dc",
+        "time": 1566618862
+      },
+      {
+        "tag": "2.0.4",
+        "hash": "06492164a7b5d52da70fad8bfdb1caaada332a38",
+        "time": 1566605901
+      }
+    ],
+    "commit": {
+      "hash": "980c5f6cacdf89ac31fecd890adbcc123918459a",
+      "time": 1608525003
+    }
+  }
+}

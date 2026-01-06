@@ -1,0 +1,75 @@
+{
+  "name": "ensem",
+  "url": "https://github.com/JeffersonLab/ensem",
+  "method": "git",
+  "description": "Support for ensemble file format and arithmetic using jackknife/bootstrap propagation of errors",
+  "license": "BSD3",
+  "web": "https://github.com/JeffersonLab/ensem",
+  "tags": [
+    "jackknife",
+    "statistics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.4.0",
+        "hash": "88c0fbaa4cc7f6e7bb5c8b8aad0406f3a8c24bfa",
+        "time": 1608674553
+      },
+      {
+        "tag": "v1.3.2",
+        "hash": "f8f7c742619eecc68fc5b3582cb43c312b5953d5",
+        "time": 1546978338
+      },
+      {
+        "tag": "v1.3.1",
+        "hash": "f5eea8d7b4042ccc154acae98c5789739ff8253d",
+        "time": 1543169407
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "c593e382f1885497055c7e7193afb75a19cca2be",
+        "time": 1543168653
+      },
+      {
+        "tag": "v1.2.2",
+        "hash": "88f15a3f88a0b2a0f87b03a90e070c34c82231cb",
+        "time": 1506713753
+      },
+      {
+        "tag": "v1.2.1",
+        "hash": "2ba33ce50820ddde72f11110fbb3e350915473a4",
+        "time": 1497392896
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "8b2cc69a769254cfddc7d460fe5c11d156b26215",
+        "time": 1497320672
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "4b5c8a14a0db3ec053433d80c593c8ab8c452b6e",
+        "time": 1497294670
+      }
+    ],
+    "commit": {
+      "hash": "88c0fbaa4cc7f6e7bb5c8b8aad0406f3a8c24bfa",
+      "time": 1608674553
+    }
+  }
+}

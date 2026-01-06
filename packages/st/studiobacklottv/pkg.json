@@ -1,0 +1,63 @@
+{
+  "name": "studiobacklottv",
+  "url": "https://github.com/thisago/studiobacklottv",
+  "method": "git",
+  "description": "Studio Backlot TV video extractor",
+  "license": "MIT",
+  "web": "https://github.com/thisago/studiobacklottv",
+  "tags": [
+    "video",
+    "studiobacklot",
+    "extractor",
+    "cli",
+    "tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "util",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/thisago/brightcove",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "studiobacklottv"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "d985d244d4013b5cf640361d7bb8f10cff1b3443",
+      "time": 1661703986
+    }
+  }
+}

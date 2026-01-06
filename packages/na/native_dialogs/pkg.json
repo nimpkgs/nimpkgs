@@ -1,0 +1,55 @@
+{
+  "name": "native_dialogs",
+  "url": "https://github.com/SSPkrolik/nim-native-dialogs.git",
+  "method": "git",
+  "description": "Implements framework-agnostic native operating system dialogs calls",
+  "license": "MIT",
+  "web": "https://github.com/SSPkrolik/nim-native-dialogs",
+  "tags": [
+    "ui",
+    "gui",
+    "cross-platform",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "gtk2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "6537b04761f6e935fa0565519f21d6903ab5d209",
+        "time": 1672915433
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "1270bb9a8d1f1f1f1732f36734164bba2f9c5f22",
+        "time": 1507886133
+      }
+    ],
+    "commit": {
+      "hash": "de021f1f3915f648a036b9a6642762db2ca763e4",
+      "time": 1672921994
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "norx",
+  "url": "https://github.com/gokr/norx",
+  "method": "git",
+  "description": "A wrapper of the ORX 2.5D game engine",
+  "license": "Zlib",
+  "web": "https://github.com/gokr/norx",
+  "tags": [
+    "game",
+    "engine",
+    "2d",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/android",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.4.3",
+        "hash": "593e3b629ab881896b2c25fd29e5ff46f5cfd1fb",
+        "time": 1596572031
+      },
+      {
+        "tag": "0.4.2",
+        "hash": "c76a2f487eec08061ab4e5869d53aaafc29008d7",
+        "time": 1595012238
+      }
+    ],
+    "commit": {
+      "hash": "beec0f363e62886da7a1c6de47ecb3b19d6de75e",
+      "time": 1762812084
+    }
+  }
+}

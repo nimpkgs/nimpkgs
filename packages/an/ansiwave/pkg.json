@@ -1,0 +1,319 @@
+{
+  "name": "ansiwave",
+  "url": "https://github.com/ansiwave/ansiwave",
+  "method": "git",
+  "description": "ANSI art + MIDI music editor",
+  "license": "Public Domain",
+  "tags": [
+    "ansi",
+    "midi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.8.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.2"
+          }
+        },
+        {
+          "name": "pararules",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "paramidi",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "paramidi_soundfonts",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "parasound",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.5"
+          }
+        },
+        {
+          "name": "stb_image",
+          "str": ">= 2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.5"
+          }
+        },
+        {
+          "name": "wavecore",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
+          }
+        },
+        {
+          "name": "chrono",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "nimwave",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "ansiwave"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.8.0-windows, 1.8.0-macos, 1.8.0-linux, 1.8.0",
+        "hash": "f47bac0716a40bcdd7eed73fea08d5ab9d07236d",
+        "time": 1671746162
+      },
+      {
+        "tag": "1.7.11-windows, 1.7.11-macos, 1.7.11-linux, 1.7.11",
+        "hash": "fbb309ad483ff64bdfe90e331d5314952be3a60f",
+        "time": 1659790942
+      },
+      {
+        "tag": "1.7.10",
+        "hash": "526475492fbcfb110f2465c91a2810909f1ad2b9",
+        "time": 1658566038
+      },
+      {
+        "tag": "1.7.9-windows, 1.7.9-macos, 1.7.9-linux, 1.7.9",
+        "hash": "89021caeef056fa4e314809e7ea72859586c37b5",
+        "time": 1657398420
+      },
+      {
+        "tag": "1.7.8",
+        "hash": "43250b45f96a4044c3ffb05f1859dfe3e6afde23",
+        "time": 1656325289
+      },
+      {
+        "tag": "1.7.7-windows, 1.7.7-macos, 1.7.7-linux, 1.7.7",
+        "hash": "41b9e0ffacd7a21782802dcafe2231abb2e986f4",
+        "time": 1656053604
+      },
+      {
+        "tag": "1.7.6",
+        "hash": "75ffb5862294c32d807ac53d1782c064b0edf0d0",
+        "time": 1655556064
+      },
+      {
+        "tag": "1.7.5-windows, 1.7.5-macos, 1.7.5-linux, 1.7.5",
+        "hash": "8f0553ba072d202ee332d0495686b16901b54dbb",
+        "time": 1655412398
+      },
+      {
+        "tag": "1.7.4-windows, 1.7.4-macos, 1.7.4-linux, 1.7.4",
+        "hash": "f2a846f509b2018588397dc5dd7832b9ed0b60a0",
+        "time": 1655404710
+      },
+      {
+        "tag": "1.7.3-windows, 1.7.3-macos, 1.7.3-linux, 1.7.3",
+        "hash": "881d6ff1d25f849d1ccb12c4519b62553372dbbf",
+        "time": 1653817203
+      },
+      {
+        "tag": "1.7.2-windows, 1.7.2-macos, 1.7.2-linux, 1.7.2",
+        "hash": "e77b61d8d6a8e1c4f9bc82dd966aae6d645c9ae3",
+        "time": 1653732733
+      },
+      {
+        "tag": "1.7.1-windows, 1.7.1-macos, 1.7.1-linux, 1.7.1",
+        "hash": "35ca79d80f97a7b17ea543e8e56a6958ec56e1c6",
+        "time": 1653292643
+      },
+      {
+        "tag": "1.7.0-windows, 1.7.0-macos, 1.7.0-linux, 1.7.0",
+        "hash": "4385ff9648b6dc47608e6846b1099ed18d6edfe4",
+        "time": 1652783741
+      },
+      {
+        "tag": "1.6.0-windows, 1.6.0-macos, 1.6.0-linux, 1.6.0",
+        "hash": "52b066eea617a1dffcb4afffe315f1c8cdd07fb0",
+        "time": 1650908867
+      },
+      {
+        "tag": "1.5.0-windows, 1.5.0-macos, 1.5.0-linux, 1.5.0",
+        "hash": "85250c9652260c57deac36550a55ab55e7147144",
+        "time": 1644187161
+      },
+      {
+        "tag": "1.4.3",
+        "hash": "0c9a6d32477cd204c89de8f486d3d78aed6fde88",
+        "time": 1643560947
+      },
+      {
+        "tag": "1.4.2",
+        "hash": "6c89ac3037b00ebba523088fb8f1b6f4cd44edec",
+        "time": 1643011934
+      },
+      {
+        "tag": "1.4.1",
+        "hash": "df3da5d6ec1991bc05d59fa5d7e1b9090c082a73",
+        "time": 1642948986
+      },
+      {
+        "tag": "1.4.0-windows, 1.4.0-macos, 1.4.0-linux, 1.4.0",
+        "hash": "8c2283afc756460d4ad4104ea639923f56ad9cad",
+        "time": 1642924921
+      },
+      {
+        "tag": "1.3.5-windows, 1.3.5-macos, 1.3.5-linux, 1.3.5",
+        "hash": "b0e6fe6efae2bc5b56b0a9342bbd0ed8b012edee",
+        "time": 1642301692
+      },
+      {
+        "tag": "1.3.4-windows, 1.3.4-macos, 1.3.4-linux, 1.3.4",
+        "hash": "89c9413a70e4581c8fe2a49f3ad1a711f4d1defc",
+        "time": 1642132220
+      },
+      {
+        "tag": "1.3.3-windows, 1.3.3-macos, 1.3.3-linux, 1.3.3",
+        "hash": "deccdffaf997c60ea0cabbd1af9e229556ade17c",
+        "time": 1641673003
+      },
+      {
+        "tag": "1.3.2-windows, 1.3.2-macos, 1.3.2-linux, 1.3.2",
+        "hash": "d9087b7a7c3c3c1b94ee5b48ae65188ce4cf4cd5",
+        "time": 1641544419
+      },
+      {
+        "tag": "1.3.1-windows, 1.3.1-macos, 1.3.1-linux, 1.3.1",
+        "hash": "3d13661eb2f13ad3a3fcf23d8bc2f99a8a4ff5ae",
+        "time": 1641404949
+      },
+      {
+        "tag": "1.3.0-windows, 1.3.0-macos, 1.3.0-linux, 1.3.0",
+        "hash": "4d53474e94dbc185de9bcb0f26cfd558f89c8bc7",
+        "time": 1641330355
+      },
+      {
+        "tag": "1.2.6-windows, 1.2.6-macos, 1.2.6-linux, 1.2.6",
+        "hash": "815457aa3d5224d2d7953b04fc593581543210c2",
+        "time": 1641239092
+      },
+      {
+        "tag": "1.2.4",
+        "hash": "1a1770f02111f53d0579b67c733d72be3c2ec446",
+        "time": 1641050893
+      },
+      {
+        "tag": "1.2.3",
+        "hash": "68a6a2b65536ea0a654f544098ef022fd4d753f6",
+        "time": 1641034352
+      },
+      {
+        "tag": "1.2.2-windows, 1.2.2-macos, 1.2.2-linux, 1.2.2",
+        "hash": "dd969152eab365a740c62ccdda65eb8ec4b7b664",
+        "time": 1640956632
+      },
+      {
+        "tag": "1.2.1-windows, 1.2.1-macos, 1.2.1-linux, 1.2.1",
+        "hash": "81c056aa060fc59ea759b365ad86831ac21cb27c",
+        "time": 1640858594
+      },
+      {
+        "tag": "1.2.0-windows, 1.2.0-macos, 1.2.0-linux, 1.2.0",
+        "hash": "0462eaf637b12378c9b3383719703de9e82ec4af",
+        "time": 1640856153
+      },
+      {
+        "tag": "1.1.0-windows, 1.1.0-macos, 1.1.0-linux, 1.1.0",
+        "hash": "6505119a13dacbe5ec4ae23b32c00383c8beb93a",
+        "time": 1640655365
+      },
+      {
+        "tag": "1.0.2-windows, 1.0.2-macos, 1.0.2-linux, 1.0.2",
+        "hash": "6fe722a77d41a497b8552802a7e8f86c47c2d088",
+        "time": 1640606970
+      },
+      {
+        "tag": "1.0.1-windows, 1.0.1-macos, 1.0.1-linux, 1.0.1",
+        "hash": "2797d022a6d7fd4e1e0c9e9fcd0b1787da108af0",
+        "time": 1640327944
+      },
+      {
+        "tag": "1.0.0-windows, 1.0.0-macos, 1.0.0-linux, 1.0.0",
+        "hash": "2f04a1bc070261238944fbbba21b07693ee792af",
+        "time": 1640270692
+      },
+      {
+        "tag": "0.7.0-windows, 0.7.0-macos, 0.7.0-linux, 0.7.0",
+        "hash": "3d25a1416fd0f81ca76e9209f917539ded58ebca",
+        "time": 1632556593
+      },
+      {
+        "tag": "0.6.0-windows, 0.6.0-macos, 0.6.0-linux, 0.6.0",
+        "hash": "15623a37a35f851a1e1613bf06961acbd363094f",
+        "time": 1632470109
+      },
+      {
+        "tag": "0.5.0-windows, 0.5.0-macos, 0.5.0-linux, 0.5.0",
+        "hash": "a4aae7e27148c1f8f45254365d646e6184689dd1",
+        "time": 1632451987
+      },
+      {
+        "tag": "0.4.0-windows, 0.4.0-macos, 0.4.0-linux, 0.4.0",
+        "hash": "01a93ac8f085654bef7205673f57ab0b41127352",
+        "time": 1619901122
+      },
+      {
+        "tag": "0.3.0-windows, 0.3.0-macos, 0.3.0-linux, 0.3.0",
+        "hash": "bdcd4b6e0b2893e822bc7d917240a5fc6f42cd92",
+        "time": 1619608924
+      },
+      {
+        "tag": "0.2.0-windows, 0.2.0-macos, 0.2.0-linux, 0.2.0",
+        "hash": "8e3404f506b3864297a431304c543dfd31da7c4e",
+        "time": 1619201976
+      },
+      {
+        "tag": "0.1.0-windows, 0.1.0-macos, 0.1.0-linux, 0.1.0",
+        "hash": "5d244822b5219810d0203881847301b1d97f4ab6",
+        "time": 1618666426
+      }
+    ],
+    "commit": {
+      "hash": "165ff6505a5dc164184e457f8f5d830b4d9b8e6c",
+      "time": 1695388212
+    }
+  }
+}

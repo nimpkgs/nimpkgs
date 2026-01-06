@@ -1,0 +1,40 @@
+{
+  "name": "word2vec",
+  "url": "https://github.com/treeform/word2vec",
+  "method": "git",
+  "description": "Word2vec implemented in nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/word2vec",
+  "tags": [
+    "nlp",
+    "natural-language-processing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.0.1, 0.0.1",
+        "hash": "21df9f28ac8c02b130aec9ded2d1712bb6240374",
+        "time": 1577400857
+      }
+    ],
+    "commit": {
+      "hash": "53e079a33be718d17a3769734c52b02cdbb2364d",
+      "time": 1633046191
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "emmy",
+  "url": "https://github.com/andreaferretti/emmy.git",
+  "method": "git",
+  "description": "Algebraic structures and related operations for Nim",
+  "license": "Apache2",
+  "web": "https://github.com/andreaferretti/emmy",
+  "tags": [
+    "algebra",
+    "polynomials",
+    "primes",
+    "ring",
+    "quotients"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19"
+          }
+        },
+        {
+          "name": "neo",
+          "str": ">= 0.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.4"
+          }
+        },
+        {
+          "name": "bigints",
+          "str": ">= 0.4.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.3"
+          }
+        },
+        {
+          "name": "stint",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "89920a80f29c090cd54a7de9e154766baf26eb76",
+        "time": 1569332394
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "9060c0e2785b10a18fbc107cbf37b36361ef00ef",
+        "time": 1546522349
+      }
+    ],
+    "commit": {
+      "hash": "c135a25cc9e899a4c231b6d2a42dd911581d82f0",
+      "time": 1545147316
+    }
+  }
+}

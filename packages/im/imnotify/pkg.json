@@ -1,0 +1,44 @@
+{
+  "name": "imnotify",
+  "url": "https://github.com/Patitotective/ImNotify",
+  "method": "git",
+  "description": "A notifications library for Dear ImGui",
+  "license": "MIT",
+  "web": "https://github.com/Patitotective/ImNotify",
+  "tags": [
+    "imgui",
+    "notifications",
+    "popup",
+    "dear-imgui",
+    "gui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.5"
+          }
+        },
+        {
+          "name": "nimgl",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "caacfbf976995e236f1b583256426e2e562ad626",
+      "time": 1664036635
+    }
+  }
+}

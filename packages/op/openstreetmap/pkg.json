@@ -1,0 +1,43 @@
+{
+  "name": "openstreetmap",
+  "url": "https://github.com/juancarlospaco/nim-openstreetmap",
+  "method": "git",
+  "description": "OpenStreetMap API Lib for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-openstreetmap",
+  "tags": [
+    "openstreetmap",
+    "multisync",
+    "async",
+    "geo",
+    "map"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "68c5e42c6003d3b9bfa19aa4183992f38817b62c",
+        "time": 1537316613
+      }
+    ],
+    "commit": {
+      "hash": "6979215809e0959e02c2e4311cd1616cc6974190",
+      "time": 1652819647
+    }
+  }
+}

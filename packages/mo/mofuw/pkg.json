@@ -1,0 +1,51 @@
+{
+  "name": "mofuw",
+  "url": "https://github.com/2vg/mofuw",
+  "method": "git",
+  "description": "mofuw is *MO*re *F*aster, *U*ltra *W*ebserver",
+  "license": "MIT",
+  "web": "https://github.com/2vg/mofuw",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "abandoned"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        },
+        {
+          "name": "https://github.com/2vg/mofuparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/2vg/mofuhttputils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "33e6c1c066129cd87bbf8e7b9b5818540001f71c",
+      "time": 1568784448
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "name": "nimwave",
+  "url": "https://github.com/ansiwave/nimwave",
+  "method": "git",
+  "description": "A TUI -> GUI library",
+  "license": "Public Domain",
+  "tags": [
+    "tui",
+    "terminal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.4"
+          }
+        },
+        {
+          "name": "ansiutils",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "illwave",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.2.1",
+        "hash": "1fc33782bb87fa97b67b0978a635e344eae9b8ab",
+        "time": 1693655883
+      },
+      {
+        "tag": "1.2.0",
+        "hash": "8021c4d4cc82e51e7160858bf902e123f6589511",
+        "time": 1671838848
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "877f3aec56a79e59638aee0714c2bbdb41426c55",
+        "time": 1671572206
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "0cc6c3c7d97e2c109bc45705d820c21fe25da681",
+        "time": 1671380915
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "4f1088406656feb3bf931e3b2f23ecbca702abd8",
+        "time": 1655648562
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "abb4268abdcb5aa5ecef5072a63bb2689c96236f",
+        "time": 1655536282
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "a2dfc2e9d37d32d6833f68463793d61cb675b641",
+        "time": 1655406628
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "3b1e7c914877f94940b8cbf43b6e60f33a826390",
+        "time": 1653980757
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "cdcca346915ca6ee683217cd76752838f277e0d9",
+        "time": 1653822764
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "b50ff793d559b1c6598817dd0d69933ae5043897",
+        "time": 1653663231
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "df78e536503b7dc3bfcfe535274b8c4ea918b505",
+        "time": 1653129614
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "48b7dd3c6570f312bfaad44d1f807587049e548b",
+        "time": 1652785458
+      }
+    ],
+    "commit": {
+      "hash": "a9a82fb39e316ad94abaab14dc3f77e7f7c2bc0c",
+      "time": 1695947885
+    }
+  }
+}

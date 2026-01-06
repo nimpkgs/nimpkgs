@@ -1,0 +1,54 @@
+{
+  "name": "kxrouter",
+  "url": "https://github.com/nitely/nim-kxrouter",
+  "method": "git",
+  "description": "A karax router with life-time events",
+  "license": "MIT",
+  "web": "https://github.com/nitely/nim-kxrouter",
+  "tags": [
+    "karax",
+    "web",
+    "router"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "karax",
+          "str": ">= 1.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "2dcd55a851ba3ac8f38e7fec8edc28b7acddc9f9",
+        "time": 1748714681
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e5b68c256185c24ba0bd8e713778943166cf450e",
+        "time": 1748535529
+      }
+    ],
+    "commit": {
+      "hash": "2dcd55a851ba3ac8f38e7fec8edc28b7acddc9f9",
+      "time": 1748714681
+    }
+  }
+}

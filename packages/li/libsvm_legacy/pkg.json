@@ -1,0 +1,34 @@
+{
+  "name": "libsvm_legacy",
+  "url": "https://github.com/nim-lang/libsvm_legacy",
+  "method": "git",
+  "description": "Wrapper for libsvm.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/libsvm_legacy",
+  "tags": [
+    "wrapper",
+    "library",
+    "scientific"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "cbc384e1842ceaf90968019eef44441b64320753",
+      "time": 1518889157
+    }
+  }
+}

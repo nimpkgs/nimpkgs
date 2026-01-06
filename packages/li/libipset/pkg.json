@@ -1,0 +1,52 @@
+{
+  "name": "libipset",
+  "url": "https://github.com/ba0f3/libipset.nim",
+  "method": "git",
+  "description": "libipset wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/ba0f3/libipset.nim",
+  "tags": [
+    "ipset",
+    "firewall",
+    "netfilter",
+    "mac",
+    "ip",
+    "network",
+    "collection",
+    "rule",
+    "set"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.11.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.0.2",
+        "hash": "962e613f867686682eb3bc13254284d9f38280a8",
+        "time": 1440042895
+      },
+      {
+        "tag": "0.0.1",
+        "hash": "a4a773eab057af8a0c6db75e1dfacaee3e18b31a",
+        "time": 1440038916
+      }
+    ],
+    "commit": {
+      "hash": "2d689ee288be6a5b95d072d2e3857fc6ba73cd03",
+      "time": 1633049822
+    }
+  }
+}

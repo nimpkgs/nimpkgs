@@ -1,0 +1,45 @@
+{
+  "name": "sha1ext",
+  "url": "https://github.com/CORDEA/sha1ext",
+  "method": "git",
+  "description": "std / sha1 extension",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/CORDEA/sha1ext",
+  "tags": [
+    "sha1",
+    "extension"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "0e52f8b74cb1e68e0ac5d5ab513260697a237e86",
+        "time": 1519772408
+      },
+      {
+        "tag": "v0.1",
+        "hash": "d51e1c6e200f385b90817650e97d383ac6a52448",
+        "time": 1519211923
+      }
+    ],
+    "commit": {
+      "hash": "0e52f8b74cb1e68e0ac5d5ab513260697a237e86",
+      "time": 1519772408
+    }
+  }
+}

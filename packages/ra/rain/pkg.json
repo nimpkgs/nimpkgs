@@ -1,0 +1,38 @@
+{
+  "name": "rain",
+  "url": "https://github.com/OHermesJunior/rain.nim",
+  "method": "git",
+  "description": "Rain simulation in your terminal",
+  "license": "MIT",
+  "web": "https://github.com/OHermesJunior/rain.nim",
+  "tags": [
+    "rain",
+    "simulation",
+    "terminal",
+    "fun"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [
+        "rain"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "6cc61747bc0393bf0dc72be4a30210d40e4d7fab",
+      "time": 1561818523
+    }
+  }
+}

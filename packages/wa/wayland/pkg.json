@@ -1,0 +1,25 @@
+{
+  "name": "wayland",
+  "url": "https://github.com/j-james/nim-wayland",
+  "method": "git",
+  "description": "Nim bindings for Wayland",
+  "license": "MIT",
+  "web": "https://github.com/j-james/nim-wayland",
+  "tags": [
+    "wayland",
+    "wrapper",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.20.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2d6b79cacb0d02ed7858d4dbfe5ebddc590a5050",
+      "time": 1659513738
+    }
+  }
+}

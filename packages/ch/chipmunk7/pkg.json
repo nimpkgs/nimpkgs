@@ -1,0 +1,44 @@
+{
+  "name": "chipmunk7",
+  "url": "https://github.com/avahe-kellenberger/nim-chipmunk",
+  "method": "git",
+  "description": "Bindings for Chipmunk, a fast and lightweight 2D game physics library.",
+  "license": "MIT",
+  "web": "https://github.com/avahe-kellenberger/nim-chipmunk",
+  "tags": [
+    "chipmunk",
+    "chipmunk7",
+    "collision",
+    "gamedev",
+    "game",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "d6609009b0ec673a418df16c4e86bbeda93b19ef",
+        "time": 1463874930
+      }
+    ],
+    "commit": {
+      "hash": "d88d08251f9bb68d6c889eb372628b90eb66d602",
+      "time": 1633680408
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "astdot",
+  "url": "https://github.com/Rekihyt/astdot",
+  "method": "git",
+  "description": "Prints a dot graph of a nim ast dumped using the `dumpTree` macro.",
+  "license": "MIT",
+  "web": "https://github.com/Rekihyt/astdot",
+  "tags": [
+    "ast",
+    "dot",
+    "jpg",
+    "tree"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        },
+        {
+          "name": "clapfn",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimgraphviz",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        }
+      ],
+      "bin": [
+        "astdot"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "54a613bebe859ca40b23aaa4e88cc155530b4499",
+      "time": 1663537617
+    }
+  }
+}

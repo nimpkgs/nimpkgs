@@ -1,0 +1,50 @@
+{
+  "name": "formatstr",
+  "url": "https://github.com/guibar64/formatstr",
+  "method": "git",
+  "description": "string interpolation, complement of std/strformat for runtime strings",
+  "license": "MIT",
+  "web": "https://github.com/guibar64/formatstr",
+  "tags": [
+    "string",
+    "format"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "12a32b2ca919797268c1277da81975c7f93cf7ce",
+        "time": 1674030870
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "b372238c0cbf7d8a53b4cbfe141aa87cd6499307",
+        "time": 1668532044
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "8d0f058aca2fcf9edeb192515835522170104881",
+        "time": 1667038400
+      }
+    ],
+    "commit": {
+      "hash": "6e04abf1f4f778e5bfb75d8d040947971a305f0e",
+      "time": 1674030616
+    }
+  }
+}

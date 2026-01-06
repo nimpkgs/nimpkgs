@@ -1,0 +1,41 @@
+{
+  "name": "pop3",
+  "url": "https://github.com/FedericoCeratto/nim-pop3",
+  "method": "git",
+  "description": "POP3 client library",
+  "license": "LGPLv3",
+  "web": "https://github.com/FedericoCeratto/nim-pop3",
+  "tags": [
+    "network",
+    "pop3",
+    "email"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "3b2bfe0f9bc5de1804c3eea6e45e0a273de0007c",
+        "time": 1552216416
+      }
+    ],
+    "commit": {
+      "hash": "8abeeaf6b288c1f5745244344cb53b965dd55739",
+      "time": 1552216621
+    }
+  }
+}

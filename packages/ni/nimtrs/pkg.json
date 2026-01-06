@@ -1,0 +1,69 @@
+{
+  "name": "nimtrs",
+  "url": "https://github.com/haxscramper/nimtrs",
+  "method": "git",
+  "description": "Nim term rewriting system",
+  "license": "Apache-2.0",
+  "web": "https://github.com/haxscramper/nimtrs",
+  "tags": [
+    "term-rewriting",
+    "unification",
+    "pattern-matching",
+    "macro",
+    "ast",
+    "template"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.13",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.4"
+          }
+        },
+        {
+          "name": "hmisc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "hdrawing",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "hpprint",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "hnimast",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1f09c81ada6ecdabcbf06b6fb9d8dfa17e66640c",
+      "time": 1631989107
+    }
+  }
+}

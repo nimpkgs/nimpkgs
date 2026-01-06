@@ -1,0 +1,86 @@
+{
+  "name": "waterpark",
+  "url": "https://github.com/guzba/waterpark",
+  "method": "git",
+  "description": "Thread-safe database connection pools",
+  "license": "MIT",
+  "web": "https://github.com/guzba/waterpark",
+  "tags": [
+    "threads",
+    "postgres",
+    "sqlite",
+    "mysql",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.7",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.8"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.7",
+        "hash": "eed8b85c5969b0680fd504008a2d6c9c1a941324",
+        "time": 1705349067
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "9d551f2afc7c0530fbb640e00aab655723c3873e",
+        "time": 1703620267
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "41c682c3cd1f44e4ccbe4351998b59f274d43a93",
+        "time": 1698023534
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "beb28ba5e51975bd6097991bea77938e60598028",
+        "time": 1692333037
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "3954e8751bda2a674580c83e2fd97fd721ae0507",
+        "time": 1676049476
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "35fdc72c973297303e8d5aa963ae0717a7a18d16",
+        "time": 1675103677
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "7f8b26d72cb5c45ec87780903c98760c958938d2",
+        "time": 1673477708
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "d06253d8fc5592cd3c205308088bd1df28466c88",
+        "time": 1670880254
+      }
+    ],
+    "commit": {
+      "hash": "71a579673f987e72354d33d4fba9e5e2c2f1ff66",
+      "time": 1707633471
+    }
+  }
+}

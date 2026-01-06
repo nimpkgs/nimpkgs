@@ -1,0 +1,88 @@
+{
+  "name": "googlesearch",
+  "url": "https://github.com/xyb/googlesearch.nim",
+  "method": "git",
+  "description": "library for scraping google search results",
+  "license": "MIT",
+  "web": "https://github.com/xyb/googlesearch.nim",
+  "doc": "https://xyb.github.io/googlesearch.nim/",
+  "tags": [
+    "google",
+    "search"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "nimquery",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [
+        "googlesearch",
+        "googledistance"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.4.2",
+        "hash": "222b7b9aaf48b13c491d65f6d0eb1948cf35947b",
+        "time": 1647528448
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "903e4b2df27cafd3d7d955ada421162cb91f4496",
+        "time": 1605499670
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "e60da13f64592a695de3a3c9c409a71f7ffb0467",
+        "time": 1605457242
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "0f4eb092ee3b9bf537360ac31c47aa1190addb97",
+        "time": 1594978545
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "8859085ed2a24df2e92cadeb0200b117f054b566",
+        "time": 1574436955
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "9e62747bf0e819add655005511ddcf3fb3ff2333",
+        "time": 1574435211
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "d59c4b1355a6834a5a5783a4b655c640834dc9d9",
+        "time": 1574432822
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "b38d780a59475f81945597d7bf55caa1e66d41aa",
+        "time": 1574427906
+      }
+    ],
+    "commit": {
+      "hash": "222b7b9aaf48b13c491d65f6d0eb1948cf35947b",
+      "time": 1647528448
+    }
+  }
+}

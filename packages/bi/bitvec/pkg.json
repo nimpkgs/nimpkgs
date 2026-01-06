@@ -1,0 +1,34 @@
+{
+  "name": "bitvec",
+  "url": "https://github.com/keyme/nim_bitvec",
+  "method": "git",
+  "description": "Extensible bit vector integer encoding library",
+  "license": "MIT",
+  "web": "https://github.com/keyme/nim_bitvec",
+  "tags": [
+    "serialization",
+    "encoding",
+    "wireline"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6d01fd9d68f8544d09173a519b632dfe61e5b8ee",
+      "time": 1536765937
+    }
+  }
+}

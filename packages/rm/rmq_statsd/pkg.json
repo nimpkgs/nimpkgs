@@ -1,0 +1,85 @@
+{
+  "name": "rmq_statsd",
+  "url": "https://github.com/Q-Master/rmq-statsd.nim",
+  "method": "git",
+  "description": "Pure nim rabbitmq to statsd metrics pusher",
+  "license": "MIT",
+  "web": "https://github.com/Q-Master/rmq-statsd.nim",
+  "tags": [
+    "rabbitmq",
+    "statsd",
+    "metrics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "amqpstats",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "simplestatsdclient",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "rmq-statsd"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "99801806ba65a12430262da8d8a26116511e80b2",
+        "time": 1732545992
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "0299fdab05a9befea7d242fdebafe792d1100af0",
+        "time": 1730063795
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "9cf5a29d6ac17826ac1a5bec62630162a731af24",
+        "time": 1729603606
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "cc28ca4a9fdce2349047adf86bbbe01cdad64daf",
+        "time": 1711921274
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "4c24c041aca0a0ea2a046a3cdcdcd6de0b6bf1fc",
+        "time": 1711634837
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "6ce8b9e72cee0dab7358434ad413f93ba09a3712",
+        "time": 1709058185
+      }
+    ],
+    "commit": {
+      "hash": "99801806ba65a12430262da8d8a26116511e80b2",
+      "time": 1732545992
+    }
+  }
+}

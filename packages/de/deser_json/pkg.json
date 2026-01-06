@@ -1,0 +1,71 @@
+{
+  "name": "deser_json",
+  "url": "https://github.com/gabbhack/deser_json",
+  "method": "git",
+  "description": "JSON-Binding for deser",
+  "license": "MIT",
+  "web": "https://github.com/gabbhack/deser_json",
+  "tags": [
+    "JSON",
+    "library",
+    "serialization",
+    "deserialization",
+    "deser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "deser",
+          "str": ">= 0.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "a8ab20f4834b44acde4496438c041c89ace38476",
+        "time": 1681228936
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "d651a89328e04183cfe20e4fb1c58a6d1bc4c6af",
+        "time": 1661356255
+      },
+      {
+        "tag": "v0.1.1-1",
+        "hash": "8a9b1321d872938154d50e0ca6dbd80289041c86",
+        "time": 1661355723
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "b716555f6e303836b72f989ea0f28b4440983584",
+        "time": 1661355537
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "e84acf4e2bab02127792b85432bf73c17c8f1536",
+        "time": 1661346115
+      }
+    ],
+    "commit": {
+      "hash": "a8ab20f4834b44acde4496438c041c89ace38476",
+      "time": 1681228936
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "cbor",
+  "url": "https://git.sr.ht/~ehmry/nim_cbor",
+  "method": "git",
+  "description": "Concise Binary Object Representation decoder",
+  "license": "Unlicense",
+  "web": "https://git.sr.ht/~ehmry/nim_cbor",
+  "tags": [
+    "binary",
+    "cbor",
+    "library",
+    "serialization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        },
+        {
+          "name": "bigints",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "bin/cbordiag"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "nim-cbor-0.9.0, 0.9.0",
+        "hash": "0eaf828238ab1c595a3851c319062e47886504e7",
+        "time": 1650822420
+      },
+      {
+        "tag": "v0.8.1",
+        "hash": "1ae2ef2abfcc12ca30ba7852df322ca9efb73e0a",
+        "time": 1637683799
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "a77c79bfa4446183a1c7366e5e398fd19a58a561",
+        "time": 1626691469
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "6629bc0e2c058c1359df79802f7bccc7f283b81d",
+        "time": 1602056243
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "c52f626f81ba35284aac07c2ef0fa0e460f929b1",
+        "time": 1560073565
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "544bd47708c1cd18880c4179e5aa48526e77baf4",
+        "time": 1553005738
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "03458b64c05ddbbc0948037439656ab36de6525c",
+        "time": 1536428713
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "5c08f7cb2a35acfd777c25348af651c5181c6371",
+        "time": 1536326335
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "817924bdd7f4816b199ab4008531fa5b9477f902",
+        "time": 1528103514
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "bc7c9a880055a3a2a3ac88878198e601f513da69",
+        "time": 1524995788
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "61e84e06ab098014bbd006075aad97d9768a9804",
+        "time": 1513705386
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "e08e07ef143a481c3f06546be86cbb1872663b01",
+        "time": 1510341903
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0d0496544d66069f4ffe81289d7468f32ff4ac71",
+        "time": 1507768654
+      }
+    ],
+    "commit": {
+      "hash": "cca1d42e5f0cf683248b6d967407956ba165a0f2",
+      "time": 1754425914
+    }
+  }
+}

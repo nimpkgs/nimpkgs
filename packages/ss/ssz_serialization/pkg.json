@@ -1,0 +1,107 @@
+{
+  "name": "ssz_serialization",
+  "url": "https://github.com/status-im/nim-ssz-serialization",
+  "method": "git",
+  "description": "Nim implementation of the Ethereum SSZ serialization format",
+  "license": "MIT",
+  "web": "https://github.com/status-im/nim-ssz-serialization",
+  "tags": [
+    "library",
+    "ssz",
+    "serialization",
+    "ethereum"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.10"
+          }
+        },
+        {
+          "name": "serialization",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "json_serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.4.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.2"
+          }
+        },
+        {
+          "name": "stint",
+          "str": ">= 0.8.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.2"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "blscurve",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "hashtree_abi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e5cfee930d2452ed5add7cc8447ec0aa88dcb041",
+      "time": 1767699245
+    }
+  }
+}

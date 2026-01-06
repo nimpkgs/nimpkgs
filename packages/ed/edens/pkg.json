@@ -1,0 +1,54 @@
+{
+  "name": "edens",
+  "url": "https://github.com/jiro4989/edens",
+  "method": "git",
+  "description": "A command to encode / decode text with your dictionary",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/edens",
+  "tags": [
+    "cli",
+    "command",
+    "encode",
+    "decode",
+    "joke"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 0.9.32",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.32"
+          }
+        }
+      ],
+      "bin": [
+        "edens"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "19d8574deb4f95f1321bb0ef8295254d1221554a",
+        "time": 1573578044
+      }
+    ],
+    "commit": {
+      "hash": "19d8574deb4f95f1321bb0ef8295254d1221554a",
+      "time": 1573578044
+    }
+  }
+}

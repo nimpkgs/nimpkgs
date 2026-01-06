@@ -1,0 +1,33 @@
+{
+  "name": "mui",
+  "url": "https://github.com/angluca/mui",
+  "method": "git",
+  "description": "A tiny immediate-mode UI library",
+  "license": "MIT",
+  "web": "https://github.com/angluca/mui",
+  "tags": [
+    "ui",
+    "microui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "fb996aed79743abb3fbbbd3c9a18aecdcb00cb3e",
+      "time": 1706194258
+    }
+  }
+}

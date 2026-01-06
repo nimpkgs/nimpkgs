@@ -1,0 +1,64 @@
+{
+  "name": "notify",
+  "url": "https://github.com/xbello/notify-nim",
+  "method": "git",
+  "description": "A wrapper to notification libraries",
+  "license": "MIT",
+  "web": "https://github.com/xbello/notify-nim",
+  "tags": [
+    "notify",
+    "libnotify",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [
+        "notify"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.5",
+        "hash": "325b098374f4f40aa24f65c9178ea07555f8bd28",
+        "time": 1563363776
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "5e2ebf217657393cd6b0230f988860d4c1960e27",
+        "time": 1559820949
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "17ab6e8aecffd0d7a0932e898252287b3037afd6",
+        "time": 1553259729
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "340dc9d02e6234394b8829f315bb12ab4296fe5b",
+        "time": 1553254429
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a3301eadb64a9f3a45ebbc4b8b67b81b9cc9f13e",
+        "time": 1553253675
+      }
+    ],
+    "commit": {
+      "hash": "6dcd5d9944ccc13c67911de64a6a78d941fecb9b",
+      "time": 1563865110
+    }
+  }
+}

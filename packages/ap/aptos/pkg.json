@@ -1,0 +1,84 @@
+{
+  "name": "aptos",
+  "url": "https://github.com/C-NERD/nimAptos",
+  "method": "git",
+  "description": "aptos library for nim lang",
+  "license": "MIT",
+  "web": "https://github.com/C-NERD/nimAptos",
+  "tags": [
+    "aptos",
+    "cryptocurrency",
+    "web3",
+    "crypto",
+    "coin",
+    "sdk",
+    "bcs",
+    "movelang",
+    "move"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "libsodium",
+          "str": "0.7.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.7.1"
+          }
+        },
+        {
+          "name": "sha3",
+          "str": "0.7.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.7.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "0.6.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "bcs",
+          "str": "0.3.6",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.3.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "962d512d7ca1bf57f5c0ed0b4472d74a9b6bf7c6",
+        "time": 1740928451
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "08b838ac9de050aa9576c913d951aa25602378b1",
+        "time": 1718971544
+      }
+    ],
+    "commit": {
+      "hash": "962d512d7ca1bf57f5c0ed0b4472d74a9b6bf7c6",
+      "time": 1740928451
+    }
+  }
+}

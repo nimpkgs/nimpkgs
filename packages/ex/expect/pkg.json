@@ -1,0 +1,41 @@
+{
+  "name": "expect",
+  "url": "https://codeberg.org/penguinite/expect",
+  "method": "git",
+  "description": "Rust-style expect procedures",
+  "license": "BSD-3-Clause",
+  "web": "https://pony.biz/expect/",
+  "tags": [
+    "rust",
+    "expect",
+    "basic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "04f9367e1656ab63c27f1898467ae53a64be8d9c",
+        "time": 1715942227
+      }
+    ],
+    "commit": {
+      "hash": "9e4d087f6111f78ccbb928fdaefe56f35db58113",
+      "time": 1754677327
+    }
+  }
+}

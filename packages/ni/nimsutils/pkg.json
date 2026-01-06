@@ -1,0 +1,35 @@
+{
+  "name": "nimsutils",
+  "url": "https://github.com/FyraLabs/nimsutils",
+  "method": "git",
+  "description": "Common utils for Nimscript",
+  "license": "MIT",
+  "web": "https://github.com/FyraLabs/nimsutils",
+  "tags": [
+    "nimscript",
+    "nims",
+    "utils",
+    "sugar"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a24c77999e501cb10847312d393f35f4c106cd6a",
+      "time": 1741968263
+    }
+  }
+}

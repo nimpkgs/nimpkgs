@@ -1,0 +1,89 @@
+{
+  "name": "nimcrypto",
+  "url": "https://github.com/cheatfate/nimcrypto",
+  "method": "git",
+  "description": "Nim cryptographic library",
+  "license": "MIT",
+  "web": "https://github.com/cheatfate/nimcrypto",
+  "tags": [
+    "crypto",
+    "hashes",
+    "ciphers",
+    "keccak",
+    "sha3",
+    "blowfish",
+    "twofish",
+    "rijndael",
+    "csprng",
+    "hmac",
+    "ripemd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.7.3",
+        "hash": "b3dbc9c4d08e58c5b7bfad6dc7ef2ee52f2f4c08",
+        "time": 1766841358
+      },
+      {
+        "tag": "v0.7.2",
+        "hash": "8085515e717b07e29de1ef50d5e9f15a3f6004c0",
+        "time": 1758534019
+      },
+      {
+        "tag": "v0.7.1",
+        "hash": "4cd710e56e7b5bb4ea8c611239a55343170fa56c",
+        "time": 1757611187
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "44b2dd96a4570da77be4746ede99cc8be75ffed7",
+        "time": 1757161155
+      },
+      {
+        "tag": "v0.6.4",
+        "hash": "721fb99ee099b632eb86dfad1f0d96ee87583774",
+        "time": 1753714287
+      },
+      {
+        "tag": "v0.6.3",
+        "hash": "19c41d6be4c00b4a2c8000583bd30cf8ceb5f4b1",
+        "time": 1746619920
+      },
+      {
+        "tag": "v0.6.2",
+        "hash": "dc07e3058c6904eef965394493b6ea99aa2adefc",
+        "time": 1728865977
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "a0b65f2a0dba987c75eadf03f811fb5508fd3372",
+        "time": 1727119685
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "71bca15508e2c0548f32b42a69bcfb1ccd9ab9ff",
+        "time": 1717708430
+      }
+    ],
+    "commit": {
+      "hash": "423ea4fed8de6f4544b7e3b30d868f527ed3b947",
+      "time": 1767620777
+    }
+  }
+}

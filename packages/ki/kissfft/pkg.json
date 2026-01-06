@@ -1,0 +1,25 @@
+{
+  "name": "kissfft",
+  "url": "https://github.com/m13253/nim-kissfft",
+  "method": "git",
+  "description": "Nim binding for KissFFT Fast Fourier Transform library",
+  "license": "BSD",
+  "web": "https://github.com/m13253/nim-kissfft",
+  "tags": [
+    "fft",
+    "dsp",
+    "signal"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "8ac38ac8e770209e75e68c7014ef3dc6858af8c9",
+      "time": 1548458352
+    }
+  }
+}

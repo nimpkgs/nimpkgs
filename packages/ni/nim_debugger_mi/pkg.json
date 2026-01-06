@@ -1,0 +1,106 @@
+{
+  "name": "nim_debugger_mi",
+  "url": "https://github.com/YesDrX/nimdebugger",
+  "method": "git",
+  "description": "A gdb/lldb machine interface proxy to deal with nim symbol name mangle/demangle.",
+  "license": "MIT",
+  "web": "https://github.com/YesDrX/nimdebugger",
+  "tags": [
+    "gdb",
+    "lldb",
+    "debugger",
+    "debug"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "glob",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "subprocess",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        }
+      ],
+      "bin": [
+        "nim_debugger_mi"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.4.0",
+        "hash": "964ea40a0781cf42cac79796d0fc91169d3ac1e6",
+        "time": 1765984640
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "553eeb59aff83b2adb4703416d3b612a54296302",
+        "time": 1765567597
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "24359a65f7cfce00745e07425e08bd74665341d2",
+        "time": 1765555280
+      },
+      {
+        "tag": "0.2.6",
+        "hash": "78f100c3046db295e9dfbbb21c16ed88dc523386",
+        "time": 1765503054
+      },
+      {
+        "tag": "0.2.5",
+        "hash": "6e88f7969c4cc8c62bf4591e4a9babc7df595400",
+        "time": 1765501356
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "affa96155ef2208e563ba0661d545a7e079584c4",
+        "time": 1765222855
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "ad3d5ae7ac3c57d184635da81fa6a826e2d75c36",
+        "time": 1765221979
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "a99c0cfb682e7d2797befeafc7cf5d29f374ae29",
+        "time": 1765221488
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "32769a6aa7ba4ca5e6f4b4c5795b7229fafb68df",
+        "time": 1765213572
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "7ba2f705420da648d74f7a41822ba3fcd225efa1",
+        "time": 1765212596
+      }
+    ],
+    "commit": {
+      "hash": "d9d03e7d0f83af254d4395b3e581f39832488454",
+      "time": 1765999460
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "libplist",
+  "url": "https://github.com/samdmarshall/libplist.nim",
+  "method": "git",
+  "description": "wrapper around libplist https://github.com/libimobiledevice/libplist",
+  "license": "MIT",
+  "web": "https://github.com/samdmarshall/libplist.nim",
+  "tags": [
+    "libplist",
+    "property",
+    "list",
+    "property-list",
+    "parsing",
+    "binary",
+    "xml",
+    "format"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src/"
+    },
+    "commit": {
+      "hash": "d60a96be1a9366d7dbb0b65223f153ff2743d184",
+      "time": 1550264073
+    }
+  }
+}

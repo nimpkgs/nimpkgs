@@ -1,0 +1,45 @@
+{
+  "name": "libclip",
+  "url": "https://github.com/jabbalaci/libclip",
+  "method": "git",
+  "description": "A cross-platform Nim library for reading/writing text from/to the clipboard",
+  "license": "MIT",
+  "web": "https://github.com/jabbalaci/libclip",
+  "tags": [
+    "clipboard",
+    "library",
+    "cross-platform",
+    "copy",
+    "paste",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "winim",
+          "str": ">= 3.9.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.9.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "842e0863f3d418e79aef44ed4b8aa205792d0cc9",
+      "time": 1757333954
+    }
+  }
+}

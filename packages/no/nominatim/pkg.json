@@ -1,0 +1,42 @@
+{
+  "name": "nominatim",
+  "url": "https://github.com/juancarlospaco/nim-nominatim",
+  "method": "git",
+  "description": "OpenStreetMap Nominatim API Lib for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-nominatim",
+  "tags": [
+    "openstreetmap",
+    "nominatim",
+    "multisync",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.5",
+        "hash": "12cb97d59b0bfd977cfbf9bcd4f828f993e878a8",
+        "time": 1541090437
+      }
+    ],
+    "commit": {
+      "hash": "4be3a868971d627d2682caf340389e175fcee99f",
+      "time": 1559843532
+    }
+  }
+}

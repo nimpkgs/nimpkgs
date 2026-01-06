@@ -1,0 +1,38 @@
+{
+  "name": "jv",
+  "url": "https://github.com/meenbeese/jv",
+  "method": "git",
+  "description": "A Java version manager and build tool written in Nim",
+  "license": "MIT",
+  "web": "https://github.com/meenbeese/jv",
+  "tags": [
+    "java",
+    "nim",
+    "build-tool",
+    "version-manager"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "jv"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "4a3740b3f4d0ae04f5c7d812c007867a05bf68f6",
+      "time": 1746132203
+    }
+  }
+}

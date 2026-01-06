@@ -1,0 +1,84 @@
+{
+  "name": "bamboo_websocket",
+  "url": "https://github.com/obemaru4012/bamboo_websocket",
+  "method": "git",
+  "description": "This is a simple implementation of a WebSocket server with 100% Nim.",
+  "license": "MIT",
+  "web": "https://github.com/obemaru4012/bamboo_websocket",
+  "tags": [
+    "websocket"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.3.3",
+        "hash": "8bf5e4c3ae1b9514a3d1810202271a14da525094",
+        "time": 1733083358
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "365f32fe229103dfb437b4772fd46d6b05cb21e6",
+        "time": 1696486185
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "06a5ee5d83284215176905b1881be0a680283d4f",
+        "time": 1668579189
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "57d70d3af9e1c7535a7b69ffe111e7d02cfbf8d8",
+        "time": 1655439281
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "89726d16298e191660c6fd2e01ff8c6905d9581f",
+        "time": 1655174151
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "8c02d19429193252a6fd38b5689526d048775a6a",
+        "time": 1655081360
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "fbdb6e54212d220fb1ff72aa9adf57723ac0ce93",
+        "time": 1653445047
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "5c180f0c4b2e347d2fb05fdd5b2b7639d9f998f0",
+        "time": 1651040753
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "a3d09b3523272fc6eb31328cb740dd0d6e5c6644",
+        "time": 1650945408
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "4ca10a8c0f5c220c4f6fcb405e3923b7ee54e271",
+        "time": 1650945229
+      }
+    ],
+    "commit": {
+      "hash": "92539ce8b53f6abf422393fb8dfa7495043f213c",
+      "time": 1733083381
+    }
+  }
+}

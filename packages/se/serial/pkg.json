@@ -1,0 +1,87 @@
+{
+  "name": "serial",
+  "url": "https://github.com/euantorano/serial.nim",
+  "method": "git",
+  "description": "A library to operate serial ports using pure Nim.",
+  "license": "BSD3",
+  "web": "https://github.com/euantorano/serial.nim",
+  "tags": [
+    "serial",
+    "rs232",
+    "io",
+    "serialport"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.2.0",
+        "hash": "dd0ab807b34bd8221e6c1ac83ed8ffa31bc39d8e",
+        "time": 1706094741
+      },
+      {
+        "tag": "1.1.6",
+        "hash": "868ff1bb8114d86e718f71dfa64a202900d0aff1",
+        "time": 1701245503
+      },
+      {
+        "tag": "v1.1.5",
+        "hash": "d1f900de95c47cfce7d94e70c04d8ff276422490",
+        "time": 1602695102
+      },
+      {
+        "tag": "v1.1.4",
+        "hash": "ccb64fbd29f2aeeec755b6177e0b87f7ea91ba93",
+        "time": 1585676457
+      },
+      {
+        "tag": "v1.1.3",
+        "hash": "39613749a7f137a2f8390dbbd699741bd872bbdd",
+        "time": 1579558760
+      },
+      {
+        "tag": "v1.1.2",
+        "hash": "8086b6f04a9f6403d41fdb2ff6aeb8b91efd0be2",
+        "time": 1544986396
+      },
+      {
+        "tag": "v1.1.1",
+        "hash": "0b06f8df78e15395ee1ecd03a04552f1518b79f2",
+        "time": 1544869617
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "c0bbe66ab4e97527e9ddba00d8a5cbbd3879c034",
+        "time": 1532529436
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "f8151c9f963438eaf65f91bd7a2b35f165ceed70",
+        "time": 1503168151
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "77e8c970b467726dc79f0277bf3e3c0a2029c353",
+        "time": 1486917496
+      }
+    ],
+    "commit": {
+      "hash": "dd0ab807b34bd8221e6c1ac83ed8ffa31bc39d8e",
+      "time": 1706094741
+    }
+  }
+}

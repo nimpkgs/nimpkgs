@@ -1,0 +1,54 @@
+{
+  "name": "records",
+  "url": "https://github.com/rotu/nim-records",
+  "method": "git",
+  "description": "Operations on tuples as heterogeneous record types a la Relational Algebra",
+  "license": "MIT",
+  "web": "https://github.com/rotu/nim-records",
+  "tags": [
+    "tuples",
+    "tuple",
+    "relation",
+    "relational",
+    "algebra",
+    "records",
+    "record",
+    "heterogeneous",
+    "strongly",
+    "statically",
+    "typed"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.5.2",
+        "hash": "2bbbd1b8f61d33e7135d02fe8f2bacbea6ec3ab3",
+        "time": 1662572608
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "399b932040a8fb30fb3a1069ce9e0fe1ededec09",
+        "time": 1660543131
+      }
+    ],
+    "commit": {
+      "hash": "eea8cf425084d4e8a2fdc85de8e8e8a67be534ec",
+      "time": 1689185347
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "nimodpi",
+  "url": "https://github.com/mikra01/nimodpi",
+  "method": "git",
+  "description": "oracle odpi-c wrapper for Nim",
+  "license": "MIT",
+  "web": "https://github.com/mikra01/nimodpi",
+  "tags": [
+    "oracle",
+    "odpi-c",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.6"
+          }
+        },
+        {
+          "name": "nimterop",
+          "str": ">= 0.6.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.11"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0a2599b2d44a015297358e446937d9edd15f6787",
+      "time": 1714906615
+    }
+  }
+}

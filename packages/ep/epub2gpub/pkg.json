@@ -1,0 +1,55 @@
+{
+  "name": "epub2gpub",
+  "url": "https://gitlab.com/mars2klb/epub2gpub",
+  "method": "git",
+  "description": "Convert epub to gpub (https://codeberg.org/oppenlab/gempub)",
+  "license": "MIT",
+  "web": "https://gitlab.com/mars2klb/epub2gpub",
+  "tags": [
+    "epub",
+    "gpub",
+    "gemini",
+    "ebook",
+    "convert"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.5"
+          }
+        },
+        {
+          "name": "commandant",
+          "str": ">= 0.15.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.15.0"
+          }
+        }
+      ],
+      "bin": [
+        "epub2gpub"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "a3379efc9a291f231164899bc1d84568d43f286f",
+      "time": 1678171955
+    }
+  }
+}

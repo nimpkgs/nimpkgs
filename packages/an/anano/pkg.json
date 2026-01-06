@@ -1,0 +1,51 @@
+{
+  "name": "anano",
+  "url": "https://github.com/ire4ever1190/anano",
+  "method": "git",
+  "description": "Another nanoID implementation for nim",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/anano",
+  "doc": "https://tempdocs.netlify.app/anano/stable",
+  "tags": [
+    "identifier",
+    "random"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "2534c8fc60f463fd7f9573ce235c0c07f632af45",
+        "time": 1657852303
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "6d5c2349586ad6f1e4a7a256d51ea3c8c8629e09",
+        "time": 1655699853
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a218953cfcbea45b20ede439ccd4bbccbe7a0a69",
+        "time": 1655523523
+      }
+    ],
+    "commit": {
+      "hash": "9ca46a5ca963fb0b176d08ef743a175ff915d90b",
+      "time": 1699067513
+    }
+  }
+}

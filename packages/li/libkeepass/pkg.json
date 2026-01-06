@@ -1,0 +1,70 @@
+{
+  "name": "libkeepass",
+  "url": "https://github.com/PMunch/libkeepass",
+  "method": "git",
+  "description": "Library for reading KeePass files and decrypt the passwords within it",
+  "license": "MIT",
+  "web": "https://github.com/PMunch/libkeepass",
+  "tags": [
+    "keepass",
+    "password",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        },
+        {
+          "name": "zip",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "chacha20",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "a4de15a9121e50d782ddb108c4f8ba14bb61dbb1",
+        "time": 1719345634
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "76e6902ea7c578b246a56fd4e902eec92c75fce4",
+        "time": 1681471420
+      }
+    ],
+    "commit": {
+      "hash": "a4de15a9121e50d782ddb108c4f8ba14bb61dbb1",
+      "time": 1719345634
+    }
+  }
+}

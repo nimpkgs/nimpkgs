@@ -1,0 +1,48 @@
+{
+  "name": "obfusel",
+  "url": "https://github.com/Luteva-ssh/obfusel",
+  "method": "git",
+  "description": "An obfuscator for excel sheets. If you are not allowed to transfer data to an AI system, this can be an easy solution :).",
+  "license": "MIT",
+  "web": "https://github.com/Luteva-ssh/obfusel",
+  "tags": [
+    "obfuscator",
+    "obfuscate",
+    "excel",
+    "xlsx",
+    "xl",
+    "ai"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "xl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "obfusel"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "3af46de6eef89cbb9d5a2acb60dfb8d85efe907b",
+      "time": 1749794282
+    }
+  }
+}

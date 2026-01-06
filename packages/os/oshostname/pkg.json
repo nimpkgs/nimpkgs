@@ -1,0 +1,33 @@
+{
+  "name": "oshostname",
+  "url": "https://github.com/jrfondren/nim-oshostname",
+  "method": "git",
+  "description": "Get the current hostname with gethostname(2)",
+  "license": "MIT",
+  "web": "https://github.com/jrfondren/nim-oshostname",
+  "tags": [
+    "posix",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "5b4c84de2004ebede91b0b61617fa16b87141eaf",
+      "time": 1689906363
+    }
+  }
+}

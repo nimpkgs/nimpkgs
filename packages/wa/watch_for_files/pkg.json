@@ -1,0 +1,35 @@
+{
+  "name": "watch_for_files",
+  "url": "https://github.com/hamidb80/watch_for_files",
+  "method": "git",
+  "description": "cross-platform file watcher with database",
+  "license": "MIT",
+  "web": "https://github.com/hamidb80/watch_for_files",
+  "tags": [
+    "file-watcher",
+    "file",
+    "watcher",
+    "cross-platform"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0d1eef2fbead0aebc7ca9bc1ef148a4bb6a2fecb",
+      "time": 1630241266
+    }
+  }
+}

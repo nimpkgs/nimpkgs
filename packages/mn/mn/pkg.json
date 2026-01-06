@@ -1,0 +1,59 @@
+{
+  "name": "mn",
+  "url": "https://github.com/h3rald/mn",
+  "method": "git",
+  "description": "A truly minimal concatenative programming language.",
+  "license": "MIT",
+  "web": "https://h3rald.com/mn",
+  "tags": [
+    "concatenative",
+    "language",
+    "shell"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        }
+      ],
+      "bin": [
+        "mn"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
+        "time": 1701527978
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "db1a0d76fb3d9325f18b9d6ef90cbcc0b6ede092",
+        "time": 1668265178
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "206c1904ab8b8283937eb928af672a06f209f75e",
+        "time": 1619121317
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "115c22fbfd465f652cd6c28313cb0f6754dcc8e2",
+        "time": 1617302995
+      }
+    ],
+    "commit": {
+      "hash": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
+      "time": 1701527978
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "zxcvbn",
+  "url": "https://github.com/status-im/nim-zxcvbn",
+  "method": "git",
+  "description": "Nim bindings for the zxcvbn-c password strength estimation library",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/status-im/nim-zxcvbn",
+  "tags": [
+    "security",
+    "passwords",
+    "entropy"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "testutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "d827fdc9968a4f06bba587dc38df2b20399f8cf5",
+      "time": 1736760832
+    }
+  }
+}

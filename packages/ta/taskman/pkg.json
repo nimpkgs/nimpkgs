@@ -1,0 +1,97 @@
+{
+  "name": "taskman",
+  "url": "https://github.com/ire4ever1190/taskman",
+  "method": "git",
+  "description": "A package that manages background tasks on a schedule",
+  "license": "MIT",
+  "web": "https://github.com/ire4ever1190/taskman",
+  "doc": "https://tempdocs.netlify.app/taskman/stable",
+  "tags": [
+    "scheduler",
+    "task",
+    "job"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.5.5",
+        "hash": "81ef3911d5343c633afed336bcfa3c7f976edddf",
+        "time": 1708678024
+      },
+      {
+        "tag": "0.5.4",
+        "hash": "d7e94db0626f6ef8f7dbd292730dbe9d392d8352",
+        "time": 1675829910
+      },
+      {
+        "tag": "0.5.3",
+        "hash": "89858026d07daab4312ce6a0bcf44034e303fd0d",
+        "time": 1670835557
+      },
+      {
+        "tag": "0.5.2",
+        "hash": "87fe2df1037e5b7df194c58d6cd92a04381e0605",
+        "time": 1668746510
+      },
+      {
+        "tag": "0.5.1",
+        "hash": "52e25c905de0f44c1a7cdb3cdf4bd5478520fa06",
+        "time": 1666486645
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "656c5f4b1321dd52e83fadf45d1760617dce1a73",
+        "time": 1651901371
+      },
+      {
+        "tag": "0.4.1",
+        "hash": "3db3193e8f2bc0ffbd2fe69bfafcaf456923710d",
+        "time": 1639889843
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "928237e05bcd03ab78dd15852fb841195699fd11",
+        "time": 1638174903
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "40e82f27ac44de72eb1f209b2599f55cd24471aa",
+        "time": 1636197304
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "891475e3355b157093652e7e0bf2fa7f1e09b74b",
+        "time": 1635490848
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "01b043ed2daa21eb481ed98b0f1b821d8a36917f",
+        "time": 1624024021
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a826e07b7a5d9842e341e18267a5b6b8d23fb022",
+        "time": 1624023229
+      }
+    ],
+    "commit": {
+      "hash": "4587b9ae2065be23573b372ce3abea24fae91800",
+      "time": 1738454579
+    }
+  }
+}

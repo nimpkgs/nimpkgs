@@ -1,0 +1,51 @@
+{
+  "name": "nimi3status",
+  "url": "https://github.com/FedericoCeratto/nimi3status",
+  "method": "git",
+  "description": "Lightweight i3 status bar.",
+  "license": "GPLv3",
+  "web": "https://github.com/FedericoCeratto/nimi3status",
+  "tags": [
+    "i3",
+    "i3status"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "colorsys",
+          "str": ">= 0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1"
+          }
+        },
+        {
+          "name": "nim",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimi3status"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "298c8912a3f15af43adb5f4c0eb702c848302254",
+        "time": 1554310718
+      }
+    ],
+    "commit": {
+      "hash": "8f070be9c8dee0388feaebc2c9af7af0bf3a0e4d",
+      "time": 1565649001
+    }
+  }
+}

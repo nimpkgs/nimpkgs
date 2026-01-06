@@ -1,0 +1,223 @@
+{
+  "name": "zfplugs",
+  "url": "https://github.com/zendbit/nim_zfplugs",
+  "method": "git",
+  "description": "This is the plugins for the zfcore framework https://github.com/zendbit/nim_zfcore",
+  "license": "BSD",
+  "web": "https://github.com/zendbit/nim_zfplugs",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "api",
+    "asynchttpserver",
+    "plugins"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "zfdbms",
+          "str": ">= 0.0.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.10"
+          }
+        },
+        {
+          "name": "zfcore",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        },
+        {
+          "name": "mustache",
+          "str": ">= 0.4.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.5.5",
+        "hash": "27167132a23c651cec78282b6cd0125f62e0d472",
+        "time": 1693393893
+      },
+      {
+        "tag": "v0.5.4",
+        "hash": "55734cacbab4ae08ae5380d4a9248f923ae2e6dd",
+        "time": 1693388705
+      },
+      {
+        "tag": "v0.5.3",
+        "hash": "6959182fb5f024342add70eedfe4493c15a8847f",
+        "time": 1690380487
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "cc24126412a6b13d38c1a6e17e6b323841ef3dd3",
+        "time": 1689169937
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "4395ce15bb5dc5eae468c6abfd49f4d3eb4b10fe",
+        "time": 1678903425
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "bbadb2bc7964b15e6d309fbe97ad0922f441aa3c",
+        "time": 1678565248
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "4657d1809745585877494f8a7fb6a9a90c7f7c05",
+        "time": 1678437347
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "b4446475e241b8d8415183a8ed2170f933f44ddd",
+        "time": 1676183853
+      },
+      {
+        "tag": "v0.1.20",
+        "hash": "67e0d8964d40c02bb649cfbe8e6ec34957579ec9",
+        "time": 1675983245
+      },
+      {
+        "tag": "v0.1.19",
+        "hash": "14761fde0ad15c3929b1aec7a6ba08a590de6080",
+        "time": 1672799277
+      },
+      {
+        "tag": "v1.1.18",
+        "hash": "365229547f2893e11f23235a9be5571ad65d3d12",
+        "time": 1672783372
+      },
+      {
+        "tag": "v1.1.17",
+        "hash": "ac9b642a70790c49f267f4248df208f25e5206e3",
+        "time": 1668131825
+      },
+      {
+        "tag": "v1.1.16",
+        "hash": "fc20e269ab5553a622a30bf30bc5a897860608aa",
+        "time": 1664955402
+      },
+      {
+        "tag": "v0.1.14",
+        "hash": "2c85e89c9d039a5d7cc3fd343d6fb6a3282b49bf",
+        "time": 1660288297
+      },
+      {
+        "tag": "v0.1.11, v0.0.7",
+        "hash": "b152c8623024b314f2ab985a1b0d85680cb256ea",
+        "time": 1640234081
+      },
+      {
+        "tag": "v0.1.10",
+        "hash": "a92fe2a60a2eb1e919fc9f9173927e8422672906",
+        "time": 1639623074
+      },
+      {
+        "tag": "v0.1.9, v0.1.8",
+        "hash": "e6d00d13961c48f35ffe2f5e5af0dc3171a6dc63",
+        "time": 1636015749
+      },
+      {
+        "tag": "v1.1.8",
+        "hash": "1b8fb532a524ce00071772998439b1a986d960d0",
+        "time": 1635931847
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "11e1e8e840616731e1be3fa8d95140bbac13e531",
+        "time": 1632794012
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "ea85cc88f690c2a42f13bfdd81c8fe5bc6adeda5",
+        "time": 1630946555
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "474aa4009de2818beda53f8bf0cd9c316a2c3d02",
+        "time": 1622873686
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "61bc782fbc21ccda717f0605de9ff7db0e86efc2",
+        "time": 1611391233
+      },
+      {
+        "tag": "0.1.2",
+        "hash": "0ff66f1c5b07544bdb17335d44db431d88414435",
+        "time": 1610090646
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "388abc31fe3e21efdc46502d6c8d4d03c9b1c5a5",
+        "time": 1609814076
+      },
+      {
+        "tag": "0.0.23",
+        "hash": "5380f57e16e07b6f29fab519dd616b10a6831710",
+        "time": 1603778761
+      },
+      {
+        "tag": "0.0.22",
+        "hash": "30dc96c114c5a2ba64c11380457295fb3fcd4b97",
+        "time": 1603672793
+      },
+      {
+        "tag": "0.0.21",
+        "hash": "2a567423ceeef3890210e5d68e315f609c022d09",
+        "time": 1603624698
+      },
+      {
+        "tag": "0.0.20",
+        "hash": "01bad8844a0fe1639650578b76def429d9ad95d3",
+        "time": 1603244737
+      },
+      {
+        "tag": "0.0.19",
+        "hash": "f64ce0cf19071ec5ff6331a4bab2d1816a163ceb",
+        "time": 1602860940
+      },
+      {
+        "tag": "v0.0.6",
+        "hash": "9e011f1a98576acd071f492ea5c3f8b182343866",
+        "time": 1595637413
+      },
+      {
+        "tag": "v0.0.5",
+        "hash": "f2e904864460d7e1695a37a6ea5a66c275e1e60f",
+        "time": 1595212248
+      },
+      {
+        "tag": "v0.0.3",
+        "hash": "61752b63ad16835e2074cc209de5d2b52a94f302",
+        "time": 1594159389
+      }
+    ],
+    "commit": {
+      "hash": "27167132a23c651cec78282b6cd0125f62e0d472",
+      "time": 1693393893
+    }
+  }
+}

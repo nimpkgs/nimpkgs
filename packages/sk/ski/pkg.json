@@ -1,0 +1,34 @@
+{
+  "name": "ski",
+  "url": "https://github.com/jiro4989/ski",
+  "method": "git",
+  "description": "ski is library for SKI combinator.",
+  "license": "MIT",
+  "web": "https://github.com/jiro4989/ski",
+  "tags": [
+    "ski",
+    "combinator",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.19.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.19.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7937592ed8f1439cc3bf0c677112381e9b5b9ba1",
+      "time": 1557531387
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "numToWord",
+  "url": "https://github.com/thisago/numToWord",
+  "method": "git",
+  "description": "Convert numbers to words",
+  "license": "MIT",
+  "web": "https://github.com/thisago/numToWord",
+  "tags": [
+    "numbers",
+    "conversion",
+    "words"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "525a668eb8dacd4f36d4ba1b223d73da61b2d90b",
+      "time": 1628822967
+    }
+  }
+}

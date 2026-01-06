@@ -1,0 +1,94 @@
+{
+  "name": "perlin",
+  "url": "https://github.com/Nycto/PerlinNim",
+  "method": "git",
+  "description": "Perlin noise and Simplex noise generation",
+  "license": "MIT",
+  "web": "https://github.com/Nycto/PerlinNim",
+  "tags": [
+    "perlin",
+    "simplex",
+    "noise"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.9.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        },
+        {
+          "name": "random",
+          "str": ">= 0.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.9.0",
+        "hash": "9c805c4e99f10a4ae1af3e81c63a3ec8d49987ce",
+        "time": 1766950850
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "6d0bf336164d3d1c0466982135644b8030051c4b",
+        "time": 1765045720
+      },
+      {
+        "tag": "0.7.0",
+        "hash": "90b46b9fdeed6a582ba7dddd1cc5448db89ab900",
+        "time": 1594091197
+      },
+      {
+        "tag": "0.6.1",
+        "hash": "2bb4c688f21968adba790b436978976867cb9468",
+        "time": 1553699184
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "10924e86675430ebdacddf9b2031116b8340b339",
+        "time": 1487050172
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "966202d28a05fa2bf10daee1bfd2a1d4cc83c28a",
+        "time": 1466524346
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "0fba26220db772c4ed5d485e612b622e36d36f7c",
+        "time": 1455076330
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "d583e09be81d866b5601c1c646ea6880d5454f7c",
+        "time": 1440562318
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "1d132fd5912656de2d251810ee35d32a581bf23f",
+        "time": 1440366323
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1a30e1261bc39e96ba8664e67cc8c44638c26450",
+        "time": 1440125072
+      }
+    ],
+    "commit": {
+      "hash": "9c805c4e99f10a4ae1af3e81c63a3ec8d49987ce",
+      "time": 1766950850
+    }
+  }
+}

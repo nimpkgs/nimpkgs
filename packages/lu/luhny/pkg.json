@@ -1,0 +1,33 @@
+{
+  "name": "luhny",
+  "url": "https://github.com/sigmapie8/luhny",
+  "method": "git",
+  "description": "Luhn's Algorithm implementation in Nim",
+  "license": "MIT",
+  "web": "https://github.com/sigmapie8/luhny",
+  "tags": [
+    "library",
+    "algorithm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.17.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.17.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "e4782218f21daef6acbfa1bfdcecb1f370234d5c",
+      "time": 1582910042
+    }
+  }
+}

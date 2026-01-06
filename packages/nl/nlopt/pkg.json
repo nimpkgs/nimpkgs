@@ -1,0 +1,52 @@
+{
+  "name": "nlopt",
+  "url": "https://github.com/Vindaar/nimnlopt",
+  "method": "git",
+  "description": "A wrapper for the non-linear optimization C library Nlopt",
+  "license": "MIT",
+  "web": "https://github.com/Vindaar/nimnlopt",
+  "tags": [
+    "library",
+    "wrapper",
+    "binding",
+    "nonlinear-optimization"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.18.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.18.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.2",
+        "hash": "d6d47bf5af81ca06ddb690a988b57f7a0b3f3223",
+        "time": 1644334181
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "3833ae907beab3da8151c4d364db37686747c082",
+        "time": 1572968566
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "07ba1c19f7569eb6dab0d7613e08b5c554557e8c",
+        "time": 1530792711
+      }
+    ],
+    "commit": {
+      "hash": "d6d47bf5af81ca06ddb690a988b57f7a0b3f3223",
+      "time": 1644334181
+    }
+  }
+}

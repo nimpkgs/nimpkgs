@@ -1,0 +1,61 @@
+{
+  "name": "dialogs",
+  "url": "https://github.com/nim-lang/dialogs",
+  "method": "git",
+  "description": "wraps GTK+ or Windows' open file dialogs",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/dialogs",
+  "tags": [
+    "library",
+    "ui",
+    "gui",
+    "dialog",
+    "file"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "gtk2",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.1.1",
+        "hash": "177b776f60255c3be8c38586be5f89c53d867e1a",
+        "time": 1521212676
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "834e1a8cd37771b45bb136934f38e2df3223f07f",
+        "time": 1521212260
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "a3f535eb968a689b42189a719652e30386c37eb2",
+        "time": 1434845908
+      }
+    ],
+    "commit": {
+      "hash": "177b776f60255c3be8c38586be5f89c53d867e1a",
+      "time": 1521212676
+    }
+  }
+}

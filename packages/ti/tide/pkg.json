@@ -1,0 +1,60 @@
+{
+  "name": "tide",
+  "url": "https://github.com/arungeorgesaji/tide",
+  "method": "git",
+  "description": "Modular terminal editor framework",
+  "license": "MIT",
+  "web": "https://github.com/arungeorgesaji/tide",
+  "tags": [
+    "editor",
+    "terminal",
+    "tui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "illwill",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "tide"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0",
+        "hash": "65bd307623f1e9b366af82da88ec2d9fa0e112cb",
+        "time": 1765217596
+      }
+    ],
+    "commit": {
+      "hash": "ed38b903ac261e4fa6f7a71db0d5490b9a75e165",
+      "time": 1765786626
+    }
+  }
+}

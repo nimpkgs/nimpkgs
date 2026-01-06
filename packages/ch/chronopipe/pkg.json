@@ -1,0 +1,44 @@
+{
+  "name": "chronopipe",
+  "url": "https://github.com/williamd1k0/chrono",
+  "method": "git",
+  "description": "Show start/end datetime and duration of a command-line process using pipe.",
+  "license": "MIT",
+  "web": "https://github.com/williamd1k0/chrono",
+  "tags": [
+    "cli",
+    "timer",
+    "pipe"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0"
+          }
+        }
+      ],
+      "bin": [
+        "chrono"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "02145188e5e4e7a6fbf4d2a731770c202fc04ed4",
+        "time": 1574908370
+      }
+    ],
+    "commit": {
+      "hash": "50a0208e116b58a5c3421eea20f07e0c49430c50",
+      "time": 1575395116
+    }
+  }
+}

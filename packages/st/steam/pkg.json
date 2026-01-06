@@ -1,0 +1,36 @@
+{
+  "name": "steam",
+  "url": "https://github.com/juancarlospaco/nim-steam",
+  "method": "git",
+  "description": "Steam API Client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/juancarlospaco/nim-steam",
+  "tags": [
+    "steam",
+    "game",
+    "gaming",
+    "async",
+    "multisync"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "761e25c914e43a2b81bee954e461ca178325ed2d",
+      "time": 1627080301
+    }
+  }
+}

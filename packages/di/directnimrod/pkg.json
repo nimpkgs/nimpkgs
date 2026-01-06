@@ -1,0 +1,26 @@
+{
+  "name": "directnimrod",
+  "url": "https://bitbucket.org/barcharcraz/directnimrod",
+  "method": "git",
+  "description": "Wrapper for microsoft's DirectX libraries",
+  "license": "MS-PL",
+  "web": "https://bitbucket.org/barcharcraz/directnimrod",
+  "tags": [
+    "library",
+    "wrapper",
+    "graphics",
+    "windows"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1e5e7cba5aa403388a5711722df9640a18c7ba49",
+      "time": 1443919918
+    }
+  }
+}
