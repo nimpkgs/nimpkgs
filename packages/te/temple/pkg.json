@@ -4,7 +4,7 @@
   "method": "git",
   "description": "A templating library for run-time templating with support for simple conditionals and attributes.",
   "license": "BSD-3-Clause",
-  "web": "https://pony.biz/temple/",
+  "web": "https://docs.penguinite.dev/temple/",
   "tags": [
     "library",
     "template",

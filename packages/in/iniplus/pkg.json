@@ -4,7 +4,7 @@
   "method": "git",
   "description": "An extended INI parser for Nim.",
   "license": "BSD-3-Clause",
-  "web": "https://pony.biz/iniplus/",
+  "web": "https://docs.penguinite.dev/iniplus/",
   "tags": [
     "ini",
     "config",

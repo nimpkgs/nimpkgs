@@ -4,7 +4,7 @@
   "method": "git",
   "description": "Basic wrapper over std/sysrand",
   "license": "BSD-3-Clause",
-  "web": "https://pony.biz/rng/",
+  "web": "https://docs.penguinite.dev/rng/",
   "tags": [
     "random",
     "sysrand",

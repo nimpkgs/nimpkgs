@@ -4,7 +4,7 @@
   "method": "git",
   "description": "Rust-style expect procedures",
   "license": "BSD-3-Clause",
-  "web": "https://pony.biz/expect/",
+  "web": "https://docs.penguinite.dev/expect/",
   "tags": [
     "rust",
     "expect",
