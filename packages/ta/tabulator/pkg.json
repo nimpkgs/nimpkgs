@@ -1,0 +1,46 @@
+{
+  "name": "tabulator",
+  "url": "https://github.com/erykjj/nim-tabulator",
+  "method": "git",
+  "description": "Nim library for generating plain-text tables (with Unicode and ANSI code support)",
+  "license": "MIT",
+  "web": "https://github.com/erykjj/nim-tabulator",
+  "tags": [
+    "terminal",
+    "tables"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.7.0",
+        "hash": "2e7edc58aadc4dd3c47e66a73f78adc1c57c3dc1",
+        "time": 1768160805
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "06d3402e83ff1e38d8f47a95dd38a8f63fed6e1c",
+        "time": 1768143396
+      }
+    ],
+    "commit": {
+      "hash": "2e7edc58aadc4dd3c47e66a73f78adc1c57c3dc1",
+      "time": 1768160805
+    },
+    "status": "Unknown"
+  }
+}
