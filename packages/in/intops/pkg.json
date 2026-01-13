@@ -1,0 +1,46 @@
+{
+  "name": "intops",
+  "url": "https://github.com/vacp2p/nim-intops",
+  "method": "git",
+  "description": "Core arithmetic operations for CPU-sized integers.",
+  "license": "MIT or Apache License 2.0",
+  "web": "https://github.com/vacp2p/nim-intops",
+  "tags": [
+    "integers",
+    "bignum",
+    "cryptography",
+    "arithmetics",
+    "cpu-sized",
+    "primitives",
+    "operations"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "5446afe31ebb619565855457af34fbb5ae63abaa",
+        "time": 1768223483
+      }
+    ],
+    "commit": {
+      "hash": "298912e34065d12804a32b84da313b6dbd4e14ee",
+      "time": 1768248457
+    },
+    "status": "Unknown"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "name": "sdfy",
+  "url": "https://github.com/elcritch/sdfy",
+  "method": "git",
+  "description": "A package implementing signed distance functions",
+  "license": "Apache-2.0",
+  "web": "https://github.com/elcritch/sdfy",
+  "tags": [
+    "graphics",
+    "ui",
+    "sdf",
+    "signed",
+    "simd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.7.8",
+      "requires": [
+        {
+          "name": "nimsimd",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chroma",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "vmath",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.7.8",
+        "hash": "1b778b45f440f5e9924abbc8827a51ba1d8e174e",
+        "time": 1749690840
+      },
+      {
+        "tag": "v0.7.7",
+        "hash": "89e809b28ad33599fddec19dee76399410db24a1",
+        "time": 1749682920
+      },
+      {
+        "tag": "v0.7.6",
+        "hash": "324ddb7340fff8e9d231292a6c9bfd5149f3b475",
+        "time": 1749615838
+      },
+      {
+        "tag": "v0.7.5",
+        "hash": "a40735776614a1246efb2b6fb178c760a0ca2e33",
+        "time": 1749533189
+      },
+      {
+        "tag": "v0.7.4",
+        "hash": "2b91fbd3ec94731bcc478ac6f70ec6850adab495",
+        "time": 1749531404
+      },
+      {
+        "tag": "v0.7.3",
+        "hash": "67990b6306456cabb2aaafef07630a3938e33e8f",
+        "time": 1749512374
+      },
+      {
+        "tag": "v0.7.2",
+        "hash": "397806db0e359e453265169bd64fd0b757584b20",
+        "time": 1749461200
+      },
+      {
+        "tag": "v0.7.1",
+        "hash": "7141fb2cb7bb7039a274e85cfb8951026ca1d623",
+        "time": 1749457155
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "3b9182833f98f41fafe6a0293a0d4a0b4485e497",
+        "time": 1749454338
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "e5bb1e8f3331654336a50cf31db00f6191ebe5b7",
+        "time": 1749368866
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "ebfe18f23205e365359ec24c177a421b8cfd226a",
+        "time": 1749350258
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "42b6b5f93139eca96caf4bf21907aff2a587cb5b",
+        "time": 1749346173
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "3807d05db244f28a4cfddea5a41498767ebf6cb5",
+        "time": 1749344659
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "7f43e40de2c96ab851fc408e9f660bb0b1af3744",
+        "time": 1749342491
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "cefc978c9d5c35a195ad354705da60b7c43e3b1c",
+        "time": 1749342349
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "9a1df1bd47e29bc53cf2246dc3c21b4125cce720",
+        "time": 1749341314
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "57161384b62ed243a6bb2d94d50f722868d6fb9c",
+        "time": 1749339539
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "a46f446a218fde29a527025857967a3954ff039c",
+        "time": 1749282807
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "4188bf4c82ca96105a2f5d13cb2e87fef6fee4c2",
+        "time": 1749280174
+      }
+    ],
+    "commit": {
+      "hash": "1b778b45f440f5e9924abbc8827a51ba1d8e174e",
+      "time": 1749690840
+    },
+    "status": "Unknown"
+  }
+}
