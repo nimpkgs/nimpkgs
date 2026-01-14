@@ -1,0 +1,45 @@
+{
+  "name": "ic",
+  "url": "https://github.com/hmbemba/ic",
+  "method": "git",
+  "description": "IceCream-style debug printing for Nim (colored, timestamp, file:line, JS + NimScript support)",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/ic",
+  "tags": [
+    "debug"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "5e996775377c1fd88063a73ca14d5448c1a0bb1e",
+        "time": 1768337802
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "4e1cbd0dceaca770608269942da593c02d036f69",
+        "time": 1768331470
+      }
+    ],
+    "commit": {
+      "hash": "902aa027d5eb4b719d8cb639546ef48a6ed96465",
+      "time": 1768338054
+    },
+    "status": "Unknown"
+  }
+}

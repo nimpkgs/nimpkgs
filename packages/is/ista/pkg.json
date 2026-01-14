@@ -1,0 +1,57 @@
+{
+  "name": "ista",
+  "url": "https://github.com/arashi-software/ista",
+  "method": "git",
+  "description": "Ista - A versatile command line speed reader to enhance your reading efficiency",
+  "license": "GPL-2.0",
+  "web": "https://github.com/arashi-software/ista",
+  "tags": [
+    "cli",
+    "reading",
+    "text",
+    "rsvp",
+    "speed",
+    "documents",
+    "books"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "therapist",
+          "str": "#HEAD",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "ista"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "2972b4191b5b2bcf977ef16727b2fc15c48271c4",
+        "time": 1768199314
+      }
+    ],
+    "commit": {
+      "hash": "67fd7bda15f90bc312222a608760426da6f2229a",
+      "time": 1768199717
+    },
+    "status": "Unknown"
+  }
+}
