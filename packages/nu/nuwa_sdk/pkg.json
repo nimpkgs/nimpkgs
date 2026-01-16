@@ -1,0 +1,50 @@
+{
+  "name": "nuwa_sdk",
+  "url": "https://github.com/martineastwood/nuwa-sdk",
+  "method": "git",
+  "description": "SDK for Nuwa Build - provides compile-time metadata for Python stub generation",
+  "license": "MIT",
+  "web": "https://github.com/martineastwood/nuwa-sdk",
+  "tags": [
+    "python",
+    "stub-generation",
+    "build-tool"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nimpy",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "2516b25b31114a2091e5dc04a1a43277becb7324",
+        "time": 1768514603
+      }
+    ],
+    "commit": {
+      "hash": "2516b25b31114a2091e5dc04a1a43277becb7324",
+      "time": 1768514603
+    },
+    "status": "Unknown"
+  }
+}
