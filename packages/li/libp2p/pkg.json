@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.14.3",
+      "version": "1.15.0",
       "requires": [
         {
           "name": "nim",
@@ -113,11 +113,11 @@
           }
         },
         {
-          "name": "quic",
-          "str": ">= 0.4.0",
+          "name": "https://github.com/vacp2p/nim-lsquic",
+          "str": "#d94c6dc59ec343cfbbde3dd93ee2d69d49f9c512",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.0"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
@@ -133,6 +133,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v1.15.0",
+        "hash": "2ef14415f31ecb598fc4e1a2f9761677076aefc5",
+        "time": 1768569295
+      },
       {
         "tag": "v1.14.3",
         "hash": "e82080f7b1aa61c6d35fa5311b873f41eff4bb52",
@@ -235,8 +240,8 @@
       }
     ],
     "commit": {
-      "hash": "f6d9feb0c9de848cfb77e5b013f9e6fd76231c3a",
-      "time": 1768494938
+      "hash": "90d049fb9caf20b3daf69b013e0549d495cfcb10",
+      "time": 1768588561
     }
   }
 }

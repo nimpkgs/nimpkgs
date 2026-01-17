@@ -1,0 +1,48 @@
+{
+  "name": "caesar",
+  "url": "https://github.com/ph4mished/caesar",
+  "method": "git",
+  "description": "A simple tool for caesar cipher encoding and decoding",
+  "license": "MIT",
+  "web": "https://github.com/ph4mished/caesar",
+  "tags": [
+    "caesar"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [
+        "caesar"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "cb9e572eecaa39156214c286ad9f976664db3c1c",
+        "time": 1768615138
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "e05936fa6cfc99517b0c6d4cf624eb67057b1e8f",
+        "time": 1768516925
+      }
+    ],
+    "commit": {
+      "hash": "cb9e572eecaa39156214c286ad9f976664db3c1c",
+      "time": 1768615138
+    },
+    "status": "Unknown"
+  }
+}

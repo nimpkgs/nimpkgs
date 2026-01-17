@@ -1,0 +1,43 @@
+{
+  "name": "morse",
+  "url": "https://github.com/ph4mished/morse",
+  "method": "git",
+  "description": "A simple tool for morse encoding and decoding",
+  "license": "MIT",
+  "web": "https://github.com/ph4mished/morse",
+  "tags": [
+    "morse"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [
+        "morse"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "6a6e32cc8aa9b3a6dc561f3242fbb4013bb0fc99",
+        "time": 1768521546
+      }
+    ],
+    "commit": {
+      "hash": "6a6e32cc8aa9b3a6dc561f3242fbb4013bb0fc99",
+      "time": 1768521546
+    },
+    "status": "Unknown"
+  }
+}

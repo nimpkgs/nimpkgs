@@ -1,0 +1,38 @@
+{
+  "name": "commodore",
+  "url": "https://github.com/ph4mished/commodore",
+  "method": "git",
+  "description": "Commodore is a simple CLI parsing library.",
+  "license": "MIT",
+  "web": "https://github.com/ph4mished/commodore",
+  "tags": [
+    "commodore",
+    "cli",
+    "command-line",
+    "argument",
+    "argparse",
+    "optparse"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.15.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "7b22aa73bac99692209b8271d8e94e106a9385f6",
+      "time": 1768408053
+    },
+    "status": "Unknown"
+  }
+}

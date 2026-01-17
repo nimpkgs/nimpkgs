@@ -26,10 +26,10 @@
         },
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.2"
           }
         }
       ],
@@ -40,8 +40,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "f54703fa52d63ce26cb6e1240cfc3eb38c0ebbbf",
-      "time": 1768517606
+      "hash": "db7dabf5fef2900739378e187970cfae402b86b8",
+      "time": 1768601278
     }
   }
 }
