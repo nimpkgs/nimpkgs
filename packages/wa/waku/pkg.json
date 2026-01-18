@@ -123,10 +123,10 @@
         },
         {
           "name": "libp2p",
-          "str": ">= 1.14.2",
+          "str": ">= 1.14.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.14.2"
+            "ver": "1.14.3"
           }
         },
         {
@@ -176,12 +176,41 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "lsquic",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jwt",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ffi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.37-with-ffi",
+        "hash": "c27405b19c62bd06ccf5a322590fc55ffa172ea3",
+        "time": 1768229725
+      },
       {
         "tag": "v0.37.1-beta",
         "hash": "bbc089f20e0dd1caef4b9f4987ae0382ec7e562e",
@@ -459,8 +488,8 @@
       }
     ],
     "commit": {
-      "hash": "c27405b19c62bd06ccf5a322590fc55ffa172ea3",
-      "time": 1768229725
+      "hash": "91b4c5f52ee37f0db7ea2714ea591bcf4f26b5fe",
+      "time": 1768649725
     }
   }
 }

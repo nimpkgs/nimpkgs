@@ -15,23 +15,30 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.15.1",
+      "version": "0.1.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.0.0",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.0.0"
+            "ver": "2.2.4"
           }
         }
       ],
       "bin": [],
-      "srcDir": ""
+      "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.16.0",
+        "hash": "32087be79e0c3c345c3edc9afac6f3a15a019cea",
+        "time": 1768685456
+      }
+    ],
     "commit": {
-      "hash": "7b22aa73bac99692209b8271d8e94e106a9385f6",
-      "time": 1768408053
+      "hash": "32087be79e0c3c345c3edc9afac6f3a15a019cea",
+      "time": 1768685456
     },
     "status": "Unknown"
   }

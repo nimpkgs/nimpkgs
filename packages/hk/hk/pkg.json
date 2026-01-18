@@ -1,0 +1,52 @@
+{
+  "name": "hk",
+  "url": "https://github.com/hmbemba/hk",
+  "method": "git",
+  "description": "Windows hotkeys + hotstrings for Nim (winim keyboard hook, optional clipboard paste mode)",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/hk",
+  "tags": [
+    "windows",
+    "hotkey",
+    "hotstring",
+    "keyboard"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "winim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "libclip",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d8fedec11f654cec4d0a024116e6f9d0b59d1634",
+      "time": 1768675991
+    },
+    "status": "Unknown"
+  }
+}
