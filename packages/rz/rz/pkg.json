@@ -1,0 +1,41 @@
+{
+  "name": "rz",
+  "url": "https://github.com/hmbemba/rz",
+  "method": "git",
+  "description": "rz: small Result/Rz type + safe helpers (native + JS), ergonomic combinators and utilities.",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/rz",
+  "tags": [
+    "result"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "ic",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "376ab68437643a96b86b386fa256845c99a41117",
+      "time": 1768705752
+    },
+    "status": "Unknown"
+  }
+}

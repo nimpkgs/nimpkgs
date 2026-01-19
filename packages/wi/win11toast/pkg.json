@@ -1,0 +1,44 @@
+{
+  "name": "win11toast",
+  "url": "https://github.com/hmbemba/win11toast",
+  "method": "git",
+  "description": "Windows 10/11 Toast Notifications for Nim using WinRT",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/win11toast",
+  "tags": [
+    "windows",
+    "win11",
+    "toast",
+    "notification"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "winim",
+          "str": ">= 3.9.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "3.9.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "89ca7cfea1632ed973e0e7ccc305f92e62ebdd9e",
+      "time": 1768673659
+    },
+    "status": "Unknown"
+  }
+}
