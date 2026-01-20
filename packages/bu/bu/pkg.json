@@ -30,7 +30,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.18.12",
+      "version": "0.18.13",
       "requires": [
         {
           "name": "nim",
@@ -42,18 +42,18 @@
         },
         {
           "name": "cligen",
-          "str": ">= 1.9.3",
+          "str": ">= 1.9.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.9.3"
+            "ver": "1.9.6"
           }
         },
         {
           "name": "adix",
-          "str": ">= 0.7.4",
+          "str": ">= 0.7.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.4"
+            "ver": "0.7.7"
           }
         },
         {
@@ -66,18 +66,18 @@
         },
         {
           "name": "fitl",
-          "str": ">= 0.6.4",
+          "str": ">= 0.6.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.4"
+            "ver": "0.6.5"
           }
         },
         {
           "name": "spfun",
-          "str": ">= 0.7.6",
+          "str": ">= 0.7.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.6"
+            "ver": "0.7.7"
           }
         }
       ],
@@ -158,6 +158,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.18.13",
+        "hash": "5482c826d994276dfc1ff467eccef76536c5336c",
+        "time": 1768824393
+      },
       {
         "tag": "0.18.12",
         "hash": "bea1632e05b93dab2b1d385332b3ecc463d930bf",
@@ -530,8 +535,8 @@
       }
     ],
     "commit": {
-      "hash": "83c773ec26cb69cad951d091e335fbdfca078416",
-      "time": 1767694856
+      "hash": "5482c826d994276dfc1ff467eccef76536c5336c",
+      "time": 1768824393
     }
   }
 }

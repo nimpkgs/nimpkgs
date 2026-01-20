@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.5.6",
+      "version": "0.5.7",
       "requires": [
         {
           "name": "nim",
@@ -25,10 +25,10 @@
         },
         {
           "name": "cligen",
-          "str": ">= 1.9.1",
+          "str": ">= 1.9.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.9.1"
+            "ver": "1.9.6"
           }
         },
         {
@@ -44,6 +44,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "0.5.7",
+        "hash": "8fc0a6951088b5a1b5de50f008f2e6821d04ecb8",
+        "time": 1768820901
+      },
       {
         "tag": "0.5.6",
         "hash": "d6c51a1c5fd9a4bde31f6378232727fbe781d728",
@@ -121,8 +126,8 @@
       }
     ],
     "commit": {
-      "hash": "2e5dcf8a9e77972ee17822d290aaa96d6dfe85bf",
-      "time": 1761938944
+      "hash": "8fc0a6951088b5a1b5de50f008f2e6821d04ecb8",
+      "time": 1768820901
     }
   }
 }

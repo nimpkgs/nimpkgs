@@ -1,0 +1,43 @@
+{
+  "name": "nimsterm",
+  "url": "https://github.com/hmbemba/nimsterm",
+  "method": "git",
+  "description": "Windows-friendly terminal helpers that work in both Nim and NimScript.",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/nimsterm",
+  "tags": [
+    "nimscript",
+    "terminal",
+    "styling",
+    "text"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "4c40f83511aeb242dd133d318a64b1d09051b7f3",
+        "time": 1768865627
+      }
+    ],
+    "commit": {
+      "hash": "4c40f83511aeb242dd133d318a64b1d09051b7f3",
+      "time": 1768865627
+    },
+    "status": "Unknown"
+  }
+}
