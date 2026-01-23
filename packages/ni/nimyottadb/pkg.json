@@ -24,6 +24,14 @@
           }
         },
         {
+          "name": "chronicles",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "malebolgia",
           "str": "any version",
           "ver": {
@@ -44,6 +52,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.4.2",
+        "hash": "4c560830efcf6f88121dc91aef3da433a0820783",
+        "time": 1769064607
+      },
       {
         "tag": "v0.4.1",
         "hash": "ba6901f770983f66eace0bc03d89b7b1a0c5dd89",
@@ -86,8 +99,8 @@
       }
     ],
     "commit": {
-      "hash": "43dea16f74b889ea38975d987eb6110fce48d607",
-      "time": 1768576369
+      "hash": "4c560830efcf6f88121dc91aef3da433a0820783",
+      "time": 1769064607
     }
   }
 }

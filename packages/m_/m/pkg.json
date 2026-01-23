@@ -34,14 +34,14 @@
         }
       ],
       "bin": [
-        "m"
+        "m/m"
       ],
       "srcDir": "src"
     },
     "hasBin": true,
     "commit": {
-      "hash": "619254135fb6b20131b37bb87ccb31e43b714f05",
-      "time": 1769041973
+      "hash": "23ef2624ca6e15eabe0d0a7fc27f404cfc598f2e",
+      "time": 1769111309
     }
   }
 }
