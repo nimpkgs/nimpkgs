@@ -1,0 +1,54 @@
+{
+  "name": "datastar",
+  "url": "https://github.com/YuryKL/datastar.nim",
+  "method": "git",
+  "description": "A Nim SDK for https://data-star.dev",
+  "license": "MIT",
+  "web": "https://github.com/YuryKL/datastar.nim",
+  "tags": [
+    "web",
+    "datastar",
+    "hypermedia",
+    "serversentevents",
+    "sdk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "9f8ef692126e5d4639708f0d1fdbf83ce4ddbe9f",
+        "time": 1769208326
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "17db80ede0181c7e4d7d7b4c0e54e6747244e500",
+        "time": 1769143284
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "871dbffb08f3cd58fc59ab7612beea22d8c92020",
+        "time": 1769130520
+      }
+    ],
+    "commit": {
+      "hash": "9f8ef692126e5d4639708f0d1fdbf83ce4ddbe9f",
+      "time": 1769208326
+    },
+    "status": "Unknown"
+  }
+}
