@@ -178,22 +178,6 @@
           }
         },
         {
-          "name": "lsquic",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "jwt",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "ffi",
           "str": "any version",
           "ver": {
@@ -208,8 +192,8 @@
     "versions": [
       {
         "tag": "v0.37-with-ffi",
-        "hash": "c27405b19c62bd06ccf5a322590fc55ffa172ea3",
-        "time": 1768229725
+        "hash": "20c3b97950fb365e2949c9f1e7e483dc6cd89b66",
+        "time": 1769109744
       },
       {
         "tag": "v0.37.1-beta",
@@ -250,6 +234,11 @@
         "tag": "v0.36.0",
         "hash": "7b234ec78ab6b5dc06bcaf5f5ed6f6754c934873",
         "time": 1750427239
+      },
+      {
+        "tag": "v0.36.0-rc.0",
+        "hash": "739ad46a7ed2a01d8d313f46a0e1caaaa1528aa6",
+        "time": 1750423553
       },
       {
         "tag": "v0.35.1",
@@ -488,8 +477,8 @@
       }
     ],
     "commit": {
-      "hash": "a561ec3a3843defcb1dce01bd7878a1f6a7c4743",
-      "time": 1768897747
+      "hash": "a02aaab53c90087f2477b8f77b1a1da9b4bf98c6",
+      "time": 1769441527
     }
   }
 }
