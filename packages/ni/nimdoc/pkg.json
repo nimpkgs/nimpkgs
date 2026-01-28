@@ -1,0 +1,61 @@
+{
+  "name": "nimdoc",
+  "url": "https://github.com/WaywardWizard/nimdoc",
+  "method": "git",
+  "description": "Generate and view local documentation of installed nimble packages",
+  "license": "MIT",
+  "web": "https://github.com/WaywardWizard/nimdoc",
+  "tags": [
+    "docs",
+    "documentation",
+    "browser",
+    "view",
+    "generate",
+    "intel"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "https://github.com/WaywardWizard/nim-argparse",
+          "str": ">= 4.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.1.2"
+          }
+        }
+      ],
+      "bin": [
+        "nimdoc"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.1",
+        "hash": "2e935475d4a5e4db69ad5dbeba4d214eec32acb8",
+        "time": 1769480656
+      },
+      {
+        "tag": "v1.0.0, v1.0",
+        "hash": "fd74c81bced0c4de27b6acf62db426075d361856",
+        "time": 1769475464
+      }
+    ],
+    "commit": {
+      "hash": "b806133fdf2fbdb6884914db720f17d05e9f3ec2",
+      "time": 1769531473
+    },
+    "status": "Unknown"
+  }
+}
