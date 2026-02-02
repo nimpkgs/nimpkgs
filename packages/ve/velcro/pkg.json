@@ -1,0 +1,25 @@
+{
+  "name": "velcro",
+  "url": "https://github.com/Dark-Knight6221/velcro",
+  "method": "git",
+  "description": "Example Text",
+  "license": "MIT",
+  "web": "https://github.com/Dark-Knight6221/velcro",
+  "tags": [
+    "ecs",
+    "engine"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3a0c3521a9eb46bd3569223f4c5ddcfa4ee80e23",
+      "time": 1769970240
+    },
+    "status": "Unknown"
+  }
+}
