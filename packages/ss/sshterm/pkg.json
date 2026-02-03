@@ -1,0 +1,50 @@
+{
+  "name": "sshterm",
+  "url": "https://github.com/jthampton/sshterm",
+  "method": "git",
+  "description": "SSH terminal for interactive sessions for Nim",
+  "license": "MIT",
+  "web": "https://github.com/jthampton/sshterm",
+  "tags": [
+    "ssh",
+    "terminal",
+    "sessions"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "ssh2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "dc49902f361cfa45904b547f3710b6054c53969b",
+        "time": 1770035917
+      }
+    ],
+    "commit": {
+      "hash": "dc49902f361cfa45904b547f3710b6054c53969b",
+      "time": 1770035917
+    },
+    "status": "Unknown"
+  }
+}

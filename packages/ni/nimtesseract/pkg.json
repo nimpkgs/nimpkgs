@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "pixie",
@@ -31,6 +31,11 @@
     },
     "versions": [
       {
+        "tag": "v0.3.0",
+        "hash": "81dbb412bcf5621d346d16f8f97a248b32119dad",
+        "time": 1770024637
+      },
+      {
         "tag": "v0.2.0",
         "hash": "d805d41fe9be35dce8e078e716217727ffc7dd97",
         "time": 1641312978
@@ -42,8 +47,8 @@
       }
     ],
     "commit": {
-      "hash": "a315d45e3ebb58214fbf07c49f58ea603de93e59",
-      "time": 1666510715
+      "hash": "81dbb412bcf5621d346d16f8f97a248b32119dad",
+      "time": 1770024637
     }
   }
 }
