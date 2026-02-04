@@ -11,14 +11,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "9381cc7382d61abd7a6f0c64f72b0dd197d58969",
-      "time": 1770012452
+      "hash": "3fc7f92d8f6018490d2e5116e44c6d30dc601937",
+      "time": 1770131313
     },
     "status": "Unknown"
   }
