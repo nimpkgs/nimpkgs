@@ -10,7 +10,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.5.0",
+      "version": "0.6.0",
       "requires": [
         {
           "name": "nim",
@@ -84,8 +84,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "edccc91d2aa4de3c4f10c9f1d17d25d84d0a069b",
-      "time": 1770148770
+      "hash": "62c1ee21d435c36b196b47399f5336a193eab4b4",
+      "time": 1770251024
     },
     "status": "Unknown"
   }

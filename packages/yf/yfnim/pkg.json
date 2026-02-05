@@ -1,0 +1,62 @@
+{
+  "name": "yfnim",
+  "url": "https://github.com/jailop/yfnim",
+  "method": "git",
+  "description": "A Yahoo Finance historical data retriever with support for multiple intervals",
+  "license": "MIT",
+  "web": "https://github.com/jailop/yfnim",
+  "tags": [
+    "finance,",
+    "yahoo"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.9.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.9.6"
+          }
+        }
+      ],
+      "bin": [
+        "yf"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "c1890425fb748da7828f39eb19b3dd73b7c68312",
+        "time": 1770143741
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "fddd9ecdb430b0091cf48679a3c07af9acfbc9d9",
+        "time": 1769990360
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c40cd66dfb481c8baadd7c89eba3ed1d6becb701",
+        "time": 1769794342
+      }
+    ],
+    "commit": {
+      "hash": "a8fc077eaff1e2fefa6075bef4be5e866a680369",
+      "time": 1770217291
+    },
+    "status": "Unknown"
+  }
+}
