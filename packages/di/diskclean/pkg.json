@@ -1,0 +1,47 @@
+{
+  "name": "diskclean",
+  "url": "https://github.com/ynishi/diskclean",
+  "method": "git",
+  "description": "Declarative disk cleanup for development projects",
+  "license": "MIT",
+  "web": "https://github.com/ynishi/diskclean",
+  "tags": [
+    "cli",
+    "disk",
+    "cleanup",
+    "devtools",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        }
+      ],
+      "bin": [
+        "diskclean"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "8f3a0ce1a3f43bafe873ce340912c813e8de81b5",
+        "time": 1770397945
+      }
+    ],
+    "commit": {
+      "hash": "8f3a0ce1a3f43bafe873ce340912c813e8de81b5",
+      "time": 1770397945
+    },
+    "status": "Unknown"
+  }
+}

@@ -85,9 +85,9 @@
         },
         {
           "name": "kapsis",
-          "str": "any version",
+          "str": "#head",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -128,8 +128,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "2c1bbe24dcec9572fbf5e5487701fb31ffc2fad9",
-      "time": 1766498390
+      "hash": "f4c66c6ce029040534a8f703ed30e9335f143aa0",
+      "time": 1770355263
     }
   }
 }

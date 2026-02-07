@@ -30,14 +30,30 @@
             "kind": "verSpecial",
             "ver": ""
           }
+        },
+        {
+          "name": "multipart",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "filetype",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "be7da1f5c69d02633a21da8a9f0cbf1a058b1371",
-      "time": 1751422440
+      "hash": "00a3eb8864245a7fa11464880b38177353afded2",
+      "time": 1770347243
     }
   }
 }

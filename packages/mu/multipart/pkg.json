@@ -1,0 +1,45 @@
+{
+  "name": "multipart",
+  "url": "https://github.com/openpeeps/multipart",
+  "method": "git",
+  "description": "A simple multipart parser",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/multipart",
+  "tags": [
+    "file",
+    "upload",
+    "multipart",
+    "formdata",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "729d2a1a5c1fe5bf43efab74948d0659c9d7692a",
+      "time": 1770381693
+    },
+    "status": "Unknown"
+  }
+}

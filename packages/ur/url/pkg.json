@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.5",
+      "version": "0.1.6",
       "requires": [
         {
           "name": "nim",
@@ -42,10 +42,10 @@
         },
         {
           "name": "https://github.com/xTrayambak/overdrive",
-          "str": ">= 0.1.1",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.1"
+            "ver": "0.2.0"
           }
         }
       ],
@@ -53,6 +53,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "d204d2e554bc627c8aea9bb237302edfe7463753",
+        "time": 1770373179
+      },
       {
         "tag": "0.1.5",
         "hash": "646c85ffa5b874d7314f31c4e9294ed44ee9420d",
@@ -80,8 +85,8 @@
       }
     ],
     "commit": {
-      "hash": "646c85ffa5b874d7314f31c4e9294ed44ee9420d",
-      "time": 1769835021
+      "hash": "d204d2e554bc627c8aea9bb237302edfe7463753",
+      "time": 1770373179
     }
   }
 }

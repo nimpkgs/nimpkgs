@@ -32,13 +32,13 @@
     "versions": [
       {
         "tag": "0.16.0",
-        "hash": "32087be79e0c3c345c3edc9afac6f3a15a019cea",
-        "time": 1768685456
+        "hash": "3b38428e131588fb48aed6f959ed79efe4a16859",
+        "time": 1770311133
       }
     ],
     "commit": {
-      "hash": "32087be79e0c3c345c3edc9afac6f3a15a019cea",
-      "time": 1768685456
+      "hash": "3b38428e131588fb48aed6f959ed79efe4a16859",
+      "time": 1770311133
     },
     "status": "Unknown"
   }
