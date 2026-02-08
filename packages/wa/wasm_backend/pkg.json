@@ -1,0 +1,46 @@
+{
+  "name": "wasm_backend",
+  "url": "https://github.com/nimpylib/wasm_backend",
+  "method": "git",
+  "description": "utils to support compiling Nim to WASM target",
+  "license": "MIT",
+  "web": "https://wasm-backend.nimpylib.org",
+  "tags": [
+    "utils",
+    "wasm",
+    "webassembly",
+    "compile"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        }
+      ],
+      "bin": [
+        "nim-wasm-build-flags"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "1b15cbedd8b7475b3a646c4d2267af4f013173ad",
+        "time": 1770391944
+      }
+    ],
+    "commit": {
+      "hash": "13abc6f2a9990df97c915682f66410ebb8143626",
+      "time": 1770398507
+    },
+    "status": "Unknown"
+  }
+}

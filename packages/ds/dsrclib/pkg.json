@@ -1,0 +1,52 @@
+{
+  "name": "dsrclib",
+  "url": "https://github.com/quadram-institute-bioscience/dsrclib",
+  "method": "git",
+  "description": "Cross-platform memory profiler",
+  "license": "GPL-2.0",
+  "web": "https://github.com/quadram-institute-bioscience/dsrclib",
+  "tags": [
+    "bioinformatics",
+    "fastq",
+    "compression",
+    "dsrc",
+    "dsrc2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "readfx",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "6d1b52004494b0c037f0dc27f1680d84f0182cb1",
+        "time": 1770408787
+      }
+    ],
+    "commit": {
+      "hash": "f87b87a09f853626b01c0e56cb4faf3f52de8b95",
+      "time": 1770417119
+    },
+    "status": "Unknown"
+  }
+}

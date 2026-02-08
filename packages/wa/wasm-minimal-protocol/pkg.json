@@ -1,0 +1,63 @@
+{
+  "name": "wasm-minimal-protocol",
+  "url": "https://github.com/nimpylib/wasm-minimal-protocol",
+  "method": "git",
+  "description": "macros and helpers to write Typst Plugin in Nim",
+  "license": "MIT",
+  "web": "https://wasm-minimal-protocol.nimpylib.org",
+  "tags": [
+    "library",
+    "utils",
+    "wasm",
+    "webassembly",
+    "typst"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        },
+        {
+          "name": "cbor_serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/wasm_backend",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "nim-typst-plugin"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "0e86ac8ad61bebcbef1214d8f61612934cdae2c2",
+        "time": 1770390758
+      }
+    ],
+    "commit": {
+      "hash": "14a10a24ade04aead8ce4879e3520b300473d2b4",
+      "time": 1770509152
+    },
+    "status": "Unknown"
+  }
+}

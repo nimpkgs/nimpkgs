@@ -4,7 +4,7 @@
   "method": "git",
   "description": "Python-like repr, ascii, hex/oct/bin, ...",
   "license": "MIT",
-  "web": "https://nimpylib.org",
+  "web": "https://pyrepr.nimpylib.org",
   "tags": [
     "library",
     "pylib",
