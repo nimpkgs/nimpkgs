@@ -1,0 +1,63 @@
+{
+  "name": "nserve",
+  "url": "https://github.com/heckarmon/nserve",
+  "method": "git",
+  "description": "A lightweight zero-deps, async HTTP file server with uploads",
+  "license": "MIT",
+  "web": "https://github.com/heckarmon/nserve",
+  "tags": [
+    "http",
+    "server",
+    "async",
+    "cli",
+    "file",
+    "upload"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "nserve"
+      ],
+      "srcDir": "."
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.3",
+        "hash": "72799ef20035f47069ae33f983ecd7beb7bd65fd",
+        "time": 1770538982
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "7213fefe55ca6df3031e2b5cee6698ff08df6cb1",
+        "time": 1770469052
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "16951139edd174c81d9081faac76f6ee7a8914f8",
+        "time": 1770286229
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "e498184173d897b60f9f67d85221abe75800e8e7",
+        "time": 1770274807
+      }
+    ],
+    "commit": {
+      "hash": "72799ef20035f47069ae33f983ecd7beb7bd65fd",
+      "time": 1770538982
+    },
+    "status": "Unknown"
+  }
+}

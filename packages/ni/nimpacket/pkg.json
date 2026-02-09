@@ -23,14 +23,22 @@
             "kind": "verEqLater",
             "ver": "1.6.0"
           }
+        },
+        {
+          "name": "nimpy",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "7c57b28bef1d2ab6381b8acf2140bac8edb68181",
-      "time": 1766155459
+      "hash": "ba3d4f19ddf9bac0c3bb00d900db0117309186b7",
+      "time": 1770604120
     }
   }
 }

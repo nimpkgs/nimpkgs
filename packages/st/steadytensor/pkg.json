@@ -1,0 +1,40 @@
+{
+  "name": "steadytensor",
+  "url": "https://github.com/garrettkinman/SteadyTensor",
+  "method": "git",
+  "description": "An ultra-light, ultra-flexible tensor library written in pure Nim. Intended for microcontrollers.",
+  "license": "MIT",
+  "web": "https://github.com/garrettkinman/SteadyTensor",
+  "tags": [
+    "tensor",
+    "vector",
+    "matrix",
+    "linear-algebra",
+    "ndarray",
+    "array",
+    "embedded",
+    "tinyml"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "eb5a4289e9566273137d28ff5fdb199870793393",
+      "time": 1770499339
+    },
+    "status": "Unknown"
+  }
+}
