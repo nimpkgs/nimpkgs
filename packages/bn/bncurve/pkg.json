@@ -33,19 +33,19 @@
           }
         },
         {
-          "name": "stint",
-          "str": ">= 0.8.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.8.0"
-          }
-        },
-        {
           "name": "stew",
           "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "intops",
+          "str": ">= 1.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.6"
           }
         },
         {
@@ -61,8 +61,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "709b846f5efb4aa57017ab78b992ff6f5bea29c3",
-      "time": 1765375089
+      "hash": "412a11c32b75f45a02e11390bef834e2d4155b4b",
+      "time": 1770630809
     }
   }
 }
