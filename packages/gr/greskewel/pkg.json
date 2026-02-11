@@ -1,0 +1,61 @@
+{
+  "name": "greskewel",
+  "url": "https://github.com/openpeeps/greskewel",
+  "method": "git",
+  "description": "Embedded Postgres in a Box",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/greskewel",
+  "tags": [
+    "postgres",
+    "embedded",
+    "psql",
+    "embedded-db",
+    "db",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "threading",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "9a6338f27d4b8ce2fdf7c0d34fadb0a1ace426e7",
+        "time": 1770716253
+      }
+    ],
+    "commit": {
+      "hash": "4f5dfb831b97310cd499ba11a03fac37e2ebeaaf",
+      "time": 1770718672
+    },
+    "status": "Unknown"
+  }
+}

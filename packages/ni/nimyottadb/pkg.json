@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.1",
+      "version": "0.4.3",
       "requires": [
         {
           "name": "nim",
@@ -21,14 +21,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.2.4"
-          }
-        },
-        {
-          "name": "chronicles",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
           }
         },
         {
@@ -52,6 +44,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.4.3",
+        "hash": "36efb5d064951f7d8bad8d510770f262b43e000a",
+        "time": 1770761709
+      },
       {
         "tag": "v0.4.2",
         "hash": "4c560830efcf6f88121dc91aef3da433a0820783",
@@ -99,8 +96,8 @@
       }
     ],
     "commit": {
-      "hash": "129f553ff766c347bfd7e86d1cd0a4fc3afe4d9c",
-      "time": 1769764058
+      "hash": "36efb5d064951f7d8bad8d510770f262b43e000a",
+      "time": 1770761709
     }
   }
 }
