@@ -1,0 +1,52 @@
+{
+  "name": "fluffy",
+  "url": "https://github.com/treeform/fluffy",
+  "method": "git",
+  "description": "A Nim profile viewer for Chrome JSON trace files.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/fluffy",
+  "tags": [
+    "profiler",
+    "chrome",
+    "trace",
+    "viewer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "silky",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "28346d071511bf30ffd65eec97673bda1f4842a1",
+      "time": 1770849828
+    },
+    "status": "Unknown"
+  }
+}
