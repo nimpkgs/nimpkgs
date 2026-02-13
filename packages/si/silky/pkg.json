@@ -1,38 +1,30 @@
 {
-  "name": "ssz_serialization",
-  "url": "https://github.com/status-im/nim-ssz-serialization",
+  "name": "silky",
+  "url": "https://github.com/treeform/silky",
   "method": "git",
-  "description": "Nim implementation of the Ethereum SSZ serialization format",
+  "description": "Silky immediate mode UI graphics.",
   "license": "MIT",
-  "web": "https://github.com/status-im/nim-ssz-serialization",
+  "web": "https://github.com/treeform/silky",
   "tags": [
-    "library",
-    "ssz",
-    "serialization",
-    "ethereum"
+    "ui",
+    "graphics",
+    "immediate-mode",
+    "gui"
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.0.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.10",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.10"
+            "ver": "2.2.4"
           }
         },
         {
-          "name": "serialization",
-          "str": ">= 0.5.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.5.0"
-          }
-        },
-        {
-          "name": "json_serialization",
+          "name": "pixie",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -40,23 +32,7 @@
           }
         },
         {
-          "name": "stew",
-          "str": ">= 0.4.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.2"
-          }
-        },
-        {
-          "name": "stint",
-          "str": ">= 0.8.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.8.2"
-          }
-        },
-        {
-          "name": "nimcrypto",
+          "name": "shady",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -64,7 +40,7 @@
           }
         },
         {
-          "name": "blscurve",
+          "name": "vmath",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -72,7 +48,7 @@
           }
         },
         {
-          "name": "results",
+          "name": "windy",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -80,7 +56,7 @@
           }
         },
         {
-          "name": "unittest2",
+          "name": "chroma",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -88,7 +64,23 @@
           }
         },
         {
-          "name": "hashtree_abi",
+          "name": "bumpy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "fluffy",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -97,11 +89,12 @@
         }
       ],
       "bin": [],
-      "srcDir": ""
+      "srcDir": "src"
     },
     "commit": {
-      "hash": "79ed8a3f2403ab20f50e5c1b5d1d6baba2ca3eb7",
-      "time": 1770930149
-    }
+      "hash": "b5549a7ec871ed4425ad22e44e0d548d6117bc2d",
+      "time": 1770902440
+    },
+    "status": "Unknown"
   }
 }

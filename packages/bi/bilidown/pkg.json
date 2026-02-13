@@ -1,0 +1,53 @@
+{
+  "name": "bilidown",
+  "url": "https://github.com/bung87/bilidown",
+  "method": "git",
+  "description": "Bilibili video downloader",
+  "license": "MIT",
+  "web": "https://github.com/bung87/bilidown",
+  "tags": [
+    "video",
+    "downloader"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nregex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "bilidown"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f584de394ba2e944175757c3bd7477271f83abfd",
+      "time": 1770867789
+    },
+    "status": "Unknown"
+  }
+}
