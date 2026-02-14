@@ -301,6 +301,14 @@
           }
         },
         {
+          "name": "intops",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "https://github.com/status-im/nimbus-security-resources.git",
           "str": "any version",
           "ver": {
@@ -318,6 +326,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v26.2.0",
+        "hash": "fa7a87e83baa2a9a0f9ff52ea8102230c1c0b1ec",
+        "time": 1771025649
+      },
       {
         "tag": "v26.1.0",
         "hash": "ad14211185e8c0391e0d71d4cce0fcd3513ea480",
@@ -955,8 +968,8 @@
       }
     ],
     "commit": {
-      "hash": "ad14211185e8c0391e0d71d4cce0fcd3513ea480",
-      "time": 1769694480
+      "hash": "fa7a87e83baa2a9a0f9ff52ea8102230c1c0b1ec",
+      "time": 1771025649
     }
   }
 }

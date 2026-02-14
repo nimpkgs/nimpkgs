@@ -1,0 +1,34 @@
+{
+  "name": "iori",
+  "url": "https://github.com/fox0430/iori",
+  "method": "git",
+  "description": "Async file I/O through io_uring",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/iori",
+  "tags": [
+    "async",
+    "file"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "d3a5808f72812bfa07bc8440e6c6d6c2c82b2c39",
+      "time": 1771011255
+    },
+    "status": "Unknown"
+  }
+}

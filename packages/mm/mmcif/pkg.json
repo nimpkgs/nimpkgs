@@ -294,6 +294,7 @@
     "commit": {
       "hash": "b9d196910079d8b2f35c84995268b367b3974ed5",
       "time": 1766017349
-    }
+    },
+    "status": "Unreachable"
   }
 }

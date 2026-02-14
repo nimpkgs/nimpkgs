@@ -1,0 +1,81 @@
+{
+  "name": "jazzy",
+  "url": "https://github.com/canermastan/jazzy-framework",
+  "method": "git",
+  "description": "Productive, developer-friendly web framework for Nim. Write less code, build more features.",
+  "license": "MIT",
+  "web": "https://github.com/canermastan/jazzy-framework",
+  "tags": [
+    "web",
+    "framework",
+    "server",
+    "http",
+    "api",
+    "rest",
+    "sqlite"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "mummy",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "jwt",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        },
+        {
+          "name": "tiny_sqlite",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "jazzy"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "02c7b3e70d8ebcc0abc3c848a48e0b419a26a8af",
+        "time": 1768299629
+      }
+    ],
+    "commit": {
+      "hash": "c5ded6365df35fd2dcea4dd744e3ff6eaaa5fab3",
+      "time": 1770985428
+    },
+    "status": "Unknown"
+  }
+}
