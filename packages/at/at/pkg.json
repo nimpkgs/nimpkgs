@@ -13,14 +13,21 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.2.0",
       "requires": [],
       "bin": [],
       "srcDir": ""
     },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "aee55bea94fc2dd2a5559e61fce4a6fd4301d7a6",
+        "time": 1771161209
+      }
+    ],
     "commit": {
-      "hash": "677b4411786aeb7c8b3197333a0355a3104dc352",
-      "time": 1655111314
+      "hash": "aee55bea94fc2dd2a5559e61fce4a6fd4301d7a6",
+      "time": 1771161209
     }
   }
 }
