@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.6.2",
+      "version": "0.7.0",
       "requires": [
         {
           "name": "nim",
@@ -25,14 +25,6 @@
         {
           "name": "compiler",
           "str": ">= 2.2.0 & < 2.3",
-          "ver": {
-            "kind": "verIntersect",
-            "ver": ""
-          }
-        },
-        {
-          "name": "hldiff",
-          "str": ">= 1.0.7 & < 2",
           "ver": {
             "kind": "verIntersect",
             "ver": ""
@@ -70,6 +62,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.7.0",
+        "hash": "2cacf6cc28116e4046e0b67a13545af5c4e756bd",
+        "time": 1771259986
+      },
       {
         "tag": "v0.6.2",
         "hash": "1c6d7813f9f6d6a4fbcd36dfd1489b18982d0d55",
@@ -117,8 +114,8 @@
       }
     ],
     "commit": {
-      "hash": "4105453afee492c075efceb26b277d7a1c98a29a",
-      "time": 1770722709
+      "hash": "2cacf6cc28116e4046e0b67a13545af5c4e756bd",
+      "time": 1771259986
     }
   }
 }

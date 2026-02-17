@@ -1,0 +1,52 @@
+{
+  "name": "nebble",
+  "url": "https://github.com/Brokezawa/nebble",
+  "method": "git",
+  "description": "Nim wrapper for the Pebble smartwatch SDK",
+  "license": "MIT",
+  "web": "https://github.com/Brokezawa/nebble",
+  "tags": [
+    "pebble",
+    "smartwatch",
+    "embedded",
+    "library",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": ">= 0.2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "7479d86a7bbe34b290927c9339273ade744ee8e0",
+        "time": 1771264286
+      }
+    ],
+    "commit": {
+      "hash": "46a29f5d377586c1a1ff34893cf60f41e70132d6",
+      "time": 1771270059
+    },
+    "status": "Unknown"
+  }
+}
