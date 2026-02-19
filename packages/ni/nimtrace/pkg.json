@@ -1,0 +1,38 @@
+{
+  "name": "nimtrace",
+  "url": "https://github.com/copyleftdev/nimtrace",
+  "method": "git",
+  "description": "Zero-cost structured tracing framework for Nim, inspired by Rust's tracing crate",
+  "license": "MIT",
+  "web": "https://github.com/copyleftdev/nimtrace",
+  "tags": [
+    "tracing",
+    "observability",
+    "opentelemetry",
+    "logging",
+    "instrumentation",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c657157ebcb44bed00b22986455e1d69a5dbe6d3",
+      "time": 1771423680
+    },
+    "status": "Unknown"
+  }
+}

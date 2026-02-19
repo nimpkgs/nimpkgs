@@ -1,0 +1,60 @@
+{
+  "name": "dimslash",
+  "url": "https://github.com/gaato/dimslash",
+  "method": "git",
+  "description": "Interactive command handler for Dimscord",
+  "license": "BlueOak-1.0.0",
+  "web": "https://github.com/gaato/dimslash",
+  "tags": [
+    "discord",
+    "library",
+    "dimscord"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.6"
+          }
+        },
+        {
+          "name": "dimscord",
+          "str": ">= 1.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.8.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.0.3",
+        "hash": "41a108cc94c20d1b333fb7ed0821245633642088",
+        "time": 1771435892
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "97cdc7d0f9366cacf87099d15abcaa66a0befb3a",
+        "time": 1771435766
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "8a2c2e2d7439848b31a15e52d7df6e9820ebe504",
+        "time": 1771434209
+      }
+    ],
+    "commit": {
+      "hash": "41a108cc94c20d1b333fb7ed0821245633642088",
+      "time": 1771435892
+    },
+    "status": "Unknown"
+  }
+}
