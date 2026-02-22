@@ -1,0 +1,40 @@
+{
+  "name": "csort",
+  "url": "https://github.com/WyattBlue/csort",
+  "method": "git",
+  "description": "A fast, branchless, sorting algorithm",
+  "license": "Unlicense",
+  "tags": [
+    "sorting",
+    "simd"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "e9f0c49b234fd4a2038b752ab02703288346ce98",
+        "time": 1771604488
+      }
+    ],
+    "commit": {
+      "hash": "e9f0c49b234fd4a2038b752ab02703288346ce98",
+      "time": 1771604488
+    },
+    "status": "Unknown"
+  }
+}

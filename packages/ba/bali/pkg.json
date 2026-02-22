@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.8.2",
+      "version": "0.8.3",
       "requires": [
         {
           "name": "nim",
@@ -110,14 +110,6 @@
           }
         },
         {
-          "name": "kaleidoscope",
-          "str": ">= 0.1.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.1"
-          }
-        },
-        {
           "name": "https://github.com/ferus-web/nim-gmp",
           "str": ">= 0.1.0",
           "ver": {
@@ -167,10 +159,10 @@
         },
         {
           "name": "url",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.0"
           }
         }
       ],
@@ -181,6 +173,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.8.3",
+        "hash": "a1a08e23527e3c19c9b6de074667e20cfc6f73d5",
+        "time": 1771649428
+      },
       {
         "tag": "0.8.2",
         "hash": "99f0aa14155d0b0c9e39f6273a51c35b497207de",
@@ -383,8 +380,8 @@
       }
     ],
     "commit": {
-      "hash": "1046c9c9ac88308eda171906b3eaeb02f2b60d84",
-      "time": 1771599140
+      "hash": "a1a08e23527e3c19c9b6de074667e20cfc6f73d5",
+      "time": 1771649428
     }
   }
 }

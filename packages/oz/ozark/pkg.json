@@ -1,0 +1,100 @@
+{
+  "name": "ozark",
+  "url": "https://github.com/openpeeps/ozark",
+  "method": "git",
+  "description": "A magical ORM for Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/ozark",
+  "tags": [
+    "orm",
+    "database",
+    "db"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "threading",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "parsesql",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "greskewel",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "36d4f0097950a6b6ee37d451eda575cff3200251",
+        "time": 1771677051
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "3201b7436c32e4bbbbc3a03058ee062215f252fb",
+        "time": 1770628573
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "698b299bc6920d04ac5dcb617bc7f5c9b6293e60",
+        "time": 1770627816
+      }
+    ],
+    "commit": {
+      "hash": "876ac592d5e852a62a39c4b8a4a8f5830833523d",
+      "time": 1771704106
+    },
+    "status": "Unknown"
+  }
+}
