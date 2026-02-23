@@ -1,0 +1,69 @@
+{
+  "name": "lately",
+  "url": "https://github.com/hmbemba/lately",
+  "method": "git",
+  "description": "Nim SDK for the Late.dev API",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/lately",
+  "tags": [
+    "social-media",
+    "facebook",
+    "twitter",
+    "instagram",
+    "x",
+    "tiktok"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        },
+        {
+          "name": "rz",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ic",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "ca0d3417ab4cc7cf1f4f7478fd62850e0a6707e5",
+        "time": 1771807580
+      }
+    ],
+    "commit": {
+      "hash": "ca0d3417ab4cc7cf1f4f7478fd62850e0a6707e5",
+      "time": 1771807580
+    },
+    "status": "Unknown"
+  }
+}
