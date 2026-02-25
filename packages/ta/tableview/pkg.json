@@ -1,0 +1,71 @@
+{
+  "name": "tableview",
+  "url": "https://www.github.com/telatin/tabview",
+  "method": "git",
+  "description": "Interactive table viewer for the terminal",
+  "license": "MIT",
+  "web": "https://telatin.github.io/tabview",
+  "tags": [
+    "tsv",
+    "table",
+    "interactive",
+    "tui",
+    "csv"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimwave",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "illwave",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "tableview"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "900746be99269b058fb8f80e0182dda96ffdd16d",
+        "time": 1771943914
+      }
+    ],
+    "commit": {
+      "hash": "cad7afb196bfe724ea62d1ca5c59ef03cafe0ad9",
+      "time": 1771949044
+    },
+    "status": "Unknown"
+  }
+}

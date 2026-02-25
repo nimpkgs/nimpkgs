@@ -25,10 +25,10 @@
         },
         {
           "name": "nimPNG",
-          "str": ">= 0.3.6",
+          "str": ">= 0.3.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.6"
+            "ver": "0.3.2"
           }
         }
       ],
@@ -38,8 +38,8 @@
     "versions": [
       {
         "tag": "v0.1.9",
-        "hash": "e25d39965f8461a1063c35e1876f88ec9a91fb7d",
-        "time": 1708669004
+        "hash": "1bfdcd02ed4c3ecb263ffad592afd8f695313c82",
+        "time": 1771932663
       },
       {
         "tag": "v0.1.8",
@@ -73,8 +73,8 @@
       }
     ],
     "commit": {
-      "hash": "af83955aef7f79af6f56636205dd61fff9e8e6ce",
-      "time": 1710081744
+      "hash": "366d0b4979f1833df9816ac3dcdaa838bfa2f2f0",
+      "time": 1771932965
     }
   }
 }

@@ -1,0 +1,67 @@
+{
+  "name": "unoisenim",
+  "url": "https://github.com/telatin/unoisenim",
+  "method": "git",
+  "description": "Denoise and taxonomy classification algorithms ported to Nim",
+  "license": "GPL-3.0",
+  "web": "https://telatin.github.io/unoisenim/",
+  "tags": [
+    "unoise3",
+    "uchime",
+    "denoise amplicon",
+    "sintax",
+    "naive bayesian classifier",
+    "metabarcoding"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "readfx",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": ">= 4.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.0"
+          }
+        },
+        {
+          "name": "malebolgia",
+          "str": ">= 1.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.0"
+          }
+        }
+      ],
+      "bin": [
+        "unoise",
+        "nbc",
+        "sintax"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f5930304d4605cc0a97dcc6053e85881b9093ad4",
+      "time": 1771951277
+    },
+    "status": "Unknown"
+  }
+}
