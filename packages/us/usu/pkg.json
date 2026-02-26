@@ -1,0 +1,41 @@
+{
+  "name": "usu",
+  "url": "https://github.com/usu-dev/usu-nim",
+  "method": "git",
+  "description": "usu stores usu",
+  "license": "MIT",
+  "tags": [
+    "config",
+    "serialization",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "27d1f89790239bd056cb7669db6b5bf3bf5e2a6e",
+        "time": 1772044621
+      }
+    ],
+    "commit": {
+      "hash": "600cd088d9d2c8137b296a9d644fb1cb40d8b729",
+      "time": 1772054756
+    },
+    "status": "Unknown"
+  }
+}
