@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -53,14 +53,16 @@
       "bin": [
         "unoise",
         "nbc",
-        "sintax"
+        "sintax",
+        "uchime",
+        "remove_phix"
       ],
       "srcDir": "src"
     },
     "hasBin": true,
     "commit": {
-      "hash": "d01cc300c4fc344b267908cf6c2ba412ed361575",
-      "time": 1772010094
+      "hash": "11b8daa6d4daf7bfb0424172b0f9079fe5c16745",
+      "time": 1772101340
     },
     "status": "Unknown"
   }

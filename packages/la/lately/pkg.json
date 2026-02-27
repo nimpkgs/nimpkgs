@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -48,6 +48,22 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "llmm",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "debby",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
@@ -55,14 +71,19 @@
     },
     "versions": [
       {
+        "tag": "v0.1.2",
+        "hash": "f12d6ad54f79663a19fac7cf8895102da5710f54",
+        "time": 1772122900
+      },
+      {
         "tag": "v0.1.1",
         "hash": "ca0d3417ab4cc7cf1f4f7478fd62850e0a6707e5",
         "time": 1771807580
       }
     ],
     "commit": {
-      "hash": "ca0d3417ab4cc7cf1f4f7478fd62850e0a6707e5",
-      "time": 1771807580
+      "hash": "f12d6ad54f79663a19fac7cf8895102da5710f54",
+      "time": 1772122900
     },
     "status": "Unknown"
   }

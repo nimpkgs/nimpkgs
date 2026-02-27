@@ -15,14 +15,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.2.2",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 2.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
+            "ver": "2.0.0"
           }
         },
         {
@@ -34,7 +34,15 @@
           }
         },
         {
-          "name": "pkginfo",
+          "name": "checksums",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        },
+        {
+          "name": "https://github.com/openpeeps/voodoo",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -42,10 +50,42 @@
           }
         },
         {
-          "name": "msgpack4nim",
-          "str": "#head",
+          "name": "jsony",
+          "str": "any version",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "valido",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nancy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "termstyle",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "noise",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
             "ver": ""
           }
         }
@@ -54,6 +94,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "b734c6d03dd6f7ff5e8115d2c08b8f6492a030f7",
+        "time": 1772135511
+      },
       {
         "tag": "0.1.1",
         "hash": "b154bf5fcd7a94591a46a4bd3ad99e3c06652c9d",
@@ -66,8 +111,8 @@
       }
     ],
     "commit": {
-      "hash": "29fe2182116c0d55de4b6daf1d3aadad1bc18198",
-      "time": 1770342285
+      "hash": "b734c6d03dd6f7ff5e8115d2c08b8f6492a030f7",
+      "time": 1772135511
     }
   }
 }

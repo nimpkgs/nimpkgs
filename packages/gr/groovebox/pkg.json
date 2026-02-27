@@ -1,0 +1,95 @@
+{
+  "name": "groovebox",
+  "url": "https://github.com/openpeeps/groovebox",
+  "method": "git",
+  "description": "Live stream pre-recorded media to Twitch, Yotube and Icecast servers",
+  "license": "AGPL-3.0-or-later",
+  "web": "https://github.com/openpeeps/groovebox",
+  "tags": [
+    "rtmp",
+    "music",
+    "streaming",
+    "audio",
+    "radio",
+    "station",
+    "video",
+    "streaming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "libevent",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "rtmp",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "malebolgia",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nyml",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "groovebox"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "7a888ab7f41dbc27e4419333bf7be08c61718395",
+        "time": 1772140920
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "912b37adc1a90d594065815df00c8c89ff9c535e",
+        "time": 1772134894
+      }
+    ],
+    "commit": {
+      "hash": "7a888ab7f41dbc27e4419333bf7be08c61718395",
+      "time": 1772140920
+    },
+    "status": "Unknown"
+  }
+}

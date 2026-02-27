@@ -1,0 +1,54 @@
+{
+  "name": "rtmp",
+  "url": "https://github.com/openpeeps/rtmp",
+  "method": "git",
+  "description": "Real-Time Messaging Protocol for Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/rtmp",
+  "tags": [
+    "rrtmp",
+    "livestream",
+    "live",
+    "streaming",
+    "client",
+    "server",
+    "libevent"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "libevent",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "7a9dd1a4bb7b51f040433ea7d3ba6c9fc37eb4aa",
+        "time": 1772108450
+      }
+    ],
+    "commit": {
+      "hash": "cc456fe8528c4e0e35be7cdb198c50f5ee97c16b",
+      "time": 1772109702
+    },
+    "status": "Unknown"
+  }
+}

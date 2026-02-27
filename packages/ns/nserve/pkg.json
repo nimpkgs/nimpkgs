@@ -1,10 +1,10 @@
 {
   "name": "nserve",
-  "url": "https://github.com/heckarmon/nserve",
+  "url": "https://github.com/v4rm4n/nserve",
   "method": "git",
   "description": "A lightweight zero-deps, async HTTP file server with uploads",
   "license": "MIT",
-  "web": "https://github.com/heckarmon/nserve",
+  "web": "https://github.com/v4rm4n/nserve",
   "tags": [
     "http",
     "server",
@@ -60,8 +60,8 @@
       }
     ],
     "commit": {
-      "hash": "81d30f89e2e5c89301e585c6e5ce442eca5d214a",
-      "time": 1770650378
+      "hash": "36b2e3b37ee6247d042cc69059d8e7764673359b",
+      "time": 1772083108
     },
     "status": "Unknown"
   }
