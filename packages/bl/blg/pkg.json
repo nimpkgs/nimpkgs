@@ -1,0 +1,54 @@
+{
+  "name": "blg",
+  "url": "https://github.com/capocasa/blg",
+  "method": "git",
+  "description": "Static blog generator using markdown and symlinks",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/blg",
+  "tags": [
+    "blog",
+    "static",
+    "markdown",
+    "generator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "margrave",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        }
+      ],
+      "bin": [
+        "blg"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "31ccc4d0556904d70f5074e0520c4535803e4193",
+        "time": 1772199186
+      }
+    ],
+    "commit": {
+      "hash": "31ccc4d0556904d70f5074e0520c4535803e4193",
+      "time": 1772199186
+    },
+    "status": "Unknown"
+  }
+}
