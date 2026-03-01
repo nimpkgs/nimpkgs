@@ -1,10 +1,10 @@
 {
   "name": "locale",
-  "url": "https://github.com/Amrykid/nim-locale/",
+  "url": "https://github.com/nim-community/nim-locale",
   "method": "git",
   "description": "A simple library for localizing Nim applications.",
   "license": "MIT",
-  "web": "https://github.com/Amrykid/nim-locale",
+  "web": "https://github.com/nim-community/nim-locale",
   "tags": [
     "library",
     "locale",
@@ -18,11 +18,11 @@
       "version": "0.1",
       "requires": [
         {
-          "name": "nimrod",
-          "str": ">= 0.9.4",
+          "name": "nim",
+          "str": ">= 1.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.9.4"
+            "ver": "1.6.0"
           }
         }
       ],
@@ -30,8 +30,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "55f98623ec721a013257a0edf9b54c50b21c51a7",
-      "time": 1535823333
+      "hash": "02f112a98deb04e31b1da5b0947349b123e2c818",
+      "time": 1772287190
     }
   }
 }
