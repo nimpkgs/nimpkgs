@@ -1,0 +1,67 @@
+{
+  "name": "scfg_nim",
+  "url": "https://github.com/heuer/scfg-nim",
+  "method": "git",
+  "description": "scfg (simple configuration file format) parser",
+  "license": "MIT",
+  "web": "https://github.com/heuer/scfg-nim",
+  "tags": [
+    "scfg",
+    "config",
+    "configuration"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "26bde6ccbb24012e01a1c0043815ef27e1b5b2a2",
+        "time": 1771415908
+      },
+      {
+        "tag": "0.2.4",
+        "hash": "f39bc3fa412c0bb3de5de880d8e123e6ad4cae0c",
+        "time": 1771403094
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "f73546b1746816b4effc08c14a4844a5885245ee",
+        "time": 1770839089
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "e1229ba093cbd395fbd6aa3ce19f3c42f903aeca",
+        "time": 1770826475
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "3924edb90db9286f527ae24a80fbe0682f8717cf",
+        "time": 1770817201
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "d85d303d7d4bca3b51973806236c311dd65cbe87",
+        "time": 1769806603
+      }
+    ],
+    "commit": {
+      "hash": "26bde6ccbb24012e01a1c0043815ef27e1b5b2a2",
+      "time": 1771415908
+    },
+    "status": "Unknown"
+  }
+}

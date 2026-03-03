@@ -1,15 +1,17 @@
 {
-  "name": "blg",
-  "url": "https://github.com/capocasa/blg",
+  "name": "nimvault",
+  "url": "https://github.com/HaoZeke/nimvault",
   "method": "git",
-  "description": "Static blog generator using markdown and symlinks",
+  "description": "GPG-encrypted opaque-blob vault with hidden filenames",
   "license": "MIT",
-  "web": "https://github.com/capocasa/blg",
+  "web": "https://github.com/HaoZeke/nimvault",
   "tags": [
-    "blog",
-    "static",
-    "markdown",
-    "generator"
+    "gpg",
+    "encryption",
+    "vault",
+    "secrets",
+    "cli",
+    "dotfiles"
   ],
   "meta": {
     "nimble": {
@@ -24,16 +26,16 @@
           }
         },
         {
-          "name": "margrave",
-          "str": ">= 0.3.0",
+          "name": "cligen",
+          "str": ">= 1.9.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.0"
+            "ver": "1.9.0"
           }
         }
       ],
       "bin": [
-        "blg"
+        "nimvault"
       ],
       "srcDir": "src"
     },
@@ -41,13 +43,13 @@
     "versions": [
       {
         "tag": "v0.1.0",
-        "hash": "31ccc4d0556904d70f5074e0520c4535803e4193",
-        "time": 1772199186
+        "hash": "2062ab4aa316665aaf3cee09e3002a0e911e289d",
+        "time": 1772445283
       }
     ],
     "commit": {
-      "hash": "da4c23ba01c533b5597c8ac0677c8c2ff6c928d3",
-      "time": 1772479594
+      "hash": "7fd02a8ef5efc0bdba357b0f01eb114500e1ee38",
+      "time": 1772448146
     },
     "status": "Unknown"
   }

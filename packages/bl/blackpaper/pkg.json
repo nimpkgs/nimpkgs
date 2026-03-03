@@ -1,0 +1,45 @@
+{
+  "name": "blackpaper",
+  "url": "https://github.com/openpeeps/blackpaper",
+  "method": "git",
+  "description": "A simple Password Strength Estimator",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/blackpaper",
+  "tags": [
+    "password",
+    "strength",
+    "checker",
+    "simd",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "floof",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a30c15a2c08517c8059fb083c6de79a6cc284390",
+      "time": 1772493207
+    },
+    "status": "Unknown"
+  }
+}

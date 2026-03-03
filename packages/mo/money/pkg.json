@@ -1,0 +1,47 @@
+{
+  "name": "money",
+  "url": "https://github.com/openpeeps/money",
+  "method": "git",
+  "description": "Create, calculate and format money in Nim language",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/money",
+  "tags": [
+    "money",
+    "exchange",
+    "currency",
+    "currencies",
+    "cart",
+    "checkout",
+    "transactions"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.12"
+          }
+        },
+        {
+          "name": "bigints",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f8b133341c6cdf1cc7a0b933a0c4d81ec7f8cde3",
+      "time": 1772419540
+    },
+    "status": "Unknown"
+  }
+}

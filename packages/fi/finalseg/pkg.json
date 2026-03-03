@@ -23,7 +23,7 @@
           }
         },
         {
-          "name": "regex",
+          "name": "unicodedb",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -35,8 +35,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "638728cf8606765a04f989c2510c1699fe58ecb4",
-      "time": 1652661156
+      "hash": "ad1e0826c4d08db059165e9fddbc57857b70f15b",
+      "time": 1772434054
     }
   }
 }
