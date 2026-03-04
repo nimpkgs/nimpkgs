@@ -1,0 +1,72 @@
+{
+  "name": "shorten",
+  "url": "https://github.com/capocasa/shorten",
+  "method": "git",
+  "description": "Minimal secure URL shortener with CLI",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/shorten",
+  "tags": [
+    "url",
+    "shortener",
+    "web",
+    "server",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "limdb",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "httpbeast",
+          "str": "#master",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "libsha",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "shorten",
+        "shortend"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "f3aaf237db09cc4585b6db17361f717662070f32",
+        "time": 1772557941
+      }
+    ],
+    "commit": {
+      "hash": "f3aaf237db09cc4585b6db17361f717662070f32",
+      "time": 1772557941
+    },
+    "status": "Unknown"
+  }
+}

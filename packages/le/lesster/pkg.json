@@ -1,0 +1,72 @@
+{
+  "name": "lesster",
+  "url": "https://www.github.com/telatin/lesster",
+  "method": "git",
+  "description": "Display interactive scrollable text (less-like)",
+  "license": "MIT",
+  "web": "https://telatin.github.io/lesster",
+  "tags": [
+    "less",
+    "tui",
+    "interactive",
+    "tui",
+    "markdown"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimwave",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "illwave",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "lesster"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "65df722be02d9b1475b4a66f1c241f2d9105e595",
+      "time": 1772571746
+    },
+    "status": "Unknown"
+  }
+}

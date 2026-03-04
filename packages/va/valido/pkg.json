@@ -33,7 +33,7 @@
           }
         },
         {
-          "name": "zxcvbn",
+          "name": "blackpaper",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -45,8 +45,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "40af32d14a10909b51345d0539d6365f1410896e",
-      "time": 1770347220
+      "hash": "1f7642ff05090a5ea8a1423dd8a6ffb26d851e53",
+      "time": 1772553498
     }
   }
 }
