@@ -44,14 +44,6 @@
           }
         },
         {
-          "name": "cbor_serialization",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "flatty",
           "str": "any version",
           "ver": {
@@ -92,6 +84,14 @@
           }
         },
         {
+          "name": "ozark",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "semver",
           "str": "any version",
           "ver": {
@@ -101,14 +101,6 @@
         },
         {
           "name": "threading",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "zip",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -128,8 +120,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "0fc42f50a653959027abcfb368d74f2c7f68c1ec",
-      "time": 1772592170
+      "hash": "77f441e5c58707d91e2c09128da3d2cc668955d3",
+      "time": 1772811882
     }
   }
 }
