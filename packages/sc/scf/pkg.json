@@ -1,0 +1,47 @@
+{
+  "name": "scf",
+  "url": "https://github.com/capocasa/scf",
+  "method": "git",
+  "description": "Standalone Nim source code filter (stdtmpl) transformer",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/scf",
+  "tags": [
+    "source",
+    "filter",
+    "template",
+    "stdtmpl",
+    "preprocessor"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "scf"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "2352fce2cb5df597b27abc4b85e6e7214eaa12fd",
+        "time": 1772720528
+      }
+    ],
+    "commit": {
+      "hash": "2352fce2cb5df597b27abc4b85e6e7214eaa12fd",
+      "time": 1772720528
+    },
+    "status": "Unknown"
+  }
+}

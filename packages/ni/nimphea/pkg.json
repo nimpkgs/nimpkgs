@@ -1,0 +1,47 @@
+{
+  "name": "nimphea",
+  "url": "https://github.com/Brokezawa/Nimphea",
+  "method": "git",
+  "description": "Nimphea - Elegant Nim bindings for libDaisy Hardware Abstraction Library (Daisy Audio Platform: Seed, Patch, Pod, Field, Petal, Versio)",
+  "license": "MIT",
+  "web": "https://github.com/Brokezawa/Nimphea",
+  "tags": [
+    "embedded",
+    "audio",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0",
+        "time": 1772643628
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "08bfdca15254d6a685bc9101d23c1b421cb0a2c5",
+        "time": 1770288142
+      }
+    ],
+    "commit": {
+      "hash": "c1984dead29a3c9e0be1eede4ca41e7b0e3a28d0",
+      "time": 1772643628
+    },
+    "status": "Unknown"
+  }
+}

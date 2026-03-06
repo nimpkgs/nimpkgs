@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.4",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -29,6 +29,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "0.4.6"
+          }
+        },
+        {
+          "name": "scf",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
@@ -56,6 +64,11 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "0.2.0",
+        "hash": "caed18541feac7804dd422cf17203d34a625f3ea",
+        "time": 1772721234
+      },
+      {
         "tag": "0.1.4",
         "hash": "ea102866d6420e6d6ae642d6acb993127786bd97",
         "time": 1772545083
@@ -71,6 +84,11 @@
         "time": 1772375192
       },
       {
+        "tag": "v0.1.1",
+        "hash": "edb7e252b18acb1ae54bc2723a7fa83406d63e30",
+        "time": 1772308701
+      },
+      {
         "tag": "0.1.1",
         "hash": "c639138f783c4e88aeeacce23b04664fd4cb96bf",
         "time": 1744744147
@@ -82,8 +100,8 @@
       }
     ],
     "commit": {
-      "hash": "ea102866d6420e6d6ae642d6acb993127786bd97",
-      "time": 1772545083
+      "hash": "caed18541feac7804dd422cf17203d34a625f3ea",
+      "time": 1772721234
     }
   }
 }

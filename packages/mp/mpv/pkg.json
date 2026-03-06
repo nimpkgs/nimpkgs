@@ -13,14 +13,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.6",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.6"
+            "ver": "2.2.4"
           }
         },
         {
@@ -30,14 +30,29 @@
             "kind": "verEqLater",
             "ver": "0.6.13"
           }
+        },
+        {
+          "name": "ncurses",
+          "str": ">= 1.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.2"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "386a342f48ec89a2c38637d827bb92b83aebae11",
+        "time": 1772684033
+      }
+    ],
     "commit": {
-      "hash": "2d773e39eb5df57562bb6a43cdcc14aad1f85f34",
-      "time": 1758796179
+      "hash": "386a342f48ec89a2c38637d827bb92b83aebae11",
+      "time": 1772684033
     }
   }
 }

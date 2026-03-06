@@ -23,14 +23,6 @@
             "kind": "verEqLater",
             "ver": "2.2.0"
           }
-        },
-        {
-          "name": "unittest2",
-          "str": ">= 0.2.5",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.5"
-          }
         }
       ],
       "bin": [
@@ -42,8 +34,8 @@
     "versions": [
       {
         "tag": "v1.1.0",
-        "hash": "cf5fe91380f8d31ef728419af4739ec94131325e",
-        "time": 1772567200
+        "hash": "24588ded0e323e5ca75deb9a95aa921f6a82d405",
+        "time": 1772630181
       },
       {
         "tag": "v1.0.0",
@@ -52,8 +44,8 @@
       }
     ],
     "commit": {
-      "hash": "cf5fe91380f8d31ef728419af4739ec94131325e",
-      "time": 1772567200
+      "hash": "24588ded0e323e5ca75deb9a95aa921f6a82d405",
+      "time": 1772630181
     },
     "status": "Unknown"
   }
