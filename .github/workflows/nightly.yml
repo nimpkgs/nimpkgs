@@ -13,4 +13,4 @@ jobs:
     uses: ./.github/workflows/crawl.yml
     secrets: inherit
     with:
-      flags: "--check:@valid"
+      flags: "--check:@valid --continue"
