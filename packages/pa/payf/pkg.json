@@ -1,0 +1,63 @@
+{
+  "name": "payf",
+  "url": "https://github.com/capocasa/payf",
+  "method": "git",
+  "description": "SEPA instant transfer CLI via FinTS 3.0",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/payf",
+  "tags": [
+    "fints",
+    "sepa",
+    "banking",
+    "transfer",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "payf"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "f5fa11b0d146fb4ba4ecb8848ddf34411aab8209",
+        "time": 1772805741
+      }
+    ],
+    "commit": {
+      "hash": "f5fa11b0d146fb4ba4ecb8848ddf34411aab8209",
+      "time": 1772805741
+    },
+    "status": "Unknown"
+  }
+}
