@@ -1,0 +1,59 @@
+{
+  "name": "nimtra",
+  "url": "https://github.com/nimmer-jp/nimtra",
+  "method": "git",
+  "description": "Async-first ORM and libSQL client for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimmer-jp/nimtra",
+  "tags": [
+    "nim",
+    "library",
+    "orm",
+    "nim-orm",
+    "orm-cli",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimtra",
+        "nimtra_cli"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "3c0e73298845498306b2f47d961a0c200962b824",
+        "time": 1772896244
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "387fe544d1a17699805dad1bdfe3330b0b46d3fd",
+        "time": 1772892535
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c7879f6ca042820167a263604993d0ffcd0dd36b",
+        "time": 1772885430
+      }
+    ],
+    "commit": {
+      "hash": "8da7c2cad3664634e2e55fceeb2a40ad0762b312",
+      "time": 1772901963
+    },
+    "status": "Unknown"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "gpt4free",
+  "url": "https://github.com/Monsler/gpt4free",
+  "method": "git",
+  "description": "implementation of python library called as same as this one which provides free providers for AI",
+  "license": "MIT",
+  "web": "https://github.com/Monsler/gpt4free",
+  "tags": [
+    "ai",
+    "llm",
+    "gpt",
+    "chat",
+    "api-client",
+    "http"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "abbeee48a3a53eb68ffa7a008afc7965a984a4ea",
+        "time": 1772896631
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "3a3b3387a8469d2741716cfee8807881d1b026d6",
+        "time": 1772890014
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "4a637ea9b2ace835c11b2258869f0e9d2731df80",
+        "time": 1772877073
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "60222436ffb6030e387b1c706ea062916775eb3f",
+        "time": 1772876801
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "1aa5619a84c5817ff854eef03c18c3a4fc5cf114",
+        "time": 1772876529
+      },
+      {
+        "tag": "v0.1.3a",
+        "hash": "1a0a20559a3706887541100a6c4b37aacd4786df",
+        "time": 1772876348
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "911974626f67da005665be96bb58627ca7b71dfb",
+        "time": 1772876228
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "023aea6497148522cd6562004c4d68235fd691bd",
+        "time": 1772874383
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "b426c486e5b60dffa8b0a90ac174f3cc45433ab4",
+        "time": 1772831371
+      }
+    ],
+    "commit": {
+      "hash": "abbeee48a3a53eb68ffa7a008afc7965a984a4ea",
+      "time": 1772896631
+    },
+    "status": "Unknown"
+  }
+}
