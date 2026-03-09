@@ -1,0 +1,52 @@
+{
+  "name": "async_postgres",
+  "url": "https://github.com/fox0430/async-postgres",
+  "method": "git",
+  "description": "Async PostgreSQL client",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/async-postgres",
+  "tags": [
+    "async",
+    "db",
+    "postgres",
+    "sql"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "ccc4d3de5f9e231fc1411b1461532aa3e3fdf487",
+      "time": 1772980159
+    },
+    "status": "Unknown"
+  }
+}

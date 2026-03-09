@@ -1,0 +1,46 @@
+{
+  "name": "sfax",
+  "url": "https://github.com/capocasa/sfax",
+  "method": "git",
+  "description": "simple-fax.de CLI client",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/sfax",
+  "tags": [
+    "fax",
+    "simple-fax",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [
+        "sfax"
+      ],
+      "srcDir": "."
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "56a5c08d70751fd019df19ad29cf6ddf663009fd",
+      "time": 1772977371
+    },
+    "status": "Unknown"
+  }
+}

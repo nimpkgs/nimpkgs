@@ -1,0 +1,75 @@
+{
+  "name": "ybus",
+  "url": "https://github.com/nim-windowing/ybus",
+  "method": "git",
+  "description": "A pure-Nim implementation of the D-Bus protocol with a high-level and simple client.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/nim-windowing/ybus",
+  "tags": [
+    "dbus",
+    "linux",
+    "pure",
+    "ipc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "shakar",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        },
+        {
+          "name": "flatty",
+          "str": ">= 0.3.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.4"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.1"
+          }
+        },
+        {
+          "name": "pretty",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "041d8dc6e52c0ea06be48017102b7c2007ccf9a2",
+        "time": 1772946555
+      }
+    ],
+    "commit": {
+      "hash": "041d8dc6e52c0ea06be48017102b7c2007ccf9a2",
+      "time": 1772946555
+    },
+    "status": "Unknown"
+  }
+}

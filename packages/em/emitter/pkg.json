@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -27,15 +27,15 @@
           }
         },
         {
-          "name": "malebolgia",
-          "str": "#head",
+          "name": "libevent",
+          "str": "any version",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verAny",
             "ver": ""
           }
         },
         {
-          "name": "msgpack4nim",
+          "name": "flatty",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -47,8 +47,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "3cff217bc430a925940602e046363f938b296d10",
-      "time": 1712849680
+      "hash": "442bfd533b45595a193beda6a33f66ac483f91af",
+      "time": 1772975176
     }
   }
 }

@@ -1,0 +1,43 @@
+{
+  "name": "nayland",
+  "url": "https://github.com/nim-windowing/nayland",
+  "method": "git",
+  "description": "High-level wrappers for various Wayland protocols (core, fractional scale, etc.)",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/nim-windowing/nayland",
+  "tags": [
+    "wayland",
+    "ffi",
+    "wrapper",
+    "linux"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "24a93566ccdb93c1f7b01b045c28a52b0fa33dff",
+        "time": 1771658630
+      }
+    ],
+    "commit": {
+      "hash": "24a93566ccdb93c1f7b01b045c28a52b0fa33dff",
+      "time": 1771658630
+    },
+    "status": "Unknown"
+  }
+}

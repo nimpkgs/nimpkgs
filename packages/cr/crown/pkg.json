@@ -1,0 +1,70 @@
+{
+  "name": "crown",
+  "url": "https://github.com/nimmer-jp/crown",
+  "method": "git",
+  "description": "Next generation meta-framework for Nim, powered by Basolato and HTMX",
+  "license": "MIT",
+  "web": "https://github.com/nimmer-jp/crown",
+  "tags": [
+    "web",
+    "framework",
+    "basolato",
+    "htmx"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "basolato",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimmer-jp/tiara",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "crown"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "921e168e0c16f3c9d2892e649376c8040ae00ae6",
+        "time": 1772956900
+      }
+    ],
+    "commit": {
+      "hash": "246b4e1166b64da78075f42017136cf7a4b20d8d",
+      "time": 1772957007
+    },
+    "status": "Unknown"
+  }
+}
