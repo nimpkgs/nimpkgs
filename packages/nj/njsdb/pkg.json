@@ -1,0 +1,52 @@
+{
+  "name": "njsdb",
+  "url": "https://github.com/bung87/nim-simpledb",
+  "method": "git",
+  "description": "NJSDB - Nim JSON SQLite Database - A simple NoSQL JSON document database",
+  "license": "MIT",
+  "web": "https://github.com/bung87/nim-simpledb",
+  "tags": [
+    "sqlite",
+    "nosql",
+    "document",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "classes",
+          "str": ">= 0.3.17",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.17"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9a0b20e4db222caa06240cb6067d499e150ff817",
+      "time": 1773016262
+    },
+    "status": "Unknown"
+  }
+}

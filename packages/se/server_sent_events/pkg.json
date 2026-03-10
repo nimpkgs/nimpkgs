@@ -1,0 +1,71 @@
+{
+  "name": "server_sent_events",
+  "url": "https://github.com/iceberg-work/sse",
+  "method": "git",
+  "description": "A dedicated Server-Sent Events (SSE) library for Nim - framework agnostic, production-ready.",
+  "license": "MIT",
+  "web": "https://github.com/iceberg-work/sse",
+  "tags": [
+    "server-sent-events",
+    "streaming",
+    "http",
+    "real-time",
+    "web",
+    "notifications",
+    "llm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "87934ce3e0933a3605219cbf60177f411ad4c478",
+        "time": 1773048122
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "f45c38a7ee3cc05976b541c7c9a96d85b4d5a437",
+        "time": 1772992358
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "63063a09e7551b2058b8c65d61ff3b49291ca931",
+        "time": 1772991078
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "299319d893b18f46dfccf9fc89abe5127d71de2e",
+        "time": 1772990987
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "93e721c82c05d1a9881980b242890c76ecee0847",
+        "time": 1772990721
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "92b369832cd19b997d1df22e9edb0f29416ffdd3",
+        "time": 1772987230
+      }
+    ],
+    "commit": {
+      "hash": "87934ce3e0933a3605219cbf60177f411ad4c478",
+      "time": 1773048122
+    },
+    "status": "Unknown"
+  }
+}

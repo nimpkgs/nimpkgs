@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.3.6",
       "requires": [
         {
           "name": "nim",
@@ -24,7 +24,7 @@
           }
         },
         {
-          "name": "basolato",
+          "name": "https://github.com/itsumura-h/nim-basolato",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -56,14 +56,44 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "v0.3.6",
+        "hash": "ce477d35abe18eb1af204039ba3b0c2aceea685f",
+        "time": 1773077467
+      },
+      {
+        "tag": "v0.3.5",
+        "hash": "bd728598cde267d67571de5d486bde53bb0f1c8d",
+        "time": 1773076955
+      },
+      {
+        "tag": "v0.3.4",
+        "hash": "27b50d6d6458d210d97bddb85a5ebabb4e8a2306",
+        "time": 1773071443
+      },
+      {
+        "tag": "v0.3.3",
+        "hash": "5b8a62e53e3a10d29f72c0503f85491b92b9241f",
+        "time": 1773059862
+      },
+      {
+        "tag": "v0.3.2",
+        "hash": "0f863f50f2570b9401b8cd5f1476012709c7e1aa",
+        "time": 1773027301
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "76b9bc4cf05729665831271105515dcd951f63a3",
+        "time": 1773026808
+      },
+      {
         "tag": "v0.3.0",
         "hash": "921e168e0c16f3c9d2892e649376c8040ae00ae6",
         "time": 1772956900
       }
     ],
     "commit": {
-      "hash": "246b4e1166b64da78075f42017136cf7a4b20d8d",
-      "time": 1772957007
+      "hash": "ce477d35abe18eb1af204039ba3b0c2aceea685f",
+      "time": 1773077467
     },
     "status": "Unknown"
   }
