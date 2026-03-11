@@ -1,0 +1,55 @@
+{
+  "name": "cozycliparser",
+  "url": "https://github.com/indiscipline/cozycliparser",
+  "method": "git",
+  "description": "CLI argument parser, featureful wrapper over std/parseopt",
+  "license": "GPL-2.0-or-later",
+  "doc": "https://indiscipline.github.io/cozycliparser/",
+  "tags": [
+    "cli",
+    "parser",
+    "command-line",
+    "argument",
+    "argparse",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.3.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "e0351c2e6052d5ce72f9172b54a321398004d9b4",
+        "time": 1773169016
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "0ff637632b25e512acb56ef3ae5598a17af81f72",
+        "time": 1773162508
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "57092cf2d3ae78f6b8db202567debcd95e376fd7",
+        "time": 1773108893
+      }
+    ],
+    "commit": {
+      "hash": "e0351c2e6052d5ce72f9172b54a321398004d9b4",
+      "time": 1773169016
+    },
+    "status": "Unknown"
+  }
+}

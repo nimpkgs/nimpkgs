@@ -1,0 +1,67 @@
+{
+  "name": "papr",
+  "url": "https://github.com/capocasa/papr",
+  "method": "git",
+  "description": "Paperless-ngx CLI for listing, inspecting and downloading documents",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/papr",
+  "tags": [
+    "paperless",
+    "paperless-ngx",
+    "cli",
+    "documents"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "papr"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "275aa7c7ed3795b8474797fe4937ab4e3b863ba2",
+        "time": 1773149622
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "c5b52c836e4ab25555519d95683f65bd342deb92",
+        "time": 1773059229
+      }
+    ],
+    "commit": {
+      "hash": "275aa7c7ed3795b8474797fe4937ab4e3b863ba2",
+      "time": 1773149622
+    },
+    "status": "Unknown"
+  }
+}

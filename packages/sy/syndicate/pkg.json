@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.20260309",
+      "version": "0.20260310",
       "requires": [
         {
           "name": "https://github.com/cheatfate/nimcrypto",
@@ -27,10 +27,10 @@
         },
         {
           "name": "https://git.syndicate-lang.org/ehmry/preserves-nim.git",
-          "str": "0.20260102",
+          "str": "0.20260309",
           "ver": {
             "kind": "verEq",
-            "ver": "0.20260102"
+            "ver": "0.20260309"
           }
         },
         {
@@ -76,7 +76,7 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "768cbd6274e7591e418b1434599183506ebb6ec4",
+      "hash": "04a4561f647283369fee865ae7a0ebc35035f70d",
       "time": 1773057600
     }
   }
