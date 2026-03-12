@@ -1,0 +1,43 @@
+{
+  "name": "holo_json",
+  "url": "https://github.com/holo-nim/holo-json",
+  "method": "git",
+  "description": "fork of jsony for use in applications",
+  "license": "MIT",
+  "web": "https://github.com/holo-nim/holo-json",
+  "tags": [
+    "json",
+    "serialization",
+    "parser"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/metagn/hemodyne",
+          "str": "#HEAD",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8d5b352af863bd6bf1917a7fddde81d5826efad4",
+      "time": 1773088037
+    },
+    "status": "Unknown"
+  }
+}

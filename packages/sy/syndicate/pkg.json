@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.20260310",
+      "version": "0.20260311",
       "requires": [
         {
           "name": "https://github.com/cheatfate/nimcrypto",
@@ -76,8 +76,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "04a4561f647283369fee865ae7a0ebc35035f70d",
-      "time": 1773057600
+      "hash": "d33843c51ca3b0126f2b21111e881c8a278c35c3",
+      "time": 1773187200
     }
   }
 }

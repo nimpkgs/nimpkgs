@@ -42,7 +42,7 @@
           }
         },
         {
-          "name": "https://github.com/openpeeps/voodoo",
+          "name": "voodoo",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -59,9 +59,9 @@
         },
         {
           "name": "valido",
-          "str": "any version",
+          "str": "#head",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -95,6 +95,11 @@
     },
     "versions": [
       {
+        "tag": "0.2.3",
+        "hash": "ba5284cb04c61ad8f8314929f27651ccdaf914ec",
+        "time": 1773268799
+      },
+      {
         "tag": "0.2.2",
         "hash": "b734c6d03dd6f7ff5e8115d2c08b8f6492a030f7",
         "time": 1772135511
@@ -111,8 +116,8 @@
       }
     ],
     "commit": {
-      "hash": "4ba6b15f8816e048055e3e2fe895489aab1915ae",
-      "time": 1772833724
+      "hash": "ba5284cb04c61ad8f8314929f27651ccdaf914ec",
+      "time": 1773268799
     }
   }
 }

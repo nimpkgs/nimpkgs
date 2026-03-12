@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.2",
+      "version": "0.1.0",
       "requires": [
         {
           "name": "nim",
@@ -26,39 +26,7 @@
           }
         },
         {
-          "name": "checksums",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "toktok",
-          "str": ">= 0.1.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.2"
-          }
-        },
-        {
           "name": "kapsis",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "malebolgia",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "watchout",
           "str": "#head",
           "ver": {
             "kind": "verSpecial",
@@ -66,55 +34,7 @@
           }
         },
         {
-          "name": "https://github.com/georgelemon/jsony",
-          "str": "#add-critbits-support",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "nyml",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "denim",
-          "str": ">= 0.1.7",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.7"
-          }
-        },
-        {
-          "name": "chroma",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "stashtable",
-          "str": ">= 1.2.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.2.2"
-          }
-        },
-        {
-          "name": "httpx",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "websocketx",
+          "name": "jsony",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -130,10 +50,66 @@
           }
         },
         {
-          "name": "supersnappy",
+          "name": "checksums",
           "str": "any version",
           "ver": {
             "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nyml",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "semver",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "denim",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chroma",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "watchout",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
             "ver": ""
           }
         }
@@ -145,8 +121,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "1020669585a0994f7d65f4d7ec894ae6fcabaa75",
-      "time": 1709655321
+      "hash": "7796b66a47d491d35f828630b328da2f6bcd047f",
+      "time": 1773234356
     }
   }
 }
