@@ -123,10 +123,10 @@
         },
         {
           "name": "libp2p",
-          "str": ">= 1.15.0",
+          "str": ">= 1.14.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.15.0"
+            "ver": "1.14.2"
           }
         },
         {
@@ -176,30 +176,6 @@
             "kind": "verAny",
             "ver": ""
           }
-        },
-        {
-          "name": "lsquic",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "jwt",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "ffi",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
         }
       ],
       "bin": [],
@@ -207,14 +183,9 @@
     },
     "versions": [
       {
-        "tag": "v0.38.0-beta",
-        "hash": "104ce6e5ac16b9c5e818788e2fb2858c36f36bbf",
-        "time": 1771504411
-      },
-      {
-        "tag": "v0.38.0-rc.0",
-        "hash": "5be4cfba36888cbe61cacb17b6787ab19d430292",
-        "time": 1771000012
+        "tag": "v0.37.1",
+        "hash": "4654975e66381f63ce7d82f035500e826b38f1a6",
+        "time": 1773304270
       },
       {
         "tag": "v0.36.1-rc.0",
@@ -508,8 +479,8 @@
       }
     ],
     "commit": {
-      "hash": "0ad55159b39ed74ba6b88b5a9d72db766b4b0f08",
-      "time": 1772614128
+      "hash": "bc9454db5e0258eaa964f36c37d7204244ece9a5",
+      "time": 1773347270
     }
   }
 }
