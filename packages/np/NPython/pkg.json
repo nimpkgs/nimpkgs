@@ -27,6 +27,14 @@
           }
         },
         {
+          "name": "https://github.com/nimpylib/intobject",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "https://github.com/nimpylib/pyrepr",
           "str": "any version",
           "ver": {
@@ -43,7 +51,47 @@
           }
         },
         {
+          "name": "https://github.com/nimpylib/nimpatch",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "https://github.com/nimpylib/translateEscape",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/handy_sugars",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/unicode_space_decimal",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/float_utils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pycomplex",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -58,8 +106,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "15e0417e69b6a264a883d8a26d35d572113273cc",
-      "time": 1771606426
+      "hash": "26d490575a4073986da779abd53fb52ba22f6197",
+      "time": 1773525441
     }
   }
 }
