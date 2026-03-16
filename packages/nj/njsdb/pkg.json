@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.2",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -24,19 +24,11 @@
           }
         },
         {
-          "name": "classes",
-          "str": ">= 0.3.17",
+          "name": "tiny_sqlite",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.17"
-          }
-        },
-        {
-          "name": "db_connector",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.0"
           }
         }
       ],
@@ -44,8 +36,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "9a0b20e4db222caa06240cb6067d499e150ff817",
-      "time": 1773016262
+      "hash": "f90de67cef9133b93cc86ca56bf186ece1e307b9",
+      "time": 1773600684
     },
     "status": "Unknown"
   }

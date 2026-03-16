@@ -108,7 +108,7 @@
           }
         },
         {
-          "name": "https://github.com/openpeeps/pluginkit",
+          "name": "pluginkit",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -131,8 +131,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "b875bc546f76d2f40501f010a099aaac3f9a1bb7",
-      "time": 1773227739
+      "hash": "836503a123409a64826a61a0aac3cb7225e24103",
+      "time": 1773592463
     },
     "status": "Unknown"
   }

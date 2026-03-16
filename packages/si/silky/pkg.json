@@ -56,6 +56,22 @@
           }
         },
         {
+          "name": "dx12",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "metal4",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "chroma",
           "str": "any version",
           "ver": {
@@ -92,8 +108,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "f2fef8f11b477805e6a6d1aca3c27b5d6e75b8bd",
-      "time": 1772822980
+      "hash": "25ad0b3372fdad9bc323c68726add5a0280180ef",
+      "time": 1773626841
     },
     "status": "Unknown"
   }

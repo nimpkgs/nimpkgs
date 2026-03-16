@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.2",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "nim",
@@ -26,19 +26,11 @@
           }
         },
         {
-          "name": "illwill",
+          "name": "https://github.com/openpeeps/pluginkit",
           "str": "any version",
           "ver": {
             "kind": "verAny",
             "ver": ""
-          }
-        },
-        {
-          "name": "checksums",
-          "str": ">= 0.2.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.1"
           }
         },
         {
@@ -59,14 +51,6 @@
         },
         {
           "name": "valido",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "nancy",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -75,6 +59,14 @@
         },
         {
           "name": "termstyle",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nancy",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -94,6 +86,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "3c3a8f06a580e769cfee5c6239cc039959691438",
+        "time": 1773548178
+      },
       {
         "tag": "0.2.3",
         "hash": "ba5284cb04c61ad8f8314929f27651ccdaf914ec",
@@ -116,8 +113,8 @@
       }
     ],
     "commit": {
-      "hash": "4ce1ae0843663f339662925378b8a2dc05d3dfb6",
-      "time": 1773428842
+      "hash": "3c3a8f06a580e769cfee5c6239cc039959691438",
+      "time": 1773548178
     }
   }
 }
