@@ -1,0 +1,55 @@
+{
+  "name": "pluginkit",
+  "url": "https://github.com/openpeeps/pluginkit",
+  "method": "git",
+  "description": "Create and manage plugins in a modular way",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/pluginkit",
+  "tags": [
+    "plugins",
+    "lib",
+    "sharedlib",
+    "dynlib",
+    "plugin",
+    "modular",
+    "pluginsystem"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "semver",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "17e01767ad4e1ecc80852c284aa47023af4bb004",
+      "time": 1773393303
+    },
+    "status": "Unknown"
+  }
+}

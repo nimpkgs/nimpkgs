@@ -1,0 +1,40 @@
+{
+  "name": "json2schema",
+  "url": "https://github.com/Luteva-ssh/json2schema",
+  "method": "git",
+  "description": "Infer a JSON Schema (draft 2020-12) from any JSON value. No real data values are ever copied into the output — only structural and type information.",
+  "license": "MIT",
+  "web": "https://github.com/Luteva-ssh/json2schema",
+  "tags": [
+    "json",
+    "schema",
+    "converter",
+    "JSON Schema",
+    "JSON Schema (draft 2020-12)"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "json2schema"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "43d99722418ce1ad99919ce0d6e3d8cb604033ae",
+      "time": 1773318464
+    },
+    "status": "Unknown"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "nimhuml",
+  "url": "https://github.com/w3Abhishek/nimhuml",
+  "method": "git",
+  "description": "A Nim implementation of HUML (Human-Oriented Markup Language) parser and serializer",
+  "license": "MIT",
+  "web": "https://github.com/w3Abhishek/nimhuml",
+  "tags": [
+    "huml",
+    "parser",
+    "serializer",
+    "markup",
+    "configuration",
+    "json"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "f02c2e9b8942bc7e070611dc4fd6f8ce0f54b616",
+        "time": 1773545167
+      }
+    ],
+    "commit": {
+      "hash": "f02c2e9b8942bc7e070611dc4fd6f8ce0f54b616",
+      "time": 1773545167
+    },
+    "status": "Unknown"
+  }
+}

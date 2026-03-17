@@ -1,0 +1,71 @@
+{
+  "name": "nimctx",
+  "url": "https://github.com/nim-community/nimctx",
+  "method": "git",
+  "description": "Nim Context MCP Server - Provides Nim stdlib and project dependencies context for AI assistants",
+  "license": "MIT",
+  "web": "https://github.com/nim-community/nimctx",
+  "tags": [
+    "Nim",
+    "Context",
+    "MCP",
+    "Server"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nimcp",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "mummy",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "taskpools",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        },
+        {
+          "name": "tiny_sqlite",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimctx"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "e32ff2b02395e61e74b387cbbd3e969610fa35db",
+      "time": 1773516692
+    },
+    "status": "Unknown"
+  }
+}
