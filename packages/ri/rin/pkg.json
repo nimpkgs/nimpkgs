@@ -1,0 +1,40 @@
+{
+  "name": "rin",
+  "url": "https://github.com/capocasa/rin",
+  "method": "git",
+  "description": "Tiny CLI timer with desktop notification and alarm sound",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/rin",
+  "tags": [
+    "timer",
+    "notification",
+    "cli",
+    "pulseaudio",
+    "dbus"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "rin"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "9e2a18f9650788914cca0b79b72c1dcf0b653593",
+      "time": 1773758250
+    },
+    "status": "Unknown"
+  }
+}

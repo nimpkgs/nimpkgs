@@ -50,10 +50,10 @@
         },
         {
           "name": "npeg",
-          "str": "#22449099",
+          "str": ">= 1.3.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.3.0"
           }
         },
         {
@@ -69,8 +69,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "4d74e157cdf1bdcd0ffd41519ebde740c4b80447",
-      "time": 1751534624
+      "hash": "74c58c0e81ee33082b2158938b67fa62295cb790",
+      "time": 1773753868
     }
   }
 }

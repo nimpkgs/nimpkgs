@@ -1,0 +1,68 @@
+{
+  "name": "metal4",
+  "url": "https://github.com/treeform/metal4",
+  "method": "git",
+  "description": "Metal 4 bindings for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/metal4",
+  "tags": [
+    "metal",
+    "macos",
+    "graphics",
+    "bindings",
+    "gpu"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "windy",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.0"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "4b535b779d2d7bc2f28ee810a73ca0a827d15756",
+        "time": 1773674173
+      }
+    ],
+    "commit": {
+      "hash": "4b535b779d2d7bc2f28ee810a73ca0a827d15756",
+      "time": 1773674173
+    },
+    "status": "Unknown"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "dx12",
+  "url": "https://github.com/treeform/dx12",
+  "method": "git",
+  "description": "DirectX 12 wrapper for Nim on Windows.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/dx12",
+  "tags": [
+    "directx",
+    "d3d12",
+    "windows",
+    "graphics",
+    "bindings",
+    "gpu"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "windy",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "940a128b3ebba90dfc2be86054a9c5cb323e08c7",
+        "time": 1773673756
+      }
+    ],
+    "commit": {
+      "hash": "940a128b3ebba90dfc2be86054a9c5cb323e08c7",
+      "time": 1773673756
+    },
+    "status": "Unknown"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "vk14",
+  "url": "https://github.com/treeform/vk14",
+  "method": "git",
+  "description": "Vulkan 1.4 wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/vk14",
+  "tags": [
+    "vulkan",
+    "graphics",
+    "bindings",
+    "gpu",
+    "cross-platform"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "windy",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "538a4423579bf7adee561d3f0b9ccb6b26208ae4",
+        "time": 1773674101
+      }
+    ],
+    "commit": {
+      "hash": "538a4423579bf7adee561d3f0b9ccb6b26208ae4",
+      "time": 1773674101
+    },
+    "status": "Unknown"
+  }
+}

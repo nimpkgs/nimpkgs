@@ -1,0 +1,76 @@
+{
+  "name": "ogl46",
+  "url": "https://github.com/treeform/ogl46",
+  "method": "git",
+  "description": "OpenGL 4.6 DSA wrapper for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/ogl46",
+  "tags": [
+    "opengl",
+    "graphics",
+    "bindings",
+    "gpu",
+    "dsa"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "opengl",
+          "str": ">= 1.2.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.9"
+          }
+        },
+        {
+          "name": "windy",
+          "str": ">= 0.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.1"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.0"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
+        "time": 1773674133
+      }
+    ],
+    "commit": {
+      "hash": "cc37e9c68f229a9ef2f5df048f6b5acc414ecdb4",
+      "time": 1773674133
+    },
+    "status": "Unknown"
+  }
+}
