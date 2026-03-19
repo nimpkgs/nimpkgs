@@ -54,6 +54,14 @@
             "kind": "verEqLater",
             "ver": "0.2.0"
           }
+        },
+        {
+          "name": "chronicles",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
         }
       ],
       "bin": [
@@ -63,8 +71,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "e32ff2b02395e61e74b387cbbd3e969610fa35db",
-      "time": 1773516692
+      "hash": "9acd7b067e428e2e1de315b818da51cff6189594",
+      "time": 1773839765
     },
     "status": "Unknown"
   }

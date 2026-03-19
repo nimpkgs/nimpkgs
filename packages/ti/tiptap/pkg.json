@@ -1,0 +1,46 @@
+{
+  "name": "tiptap",
+  "url": "https://github.com/openpeeps/tiptap-nim",
+  "method": "git",
+  "description": "TipTap content validator for Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/tiptap-nim",
+  "tags": [
+    "editor",
+    "content",
+    "texteditor",
+    "tiptap",
+    "js",
+    "validator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0dc629531c0e2449f3649f92ae377c0ae5b6004b",
+      "time": 1773863165
+    },
+    "status": "Unknown"
+  }
+}
