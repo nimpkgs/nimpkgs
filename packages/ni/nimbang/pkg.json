@@ -1,0 +1,51 @@
+{
+  "name": "nimbang",
+  "url": "https://github.com/jabbalaci/nimbang",
+  "method": "git",
+  "description": "A small program to make Nim shebang-able without the overhead of compiling each time. A fork of nimcr.",
+  "license": "MIT",
+  "web": "https://github.com/jabbalaci/nimbang",
+  "tags": [
+    "shebang",
+    "utility",
+    "script",
+    "nimcr"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.16.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimbang"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.4.1",
+        "hash": "62d27e8c70397bbf91425338ead96651296c6cf8",
+        "time": 1773922592
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "61aea383042ed59d4f246077a026503b869b6a09",
+        "time": 1773872791
+      }
+    ],
+    "commit": {
+      "hash": "62d27e8c70397bbf91425338ead96651296c6cf8",
+      "time": 1773922592
+    },
+    "status": "Unknown"
+  }
+}
