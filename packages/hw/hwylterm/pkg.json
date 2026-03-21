@@ -1,0 +1,43 @@
+{
+  "name": "hwylterm",
+  "url": "https://github.com/daylinmorgan/hwylterm",
+  "method": "git",
+  "description": "bringing some fun (hwyl) to the terminal",
+  "license": "MIT",
+  "web": "https://hwylterm.dayl.in",
+  "doc": "https://hwylterm.dayl.in",
+  "tags": [
+    "ansi",
+    "terminal",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "7a836a89184d85b393d157a61cb067f7ae047c9d",
+        "time": 1774017221
+      }
+    ],
+    "commit": {
+      "hash": "835af6557e6c934227c9369e45c54da2ca78e474",
+      "time": 1774018131
+    },
+    "status": "Unknown"
+  }
+}

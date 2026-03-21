@@ -1,13 +1,16 @@
 {
-  "name": "usu",
-  "url": "https://github.com/usu-dev/usu-nim",
+  "name": "wrenim",
+  "url": "https://github.com/viktornv/wrenim",
   "method": "git",
-  "description": "usu stores usu",
+  "description": "High-level Nim wrapper for Wren VM",
   "license": "MIT",
+  "web": "https://github.com/viktornv/wrenim",
   "tags": [
-    "config",
-    "serialization",
-    "parser"
+    "wren",
+    "vm",
+    "nim",
+    "dsl",
+    "ffi"
   ],
   "meta": {
     "nimble": {
@@ -28,13 +31,13 @@
     "versions": [
       {
         "tag": "v0.1.0",
-        "hash": "27d1f89790239bd056cb7669db6b5bf3bf5e2a6e",
-        "time": 1772044621
+        "hash": "02174bfd9f26699a9977efbb561358fcb7fa71bf",
+        "time": 1773995325
       }
     ],
     "commit": {
-      "hash": "a8c83081e6ab53807b9aef921e10ca449ddffd0d",
-      "time": 1774019729
+      "hash": "ca8a03b80e2656925781ba8967a874aa6ab5df72",
+      "time": 1774002606
     },
     "status": "Unknown"
   }
