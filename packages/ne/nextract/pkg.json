@@ -1,0 +1,50 @@
+{
+  "name": "nextract",
+  "url": "https://github.com/nim-community/nextract",
+  "method": "git",
+  "description": "A Mozilla Readability-like content extraction library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nim-community/nextract",
+  "tags": [
+    "html",
+    "extraction"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.18"
+          }
+        },
+        {
+          "name": "chame",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "chagashi",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6b3e4a277ebb33b182a5d08e9515d70762c38c3d",
+      "time": 1774027024
+    },
+    "status": "Unknown"
+  }
+}

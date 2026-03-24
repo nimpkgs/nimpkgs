@@ -1,0 +1,36 @@
+{
+  "name": "nim_tcc",
+  "url": "https://github.com/turbomaster95/nim-tcc",
+  "method": "git",
+  "description": "A high-level, memory-safe Nim wrapper for the TinyCC (TCC) compiler engine.",
+  "license": "MIT",
+  "web": "https://github.com/turbomaster95/nim-tcc",
+  "doc": "https://github.com/turbomaster95/nim-tcc",
+  "tags": [
+    "jit",
+    "compiler",
+    "tinycc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b539e223c9ccef2677a48b25de617f9d96c1fe13",
+      "time": 1774080229
+    },
+    "status": "Unknown"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "onnx_rt",
+  "url": "https://github.com/bung87/onnx",
+  "method": "git",
+  "description": "ONNX Runtime wrapper for Nim - High-level interface for loading and running ONNX models",
+  "license": "MIT",
+  "web": "https://github.com/bung87/onnx",
+  "tags": [
+    "ONNX",
+    "Runtime",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "30a01d162bc4308ddb5ed094dbe25622c559c783",
+      "time": 1774255866
+    },
+    "status": "Unknown"
+  }
+}
