@@ -1,0 +1,46 @@
+{
+  "name": "uniq",
+  "url": "https://github.com/akvilary/uniq",
+  "method": "git",
+  "description": "RFC 9562 UUID library — stack-allocated, versions 1, 3, 4, 5, 6, 7, 8",
+  "license": "MIT",
+  "web": "https://github.com/akvilary/uniq",
+  "tags": [
+    "uuid",
+    "guid",
+    "rfc9562",
+    "unique identifier",
+    "v7",
+    "v4"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6e8c5480dae3cf04b614c6cca691fe0d0f37a544",
+      "time": 1774369068
+    },
+    "status": "Unknown"
+  }
+}

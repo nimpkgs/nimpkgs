@@ -1,0 +1,56 @@
+{
+  "name": "fpdf",
+  "url": "https://github.com/akvilary/fpdf",
+  "method": "git",
+  "description": "Pure Nim PDF generation library — create PDF documents with text, fonts, graphics, and images. Inspired by the PHP FPDF API.",
+  "license": "MIT",
+  "web": "https://github.com/akvilary/fpdf",
+  "tags": [
+    "pdf",
+    "document",
+    "generator",
+    "text",
+    "graphics",
+    "images",
+    "report",
+    "doс"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "nimPNG",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a24e394b3b08bef903343ad6aad5274d8cc74543",
+      "time": 1774362697
+    },
+    "status": "Unknown"
+  }
+}
