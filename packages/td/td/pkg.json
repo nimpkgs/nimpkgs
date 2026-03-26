@@ -1,0 +1,48 @@
+{
+  "name": "td",
+  "url": "https://github.com/capocasa/td",
+  "method": "git",
+  "description": "Task manager for ICS files synced by vdirsyncer",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/td",
+  "tags": [
+    "tasks",
+    "todo",
+    "ics",
+    "caldav",
+    "vdirsyncer",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "td"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "0a6b31f2bdf9985298df40bdfef896318c99093f",
+        "time": 1774435325
+      }
+    ],
+    "commit": {
+      "hash": "0a6b31f2bdf9985298df40bdfef896318c99093f",
+      "time": 1774435325
+    },
+    "status": "Unknown"
+  }
+}

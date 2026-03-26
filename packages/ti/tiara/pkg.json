@@ -1,0 +1,60 @@
+{
+  "name": "tiara",
+  "url": "https://github.com/nimmer-jp/tiara",
+  "method": "git",
+  "description": "Pure Nim UI component library for SSR-first applications",
+  "license": "MIT",
+  "web": "https://github.com/nimmer-jp/tiara",
+  "tags": [
+    "web",
+    "ui",
+    "ssr",
+    "html",
+    "components",
+    "nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.3",
+        "hash": "5fb3abe3695b837a68606e4367513537953fa29e",
+        "time": 1774435987
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "a5d4c5309f923e7b4951630c1bbfe81f8c41b902",
+        "time": 1774435242
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "e4e36afdb2a2dd67e61573503875357d33d0f660",
+        "time": 1773581636
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "38d77f895ca59fe973ea001dbf2b524044f259ef",
+        "time": 1773570559
+      }
+    ],
+    "commit": {
+      "hash": "5fb3abe3695b837a68606e4367513537953fa29e",
+      "time": 1774435987
+    },
+    "status": "Unknown"
+  }
+}

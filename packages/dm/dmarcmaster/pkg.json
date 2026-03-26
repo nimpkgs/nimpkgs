@@ -1,0 +1,55 @@
+{
+  "name": "dmarcmaster",
+  "url": "https://github.com/capocasa/dmarcmaster",
+  "method": "git",
+  "description": "Extract and display DMARC aggregate reports from Maildir",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/dmarcmaster",
+  "tags": [
+    "dmarc",
+    "email",
+    "maildir",
+    "security",
+    "dns"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [
+        "dmarcmaster"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "6c085eb7197540b0eae3709450906de42a10be8a",
+        "time": 1774442223
+      }
+    ],
+    "commit": {
+      "hash": "6c085eb7197540b0eae3709450906de42a10be8a",
+      "time": 1774442223
+    },
+    "status": "Unknown"
+  }
+}
