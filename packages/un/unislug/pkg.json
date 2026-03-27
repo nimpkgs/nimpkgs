@@ -1,0 +1,44 @@
+{
+  "name": "unislug",
+  "url": "https://github.com/akvilary/unislug",
+  "method": "git",
+  "description": "URL-safe slug generation from Unicode strings with transliteration support",
+  "license": "MIT",
+  "web": "https://github.com/akvilary/unislug",
+  "tags": [
+    "slug",
+    "slugify",
+    "unicode",
+    "transliteration",
+    "url"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "7bad1d40497da5c50f46ed3a1257c4b3590b0d40",
+        "time": 1774494732
+      }
+    ],
+    "commit": {
+      "hash": "7bad1d40497da5c50f46ed3a1257c4b3590b0d40",
+      "time": 1774494732
+    },
+    "status": "Unknown"
+  }
+}

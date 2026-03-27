@@ -1,0 +1,48 @@
+{
+  "name": "humanize",
+  "url": "https://github.com/akvilary/humanize",
+  "method": "git",
+  "description": "Human-readable formatting of numbers, file sizes, times, durations, and lists. Locales: en, ar, de, es, fr, it, ru, zh",
+  "license": "MIT",
+  "web": "https://github.com/akvilary/humanize",
+  "tags": [
+    "humanize",
+    "formatting",
+    "numbers",
+    "filesize",
+    "time",
+    "duration",
+    "locale",
+    "i18n",
+    "english",
+    "arabic",
+    "german",
+    "spanish",
+    "french",
+    "italian",
+    "russian",
+    "chinese"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9992830d5cd96124cae630cec53a4cfba81b7f5c",
+      "time": 1774546038
+    },
+    "status": "Unknown"
+  }
+}

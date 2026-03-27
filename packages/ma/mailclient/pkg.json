@@ -1,0 +1,39 @@
+{
+  "name": "mailclient",
+  "url": "https://github.com/akvilary/mailclient",
+  "method": "git",
+  "description": "IMAP and POP3 client library with sync and async API support",
+  "license": "MIT",
+  "web": "https://github.com/akvilary/mailclient",
+  "tags": [
+    "mail",
+    "email",
+    "imap",
+    "pop3",
+    "client",
+    "network",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ea62846c5b92cc419400eb20485b7daa45cd327e",
+      "time": 1774544987
+    },
+    "status": "Unknown"
+  }
+}
