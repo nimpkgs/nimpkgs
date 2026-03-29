@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.0.1",
+      "version": "0.0.2",
       "requires": [
         {
           "name": "nim",
@@ -33,10 +33,10 @@
         },
         {
           "name": "shady",
-          "str": "any version",
+          "str": ">= 0.1.5",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.5"
           }
         },
         {
@@ -115,9 +115,16 @@
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.0.2",
+        "hash": "2580768d622e69c851af4a4d007e5ef073a63258",
+        "time": 1774738391
+      }
+    ],
     "commit": {
-      "hash": "943280b103e4ecb35b6541551f0f2b53d858a3dd",
-      "time": 1773635357
+      "hash": "2580768d622e69c851af4a4d007e5ef073a63258",
+      "time": 1774738391
     },
     "status": "Unknown"
   }
