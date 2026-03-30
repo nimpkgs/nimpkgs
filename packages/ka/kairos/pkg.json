@@ -1,0 +1,53 @@
+{
+  "name": "kairos",
+  "url": "https://github.com/jmgomez/kairos",
+  "method": "git",
+  "description": "Multi-threaded chronos HTTP server with httpx-compatible API",
+  "license": "MIT",
+  "tags": [
+    "http",
+    "server",
+    "chronos",
+    "async",
+    "web",
+    "prologue"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.2.0"
+          }
+        },
+        {
+          "name": "websock",
+          "str": "#42c37b4",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "commit": {
+      "hash": "ff619dddb0b365840f723c37319ece10f0c01551",
+      "time": 1774734957
+    },
+    "status": "Unknown"
+  }
+}

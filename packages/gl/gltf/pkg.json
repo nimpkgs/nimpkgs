@@ -1,0 +1,114 @@
+{
+  "name": "gltf",
+  "url": "https://github.com/treeform/gltf",
+  "method": "git",
+  "description": "glTF 2.0 library and viewer.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/gltf",
+  "tags": [
+    "gltf",
+    "3d",
+    "graphics",
+    "opengl",
+    "pbr",
+    "viewer"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 1.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.4"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 5.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "5.0.0"
+          }
+        },
+        {
+          "name": "flatty",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "opengl",
+          "str": ">= 1.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.3"
+          }
+        },
+        {
+          "name": "webby",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        },
+        {
+          "name": "windy",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
+          }
+        },
+        {
+          "name": "silky",
+          "str": ">= 0.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "8b0deffd93ce61f02f195dae98005ce57d9e1281",
+        "time": 1774738397
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "1c830200b0ae67dac0a9e985505523a6a787b0c6",
+        "time": 1774715566
+      }
+    ],
+    "commit": {
+      "hash": "b5a1aa8746501ada3458304536382ae855092b09",
+      "time": 1774808296
+    },
+    "status": "Unknown"
+  }
+}

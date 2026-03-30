@@ -10,7 +10,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.6.0",
+      "version": "0.8.0",
       "requires": [
         {
           "name": "nim",
@@ -75,6 +75,14 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "nimcrypto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [
@@ -84,8 +92,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "ef9d8289d7ffc73866c0a83e9c89973e50d7b5f0",
-      "time": 1770762333
+      "hash": "e922bd163b861bd389bc94c18c2a4b375054d62a",
+      "time": 1774820711
     },
     "status": "Unknown"
   }

@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.3",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -25,50 +25,10 @@
           }
         },
         {
-          "name": "toktok",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "https://github.com/openpeeps/importer",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "watchout",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
           "name": "kapsis",
           "str": "#head",
           "ver": {
             "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "denim",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "checksums",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
             "ver": ""
           }
         },
@@ -82,6 +42,22 @@
         },
         {
           "name": "flatty",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nyml",
           "str": "#head",
           "ver": {
             "kind": "verSpecial",
@@ -89,27 +65,11 @@
           }
         },
         {
-          "name": "nyml",
-          "str": ">= 0.1.8",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.8"
-          }
-        },
-        {
-          "name": "urlly",
-          "str": ">= 1.1.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.1.1"
-          }
-        },
-        {
           "name": "semver",
-          "str": ">= 1.2.2",
+          "str": "any version",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "1.2.2"
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
@@ -121,15 +81,23 @@
           }
         },
         {
-          "name": "genny",
-          "str": ">= 0.1.0",
+          "name": "denim",
+          "str": "#head",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
-          "name": "htmlparser",
+          "name": "voodoo",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "libffi",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -137,7 +105,15 @@
           }
         },
         {
-          "name": "httpbeast",
+          "name": "gccjit",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "watchout",
           "str": "#head",
           "ver": {
             "kind": "verSpecial",
@@ -152,6 +128,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "ab83a314e4217bddffc9b45ed1f1272d7af11ed3",
+        "time": 1774807342
+      },
       {
         "tag": "0.1.3",
         "hash": "7d430f496c16a6a5347a4124f94d3b56020943b1",
@@ -174,8 +155,8 @@
       }
     ],
     "commit": {
-      "hash": "4f0fe39b6588c1157755de048bdeb4b19e423e16",
-      "time": 1774342356
+      "hash": "eecb72c5ebbe30d5a88e50a1319864b9ee1d3728",
+      "time": 1774807519
     }
   }
 }
