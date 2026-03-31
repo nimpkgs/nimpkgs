@@ -26,27 +26,26 @@
         },
         {
           "name": "chronos",
-          "str": ">= 4.2.0",
+          "str": ">= 4.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "4.2.0"
-          }
-        },
-        {
-          "name": "websock",
-          "str": "#42c37b4",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "ver": "4.0.0"
           }
         }
       ],
       "bin": [],
       "srcDir": "."
     },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "32a9cb74da93a7f91f535dd3d54a629d7f8fae4d",
+        "time": 1774883210
+      }
+    ],
     "commit": {
-      "hash": "ff619dddb0b365840f723c37319ece10f0c01551",
-      "time": 1774734957
+      "hash": "32a9cb74da93a7f91f535dd3d54a629d7f8fae4d",
+      "time": 1774883210
     },
     "status": "Unknown"
   }
