@@ -75,6 +75,14 @@
           }
         },
         {
+          "name": "https://github.com/nimpylib/unicode_case",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "https://github.com/nimpylib/unicode_space_decimal",
           "str": "any version",
           "ver": {
@@ -97,6 +105,22 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "https://github.com/nimpylib/pystrutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/since_version",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [
@@ -106,8 +130,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "4cbaa257d1a661ede7651710a0d8a79d8d391f93",
-      "time": 1773548797
+      "hash": "6385cf5077d2129135349fe61dfbd0fdd6bca8c7",
+      "time": 1774947068
     }
   }
 }

@@ -1,0 +1,50 @@
+{
+  "name": "nimgeos",
+  "url": "https://github.com/JohnMoutafis/nimgeos",
+  "method": "git",
+  "description": "Nim wrapper for the GEOS geometry engine (`libgeos_c`).",
+  "license": "MIT",
+  "web": "https://github.com/JohnMoutafis/nimgeos",
+  "tags": [
+    "library",
+    "wrapper",
+    "ffi",
+    "geos",
+    "geometry",
+    "geospatial",
+    "gis",
+    "spatial",
+    "wkt",
+    "wkb",
+    "geojson"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "f557d3d22815eeadc99800e692f3c5143d6ac00b",
+        "time": 1774953691
+      }
+    ],
+    "commit": {
+      "hash": "f557d3d22815eeadc99800e692f3c5143d6ac00b",
+      "time": 1774953691
+    },
+    "status": "Unknown"
+  }
+}
