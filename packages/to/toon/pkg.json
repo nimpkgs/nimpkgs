@@ -1,0 +1,45 @@
+{
+  "name": "toon",
+  "url": "https://github.com/copyleftdev/nim-toon",
+  "method": "git",
+  "description": "Nim implementation of TOON (Token-Oriented Object Notation): compact, human-readable JSON serialization and parsing for AI and LLM prompt workflows.",
+  "license": "MIT",
+  "web": "https://github.com/copyleftdev/nim-toon",
+  "tags": [
+    "toon",
+    "json",
+    "serialization",
+    "parser",
+    "llm",
+    "ai"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "306fd28613154fb1b45be96764577bac234c8a58",
+        "time": 1774968823
+      }
+    ],
+    "commit": {
+      "hash": "fef76d8fffe8a0f9cf7bec59473fb264d2e7bd35",
+      "time": 1774969666
+    },
+    "status": "Unknown"
+  }
+}

@@ -23,7 +23,7 @@
           }
         },
         {
-          "name": "https://github.com/holo-nim/holo-flow",
+          "name": "https://github.com/holo-nim/flue",
           "str": "#HEAD",
           "ver": {
             "kind": "verSpecial",
@@ -31,7 +31,7 @@
           }
         },
         {
-          "name": "https://github.com/holo-nim/holo-map",
+          "name": "https://github.com/holo-nim/cosm",
           "str": "#HEAD",
           "ver": {
             "kind": "verSpecial",
@@ -43,8 +43,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "2b6562ecb69db9292cea0e1c998c7c04c4c2fb49",
-      "time": 1774731369
+      "hash": "442b67e58be1bbbc2997460c7f180124052c5973",
+      "time": 1775097371
     },
     "status": "Unknown"
   }

@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.4",
+      "version": "0.4.5",
       "requires": [
         {
           "name": "nim",
@@ -25,18 +25,10 @@
         },
         {
           "name": "malebolgia",
-          "str": "any version",
+          "str": ">= 1.3.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "bingo",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.3.2"
           }
         }
       ],
@@ -44,6 +36,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.4.5",
+        "hash": "738c686790a7e425c27a353e883d97f99989b171",
+        "time": 1774029646
+      },
       {
         "tag": "v0.4.4",
         "hash": "2efd0afbe371a46247a398f122ae4edd6236f824",
@@ -101,8 +98,8 @@
       }
     ],
     "commit": {
-      "hash": "738c686790a7e425c27a353e883d97f99989b171",
-      "time": 1774029646
+      "hash": "d65d991cf57344c2488274fdcebca2ade7834165",
+      "time": 1775077687
     }
   }
 }

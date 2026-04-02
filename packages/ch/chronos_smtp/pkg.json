@@ -1,0 +1,113 @@
+{
+  "name": "chronos_smtp",
+  "url": "https://github.com/fox0430/chronos-smtp",
+  "method": "git",
+  "description": "SMTP client implementation using chronos in Nim",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/chronos-smtp",
+  "tags": [
+    "async",
+    "smtp",
+    "mail"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.8.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.16",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.16"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.0"
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": ">= 0.10.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.8.0",
+        "hash": "3558dadf8c6f96a4b64fba58d658ea13b62a7865",
+        "time": 1775031957
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "5c3e5940fabd10a6fc826f89e7f2bf89167bf763",
+        "time": 1763490614
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "683e75757f9c58754eec8ddab7348e0c708a4068",
+        "time": 1762960255
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "3efa179d6ea7dec2c48925f30af97b97572198ec",
+        "time": 1753548587
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "0bb6fae88b305699c52b7e4d2623d96566a84918",
+        "time": 1730912299
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "bdee46c33b706d6e434d5eead0b0750d74b6bc38",
+        "time": 1730911328
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "8c07bd2d4286dd6ed9df509b7e58b6dd0402ab62",
+        "time": 1722958310
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "13a9c69aede9f8745db761e3c2c5f557f9dcd4ae",
+        "time": 1713186438
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "72ff509b57835575c2a80b81c4965230020ba449",
+        "time": 1711030189
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "de903d1550a9f87f7516d44a26f4ab4af353ae8f",
+        "time": 1710690689
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "45a613b72241039708d18da29be46bce34d59989",
+        "time": 1710607149
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0d3af214cb9dc6fe1d8956156d8eb13ac0812c6f",
+        "time": 1710603504
+      }
+    ],
+    "commit": {
+      "hash": "3558dadf8c6f96a4b64fba58d658ea13b62a7865",
+      "time": 1775031957
+    },
+    "status": "Unknown"
+  }
+}

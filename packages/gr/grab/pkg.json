@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -27,6 +27,11 @@
     },
     "versions": [
       {
+        "tag": "v0.1.2",
+        "hash": "41ff40f74326d964612064b86ce8d1c657f67bbe",
+        "time": 1775095930
+      },
+      {
         "tag": "v0.1.1",
         "hash": "a9d81cf4f265d3990cbd79b61bfaaf2c97851151",
         "time": 1663402432
@@ -38,8 +43,8 @@
       }
     ],
     "commit": {
-      "hash": "a9d81cf4f265d3990cbd79b61bfaaf2c97851151",
-      "time": 1663402432
+      "hash": "41ff40f74326d964612064b86ce8d1c657f67bbe",
+      "time": 1775095930
     }
   }
 }
