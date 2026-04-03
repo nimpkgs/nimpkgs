@@ -1,0 +1,62 @@
+{
+  "name": "twofa",
+  "url": "https://github.com/openpeeps/twofa",
+  "method": "git",
+  "description": "Simple 2FA QR CodeGen based on otp & qr packages",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/twofa",
+  "tags": [
+    "otp",
+    "totp",
+    "qrcode",
+    "qr",
+    "twofactor",
+    "auth"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "otp",
+          "str": ">= 0.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.3"
+          }
+        },
+        {
+          "name": "qr",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "base32",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "5bc83d187c25c6d68922bc31dd10ac73adbcc420",
+      "time": 1775059037
+    },
+    "status": "Unknown"
+  }
+}

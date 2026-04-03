@@ -1,0 +1,47 @@
+{
+  "name": "metalx",
+  "url": "https://github.com/elcritch/metalx",
+  "method": "git",
+  "description": "metal bindings",
+  "license": "MIT",
+  "web": "https://github.com/elcritch/metalx",
+  "tags": [
+    "metal",
+    "wrappers",
+    "bindings",
+    "metal3",
+    "macos",
+    "gui",
+    "graphics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.10"
+          }
+        },
+        {
+          "name": "darwin",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b161231d45b9e75a0b4616362d8717f5b8568e0b",
+      "time": 1769863802
+    },
+    "status": "Unknown"
+  }
+}

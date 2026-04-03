@@ -1,0 +1,40 @@
+{
+  "name": "e2ee",
+  "url": "https://github.com/openpeeps/e2ee",
+  "method": "git",
+  "description": "Monocypher E2EE, Hashing, Password Hashing, Sealing and Key Exchange",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/e2ee",
+  "tags": [
+    "monocypher",
+    "e2ee",
+    "encryption",
+    "crypto",
+    "chacha",
+    "blake2b",
+    "password",
+    "hashing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d09dab7c8385db2deead2eb9951c981f65c79826",
+      "time": 1775081135
+    },
+    "status": "Unknown"
+  }
+}

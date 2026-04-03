@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.9.14",
+      "version": "0.9.15",
       "requires": [
         {
           "name": "nim",
@@ -26,12 +26,121 @@
             "kind": "verLater",
             "ver": "2.0.4"
           }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyrepr",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/jscompat",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/nimpatch",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/translateEscape",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/handy_sugars",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/autoconf_sugars",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/errno",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/float_utils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pycomplex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/unicode_space_decimal",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pystrutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/since_version",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pymath",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.9.15",
+        "hash": "6e54cbe39b1e3f1485c459b293c5fea5c3bca31a",
+        "time": 1775117256
+      },
       {
         "tag": "v0.9.14",
         "hash": "f5bf7b8f9d024ecd844a55d179974f6969a55d45",
@@ -124,8 +233,8 @@
       }
     ],
     "commit": {
-      "hash": "4343a509340dd34f03d54e908cba3866628271ba",
-      "time": 1766829682
+      "hash": "6e54cbe39b1e3f1485c459b293c5fea5c3bca31a",
+      "time": 1775117256
     }
   }
 }

@@ -1,0 +1,28 @@
+{
+  "name": "bunnery",
+  "url": "https://github.com/elcritch/bunnery",
+  "method": "git",
+  "description": "bun helper scripts",
+  "license": "BSD-2-Clause",
+  "web": "https://github.com/elcritch/bunnery",
+  "tags": [
+    "javascript",
+    "bundling",
+    "bun",
+    "treeshake",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ea25bd08a2995d73d16fc30075020bdb37788c41",
+      "time": 1775042201
+    },
+    "status": "Unknown"
+  }
+}

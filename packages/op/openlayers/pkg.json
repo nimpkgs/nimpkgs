@@ -1,0 +1,37 @@
+{
+  "name": "openlayers",
+  "url": "https://github.com/elcritch/openlayers-nim",
+  "method": "git",
+  "description": "openlayer javascript bindings",
+  "license": "BSD-2-Clause",
+  "web": "https://github.com/elcritch/openlayers-nim",
+  "tags": [
+    "openlayers",
+    "javascript",
+    "mapping",
+    "maps",
+    "gis"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "https://github.com/elcritch/bunnery",
+          "str": ">= 0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a60e99ec07bfc644e41fd308c9a962a8a247b9eb",
+      "time": 1775048178
+    },
+    "status": "Unknown"
+  }
+}

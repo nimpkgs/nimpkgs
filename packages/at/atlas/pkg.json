@@ -1,0 +1,77 @@
+{
+  "name": "atlas",
+  "url": "https://github.com/nim-lang/atlas",
+  "method": "git",
+  "description": "The Atlas Package cloner. It manages an isolated workspace that contains projects and dependencies.",
+  "license": "MIT",
+  "web": "https://github.com/nim-lang/atlas",
+  "tags": [
+    "packages",
+    "workspace"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.10.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "sat",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "atlas"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.10.1",
+        "hash": "ff1f4289482dce94ba9f95b3b0ae16d16e21eb3d",
+        "time": 1771796357
+      },
+      {
+        "tag": "0.10.0",
+        "hash": "092e42cfa3f29cb3258298f238f7a03df205daef",
+        "time": 1771434452
+      },
+      {
+        "tag": "0.9.5",
+        "hash": "8548f7318fbd836565c499f894b2706182421fd1",
+        "time": 1761930623
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "60681b93af4c8914afbd8eae9fc9820ba4d198a0",
+        "time": 1705697425
+      },
+      {
+        "tag": "0.6.2",
+        "hash": "7b780811a168f3f32bff4822369dda46a7f87f9a",
+        "time": 1687862165
+      },
+      {
+        "tag": "0.6.0",
+        "hash": "2514d514b76765c3fe2a6219b8e6f169bb8dd4f6",
+        "time": 1687785504
+      }
+    ],
+    "commit": {
+      "hash": "c3c98268c0759c1937aabea2e5533fe68f911843",
+      "time": 1772778353
+    },
+    "status": "Unknown"
+  }
+}
