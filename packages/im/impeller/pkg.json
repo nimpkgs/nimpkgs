@@ -1,0 +1,40 @@
+{
+  "name": "impeller",
+  "url": "https://github.com/openpeeps/impeller-nim",
+  "method": "git",
+  "description": "Bindings to Flutter's 2D vector graphics renderer",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/impeller-nim",
+  "tags": [
+    "renderer",
+    "engine",
+    "2d",
+    "graphics",
+    "flutter",
+    "typography",
+    "gui",
+    "ui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ecd711d966f535a4f9c88720252751501a148820",
+      "time": 1775277318
+    },
+    "status": "Unknown"
+  }
+}

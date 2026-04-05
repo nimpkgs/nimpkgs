@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "requires": [
         {
           "name": "illwill",
@@ -63,9 +63,24 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "1.1.1",
+        "hash": "3456bd686be9f90d94e499aa349ee66ec6c365f5",
+        "time": 1775314873
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "5c9e75bb93c90084192635f08abc649f265ce0d3",
+        "time": 1775305677
+      },
+      {
         "tag": "1.0.1",
         "hash": "0f4e7574d35911125a3eca38ca3ff145e83d3568",
         "time": 1775244190
+      },
+      {
+        "tag": "0.9.4-toyo",
+        "hash": "d508cd32531df00dd737c605e296fbc70e06b798",
+        "time": 1774748596
       },
       {
         "tag": "1.0.0",
@@ -139,8 +154,8 @@
       }
     ],
     "commit": {
-      "hash": "a8ad971ae2df00e83ac3df6d9167a53c4fa11d6a",
-      "time": 1775244399
+      "hash": "5a490cf2de583c6f2719c3104df9fbd15ef6f305",
+      "time": 1775315393
     },
     "status": "Unknown"
   }
