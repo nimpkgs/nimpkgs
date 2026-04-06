@@ -23,7 +23,7 @@
           }
         },
         {
-          "name": "https://github.com/holo-nim/flue",
+          "name": "https://github.com/holo-nim/fleu",
           "str": "#HEAD",
           "ver": {
             "kind": "verSpecial",
@@ -43,8 +43,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "004908dc063154efebb3f72a1c2447dcd2457366",
-      "time": 1775192171
+      "hash": "d2a3eadeb396c39a76c5718e332000b503390592",
+      "time": 1775382443
     },
     "status": "Unknown"
   }
