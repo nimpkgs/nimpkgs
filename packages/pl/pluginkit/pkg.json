@@ -41,14 +41,22 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "323442e0363386bb593af771e42d2d0bf82c9a26",
-      "time": 1774042811
+      "hash": "01e6807c6d0aaaee5fcb79ba1905a4b6564aa6b6",
+      "time": 1775497997
     },
     "status": "Unknown"
   }

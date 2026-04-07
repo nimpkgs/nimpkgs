@@ -26,14 +26,22 @@
             "kind": "verEqLater",
             "ver": "2.0.0"
           }
+        },
+        {
+          "name": "chroma",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "ecd711d966f535a4f9c88720252751501a148820",
-      "time": 1775277318
+      "hash": "6128204df72eafab1d3c0bee433919b786dff4c0",
+      "time": 1775471477
     },
     "status": "Unknown"
   }

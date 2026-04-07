@@ -1,0 +1,86 @@
+{
+  "name": "chronos_dnsc",
+  "url": "https://github.com/fox0430/chronos-dnsc",
+  "method": "git",
+  "description": "DNS client implementation using chronos",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/chronos-dnsc",
+  "tags": [
+    "async",
+    "dns",
+    "dnsclient"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.16",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.16"
+          }
+        },
+        {
+          "name": "dnsprotocol",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.2"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "136c1ea8983c9fa4e7c3f835650b7d311dc9e38b",
+        "time": 1775459726
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "0f9305b4fa56965323cd06bb0d3b6f1f1f863d37",
+        "time": 1753975630
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "ad0248019149b503ebd760200eaee1c5c2c6f52e",
+        "time": 1738938692
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "8a45463fc622c38f0cbc231cd76f468ba941bd43",
+        "time": 1738937744
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "1f9c573b220b2c627a421c9f1eb72fb74d6fe63b",
+        "time": 1714573547
+      }
+    ],
+    "commit": {
+      "hash": "136c1ea8983c9fa4e7c3f835650b7d311dc9e38b",
+      "time": 1775459726
+    },
+    "status": "Unknown"
+  }
+}
