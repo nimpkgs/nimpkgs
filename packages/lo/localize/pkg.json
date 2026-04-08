@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.4",
+      "version": "0.3.5",
       "requires": [
         {
           "name": "nim",
@@ -21,20 +21,17 @@
             "kind": "verEqLater",
             "ver": "1.6.12"
           }
-        },
-        {
-          "name": "fusion",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.5",
+        "hash": "d1b5ae639f7fbeb9fe6fdf93b4fa177f73e50e30",
+        "time": 1775596617
+      },
       {
         "tag": "0.3.4",
         "hash": "14bbc5cac8a02345a289ca41444fd0178e054a86",
@@ -57,8 +54,8 @@
       }
     ],
     "commit": {
-      "hash": "1b3216380710ed10df884ea06a7f52d1b282f2c8",
-      "time": 1756223758
+      "hash": "d1b5ae639f7fbeb9fe6fdf93b4fa177f73e50e30",
+      "time": 1775596617
     }
   }
 }

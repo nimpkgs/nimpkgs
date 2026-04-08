@@ -67,6 +67,11 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "v0.3.1",
+        "hash": "63c10f4c6f9f6a0156f852bd36c0321739a2bb6b",
+        "time": 1775573497
+      },
+      {
         "tag": "v0.3.0",
         "hash": "4dd70073b20c7949a89b8e86e36bd3a1de846fc3",
         "time": 1775505394
@@ -103,8 +108,8 @@
       }
     ],
     "commit": {
-      "hash": "cb7ef8e01b8897869e11db0c90fd88b4b43c4e07",
-      "time": 1775507214
+      "hash": "04914764e4f4f0777305ec958ecac70e9c082d4a",
+      "time": 1775574442
     },
     "status": "Unknown"
   }

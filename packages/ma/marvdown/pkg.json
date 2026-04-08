@@ -24,14 +24,6 @@
           }
         },
         {
-          "name": "kapsis",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
           "name": "jsony",
           "str": "#head",
           "ver": {
@@ -48,15 +40,13 @@
           }
         }
       ],
-      "bin": [
-        "marvdown"
-      ],
+      "bin": [],
       "srcDir": "src"
     },
     "hasBin": true,
     "commit": {
-      "hash": "be2a74444cb5ff28fd8f3ca4cdfa1a685462aa68",
-      "time": 1773687844
+      "hash": "ecb9e6fe13cf8e224f257870ca42ec7a5a6fbc3c",
+      "time": 1775598864
     }
   }
 }
