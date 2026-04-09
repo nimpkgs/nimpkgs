@@ -1,4 +1,7 @@
 {
   "name": "nimp5",
-  "alias": "p5nim"
+  "alias": "p5nim",
+  "meta": {
+    "status": "Unknown"
+  }
 }

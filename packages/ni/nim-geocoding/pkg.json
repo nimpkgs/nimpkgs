@@ -1,4 +1,7 @@
 {
   "name": "nim-geocoding",
-  "alias": "geocoding"
+  "alias": "geocoding",
+  "meta": {
+    "status": "Unknown"
+  }
 }

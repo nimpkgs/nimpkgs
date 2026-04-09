@@ -1,4 +1,7 @@
 {
   "name": "MiNiM",
-  "alias": "min"
+  "alias": "min",
+  "meta": {
+    "status": "Unknown"
+  }
 }

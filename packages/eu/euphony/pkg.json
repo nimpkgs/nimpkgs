@@ -1,4 +1,7 @@
 {
   "name": "euphony",
-  "alias": "slappy"
+  "alias": "slappy",
+  "meta": {
+    "status": "Unknown"
+  }
 }

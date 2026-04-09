@@ -1,4 +1,7 @@
 {
   "name": "variantsugar",
-  "alias": "skinsuit"
+  "alias": "skinsuit",
+  "meta": {
+    "status": "Unknown"
+  }
 }

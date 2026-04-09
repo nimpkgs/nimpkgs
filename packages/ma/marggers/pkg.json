@@ -1,4 +1,7 @@
 {
   "name": "marggers",
-  "alias": "margrave"
+  "alias": "margrave",
+  "meta": {
+    "status": "Unknown"
+  }
 }

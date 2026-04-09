@@ -1,4 +1,7 @@
 {
   "name": "asyncdispatch2",
-  "alias": "chronos"
+  "alias": "chronos",
+  "meta": {
+    "status": "Unknown"
+  }
 }

@@ -1,4 +1,7 @@
 {
   "name": "opentrivadb",
-  "alias": "opentdb"
+  "alias": "opentdb",
+  "meta": {
+    "status": "Unknown"
+  }
 }

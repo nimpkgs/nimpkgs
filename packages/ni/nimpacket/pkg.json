@@ -13,45 +13,6 @@
     "protocols"
   ],
   "meta": {
-    "nimble": {
-      "version": "0.1.0",
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 1.6.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.6.0"
-          }
-        },
-        {
-          "name": "nimpy",
-          "str": ">= 0.2.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.0"
-          }
-        }
-      ],
-      "bin": [],
-      "srcDir": "src"
-    },
-    "versions": [
-      {
-        "tag": "v1.0.2",
-        "hash": "acc7efe2e1eb5ca97858b555a0a91f095b25f13a",
-        "time": 1770691236
-      },
-      {
-        "tag": "v1.0.1",
-        "hash": "375e379d05df405cd88ec564ed189d35b475aa6e",
-        "time": 1770690652
-      }
-    ],
-    "commit": {
-      "hash": "f15170804547a37bbcbac6951a4b3136ccf46eb4",
-      "time": 1770762276
-    },
     "status": "Unreachable"
   }
 }

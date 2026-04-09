@@ -1,4 +1,7 @@
 {
   "name": "netpipe",
-  "alias": "netty"
+  "alias": "netty",
+  "meta": {
+    "status": "Unknown"
+  }
 }

@@ -1,4 +1,7 @@
 {
   "name": "ec_events",
-  "alias": "mc_events"
+  "alias": "mc_events",
+  "meta": {
+    "status": "Unknown"
+  }
 }

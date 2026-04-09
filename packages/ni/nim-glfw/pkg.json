@@ -1,4 +1,7 @@
 {
   "name": "nim-glfw",
-  "alias": "glfw"
+  "alias": "glfw",
+  "meta": {
+    "status": "Unknown"
+  }
 }

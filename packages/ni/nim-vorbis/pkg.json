@@ -1,4 +1,7 @@
 {
   "name": "nim-vorbis",
-  "alias": "vorbis"
+  "alias": "vorbis",
+  "meta": {
+    "status": "Unknown"
+  }
 }

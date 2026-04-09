@@ -1,4 +1,7 @@
 {
   "name": "chipmunk",
-  "alias": "chipmunk6"
+  "alias": "chipmunk6",
+  "meta": {
+    "status": "Unknown"
+  }
 }

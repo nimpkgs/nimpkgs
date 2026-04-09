@@ -1,4 +1,7 @@
 {
   "name": "nim-snappy",
-  "alias": "snappy"
+  "alias": "snappy",
+  "meta": {
+    "status": "Unknown"
+  }
 }

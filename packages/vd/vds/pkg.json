@@ -1,4 +1,7 @@
 {
   "name": "vds",
-  "alias": "vscds"
+  "alias": "vscds",
+  "meta": {
+    "status": "Unknown"
+  }
 }

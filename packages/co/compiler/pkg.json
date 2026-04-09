@@ -1,4 +1,7 @@
 {
   "name": "compiler",
-  "alias": "nim"
+  "alias": "nim",
+  "meta": {
+    "status": "Unknown"
+  }
 }

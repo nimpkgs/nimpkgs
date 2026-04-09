@@ -1,4 +1,7 @@
 {
   "name": "nim-locale",
-  "alias": "locale"
+  "alias": "locale",
+  "meta": {
+    "status": "Unknown"
+  }
 }

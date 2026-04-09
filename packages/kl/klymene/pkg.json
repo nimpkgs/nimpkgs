@@ -1,4 +1,7 @@
 {
   "name": "klymene",
-  "alias": "kapsis"
+  "alias": "kapsis",
+  "meta": {
+    "status": "Unknown"
+  }
 }

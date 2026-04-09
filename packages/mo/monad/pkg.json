@@ -1,4 +1,7 @@
 {
   "name": "monad",
-  "alias": "maybe"
+  "alias": "maybe",
+  "meta": {
+    "status": "Unknown"
+  }
 }

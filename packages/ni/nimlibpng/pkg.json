@@ -1,4 +1,7 @@
 {
   "name": "nimlibpng",
-  "alias": "png"
+  "alias": "png",
+  "meta": {
+    "status": "Unknown"
+  }
 }

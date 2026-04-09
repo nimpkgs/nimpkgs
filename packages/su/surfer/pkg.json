@@ -12,7 +12,29 @@
     "OpenGL"
   ],
   "meta": {
-    "broken": true,
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/xTrayambak/nayland",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
     "versions": [
       {
         "tag": "0.1.1",
@@ -28,7 +50,6 @@
     "commit": {
       "hash": "76a79e0d434e331068519af2faca2f59ec520214",
       "time": 1775393923
-    },
-    "status": "Unknown"
+    }
   }
 }

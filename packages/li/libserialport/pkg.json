@@ -1,4 +1,7 @@
 {
   "name": "libserialport",
-  "alias": "serial"
+  "alias": "serial",
+  "meta": {
+    "status": "Unknown"
+  }
 }

@@ -1,4 +1,7 @@
 {
   "name": "midio_ui",
-  "alias": "denim_ui"
+  "alias": "denim_ui",
+  "meta": {
+    "status": "Unknown"
+  }
 }

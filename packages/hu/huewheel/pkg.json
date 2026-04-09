@@ -1,4 +1,7 @@
 {
   "name": "huewheel",
-  "alias": "spectra"
+  "alias": "spectra",
+  "meta": {
+    "status": "Unknown"
+  }
 }

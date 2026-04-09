@@ -1,4 +1,7 @@
 {
   "name": "nimtorch",
-  "alias": "torch"
+  "alias": "torch",
+  "meta": {
+    "status": "Unknown"
+  }
 }

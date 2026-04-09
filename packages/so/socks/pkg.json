@@ -1,4 +1,7 @@
 {
   "name": "socks",
-  "alias": "socks5"
+  "alias": "socks5",
+  "meta": {
+    "status": "Unknown"
+  }
 }

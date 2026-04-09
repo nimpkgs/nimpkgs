@@ -1,4 +1,7 @@
 {
   "name": "nim-libclang",
-  "alias": "libclang"
+  "alias": "libclang",
+  "meta": {
+    "status": "Unknown"
+  }
 }

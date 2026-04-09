@@ -1,4 +1,7 @@
 {
   "name": "nim-sndfile",
-  "alias": "sndfile"
+  "alias": "sndfile",
+  "meta": {
+    "status": "Unknown"
+  }
 }

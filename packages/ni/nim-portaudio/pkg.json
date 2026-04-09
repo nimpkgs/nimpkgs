@@ -1,4 +1,7 @@
 {
   "name": "nim-portaudio",
-  "alias": "portaudio"
+  "alias": "portaudio",
+  "meta": {
+    "status": "Unknown"
+  }
 }

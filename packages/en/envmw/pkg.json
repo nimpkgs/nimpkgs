@@ -12,6 +12,84 @@
     "cli"
   ],
   "meta": {
-    "status": "Unreachable"
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "mike",
+          "str": ">= 1.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.3"
+          }
+        },
+        {
+          "name": "argparse",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "envmwc",
+        "envmw"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.8",
+        "hash": "26b9294335436be44470b100420808d3bcbafa25",
+        "time": 1728535703
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "4dfd0a208a3a719c3824a678bb620f4769ed85c2",
+        "time": 1728235356
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "57c8fad44fb9e8f3683326e8162184325f95f7f8",
+        "time": 1728028593
+      },
+      {
+        "tag": "0.1.5",
+        "hash": "d1f0b1a27cd0e73202e2a749aca04aa5f1101081",
+        "time": 1727841042
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "8b0fe22d834808cfc3a9e206950b47768d0085ab",
+        "time": 1727757162
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "1c6e92d5964f7b666db3383cbec7c0275a73db3d",
+        "time": 1723993920
+      }
+    ],
+    "commit": {
+      "hash": "26b9294335436be44470b100420808d3bcbafa25",
+      "time": 1728535703
+    }
   }
 }
