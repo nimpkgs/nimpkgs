@@ -123,10 +123,10 @@
         },
         {
           "name": "libp2p",
-          "str": ">= 1.14.2",
+          "str": ">= 1.15.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.14.2"
+            "ver": "1.15.0"
           }
         },
         {
@@ -176,6 +176,30 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "lsquic",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jwt",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "ffi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
@@ -183,14 +207,14 @@
     },
     "versions": [
       {
+        "tag": "v0.38.0-rc.0",
+        "hash": "b2e46b6e91d118ab6efb8b137d2c2e805f4ec80d",
+        "time": 1775589939
+      },
+      {
         "tag": "v0.37.4",
         "hash": "79bc9fd421d0c0de12cf2a9f87a3a77e5b4f5feb",
         "time": 1775196582
-      },
-      {
-        "tag": "v0.37.4-rc.0",
-        "hash": "795edfaac30451bcb21c81d33de486a01f3208f5",
-        "time": 1775146683
       },
       {
         "tag": "v0.37.3",
@@ -198,29 +222,9 @@
         "time": 1774442626
       },
       {
-        "tag": "v0.38.0-rc.1",
-        "hash": "67491447396fb9408f0d9f5fcb88c71f5c5dca07",
-        "time": 1774350239
-      },
-      {
         "tag": "v0.37.2",
         "hash": "4e17776f71caf12917549988cfe5fe2bdf448250",
         "time": 1773962306
-      },
-      {
-        "tag": "v0.37.2-rc.1",
-        "hash": "11461aed44e777ffde5655405c8fbce9c0c2e9c3",
-        "time": 1773952624
-      },
-      {
-        "tag": "v0.37.2-rc.0",
-        "hash": "fdf4e839ffcd40542b4def2207290f405948131c",
-        "time": 1773440573
-      },
-      {
-        "tag": "v0.38.0-rc.0",
-        "hash": "96f1c40ab300db2eabdf3d2c4547288ebe241d58",
-        "time": 1773408804
       },
       {
         "tag": "v0.37.1",
@@ -231,11 +235,6 @@
         "tag": "v0.36.1-rc.0",
         "hash": "137995bcd633602c386b289307191fbd40ae9cbc",
         "time": 1770993164
-      },
-      {
-        "tag": "v0.37-with-ffi",
-        "hash": "20c3b97950fb365e2949c9f1e7e483dc6cd89b66",
-        "time": 1769109744
       },
       {
         "tag": "v0.37.1-beta",
@@ -519,8 +518,8 @@
       }
     ],
     "commit": {
-      "hash": "9a344553e765775bb9859b58d0f5e284c51e9a98",
-      "time": 1775577657
+      "hash": "59bd365c16fd40506c167e8dd7e439684ab4bd11",
+      "time": 1775655196
     }
   }
 }

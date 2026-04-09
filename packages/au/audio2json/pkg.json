@@ -1,0 +1,59 @@
+{
+  "name": "audio2json",
+  "url": "https://codeberg.org/SpotlightKid/audio2json",
+  "method": "git",
+  "description": "Generate sample peak data in JSON format from audio files",
+  "license": "MIT",
+  "web": "https://codeberg.org/SpotlightKid/audio2json",
+  "tags": [
+    "audio",
+    "waveform",
+    "command-line",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        },
+        {
+          "name": "sndfile",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "audio2json"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "0226b6fd31b8de1c610aaca7c1d5d0e6e06fb940",
+        "time": 1775646519
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ef869dc1208c9232ebd03689896d108f01adf83c",
+        "time": 1774919397
+      }
+    ],
+    "commit": {
+      "hash": "0226b6fd31b8de1c610aaca7c1d5d0e6e06fb940",
+      "time": 1775646519
+    },
+    "status": "Unknown"
+  }
+}

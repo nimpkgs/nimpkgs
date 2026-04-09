@@ -40,6 +40,14 @@
           }
         },
         {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "json_serialization",
           "str": "any version",
           "ver": {
@@ -92,8 +100,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "38d7014a7f28ab50b735b6d386d3a93d14f0d69a",
-      "time": 1744881201
+      "hash": "941f1f88011c5bf1969d37f2925e1f451cf24a2b",
+      "time": 1775638529
     }
   }
 }
