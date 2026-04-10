@@ -6,7 +6,7 @@ on:
       flags:
         description: "flags for nimpkgs/crawler"
         type: string
-        default: "--continue"
+        default: ""
 
 permissions:
   contents: write
