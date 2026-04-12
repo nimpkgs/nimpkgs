@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.2.2",
       "requires": [
         {
           "name": "nim",
@@ -20,6 +20,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/Q-Master/serverloggers.nim.git",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         }
       ],
@@ -30,6 +38,16 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "c2ad9ff2d60077293358a402ef441253486b79ed",
+        "time": 1775915664
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "b0fdb00f315504eda1ffc86e4b145cf0de9b9472",
+        "time": 1775913678
+      },
       {
         "tag": "v0.2.0",
         "hash": "64c14f5545f3d290e967b88c4fbc6575c0ebe3ff",
@@ -42,8 +60,8 @@
       }
     ],
     "commit": {
-      "hash": "5b7c78bf6284436e897e41c96181f43c58e96e8a",
-      "time": 1775564427
+      "hash": "c2ad9ff2d60077293358a402ef441253486b79ed",
+      "time": 1775915664
     }
   }
 }

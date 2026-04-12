@@ -1,0 +1,62 @@
+{
+  "name": "atem",
+  "url": "https://github.com/capocasa/atem",
+  "method": "git",
+  "description": "Facebook Page management CLI via Meta Graph API",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/atem",
+  "tags": [
+    "facebook",
+    "meta",
+    "graph-api",
+    "social-media",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "atem"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "c07888a5ad5dd1bf47c7c42cbb2e0c3a8ef4f158",
+        "time": 1775903108
+      }
+    ],
+    "commit": {
+      "hash": "c07888a5ad5dd1bf47c7c42cbb2e0c3a8ef4f158",
+      "time": 1775903108
+    }
+  }
+}
