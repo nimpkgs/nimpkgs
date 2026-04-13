@@ -1,0 +1,48 @@
+{
+  "name": "cliprompts",
+  "url": "https://github.com/indiscipline/cliprompts",
+  "method": "git",
+  "description": "Interactive CLI prompt library for Nim. Simple, typed, cross-platform, still cozy.",
+  "license": "GPL-2.0-or-later",
+  "web": "https://github.com/indiscipline/cliprompts",
+  "doc": "https://indiscipline.github.io/cliprompts/",
+  "tags": [
+    "cli",
+    "interactive",
+    "command-line",
+    "terminal",
+    "color",
+    "library",
+    "prompts",
+    "prompting",
+    "questions"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "8f11bdae676bfade42898e6d3d07a1f8bd5f29fa",
+        "time": 1775941893
+      }
+    ],
+    "commit": {
+      "hash": "8f11bdae676bfade42898e6d3d07a1f8bd5f29fa",
+      "time": 1775941893
+    }
+  }
+}
