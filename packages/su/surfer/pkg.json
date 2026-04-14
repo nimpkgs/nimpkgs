@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -24,11 +24,51 @@
           }
         },
         {
-          "name": "https://github.com/xTrayambak/nayland",
-          "str": ">= 0.1.2",
+          "name": "nayland",
+          "str": ">= 0.1.32",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.2"
+            "ver": "0.1.32"
+          }
+        },
+        {
+          "name": "shakar",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        },
+        {
+          "name": "xkb",
+          "str": ">= 1.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.1"
+          }
+        },
+        {
+          "name": "vmath",
+          "str": ">= 2.0.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.1"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/nim-windowing/linux_input",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -36,6 +76,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "67acf1bdec9ebec3b127b80ad5d8362ed9fd1526",
+        "time": 1776081560
+      },
       {
         "tag": "0.1.1",
         "hash": "cb8cac87cfef69d73f07e779cba509b8f60a7fae",
@@ -48,8 +93,8 @@
       }
     ],
     "commit": {
-      "hash": "76a79e0d434e331068519af2faca2f59ec520214",
-      "time": 1775393923
+      "hash": "67acf1bdec9ebec3b127b80ad5d8362ed9fd1526",
+      "time": 1776081560
     }
   }
 }

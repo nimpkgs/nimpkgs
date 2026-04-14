@@ -20,27 +20,26 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.10",
+          "str": ">= 2.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.10"
-          }
-        },
-        {
-          "name": "libssh2",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "2.0.0"
           }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "8e21560e8d2ae71731be8beb82fc893a0e0f1e43",
+        "time": 1776110028
+      }
+    ],
     "commit": {
-      "hash": "7034854383abc1638724eec62a7517f9504bc3a1",
-      "time": 1696710239
+      "hash": "8e21560e8d2ae71731be8beb82fc893a0e0f1e43",
+      "time": 1776110028
     }
   }
 }
