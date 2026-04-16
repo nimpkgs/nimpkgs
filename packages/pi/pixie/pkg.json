@@ -25,7 +25,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "5.1.0",
+      "version": "6.0.0",
       "requires": [
         {
           "name": "nim",
@@ -37,10 +37,10 @@
         },
         {
           "name": "vmath",
-          "str": ">= 1.1.4",
+          "str": ">= 3.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.1.4"
+            "ver": "3.0.0"
           }
         },
         {
@@ -96,6 +96,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "6.0.0",
+        "hash": "6d47166df0c89c91be4e712734f78af24c4d8361",
+        "time": 1776302103
+      },
       {
         "tag": "5.1.0",
         "hash": "f05c89f547006a76816254c8bf06ff7ad176543c",
@@ -423,8 +428,8 @@
       }
     ],
     "commit": {
-      "hash": "666d42001f780ad66428762cf1f3147c6c186470",
-      "time": 1775681288
+      "hash": "6d47166df0c89c91be4e712734f78af24c4d8361",
+      "time": 1776302103
     }
   }
 }

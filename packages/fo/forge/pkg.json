@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2025.1012",
+      "version": "2026.1013",
       "requires": [
         {
           "name": "nim",
@@ -25,18 +25,18 @@
           }
         },
         {
-          "name": "https://github.com/daylinmorgan/hwylterm",
-          "str": "#3f19c64a",
+          "name": "hwylterm",
+          "str": ">= 0.3.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.1"
           }
         },
         {
-          "name": "https://github.com/usu-dev/usu-nim",
-          "str": "any version",
+          "name": "usu",
+          "str": "#09b8ba9e",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         }
@@ -48,6 +48,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v2026.1013",
+        "hash": "7519e70e64f336397103b3d967e755d31400848d",
+        "time": 1776280341
+      },
       {
         "tag": "v2025.1012",
         "hash": "b1a2716b2c279d9ea5228db911a25219564cfdc0",
@@ -105,8 +110,8 @@
       }
     ],
     "commit": {
-      "hash": "8a7ca975f745efab5ba9c3007c9bbb98e558984f",
-      "time": 1775482350
+      "hash": "7519e70e64f336397103b3d967e755d31400848d",
+      "time": 1776280341
     }
   }
 }

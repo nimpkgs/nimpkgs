@@ -1,0 +1,92 @@
+{
+  "name": "lsquic",
+  "url": "https://github.com/vacp2p/nim-lsquic",
+  "method": "git",
+  "description": "Nim wrapper around lsquic with a Chronos-based async API",
+  "license": "MIT",
+  "web": "https://github.com/vacp2p/nim-lsquic",
+  "tags": [
+    "quic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "zlib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.4"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": ">= 0.11.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "a776eced48d1f3c630d8f3a8a3e976171dd1f9c1",
+        "time": 1776256060
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "4fb03ee7bfb39aecb3316889fdcb60bec3d0936f",
+        "time": 1769711249
+      }
+    ],
+    "commit": {
+      "hash": "a776eced48d1f3c630d8f3a8a3e976171dd1f9c1",
+      "time": 1776256060
+    }
+  }
+}

@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "requires": [
         {
           "name": "nim",
@@ -44,20 +44,17 @@
             "kind": "verEqLater",
             "ver": "1.1"
           }
-        },
-        {
-          "name": "https://github.com/planetis-m/vulkan",
-          "str": "#b223dc9",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "1.0.1",
+        "hash": "e12e69c01a30485541d90a2a982a3333fe022137",
+        "time": 1776272327
+      },
       {
         "tag": "1.0.0",
         "hash": "d282515d9331ae653ce96562b8843dd465265310",
@@ -180,8 +177,8 @@
       }
     ],
     "commit": {
-      "hash": "d9b7ae858eb71ef5c3efaeabb9e30ca36e001bb1",
-      "time": 1775904987
+      "hash": "e12e69c01a30485541d90a2a982a3333fe022137",
+      "time": 1776272327
     }
   }
 }
