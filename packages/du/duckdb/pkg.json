@@ -1,0 +1,53 @@
+{
+  "name": "duckdb",
+  "url": "https://github.com/openpeeps/duckdb-nim",
+  "method": "git",
+  "description": "Bindings for DuckDB analytical database",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/duckdb-nim",
+  "tags": [
+    "db",
+    "sql",
+    "json",
+    "csv",
+    "analytics",
+    "database"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "bigints",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0e6d78a1792b7c5e9f90e36bc1d47c665b4824a3",
+      "time": 1776263456
+    }
+  }
+}

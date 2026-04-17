@@ -1,0 +1,41 @@
+{
+  "name": "openparser",
+  "url": "https://github.com/openpeeps/openparser",
+  "method": "git",
+  "description": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/openparser",
+  "tags": [
+    "json",
+    "parser",
+    "feed",
+    "rss",
+    "xml",
+    "csv",
+    "zero-copy",
+    "memfiles",
+    "datasets",
+    "data"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "01d49ed1cc1d3b4f6213c5038cb05b9f452db4f7",
+      "time": 1776369051
+    }
+  }
+}
