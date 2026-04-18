@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2626.5.2",
+      "version": "2.803.0",
       "requires": [
         {
           "name": "sigv4",
@@ -33,7 +33,7 @@
         },
         {
           "name": "https://github.com/disruptek/openapi",
-          "str": ">= 3.3.0 & < 4.0.0",
+          "str": ">= 5.0.0 & < 6.0.0",
           "ver": {
             "kind": "verIntersect",
             "ver": ""
@@ -52,6 +52,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "2.803.0",
+        "hash": "fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f",
+        "time": 1776403255
+      },
       {
         "tag": "2626.5.2",
         "hash": "0b480b90e42e3aedabd29c30000964431b8bd161",
@@ -309,8 +314,8 @@
       }
     ],
     "commit": {
-      "hash": "0b480b90e42e3aedabd29c30000964431b8bd161",
-      "time": 1716329699
+      "hash": "fd8a4cefee6e7ba65c4fc003a935d0538d7c9a9f",
+      "time": 1776403255
     }
   }
 }

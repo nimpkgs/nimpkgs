@@ -13,8 +13,16 @@
   ],
   "meta": {
     "nimble": {
-      "version": "3.4.0",
+      "version": "5.0.0",
       "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
         {
           "name": "npeg",
           "str": "< 2.0.0",
@@ -24,16 +32,8 @@
           }
         },
         {
-          "name": "foreach",
-          "str": ">= 1.0.1 & < 2.0.0",
-          "ver": {
-            "kind": "verIntersect",
-            "ver": ""
-          }
-        },
-        {
           "name": "https://github.com/disruptek/rest.git",
-          "str": ">= 1.0.3 & < 2.0.0",
+          "str": ">= 1.0.5 & < 2.0.0",
           "ver": {
             "kind": "verIntersect",
             "ver": ""
@@ -41,9 +41,14 @@
         }
       ],
       "bin": [],
-      "srcDir": "src"
+      "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "5.0.0",
+        "hash": "79c2d729f3a35808c428b7ff269f3d157e99aeb2",
+        "time": 1776399264
+      },
       {
         "tag": "3.4.0",
         "hash": "f0fabca3f7c7df44e0df7eecc6b804f701bfadb6",
@@ -166,8 +171,8 @@
       }
     ],
     "commit": {
-      "hash": "4f584fd20985955c15b13f912aa38a998c300b2c",
-      "time": 1682451925
+      "hash": "79c2d729f3a35808c428b7ff269f3d157e99aeb2",
+      "time": 1776399264
     }
   }
 }

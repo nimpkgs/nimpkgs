@@ -28,14 +28,6 @@
           }
         },
         {
-          "name": "libsodium",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "libevent",
           "str": "#head",
           "ver": {
@@ -52,7 +44,7 @@
           }
         },
         {
-          "name": "jsony",
+          "name": "openparser",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -120,8 +112,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "b451b46b072449f255c8ee630fc25374f898f236",
-      "time": 1775546411
+      "hash": "fa2baa9aff5edf00681402bd6a84e0519388dae6",
+      "time": 1776453841
     }
   }
 }
