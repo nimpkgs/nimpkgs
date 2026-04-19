@@ -106,14 +106,22 @@
             "kind": "verSpecial",
             "ver": ""
           }
+        },
+        {
+          "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "fa2baa9aff5edf00681402bd6a84e0519388dae6",
-      "time": 1776453841
+      "hash": "459b20c6614c0b744262f9436058470474b7d2c8",
+      "time": 1776519120
     }
   }
 }
