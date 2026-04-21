@@ -1,0 +1,105 @@
+{
+  "name": "vancode",
+  "url": "https://github.com/openpeeps/vancode",
+  "method": "git",
+  "description": "A flexible AST, Codegen and Virtual Machine library",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/openpeeps/vancode",
+  "tags": [
+    "vm",
+    "codegen",
+    "interpreter",
+    "stackvm",
+    "tim",
+    "dsl",
+    "scripting",
+    "engine",
+    "programming",
+    "language"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "gccjit",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "flatty",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nyml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "semver",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "01c62284a4fd6349a4f6067b36a195255c757e2a",
+      "time": 1776721118
+    }
+  }
+}

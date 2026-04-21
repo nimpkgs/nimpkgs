@@ -1,0 +1,38 @@
+{
+  "name": "zxc",
+  "url": "https://github.com/openpeeps/zxc-nim",
+  "method": "git",
+  "description": "Bindings to ZXC compression library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/zxc-nim",
+  "tags": [
+    "lz77",
+    "compression",
+    "lossless",
+    "compressor",
+    "assets",
+    "game",
+    "data"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "b8d44c5e0341c73577b92d49a957b1cb7461420a",
+      "time": 1776697779
+    }
+  }
+}

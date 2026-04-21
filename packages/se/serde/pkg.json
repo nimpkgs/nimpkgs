@@ -12,24 +12,8 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.2.2",
+      "version": "1.2.3",
       "requires": [
-        {
-          "name": "nim",
-          "str": ">= 1.6.14",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.6.14"
-          }
-        },
-        {
-          "name": "chronicles",
-          "str": ">= 0.10.3 & < 0.11.0",
-          "ver": {
-            "kind": "verIntersect",
-            "ver": ""
-          }
-        },
         {
           "name": "questionable",
           "str": ">= 0.10.13 & < 0.11.0",
@@ -53,12 +37,25 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "asynctest",
+          "str": ">= 0.5.1 & < 0.6.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v1.2.3",
+        "hash": "afa6692fedada8a245270aec52bf63bb997cbf4e",
+        "time": 1776693888
+      },
       {
         "tag": "v.1.2.2",
         "hash": "83e4a2ccf621d3040c6e7e0267393ca2d205988e",
@@ -106,8 +103,8 @@
       }
     ],
     "commit": {
-      "hash": "649ae60e05ec432738d41eb8d613c5d7f434c4a3",
-      "time": 1765865417
+      "hash": "fb117e5bd200ef1b4e5d27b9f3b85d63dcf9aa85",
+      "time": 1776693916
     }
   }
 }
