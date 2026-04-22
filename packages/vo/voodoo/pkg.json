@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.7",
+      "version": "0.1.9",
       "requires": [
         {
           "name": "nim",
@@ -21,28 +21,22 @@
             "kind": "verEqLater",
             "ver": "2.0.0"
           }
-        },
-        {
-          "name": "libffi",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "htmlparser",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "575d15b4f76914ae7fea1a46bd1af6bd10619b95",
+        "time": 1776782970
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "4f5a52bc0a2577d31667cbf8b2381218b6db6ca4",
+        "time": 1776782830
+      },
       {
         "tag": "0.1.7",
         "hash": "004cc5797f407e8c0fb65ea4b12afb8e81b80406",
@@ -80,8 +74,8 @@
       }
     ],
     "commit": {
-      "hash": "48eb532f9b42283486208bbd556b263fa8a32f1d",
-      "time": 1776368864
+      "hash": "575d15b4f76914ae7fea1a46bd1af6bd10619b95",
+      "time": 1776782970
     }
   }
 }
