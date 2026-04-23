@@ -1,0 +1,35 @@
+{
+  "name": "paddy",
+  "url": "https://github.com/treeform/paddy",
+  "method": "git",
+  "description": "Paddy is a gamepad API for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/paddy",
+  "tags": [
+    "gamepad",
+    "controller",
+    "input",
+    "game"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3fcec08a559479cc8d2fd769f26c6d56bb27a1a1",
+      "time": 1776635911
+    }
+  }
+}

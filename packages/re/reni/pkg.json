@@ -1,0 +1,40 @@
+{
+  "name": "reni",
+  "url": "https://github.com/fox0430/reni",
+  "method": "git",
+  "description": "A regular expression engine compatible with Oniguruma",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/reni",
+  "tags": [
+    "regex"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.13.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "ffb7bd779383e73abc6856b3c59a7a99b8abb337",
+      "time": 1776865056
+    }
+  }
+}
