@@ -24,15 +24,7 @@
           }
         },
         {
-          "name": "jsony",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "nyml",
+          "name": "openparser",
           "str": "#head",
           "ver": {
             "kind": "verSpecial",
@@ -44,8 +36,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "a851f54a781e414bda2a1ac63bb74e3d72b2dd62",
-      "time": 1776507152
+      "hash": "faa5a123c540b1f00cd0861b25b0f1e408ae6c77",
+      "time": 1776964070
     }
   }
 }

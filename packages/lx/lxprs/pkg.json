@@ -1,0 +1,61 @@
+{
+  "name": "lxprs",
+  "url": "https://github.com/capocasa/lxprs",
+  "method": "git",
+  "description": "LetterXpress client for sending German postal letters from PDF",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/lxprs",
+  "tags": [
+    "letterxpress",
+    "cli",
+    "postal",
+    "germany"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "dotenv",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "lxprs"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "9b7829e74f337ffece858f0ee151cd3a001e18b4",
+        "time": 1776988377
+      }
+    ],
+    "commit": {
+      "hash": "9b7829e74f337ffece858f0ee151cd3a001e18b4",
+      "time": 1776988377
+    }
+  }
+}
