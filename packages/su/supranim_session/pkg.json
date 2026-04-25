@@ -1,0 +1,46 @@
+{
+  "name": "supranim_session",
+  "url": "https://github.com/supranim/session",
+  "method": "git",
+  "description": "Auth & Session Management for Supranim apps",
+  "license": "MIT",
+  "web": "https://github.com/supranim/session",
+  "tags": [
+    "auth",
+    "session",
+    "login",
+    "register",
+    "csrf",
+    "supranim",
+    "cookie"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "e2ee",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "790254253c23f56bba45122cc869067f2898b6e1",
+      "time": 1777011563
+    }
+  }
+}
