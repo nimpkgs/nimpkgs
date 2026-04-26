@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.5",
+      "version": "0.5.1",
       "requires": [
         {
           "name": "nim",
@@ -25,9 +25,9 @@
         },
         {
           "name": "https://github.com/itsumura-h/nim-basolato",
-          "str": "any version",
+          "str": "#0.15.0",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -40,11 +40,11 @@
           }
         },
         {
-          "name": "https://github.com/nimmer-jp/tiara",
-          "str": "any version",
+          "name": "tiara",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -55,6 +55,31 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.5.1",
+        "hash": "b443ecec4ce3d3c8cbc2cb00dd70e8e6075ceed0",
+        "time": 1777173462
+      },
+      {
+        "tag": "0.5.0",
+        "hash": "7097755e6fe91994b0779318e7c2ab6db4abd6c1",
+        "time": 1777129521
+      },
+      {
+        "tag": "0.4.9",
+        "hash": "0508062977434886a164aee34ba657aee2c737f3",
+        "time": 1777117851
+      },
+      {
+        "tag": "0.4.8",
+        "hash": "57299abcfc716c191b18dce76a420b52625b608d",
+        "time": 1777117132
+      },
+      {
+        "tag": "0.4.7",
+        "hash": "ae8845855f7fd1769bf55b22d75ebaede403a662",
+        "time": 1777116396
+      },
       {
         "tag": "0.4.6",
         "hash": "fe105acad44d14630da61ba51d7cfce097cd39b3",
@@ -142,8 +167,8 @@
       }
     ],
     "commit": {
-      "hash": "64e39ec1f6e90d8e44d327bd78f0e5eb9a4c0676",
-      "time": 1776767408
+      "hash": "b443ecec4ce3d3c8cbc2cb00dd70e8e6075ceed0",
+      "time": 1777173462
     }
   }
 }
