@@ -12,22 +12,22 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2",
+      "version": "0.3",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 0.19.0",
+          "str": ">= 2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.19.0"
+            "ver": "2.0"
           }
         },
         {
           "name": "bearssl",
-          "str": "any version",
+          "str": ">= 0.2.8",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.8"
           }
         },
         {
@@ -43,8 +43,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "7da158687b86640da42639845f7144ac53b15c87",
-      "time": 1691270779
+      "hash": "710fd315b0199f6abb17c97fb58f64987ec2be11",
+      "time": 1777207145
     }
   }
 }
