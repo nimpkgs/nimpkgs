@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.1",
+      "version": "0.4.2",
       "requires": [
         {
           "name": "nim",
@@ -24,11 +24,11 @@
           }
         },
         {
-          "name": "https://github.com/ire4ever1190/lowdb",
-          "str": "#91541cc915908b2a4d43c77614666b7162f19795",
+          "name": "lowdb",
+          "str": ">= 0.3.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.0"
           }
         }
       ],
@@ -36,6 +36,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.4.2",
+        "hash": "af76bd7989acad236f0ff455ebe2d613c87023e4",
+        "time": 1777282881
+      },
       {
         "tag": "0.4.1",
         "hash": "665c0842d9ad90adc788c0cb97f1942837a3b840",
@@ -78,8 +83,8 @@
       }
     ],
     "commit": {
-      "hash": "0b7c2d5d60cff90688e416f988e8c98a32a2aa55",
-      "time": 1777238657
+      "hash": "af76bd7989acad236f0ff455ebe2d613c87023e4",
+      "time": 1777282881
     }
   }
 }
