@@ -1,12 +1,13 @@
 {
-  "name": "reni",
-  "url": "https://github.com/fox0430/reni",
+  "name": "textmate",
+  "url": "https://github.com/fox0430/nim-textmate",
   "method": "git",
-  "description": "A regular expression engine compatible with Oniguruma",
+  "description": "A TextMate grammar parser",
   "license": "MIT",
-  "web": "https://github.com/fox0430/reni",
+  "web": "https://github.com/fox0430/nim-textmate",
   "tags": [
-    "regex"
+    "parse",
+    "textmate"
   ],
   "meta": {
     "nimble": {
@@ -21,11 +22,11 @@
           }
         },
         {
-          "name": "unicodedb",
-          "str": ">= 0.13.0",
+          "name": "reni",
+          "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.13.0"
+            "ver": "0.1.0"
           }
         }
       ],
@@ -33,8 +34,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "8dc368eb603d82716fc3411cbb82ebc067657c2f",
-      "time": 1777395638
+      "hash": "92dab80bb7e45144f2ee033e38e2ffd98276a45e",
+      "time": 1777394987
     }
   }
 }
