@@ -1,0 +1,49 @@
+{
+  "name": "streamhttp",
+  "url": "https://github.com/capocasa/streamhttp",
+  "method": "git",
+  "description": "Tiny synchronous streaming HTTP/1.1 client. Reads chunked bodies as they arrive.",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/streamhttp",
+  "tags": [
+    "http",
+    "client",
+    "streaming",
+    "sse",
+    "chunked",
+    "tls"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "397ab35608ccc7834292c147bb34dfd2adb720fd",
+        "time": 1777550744
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "8ee5c102ddf3aa794caf619795a58cc261c0b132",
+        "time": 1777543445
+      }
+    ],
+    "commit": {
+      "hash": "397ab35608ccc7834292c147bb34dfd2adb720fd",
+      "time": 1777550744
+    }
+  }
+}

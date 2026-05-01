@@ -1,0 +1,78 @@
+{
+  "name": "sarcophagus",
+  "url": "https://github.com/elcritch/sarcophagus",
+  "method": "git",
+  "description": "mummy higher level api wrapper",
+  "license": "Apache-2.0",
+  "web": "https://github.com/elcritch/sarcophagus",
+  "tags": [
+    "nim",
+    "mummy",
+    "web-framework",
+    "api-router",
+    "typed-routes",
+    "openapi",
+    "swagger"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.10.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "mummy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jwt",
+          "str": ">= 0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3"
+          }
+        },
+        {
+          "name": "bearssl",
+          "str": ">= 0.2.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.8"
+          }
+        },
+        {
+          "name": "https://github.com/yglukhov/bearssl_pkey_decoder",
+          "str": "#546f8d9b",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/chroniclers",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "54e147ebaa4eca17f0f17c95b7ac5472a2ec3c9f",
+      "time": 1777572906
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "chroniclers",
+  "url": "https://github.com/elcritch/chroniclers",
+  "method": "git",
+  "description": "Compile-time selectable structured logging facade for Nim",
+  "license": "BSD-2-Clause",
+  "web": "https://github.com/elcritch/chroniclers",
+  "tags": [
+    "logging",
+    "structured-logging",
+    "logging-facade",
+    "chronicles"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "3608631f8bc48a9d703bcfcef7d1094575485715",
+      "time": 1777570296
+    }
+  }
+}

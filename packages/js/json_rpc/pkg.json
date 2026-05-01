@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.5.4",
+      "version": "0.6.0",
       "requires": [
         {
           "name": "nim",
@@ -75,7 +75,7 @@
         },
         {
           "name": "websock",
-          "str": ">= 0.2.0 & < 0.3.0",
+          "str": ">= 0.2.1 & < 0.4.0",
           "ver": {
             "kind": "verIntersect",
             "ver": ""
@@ -111,6 +111,11 @@
     },
     "versions": [
       {
+        "tag": "v0.6.0",
+        "hash": "bb0fb7b435190b6849cb8d638146f502e4c4b2c3",
+        "time": 1777559547
+      },
+      {
         "tag": "v0.5.4",
         "hash": "b6e40a776fa2d00b97a9366761fb7da18f31ae5c",
         "time": 1763207849
@@ -127,8 +132,8 @@
       }
     ],
     "commit": {
-      "hash": "adfd20d8779112fe5f309d8d40c4b7da2ae5faec",
-      "time": 1777177177
+      "hash": "bb0fb7b435190b6849cb8d638146f502e4c4b2c3",
+      "time": 1777559547
     }
   }
 }

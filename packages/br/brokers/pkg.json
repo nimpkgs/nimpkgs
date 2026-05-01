@@ -1,0 +1,83 @@
+{
+  "name": "brokers",
+  "url": "https://github.com/NagyZoltanPeter/nim-brokers",
+  "method": "git",
+  "description": "Type-safe, thread-local, decoupled messaging patterns for Nim",
+  "license": "MIT",
+  "web": "https://github.com/NagyZoltanPeter/nim-brokers",
+  "tags": [
+    "library",
+    "dataexchange",
+    "async",
+    "multithread",
+    "ffi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "testutils",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "https://github.com/status-im/nim-async-channels",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "2055d599bf136976a3d6bd366d3d11ef30060517",
+        "time": 1775047700
+      }
+    ],
+    "commit": {
+      "hash": "cb8890b1180a9a033cf39d0270c2fa1d697eea07",
+      "time": 1777592342
+    }
+  }
+}
