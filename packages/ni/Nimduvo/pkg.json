@@ -1,0 +1,33 @@
+{
+  "name": "Nimduvo",
+  "url": "https://github.com/sednoids/Nimduvo",
+  "method": "git",
+  "description": "An asynchronous Nim wrapper for the Luduvo API.",
+  "license": "MIT License",
+  "web": "https://github.com/sednoids/Nimduvo",
+  "tags": [
+    "api-wrapper",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e146d07966c991a3bd97f2465e7c4451776511aa",
+      "time": 1777666912
+    }
+  }
+}

@@ -22,7 +22,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "3.2.0",
+      "version": "4.1.0",
       "requires": [
         {
           "name": "nim",
@@ -42,18 +42,18 @@
         },
         {
           "name": "typestates",
-          "str": ">= 0.3.1",
+          "str": ">= 0.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.1"
+            "ver": "0.6.0"
           }
         },
         {
           "name": "debra",
-          "str": ">= 0.3.0",
+          "str": ">= 0.5.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.0"
+            "ver": "0.5.0"
           }
         }
       ],
@@ -61,6 +61,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v4.1.0",
+        "hash": "e8ee15b1f3830e824a6a7f6a3912bd94a7192cde",
+        "time": 1777658777
+      },
+      {
+        "tag": "v4.0.0",
+        "hash": "eac1d497396c0a2cd520c17213d0fb071580a0fa",
+        "time": 1777613867
+      },
       {
         "tag": "v3.2.0",
         "hash": "70d4fcc603a1bb2dd697fed4ff58e89323517d17",
@@ -128,8 +138,8 @@
       }
     ],
     "commit": {
-      "hash": "d4c138899b170d7dd0005d5ac2608d63c753f071",
-      "time": 1777528846
+      "hash": "e8ee15b1f3830e824a6a7f6a3912bd94a7192cde",
+      "time": 1777658777
     }
   }
 }
