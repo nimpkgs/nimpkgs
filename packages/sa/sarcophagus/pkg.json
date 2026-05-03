@@ -59,7 +59,7 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/chroniclers",
+          "name": "chroniclers",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -71,8 +71,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "54e147ebaa4eca17f0f17c95b7ac5472a2ec3c9f",
-      "time": 1777572906
+      "hash": "c29b14ac32a07c7c39f6daf3059d82d9568281ec",
+      "time": 1777715740
     }
   }
 }
