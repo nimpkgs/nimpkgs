@@ -1,0 +1,40 @@
+{
+  "name": "winrm",
+  "url": "https://github.com/blue0x1/nim-winrm",
+  "method": "git",
+  "description": "Native WinRM client library for Nim with NTLM, Kerberos, PSRP, and WinRS support",
+  "license": "MIT",
+  "web": "https://github.com/blue0x1/nim-winrm",
+  "tags": [
+    "winrm",
+    "ntlm",
+    "kerberos",
+    "powershell",
+    "psrp",
+    "windows",
+    "remote",
+    "network",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "commit": {
+      "hash": "d2a90f0f9a61caf4eb9bb858f334613f9945b290",
+      "time": 1777882699
+    }
+  }
+}

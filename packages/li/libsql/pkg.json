@@ -1,0 +1,36 @@
+{
+  "name": "libsql",
+  "url": "https://github.com/bung87/libsql",
+  "method": "git",
+  "description": "Nim binding for libSQL - an open source, open contribution fork of SQLite",
+  "license": "MIT",
+  "web": "https://github.com/bung87/libsql",
+  "tags": [
+    "database",
+    "sql",
+    "libsql",
+    "sqlite",
+    "turso"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "65a0b1aa8383d05eb1910d9c4fd5c7f650a86557",
+      "time": 1777809951
+    }
+  }
+}

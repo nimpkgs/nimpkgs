@@ -1,0 +1,51 @@
+{
+  "name": "nimrm",
+  "url": "https://github.com/blue0x1/nimrm",
+  "method": "git",
+  "description": "Native WinRM shell client with NTLM, Kerberos, file transfers, in-memory operations, and multi-session support",
+  "license": "MIT",
+  "web": "https://github.com/blue0x1/nimrm",
+  "tags": [
+    "winrm",
+    "shell",
+    "ntlm",
+    "kerberos",
+    "powershell",
+    "windows",
+    "remote",
+    "security",
+    "pentesting",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimrm"
+      ],
+      "srcDir": ""
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "809c703083b9d1dfb33fc200d18638a5a3d3143c",
+        "time": 1777596961
+      }
+    ],
+    "commit": {
+      "hash": "eec0bfbe270633f1034a0a83e3b7ba414566422c",
+      "time": 1777882702
+    }
+  }
+}
