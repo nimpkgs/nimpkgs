@@ -1,0 +1,44 @@
+{
+  "name": "opendmarc",
+  "url": "https://github.com/openpeeps/libopendmarc-nim",
+  "method": "git",
+  "description": "OpenDMARC bindings",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/libopendmarc-nim",
+  "tags": [
+    "dkim",
+    "spf",
+    "dmarc",
+    "arc",
+    "mail",
+    "smtp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "5612a76eb3a31612ed20f731c149cc618ac41714",
+        "time": 1777929561
+      }
+    ],
+    "commit": {
+      "hash": "5612a76eb3a31612ed20f731c149cc618ac41714",
+      "time": 1777929561
+    }
+  }
+}

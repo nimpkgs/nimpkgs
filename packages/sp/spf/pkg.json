@@ -1,0 +1,44 @@
+{
+  "name": "spf",
+  "url": "https://github.com/openpeeps/libspf-nim",
+  "method": "git",
+  "description": "Bindings for the SPF library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/libspf-nim",
+  "tags": [
+    "spf",
+    "email",
+    "smtp",
+    "mail",
+    "security",
+    "dns"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "379556f0ad85dcce9321dd2162dbe0809e87a171",
+        "time": 1777926431
+      }
+    ],
+    "commit": {
+      "hash": "379556f0ad85dcce9321dd2162dbe0809e87a171",
+      "time": 1777926431
+    }
+  }
+}
