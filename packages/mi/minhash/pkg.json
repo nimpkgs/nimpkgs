@@ -15,10 +15,10 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 0.18.1",
+          "str": ">= 1.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.18.1"
+            "ver": "1.6.0"
           }
         }
       ],
@@ -26,8 +26,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "caa87391dfe9ba4d5b7631d4442c03603afae57f",
-      "time": 1537208849
+      "hash": "f20696a21a591dc94854a1bc0f74b35d2ec2b168",
+      "time": 1777984860
     }
   }
 }

@@ -55,14 +55,6 @@
             "kind": "verEqLater",
             "ver": "0.5.0"
           }
-        },
-        {
-          "name": "https://github.com/status-im/nim-async-channels",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
         }
       ],
       "bin": [],
@@ -70,14 +62,19 @@
     },
     "versions": [
       {
+        "tag": "v0.2.0",
+        "hash": "f77de797f9ea9e36b76f0c0f5b01373830f44e30",
+        "time": 1777967281
+      },
+      {
         "tag": "v0.1.0",
         "hash": "2055d599bf136976a3d6bd366d3d11ef30060517",
         "time": 1775047700
       }
     ],
     "commit": {
-      "hash": "e120e0238640b2364ce233eb9598836ac5d1926a",
-      "time": 1777661794
+      "hash": "f77de797f9ea9e36b76f0c0f5b01373830f44e30",
+      "time": 1777967281
     }
   }
 }

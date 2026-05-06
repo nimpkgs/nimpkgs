@@ -1,0 +1,45 @@
+{
+  "name": "paddle",
+  "url": "https://github.com/openpeeps/paddle-nim",
+  "method": "git",
+  "description": "Paddle API client",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/paddle-nim",
+  "tags": [
+    "ecommerce",
+    "payments",
+    "paddle",
+    "client",
+    "api",
+    "billing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "cd7701f2fb0e07b6ad02535cdb416a74a0749344",
+      "time": 1777970764
+    }
+  }
+}

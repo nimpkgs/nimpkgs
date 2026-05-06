@@ -14,13 +14,13 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.3",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.8",
+          "str": "> 2.0.8",
           "ver": {
-            "kind": "verEqLater",
+            "kind": "verLater",
             "ver": "2.0.8"
           }
         },
@@ -33,7 +33,15 @@
           }
         },
         {
-          "name": "https://github.com/nimpylib/wasm_backend",
+          "name": "https://github.com/nimwasm/wasm_backend",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimwasm/wasi_stub",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -49,14 +57,24 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "v0.1.3",
+        "hash": "0ef19cfeb23df954ec60d387dcf7b4c92e9ae7d5",
+        "time": 1777956905
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "41fe29659769f36fcd8890954da417e3ebb3124a",
+        "time": 1777955876
+      },
+      {
         "tag": "v0.1.1",
         "hash": "0e86ac8ad61bebcbef1214d8f61612934cdae2c2",
         "time": 1770390758
       }
     ],
     "commit": {
-      "hash": "a7a7bca78dec8a592aed59b040476da2c623978f",
-      "time": 1777802633
+      "hash": "0ef19cfeb23df954ec60d387dcf7b4c92e9ae7d5",
+      "time": 1777956905
     }
   }
 }

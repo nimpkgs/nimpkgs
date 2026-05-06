@@ -1,0 +1,42 @@
+{
+  "name": "bbcodim",
+  "url": "https://github.com/filvyb/bbcodim",
+  "method": "git",
+  "description": "BBCode parser and renderer",
+  "license": "MIT",
+  "web": "https://github.com/filvyb/bbcodim",
+  "tags": [
+    "bbcode",
+    "library",
+    "markdown",
+    "html"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "77fe2d3f15c284735d28630030b415dd69b26e99",
+        "time": 1777912738
+      }
+    ],
+    "commit": {
+      "hash": "77fe2d3f15c284735d28630030b415dd69b26e99",
+      "time": 1777912738
+    }
+  }
+}
