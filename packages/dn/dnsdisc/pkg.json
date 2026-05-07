@@ -13,14 +13,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 2.0.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
+            "ver": "2.0.10"
           }
         },
         {
@@ -108,8 +108,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "38f2e0f52c0a8f032ef4530835e519d550706d9e",
-      "time": 1773958412
+      "hash": "6cb1b7e3922645275043c68e476cac1501a45e55",
+      "time": 1778074332
     }
   }
 }
