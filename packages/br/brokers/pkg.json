@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "1.0.0",
       "requires": [
         {
           "name": "nim",
@@ -55,12 +55,25 @@
             "kind": "verEqLater",
             "ver": "0.5.0"
           }
+        },
+        {
+          "name": "cbor_serialization",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "d6dd65a9235ce75b59d4765e2d84e91ba3b65b5e",
+        "time": 1778173978
+      },
       {
         "tag": "v0.2.0",
         "hash": "f77de797f9ea9e36b76f0c0f5b01373830f44e30",
@@ -73,8 +86,8 @@
       }
     ],
     "commit": {
-      "hash": "f77de797f9ea9e36b76f0c0f5b01373830f44e30",
-      "time": 1777967281
+      "hash": "d6dd65a9235ce75b59d4765e2d84e91ba3b65b5e",
+      "time": 1778173978
     }
   }
 }

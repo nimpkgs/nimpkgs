@@ -1,0 +1,70 @@
+{
+  "name": "boogie",
+  "url": "https://github.com/openpeeps/boogie",
+  "method": "git",
+  "description": "A suite of WAL-based data stores",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/openpeeps/boogie",
+  "tags": [
+    "wal",
+    "db",
+    "database",
+    "store",
+    "vector",
+    "columnar",
+    "cache"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "sorta",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "flatty",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "threading",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2338df125d07dc9e2a7d4496f4a456f95c413b24",
+      "time": 1778184198
+    }
+  }
+}

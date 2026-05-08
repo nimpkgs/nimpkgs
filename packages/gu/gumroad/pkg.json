@@ -1,0 +1,56 @@
+{
+  "name": "gumroad",
+  "url": "https://github.com/openpeeps/gumroad-nim",
+  "method": "git",
+  "description": "API client for Gumroad.com",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/gumroad-nim",
+  "tags": [
+    "api",
+    "client",
+    "rest",
+    "gumroad",
+    "payments",
+    "ecommerce",
+    "marketplace",
+    "shop",
+    "products"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "oauth2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0f1584db6296151d61c1e35cca809238b9842d4b",
+      "time": 1778170169
+    }
+  }
+}

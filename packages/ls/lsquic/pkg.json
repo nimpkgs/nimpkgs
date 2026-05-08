@@ -10,7 +10,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.0",
+      "version": "0.4.1",
       "requires": [
         {
           "name": "nim",
@@ -70,10 +70,10 @@
         },
         {
           "name": "https://github.com/vacp2p/nim-boringssl",
-          "str": "#v0.0.4",
+          "str": ">= 0.0.4",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.0.4"
           }
         }
       ],
@@ -81,6 +81,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.4.1",
+        "hash": "00e4b7dfaa197cd120267aa897b33b0914166b45",
+        "time": 1778187048
+      },
       {
         "tag": "v0.4.0",
         "hash": "0b9ee1f915963ab8384c701fda3c49a116b6f5fa",
@@ -108,8 +113,8 @@
       }
     ],
     "commit": {
-      "hash": "0b9ee1f915963ab8384c701fda3c49a116b6f5fa",
-      "time": 1778073696
+      "hash": "00e4b7dfaa197cd120267aa897b33b0914166b45",
+      "time": 1778187048
     }
   }
 }

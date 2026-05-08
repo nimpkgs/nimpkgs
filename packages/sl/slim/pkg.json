@@ -11,18 +11,10 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.12",
+      "version": "0.1.13",
       "requires": [
         {
           "name": "fusion",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "compiler",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -37,6 +29,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.1.13",
+        "hash": "c49ab66b5c3e10c8a5e028f6a472c5082534a1ab",
+        "time": 1778142352
+      },
       {
         "tag": "v0.1.12",
         "hash": "e766ff96a5df0cb9bf4a3ec541c153c2abf59f6f",
@@ -94,8 +91,8 @@
       }
     ],
     "commit": {
-      "hash": "0ec141ea1b32d188584a472605414357c2c6bffc",
-      "time": 1777334533
+      "hash": "c49ab66b5c3e10c8a5e028f6a472c5082534a1ab",
+      "time": 1778142352
     }
   }
 }
