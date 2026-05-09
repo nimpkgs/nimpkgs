@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.1",
+      "version": "0.5.0",
       "requires": [
         {
           "name": "nim",
@@ -24,10 +24,10 @@
         },
         {
           "name": "pgxcrown",
-          "str": ">= 0.9.0",
+          "str": ">= 0.9.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.9.0"
+            "ver": "0.9.7"
           }
         }
       ],
@@ -35,6 +35,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.5.0",
+        "hash": "e2559ea6d56eeefb6a6663ec51926c16b243a2a7",
+        "time": 1778295897
+      },
       {
         "tag": "v0.3.1",
         "hash": "03f848cf7ccb67dc6f5cb9c0b453b532e70988f2",
@@ -87,8 +92,8 @@
       }
     ],
     "commit": {
-      "hash": "275b1b762b9e9a47f5033a55f6bd90a7daca0f6b",
-      "time": 1750710989
+      "hash": "e2559ea6d56eeefb6a6663ec51926c16b243a2a7",
+      "time": 1778295897
     }
   }
 }
