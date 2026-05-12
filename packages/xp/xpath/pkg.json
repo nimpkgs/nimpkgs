@@ -1,0 +1,49 @@
+{
+  "name": "xpath",
+  "url": "https://github.com/blue0x1/xpath",
+  "method": "git",
+  "description": "Advanced XPath injection scanner for authorized security testing",
+  "license": "MIT",
+  "web": "https://github.com/blue0x1/xpath",
+  "tags": [
+    "xpath",
+    "xpath-injection",
+    "security",
+    "scanner",
+    "pentesting",
+    "web-security",
+    "xml",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "xpath"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "8fda202054765a4967f966dc46e36f8ac21f1acc",
+        "time": 1778465663
+      }
+    ],
+    "commit": {
+      "hash": "bb837fcbd3ad4b617d561da9c7b70c1ed3630b2e",
+      "time": 1778553773
+    }
+  }
+}

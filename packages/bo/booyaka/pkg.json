@@ -116,10 +116,10 @@
           }
         },
         {
-          "name": "https://github.com/supranim/supra",
-          "str": "any version",
+          "name": "supra",
+          "str": "#head",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         }
@@ -131,8 +131,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "4dbc58dc94754dedab46940ec2cc479496dd8bce",
-      "time": 1778403244
+      "hash": "fed322e4385801679753aeed447f8f2a352057cb",
+      "time": 1778536966
     }
   }
 }

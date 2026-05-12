@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.9.15",
+      "version": "0.9.16",
       "requires": [
         {
           "name": "nim",
@@ -25,14 +25,6 @@
           "ver": {
             "kind": "verLater",
             "ver": "2.0.4"
-          }
-        },
-        {
-          "name": "https://github.com/nimpylib/pyrepr",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
           }
         },
         {
@@ -45,14 +37,6 @@
         },
         {
           "name": "https://github.com/nimpylib/nimpatch",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "https://github.com/nimpylib/translateEscape",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -76,15 +60,7 @@
           }
         },
         {
-          "name": "https://github.com/nimpylib/errno",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "https://github.com/nimpylib/float_utils",
+          "name": "https://github.com/nimpylib/intobject",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -93,22 +69,6 @@
         },
         {
           "name": "https://github.com/nimpylib/pycomplex",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "https://github.com/nimpylib/unicode_space_decimal",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "https://github.com/nimpylib/pystrutils",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -130,12 +90,185 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "https://github.com/nimpylib/pysimperr",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/auditfunc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyerrors",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/py_constants",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pystrbytes_decl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pystrbyteslike_decl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pystr",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pybytes",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyio_abc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/collections_abc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/py_commontypes",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pybuiltins",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pysugar",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/py_version",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/py_intfloat",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyops",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/cstruct2namedtuple",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/py_locale_utf8_encoding",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyio",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyunittest",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pystdlib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.9.16",
+        "hash": "e3e226f186e35fdaf70de9e63659931b5a83a2df",
+        "time": 1778487083
+      },
       {
         "tag": "v0.9.15",
         "hash": "6e54cbe39b1e3f1485c459b293c5fea5c3bca31a",
@@ -233,8 +366,8 @@
       }
     ],
     "commit": {
-      "hash": "6691e9ed8c5dd960da4a7a6399839d746eb2bb3e",
-      "time": 1778399362
+      "hash": "e3e226f186e35fdaf70de9e63659931b5a83a2df",
+      "time": 1778487083
     }
   }
 }

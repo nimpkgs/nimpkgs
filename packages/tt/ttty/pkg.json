@@ -1,0 +1,35 @@
+{
+  "name": "ttty",
+  "url": "https://github.com/capocasa/ttty",
+  "method": "git",
+  "description": "Headless ANSI VT grid renderer",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/ttty",
+  "tags": [
+    "terminal",
+    "ansi",
+    "vt100",
+    "grid"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1e409dd315a4433f5dfbd920e30ef38959180219",
+      "time": 1778498011
+    }
+  }
+}
