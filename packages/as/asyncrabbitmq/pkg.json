@@ -13,14 +13,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1",
+      "version": "0.2",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 0.20.00",
+          "str": ">= 2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.20.00"
+            "ver": "2.0"
           }
         },
         {
@@ -33,9 +33,14 @@
         }
       ],
       "bin": [],
-      "srcDir": ""
+      "srcDir": "asyncrabbitmq"
     },
     "versions": [
+      {
+        "tag": "v0.2",
+        "hash": "a09bd58087dcb1fa704259191c65a01e6fd9c0a1",
+        "time": 1778576739
+      },
       {
         "tag": "v0.1",
         "hash": "eb0116e8f6b61d171944d0f44adcf2710d144dfc",
@@ -43,8 +48,8 @@
       }
     ],
     "commit": {
-      "hash": "eb0116e8f6b61d171944d0f44adcf2710d144dfc",
-      "time": 1667339723
+      "hash": "a09bd58087dcb1fa704259191c65a01e6fd9c0a1",
+      "time": 1778576739
     }
   }
 }

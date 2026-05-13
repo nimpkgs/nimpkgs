@@ -1,19 +1,17 @@
 {
-  "name": "supranim",
-  "url": "https://github.com/supranim/supranim",
+  "name": "supra",
+  "url": "https://github.com/supranim/supra",
   "method": "git",
-  "description": "A fast Hyper Server & Web Framework",
+  "description": "CLI tool for managing Supranim projects",
   "license": "MIT",
-  "web": "https://github.com/supranim/supranim",
+  "web": "https://github.com/supranim/supra",
   "tags": [
+    "supranim",
     "framework",
-    "web-development",
+    "webframework",
     "web",
-    "webdev",
-    "web-application",
-    "http",
-    "httpframework",
-    "supranim"
+    "starterkit",
+    "starter"
   ],
   "meta": {
     "nimble": {
@@ -28,15 +26,7 @@
           }
         },
         {
-          "name": "libevent",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "flatty",
+          "name": "db_connector",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -52,55 +42,39 @@
           }
         },
         {
-          "name": "emitter",
-          "str": "#head",
+          "name": "supranim",
+          "str": "any version",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verAny",
             "ver": ""
           }
         },
         {
           "name": "kapsis",
-          "str": "#head",
+          "str": "any version",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "flatty",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "valido",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
             "ver": ""
           }
         },
         {
           "name": "ozark",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "semver",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "threading",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "mimedb",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "regex",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -108,12 +82,15 @@
           }
         }
       ],
-      "bin": [],
+      "bin": [
+        "supra"
+      ],
       "srcDir": "src"
     },
+    "hasBin": true,
     "commit": {
-      "hash": "5340025c10b3ab5ca026ca32463790263f339f6a",
-      "time": 1778574156
+      "hash": "297ed0fac714c7cebc4e6b09e867f68d9cee2fa1",
+      "time": 1778572166
     }
   }
 }
