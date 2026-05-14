@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.4",
+      "version": "0.2.5.1",
       "requires": [
         {
           "name": "nim",
@@ -33,10 +33,10 @@
         },
         {
           "name": "siwin",
-          "str": ">= 0.9.3",
+          "str": ">= 1.0.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.9.3"
+            "ver": "1.0.1"
           }
         },
         {
@@ -48,15 +48,7 @@
           }
         },
         {
-          "name": "opengl",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "shady",
+          "name": "https://github.com/levovix0/rice",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -68,6 +60,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.5.1",
+        "hash": "05e8f39e878ad7c1f8182c1e69614dc4930702cd",
+        "time": 1778677954
+      },
+      {
+        "tag": "0.2.5",
+        "hash": "7ef45694f11ea590a5f27263134140f803d3e7c1",
+        "time": 1778675748
+      },
       {
         "tag": "0.2.4",
         "hash": "1627ec9631163d7ed687d7044f0aa09c51a41b13",
@@ -105,8 +107,8 @@
       }
     ],
     "commit": {
-      "hash": "97129b3344985e3cd7f3485b90458e55cf508f70",
-      "time": 1777756093
+      "hash": "05e8f39e878ad7c1f8182c1e69614dc4930702cd",
+      "time": 1778677954
     }
   }
 }
