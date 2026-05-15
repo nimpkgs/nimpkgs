@@ -1,25 +1,20 @@
 {
-  "name": "openparser",
-  "url": "https://github.com/openpeeps/openparser",
+  "name": "oris",
+  "url": "https://github.com/openpeeps/oris",
   "method": "git",
-  "description": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+  "description": "A simple i18n library for Nim",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/openparser",
+  "web": "https://github.com/openpeeps/oris",
   "tags": [
-    "json",
-    "parser",
-    "feed",
-    "rss",
-    "xml",
-    "csv",
-    "zero-copy",
-    "memfiles",
-    "datasets",
-    "data"
+    "pluralization",
+    "i18n",
+    "locale",
+    "translations",
+    "languages"
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.0",
       "requires": [
         {
           "name": "nim",
@@ -30,7 +25,7 @@
           }
         },
         {
-          "name": "nimsimd",
+          "name": "openparser",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -42,8 +37,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "9aba43cafe9d92b6188b5a12a3bab5d168973ed4",
-      "time": 1778775270
+      "hash": "313f8211ba9329dadca4375825c990381cba2248",
+      "time": 1778775799
     }
   }
 }

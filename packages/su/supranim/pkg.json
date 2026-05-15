@@ -28,6 +28,22 @@
           }
         },
         {
+          "name": "semver",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
           "name": "libevent",
           "str": "#head",
           "ver": {
@@ -60,26 +76,10 @@
           }
         },
         {
-          "name": "kapsis",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
           "name": "ozark",
           "str": "#head",
           "ver": {
             "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "semver",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
             "ver": ""
           }
         },
@@ -98,22 +98,21 @@
             "kind": "verSpecial",
             "ver": ""
           }
-        },
-        {
-          "name": "regex",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "1dbb55246eead781627f15a774503ed102169940",
+        "time": 1778750150
+      }
+    ],
     "commit": {
-      "hash": "d954da44eee4aebd94bc40e2e2d2715063fa99c5",
-      "time": 1778713580
+      "hash": "1dbb55246eead781627f15a774503ed102169940",
+      "time": 1778750150
     }
   }
 }

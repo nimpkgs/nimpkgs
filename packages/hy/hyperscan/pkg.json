@@ -1,16 +1,16 @@
 {
-  "name": "libsql",
-  "url": "https://github.com/bung87/libsql",
+  "name": "hyperscan",
+  "url": "https://github.com/openpeeps/hyperscan-nim",
   "method": "git",
-  "description": "Nim binding for libSQL - an open source, open contribution fork of SQLite",
+  "description": "Bindings for Intel's Hyperscan library",
   "license": "MIT",
-  "web": "https://github.com/bung87/libsql",
+  "web": "https://github.com/openpeeps/hyperscan-nim",
   "tags": [
-    "database",
-    "sql",
-    "libsql",
-    "sqlite",
-    "turso"
+    "regex",
+    "intel",
+    "dpi",
+    "network",
+    "security"
   ],
   "meta": {
     "nimble": {
@@ -29,8 +29,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "de6d0bd59a95c6b48b9557f12b864766e57f65aa",
-      "time": 1778788900
+      "hash": "2f493a66b251b63533ef52f5039c91a9c006c37d",
+      "time": 1778784973
     }
   }
 }
