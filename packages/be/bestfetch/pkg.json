@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.5.2",
+      "version": "1.6.0",
       "requires": [
         {
           "name": "nim",
@@ -57,6 +57,14 @@
             "kind": "verEqLater",
             "ver": "1.2.0"
           }
+        },
+        {
+          "name": "plists",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
         }
       ],
       "bin": [
@@ -66,6 +74,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "1.6.0",
+        "hash": "a84a1e85cd27322f66f34bc3c24484033b2bb988",
+        "time": 1778887240
+      },
       {
         "tag": "1.5.2",
         "hash": "794f33e8c2e792c4c984be470314541fe863e734",
@@ -128,8 +141,8 @@
       }
     ],
     "commit": {
-      "hash": "7a568c0ffb9b263c01e5c624ed400887524bee40",
-      "time": 1775596878
+      "hash": "a84a1e85cd27322f66f34bc3c24484033b2bb988",
+      "time": 1778887240
     }
   }
 }
