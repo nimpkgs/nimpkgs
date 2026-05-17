@@ -39,14 +39,22 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "openparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "1f7642ff05090a5ea8a1423dd8a6ffb26d851e53",
-      "time": 1772553498
+      "hash": "ef7f6aebef29dd199daea2af9d17952516e04913",
+      "time": 1778947082
     }
   }
 }
