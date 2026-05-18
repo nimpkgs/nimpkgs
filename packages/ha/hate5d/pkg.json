@@ -1,0 +1,57 @@
+{
+  "name": "hate5d",
+  "url": "https://github.com/MarkArchive/hate5d",
+  "method": "git",
+  "description": "häte5d: a lightweight moddable 2D game engine for Nim",
+  "license": "LGPL-3.0",
+  "web": "https://github.com/MarkArchive/hate5d",
+  "tags": [
+    "engine",
+    "sdl2",
+    "game",
+    "love-like"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "_src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1.2",
+        "hash": "248a9f2bb1917f16c07d4b7d218d8b355dd8c6f4",
+        "time": 1779036380
+      },
+      {
+        "tag": "v0.1.1.1",
+        "hash": "9012c60e96c54eec33eec64e05af69045673e030",
+        "time": 1779033048
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "c55f2d13fef1cd17de04cfea5ff7881725639ab0",
+        "time": 1777420466
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "888c204eaf231fd5c141e5c1d1e02fb3085e34d5",
+        "time": 1777214170
+      }
+    ],
+    "commit": {
+      "hash": "9266e6224f28d6c5c41a3eb857581d3f81106094",
+      "time": 1779043250
+    }
+  }
+}
