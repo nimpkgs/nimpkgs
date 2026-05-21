@@ -34,7 +34,7 @@
           }
         },
         {
-          "name": "jsony",
+          "name": "openparser",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -91,9 +91,17 @@
         },
         {
           "name": "voodoo",
-          "str": "#head",
+          "str": "any version",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "vancode",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
             "ver": ""
           }
         },
@@ -121,8 +129,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "7796b66a47d491d35f828630b328da2f6bcd047f",
-      "time": 1773234356
+      "hash": "611ee8f8d7b4f27f0acfae2da6c90a22f3701b1e",
+      "time": 1779304397
     }
   }
 }
