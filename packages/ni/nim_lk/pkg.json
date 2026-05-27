@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "20250428",
+      "version": "0.20260303",
       "requires": [
         {
           "name": "https://github.com/nim-lang/nimble.git",
@@ -29,8 +29,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
-      "time": 1745845849
+      "hash": "53fe3abc98912d460cc82cca89e04f4d7a957661",
+      "time": 1779667200
     }
   }
 }
