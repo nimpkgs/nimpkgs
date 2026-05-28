@@ -1,0 +1,37 @@
+{
+  "name": "nexum",
+  "url": "https://github.com/nim-community/nexum",
+  "method": "git",
+  "description": "Compile-time reactive web framework for Nim with SSR & Islands",
+  "license": "AGPL-3.0",
+  "web": "https://github.com/nim-community/nexum",
+  "tags": [
+    "web",
+    "spa",
+    "frontend"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "nexum_cli"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "16e6e8be48a0f51dbc06a101af61e31bb54c1cc0",
+      "time": 1779856820
+    }
+  }
+}

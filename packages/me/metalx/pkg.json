@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.2",
+      "version": "0.4.3",
       "requires": [
         {
           "name": "nim",
@@ -28,9 +28,9 @@
         },
         {
           "name": "darwin",
-          "str": "#head",
+          "str": "any version",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verAny",
             "ver": ""
           }
         }
@@ -39,8 +39,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "b161231d45b9e75a0b4616362d8717f5b8568e0b",
-      "time": 1769863802
+      "hash": "fe7bcd031738e4372662b732cc5c2a09f79ec31e",
+      "time": 1779922401
     }
   }
 }
