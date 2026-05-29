@@ -11,22 +11,22 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.3",
+      "version": "2.0.2",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 0.20.0",
+          "str": ">= 2.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.20.0"
+            "ver": "2.0.0"
           }
         },
         {
-          "name": "jester",
-          "str": ">= 0.4.1",
+          "name": "karax",
+          "str": ">= 1.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.1"
+            "ver": "1.0.0"
           }
         }
       ],
@@ -37,6 +37,36 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "2.0.5",
+        "hash": "58d59496baa54aa7e87772c586f9bce66d225b89",
+        "time": 1779976892
+      },
+      {
+        "tag": "2.0.4",
+        "hash": "7cb559847636b912046b71efaf55863815aa9a18",
+        "time": 1779976677
+      },
+      {
+        "tag": "2.0.3",
+        "hash": "d38276526c84665d1ee3cd330abe41a92d85b173",
+        "time": 1779976502
+      },
+      {
+        "tag": "2.0.2",
+        "hash": "a63c12914b357f7c7cafda0bcadd12a885bf56a1",
+        "time": 1779976248
+      },
+      {
+        "tag": "2.0.1",
+        "hash": "6f02867f956e6bdcc08da4ee75a937653252a1f0",
+        "time": 1779975981
+      },
+      {
+        "tag": "2.0.0",
+        "hash": "1cf7c15daccf0d2623fbdd9caf4b297f2fabd5b3",
+        "time": 1779975623
+      },
       {
         "tag": "1.0.3",
         "hash": "3a5848178b3940b2675e7c5c00113cd71d5a1592",
@@ -54,8 +84,8 @@
       }
     ],
     "commit": {
-      "hash": "b53b514d59340f34536b21a5bb6a4fb8d6e526f9",
-      "time": 1778773159
+      "hash": "58d59496baa54aa7e87772c586f9bce66d225b89",
+      "time": 1779976892
     }
   }
 }
