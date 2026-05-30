@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.12",
+      "version": "0.4.0",
       "requires": [
         {
           "name": "nim",
@@ -41,14 +41,6 @@
           }
         },
         {
-          "name": "mustache",
-          "str": ">= 0.2.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.1"
-          }
-        },
-        {
           "name": "parsetoml",
           "str": ">= 0.7.0",
           "ver": {
@@ -69,6 +61,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "216dc33835888df6a4add834f3b33efe048eb630",
+        "time": 1780055461
+      },
       {
         "tag": "v0.3.12",
         "hash": "54541820232ee41cfa719fac002c718f5e7d628d",
@@ -196,8 +193,8 @@
       }
     ],
     "commit": {
-      "hash": "05245fbe7294294953f827a4543585d9c1e2a248",
-      "time": 1778565373
+      "hash": "216dc33835888df6a4add834f3b33efe048eb630",
+      "time": 1780055461
     }
   }
 }
