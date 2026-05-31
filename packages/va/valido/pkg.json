@@ -18,43 +18,50 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.10",
+          "str": ">= 2.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.10"
+            "ver": "2.0.0"
           }
         },
         {
           "name": "bigints",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "blackpaper",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "openparser",
-          "str": "any version",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "a432c18b7bbbf8eb0b43fed957e2a5f6920a564d",
+        "time": 1780147537
+      }
+    ],
     "commit": {
-      "hash": "ef7f6aebef29dd199daea2af9d17952516e04913",
-      "time": 1778947082
+      "hash": "a432c18b7bbbf8eb0b43fed957e2a5f6920a564d",
+      "time": 1780147537
     }
   }
 }

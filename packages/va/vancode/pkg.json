@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
@@ -31,66 +31,42 @@
         },
         {
           "name": "gccjit",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "voodoo",
-          "str": "#head",
+          "str": ">= 0.1.9",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         },
         {
           "name": "openparser",
-          "str": "#head",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "flatty",
-          "str": "#head",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "checksums",
-          "str": "any version",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "dotenv",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "nyml",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "semver",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         }
       ],
@@ -99,14 +75,19 @@
     },
     "versions": [
       {
+        "tag": "0.1.1",
+        "hash": "26d773c7e96d5d4f763877b08cd9159d359d1e05",
+        "time": 1780138391
+      },
+      {
         "tag": "0.1.0",
         "hash": "c0bc062696800b8b040548bb6e594dd8b3869169",
         "time": 1777011982
       }
     ],
     "commit": {
-      "hash": "d8f2bd2aa80d1a68910e4b58aed02b80dd9fc677",
-      "time": 1780094199
+      "hash": "26d773c7e96d5d4f763877b08cd9159d359d1e05",
+      "time": 1780138391
     }
   }
 }

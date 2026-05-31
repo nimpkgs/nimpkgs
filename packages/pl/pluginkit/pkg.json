@@ -28,26 +28,26 @@
         },
         {
           "name": "semver",
-          "str": "any version",
+          "str": ">= 1.2.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.2.3"
           }
         },
         {
           "name": "checksums",
-          "str": "any version",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         },
         {
-          "name": "jsony",
-          "str": "any version",
+          "name": "openparser",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         }
       ],
@@ -55,8 +55,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "75e5c1fb52071ec597e9e53ab77159006f6f27c2",
-      "time": 1776507472
+      "hash": "e7bcb0426dcb80d4ea6f5b17855a3b3dea390250",
+      "time": 1780152747
     }
   }
 }

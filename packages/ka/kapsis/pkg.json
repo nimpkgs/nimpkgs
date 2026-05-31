@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.0",
+      "version": "0.3.3",
       "requires": [
         {
           "name": "nim",
@@ -26,59 +26,67 @@
           }
         },
         {
-          "name": "https://github.com/openpeeps/pluginkit",
-          "str": "any version",
+          "name": "pluginkit",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "voodoo",
-          "str": "any version",
+          "str": ">= 0.1.9",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         },
         {
           "name": "jsony",
-          "str": "any version",
+          "str": ">= 1.1.6",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.1.6"
           }
         },
         {
           "name": "valido",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "termstyle",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "nancy",
-          "str": "any version",
+          "str": ">= 0.1.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         },
         {
           "name": "noise",
-          "str": "any version",
+          "str": ">= 0.1.10",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.10"
+          }
+        },
+        {
+          "name": "floof",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
           }
         }
       ],
@@ -86,6 +94,21 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.3",
+        "hash": "2d1cdab71500dc68d6c6cce5fdada4736d3bbe75",
+        "time": 1780133932
+      },
+      {
+        "tag": "0.3.2",
+        "hash": "6b859785d7f43b6278dc083ab012f94b80d8bb4e",
+        "time": 1780133455
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "0a81f9b41d4a4806109159cb918bccc69dc84678",
+        "time": 1780132972
+      },
       {
         "tag": "0.3.0",
         "hash": "3c3a8f06a580e769cfee5c6239cc039959691438",
@@ -113,8 +136,8 @@
       }
     ],
     "commit": {
-      "hash": "c5c6d16934d0c373e673f89cd823f3f8e1058534",
-      "time": 1780095040
+      "hash": "af0e4bb895c47866d95c14f7af58ac17361fa470",
+      "time": 1780148391
     }
   }
 }

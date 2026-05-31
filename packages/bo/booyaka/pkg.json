@@ -29,98 +29,82 @@
         },
         {
           "name": "supranim",
-          "str": "#head",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "tim",
-          "str": "#head",
+          "str": ">= 0.2.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.1"
           }
         },
         {
           "name": "limiter",
-          "str": "#head",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "marvdown",
-          "str": "#head",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "jsony",
-          "str": "any version",
+          "str": ">= 1.1.6",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.1.6"
           }
         },
         {
           "name": "flatty",
-          "str": "any version",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "supersnappy",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "semver",
-          "str": "any version",
+          "str": ">= 1.2.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.2.3"
           }
         },
         {
           "name": "iconim",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "htmlparser",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "pluginkit",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "supra",
-          "str": "#head",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -131,8 +115,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "b60e12b1897b581eb2a8565795378d4df3650c5b",
-      "time": 1779288116
+      "hash": "833c3d00fe9529852f7c0e31fc75bd2ebaa8138b",
+      "time": 1780144417
     }
   }
 }

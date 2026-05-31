@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.4",
+      "version": "0.1.5",
       "requires": [
         {
           "name": "nim",
@@ -24,42 +24,34 @@
         },
         {
           "name": "db_connector",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "threading",
-          "str": "any version",
+          "str": ">= 0.2.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.1"
           }
         },
         {
-          "name": "https://github.com/georgelemon/parsesql",
-          "str": "#vgelemon",
+          "name": "openparser",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "jsony",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         },
         {
           "name": "voodoo",
-          "str": "#head",
+          "str": ">= 0.1.9",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         },
         {
@@ -75,6 +67,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.5",
+        "hash": "33c49dc67dcc9b7138a225dc452d73b2c0262b1d",
+        "time": 1780144699
+      },
       {
         "tag": "0.1.4",
         "hash": "77835679bd51c6742a45faf40f4af73258c2c6d6",
@@ -102,8 +99,8 @@
       }
     ],
     "commit": {
-      "hash": "358dcb031d5062660352edc070f3e73269a24ad6",
-      "time": 1779714220
+      "hash": "33c49dc67dcc9b7138a225dc452d73b2c0262b1d",
+      "time": 1780144699
     }
   }
 }

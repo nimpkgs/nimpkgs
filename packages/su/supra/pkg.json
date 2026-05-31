@@ -27,58 +27,58 @@
         },
         {
           "name": "db_connector",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "openparser",
-          "str": "any version",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         },
         {
           "name": "supranim",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "kapsis",
-          "str": "any version",
+          "str": ">= 0.3.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.3"
           }
         },
         {
           "name": "flatty",
-          "str": "any version",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "valido",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "ozark",
-          "str": "any version",
+          "str": ">= 0.1.4",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.4"
           }
         }
       ],
@@ -89,8 +89,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "297ed0fac714c7cebc4e6b09e867f68d9cee2fa1",
-      "time": 1778572166
+      "hash": "c6eb1888a5a4c76925c095d8b6d4b9ac782a27d5",
+      "time": 1780144828
     }
   }
 }
