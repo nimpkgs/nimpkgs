@@ -26,23 +26,7 @@
           }
         },
         {
-          "name": "otp",
-          "str": ">= 0.3.3",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.3.3"
-          }
-        },
-        {
           "name": "qr",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "base32",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -54,8 +38,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "5bc83d187c25c6d68922bc31dd10ac73adbcc420",
-      "time": 1775059037
+      "hash": "3fc30341926a59028e61c0a9b72cd89e2186ac9a",
+      "time": 1780262026
     }
   }
 }

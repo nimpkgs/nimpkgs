@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.2.2",
       "requires": [
         {
           "name": "nim",
@@ -26,98 +26,66 @@
         },
         {
           "name": "kapsis",
-          "str": "#head",
+          "str": ">= 0.3.3",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.3"
           }
         },
         {
-          "name": "jsony",
-          "str": "any version",
+          "name": "vancode",
+          "str": ">= 0.1.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         },
         {
           "name": "flatty",
-          "str": "any version",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "checksums",
-          "str": "any version",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "nyml",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "semver",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "dotenv",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "denim",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         },
         {
           "name": "voodoo",
-          "str": "#head",
+          "str": ">= 0.1.9",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "libffi",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "gccjit",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         },
         {
           "name": "watchout",
-          "str": "#head",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        },
+        {
+          "name": "semver",
+          "str": ">= 1.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.3"
           }
         }
       ],
@@ -128,6 +96,16 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "a38028b0af0bb970e91fd8cee1508c56faf1d465",
+        "time": 1780217995
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "be443a6d1f8b4ecc32486f6d0a5e8a70d8047670",
+        "time": 1780217860
+      },
       {
         "tag": "0.2.0",
         "hash": "ab83a314e4217bddffc9b45ed1f1272d7af11ed3",
@@ -155,8 +133,8 @@
       }
     ],
     "commit": {
-      "hash": "0f446f81ae850a6cc23ebfd0edc1c3560bc4ccb8",
-      "time": 1779303741
+      "hash": "2be26e295761f08b9d7cd5e2cec5179ccf73585b",
+      "time": 1780235555
     }
   }
 }
