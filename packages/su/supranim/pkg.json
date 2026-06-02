@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
@@ -29,74 +29,82 @@
         },
         {
           "name": "semver",
-          "str": "any version",
+          "str": ">= 1.2.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.2.3"
           }
         },
         {
           "name": "kapsis",
-          "str": "#head",
+          "str": ">= 0.3.4",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.4"
           }
         },
         {
           "name": "libevent",
-          "str": "#head",
+          "str": ">= 0.1.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         },
         {
           "name": "flatty",
-          "str": "any version",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "openparser",
-          "str": "any version",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         },
         {
           "name": "emitter",
-          "str": "#head",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "ozark",
-          "str": "#head",
+          "str": ">= 0.1.4",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.4"
           }
         },
         {
           "name": "threading",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "mimedb",
-          "str": "#head",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         }
       ],
@@ -105,14 +113,19 @@
     },
     "versions": [
       {
+        "tag": "0.1.1",
+        "hash": "ce0235dbeeb942f199e8d46fb2459aade26aefe7",
+        "time": 1780322284
+      },
+      {
         "tag": "0.1.0",
         "hash": "1dbb55246eead781627f15a774503ed102169940",
         "time": 1778750150
       }
     ],
     "commit": {
-      "hash": "5eda6712f116ebcbce1f913589d993bf2eb079e1",
-      "time": 1780257356
+      "hash": "ce0235dbeeb942f199e8d46fb2459aade26aefe7",
+      "time": 1780322284
     }
   }
 }

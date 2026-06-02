@@ -1,0 +1,88 @@
+{
+  "name": "rice",
+  "url": "https://github.com/levovix0/rice",
+  "method": "git",
+  "description": "GPU-accelerated 2D/3D rendering library, built on OpenGL",
+  "license": "MIT",
+  "web": "https://github.com/levovix0/rice",
+  "tags": [
+    "opengl",
+    "rendering",
+    "graphics",
+    "2D",
+    "3D"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "chroma",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "vmath",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "opengl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "shady",
+          "str": "0.1.4",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.4"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "1831a40280bffcbb0ece7aa79033236567a256a5",
+        "time": 1779025709
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "2bcdfc8cb17b6e71bc82689bfb15aa72e6f4e74b",
+        "time": 1778675080
+      }
+    ],
+    "commit": {
+      "hash": "dfc6697619bfe5096b4334fa5682272e7488251d",
+      "time": 1779278105
+    }
+  }
+}

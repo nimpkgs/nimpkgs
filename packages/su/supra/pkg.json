@@ -42,19 +42,11 @@
           }
         },
         {
-          "name": "supranim",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
           "name": "kapsis",
-          "str": ">= 0.3.3",
+          "str": ">= 0.3.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.3"
+            "ver": "0.3.4"
           }
         },
         {
@@ -89,8 +81,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "c6eb1888a5a4c76925c095d8b6d4b9ac782a27d5",
-      "time": 1780144828
+      "hash": "161bf9c1c808faf721afce94bf91b1291154d5d6",
+      "time": 1780320182
     }
   }
 }
