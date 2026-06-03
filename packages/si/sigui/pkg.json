@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.5.1",
+      "version": "0.2.6",
       "requires": [
         {
           "name": "nim",
@@ -33,10 +33,10 @@
         },
         {
           "name": "siwin",
-          "str": ">= 1.0.1",
+          "str": ">= 1.0.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.0.1"
+            "ver": "1.0.2"
           }
         },
         {
@@ -48,11 +48,11 @@
           }
         },
         {
-          "name": "https://github.com/levovix0/rice",
-          "str": "any version",
+          "name": "rice",
+          "str": ">= 0.1.4",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.4"
           }
         }
       ],
@@ -60,6 +60,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.6",
+        "hash": "231dc41cca3ccceae76692a96a6f579d91c9ffa8",
+        "time": 1780392035
+      },
       {
         "tag": "0.2.5.1",
         "hash": "05e8f39e878ad7c1f8182c1e69614dc4930702cd",
@@ -107,8 +112,8 @@
       }
     ],
     "commit": {
-      "hash": "b337aabcac8058d884b93bc32ca52175360b9f9e",
-      "time": 1779919549
+      "hash": "231dc41cca3ccceae76692a96a6f579d91c9ffa8",
+      "time": 1780392035
     }
   }
 }

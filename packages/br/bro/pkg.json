@@ -27,98 +27,74 @@
         },
         {
           "name": "kapsis",
-          "str": "#head",
+          "str": ">= 0.3.4",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.4"
           }
         },
         {
           "name": "openparser",
-          "str": "any version",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         },
         {
           "name": "flatty",
-          "str": "any version",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "checksums",
-          "str": "any version",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "nyml",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         },
         {
           "name": "semver",
-          "str": "any version",
+          "str": ">= 1.2.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "dotenv",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "denim",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.2.3"
           }
         },
         {
           "name": "voodoo",
-          "str": "any version",
+          "str": ">= 0.1.9",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         },
         {
           "name": "vancode",
-          "str": "any version",
+          "str": ">= 0.1.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         },
         {
           "name": "chroma",
-          "str": "any version",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "watchout",
-          "str": "#head",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         }
       ],
@@ -129,8 +105,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "611ee8f8d7b4f27f0acfae2da6c90a22f3701b1e",
-      "time": 1779304397
+      "hash": "df2b9234eb62a5bba5bef3232172b7f42ab7ee0d",
+      "time": 1780428592
     }
   }
 }
