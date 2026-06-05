@@ -100,6 +100,14 @@
           }
         },
         {
+          "name": "openparser",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        },
+        {
           "name": "supra",
           "str": ">= 0.1.0",
           "ver": {
@@ -115,8 +123,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "833c3d00fe9529852f7c0e31fc75bd2ebaa8138b",
-      "time": 1780144417
+      "hash": "3442f0abc6c48740869ad6712b0a525c49797a75",
+      "time": 1780561243
     }
   }
 }

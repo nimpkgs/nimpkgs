@@ -1,0 +1,36 @@
+{
+  "name": "openh264",
+  "url": "https://github.com/openpeeps/openh264-nim",
+  "method": "git",
+  "description": "Bindings for Cisco's H.264 codec library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/openh264-nim",
+  "tags": [
+    "h264",
+    "encoder",
+    "decoder",
+    "video",
+    "streaming"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "abd181bb3b33434995b39ac020226b8465f641cb",
+      "time": 1780590218
+    }
+  }
+}
