@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.2.2",
       "requires": [
         {
           "name": "nim",
@@ -23,10 +23,10 @@
         },
         {
           "name": "https://github.com/zedeus/redis",
-          "str": "#v0.4.1",
+          "str": "0.4.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEq",
+            "ver": "0.4.1"
           }
         }
       ],
@@ -35,14 +35,19 @@
     },
     "versions": [
       {
+        "tag": "v0.2.2",
+        "hash": "fc7869f83d168e6ca1413fe97873140fd5805183",
+        "time": 1780872965
+      },
+      {
         "tag": "v0.2.0",
         "hash": "b54d7b1e699e9e8f8fb659cdfe986f070b5edb5c",
         "time": 1780791629
       }
     ],
     "commit": {
-      "hash": "b54d7b1e699e9e8f8fb659cdfe986f070b5edb5c",
-      "time": 1780791629
+      "hash": "fc7869f83d168e6ca1413fe97873140fd5805183",
+      "time": 1780872965
     }
   }
 }
