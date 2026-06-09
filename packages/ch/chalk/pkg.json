@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.2",
+      "version": "1.1.0",
       "requires": [
         {
           "name": "nim",
@@ -25,7 +25,7 @@
         },
         {
           "name": "https://github.com/crashappsec/con4m",
-          "str": "#33743aada3a2db054804d92992d7df2536840012",
+          "str": "#cff82de8863e2252c99993c44be76d8633fdbb12",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -55,6 +55,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "036059e3c23ca38bbc2f28645f2936198c2e98b8",
+        "time": 1780940438
+      },
       {
         "tag": "v1.0.2",
         "hash": "ed38415803e420097b3a1c44dc00e9f5c45f8cef",
@@ -297,8 +302,8 @@
       }
     ],
     "commit": {
-      "hash": "b2dcf8c947d8da55a069159590bf0752443f599c",
-      "time": 1780621416
+      "hash": "036059e3c23ca38bbc2f28645f2936198c2e98b8",
+      "time": 1780940438
     }
   }
 }

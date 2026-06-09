@@ -14,14 +14,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.15.3",
+      "version": "2.0.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.4"
           }
         },
         {
@@ -42,10 +42,18 @@
         },
         {
           "name": "bearssl",
-          "str": ">= 0.2.5",
+          "str": ">= 0.2.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.5"
+            "ver": "0.2.7"
+          }
+        },
+        {
+          "name": "https://github.com/vacp2p/nim-boringssl",
+          "str": ">= 0.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.0.4"
           }
         },
         {
@@ -58,10 +66,10 @@
         },
         {
           "name": "chronos",
-          "str": ">= 4.0.4",
+          "str": ">= 4.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "4.0.4"
+            "ver": "4.2.2"
           }
         },
         {
@@ -89,14 +97,6 @@
           }
         },
         {
-          "name": "websock",
-          "str": ">= 0.2.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.1"
-          }
-        },
-        {
           "name": "unittest2",
           "str": "any version",
           "ver": {
@@ -121,16 +121,32 @@
           }
         },
         {
-          "name": "https://github.com/vacp2p/nim-lsquic",
-          "str": "#6ae249c5d9f5eba9999704e1ffe77483cbf8fcdd",
+          "name": "lsquic",
+          "str": ">= 0.4.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        },
+        {
+          "name": "protobuf_serialization",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "https://github.com/status-im/nim-websock",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "https://github.com/vacp2p/nim-jwt.git",
-          "str": "#18f8378de52b241f321c1f9ea905456e89b95c6f",
+          "str": "#057ec95eb5af0eea9c49bfe9025b3312c95dc5f2",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -141,6 +157,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.0.0",
+        "hash": "c43199378f46d0aaf61be1cad1ee1d63e8f665d6",
+        "time": 1780321899
+      },
       {
         "tag": "v1.15.3",
         "hash": "79002827ef32ba51b83e123e1649fc4b394612a1",
@@ -263,8 +284,8 @@
       }
     ],
     "commit": {
-      "hash": "0c0db60309a7aaa847a70700dc3b85bb62ed4886",
-      "time": 1780851665
+      "hash": "482cce28e121105e1b6ea165f0ab0054a6b37b9d",
+      "time": 1780958295
     }
   }
 }
