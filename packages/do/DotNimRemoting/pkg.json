@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.9.5.1",
+      "version": "0.9.6",
       "requires": [
         {
           "name": "nim",
@@ -25,10 +25,10 @@
         },
         {
           "name": "faststreams",
-          "str": ">= 0.5.0",
+          "str": ">= 0.5.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.5.1"
           }
         }
       ],
@@ -36,6 +36,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.9.6",
+        "hash": "5b8ab1a0e44f0a7b9d4d93034bc39c026122333e",
+        "time": 1781037777
+      },
+      {
+        "tag": "0.9.5.2",
+        "hash": "5961d918c647902da2371ace43e2434dd707082a",
+        "time": 1781035127
+      },
       {
         "tag": "0.9.5.1",
         "hash": "a1e78dd0b137e3819a84a1f9996d3ab80358b82b",
@@ -73,8 +83,8 @@
       }
     ],
     "commit": {
-      "hash": "a1e78dd0b137e3819a84a1f9996d3ab80358b82b",
-      "time": 1766515553
+      "hash": "4dfc82433216099ac2c0c9b4ceb1c17d860ae79e",
+      "time": 1781041255
     }
   }
 }
