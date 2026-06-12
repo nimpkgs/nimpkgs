@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
@@ -23,11 +23,11 @@
           }
         },
         {
-          "name": "jsony",
-          "str": "#head",
+          "name": "openparser",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         }
       ],
@@ -36,14 +36,19 @@
     },
     "versions": [
       {
+        "tag": "0.1.1",
+        "hash": "cfcf9faeca95a42fbd5e3f4c3923df38b639f42e",
+        "time": 1781197673
+      },
+      {
         "tag": "0.1.0",
         "hash": "f10b13e6c40d5d06d57b80182ab504fb0416408b",
         "time": 1764861862
       }
     ],
     "commit": {
-      "hash": "7aac03e33d662db125a93920c76a5a622810c077",
-      "time": 1780681124
+      "hash": "cfcf9faeca95a42fbd5e3f4c3923df38b639f42e",
+      "time": 1781197673
     }
   }
 }
