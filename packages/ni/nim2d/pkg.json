@@ -1,0 +1,70 @@
+{
+  "name": "nim2d",
+  "url": "https://github.com/nim2d/nim2d",
+  "method": "git",
+  "description": "2d game engine for Nim, inspired by Love2d (SDL3 / SDL_GPU)",
+  "license": "zlib",
+  "web": "https://github.com/nim2d/nim2d",
+  "tags": [
+    "game",
+    "engine",
+    "2d",
+    "gamedev",
+    "sdl",
+    "sdl3",
+    "graphics",
+    "love2d"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "sdl3_nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "97aafdee5423f4fb15d0544396c39c322764fc77",
+        "time": 1781287797
+      }
+    ],
+    "commit": {
+      "hash": "97aafdee5423f4fb15d0544396c39c322764fc77",
+      "time": 1781287797
+    }
+  }
+}
