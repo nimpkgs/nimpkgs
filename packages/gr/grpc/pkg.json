@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.19",
+      "version": "0.1.20",
       "requires": [
         {
           "name": "nim",
@@ -38,11 +38,11 @@
           }
         },
         {
-          "name": "https://github.com/nitely/nim-protobuf-serialization",
-          "str": "#471301dfb583a802768979e287ea2c2e51f203ab",
+          "name": "protobuf_serialization",
+          "str": ">= 0.5.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.2"
           }
         },
         {
@@ -58,6 +58,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.1.20",
+        "hash": "e97aac4310ad18f852fbfffc32334b680c8c296d",
+        "time": 1781351809
+      },
       {
         "tag": "v0.1.19",
         "hash": "b7a8aee2c28e2ba989d51ff4bc619b5854325dcd",
@@ -160,8 +165,8 @@
       }
     ],
     "commit": {
-      "hash": "b7a8aee2c28e2ba989d51ff4bc619b5854325dcd",
-      "time": 1741726433
+      "hash": "e97aac4310ad18f852fbfffc32334b680c8c296d",
+      "time": 1781351809
     }
   }
 }
