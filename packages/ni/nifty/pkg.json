@@ -1,10 +1,10 @@
 {
   "name": "nifty",
-  "url": "https://github.com/h3rald/nifty",
+  "url": "https://git.sr.ht/~h3rald/nifty",
   "method": "git",
   "description": "A decentralized (pseudo) package manager and script runner.",
   "license": "MIT",
-  "web": "https://github.com/h3rald/nifty",
+  "web": "https://h3rald.com/nifty",
   "tags": [
     "package-manager",
     "script-runner"

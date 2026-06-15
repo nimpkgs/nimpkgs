@@ -1,6 +1,6 @@
 {
   "name": "pls",
-  "url": "https://github.com/h3rald/pls",
+  "url": "https://git.sr.ht/~h3rald/pls",
   "method": "git",
   "description": "A simple but powerful task runner that lets you define your own commands by editing a YAML configuration file.",
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "requires": [
         {
           "name": "nim",
@@ -30,14 +30,14 @@
     "hasBin": true,
     "versions": [
       {
-        "tag": "v1.0.0",
-        "hash": "0d9a15f8ef1fc8e732b845535edb43582bf1516b",
-        "time": 1636469343
+        "tag": "v1.0.1",
+        "hash": "2b3eccdc82a154083079a16baf145482248db457",
+        "time": 1781337975
       }
     ],
     "commit": {
-      "hash": "51703dcbf5c542f918a949f032df4a3aa7cb58ed",
-      "time": 1781338140
+      "hash": "2b3eccdc82a154083079a16baf145482248db457",
+      "time": 1781337975
     }
   }
 }

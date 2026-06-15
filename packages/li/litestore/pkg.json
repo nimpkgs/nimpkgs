@@ -1,6 +1,6 @@
 {
   "name": "litestore",
-  "url": "https://github.com/h3rald/litestore",
+  "url": "https://git.sr.ht/~h3rald/litestore",
   "method": "git",
   "description": "A lightweight, self-contained, RESTful, searchable, multi-format NoSQL document store",
   "license": "MIT",
@@ -12,18 +12,18 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.13.0",
+      "version": "1.12.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 1.4.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "1.4.4"
           }
         },
         {
-          "name": "db_connector",
+          "name": "https://github.com/h3rald/nim-jwt",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -54,16 +54,6 @@
     },
     "hasBin": true,
     "versions": [
-      {
-        "tag": "v1.13.0",
-        "hash": "d89cc2633622fc3ca8d7595c196e555eb248b2d7",
-        "time": 1704661443
-      },
-      {
-        "tag": "v1.12.2",
-        "hash": "be677aa85aeee8e501e52a14ca508ed54e16f6cd",
-        "time": 1693034463
-      },
       {
         "tag": "v1.12.1",
         "hash": "005e8cf145b1f3c9f10c7725d94b19628d739706",
@@ -191,8 +181,8 @@
       }
     ],
     "commit": {
-      "hash": "d89cc2633622fc3ca8d7595c196e555eb248b2d7",
-      "time": 1704661443
+      "hash": "38e8f94a76d8c26f5d13aed62da33cf454d2e67d",
+      "time": 1704650502
     }
   }
 }

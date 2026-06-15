@@ -1,6 +1,6 @@
 {
   "name": "mn",
-  "url": "https://github.com/h3rald/mn",
+  "url": "https://git.sr.ht/~h3rald/mn",
   "method": "git",
   "description": "A truly minimal concatenative programming language.",
   "license": "MIT",
