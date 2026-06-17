@@ -28,8 +28,14 @@
       ],
       "srcDir": ""
     },
+    "broken": true,
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.4.1",
+        "hash": "16fc9e7bf07819c9a5d83ae7cec48b9876ae2eff",
+        "time": 1781639541
+      },
       {
         "tag": "v0.4.0",
         "hash": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
@@ -52,8 +58,8 @@
       }
     ],
     "commit": {
-      "hash": "d64ab3e089d58726eaf89b3e38e5ad8d932ee3d3",
-      "time": 1701527978
+      "hash": "16fc9e7bf07819c9a5d83ae7cec48b9876ae2eff",
+      "time": 1781639541
     }
   }
 }

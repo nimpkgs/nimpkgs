@@ -1,0 +1,42 @@
+{
+  "name": "chronos_file",
+  "url": "https://github.com/fox0430/chronos-file",
+  "method": "git",
+  "description": "Asynchronous file I/O for chronos",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/chronos-file",
+  "tags": [
+    "async",
+    "chronos",
+    "file"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.16",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.16"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "2e150b375052cf28f439de9502b77a4fe129cdbb",
+      "time": 1781604964
+    }
+  }
+}
