@@ -29,26 +29,26 @@
         },
         {
           "name": "sdl3_nim",
-          "str": "any version",
+          "str": "3.4.2.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEq",
+            "ver": "3.4.2.0"
           }
         },
         {
           "name": "zippy",
-          "str": ">= 0.10.0",
+          "str": "0.10.19",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.10.0"
+            "kind": "verEq",
+            "ver": "0.10.19"
           }
         },
         {
           "name": "nimcrypto",
-          "str": ">= 0.6.0",
+          "str": "0.6.2",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.6.0"
+            "kind": "verEq",
+            "ver": "0.6.2"
           }
         }
       ],
@@ -56,6 +56,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "3fe84ab41441fae8ef0de5ff66ffb3da397e9b1f",
+        "time": 1781692998
+      },
       {
         "tag": "0.2.0",
         "hash": "07a3160ed88b9291ba2fde63c7df8c59250690f7",
@@ -68,8 +73,8 @@
       }
     ],
     "commit": {
-      "hash": "07a3160ed88b9291ba2fde63c7df8c59250690f7",
-      "time": 1781628998
+      "hash": "3fe84ab41441fae8ef0de5ff66ffb3da397e9b1f",
+      "time": 1781692998
     }
   }
 }

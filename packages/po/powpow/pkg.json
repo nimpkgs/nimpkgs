@@ -1,0 +1,99 @@
+{
+  "name": "powpow",
+  "url": "https://github.com/openpeeps/powpow",
+  "method": "git",
+  "description": "High-performance event notification library for Nim",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/openpeeps/powpow",
+  "tags": [
+    "http",
+    "server",
+    "udp",
+    "unix",
+    "zero-copy",
+    "tcp",
+    "posix",
+    "websocket",
+    "event-driven",
+    "epoll",
+    "kqueue"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.2"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "mimedb",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "multipart",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "f7bf75e2f7ce4962f191877915a65fdc643788e6",
+        "time": 1781698479
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "d62f6d6566327a34825b95df8a8640a377027e55",
+        "time": 1781623530
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "b41b7906e5ed6891f91c93ec3fef7e6544018d26",
+        "time": 1781612936
+      }
+    ],
+    "commit": {
+      "hash": "0c61cbd1f253edfde29e808efc78e2d8e7b13278",
+      "time": 1781752931
+    }
+  }
+}

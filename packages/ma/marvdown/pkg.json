@@ -25,19 +25,30 @@
         },
         {
           "name": "openparser",
-          "str": "#head",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
             "ver": ""
           }
         }
       ],
-      "bin": [],
+      "bin": [
+        "marvdown"
+      ],
       "srcDir": "src"
     },
+    "hasBin": true,
     "commit": {
-      "hash": "edc3595674917dd65039aa3bd7f47f993333802f",
-      "time": 1780391988
+      "hash": "d0df3d91a1a93beab3addd964dbeee343dd7c93e",
+      "time": 1781728519
     }
   }
 }

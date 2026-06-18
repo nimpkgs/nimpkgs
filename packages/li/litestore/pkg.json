@@ -12,18 +12,18 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.12.1",
+      "version": "1.13.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.4.4",
+          "str": ">= 2.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.4.4"
+            "ver": "2.0.0"
           }
         },
         {
-          "name": "https://github.com/h3rald/nim-jwt",
+          "name": "db_connector",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -54,6 +54,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v1.13.1",
+        "hash": "663655683a42d792316912cf61c8a8d08e1d568b",
+        "time": 1781733457
+      },
       {
         "tag": "v1.12.1",
         "hash": "005e8cf145b1f3c9f10c7725d94b19628d739706",
@@ -181,8 +186,8 @@
       }
     ],
     "commit": {
-      "hash": "9ad87ee81360a08b954864d3fe8358c84643a72e",
-      "time": 1781612375
+      "hash": "663655683a42d792316912cf61c8a8d08e1d568b",
+      "time": 1781733457
     }
   }
 }
