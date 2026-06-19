@@ -18,7 +18,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.11",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -30,10 +30,10 @@
         },
         {
           "name": "cligen",
-          "str": ">= 1.9.6",
+          "str": ">= 1.10.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.9.6"
+            "ver": "1.10.0"
           }
         },
         {
@@ -49,12 +49,18 @@
         "ndup/setFile",
         "framed",
         "ndup/nsets",
+        "ndup/like",
         "ndup/pHash"
       ],
       "srcDir": ""
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "4c8789350a4e35741d7f708daf75cba65e43c792",
+        "time": 1781804617
+      },
       {
         "tag": "0.1.11",
         "hash": "2e2b3283fe864216c6bcdd46c4f32359d4ee822a",
@@ -112,8 +118,8 @@
       }
     ],
     "commit": {
-      "hash": "aa4f7ee4f5e40d4a949e075556b44155856b491f",
-      "time": 1779185200
+      "hash": "4c8789350a4e35741d7f708daf75cba65e43c792",
+      "time": 1781804617
     }
   }
 }

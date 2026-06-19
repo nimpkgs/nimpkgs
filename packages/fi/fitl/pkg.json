@@ -35,7 +35,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.6.5",
+      "version": "0.6.6",
       "requires": [
         {
           "name": "nim",
@@ -47,18 +47,18 @@
         },
         {
           "name": "cligen",
-          "str": ">= 1.9.5",
+          "str": ">= 1.9.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.9.5"
+            "ver": "1.9.7"
           }
         },
         {
           "name": "spfun",
-          "str": ">= 0.7.6",
+          "str": ">= 0.7.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.6"
+            "ver": "0.7.7"
           }
         }
       ],
@@ -73,6 +73,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.6.6",
+        "hash": "66e4405a363ea2123db557fdc03b6b40d0905a6e",
+        "time": 1781802665
+      },
       {
         "tag": "0.6.5",
         "hash": "78ffb807db4305ada4359636311eb34293686837",
@@ -205,8 +210,8 @@
       }
     ],
     "commit": {
-      "hash": "7d2c21ea35f2690c7ecfb40e7582d4ea1a0fa3a8",
-      "time": 1773486634
+      "hash": "66e4405a363ea2123db557fdc03b6b40d0905a6e",
+      "time": 1781802665
     }
   }
 }

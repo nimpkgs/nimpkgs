@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "requires": [
         {
           "name": "nim",
@@ -27,20 +27,31 @@
         },
         {
           "name": "cligen",
-          "str": ">= 1.9.5",
+          "str": ">= 1.10.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.9.5"
+            "ver": "1.10.0"
           }
         }
       ],
       "bin": [
-        "xm"
+        "xm",
+        "xmpkg/xrd"
       ],
       "srcDir": ""
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "1.0.2",
+        "hash": "725b2ba46cac896b179b7b475563fe739f3fc61f",
+        "time": 1781803411
+      },
+      {
+        "tag": "1.1.0",
+        "hash": "086749a10048f98a0f5d9919bce4b2bf6ec484ed",
+        "time": 1781196934
+      },
       {
         "tag": "1.0.1",
         "hash": "fc89ccf27d8cffbccd7c0c36c5f13d86c52b420d",
@@ -53,8 +64,8 @@
       }
     ],
     "commit": {
-      "hash": "086749a10048f98a0f5d9919bce4b2bf6ec484ed",
-      "time": 1781196934
+      "hash": "725b2ba46cac896b179b7b475563fe739f3fc61f",
+      "time": 1781803411
     }
   }
 }
