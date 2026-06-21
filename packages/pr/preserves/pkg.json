@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.20260608",
+      "version": "0.20260619",
       "requires": [
         {
           "name": "https://github.com/zevv/npeg.git",
@@ -41,8 +41,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "1a23cc414c0763ffff487b144a9d213ed7aeb9cf",
-      "time": 1780833600
+      "hash": "b545ee50cf8b77a567745b27e46191baec4266f9",
+      "time": 1781740800
     }
   }
 }

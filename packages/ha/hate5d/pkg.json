@@ -27,31 +27,9 @@
       "bin": [],
       "srcDir": "_src"
     },
-    "versions": [
-      {
-        "tag": "v0.1.1.2",
-        "hash": "248a9f2bb1917f16c07d4b7d218d8b355dd8c6f4",
-        "time": 1779036380
-      },
-      {
-        "tag": "v0.1.1.1",
-        "hash": "9012c60e96c54eec33eec64e05af69045673e030",
-        "time": 1779033048
-      },
-      {
-        "tag": "v0.1.1",
-        "hash": "c55f2d13fef1cd17de04cfea5ff7881725639ab0",
-        "time": 1777420466
-      },
-      {
-        "tag": "v0.1.0",
-        "hash": "888c204eaf231fd5c141e5c1d1e02fb3085e34d5",
-        "time": 1777214170
-      }
-    ],
     "commit": {
-      "hash": "6fb398248e76fc5a762f21c429e76f97fba630a9",
-      "time": 1779748100
+      "hash": "07bee1f8b59fe3e9c7d3ba2e1b561bcc2da4c094",
+      "time": 1781975220
     }
   }
 }

@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.11.0",
+      "version": "0.12.0",
       "requires": [
         {
           "name": "nim",
@@ -25,10 +25,10 @@
         },
         {
           "name": "unicodedb",
-          "str": "any version",
+          "str": ">= 0.13.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.13.2"
           }
         }
       ],
@@ -36,6 +36,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.12.0",
+        "hash": "bd903ccebde5a1420b77d94d1b96045ea00ea166",
+        "time": 1781949632
+      },
       {
         "tag": "v0.11.0",
         "hash": "5358eec1210474c1916a5a6b73f96eef18f30dbc",
@@ -103,8 +108,8 @@
       }
     ],
     "commit": {
-      "hash": "e7ae90e7089c29f79609f22affb511a79904a41f",
-      "time": 1781888793
+      "hash": "fd313ba5079ecc3aaef90684b47fb9581d69aa7e",
+      "time": 1781977888
     }
   }
 }
