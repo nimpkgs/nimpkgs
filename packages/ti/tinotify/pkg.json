@@ -1,0 +1,36 @@
+{
+  "name": "tinotify",
+  "url": "https://github.com/capocasa/tinotify",
+  "method": "git",
+  "description": "Cross-platform desktop notifications for Nim via native APIs (D-Bus, NSUserNotificationCenter, Shell_NotifyIcon)",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/tinotify",
+  "tags": [
+    "notification",
+    "desktop",
+    "dbus",
+    "cross-platform",
+    "system"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "7a42a36d8c0341407d13dd631eecf640d225ddd0",
+      "time": 1781860953
+    }
+  }
+}
