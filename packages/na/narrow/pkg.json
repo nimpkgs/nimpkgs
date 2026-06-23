@@ -1,0 +1,49 @@
+{
+  "name": "narrow",
+  "url": "https://github.com/BontaVlad/narrow",
+  "method": "git",
+  "description": "A Nim wrapper around the Apache Arrow C API.",
+  "license": "MIT",
+  "web": "https://github.com/BontaVlad/narrow",
+  "tags": [
+    "arrow",
+    "data",
+    "analytics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": ">= 0.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.0.1",
+        "hash": "3b3cb6d876e6204efcd2939a0bb78e604b446b61",
+        "time": 1782144154
+      }
+    ],
+    "commit": {
+      "hash": "bcc8fbf3348775651b7cd19264c337a0b272ff4c",
+      "time": 1782148858
+    }
+  }
+}

@@ -10,14 +10,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "26.3.0",
+      "version": "26.6.0",
       "requires": [
         {
           "name": "nim",
-          "str": "2.2.4",
+          "str": "2.2.10",
           "ver": {
             "kind": "verEq",
-            "ver": "2.2.4"
+            "ver": "2.2.10"
           }
         },
         {
@@ -158,6 +158,14 @@
         },
         {
           "name": "presto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "protobuf_serialization",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -326,6 +334,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v26.6.0",
+        "hash": "1cc8c3dbf48126c01ab66921c4596d02ef9d0986",
+        "time": 1782113577
+      },
       {
         "tag": "v26.5.0",
         "hash": "6fb05f36804d53c2e8e014cfeeea8ad7996a5efe",
@@ -988,8 +1001,8 @@
       }
     ],
     "commit": {
-      "hash": "6fb05f36804d53c2e8e014cfeeea8ad7996a5efe",
-      "time": 1778494952
+      "hash": "1cc8c3dbf48126c01ab66921c4596d02ef9d0986",
+      "time": 1782113577
     }
   }
 }

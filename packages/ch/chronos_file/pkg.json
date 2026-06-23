@@ -34,9 +34,16 @@
       "bin": [],
       "srcDir": ""
     },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "94b021f943a4acc2432a8bd1d75dbe84bf83e147",
+        "time": 1781696506
+      }
+    ],
     "commit": {
-      "hash": "94b021f943a4acc2432a8bd1d75dbe84bf83e147",
-      "time": 1781696506
+      "hash": "bf9dfe94361cd93d53540e29b19e894dfd7593ab",
+      "time": 1782126056
     }
   }
 }
