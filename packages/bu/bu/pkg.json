@@ -30,7 +30,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.18.13",
+      "version": "0.18.14",
       "requires": [
         {
           "name": "nim",
@@ -42,34 +42,34 @@
         },
         {
           "name": "cligen",
-          "str": ">= 1.9.6",
+          "str": ">= 1.10.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.9.6"
+            "ver": "1.10.0"
           }
         },
         {
           "name": "adix",
-          "str": ">= 0.7.7",
+          "str": ">= 0.7.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.7"
+            "ver": "0.7.8"
           }
         },
         {
           "name": "nio",
-          "str": ">= 0.7.10",
+          "str": ">= 0.7.11",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.10"
+            "ver": "0.7.11"
           }
         },
         {
           "name": "fitl",
-          "str": ">= 0.6.5",
+          "str": ">= 0.6.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.5"
+            "ver": "0.6.6"
           }
         },
         {
@@ -94,11 +94,12 @@
         "memlat",
         "cols",
         "ru",
+        "k1st",
         "crp",
         "ndelta",
-        "zeh",
         "dfr",
         "tmpls",
+        "zeh",
         "oft",
         "keydowns",
         "ac",
@@ -158,6 +159,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.18.14",
+        "hash": "3ccbf42ae291cc4d253599e4da929af39e7d1b55",
+        "time": 1782208260
+      },
       {
         "tag": "0.18.13",
         "hash": "5482c826d994276dfc1ff467eccef76536c5336c",
@@ -535,8 +541,8 @@
       }
     ],
     "commit": {
-      "hash": "908690679e01a7d8befcc62109fefba803b46776",
-      "time": 1782148750
+      "hash": "3ccbf42ae291cc4d253599e4da929af39e7d1b55",
+      "time": 1782208260
     }
   }
 }
