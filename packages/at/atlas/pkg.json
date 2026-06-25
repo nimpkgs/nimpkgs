@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.14.5",
+      "version": "0.14.7",
       "requires": [
         {
           "name": "nim",
@@ -31,12 +31,23 @@
         }
       ],
       "bin": [
-        "atlas"
+        "atlas",
+        "atlas-run"
       ],
       "srcDir": "src"
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.14.7",
+        "hash": "aa6fb162006f3015aa84c4305e15cb4d230f5ad6",
+        "time": 1782280863
+      },
+      {
+        "tag": "0.14.6",
+        "hash": "2c6728054187a2ae1929c2c1f88171f869e54581",
+        "time": 1782164777
+      },
       {
         "tag": "0.14.5",
         "hash": "c0c012638462783add69a349e08d782701377581",
@@ -119,8 +130,8 @@
       }
     ],
     "commit": {
-      "hash": "2c6728054187a2ae1929c2c1f88171f869e54581",
-      "time": 1782164777
+      "hash": "aa6fb162006f3015aa84c4305e15cb4d230f5ad6",
+      "time": 1782280863
     }
   }
 }
