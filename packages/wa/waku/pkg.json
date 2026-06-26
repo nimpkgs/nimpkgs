@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.36.0",
+      "version": "0.38.1",
       "requires": [
         {
           "name": "nim",
@@ -23,6 +23,22 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.2.0"
+          }
+        },
+        {
+          "name": "taskpools",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
@@ -42,7 +58,55 @@
           }
         },
         {
-          "name": "chronos",
+          "name": "serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "json_serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "toml_serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "faststreams",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/vacp2p/nim-libp2p.git",
+          "str": "#v2.0.0",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "eth",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nat_traversal",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -58,7 +122,7 @@
           }
         },
         {
-          "name": "eth",
+          "name": "dnsclient",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -66,23 +130,31 @@
           }
         },
         {
-          "name": "json_rpc",
-          "str": "any version",
+          "name": "httputils",
+          "str": ">= 0.4.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.1"
           }
         },
         {
-          "name": "libbacktrace",
-          "str": "any version",
+          "name": "websock",
+          "str": ">= 0.3.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.0"
           }
         },
         {
           "name": "nimcrypto",
+          "str": "0.6.4",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.6.4"
+          }
+        },
+        {
+          "name": "secp256k1",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -90,7 +162,47 @@
           }
         },
         {
-          "name": "serialization",
+          "name": "bearssl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/status-im/nim-json-rpc.git",
+          "str": "#v0.6.1",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "presto",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "web3",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "sqlite3_abi",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -122,31 +234,15 @@
           }
         },
         {
-          "name": "libp2p",
-          "str": ">= 1.15.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.15.0"
-          }
-        },
-        {
-          "name": "web3",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "presto",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "regex",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "unicodedb",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -162,14 +258,6 @@
           }
         },
         {
-          "name": "db_connector",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "minilru",
           "str": "any version",
           "ver": {
@@ -178,7 +266,7 @@
           }
         },
         {
-          "name": "lsquic",
+          "name": "zlib",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -186,7 +274,7 @@
           }
         },
         {
-          "name": "jwt",
+          "name": "testutils",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -194,10 +282,58 @@
           }
         },
         {
-          "name": "ffi",
+          "name": "unittest2",
           "str": "any version",
           "ver": {
             "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/logos-messaging/nim-ffi",
+          "str": "#v0.1.3",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/logos-messaging/nim-sds.git",
+          "str": "#b12f5ee07c5b764303b51fb948b32a4ade1de3b5",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/NagyZoltanPeter/nim-brokers.git",
+          "str": "#v3.1.1",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/vacp2p/nim-lsquic.git",
+          "str": "#v0.5.1",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/vacp2p/nim-jwt.git",
+          "str": "#057ec95eb5af0eea9c49bfe9025b3312c95dc5f2",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/logos-co/nim-libp2p-mix",
+          "str": "#380513117d556bf8f70066f5e72a7fd74fe36ba6",
+          "ver": {
+            "kind": "verSpecial",
             "ver": ""
           }
         }
@@ -206,6 +342,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "SMOKE_TEST_2026.06.25",
+        "hash": "8386f5c99bdc4fff8d0e840a4256d21a8d708dfa",
+        "time": 1782403439
+      },
       {
         "tag": "v0.38.1",
         "hash": "fb30109a220ed3bd453085ab4672eb79c365246d",
@@ -488,8 +629,8 @@
       }
     ],
     "commit": {
-      "hash": "5c20f48ab323d7212c07f3ed6c1440e2368de528",
-      "time": 1782305084
+      "hash": "3eebc7288b76fdc4ba40c3bfd838e325668fd2d1",
+      "time": 1782417237
     }
   }
 }
