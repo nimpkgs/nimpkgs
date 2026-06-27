@@ -1,0 +1,48 @@
+{
+  "name": "nimsodium",
+  "url": "https://github.com/puffball1567/nimsodium",
+  "method": "git",
+  "description": "Safe high-level libsodium wrapper for Nim applications",
+  "license": "MIT",
+  "web": "https://github.com/puffball1567/nimsodium",
+  "tags": [
+    "crypto",
+    "cryptography",
+    "security",
+    "libsodium",
+    "encryption"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "1addfc8241b2a2c9250557715312dc8ef3cde31b",
+        "time": 1782499363
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "bd892325272db19b34db1074e3a6dd0f4592ab34",
+        "time": 1782489005
+      }
+    ],
+    "commit": {
+      "hash": "1addfc8241b2a2c9250557715312dc8ef3cde31b",
+      "time": 1782499363
+    }
+  }
+}
