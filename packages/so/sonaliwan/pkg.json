@@ -1,0 +1,46 @@
+{
+  "name": "sonaliwan",
+  "url": "https://github.com/lipunila-sonaliwan-fr/nim.sonaliwan",
+  "method": "git",
+  "description": "Parser is a syntaxtic analyzer based on a formal grammar. It verifies that a string adheres to defined rules and generates its syntax tree. It is lightweight, extensible, and suitable for analyzing text, code, or structured data.",
+  "license": "CC BY-NC-SA 4.0",
+  "web": "https://github.com/lipunila-sonaliwan-fr/nim.sonaliwan",
+  "tags": [
+    "LPCS",
+    "Lab'Oratoire",
+    "sonaliwan",
+    "parser",
+    "grammar",
+    "linguistic",
+    "french",
+    "english",
+    "toki pona",
+    "security",
+    "pentesting",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "sonaliwan"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "63432d73f8514675349ff87d8b9c30351435405e",
+      "time": 1782542677
+    }
+  }
+}
