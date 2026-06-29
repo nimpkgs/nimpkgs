@@ -1,0 +1,43 @@
+{
+  "name": "yyjson",
+  "url": "https://github.com/zystem/nim-yyjson",
+  "method": "git",
+  "description": "Thin Nim bindings for yyjson with a small idiomatic high-level API",
+  "license": "MIT",
+  "web": "https://github.com/zystem/nim-yyjson",
+  "tags": [
+    "json",
+    "parser",
+    "yyjson",
+    "wrapper",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "568ac42ca4cf59fa3ce60454699a535c2837ae4b",
+        "time": 1782666203
+      }
+    ],
+    "commit": {
+      "hash": "568ac42ca4cf59fa3ce60454699a535c2837ae4b",
+      "time": 1782666203
+    }
+  }
+}
