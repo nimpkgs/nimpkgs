@@ -1,0 +1,42 @@
+{
+  "name": "flowbrigade_memcached",
+  "url": "https://github.com/puffball1567/flowbrigade",
+  "method": "git",
+  "description": "Memcached storage adapter for FlowBrigade rate limiting.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowbrigade/tree/main/packages/flowbrigade_memcached",
+  "tags": [
+    "memcached",
+    "rate-limit",
+    "flow-control",
+    "adapter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "769c0a445792b74fe4879579af3286800fa3a7bd",
+        "time": 1782754681
+      }
+    ],
+    "commit": {
+      "hash": "a384c6fd57e3f9449191ca2a7226d87252fecc88",
+      "time": 1782792193
+    }
+  }
+}

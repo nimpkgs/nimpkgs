@@ -1,0 +1,20 @@
+{
+  "name": "flowbrigade_redis",
+  "url": "https://github.com/puffball1567/flowbrigade",
+  "method": "git",
+  "description": "Redis storage adapter for FlowBrigade rate limiting.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowbrigade/tree/main/packages/flowbrigade_redis",
+  "tags": [
+    "redis",
+    "rate-limit",
+    "flow-control",
+    "adapter"
+  ],
+  "meta": {
+    "commit": {
+      "hash": "a384c6fd57e3f9449191ca2a7226d87252fecc88",
+      "time": 0
+    }
+  }
+}
