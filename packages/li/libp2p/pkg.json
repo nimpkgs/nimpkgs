@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.0.0",
+      "version": "2.1.1",
       "requires": [
         {
           "name": "nim",
@@ -33,14 +33,6 @@
           }
         },
         {
-          "name": "dnsclient",
-          "str": ">= 0.3.0 & < 0.4.0",
-          "ver": {
-            "kind": "verIntersect",
-            "ver": ""
-          }
-        },
-        {
           "name": "bearssl",
           "str": ">= 0.2.7",
           "ver": {
@@ -50,10 +42,10 @@
         },
         {
           "name": "https://github.com/vacp2p/nim-boringssl",
-          "str": ">= 0.0.4",
+          "str": ">= 0.0.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.0.4"
+            "ver": "0.0.8"
           }
         },
         {
@@ -74,10 +66,10 @@
         },
         {
           "name": "metrics",
-          "str": "any version",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         },
         {
@@ -122,18 +114,18 @@
         },
         {
           "name": "lsquic",
-          "str": ">= 0.4.1",
+          "str": ">= 0.5.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.1"
+            "ver": "0.5.4"
           }
         },
         {
           "name": "protobuf_serialization",
-          "str": ">= 0.4.0",
+          "str": ">= 0.5.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.0"
+            "ver": "0.5.3"
           }
         },
         {
@@ -145,11 +137,11 @@
           }
         },
         {
-          "name": "https://github.com/vacp2p/nim-jwt.git",
-          "str": "#057ec95eb5af0eea9c49bfe9025b3312c95dc5f2",
+          "name": "https://github.com/status-im/nim-nat-traversal",
+          "str": ">= 0.0.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.0.1"
           }
         }
       ],
@@ -157,6 +149,16 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.1.1",
+        "hash": "faa0164b63fc238d6a6c8d1f167abcad3391b467",
+        "time": 1782863162
+      },
+      {
+        "tag": "v2.1.0",
+        "hash": "fbea8f1eef98876376ba24f5f692efe5bfc7a9d8",
+        "time": 1782769221
+      },
       {
         "tag": "v2.0.0",
         "hash": "c43199378f46d0aaf61be1cad1ee1d63e8f665d6",
@@ -284,8 +286,8 @@
       }
     ],
     "commit": {
-      "hash": "de00b8292902ad1dc62aae496426bd83b41ecd7a",
-      "time": 1782785026
+      "hash": "faa0164b63fc238d6a6c8d1f167abcad3391b467",
+      "time": 1782863162
     }
   }
 }

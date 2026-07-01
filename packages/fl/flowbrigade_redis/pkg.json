@@ -12,9 +12,36 @@
     "adapter"
   ],
   "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "84750e0a301b1f3eb897020dc02c2cd9e9e90be2",
+        "time": 1782825542
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "769c0a445792b74fe4879579af3286800fa3a7bd",
+        "time": 1782754681
+      }
+    ],
     "commit": {
-      "hash": "a384c6fd57e3f9449191ca2a7226d87252fecc88",
-      "time": 0
+      "hash": "42718ef9448f3bf735198f30e06e8afaa87a449c",
+      "time": 1782879875
     }
   }
 }

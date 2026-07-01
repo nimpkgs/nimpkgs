@@ -1,0 +1,80 @@
+{
+  "name": "clue",
+  "url": "https://github.com/openpeeps/clue",
+  "method": "git",
+  "description": "A cool toolkit for Nim developers",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/clue",
+  "tags": [
+    "extension",
+    "php",
+    "library",
+    "js",
+    "ruby",
+    "lua",
+    "plugin",
+    "python",
+    "wrapper",
+    "node",
+    "bindings",
+    "toolkit",
+    "openapi",
+    "codegen"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0"
+          }
+        },
+        {
+          "name": "semver",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "denim",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "clue"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "c2afa191e00500812c810f73a2b417dfe3eeeac3",
+      "time": 1782748620
+    }
+  }
+}
