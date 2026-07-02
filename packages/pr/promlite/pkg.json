@@ -1,0 +1,47 @@
+{
+  "name": "promlite",
+  "url": "https://github.com/zystem/nim-promlite",
+  "method": "git",
+  "description": "Snapshot-oriented library for small long-running Prometheus exporters",
+  "license": "MIT",
+  "web": "https://github.com/zystem/nim-promlite",
+  "tags": [
+    "metrics",
+    "prometheus",
+    "http",
+    "server"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "445b0dc18f31a5a3355ef71684c1bbc087cbb1a7",
+        "time": 1782837438
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "909304e1e50365c32930141899693112676fbbc4",
+        "time": 1782778523
+      }
+    ],
+    "commit": {
+      "hash": "445b0dc18f31a5a3355ef71684c1bbc087cbb1a7",
+      "time": 1782837438
+    }
+  }
+}

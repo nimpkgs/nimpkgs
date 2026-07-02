@@ -1,0 +1,39 @@
+{
+  "name": "nim_opentui",
+  "url": "https://github.com/hmbemba/nim-opentui",
+  "method": "git",
+  "description": "Nim bindings for OpenTUI native Zig core",
+  "license": "MIT",
+  "web": "https://github.com/hmbemba/nim-opentui",
+  "tags": [
+    "tui",
+    "terminal",
+    "ui",
+    "ffi",
+    "wrapper",
+    "bindings",
+    "zig",
+    "opentui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c2df1a9ca5dd5238d9497b580c68137bcfd73f95",
+      "time": 1782926095
+    }
+  }
+}

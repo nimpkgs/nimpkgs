@@ -1,0 +1,76 @@
+{
+  "name": "fastcomments",
+  "url": "https://github.com/FastComments/fastcomments-nim",
+  "method": "git",
+  "description": "FastComments Nim SDK - A SDK for interacting with the FastComments API",
+  "license": "MIT",
+  "web": "https://github.com/FastComments/fastcomments-nim",
+  "tags": [
+    "commenting-system",
+    "comments",
+    "api",
+    "moderation",
+    "fastcomments"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v3.0.0",
+        "hash": "3b2e5ee9b541d7f061d730822e244bcd58e04e72",
+        "time": 1782847154
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "1cd7e23ef25e5ad81498280da458c44a1a3071a0",
+        "time": 1781893254
+      },
+      {
+        "tag": "v1.1.1",
+        "hash": "76e298c73311a1a7ed33c45ebf2f210138c786ca",
+        "time": 1774416098
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "de9de3ac4d743383ba2ebf479d730797e08a5b98",
+        "time": 1767921013
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "30f0da3311d9167eb9ff8bfbe8e273f02902d830",
+        "time": 1763741255
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "b9bc80180bea1fafd4df4c125b2fc14ab9ef42be",
+        "time": 1763708577
+      }
+    ],
+    "commit": {
+      "hash": "3b2e5ee9b541d7f061d730822e244bcd58e04e72",
+      "time": 1782847154
+    }
+  }
+}

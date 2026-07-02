@@ -33,10 +33,10 @@
         },
         {
           "name": "mummy",
-          "str": ">= 0.4.0",
+          "str": "0.4.6",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.0"
+            "kind": "verEq",
+            "ver": "0.4.6"
           }
         },
         {
@@ -71,8 +71,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "fa99b8cd4b2455fe51234d882cd1481968037c15",
-      "time": 1779945795
+      "hash": "0efd2223a7f49acbd88c54b29113172ce1ebb40b",
+      "time": 1782924694
     }
   }
 }
