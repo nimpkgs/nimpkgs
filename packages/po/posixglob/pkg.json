@@ -1,0 +1,47 @@
+{
+  "name": "posixglob",
+  "url": "https://github.com/zystem/nim-posixglob",
+  "method": "git",
+  "description": "Small POSIX glob pattern matcher for Nim, backed by libc fnmatch().",
+  "license": "MIT",
+  "web": "https://github.com/zystem/nim-posixglob",
+  "tags": [
+    "glob",
+    "fnmatch",
+    "posix",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.6",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.6",
+        "hash": "0e44d7a7fc14db69fd51ef86c8836f52f82347f2",
+        "time": 1783083865
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "e47235c822007c76c525aed764ff62ecd50ad741",
+        "time": 1783081651
+      }
+    ],
+    "commit": {
+      "hash": "0e44d7a7fc14db69fd51ef86c8836f52f82347f2",
+      "time": 1783083865
+    }
+  }
+}

@@ -30,25 +30,15 @@
             "kind": "verAny",
             "ver": ""
           }
-        },
-        {
-          "name": "ws",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
         }
       ],
-      "bin": [
-        "servy"
-      ],
+      "bin": [],
       "srcDir": "src"
     },
     "hasBin": true,
     "commit": {
-      "hash": "f097cdb5a0263b5592e36f65928ee53f00097613",
-      "time": 1604069893
+      "hash": "a95f0e944484a9c891c37150c0668e102f17703d",
+      "time": 1783083143
     }
   }
 }
