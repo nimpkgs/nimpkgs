@@ -1,0 +1,48 @@
+{
+  "name": "h3",
+  "url": "https://github.com/ayman-albaz/nim-h3",
+  "method": "git",
+  "description": "Nim wrapper for H3 (v4) hierarchical hexagonal geospatial indexing.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/ayman-albaz/nim-h3",
+  "tags": [
+    "geospatial",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "53d84abbc54136250c497218431679f60f9cdb00",
+        "time": 1781459684
+      }
+    ],
+    "commit": {
+      "hash": "ce9f4f544b8a50cce30da58a0cb21fdf0f8a978b",
+      "time": 1781460394
+    }
+  }
+}
