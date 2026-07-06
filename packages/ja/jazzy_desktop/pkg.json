@@ -1,0 +1,54 @@
+{
+  "name": "jazzy_desktop",
+  "url": "https://github.com/canermastan/jazzy-desktop",
+  "method": "git",
+  "description": "Build lightning-fast, cross-platform desktop applications using Nim and modern web technologies.",
+  "license": "MIT",
+  "web": "https://github.com/canermastan/jazzy-desktop",
+  "tags": [
+    "desktop",
+    "gui",
+    "webview",
+    "framework",
+    "frontend"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "jazzy",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
+          }
+        }
+      ],
+      "bin": [
+        "jazzyd"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "3bf959c20e1077ba8546e72a840adce0b6b5b878",
+        "time": 1783199914
+      }
+    ],
+    "commit": {
+      "hash": "db14ff9ee30f89e2fa6a3e033d964c8f2e04c63f",
+      "time": 1783248592
+    }
+  }
+}

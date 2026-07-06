@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -35,34 +35,26 @@
         },
         {
           "name": "semver",
-          "str": "any version",
+          "str": ">= 1.2.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.2.3"
           }
         },
         {
           "name": "kapsis",
-          "str": "#head",
+          "str": ">= 0.3.4",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.4"
           }
         },
         {
           "name": "openparser",
-          "str": "#head",
+          "str": ">= 0.1.4",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "denim",
-          "str": "#head",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.4"
           }
         }
       ],
@@ -72,9 +64,26 @@
       "srcDir": "src"
     },
     "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "738b68bcdbfc4f0d6333fd29aec421eec1007a51",
+        "time": 1783246030
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "2cc756e71211c18ad287ce748d5e68dccd712734",
+        "time": 1783244659
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "c497163b63cfff4ee734bf076a2ad98e272ec90a",
+        "time": 1783242913
+      }
+    ],
     "commit": {
-      "hash": "145baab016fb00ce555287a8e50abde0bc644d37",
-      "time": 1783191825
+      "hash": "738b68bcdbfc4f0d6333fd29aec421eec1007a51",
+      "time": 1783246030
     }
   }
 }
