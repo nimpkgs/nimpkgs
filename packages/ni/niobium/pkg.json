@@ -1,0 +1,47 @@
+{
+  "name": "niobium",
+  "url": "https://github.com/invector-tecnologia/niobium.git",
+  "method": "git",
+  "description": "Ergonomic, immediate-mode Terminal User Interface library for Nim.",
+  "license": "AGPL-3.0",
+  "web": "https://github.com/invector-tecnologia/niobium",
+  "tags": [
+    "tui",
+    "terminal",
+    "ui",
+    "ratatui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "8304c454dd7395162d14108350dac60c2c99ddb2",
+        "time": 1783373021
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0051e11235280f4a235e573141ca2f40310d2e60",
+        "time": 1783371083
+      }
+    ],
+    "commit": {
+      "hash": "acbb760ecb9b53059f651a024885067194315dfd",
+      "time": 1783375684
+    }
+  }
+}
