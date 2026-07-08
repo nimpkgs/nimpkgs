@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.7",
+      "version": "0.1.8",
       "requires": [
         {
           "name": "nim",
@@ -76,12 +76,25 @@
             "kind": "verEqLater",
             "ver": "1.2.3"
           }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.8",
+        "hash": "fc44a8dddcc7fa0bb8d877d8f69a9cf9086704ef",
+        "time": 1783443683
+      },
       {
         "tag": "0.1.7",
         "hash": "ff28dbd0812dc805d984a1426c11221a5cb786cd",
@@ -124,8 +137,8 @@
       }
     ],
     "commit": {
-      "hash": "9191af1e657acae7c46f1374c196f9cb361c4550",
-      "time": 1783341169
+      "hash": "64f96ef6b18d352278a2f8cdfb42f57ebc2cf48a",
+      "time": 1783446221
     }
   }
 }

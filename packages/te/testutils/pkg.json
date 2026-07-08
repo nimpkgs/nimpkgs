@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.8.1",
+      "version": "0.8.2",
       "requires": [
         {
           "name": "nim",
@@ -24,6 +24,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "stew",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
@@ -42,6 +50,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.8.2",
+        "hash": "74588b8b55d116ca057431ae3a0ca359e0825fcd",
+        "time": 1783436354
+      },
       {
         "tag": "v0.8.1",
         "hash": "6ce5e5e2301ccbc04b09d27ff78741ff4d352b4d",
@@ -119,8 +132,8 @@
       }
     ],
     "commit": {
-      "hash": "6c011e71b77c4c3cb078a503f729121ea5796f0d",
-      "time": 1783262658
+      "hash": "74588b8b55d116ca057431ae3a0ca359e0825fcd",
+      "time": 1783436354
     }
   }
 }

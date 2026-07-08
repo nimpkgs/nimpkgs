@@ -1,0 +1,110 @@
+{
+  "name": "rochedb",
+  "url": "https://github.com/puffball1567/rochedb",
+  "method": "git",
+  "description": "Ring-oriented NoSQL document/vector store for smaller working sets.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/rochedb",
+  "doc": "https://puffball1567.github.io/rochedb/",
+  "tags": [
+    "database",
+    "nosql",
+    "document-store",
+    "vector",
+    "cli",
+    "storage"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimsodium",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "rochesim",
+        "rochecli",
+        "roche",
+        "rochebench",
+        "roched"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.4",
+        "hash": "01d8699647d8dde7ca50af840541a601969da98b",
+        "time": 1783443965
+      },
+      {
+        "tag": "v0.2.3",
+        "hash": "726280615782b4890b8a66b817b7c64303d07b85",
+        "time": 1783427518
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "479635767c2d8514726be849bb604e33bcdeb869",
+        "time": 1783423637
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "78f899360364b73733ff01a41604f5cb28287f8e",
+        "time": 1783420918
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "027d2520b3d41889c33e09ea304f7b1a5285147f",
+        "time": 1783419114
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "2d04740bf304aa4eeabb30d3617dc5bf41a400fe",
+        "time": 1783314631
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "0236aefc07f7f38b8b9517f77b3a8753af98f819",
+        "time": 1783313509
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "878d18b8b27ac5340a61cbaf4ebed8d927ce2e88",
+        "time": 1783313019
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "2cbb1c3e2015fc835f19a230466fcd89aa4e1c7e",
+        "time": 1783312609
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "57bb8e94e35eac1685703726495e057501c7ca83",
+        "time": 1783310918
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "7d5dc29721c78ba8a507862af572fba79f0c2d0e",
+        "time": 1783310118
+      }
+    ],
+    "commit": {
+      "hash": "01d8699647d8dde7ca50af840541a601969da98b",
+      "time": 1783443965
+    }
+  }
+}
