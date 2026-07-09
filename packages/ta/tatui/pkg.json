@@ -1,10 +1,10 @@
 {
-  "name": "niobium",
-  "url": "https://github.com/invector-tecnologia/niobium.git",
+  "name": "tatui",
+  "url": "https://github.com/invector-tecnologia/tatui.git",
   "method": "git",
-  "description": "Ergonomic, immediate-mode Terminal User Interface library for Nim.",
+  "description": "TATUÍ is a ergonomic, immediate-mode Terminal User Interface library for Nim.",
   "license": "AGPL-3.0",
-  "web": "https://github.com/invector-tecnologia/niobium",
+  "web": "https://github.com/invector-tecnologia/tatui",
   "tags": [
     "tui",
     "terminal",
@@ -40,8 +40,8 @@
       }
     ],
     "commit": {
-      "hash": "ea7c24cfc0d3c65d6025421fb14c69b283b15baa",
-      "time": 1783466810
+      "hash": "848bec1b85ba69ba2eb97340c73f9f7ceefe22f8",
+      "time": 1783538713
     }
   }
 }

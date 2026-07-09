@@ -89,9 +89,9 @@
         },
         {
           "name": "hashtree_abi",
-          "str": "any version",
+          "str": "#7cb0a35fd604a58bb5a66c50dfda81c801b66743",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         }
@@ -100,8 +100,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "1cc4d87437a9f8f7a8b1119991af48308fbfe04b",
-      "time": 1779486517
+      "hash": "38c06c4da3554e08666740b27531037482c4df08",
+      "time": 1783517173
     }
   }
 }

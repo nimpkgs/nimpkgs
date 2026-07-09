@@ -1,0 +1,54 @@
+{
+  "name": "lumber",
+  "url": "https://github.com/cryo2010/nim-lumber",
+  "method": "git",
+  "description": "A JSON logger and prettifier CLI",
+  "license": "MIT",
+  "web": "https://github.com/cryo2010/nim-lumber",
+  "tags": [
+    "json",
+    "logger",
+    "logging",
+    "log",
+    "lumber"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.25.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.25.0"
+          }
+        }
+      ],
+      "bin": [
+        "lumber"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "68b7ed8e08b2cd3a6cecc03e819337266e97b3eb",
+        "time": 1783487610
+      }
+    ],
+    "commit": {
+      "hash": "0ee74e63a41752c632866fb564e1073af21e5c41",
+      "time": 1783487973
+    }
+  }
+}
