@@ -1,0 +1,51 @@
+{
+  "name": "tinyfetch",
+  "url": "https://github.com/hello-btw/tinyfetch",
+  "method": "git",
+  "description": "A minimal system fetch tool",
+  "license": "GPL-3.0-or-later",
+  "web": "https://github.com/hello-btw/tinyfetch",
+  "tags": [
+    "cli",
+    "fetch",
+    "system-info",
+    "tool",
+    "utility"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        }
+      ],
+      "bin": [
+        "tinyfetch"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "d4a1b97f81d4eb42bd99abb2cfb5911cfde59f77",
+        "time": 1783637347
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "5812a4640b768aa26055f55047a0927f41673122",
+        "time": 1783619517
+      }
+    ],
+    "commit": {
+      "hash": "d4a1b97f81d4eb42bd99abb2cfb5911cfde59f77",
+      "time": 1783637347
+    }
+  }
+}

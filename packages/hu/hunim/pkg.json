@@ -1,0 +1,84 @@
+{
+  "name": "hunim",
+  "url": "https://github.com/basswood-io/hunim",
+  "method": "git",
+  "description": "Awesome static site generator for humans",
+  "license": "Unlicense",
+  "web": "https://hunim.org",
+  "tags": [
+    "static-site-generator",
+    "website",
+    "markdown",
+    "html",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "parsetoml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "hunim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.5.0",
+        "hash": "077693a1fe49c0df78ab465cce625b49c613f565",
+        "time": 1783617032
+      },
+      {
+        "tag": "0.4.0",
+        "hash": "aa07f7bc01a3a4a57b58db2fabefebace993b68d",
+        "time": 1783303531
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "14aead368e84f2ba293e1f74c4865a8e05208def",
+        "time": 1781112443
+      },
+      {
+        "tag": "0.3.0",
+        "hash": "e118bc36463d20e5dcf844810956cf0f838ba02b",
+        "time": 1780782383
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "1c86142cdd272be2ff93638a0d09d697a672dd5a",
+        "time": 1780389378
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "89c0c9a3468cb4bb075e1b8922d0e8826805ca62",
+        "time": 1774933197
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "0520278e991575f83c27838f007d15aceb4c9a5d",
+        "time": 1766817469
+      }
+    ],
+    "commit": {
+      "hash": "cb5fe03aeffcbebfa61923ae331d38ad13697915",
+      "time": 1783630359
+    }
+  }
+}
