@@ -1,0 +1,52 @@
+{
+  "name": "sweetsyntax",
+  "url": "https://github.com/openpeeps/sweetsyntax",
+  "method": "git",
+  "description": "A generic syntax highlighter, tokenizer, parser and AST explorer",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/sweetsyntax",
+  "tags": [
+    "parser",
+    "syntax",
+    "ast",
+    "generic",
+    "pratt",
+    "toolkit"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "bde95641b7d808c2f409c623219c2c59a1dd5987",
+        "time": 1783685123
+      }
+    ],
+    "commit": {
+      "hash": "bde95641b7d808c2f409c623219c2c59a1dd5987",
+      "time": 1783685123
+    }
+  }
+}

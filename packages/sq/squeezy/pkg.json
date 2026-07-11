@@ -1,0 +1,54 @@
+{
+  "name": "squeezy",
+  "url": "https://github.com/openpeeps/squeezy",
+  "method": "git",
+  "description": "JS & CSS validator, bundler and minifier",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/squeezy",
+  "tags": [
+    "minify",
+    "bundler",
+    "js",
+    "css",
+    "validator",
+    "web",
+    "mangler"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.5"
+          }
+        },
+        {
+          "name": "sweetsyntax",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "cd3ead0f754c5ef21a809f311de1d141dcaea8d1",
+      "time": 1783692058
+    }
+  }
+}

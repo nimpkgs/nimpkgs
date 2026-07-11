@@ -1,0 +1,33 @@
+{
+  "name": "sse",
+  "url": "https://github.com/Niminem/sse",
+  "method": "git",
+  "description": "spec-compliant SSE library in nim, stdlib only",
+  "license": "MIT",
+  "web": "https://github.com/Niminem/sse",
+  "tags": [
+    "sse",
+    "server-sent-events"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "58b53c1e02af1de2fa63296cddd3c454ba3106bd",
+      "time": 1783716694
+    }
+  }
+}

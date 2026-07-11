@@ -1,0 +1,47 @@
+{
+  "name": "foundry_compilers_nim",
+  "url": "https://github.com/RyanLaidlaw/foundry_compilers_nim",
+  "method": "git",
+  "description": "A Nim wrapper around the Rust foundry-compilers crate",
+  "license": "MIT",
+  "web": "https://github.com/RyanLaidlaw/foundry_compilers_nim",
+  "tags": [
+    "solidity",
+    "ffi",
+    "rust",
+    "bridge",
+    "compiler",
+    "foundry"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "foundry_compilers_nim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "dff9b53bf2fb633843ac389a671fd41ac0773983",
+        "time": 1783732090
+      }
+    ],
+    "commit": {
+      "hash": "4455f173725f76b80afcb32b2cf6ec9521b84a91",
+      "time": 1783733698
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "jschema",
+  "url": "https://github.com/Niminem/jschema",
+  "method": "git",
+  "description": "spec-compliant JSON Schema (draft 2020-12) validator and builder for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Niminem/jschema",
+  "tags": [
+    "json",
+    "schema",
+    "validator",
+    "builder"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a936862556f24fde475059c560c1a13f00291457",
+      "time": 1783716604
+    }
+  }
+}
