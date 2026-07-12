@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.8",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -27,14 +27,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.0.0"
-          }
-        },
-        {
-          "name": "gccjit",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
           }
         },
         {
@@ -91,6 +83,11 @@
     },
     "versions": [
       {
+        "tag": "0.2.0",
+        "hash": "abeae5d9855e666a70732b2f503714052cbdd90f",
+        "time": 1783759993
+      },
+      {
         "tag": "0.1.8",
         "hash": "fc44a8dddcc7fa0bb8d877d8f69a9cf9086704ef",
         "time": 1783443683
@@ -137,8 +134,8 @@
       }
     ],
     "commit": {
-      "hash": "645f890ea5c40a62a8b84192b52f77e71d5b70cf",
-      "time": 1783609150
+      "hash": "12edf4d5e1fc8f9741b0fdcd9694b01b0044bd51",
+      "time": 1783792418
     }
   }
 }

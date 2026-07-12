@@ -1,0 +1,41 @@
+{
+  "name": "combinatronics",
+  "url": "https://github.com/WaywardWizard/nim-combinatronics",
+  "method": "git",
+  "description": "Efficiently generate permutations and combinations",
+  "license": "MIT",
+  "web": "https://github.com/WaywardWizard/nim-combinatronics",
+  "tags": [
+    "combinatronics",
+    "permutations",
+    "combinations"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.14",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.14"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "fd5f408a66da5326892ca44d51f8aebe3ce910e2",
+        "time": 1783764150
+      }
+    ],
+    "commit": {
+      "hash": "fd5f408a66da5326892ca44d51f8aebe3ce910e2",
+      "time": 1783764150
+    }
+  }
+}
