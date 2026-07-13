@@ -1,0 +1,91 @@
+{
+  "name": "activitypub",
+  "url": "https://github.com/openpeeps/activitypub-nim",
+  "method": "git",
+  "description": "ActivityPub library in Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/activitypub-nim",
+  "tags": [
+    "federated",
+    "activitypub",
+    "web",
+    "social",
+    "protocol"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.6"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "e2ee",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        },
+        {
+          "name": "mimedb",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        },
+        {
+          "name": "ormin",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "d6078130035299ab61f1bb7d8fb1ca6b72c49a98",
+        "time": 1783841731
+      }
+    ],
+    "commit": {
+      "hash": "5005fe124dc54660ea75038c238a084fa8897ae6",
+      "time": 1783842689
+    }
+  }
+}

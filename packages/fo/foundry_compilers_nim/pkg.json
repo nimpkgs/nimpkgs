@@ -15,33 +15,66 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.9",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.10"
           }
         }
       ],
-      "bin": [
-        "foundry_compilers_nim"
-      ],
+      "bin": [],
       "srcDir": "src"
     },
     "hasBin": true,
     "versions": [
       {
-        "tag": "v0.1.0",
-        "hash": "dff9b53bf2fb633843ac389a671fd41ac0773983",
-        "time": 1783732090
+        "tag": "0.1.9",
+        "hash": "0bcbe864ebe87dc3053d5791435a3dfd4a6371e5",
+        "time": 1783909299
+      },
+      {
+        "tag": "0.1.8",
+        "hash": "9ed47476996fb449f7bf5184d7c085d231f8cb75",
+        "time": 1783908945
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "29aeb1eea2511e1d72537c6148f97f57617f91b9",
+        "time": 1783908125
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "13684d63cbcf22fb0e34f0af14d62357132395fb",
+        "time": 1783907489
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "55447b62e14c3d98e9198cc8f1fe5dbbf8d144d0",
+        "time": 1783903936
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "03c9b38ec1ddb16a509297a6c14b228e42b40ef0",
+        "time": 1783902346
+      },
+      {
+        "tag": "0.1.2, 0.1.0",
+        "hash": "e27d101388d98bd90c9bc3789742febac23bc89f",
+        "time": 1783890053
+      },
+      {
+        "tag": "0.1.1",
+        "hash": "e13dab34330b3439fec6d90c48104564879506db",
+        "time": 1783889760
       }
     ],
     "commit": {
-      "hash": "4455f173725f76b80afcb32b2cf6ec9521b84a91",
-      "time": 1783733698
+      "hash": "0bcbe864ebe87dc3053d5791435a3dfd4a6371e5",
+      "time": 1783909299
     }
   }
 }

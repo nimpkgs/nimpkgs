@@ -1,0 +1,61 @@
+{
+  "name": "metronome",
+  "url": "https://github.com/titanomachy/Metronome",
+  "method": "git",
+  "description": "A Nim library for interval, cron, and one-shot jobs.",
+  "license": "MIT",
+  "web": "https://github.com/titanomachy/Metronome",
+  "doc": "https://titanomachy.github.io/Metronome/metronome.html",
+  "tags": [
+    "scheduler",
+    "cron",
+    "jobs",
+    "time",
+    "interval",
+    "one-shot",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.2",
+        "hash": "2bf3d1be05cca282ea6a3624f6d4d1c131373ecb",
+        "time": 1783818140
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "915842563b374e1448f94735f9276c7ce8686c41",
+        "time": 1783817055
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "758b19a08b11be15f65ccf06d10278477ca4783a",
+        "time": 1783794965
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "0e258909df1732668676344dc1846bbefcb39158",
+        "time": 1783694597
+      }
+    ],
+    "commit": {
+      "hash": "b0b4a149b314ba981c4a5664fb53f1db3986571b",
+      "time": 1783909920
+    }
+  }
+}
