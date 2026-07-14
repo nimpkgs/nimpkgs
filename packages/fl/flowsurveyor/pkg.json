@@ -1,0 +1,54 @@
+{
+  "name": "flowsurveyor",
+  "url": "https://github.com/puffball1567/flowsurveyor",
+  "method": "git",
+  "description": "Flow analysis primitives for FlowBrigade Toolkit graphs and events.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowsurveyor",
+  "tags": [
+    "flowbrigade-toolkit",
+    "workflow",
+    "analysis",
+    "metrics",
+    "critical-path",
+    "bottleneck"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "2887d5bf229c34ac965e3836e1b15873c47fe1a6",
+        "time": 1783826084
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "262dff835a44a7ee232edd9de3c36bca936affc2",
+        "time": 1783688822
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "440178c1bcb282639a9148904641a84d3277b7c7",
+        "time": 1783259315
+      }
+    ],
+    "commit": {
+      "hash": "2887d5bf229c34ac965e3836e1b15873c47fe1a6",
+      "time": 1783826084
+    }
+  }
+}

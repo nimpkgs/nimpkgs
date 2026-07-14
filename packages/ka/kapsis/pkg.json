@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.3",
+      "version": "0.3.4",
       "requires": [
         {
           "name": "nim",
@@ -26,27 +26,11 @@
           }
         },
         {
-          "name": "pluginkit",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
           "name": "voodoo",
           "str": ">= 0.1.9",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.1.9"
-          }
-        },
-        {
-          "name": "jsony",
-          "str": ">= 1.1.6",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.1.6"
           }
         },
         {
@@ -95,6 +79,11 @@
     },
     "versions": [
       {
+        "tag": "0.3.4",
+        "hash": "07685fcc0bf84c23fbc844b1e754fde744e78945",
+        "time": 1783944695
+      },
+      {
         "tag": "0.3.3",
         "hash": "2d1cdab71500dc68d6c6cce5fdada4736d3bbe75",
         "time": 1780133932
@@ -136,8 +125,8 @@
       }
     ],
     "commit": {
-      "hash": "727a34acfa16e63be0268107f9d5bd85efcfc68a",
-      "time": 1781839322
+      "hash": "07685fcc0bf84c23fbc844b1e754fde744e78945",
+      "time": 1783944695
     }
   }
 }

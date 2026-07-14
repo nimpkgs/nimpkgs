@@ -30,25 +30,22 @@
             "kind": "verEqLater",
             "ver": "0.1.2"
           }
-        },
-        {
-          "name": "kapsis",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
         }
       ],
-      "bin": [
-        "marvdown"
-      ],
+      "bin": [],
       "srcDir": "src"
     },
     "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "131eb6fb0443cb6f60df1193c03757124a242930",
+        "time": 1783943242
+      }
+    ],
     "commit": {
-      "hash": "d0df3d91a1a93beab3addd964dbeee343dd7c93e",
-      "time": 1781728519
+      "hash": "131eb6fb0443cb6f60df1193c03757124a242930",
+      "time": 1783943242
     }
   }
 }

@@ -1,0 +1,59 @@
+{
+  "name": "flowdependency",
+  "url": "https://github.com/puffball1567/flowdependency",
+  "method": "git",
+  "description": "Dependency graph primitives for FlowBrigade Toolkit flows.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowdependency",
+  "tags": [
+    "flowbrigade-toolkit",
+    "dependency-graph",
+    "workflow",
+    "dag",
+    "graph",
+    "planning"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "93d4ac8b4d2f8253c2cbf293c819532b6d4b5644",
+        "time": 1783826084
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "18c3ab8f2809da4060c1a260c4fe0d4167e1b505",
+        "time": 1783318341
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "5637f9aa81463d72beeb31bd7e0a38ec1c7e0783",
+        "time": 1783133910
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "b163cc1d14fc9a7b1b84f672ba41c940d17ccb45",
+        "time": 1783129812
+      }
+    ],
+    "commit": {
+      "hash": "93d4ac8b4d2f8253c2cbf293c819532b6d4b5644",
+      "time": 1783826084
+    }
+  }
+}

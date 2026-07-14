@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.1.4",
+      "version": "2.2.0",
       "requires": [
         {
           "name": "nim",
@@ -22,6 +22,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "libbacktrace",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
@@ -122,10 +130,10 @@
         },
         {
           "name": "protobuf_serialization",
-          "str": ">= 0.5.0",
+          "str": ">= 0.5.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.5.3"
           }
         },
         {
@@ -149,6 +157,16 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.2.0",
+        "hash": "0e763288c10b6488e5971608f12aa49ab129720e",
+        "time": 1783952729
+      },
+      {
+        "tag": "v2.1.5",
+        "hash": "a81b0edb362c8ff40bfa4381333f15fce43864e4",
+        "time": 1783952050
+      },
       {
         "tag": "v2.1.4",
         "hash": "3b5ae1da95f0614af06221be7a3bb2aeab03f4c7",
@@ -301,8 +319,8 @@
       }
     ],
     "commit": {
-      "hash": "d3ea16c194964d765f44bd94a1f994a17462e916",
-      "time": 1783724590
+      "hash": "1b49e5b8c13853731591a7ae39ac04ed158bb3db",
+      "time": 1783971860
     }
   }
 }

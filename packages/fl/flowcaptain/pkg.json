@@ -1,0 +1,100 @@
+{
+  "name": "flowcaptain",
+  "url": "https://github.com/puffball1567/flowcaptain",
+  "method": "git",
+  "description": "Top-level orchestration and reporting layer for FlowBrigade Toolkit flows.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowcaptain",
+  "tags": [
+    "flowbrigade-toolkit",
+    "workflow",
+    "orchestration",
+    "reporting",
+    "flow-analysis",
+    "metrics"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "flowbrigade",
+          "str": ">= 0.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        },
+        {
+          "name": "https://github.com/puffball1567/flowdependency",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "https://github.com/puffball1567/flowworkrunner",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/puffball1567/flowlogbook",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/puffball1567/flowsurveyor",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/puffball1567/flowgarage",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "flowcaptain_event_report"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "a0c30259b0bd0e586bf29ee4034fb46850fcca38",
+        "time": 1783826083
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "0065002c3ef0dcdb0a3b70a87187cf1cd135cd9b",
+        "time": 1783753320
+      }
+    ],
+    "commit": {
+      "hash": "a0c30259b0bd0e586bf29ee4034fb46850fcca38",
+      "time": 1783826083
+    }
+  }
+}

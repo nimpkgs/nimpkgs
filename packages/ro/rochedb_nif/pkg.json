@@ -1,0 +1,44 @@
+{
+  "name": "rochedb_nif",
+  "url": "https://github.com/puffball1567/rochedb-nif",
+  "method": "git",
+  "description": "Official NIF/BIF payload adapter for RocheDB.",
+  "license": "MIT",
+  "web": "https://github.com/puffball1567/rochedb-nif",
+  "tags": [
+    "rochedb",
+    "nif",
+    "bif",
+    "adapter",
+    "document-store",
+    "interop"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "8f7fb68f2384d5c28586a1f89500899d3e7e22a2",
+        "time": 1783846006
+      }
+    ],
+    "commit": {
+      "hash": "8f7fb68f2384d5c28586a1f89500899d3e7e22a2",
+      "time": 1783846006
+    }
+  }
+}

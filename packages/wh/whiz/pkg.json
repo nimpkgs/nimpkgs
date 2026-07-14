@@ -1,0 +1,55 @@
+{
+  "name": "whiz",
+  "url": "https://github.com/openpeeps/whiz",
+  "method": "git",
+  "description": "A message queue library implementing ZMTP 3.0 in Nim",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/whiz",
+  "tags": [
+    "zmq",
+    "protocol",
+    "message",
+    "queue",
+    "ipc",
+    "messaging",
+    "zero-copy",
+    "socket"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        },
+        {
+          "name": "e2ee",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "eb045591cc558f815c23b25abb999f28e7e61a70",
+      "time": 1783959661
+    }
+  }
+}

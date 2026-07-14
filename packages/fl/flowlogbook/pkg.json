@@ -1,0 +1,59 @@
+{
+  "name": "flowlogbook",
+  "url": "https://github.com/puffball1567/flowlogbook",
+  "method": "git",
+  "description": "Execution ledger and resume-decision primitives for repeatable tasks.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowlogbook",
+  "tags": [
+    "flowbrigade-toolkit",
+    "ledger",
+    "workflow",
+    "resume",
+    "events",
+    "audit"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "7a3a807effc25ea4402e68617cc9b0d9ef1f1c49",
+        "time": 1783826084
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "66241e2fa87c211bb1a2a2aaf410eb0ee8d010f1",
+        "time": 1783678652
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "925ac59e39fc94e56543560569da9890e0db3b16",
+        "time": 1783318342
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "3fda121b33b8926dccfc2c4db87b07ba19988784",
+        "time": 1783090258
+      }
+    ],
+    "commit": {
+      "hash": "7a3a807effc25ea4402e68617cc9b0d9ef1f1c49",
+      "time": 1783826084
+    }
+  }
+}

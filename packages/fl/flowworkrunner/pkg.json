@@ -1,0 +1,54 @@
+{
+  "name": "flowworkrunner",
+  "url": "https://github.com/puffball1567/flowworkrunner",
+  "method": "git",
+  "description": "In-process work runner primitives for FlowBrigade Toolkit graphs.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowworkrunner",
+  "tags": [
+    "flowbrigade-toolkit",
+    "workflow",
+    "runner",
+    "execution",
+    "tasks",
+    "parallel"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "df6de6be6f682846d51e8a1badfc03a5ae40dc68",
+        "time": 1783826083
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "fbe2dab9c16c6bb8f4706e1e98a6ef220d20e041",
+        "time": 1783318340
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "8fbd7c7f8087b75e2101db1caa14f8f2fa197749",
+        "time": 1783233627
+      }
+    ],
+    "commit": {
+      "hash": "df6de6be6f682846d51e8a1badfc03a5ae40dc68",
+      "time": 1783826083
+    }
+  }
+}

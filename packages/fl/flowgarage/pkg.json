@@ -1,0 +1,49 @@
+{
+  "name": "flowgarage",
+  "url": "https://github.com/puffball1567/flowgarage",
+  "method": "git",
+  "description": "Artifact and report assembly primitives for FlowBrigade Toolkit workflows.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/flowgarage",
+  "tags": [
+    "flowbrigade-toolkit",
+    "workflow",
+    "reports",
+    "artifacts",
+    "markdown",
+    "json"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "c6d6c425767f49c55c53c2aa63c0358f50b4f037",
+        "time": 1783826085
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "700ec36b64a69cc26921730117715700b086f1e2",
+        "time": 1783244157
+      }
+    ],
+    "commit": {
+      "hash": "c6d6c425767f49c55c53c2aa63c0358f50b4f037",
+      "time": 1783826085
+    }
+  }
+}
