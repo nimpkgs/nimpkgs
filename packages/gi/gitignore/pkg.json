@@ -1,0 +1,32 @@
+{
+  "name": "gitignore",
+  "url": "https://github.com/Niminem/gitignore",
+  "method": "git",
+  "description": "dependency-free, spec-compliant gitignore parser and pattern matcher",
+  "license": "MIT",
+  "web": "https://github.com/Niminem/gitignore",
+  "tags": [
+    "gitignore"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "ac7bf8ada1c5062957779b36b06506c3939ae274",
+      "time": 1783977981
+    }
+  }
+}
