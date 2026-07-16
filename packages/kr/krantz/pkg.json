@@ -1,0 +1,67 @@
+{
+  "name": "krantz",
+  "url": "https://github.com/georgelemon/krantz",
+  "method": "git",
+  "description": "A fast ZSH alternative",
+  "license": "MIT",
+  "web": "https://github.com/georgelemon/krantz",
+  "tags": [
+    "shell",
+    "cli",
+    "zsh",
+    "unix",
+    "repl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.6"
+          }
+        },
+        {
+          "name": "boogie",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "krantz"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "5bcc69dfe069d6436acaa3b43b91f10f9fa87920",
+        "time": 1784130801
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "de0fcbec58facd54d6e9dbbfa7dba27193c72c9f",
+        "time": 1784111492
+      }
+    ],
+    "commit": {
+      "hash": "5bcc69dfe069d6436acaa3b43b91f10f9fa87920",
+      "time": 1784130801
+    }
+  }
+}

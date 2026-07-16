@@ -1,0 +1,59 @@
+{
+  "name": "nimux",
+  "url": "https://github.com/blue0x1/nimux",
+  "method": "git",
+  "description": "Pure-Nim network enumeration and remote execution toolkit for authorized security assessments.",
+  "license": "AGPL-3.0-only",
+  "web": "https://nimux.wiki",
+  "doc": "https://docs.nimux.wiki",
+  "tags": [
+    "network",
+    "enumeration",
+    "remote-execution",
+    "active-directory",
+    "kerberos",
+    "smb",
+    "winrm",
+    "mssql",
+    "security",
+    "pentesting",
+    "red-team",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.10"
+          }
+        }
+      ],
+      "bin": [
+        "nimux"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "3009c5fdeccd0acbd5fb582e1bfd95b3587ec982",
+        "time": 1784141615
+      },
+      {
+        "tag": "v1.0",
+        "hash": "20f858a6f028f925150f2f37d17b8663b3fd7207",
+        "time": 1784118845
+      }
+    ],
+    "commit": {
+      "hash": "f40886db71de7bfc89afe07a7a0ef203c0e118ac",
+      "time": 1784144037
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "datastructures",
+  "url": "https://github.com/WaywardWizard/nim-datastructures",
+  "method": "git",
+  "description": "Useful datastructures for algorithms. BiMap, BiMapSeq, IndexedList",
+  "license": "MIT",
+  "web": "https://github.com/WaywardWizard/nim-datastructures",
+  "tags": [
+    "bidirectional",
+    "map,",
+    "indexed",
+    "list"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.18",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.18"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.2",
+        "hash": "35250f8ba0f3afe3fc3e8f1a07c94778e977ad62",
+        "time": 1784167805
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "daa708b74cabccc41791bc6747aadf9656f8a458",
+        "time": 1784164589
+      }
+    ],
+    "commit": {
+      "hash": "e901fea427f50cf6667e98791615e94d4ce0a3f5",
+      "time": 1784168247
+    }
+  }
+}
