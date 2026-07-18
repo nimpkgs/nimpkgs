@@ -16,30 +16,38 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.2",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.4.0",
+          "str": ">= 2.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.4.0"
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
           }
         },
         {
           "name": "libevent",
-          "str": "any version",
+          "str": ">= 0.1.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "flatty",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.2"
           }
         }
       ],
@@ -47,8 +55,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "2add671c0e27a1ad223826fd766208b483528f3a",
-      "time": 1776136189
+      "hash": "6dfb8ad59f6867da581725d9f6bd1d28d125ab1e",
+      "time": 1784312356
     }
   }
 }

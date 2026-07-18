@@ -18,7 +18,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "4.0.6",
+      "version": "4.4.0",
       "requires": [
         {
           "name": "nim",
@@ -38,18 +38,18 @@
         },
         {
           "name": "stew",
-          "str": "any version",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
           }
         },
         {
           "name": "bearssl",
-          "str": ">= 0.2.7",
+          "str": ">= 0.2.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.7"
+            "ver": "0.2.8"
           }
         },
         {
@@ -73,6 +73,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v4.4.0",
+        "hash": "55adad164db35f7f6973177c5b5ff48fcd6b6450",
+        "time": 1784289338
+      },
       {
         "tag": "v4.0.6",
         "hash": "39c90505fd70877d7227b527a3b13b55d5db7581",
@@ -135,8 +140,8 @@
       }
     ],
     "commit": {
-      "hash": "0e98cc39934ba9051c09381ff5fc08479aa4774b",
-      "time": 1784222183
+      "hash": "55adad164db35f7f6973177c5b5ff48fcd6b6450",
+      "time": 1784289338
     }
   }
 }

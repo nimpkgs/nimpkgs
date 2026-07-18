@@ -1,0 +1,56 @@
+{
+  "name": "schematic",
+  "url": "https://github.com/cryo2010/nim-schematic",
+  "method": "git",
+  "description": "Object validation with type inference",
+  "license": "MIT",
+  "web": "https://github.com/cryo2010/nim-schematic",
+  "tags": [
+    "object",
+    "validation",
+    "validator",
+    "schematic",
+    "schema"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "865bd8eb2d08d3e04ef86788014dcaaf1acb3670",
+        "time": 1784309621
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c4ca5b6a0961202926ceea53a28e18558d9f854d",
+        "time": 1784263459
+      }
+    ],
+    "commit": {
+      "hash": "865bd8eb2d08d3e04ef86788014dcaaf1acb3670",
+      "time": 1784309621
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "htmly",
+  "url": "https://codeberg.org/brulee/htmly",
+  "method": "git",
+  "description": "Dead-simple, easy-to-use HTML generation macros.",
+  "license": "BSD-3-Clause",
+  "web": "https://docs.penguinite.dev/htmly/",
+  "tags": [
+    "library",
+    "html",
+    "htmlgen",
+    "macros",
+    "magic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "a428653bb9023cb4106d1eaa363299d9c6f311d2",
+        "time": 1783936937
+      }
+    ],
+    "commit": {
+      "hash": "a428653bb9023cb4106d1eaa363299d9c6f311d2",
+      "time": 1783936937
+    }
+  }
+}
