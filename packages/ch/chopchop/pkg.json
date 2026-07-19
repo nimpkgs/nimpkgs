@@ -1,0 +1,56 @@
+{
+  "name": "chopchop",
+  "url": "https://github.com/georgelemon/chopchop",
+  "method": "git",
+  "description": "High-level browser automation library around Chrome DevTools Protocol",
+  "license": "MIT",
+  "web": "https://github.com/georgelemon/chopchop",
+  "tags": [
+    "browser",
+    "javascript",
+    "web",
+    "automation",
+    "scraper",
+    "bot",
+    "chrome",
+    "devtools",
+    "dev",
+    "dom"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "cdp",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "9a3e42f7f2f58e08054b36701baef19075173a94",
+        "time": 1784410051
+      }
+    ],
+    "commit": {
+      "hash": "9a3e42f7f2f58e08054b36701baef19075173a94",
+      "time": 1784410051
+    }
+  }
+}

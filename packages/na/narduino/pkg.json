@@ -1,0 +1,36 @@
+{
+  "name": "narduino",
+  "url": "https://github.com/Niminem/narduino",
+  "method": "git",
+  "description": "Write and flash Arduino firmware with Nim using your favorite IDE - easily!",
+  "license": "MIT",
+  "web": "https://github.com/Niminem/narduino",
+  "tags": [
+    "arduino",
+    "esp32"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "narduino"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "80ae927aa0b6f2e0e92232e8ff23cff936dfba28",
+      "time": 1784325859
+    }
+  }
+}
