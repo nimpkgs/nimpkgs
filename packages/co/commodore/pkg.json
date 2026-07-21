@@ -14,32 +14,6 @@
     "optparse"
   ],
   "meta": {
-    "nimble": {
-      "version": "0.1.0",
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 2.2.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "2.2.4"
-          }
-        }
-      ],
-      "bin": [],
-      "srcDir": "src"
-    },
-    "versions": [
-      {
-        "tag": "0.16.0",
-        "hash": "3b38428e131588fb48aed6f959ed79efe4a16859",
-        "time": 1770311133
-      }
-    ],
-    "commit": {
-      "hash": "3b38428e131588fb48aed6f959ed79efe4a16859",
-      "time": 1770311133
-    },
     "status": "Unreachable"
   }
 }

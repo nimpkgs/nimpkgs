@@ -9,40 +9,6 @@
     "caesar"
   ],
   "meta": {
-    "nimble": {
-      "version": "0.1.0",
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 2.2.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "2.2.4"
-          }
-        }
-      ],
-      "bin": [
-        "caesar"
-      ],
-      "srcDir": "src"
-    },
-    "hasBin": true,
-    "versions": [
-      {
-        "tag": "0.2.0",
-        "hash": "94814eb1f0a1ef5de8c68d438181743250f8e552",
-        "time": 1768685836
-      },
-      {
-        "tag": "0.1.0",
-        "hash": "e05936fa6cfc99517b0c6d4cf624eb67057b1e8f",
-        "time": 1768516925
-      }
-    ],
-    "commit": {
-      "hash": "ac187939e0b9e02ce3df0b23d360f2f9d73cc0a7",
-      "time": 1768687017
-    },
     "status": "Unreachable"
   }
 }

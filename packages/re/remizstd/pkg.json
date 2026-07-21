@@ -14,32 +14,6 @@
     "compression"
   ],
   "meta": {
-    "nimble": {
-      "version": "0.1.1",
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 1.6.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.6.0"
-          }
-        }
-      ],
-      "bin": [],
-      "srcDir": "src"
-    },
-    "versions": [
-      {
-        "tag": "v0.1.1",
-        "hash": "7aef1672178db78d26c5a872ba025f03b2c8a9c6",
-        "time": 1646880841
-      }
-    ],
-    "commit": {
-      "hash": "7f35f755dab02ca9830b067913bba74512f50925",
-      "time": 1646883288
-    },
     "status": "Unreachable"
   }
 }
