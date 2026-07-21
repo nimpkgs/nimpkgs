@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.7.0",
+      "version": "0.8.0",
       "requires": [
         {
           "name": "nim",
@@ -36,16 +36,21 @@
         }
       ],
       "bin": [
-        "rochesim",
-        "rochecli",
-        "roche",
-        "rochebench",
-        "roched"
+        "kouten",
+        "koutenbench",
+        "koutensim",
+        "koutencli",
+        "koutend"
       ],
       "srcDir": "src"
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.8.0",
+        "hash": "0b95dd6c23303018014c253f15517f3ebf1006ed",
+        "time": 1784533863
+      },
       {
         "tag": "v0.7.0",
         "hash": "8d382d00d29f0a7abfb4b061766ad358aa3d2144",
@@ -163,8 +168,8 @@
       }
     ],
     "commit": {
-      "hash": "8d382d00d29f0a7abfb4b061766ad358aa3d2144",
-      "time": 1784402620
+      "hash": "0b95dd6c23303018014c253f15517f3ebf1006ed",
+      "time": 1784533863
     }
   }
 }
