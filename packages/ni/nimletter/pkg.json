@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "requires": [
         {
           "name": "nim",
@@ -96,10 +96,10 @@
         },
         {
           "name": "https://github.com/ThomasTJdev/nim_awsSES_SNS",
-          "str": ">= 0.0.1",
+          "str": ">= 0.1.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.0.1"
+            "ver": "0.1.2"
           }
         },
         {
@@ -118,6 +118,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v1.0.3",
+        "hash": "b6431ca188a2e6abf5526b4694d1e8fe72c24ba9",
+        "time": 1784781286
+      },
       {
         "tag": "v1.0.2",
         "hash": "03b52cb0dea7f9e6c5aa023f409d733f23a42200",
@@ -440,8 +445,8 @@
       }
     ],
     "commit": {
-      "hash": "03b52cb0dea7f9e6c5aa023f409d733f23a42200",
-      "time": 1784208268
+      "hash": "b6431ca188a2e6abf5526b4694d1e8fe72c24ba9",
+      "time": 1784781286
     }
   }
 }

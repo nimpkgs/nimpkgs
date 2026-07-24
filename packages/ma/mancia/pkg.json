@@ -1,0 +1,57 @@
+{
+  "name": "mancia",
+  "url": "https://github.com/heuer/mancia",
+  "method": "git",
+  "description": "scdoc to man page and reStructuredText converter",
+  "license": "MIT",
+  "web": "https://mancia.readthedocs.io/",
+  "tags": [
+    "scdoc",
+    "roff",
+    "rst",
+    "man page",
+    "manpage",
+    "restructuredtext"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "mancia"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "d17a775ec50a8faf10d4345923579c43fa44c799",
+        "time": 1784814702
+      },
+      {
+        "tag": "python-0.1.1",
+        "hash": "b5416f7d86e97447f91d566391f9ed090f66322b",
+        "time": 1773405836
+      },
+      {
+        "tag": "python-0.1.0",
+        "hash": "6ead886d56f5b35d74db1262f6300eff2025fcab",
+        "time": 1773401672
+      }
+    ],
+    "commit": {
+      "hash": "d17a775ec50a8faf10d4345923579c43fa44c799",
+      "time": 1784814702
+    }
+  }
+}
