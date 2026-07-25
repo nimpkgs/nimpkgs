@@ -96,6 +96,14 @@
             "kind": "verEqLater",
             "ver": "0.1.0"
           }
+        },
+        {
+          "name": "chopchop",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [
@@ -105,8 +113,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "d774550cd4aed90288bb2ac64b79e16d5297a0e4",
-      "time": 1784464738
+      "hash": "1258b21d78fdb558405583cfd72f0dd46f6a1b7f",
+      "time": 1784896069
     }
   }
 }
