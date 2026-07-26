@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "requires": [
         {
           "name": "nim",
@@ -27,7 +27,23 @@
           }
         },
         {
+          "name": "libffi",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "https://github.com/nimpylib/intobject",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pysimperr",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -91,6 +107,38 @@
           }
         },
         {
+          "name": "https://github.com/nimpylib/py_locale_utf8_encoding",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pystrbytes_decl",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pyio_abc",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pytime_utils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "https://github.com/nimpylib/float_utils",
           "str": "any version",
           "ver": {
@@ -121,6 +169,30 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "https://github.com/nimpylib/intflags",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/posixos",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/nimpylib/pymath",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [
@@ -131,9 +203,14 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "v0.2.1",
+        "hash": "aa366ca45bf45caa8a00fe76bfa85b9dd1e3efca",
+        "time": 1784981097
+      },
+      {
         "tag": "v0.2.0",
-        "hash": "0b36e0c0ee6eac02fd2b84ce5c9eb06e4514de6d",
-        "time": 1776156533
+        "hash": "dbdb6c65cd2c53db4dce16a216b182ccf977d4a4",
+        "time": 1776156631
       },
       {
         "tag": "v0.1.2",
@@ -152,8 +229,8 @@
       }
     ],
     "commit": {
-      "hash": "a2cca3a85bef16eefef314c40c5d84503b26b663",
-      "time": 1784946993
+      "hash": "29b2b41262d8a90da009b58da7c6df2957c0e03d",
+      "time": 1785014165
     }
   }
 }
