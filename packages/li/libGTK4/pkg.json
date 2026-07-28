@@ -1,0 +1,43 @@
+{
+  "name": "libGTK4",
+  "url": "https://github.com/Balans097/libGTK4",
+  "method": "git",
+  "description": "A full-featured wrapper for the GTK4 library in the Nim programming language",
+  "license": "MIT",
+  "web": "https://github.com/Balans097/libGTK4",
+  "tags": [
+    "gtk",
+    "gtk4",
+    "gui",
+    "wrapper",
+    "ffi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v1.3",
+        "hash": "f836197cd4b7cabb8663a469530621c321270096",
+        "time": 1785010757
+      }
+    ],
+    "commit": {
+      "hash": "32a3400a8add96c22b9176139bc9ef5fe1e467b0",
+      "time": 1785147000
+    }
+  }
+}

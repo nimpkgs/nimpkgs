@@ -25,7 +25,7 @@
           }
         },
         {
-          "name": "https://git.sr.ht/~bptato/chame",
+          "name": "chame",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -37,8 +37,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "66989da1fd8be158802d7d1ba7825f058f7b0664",
-      "time": 1748834784
+      "hash": "b1f7de72b1250ea6ce77e6fac05c0f72e54cdaf0",
+      "time": 1785185760
     }
   }
 }
