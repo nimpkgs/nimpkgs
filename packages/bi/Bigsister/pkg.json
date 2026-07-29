@@ -1,0 +1,49 @@
+{
+  "name": "Bigsister",
+  "url": "https://codeberg.org/olliNiinivaara/Bigsister",
+  "method": "git",
+  "description": "Multithreading-safe single-file in-process observability solution; logging, metrics and incident reporting",
+  "license": "MIT",
+  "web": "https://codeberg.org/olliNiinivaara/Bigsister",
+  "tags": [
+    "observability",
+    "monitoring",
+    "logging",
+    "metrics",
+    "incident reporting",
+    "alerting"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "9a500aa5f4e2be4d3d017c0660ab83fa92384a3e",
+        "time": 1784915943
+      },
+      {
+        "tag": "v0.7",
+        "hash": "8d43d8e4af413f024ee0be33626a62895e46ceac",
+        "time": 1771769467
+      }
+    ],
+    "commit": {
+      "hash": "9a500aa5f4e2be4d3d017c0660ab83fa92384a3e",
+      "time": 1784915943
+    }
+  }
+}
