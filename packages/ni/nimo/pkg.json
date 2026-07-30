@@ -1,0 +1,56 @@
+{
+  "name": "nimo",
+  "url": "https://github.com/didvc/nimo",
+  "method": "git",
+  "description": "nano-inspired terminal text editor written in pure Nim.",
+  "license": "MIT",
+  "web": "https://github.com/didvc/nimo",
+  "tags": [
+    "cli",
+    "code-editor",
+    "cross-platform",
+    "editor",
+    "file-explorer",
+    "nano",
+    "nim",
+    "terminal",
+    "text-editor",
+    "tui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimo"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "819c70c52b6e9e17fb2619a4e8817f8da33b2ed9",
+        "time": 1785260844
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "3950eab5b55a3c9498e57c87fb892efc2d07c49a",
+        "time": 1784626242
+      }
+    ],
+    "commit": {
+      "hash": "819c70c52b6e9e17fb2619a4e8817f8da33b2ed9",
+      "time": 1785260844
+    }
+  }
+}

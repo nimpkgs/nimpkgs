@@ -18,7 +18,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.33.0",
+      "version": "0.35.0",
       "requires": [
         {
           "name": "nim",
@@ -70,10 +70,10 @@
         },
         {
           "name": "sdfy",
-          "str": ">= 0.8.1",
+          "str": ">= 0.8.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.8.1"
+            "ver": "0.8.2"
           }
         },
         {
@@ -138,9 +138,14 @@
     },
     "versions": [
       {
-        "tag": "v0.33.0",
-        "hash": "ad784d79d47bd338ad328c8981a25fc2a03f080e",
-        "time": 1785078041
+        "tag": "v0.35.0",
+        "hash": "af87a0e5bbea0dae0bd2e02e5ba0c7082c5788f6",
+        "time": 1785375434
+      },
+      {
+        "tag": "v0.34.0",
+        "hash": "02f7daf5294fbbeb17ae1cf6b7a419b5a1e5da18",
+        "time": 1785374475
       },
       {
         "tag": "v0.32.0",
@@ -284,8 +289,8 @@
       }
     ],
     "commit": {
-      "hash": "71e8a133149f450fe3be63993affaaf4342e4c58",
-      "time": 1785286305
+      "hash": "af87a0e5bbea0dae0bd2e02e5ba0c7082c5788f6",
+      "time": 1785375434
     }
   }
 }

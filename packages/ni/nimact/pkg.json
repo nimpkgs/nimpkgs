@@ -1,0 +1,73 @@
+{
+  "name": "nimact",
+  "url": "https://github.com/LunaYoineko/nimact",
+  "method": "git",
+  "description": "A modern, async, component-based TUI framework for Nim",
+  "license": "MIT",
+  "web": "https://github.com/LunaYoineko/nimact",
+  "tags": [
+    "tui",
+    "framework",
+    "library",
+    "modern",
+    "react"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.2.0",
+        "hash": "a92f803d6edfe74a293566909d68252fe6f0ce87",
+        "time": 1785369342
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "8f1c1dd257e6aec62bf865ec05a6b163595de925",
+        "time": 1785299684
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "38087ab66d68bd91c5d0789843f4c5a91840857c",
+        "time": 1784913212
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "05b92b05ba67f6de19088c917bff035a156dee84",
+        "time": 1784880019
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "293e4f777499b9d221fd00b07cb6b4acefb40806",
+        "time": 1784873203
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "d410907c17eaf03720b76ec7f3f9e83e4ddd2d10",
+        "time": 1784869014
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "48681acd1bebdae8b40c5e492635e15be0e7b94c",
+        "time": 1784817534
+      }
+    ],
+    "commit": {
+      "hash": "d0fa60482d5525a21f01b0fad5d7567131d02268",
+      "time": 1785370259
+    }
+  }
+}
