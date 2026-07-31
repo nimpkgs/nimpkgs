@@ -1,0 +1,41 @@
+{
+  "name": "nimanim",
+  "url": "https://github.com/himanshm/nimanim",
+  "method": "git",
+  "description": "A port of ManimCE in Nim",
+  "license": "MIT",
+  "web": "https://github.com/himanshm/nimanim",
+  "tags": [
+    "manim",
+    "video"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "cairo",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "355ba37d0e8a1c114b829c01134cfb7b605a2757",
+      "time": 1785396551
+    }
+  }
+}

@@ -1,13 +1,15 @@
 {
-  "name": "usu",
-  "url": "https://github.com/usu-dev/usu-nim",
+  "name": "nimblp",
+  "url": "https://github.com/makoponi/nimblp",
   "method": "git",
-  "description": "usu stores usu",
+  "description": "Bloomberg Data API client for Nim inspired by xbbg",
   "license": "MIT",
+  "web": "https://github.com/makoponi/nimblp",
   "tags": [
-    "config",
-    "serialization",
-    "parser"
+    "library",
+    "finance",
+    "dataprovider",
+    "Bloomberg"
   ],
   "meta": {
     "nimble": {
@@ -28,13 +30,13 @@
     "versions": [
       {
         "tag": "v0.1.0",
-        "hash": "27d1f89790239bd056cb7669db6b5bf3bf5e2a6e",
-        "time": 1772044621
+        "hash": "053ebfd684a9aa25ffd22a4874a708b73f454f11",
+        "time": 1785411374
       }
     ],
     "commit": {
-      "hash": "4f8c56addc913240d4a4b432184f27e967ac5c99",
-      "time": 1785432997
+      "hash": "243789a57f40b30019bc936febcefb8dedf463d1",
+      "time": 1785413783
     }
   }
 }

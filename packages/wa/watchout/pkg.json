@@ -17,30 +17,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.1",
+      "version": "0.2.2",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 2.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
-          }
-        },
-        {
-          "name": "httpx",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "websocketx",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "2.0.0"
           }
         }
       ],
@@ -48,6 +32,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.2",
+        "hash": "f5dbed379e50dabfde6b8e37c3308965c3b1fa56",
+        "time": 1758359852
+      },
       {
         "tag": "0.2.1",
         "hash": "fef0a2adda4d63e9266549a28b09171841a7bfaf",
@@ -60,8 +49,8 @@
       }
     ],
     "commit": {
-      "hash": "e2679ff126450019e15d985b92a479baddb180dc",
-      "time": 1770352015
+      "hash": "d6d500661b81b34b92ffae7d689d5471b5b19f6d",
+      "time": 1785448193
     }
   }
 }

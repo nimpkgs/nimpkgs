@@ -1,0 +1,45 @@
+{
+  "name": "steady",
+  "url": "https://github.com/garrettkinman/Steady",
+  "method": "git",
+  "description": "An ahead-of-time TinyML inference compiler and runtime in pure Nim, for microcontrollers.",
+  "license": "MIT",
+  "web": "https://github.com/garrettkinman/Steady",
+  "tags": [
+    "neural",
+    "tensor",
+    "matrix",
+    "embedded",
+    "ml",
+    "ai",
+    "steady",
+    "static",
+    "mcu",
+    "microcontroller",
+    "tinyml"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "steadyc"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "b95b7170095ef0b15f266a4bc0e917f1f61909b9",
+      "time": 1785340393
+    }
+  }
+}
