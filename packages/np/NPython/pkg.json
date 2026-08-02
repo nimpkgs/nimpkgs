@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.1",
+      "version": "0.2.2",
       "requires": [
         {
           "name": "nim",
@@ -27,7 +27,7 @@
           }
         },
         {
-          "name": "libffi",
+          "name": "https://github.com/nimpylib/libffi",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -203,6 +203,11 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "v0.2.2",
+        "hash": "372ccaacd08aa775f1bd3a92ca8f5d805f6c4df3",
+        "time": 1785608505
+      },
+      {
         "tag": "v0.2.1",
         "hash": "aa366ca45bf45caa8a00fe76bfa85b9dd1e3efca",
         "time": 1784981097
@@ -229,8 +234,8 @@
       }
     ],
     "commit": {
-      "hash": "17a398ea9a529061cf919d694c237fb08cfabab6",
-      "time": 1785525793
+      "hash": "81f8c8151267c59b81dee00c4e0abadfbcf40ca1",
+      "time": 1785613509
     }
   }
 }
