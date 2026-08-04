@@ -1,0 +1,106 @@
+{
+  "name": "nimino_wsl",
+  "url": "https://github.com/asopitech-labs/nimino?subdir=packages/wsl",
+  "method": "git",
+  "description": "Authenticated WSL client / Windows host transport for Nimino: Nim application logic in WSL, GUI ownership in a WebView2 host process",
+  "license": "MIT",
+  "web": "https://github.com/asopitech-labs/nimino",
+  "tags": [
+    "wsl",
+    "webview",
+    "gui",
+    "windows",
+    "ipc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "nimino_native",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v0.2.2",
+        "hash": "276ea6c376cc54bd440d393da0ba5870978c2c1a",
+        "time": 1785746966
+      },
+      {
+        "tag": "v0.2.1",
+        "hash": "2a739d1455cb6802f5dd438cca0de3926608b28f",
+        "time": 1785745630
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "f9bf1fd8e40e065d786f902ddd608a40c89632a1",
+        "time": 1785490483
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "eb84dff431ccef67b890691b31964799bd845ae1",
+        "time": 1785481345
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "13975aa199696ff55559ad37891557b941197677",
+        "time": 1785478776
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "4d8ab3c81cbd952ad53696dacf6de634cdfa1e76",
+        "time": 1785477468
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "6d9f2c93cefff9d24f7f17a3d0f3ff9903e2338a",
+        "time": 1785476192
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "dd2f8796d302de30da1ab31112b037b0d92f7b03",
+        "time": 1785475654
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "d34f6de67241295a86439eef29d839db8cc0033f",
+        "time": 1785465941
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "bcd8eefe3977c754ac896f2fd4f0bd9e85dd4386",
+        "time": 1785463506
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "af7cc4a3eb51552bac0f39e6c1bc71fcf45b9be6",
+        "time": 1784702513
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "a0346122e59ab5c845bb1c37fae39bd658b4c519",
+        "time": 1784694759
+      }
+    ],
+    "commit": {
+      "hash": "9933c66c8e391a0ce087f62c6b1c8b30080569ae",
+      "time": 1785750894
+    }
+  }
+}

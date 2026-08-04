@@ -1,0 +1,74 @@
+{
+  "name": "joubako",
+  "url": "https://github.com/puffball1567/joubako",
+  "method": "git",
+  "description": "Async HTTP, WebSocket, and IPC client for Nim with native await, typed errors, retries, streaming, and TLS.",
+  "license": "MIT",
+  "web": "https://github.com/puffball1567/joubako",
+  "tags": [
+    "http",
+    "async",
+    "networking",
+    "websocket",
+    "ipc",
+    "client",
+    "transport"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "flowbrigade",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "nifkit",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "zlib",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "30ab92a9a46cfaaac726c66c6caf9aeaed1fcfce",
+        "time": 1785770635
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "38166e2df4a6f31c9c8f2c6c038994b8695761ca",
+        "time": 1785668240
+      }
+    ],
+    "commit": {
+      "hash": "30ab92a9a46cfaaac726c66c6caf9aeaed1fcfce",
+      "time": 1785770635
+    }
+  }
+}

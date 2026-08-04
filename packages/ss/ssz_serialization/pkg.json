@@ -88,6 +88,14 @@
           }
         },
         {
+          "name": "testutils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "hashtree_abi",
           "str": "any version",
           "ver": {
@@ -100,8 +108,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "26b4e1b6086b9240da46d95abd377ba75d2b362a",
-      "time": 1785581465
+      "hash": "15931ce04e945fe8955eb7bb48f2956a3ec2ab5c",
+      "time": 1785768210
     }
   }
 }

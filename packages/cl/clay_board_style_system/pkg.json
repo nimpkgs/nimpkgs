@@ -1,0 +1,102 @@
+{
+  "name": "clay_board_style_system",
+  "url": "https://github.com/puffball1567/clay-board-style-system",
+  "method": "git",
+  "description": "A CSS-inspired primitive engine for native GUI toolkits.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/puffball1567/clay-board-style-system",
+  "tags": [
+    "gui",
+    "native-ui",
+    "css-like",
+    "style-system",
+    "sdl3",
+    "c-abi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "cbss_configure"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.3.1",
+        "hash": "f35a7d08d0faa012124855341bf211e422c2c1f7",
+        "time": 1785811875
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "f6f506ba7083574a7be5746b7805c71bc04d9af8",
+        "time": 1785755375
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "254a0525b4d11242856cc5b5a3a428594bd2870e",
+        "time": 1785570810
+      },
+      {
+        "tag": "v0.1.8",
+        "hash": "10aedee248014a4bbab8549f1271724fc394abb0",
+        "time": 1785484658
+      },
+      {
+        "tag": "v0.1.7",
+        "hash": "a3d825ac85b35cbc28d802beccdf634d9f0c4ffa",
+        "time": 1785376535
+      },
+      {
+        "tag": "v0.1.6",
+        "hash": "36fa3fb5a6fafd766f31852859957a46072c0db7",
+        "time": 1785371584
+      },
+      {
+        "tag": "v0.1.5",
+        "hash": "94a2e24f3738a65d9be7c8eb4e8ad752b38f1f76",
+        "time": 1785345936
+      },
+      {
+        "tag": "v0.1.4",
+        "hash": "4bb7443463beadfad6c09e35afc1de475465bdb9",
+        "time": 1785319317
+      },
+      {
+        "tag": "v0.1.3",
+        "hash": "1ede680a9b62e017439187d661ca31a46062ae7d",
+        "time": 1785298285
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "4c808496e89746f0b855fdbdd9a72b5bbd476373",
+        "time": 1785284772
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "11c632f10f06f9e92ca7450e238b89fe8e2413a8",
+        "time": 1785282852
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "39da786de344c72040fd7ad577ad5add7062e1b1",
+        "time": 1785250249
+      }
+    ],
+    "commit": {
+      "hash": "f35a7d08d0faa012124855341bf211e422c2c1f7",
+      "time": 1785811875
+    }
+  }
+}

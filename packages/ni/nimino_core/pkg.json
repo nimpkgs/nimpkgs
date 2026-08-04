@@ -1,0 +1,21 @@
+{
+  "name": "nimino_core",
+  "url": "https://github.com/asopitech-labs/nimino?subdir=packages/core",
+  "method": "git",
+  "description": "Nimino application framework: app lifecycle, typed RPC, profiles, downloads, navigation and permission policy over native WebViews",
+  "license": "MIT",
+  "web": "https://github.com/asopitech-labs/nimino",
+  "tags": [
+    "desktop",
+    "webview",
+    "gui",
+    "framework",
+    "rpc"
+  ],
+  "meta": {
+    "commit": {
+      "hash": "9933c66c8e391a0ce087f62c6b1c8b30080569ae",
+      "time": 0
+    }
+  }
+}
