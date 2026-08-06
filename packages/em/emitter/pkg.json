@@ -16,14 +16,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.10"
           }
         },
         {
@@ -41,22 +41,26 @@
             "kind": "verEqLater",
             "ver": "0.1.4"
           }
-        },
-        {
-          "name": "libevent",
-          "str": ">= 0.1.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.2"
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "916e97ebe20862d1aa7d85b55b21f79ae4aca7dc",
+        "time": 1785963482
+      },
+      {
+        "tag": "0.2.0",
+        "hash": "6dfb8ad59f6867da581725d9f6bd1d28d125ab1e",
+        "time": 1784312356
+      }
+    ],
     "commit": {
-      "hash": "6dfb8ad59f6867da581725d9f6bd1d28d125ab1e",
-      "time": 1784312356
+      "hash": "916e97ebe20862d1aa7d85b55b21f79ae4aca7dc",
+      "time": 1785963482
     }
   }
 }

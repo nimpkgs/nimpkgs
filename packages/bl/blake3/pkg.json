@@ -1,0 +1,41 @@
+{
+  "name": "blake3",
+  "url": "https://github.com/nim-foundry/blake3",
+  "method": "git",
+  "description": "Pure Nim BLAKE3 cryptographic hash function",
+  "license": "MIT",
+  "web": "https://github.com/nim-foundry/blake3",
+  "tags": [
+    "hash",
+    "blake3",
+    "cryptography"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "d0d97cbdda8836f600e84e1e345851ac50224c19",
+        "time": 1785826283
+      }
+    ],
+    "commit": {
+      "hash": "27832d9e77d586a23e071d56c07c8cef5767c930",
+      "time": 1785826429
+    }
+  }
+}

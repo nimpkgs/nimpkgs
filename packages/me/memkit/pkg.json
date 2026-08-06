@@ -1,0 +1,32 @@
+{
+  "name": "memkit",
+  "url": "https://github.com/nimamasl114514/memkit",
+  "method": "git",
+  "description": "A simple and easy-to-use memory manipulation library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimamasl114514/memkit",
+  "tags": [
+    "memory"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "3.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "1d1c8f7516f9fd7e6451f55775415b9f8db27ccd",
+      "time": 1785899897
+    }
+  }
+}

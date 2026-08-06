@@ -24,9 +24,9 @@
         },
         {
           "name": "chronos",
-          "str": ">= 4.0.4 & < 5.0.0",
+          "str": "#b71392a13df707c0f02162b07caaddac2dd0103c",
           "ver": {
-            "kind": "verIntersect",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -51,8 +51,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "1bbf43845ea16c16d386f69540179b72f1be0267",
-      "time": 1784211000
+      "hash": "41ade93b2d3d634c23f21445627501f9cecdc733",
+      "time": 1785857126
     }
   }
 }

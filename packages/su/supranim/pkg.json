@@ -17,14 +17,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.2",
+      "version": "0.1.5",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.10"
           }
         },
         {
@@ -41,22 +41,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "0.3.4"
-          }
-        },
-        {
-          "name": "libevent",
-          "str": ">= 0.1.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.1"
-          }
-        },
-        {
-          "name": "powpow",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
           }
         },
         {
@@ -121,6 +105,21 @@
     },
     "versions": [
       {
+        "tag": "0.1.5",
+        "hash": "9f5ba7164e94919d15ccd64bcc9cd297b74cba74",
+        "time": 1785963478
+      },
+      {
+        "tag": "0.1.4",
+        "hash": "8a4806cacf53310f9e20bccfe30956175b8e64a0",
+        "time": 1785958878
+      },
+      {
+        "tag": "0.1.3",
+        "hash": "07b73425c2f7595f38c87e558ebacc86ff6c1de7",
+        "time": 1785222960
+      },
+      {
         "tag": "0.1.2",
         "hash": "fc104760ea8198713f5051343e2d0dc891f01f8a",
         "time": 1782993373
@@ -137,8 +136,8 @@
       }
     ],
     "commit": {
-      "hash": "26c744bfa2b125da5fe32721e34ea6f596af7d38",
-      "time": 1785222928
+      "hash": "8a4806cacf53310f9e20bccfe30956175b8e64a0",
+      "time": 1785958878
     }
   }
 }

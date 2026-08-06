@@ -29,26 +29,26 @@
         },
         {
           "name": "supranim",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.5"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
           }
         },
         {
           "name": "tim",
-          "str": ">= 0.2.1",
+          "str": ">= 0.2.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.1"
-          }
-        },
-        {
-          "name": "limiter",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.6"
           }
         },
         {
@@ -100,6 +100,14 @@
           }
         },
         {
+          "name": "emitter",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        },
+        {
           "name": "supra",
           "str": ">= 0.1.0",
           "ver": {
@@ -115,8 +123,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "1cfe4b0218c2157b51bdaeac2e8f3d87ffb5761f",
-      "time": 1785587855
+      "hash": "8df3d57ecc3dec17142bc0cc289768a70a51e5d7",
+      "time": 1786027528
     }
   }
 }

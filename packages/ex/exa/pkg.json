@@ -1,16 +1,16 @@
 {
-  "name": "htmly",
-  "url": "https://codeberg.org/brulee/htmly",
+  "name": "exa",
+  "url": "https://codeberg.org/brulee/exa",
   "method": "git",
-  "description": "Dead-simple, easy-to-use HTML generation macros.",
+  "description": "Ergonomic database connectors for Nim.",
   "license": "BSD-3-Clause",
-  "web": "https://docs.penguinite.dev/htmly/",
+  "web": "https://docs.penguinite.dev/exa/",
   "tags": [
-    "library",
-    "html",
-    "htmlgen",
-    "macros",
-    "magic"
+    "sqlite",
+    "sql",
+    "db",
+    "database",
+    "library"
   ],
   "meta": {
     "nimble": {
@@ -31,13 +31,13 @@
     "versions": [
       {
         "tag": "v0.1.0",
-        "hash": "a428653bb9023cb4106d1eaa363299d9c6f311d2",
-        "time": 1783936937
+        "hash": "d751cbfb38d65c9599365563da3bcccaba2715b7",
+        "time": 1785937422
       }
     ],
     "commit": {
-      "hash": "e5208092ca5d3664fc14a97e56674b6028e3ca3e",
-      "time": 1785942641
+      "hash": "9625b82c81db0a485a593767d4bb26813b4594db",
+      "time": 1785942662
     }
   }
 }
