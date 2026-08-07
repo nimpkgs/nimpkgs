@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.6",
+      "version": "0.3.7",
       "requires": [
         {
           "name": "nim",
@@ -72,12 +72,25 @@
             "kind": "verEqLater",
             "ver": "1.0.0"
           }
+        },
+        {
+          "name": "chachachat",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.7",
+        "hash": "f1c93fca86d6a1bb3ad63238a779d08edb79a690",
+        "time": 1786029181
+      },
       {
         "tag": "0.3.6",
         "hash": "33927a2790be1dc189a01ea7de390d8dcf3648e3",
@@ -135,8 +148,8 @@
       }
     ],
     "commit": {
-      "hash": "33927a2790be1dc189a01ea7de390d8dcf3648e3",
-      "time": 1784198581
+      "hash": "f1c93fca86d6a1bb3ad63238a779d08edb79a690",
+      "time": 1786029181
     }
   }
 }

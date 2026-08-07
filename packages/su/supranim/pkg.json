@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.5",
+      "version": "0.1.7",
       "requires": [
         {
           "name": "nim",
@@ -69,10 +69,10 @@
         },
         {
           "name": "ozark",
-          "str": ">= 0.1.4",
+          "str": ">= 0.1.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.4"
+            "ver": "0.1.5"
           }
         },
         {
@@ -105,6 +105,16 @@
     },
     "versions": [
       {
+        "tag": "0.1.7",
+        "hash": "a9142480327fa6047c67bfe8efaf378420ff0913",
+        "time": 1786058870
+      },
+      {
+        "tag": "0.1.6",
+        "hash": "fe292dcca174f0285bcf0dfa0af8a8c7700933e2",
+        "time": 1786043356
+      },
+      {
         "tag": "0.1.5",
         "hash": "9f5ba7164e94919d15ccd64bcc9cd297b74cba74",
         "time": 1785963478
@@ -136,8 +146,8 @@
       }
     ],
     "commit": {
-      "hash": "8a4806cacf53310f9e20bccfe30956175b8e64a0",
-      "time": 1785958878
+      "hash": "a9142480327fa6047c67bfe8efaf378420ff0913",
+      "time": 1786058870
     }
   }
 }

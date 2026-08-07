@@ -18,10 +18,10 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.2.0",
+          "str": ">= 2.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.2.0"
+            "ver": "2.2.10"
           }
         },
         {
@@ -39,6 +39,14 @@
             "kind": "verEqLater",
             "ver": "0.1.0"
           }
+        },
+        {
+          "name": "chachachat",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [
@@ -48,6 +56,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "36ad666ddb6a45b757e27b70baf79642243dd619",
+        "time": 1786036604
+      },
       {
         "tag": "0.1.1",
         "hash": "5bcc69dfe069d6436acaa3b43b91f10f9fa87920",
@@ -60,8 +73,8 @@
       }
     ],
     "commit": {
-      "hash": "4194bbf069e428b53afb20893a87efc46fe51e0a",
-      "time": 1786014169
+      "hash": "36ad666ddb6a45b757e27b70baf79642243dd619",
+      "time": 1786036604
     }
   }
 }

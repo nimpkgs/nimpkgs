@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.0",
+      "version": "0.4.1",
       "requires": [
         {
           "name": "nim",
@@ -27,7 +27,7 @@
         },
         {
           "name": "chronos",
-          "str": ">= 4.2.0 & < 4.4.0",
+          "str": ">= 4.2.0 & < 4.6.0",
           "ver": {
             "kind": "verIntersect",
             "ver": ""
@@ -95,6 +95,11 @@
     },
     "versions": [
       {
+        "tag": "v0.4.1",
+        "hash": "0432dc445c500b20963ef4b76e585c1a3943c254",
+        "time": 1786041913
+      },
+      {
         "tag": "v0.4.0",
         "hash": "387a8eb7e961e8fdd3b1a717d36bc53b55e4dc5d",
         "time": 1778696189
@@ -116,8 +121,8 @@
       }
     ],
     "commit": {
-      "hash": "fb8ba71fefdfb3e8466f65a37e10964c85a000cc",
-      "time": 1780484231
+      "hash": "0432dc445c500b20963ef4b76e585c1a3943c254",
+      "time": 1786041913
     }
   }
 }
