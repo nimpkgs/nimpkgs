@@ -1,0 +1,46 @@
+{
+  "name": "chachachat",
+  "url": "https://github.com/openpeeps/chachachat",
+  "method": "git",
+  "description": "Embeddable LLM chat with RAG capabilities",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/chachachat",
+  "tags": [
+    "chat",
+    "chatbot",
+    "rag",
+    "llm",
+    "embeddable",
+    "ai",
+    "openai"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.8"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "04b07d3ddc28d4ad8eea93e1c3c444da4ed8cb38",
+      "time": 1786089481
+    }
+  }
+}

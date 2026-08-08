@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.7",
+      "version": "0.3.9",
       "requires": [
         {
           "name": "nim",
@@ -64,22 +64,6 @@
             "kind": "verEqLater",
             "ver": "0.1.10"
           }
-        },
-        {
-          "name": "floof",
-          "str": ">= 1.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.0.0"
-          }
-        },
-        {
-          "name": "chachachat",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
         }
       ],
       "bin": [],
@@ -87,9 +71,14 @@
     },
     "versions": [
       {
-        "tag": "0.3.7",
-        "hash": "f1c93fca86d6a1bb3ad63238a779d08edb79a690",
-        "time": 1786029181
+        "tag": "0.3.9",
+        "hash": "1fa12a528f3569497f287971673724de7f182b90",
+        "time": 1786092395
+      },
+      {
+        "tag": "0.3.8",
+        "hash": "17ef01ba00bad4c5466f37acc8a3a366c1b02e45",
+        "time": 1786090986
       },
       {
         "tag": "0.3.6",
@@ -148,8 +137,8 @@
       }
     ],
     "commit": {
-      "hash": "f1c93fca86d6a1bb3ad63238a779d08edb79a690",
-      "time": 1786029181
+      "hash": "5332540a234562291a401ada337962778685a71e",
+      "time": 1786135252
     }
   }
 }

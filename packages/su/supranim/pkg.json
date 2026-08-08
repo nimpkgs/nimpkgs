@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.7",
+      "version": "0.1.8",
       "requires": [
         {
           "name": "nim",
@@ -37,10 +37,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.3.4",
+          "str": ">= 0.3.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.4"
+            "ver": "0.3.8"
           }
         },
         {
@@ -53,18 +53,18 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.1.2",
+          "str": ">= 0.1.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.2"
+            "ver": "0.1.8"
           }
         },
         {
           "name": "emitter",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.1"
           }
         },
         {
@@ -77,18 +77,18 @@
         },
         {
           "name": "threading",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.1"
           }
         },
         {
           "name": "mimedb",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.1"
           }
         },
         {
@@ -104,6 +104,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.8",
+        "hash": "ce9b902a542f9d694069f459169789ebc84adfe2",
+        "time": 1786091790
+      },
       {
         "tag": "0.1.7",
         "hash": "a9142480327fa6047c67bfe8efaf378420ff0913",
@@ -146,8 +151,8 @@
       }
     ],
     "commit": {
-      "hash": "a9142480327fa6047c67bfe8efaf378420ff0913",
-      "time": 1786058870
+      "hash": "306a02cff87abe22bc1bc986779a067199177ef0",
+      "time": 1786096010
     }
   }
 }

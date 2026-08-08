@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
@@ -24,6 +24,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "threading",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
@@ -40,14 +48,19 @@
     },
     "versions": [
       {
+        "tag": "0.1.1",
+        "hash": "6b5e5340526d12457d85bf54ca41107099b06ee0",
+        "time": 1784399343
+      },
+      {
         "tag": "0.1.0",
         "hash": "fcbf8e2b991c58e6453ba44b9c79b0b49a2eccd2",
         "time": 1782988879
       }
     ],
     "commit": {
-      "hash": "6b5e5340526d12457d85bf54ca41107099b06ee0",
-      "time": 1784399343
+      "hash": "027402417f5590b937fb5d6489555a3a8d9c497e",
+      "time": 1786088208
     }
   }
 }

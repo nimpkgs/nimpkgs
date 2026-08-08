@@ -1,0 +1,60 @@
+{
+  "name": "sandwall",
+  "url": "https://github.com/capocasa/sandwall",
+  "method": "git",
+  "description": "A process-level filesystem sandbox backed by OS-native primitives (Landlock, Seatbelt, Windows ACLs)",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/sandwall",
+  "tags": [
+    "landlock",
+    "seatbelt",
+    "sandbox",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.4",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "sandwall"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.2.4",
+        "hash": "19eecd5cf240c3a842522016bc97ef98bbca99c9",
+        "time": 1786151549
+      },
+      {
+        "tag": "0.2.3",
+        "hash": "952fbf23a1b66e1b9677d7cc9009db884bc2836d",
+        "time": 1785453065
+      },
+      {
+        "tag": "0.2.2",
+        "hash": "caf83ca89a09cafdcc44007570af69521487c156",
+        "time": 1785351311
+      },
+      {
+        "tag": "0.2.1",
+        "hash": "a234023459e6a1e1ed5604bc31f52acf0a4b7cfb",
+        "time": 1785311233
+      }
+    ],
+    "commit": {
+      "hash": "19eecd5cf240c3a842522016bc97ef98bbca99c9",
+      "time": 1786151549
+    }
+  }
+}

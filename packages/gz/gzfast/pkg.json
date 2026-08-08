@@ -1,0 +1,51 @@
+{
+  "name": "gzfast",
+  "url": "https://github.com/telatin/gzfast",
+  "method": "git",
+  "description": "Fast, verified, multithreaded gzip decompression with a bundled zlib (no system libraries required)",
+  "license": "MIT",
+  "web": "https://telatin.github.io/gzfast/",
+  "tags": [
+    "gzip",
+    "decompression",
+    "zlib",
+    "multithreaded",
+    "compression"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "gzfast"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "c761af80d90daa8701ee1b4802daf8218abba76d",
+        "time": 1786105432
+      },
+      {
+        "tag": "v0.1.0-alpha",
+        "hash": "b29346a278fa39aeee692b435f4fec512e1f5b93",
+        "time": 1786087024
+      }
+    ],
+    "commit": {
+      "hash": "bf8c31af03f31df7e4a7d108e6d79548f632181f",
+      "time": 1786123259
+    }
+  }
+}

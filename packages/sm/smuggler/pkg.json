@@ -1,0 +1,50 @@
+{
+  "name": "smuggler",
+  "url": "https://github.com/openpeeps/smuggler",
+  "method": "git",
+  "description": "T-Reqs Grammar-based HTTP/1.x fuzzer for request-smuggling detection",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/smuggler",
+  "tags": [
+    "smuggling",
+    "http",
+    "request",
+    "hrs",
+    "exploit",
+    "treqs",
+    "fuzzer",
+    "http-headers",
+    "headers"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "smuggler"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "1c7f0be51845d2213b9886abb62e38461408aeaf",
+        "time": 1785919706
+      }
+    ],
+    "commit": {
+      "hash": "5faa81a76a55c9956f1ddd997573c169a60d3d72",
+      "time": 1786110597
+    }
+  }
+}
