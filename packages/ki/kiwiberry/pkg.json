@@ -1,0 +1,35 @@
+{
+  "name": "kiwiberry",
+  "url": "https://github.com/elcritch/kiwiberry",
+  "method": "git",
+  "description": "Nim port of Kiwi/C++",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/elcritch/kiwiberry",
+  "tags": [
+    "gui",
+    "layout",
+    "constraint-solver",
+    "cassowary"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "f08f4d77134ec770c7ce0d24a0b952eba8f3f902",
+      "time": 1780967175
+    }
+  }
+}

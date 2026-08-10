@@ -1,0 +1,239 @@
+{
+  "name": "merenda",
+  "url": "https://github.com/elcritch/merenda",
+  "method": "git",
+  "description": "full-featured pure Nim UI toolkit based on Cocoa",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/elcritch/merenda",
+  "tags": [
+    "gui",
+    "ui",
+    "desktop",
+    "cocoa",
+    "gnustep",
+    "openstep",
+    "graphical-user-interface",
+    "themes"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.11.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "msgpack4nim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "siwin",
+          "str": ">= 1.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.0"
+          }
+        },
+        {
+          "name": "figdraw",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "sharedlib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "harfbuzz]",
+          "str": ">= 0.35.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.35.1"
+          }
+        },
+        {
+          "name": "sigils",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "closures",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "siwin]",
+          "str": ">= 0.27.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.27.2"
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/kiwiberry",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "cborious",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.11.0",
+        "hash": "2582bdae1a087e28d44a954ba839888558919001",
+        "time": 1786187445
+      },
+      {
+        "tag": "v0.10.0",
+        "hash": "2ac29f52d3404677257726808b69c149ce5dcc14",
+        "time": 1785735045
+      },
+      {
+        "tag": "v0.8.2",
+        "hash": "17ff2ec8a9eb36267f7fbb6457c640eecebe7e71",
+        "time": 1785018929
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "dd3be86677bec4b11df16d326519397e2ac5b4a9",
+        "time": 1784484678
+      },
+      {
+        "tag": "v0.7.7",
+        "hash": "6450d52c57aa478c4c0f0035d3f0f55ca848575e",
+        "time": 1784249394
+      },
+      {
+        "tag": "v0.7.6",
+        "hash": "9f288c98c77e93e6c6533bd63cf8e1e2bba333bc",
+        "time": 1784240846
+      },
+      {
+        "tag": "v0.7.5",
+        "hash": "3379ad80b86675b80ff9b049bd005628a88ee885",
+        "time": 1784234796
+      },
+      {
+        "tag": "v0.7.4",
+        "hash": "468b82dbe95a66f287b6565a9742abdeb31aa7ae",
+        "time": 1784205518
+      },
+      {
+        "tag": "v0.7.3",
+        "hash": "2f2475216cf233b8851f1cebfb092186c8ac0909",
+        "time": 1784203544
+      },
+      {
+        "tag": "v0.7.2",
+        "hash": "736bc8d67f3ac6a6874dc92d525f121d5f6e8461",
+        "time": 1784199357
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "fd30b4e4b3369365b033283b06a17cc7ae6a5646",
+        "time": 1783600946
+      },
+      {
+        "tag": "v0.6.7",
+        "hash": "3ccd3c08da844132010ae756b53ca09490580508",
+        "time": 1783241430
+      },
+      {
+        "tag": "v0.6.6",
+        "hash": "feb56a56b81ba6aa5694c6b20abd36330464bc43",
+        "time": 1783240478
+      },
+      {
+        "tag": "v0.6.5",
+        "hash": "43f2714e7d21e7d0110a85012b6f7cdeecdf73e2",
+        "time": 1783240144
+      },
+      {
+        "tag": "v0.6.4",
+        "hash": "0c647530cf7e9a463de67c5f494c035c41f65496",
+        "time": 1783202402
+      },
+      {
+        "tag": "v0.6.3",
+        "hash": "40cd24349d6d7f2a9fe8bee6ddb21a4207f736ee",
+        "time": 1783201197
+      },
+      {
+        "tag": "v0.6.2",
+        "hash": "b3bb40bdbb6914a99b9700f704126c3cac560df6",
+        "time": 1783196105
+      },
+      {
+        "tag": "v0.6.1",
+        "hash": "8bdca598b44136c523ad8bd524a5e726b432a4bd",
+        "time": 1783195548
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "716a3a5f498d6b06a4e4deb1132aca6ee12864f0",
+        "time": 1783194334
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "4c1ff4d73990614ba16e7da25e5aee7d2a8d4214",
+        "time": 1783175834
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "59a7c1d5c1fe80355a528265cb3e87c73ab5dca3",
+        "time": 1783173266
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "fa66f000a45534628d764f0739851705cc1e4bfc",
+        "time": 1783080926
+      }
+    ],
+    "commit": {
+      "hash": "05fa113813ae9474b7bfa78dedbe69109df6a7b6",
+      "time": 1786280878
+    }
+  }
+}
