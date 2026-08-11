@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.5",
+      "version": "0.1.6",
       "requires": [
         {
           "name": "nim",
@@ -53,20 +53,17 @@
             "kind": "verEqLater",
             "ver": "0.1.9"
           }
-        },
-        {
-          "name": "greskewel",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "8c1da4e86ac717a984e993967f6a1ccd04518252",
+        "time": 1786369296
+      },
       {
         "tag": "0.1.5",
         "hash": "33c49dc67dcc9b7138a225dc452d73b2c0262b1d",
@@ -99,8 +96,8 @@
       }
     ],
     "commit": {
-      "hash": "393c5cddf55102be57f9223d1e4818a44c73fa7d",
-      "time": 1781197743
+      "hash": "8c1da4e86ac717a984e993967f6a1ccd04518252",
+      "time": 1786369296
     }
   }
 }
