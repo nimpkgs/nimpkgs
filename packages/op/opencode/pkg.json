@@ -1,0 +1,47 @@
+{
+  "name": "opencode",
+  "url": "https://github.com/nimbase/opencode-api",
+  "method": "git",
+  "description": "opencode api",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/opencode-api",
+  "tags": [
+    "opencode",
+    "ai",
+    "api",
+    "agent",
+    "client",
+    "sdk",
+    "llm",
+    "nimbase"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e73a182dadab09139643a14bdaf6bb3ab8269de3",
+      "time": 1786460812
+    }
+  }
+}

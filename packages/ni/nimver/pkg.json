@@ -1,0 +1,62 @@
+{
+  "name": "nimver",
+  "url": "https://github.com/vinpogo/nimver",
+  "method": "git",
+  "description": "A package to manage semantic versioning from commit messages",
+  "license": "MIT",
+  "web": "https://github.com/vinpogo/nimver",
+  "tags": [
+    "git",
+    "semver",
+    "versioning",
+    "cli",
+    "conventional-commits",
+    "changelog"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "nimver"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v2.0.0",
+        "hash": "f85e9805d3698ad000d395d69a5076ee47be75bf",
+        "time": 1786535097
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "0b6dbf782031cc2b5082eed2192a40e54797178c",
+        "time": 1786534751
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "a4cd354bcca2bfb07dbb377958673ecb1a6b280e",
+        "time": 1786533951
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "34f4157f42863152238643f5b194951e38e28304",
+        "time": 1786520827
+      }
+    ],
+    "commit": {
+      "hash": "f85e9805d3698ad000d395d69a5076ee47be75bf",
+      "time": 1786535097
+    }
+  }
+}
