@@ -1,0 +1,60 @@
+{
+  "name": "flysystem",
+  "url": "https://github.com/openpeeps/flysystem",
+  "method": "git",
+  "description": "Multi-driver Filesystem. Atomic Writes, Policy Rules, Locks, Multi-disks and more",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/flysystem",
+  "tags": [
+    "filesystem",
+    "files",
+    "fs",
+    "mime",
+    "storage",
+    "local"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "mimedb",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "1efff83a5047e7443ea3ab75e391f4df2957d177",
+        "time": 1786623727
+      }
+    ],
+    "commit": {
+      "hash": "808e5a939f6562b450a42f4c48f1a7ded87978b9",
+      "time": 1786623967
+    }
+  }
+}

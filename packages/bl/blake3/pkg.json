@@ -28,14 +28,19 @@
     },
     "versions": [
       {
+        "tag": "v0.2.0",
+        "hash": "0a1fd56953eb6bf7f3c0261c61d9b8683715e3a2",
+        "time": 1786628106
+      },
+      {
         "tag": "v0.1.0",
-        "hash": "d0d97cbdda8836f600e84e1e345851ac50224c19",
-        "time": 1785826283
+        "hash": "c8c137583af5688e8b3e7e07779a760e2df278aa",
+        "time": 1785826021
       }
     ],
     "commit": {
-      "hash": "27832d9e77d586a23e071d56c07c8cef5767c930",
-      "time": 1785826429
+      "hash": "0a1fd56953eb6bf7f3c0261c61d9b8683715e3a2",
+      "time": 1786628106
     }
   }
 }
