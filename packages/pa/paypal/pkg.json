@@ -1,0 +1,55 @@
+{
+  "name": "paypal",
+  "url": "https://github.com/nimbase/paypal-api",
+  "method": "git",
+  "description": "Auto-generated Nim clients for the PayPal REST APIs",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/paypal-api",
+  "tags": [
+    "openapi",
+    "rest",
+    "api",
+    "client",
+    "pay",
+    "payments",
+    "ecommerce",
+    "subscriptions"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "oauth2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8231c02d8d65fc5ef796ab8dc8626f5344665634",
+      "time": 1786736363
+    }
+  }
+}

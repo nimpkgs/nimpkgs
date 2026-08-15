@@ -14,18 +14,42 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.3",
+      "version": "0.8.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.2.0",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.2.0"
+            "ver": "2.2.4"
           }
         },
         {
           "name": "https://github.com/yglukhov/android",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "jnim",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "regex",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -38,6 +62,16 @@
     },
     "versions": [
       {
+        "tag": "0.8.1",
+        "hash": "5019cff2fc5ce165c55bc31e3c5c6c338bae3213",
+        "time": 1786751862
+      },
+      {
+        "tag": "0.8.0",
+        "hash": "187c57b7f96d99a457b5de381089255304a5a3b5",
+        "time": 1786742695
+      },
+      {
         "tag": "0.4.3",
         "hash": "593e3b629ab881896b2c25fd29e5ff46f5cfd1fb",
         "time": 1596572031
@@ -49,8 +83,8 @@
       }
     ],
     "commit": {
-      "hash": "beec0f363e62886da7a1c6de47ecb3b19d6de75e",
-      "time": 1762812084
+      "hash": "5019cff2fc5ce165c55bc31e3c5c6c338bae3213",
+      "time": 1786751862
     }
   }
 }
