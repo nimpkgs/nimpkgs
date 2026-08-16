@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.6",
+      "version": "0.1.7",
       "requires": [
         {
           "name": "nim",
@@ -43,10 +43,26 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.3.4",
+          "str": ">= 0.4.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.4"
+            "ver": "0.4.2"
+          }
+        },
+        {
+          "name": "malebolgia",
+          "str": ">= 1.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.0"
+          }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         },
         {
@@ -82,6 +98,11 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "0.1.7",
+        "hash": "cfe413da9cc57ff1912fad6d293f8a7f376b310b",
+        "time": 1786830130
+      },
+      {
         "tag": "0.1.6",
         "hash": "cca993be75a5fb4d47edd6477bf7c5f1939e508c",
         "time": 1786380890
@@ -113,8 +134,8 @@
       }
     ],
     "commit": {
-      "hash": "7d6722afe47cb8a5c183362ed26f9a129490c849",
-      "time": 1786735850
+      "hash": "cfe413da9cc57ff1912fad6d293f8a7f376b310b",
+      "time": 1786830130
     }
   }
 }

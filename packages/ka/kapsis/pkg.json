@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.2",
+      "version": "0.4.3",
       "requires": [
         {
           "name": "nim",
@@ -50,14 +50,6 @@
           }
         },
         {
-          "name": "nancy",
-          "str": ">= 0.1.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.1"
-          }
-        },
-        {
           "name": "noise",
           "str": ">= 0.1.10",
           "ver": {
@@ -72,12 +64,25 @@
             "kind": "verEqLater",
             "ver": "0.1.1"
           }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.4.3",
+        "hash": "e8a4073139d453d8b08b386a3a00a3ada051ffbf",
+        "time": 1786831973
+      },
       {
         "tag": "0.4.2",
         "hash": "50ac8c680469cf68b59304543a8341c3abb9e40f",
@@ -160,8 +165,8 @@
       }
     ],
     "commit": {
-      "hash": "39865d2caff28dd3a832f94793899f755d840973",
-      "time": 1786554744
+      "hash": "e8a4073139d453d8b08b386a3a00a3ada051ffbf",
+      "time": 1786831973
     }
   }
 }
