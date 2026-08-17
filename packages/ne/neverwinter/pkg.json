@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.1.2",
+      "version": "2.2.0",
       "requires": [
         {
           "name": "nim",
@@ -56,8 +56,8 @@
         "nwn_key_unpack",
         "nwn_twoda",
         "nwn_erf",
-        "nwn_nwsync_fetch",
         "nwn_erf_tlkify",
+        "nwn_nwsync_fetch",
         "nwn_compressedbuf",
         "nwn_key_pack",
         "nwn_asm",
@@ -75,13 +75,18 @@
         "nwn_script_comp",
         "nwn_key_transparent",
         "nwn_gff",
-        "nwn_net",
-        "nwn_key_shadows"
+        "nwn_key_shadows",
+        "nwn_net"
       ],
       "srcDir": ""
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "2.2.0",
+        "hash": "9e09e7c04ff236e8e3febf45016da7c2f5bbd990",
+        "time": 1786894677
+      },
       {
         "tag": "2.1.2",
         "hash": "07a475d974c9d2a350d9386f60826b1151b3f71a",
@@ -324,8 +329,8 @@
       }
     ],
     "commit": {
-      "hash": "829e9b765852b99614a154ebb301155d39217274",
-      "time": 1786627378
+      "hash": "9e09e7c04ff236e8e3febf45016da7c2f5bbd990",
+      "time": 1786894677
     }
   }
 }

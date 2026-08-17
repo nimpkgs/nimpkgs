@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.8",
+      "version": "0.1.9",
       "requires": [
         {
           "name": "nim",
@@ -25,6 +25,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
           }
         },
         {
@@ -44,43 +52,43 @@
           }
         },
         {
-          "name": "flatty",
-          "str": ">= 0.4.0",
+          "name": "powpow",
+          "str": ">= 0.1.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.0"
-          }
-        },
-        {
-          "name": "openparser",
-          "str": ">= 0.1.8",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.8"
-          }
-        },
-        {
-          "name": "emitter",
-          "str": ">= 0.2.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.1"
+            "ver": "0.1.9"
           }
         },
         {
           "name": "ozark",
-          "str": ">= 0.1.5",
+          "str": ">= 0.1.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.5"
+            "ver": "0.1.6"
           }
         },
         {
-          "name": "threading",
-          "str": ">= 0.2.1",
+          "name": "emitter",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.1"
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         },
         {
@@ -98,12 +106,33 @@
             "kind": "verEqLater",
             "ver": "0.2.2"
           }
+        },
+        {
+          "name": "flysystem",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "twofa",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.9",
+        "hash": "f0d2cd42a13cd5ffb1b25ae7318e7bbe64b490bc",
+        "time": 1786868771
+      },
       {
         "tag": "0.1.8",
         "hash": "ce9b902a542f9d694069f459169789ebc84adfe2",
@@ -131,8 +160,8 @@
       }
     ],
     "commit": {
-      "hash": "3cf79efecdc81354e217d5e37e9bc0116d03151d",
-      "time": 1786825946
+      "hash": "f0d2cd42a13cd5ffb1b25ae7318e7bbe64b490bc",
+      "time": 1786868771
     }
   }
 }

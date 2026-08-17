@@ -1,0 +1,51 @@
+{
+  "name": "nimcypher",
+  "url": "https://github.com/nimbase/nimcypher",
+  "method": "git",
+  "description": "A pure-Nim port of Monocypher 4.0.3: a small, easy to use crypto library.",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/nimcypher",
+  "tags": [
+    "crypto",
+    "cryptography",
+    "encryption",
+    "monocypher",
+    "blake2b",
+    "chacha20",
+    "x25519",
+    "password"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.1",
+        "hash": "3b1384cb3ef9b8ff279803e86b000bf928705a38",
+        "time": 1786889915
+      },
+      {
+        "tag": "0.1.0",
+        "hash": "a07d302641d4050867debb7215098904ea3e6723",
+        "time": 1786793530
+      }
+    ],
+    "commit": {
+      "hash": "3b1384cb3ef9b8ff279803e86b000bf928705a38",
+      "time": 1786889915
+    }
+  }
+}

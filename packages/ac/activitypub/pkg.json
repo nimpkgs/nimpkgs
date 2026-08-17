@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -22,14 +22,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.0.0"
-          }
-        },
-        {
-          "name": "openparser",
-          "str": ">= 0.1.6",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.6"
           }
         },
         {
@@ -41,48 +33,44 @@
           }
         },
         {
-          "name": "e2ee",
-          "str": ">= 0.1.0",
+          "name": "openparser",
+          "str": ">= 0.1.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.9"
+          }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         },
         {
           "name": "powpow",
-          "str": ">= 0.1.4",
+          "str": ">= 0.1.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.4"
+            "ver": "0.1.9"
           }
         },
         {
           "name": "mimedb",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.1"
           }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
-    "versions": [
-      {
-        "tag": "0.1.1",
-        "hash": "5005fe124dc54660ea75038c238a084fa8897ae6",
-        "time": 1783842689
-      },
-      {
-        "tag": "0.1.0",
-        "hash": "d6078130035299ab61f1bb7d8fb1ca6b72c49a98",
-        "time": 1783841731
-      }
-    ],
     "commit": {
-      "hash": "beea5a18b396402a309a5d0ce820a67d72c5b23e",
-      "time": 1786317015
+      "hash": "8d9440f62fe69cbc44cad42298e9c371d4389d04",
+      "time": 1786892576
     }
   }
 }

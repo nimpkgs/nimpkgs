@@ -1,0 +1,39 @@
+{
+  "name": "libvirt",
+  "url": "https://github.com/nimbase/libvirt-nim",
+  "method": "git",
+  "description": "Bindings for Libvirt",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/libvirt-nim",
+  "tags": [
+    "virtualization",
+    "libvirt",
+    "virt",
+    "bindings",
+    "qemu",
+    "kvm",
+    "hypervisor",
+    "vm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0f7278408404b25d8a5fce2d660891e198111884",
+      "time": 1786912856
+    }
+  }
+}
