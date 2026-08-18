@@ -1,0 +1,91 @@
+{
+  "name": "spinoza",
+  "url": "https://github.com/openpeeps/spinoza",
+  "method": "git",
+  "description": "Spin up VMs like a Pro",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/spinoza",
+  "tags": [
+    "libvirt",
+    "qemu",
+    "tools",
+    "virtualization",
+    "vm",
+    "vagrant",
+    "dev",
+    "vmware",
+    "vmbox"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "libvirt",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": ">= 0.4.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.3"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        },
+        {
+          "name": "flysystem",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "libssh2",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        },
+        {
+          "name": "boogie",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        }
+      ],
+      "bin": [
+        "spinoza"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "11d1345d99eab64536ad30e004a56c77434accbe",
+      "time": 1786994055
+    }
+  }
+}

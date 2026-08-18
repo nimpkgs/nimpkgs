@@ -1,0 +1,59 @@
+{
+  "name": "checkmate",
+  "url": "https://github.com/cryo2010/nim-checkmate",
+  "method": "git",
+  "description": "A jest-like test runner for Nim",
+  "license": "MIT",
+  "web": "https://github.com/cryo2010/nim-checkmate",
+  "tags": [
+    "checkmate",
+    "unit",
+    "test",
+    "unittest",
+    "runner",
+    "jest",
+    "suite",
+    "check",
+    "coverage"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "cligen",
+          "str": ">= 1.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.7.0"
+          }
+        },
+        {
+          "name": "parsetoml",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
+          }
+        }
+      ],
+      "bin": [
+        "checkmate"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "9e4d49e61fc79c5b6d9e964aceab8f4f8386dd67",
+      "time": 1786933540
+    }
+  }
+}
