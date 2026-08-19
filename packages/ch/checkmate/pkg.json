@@ -43,6 +43,14 @@
             "kind": "verEqLater",
             "ver": "0.7.0"
           }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.20.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.20.0"
+          }
         }
       ],
       "bin": [
@@ -52,8 +60,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "9e4d49e61fc79c5b6d9e964aceab8f4f8386dd67",
-      "time": 1786933540
+      "hash": "841dcc11b9fa265de648677fa04f605402919f7c",
+      "time": 1787038921
     }
   }
 }
