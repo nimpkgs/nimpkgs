@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
@@ -42,10 +42,10 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.1.2",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.2"
+            "ver": "0.2.0"
           }
         }
       ],
@@ -54,14 +54,19 @@
     },
     "versions": [
       {
+        "tag": "0.1.1",
+        "hash": "83339648364461167b5e9a6c4ec50d2c43f57831",
+        "time": 1787136918
+      },
+      {
         "tag": "0.1.0",
         "hash": "a432c18b7bbbf8eb0b43fed957e2a5f6920a564d",
         "time": 1780147537
       }
     ],
     "commit": {
-      "hash": "785da67d8db4ccf47874dd82f378082160ca3f73",
-      "time": 1780392029
+      "hash": "83339648364461167b5e9a6c4ec50d2c43f57831",
+      "time": 1787136918
     }
   }
 }

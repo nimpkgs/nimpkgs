@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.9",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -43,10 +43,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.4.2",
+          "str": ">= 0.4.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.2"
+            "ver": "0.4.4"
           }
         },
         {
@@ -67,10 +67,10 @@
         },
         {
           "name": "boogie",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.2"
           }
         },
         {
@@ -97,6 +97,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "3514287f9557aa6905d9ef980aefcec55883243f",
+        "time": 1787174967
+      },
       {
         "tag": "0.1.9",
         "hash": "fd8229d79485d810780dbbc21116b01a9a60b362",
@@ -144,8 +149,8 @@
       }
     ],
     "commit": {
-      "hash": "fd8229d79485d810780dbbc21116b01a9a60b362",
-      "time": 1787060044
+      "hash": "3514287f9557aa6905d9ef980aefcec55883243f",
+      "time": 1787174967
     }
   }
 }

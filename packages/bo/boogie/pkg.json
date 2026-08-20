@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -43,14 +43,6 @@
           }
         },
         {
-          "name": "threading",
-          "str": ">= 0.2.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.1"
-          }
-        },
-        {
           "name": "openparser",
           "str": ">= 0.1.8",
           "ver": {
@@ -64,6 +56,11 @@
     },
     "versions": [
       {
+        "tag": "0.1.2",
+        "hash": "cb9faf0eaf2d829ad685f08e8366adc6047fdcac",
+        "time": 1787155336
+      },
+      {
         "tag": "0.1.1",
         "hash": "b17bb9ebc75b795153f52a47b605780028c03ee0",
         "time": 1786023460
@@ -75,8 +72,8 @@
       }
     ],
     "commit": {
-      "hash": "f3f091d3540b0ad6397c374be4902b7d1d835b0e",
-      "time": 1786832806
+      "hash": "cb9faf0eaf2d829ad685f08e8366adc6047fdcac",
+      "time": 1787155336
     }
   }
 }

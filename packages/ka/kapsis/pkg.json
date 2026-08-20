@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.3",
+      "version": "0.4.4",
       "requires": [
         {
           "name": "nim",
@@ -79,6 +79,11 @@
     },
     "versions": [
       {
+        "tag": "0.4.4",
+        "hash": "fc5d0e0b5b3a73eafa325b739d590cd3cbe01c81",
+        "time": 1787168531
+      },
+      {
         "tag": "0.4.3",
         "hash": "e8a4073139d453d8b08b386a3a00a3ada051ffbf",
         "time": 1786831973
@@ -112,61 +117,11 @@
         "tag": "0.3.6",
         "hash": "33927a2790be1dc189a01ea7de390d8dcf3648e3",
         "time": 1784198581
-      },
-      {
-        "tag": "0.3.5",
-        "hash": "d2a4397e58f5643b85123e0769425b0da2c59182",
-        "time": 1784195789
-      },
-      {
-        "tag": "0.3.4",
-        "hash": "07685fcc0bf84c23fbc844b1e754fde744e78945",
-        "time": 1783944695
-      },
-      {
-        "tag": "0.3.3",
-        "hash": "2d1cdab71500dc68d6c6cce5fdada4736d3bbe75",
-        "time": 1780133932
-      },
-      {
-        "tag": "0.3.2",
-        "hash": "6b859785d7f43b6278dc083ab012f94b80d8bb4e",
-        "time": 1780133455
-      },
-      {
-        "tag": "0.3.1",
-        "hash": "0a81f9b41d4a4806109159cb918bccc69dc84678",
-        "time": 1780132972
-      },
-      {
-        "tag": "0.3.0",
-        "hash": "3c3a8f06a580e769cfee5c6239cc039959691438",
-        "time": 1773548178
-      },
-      {
-        "tag": "0.2.3",
-        "hash": "ba5284cb04c61ad8f8314929f27651ccdaf914ec",
-        "time": 1773268799
-      },
-      {
-        "tag": "0.2.2",
-        "hash": "b734c6d03dd6f7ff5e8115d2c08b8f6492a030f7",
-        "time": 1772135511
-      },
-      {
-        "tag": "0.1.1",
-        "hash": "b154bf5fcd7a94591a46a4bd3ad99e3c06652c9d",
-        "time": 1686246456
-      },
-      {
-        "tag": "0.1.0",
-        "hash": "84a8a2c11024ffaf335f05222b71cd53b015a6da",
-        "time": 1685170237
       }
     ],
     "commit": {
-      "hash": "e8a4073139d453d8b08b386a3a00a3ada051ffbf",
-      "time": 1786831973
+      "hash": "fc5d0e0b5b3a73eafa325b739d590cd3cbe01c81",
+      "time": 1787168531
     }
   }
 }

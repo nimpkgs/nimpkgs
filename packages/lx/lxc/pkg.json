@@ -1,0 +1,38 @@
+{
+  "name": "lxc",
+  "url": "https://github.com/nimbase/lxc-nim",
+  "method": "git",
+  "description": "Nim bindings for liblxc",
+  "license": "LGPL-2.1-only",
+  "web": "https://github.com/nimbase/lxc-nim",
+  "tags": [
+    "bindings",
+    "lxc",
+    "containers",
+    "linux",
+    "virtualization",
+    "devops",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c935d3fbea9be0b2f5210d4882a7454605fffddc",
+      "time": 1787131309
+    }
+  }
+}
