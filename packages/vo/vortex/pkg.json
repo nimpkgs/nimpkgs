@@ -1,0 +1,58 @@
+{
+  "name": "vortex",
+  "url": "https://github.com/cryo2010/nim-vortex",
+  "method": "git",
+  "description": "A fast HTTP/1.1-3 server with TLS, streaming, SSE and WebSockets",
+  "license": "MIT",
+  "web": "https://github.com/cryo2010/nim-vortex",
+  "tags": [
+    "http",
+    "server",
+    "http1",
+    "http2",
+    "http3",
+    "tls",
+    "streaming",
+    "sse",
+    "websocket",
+    "websockets"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.3.0",
+        "hash": "49f1d7b760ee0ebb7872d625b1f0c9cdbe6a5356",
+        "time": 1787214981
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "f70af60c598c00e9a17b0d4dc2bb97ac2668863b",
+        "time": 1787208006
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "16d615d84b065f3f6d650d06a83d86f64b336889",
+        "time": 1786428582
+      }
+    ],
+    "commit": {
+      "hash": "49f1d7b760ee0ebb7872d625b1f0c9cdbe6a5356",
+      "time": 1787214981
+    }
+  }
+}

@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.7",
+      "version": "0.2.8",
       "requires": [
         {
           "name": "nim",
@@ -58,10 +58,10 @@
         },
         {
           "name": "voodoo",
-          "str": ">= 0.1.9",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.2.0"
           }
         },
         {
@@ -74,10 +74,10 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.1.2",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.2"
+            "ver": "0.2.0"
           }
         },
         {
@@ -98,26 +98,18 @@
         },
         {
           "name": "boogie",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "clue",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.2"
           }
         },
         {
           "name": "supranim",
-          "str": ">= 0.1.5",
+          "str": ">= 0.1.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.5"
+            "ver": "0.1.9"
           }
         }
       ],
@@ -128,6 +120,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.8",
+        "hash": "ce1d25647079a3c344932131928d0fe0f7ee5b90",
+        "time": 1787220443
+      },
       {
         "tag": "0.2.7",
         "hash": "e66da82686011e2d82cee9e66eaae9e8a4c1e509",
@@ -140,8 +137,8 @@
       }
     ],
     "commit": {
-      "hash": "f22fce0121847d8075926976ca573c523ad04b01",
-      "time": 1787176190
+      "hash": "ce1d25647079a3c344932131928d0fe0f7ee5b90",
+      "time": 1787220443
     }
   }
 }

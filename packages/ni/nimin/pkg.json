@@ -1,0 +1,35 @@
+{
+  "name": "nimin",
+  "url": "https://github.com/nimin-lang/nimin",
+  "method": "git",
+  "description": "The symmetrical, zero-baggage dialect of Nim for tiny binaries and constrained runtimes.",
+  "license": "MIT",
+  "web": "https://github.com/nimin-lang/nimin",
+  "tags": [
+    "embedded",
+    "dialect",
+    "constrained-resources"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [],
+      "bin": [
+        "nimin"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "0ce98d9229ac790209edade3dbeef766998fbd1a",
+        "time": 1787219054
+      }
+    ],
+    "commit": {
+      "hash": "0ce98d9229ac790209edade3dbeef766998fbd1a",
+      "time": 1787219054
+    }
+  }
+}

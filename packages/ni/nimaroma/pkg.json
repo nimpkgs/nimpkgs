@@ -1,0 +1,45 @@
+{
+  "name": "nimaroma",
+  "url": "https://github.com/cheeseonamonkey/nimaroma",
+  "method": "git",
+  "description": "A Nim code-metric analyzer for cyclomatic complexity, maintainability, and Halstead volume",
+  "license": "MIT",
+  "web": "https://github.com/cheeseonamonkey/nimaroma",
+  "tags": [
+    "metrics",
+    "static-analysis",
+    "nim",
+    "code-quality"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": "2.2.10",
+          "ver": {
+            "kind": "verEq",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "nimaroma"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "28b0edcd6eef7845536d3a73a04a1261c72e8ae9",
+        "time": 1787221522
+      }
+    ],
+    "commit": {
+      "hash": "28b0edcd6eef7845536d3a73a04a1261c72e8ae9",
+      "time": 1787221522
+    }
+  }
+}

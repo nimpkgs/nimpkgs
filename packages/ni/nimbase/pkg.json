@@ -1,0 +1,82 @@
+{
+  "name": "nimbase",
+  "url": "https://github.com/nimbase/nimbase",
+  "method": "git",
+  "description": "Nim Codegen – OAPI 3.x, C wrappers, FFI bindings & native extensions",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/nimbase",
+  "tags": [
+    "openapi",
+    "codegen",
+    "nimgen",
+    "oapi",
+    "wrapper",
+    "toolkit",
+    "bindings",
+    "restapi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "semver",
+          "str": ">= 1.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.3"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "boogie",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        },
+        {
+          "name": "sweetsyntax",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimbase"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "630f773774ec12393e6505520314248d9e410bee",
+      "time": 1787215370
+    }
+  }
+}
