@@ -1,0 +1,48 @@
+{
+  "name": "easyargs",
+  "url": "https://github.com/nervecenter/easyargs",
+  "method": "git",
+  "description": "Dead simple data-oriented argument parsing for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/nervecenter/easyargs",
+  "tags": [
+    "library",
+    "console",
+    "cli",
+    "command-line",
+    "command line",
+    "commandline",
+    "args",
+    "cmd",
+    "opt",
+    "parse",
+    "argument",
+    "arguments",
+    "argparse",
+    "optparse",
+    "switches",
+    "parser",
+    "options"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "2026.8.21",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.16.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.16.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "d30f101b19ea804bfa9a2cb7f999a3d77f4a22b9",
+      "time": 1787399752
+    }
+  }
+}

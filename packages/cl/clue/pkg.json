@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.2",
+      "version": "0.2.3",
       "requires": [
         {
           "name": "nim",
@@ -35,18 +35,18 @@
         },
         {
           "name": "semver",
-          "str": "<= 1.2.3",
+          "str": ">= 1.2.3",
           "ver": {
-            "kind": "verEqEarlier",
+            "kind": "verEqLater",
             "ver": "1.2.3"
           }
         },
         {
           "name": "kapsis",
-          "str": ">= 0.4.5",
+          "str": ">= 0.4.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.5"
+            "ver": "0.4.6"
           }
         },
         {
@@ -97,6 +97,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.3",
+        "hash": "d999df664254b9bd173817aeea1774446c4173cc",
+        "time": 1787395839
+      },
       {
         "tag": "0.2.2",
         "hash": "5b5c773f841ddf8b86cd5c36fa8332f669bbc2b5",
@@ -159,8 +164,8 @@
       }
     ],
     "commit": {
-      "hash": "5b5c773f841ddf8b86cd5c36fa8332f669bbc2b5",
-      "time": 1787308269
+      "hash": "d5c86e471e786a83e6719a002fe4d6c48362452f",
+      "time": 1787409954
     }
   }
 }

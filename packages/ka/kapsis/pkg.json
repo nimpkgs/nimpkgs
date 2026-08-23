@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.5",
+      "version": "0.4.7",
       "requires": [
         {
           "name": "nim",
@@ -59,10 +59,10 @@
         },
         {
           "name": "pluginkit",
-          "str": ">= 0.1.1",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.1"
+            "ver": "0.2.0"
           }
         },
         {
@@ -78,6 +78,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.4.7",
+        "hash": "87856e98537ba7fff14dc69ec62bda6392748417",
+        "time": 1787409638
+      },
+      {
+        "tag": "0.4.6",
+        "hash": "17f0bbf3df15d02a20a8c13fdc6d1fac823f6c3d",
+        "time": 1787363856
+      },
       {
         "tag": "0.4.5",
         "hash": "ad4730e6fab551809500a1f18810dc372f7c94b3",
@@ -125,8 +135,8 @@
       }
     ],
     "commit": {
-      "hash": "ad4730e6fab551809500a1f18810dc372f7c94b3",
-      "time": 1787307815
+      "hash": "87856e98537ba7fff14dc69ec62bda6392748417",
+      "time": 1787409638
     }
   }
 }
