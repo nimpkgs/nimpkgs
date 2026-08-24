@@ -29,10 +29,10 @@
         },
         {
           "name": "powpow",
-          "str": ">= 0.1.4",
+          "str": ">= 0.1.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.4"
+            "ver": "0.1.10"
           }
         },
         {
@@ -48,8 +48,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "2c3ccb83c114d710b4214d6242811ec4ab710eb6",
-      "time": 1784039663
+      "hash": "3b01684207165a18244cd718c54a2dc290de0dac",
+      "time": 1787502553
     }
   }
 }

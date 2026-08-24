@@ -1,0 +1,43 @@
+{
+  "name": "nimprompt",
+  "url": "https://github.com/MeritesKORT/nimprompt",
+  "method": "git",
+  "description": "Terminal UI utilities: pretty tables, progress bars, spinners and user prompts",
+  "license": "MIT",
+  "tags": [
+    "cli",
+    "terminal",
+    "ui",
+    "table",
+    "progress",
+    "prompt"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "0a4a86c960ec478b52407782365e98482d92289e",
+        "time": 1787509039
+      }
+    ],
+    "commit": {
+      "hash": "130b71fe944b386ef7b3d6d515f2c784926cd325",
+      "time": 1787506285
+    }
+  }
+}

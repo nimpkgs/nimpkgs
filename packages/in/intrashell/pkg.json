@@ -1,0 +1,44 @@
+{
+  "name": "intrashell",
+  "url": "https://github.com/CarmeloMaitaO/intrashell",
+  "method": "git",
+  "description": "A lightweight library for using shared libraries as dynamic modules",
+  "license": "Apache License 2.0",
+  "web": "https://github.com/CarmeloMaitaO/intrashell",
+  "tags": [
+    "library",
+    "ffi",
+    "shared-library",
+    "dynamic-loading",
+    "plugin",
+    "interop"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "d2f4efa2213eb734e66f5075145216c9e458740e",
+        "time": 1787462920
+      }
+    ],
+    "commit": {
+      "hash": "665f0842084272d4704611663a67cd489d0cb951",
+      "time": 1787513395
+    }
+  }
+}
