@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.6.1",
+      "version": "0.6.2",
       "requires": [
         {
           "name": "nim",
@@ -25,27 +25,11 @@
           }
         },
         {
-          "name": "stew",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "faststreams",
-          "str": ">= 0.3.0",
+          "str": ">= 0.5.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.0"
-          }
-        },
-        {
-          "name": "serialization",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "0.5.0"
           }
         },
         {
@@ -57,11 +41,27 @@
           }
         },
         {
-          "name": "unittest2",
-          "str": "any version",
+          "name": "serialization",
+          "str": ">= 0.5.4",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.4"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         }
       ],
@@ -69,6 +69,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.6.2",
+        "hash": "a671c6d497c7028ed7390b2d5a80c7b62138c586",
+        "time": 1787591847
+      },
       {
         "tag": "v0.6.1",
         "hash": "24ddb65800b351268412840b19a33c6b61bb3046",
@@ -106,8 +111,8 @@
       }
     ],
     "commit": {
-      "hash": "3cb9d13fe501847f77e264f867d108f23fc3d6b3",
-      "time": 1786111004
+      "hash": "646c1f41885a855bac28d79019dba1e6a0d77aff",
+      "time": 1787679106
     }
   }
 }

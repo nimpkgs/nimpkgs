@@ -1,0 +1,90 @@
+{
+  "name": "cps_http",
+  "url": "https://github.com/gabearro/cps-http",
+  "method": "git",
+  "description": "HTTP/1.1, HTTP/2 and HTTP/3 clients and servers for the CPS Nim runtime",
+  "license": "MIT",
+  "web": "https://github.com/gabearro/cps-http",
+  "tags": [
+    "async",
+    "cps",
+    "http",
+    "http2",
+    "http3",
+    "server",
+    "websocket"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-runtime",
+          "str": "1.1.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.1.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-tls",
+          "str": "1.0.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.0.1"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-quic",
+          "str": "1.0.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.0.1"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "aad30c76b4966a454da3001de17eada099bbe08b",
+        "time": 1787680276
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "c6fc017a234279168fc492d7aa3148e614c220ae",
+        "time": 1787230022
+      }
+    ],
+    "commit": {
+      "hash": "fbbbb973c36f91e23ccea3e92a4527bf159f9c62",
+      "time": 1787691517
+    }
+  }
+}

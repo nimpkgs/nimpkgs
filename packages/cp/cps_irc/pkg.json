@@ -1,0 +1,61 @@
+{
+  "name": "cps_irc",
+  "url": "https://github.com/gabearro/cps-irc",
+  "method": "git",
+  "description": "IRC client, protocol, SASL, DCC and XDCC support for the CPS Nim runtime",
+  "license": "MIT",
+  "web": "https://github.com/gabearro/cps-irc",
+  "tags": [
+    "async",
+    "dcc",
+    "irc",
+    "ircv3",
+    "networking",
+    "sasl",
+    "xdcc"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-runtime",
+          "str": "1.0.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-tls",
+          "str": "1.0.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "825d3f91226d147e5da1452982a4a5453ec66d45",
+        "time": 1787229785
+      }
+    ],
+    "commit": {
+      "hash": "ef1ada61330226e1c86057fb93b38f8e45264a70",
+      "time": 1787691517
+    }
+  }
+}

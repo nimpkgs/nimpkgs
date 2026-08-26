@@ -12,14 +12,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.4",
+      "version": "0.4.5",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 1.6.18",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
+            "ver": "1.6.18"
           }
         },
         {
@@ -31,27 +31,27 @@
           }
         },
         {
-          "name": "serialization",
-          "str": "any version",
+          "name": "results",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "serialization",
+          "str": ">= 0.5.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.4"
           }
         },
         {
           "name": "stew",
-          "str": ">= 0.2.0",
+          "str": ">= 0.5.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
-          }
-        },
-        {
-          "name": "results",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "0.5.1"
           }
         }
       ],
@@ -59,6 +59,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.4.5",
+        "hash": "73c37b46591cf3d6a19d39ff0ed14b2e77433778",
+        "time": 1787582802
+      },
       {
         "tag": "v0.4.4",
         "hash": "c343b0e243d9e17e2c40f3a8a24340f7c4a71d44",
@@ -86,8 +91,8 @@
       }
     ],
     "commit": {
-      "hash": "962ed76ed786e89d8d3fd8882781097fde12f958",
-      "time": 1786014211
+      "hash": "73c37b46591cf3d6a19d39ff0ed14b2e77433778",
+      "time": 1787582802
     }
   }
 }

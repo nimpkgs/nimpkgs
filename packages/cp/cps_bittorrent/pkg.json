@@ -1,0 +1,60 @@
+{
+  "name": "cps_bittorrent",
+  "url": "https://github.com/gabearro/cps-bittorrent",
+  "method": "git",
+  "description": "BitTorrent client with DHT, uTP, trackers and disk storage for the CPS Nim runtime",
+  "license": "MIT",
+  "web": "https://github.com/gabearro/cps-bittorrent",
+  "tags": [
+    "bittorrent",
+    "dht",
+    "networking",
+    "torrent",
+    "tracker",
+    "utp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-runtime",
+          "str": "1.0.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-tls",
+          "str": "1.0.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "722404d57ac05279588196becb6355fb1ed3e36f",
+        "time": 1787229785
+      }
+    ],
+    "commit": {
+      "hash": "dc3f55213b5de63a3939a6ee89211f58c2198e38",
+      "time": 1787691517
+    }
+  }
+}

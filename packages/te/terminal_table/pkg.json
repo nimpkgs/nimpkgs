@@ -1,0 +1,56 @@
+{
+  "name": "terminal_table",
+  "url": "https://github.com/titanomachy/terminal-table",
+  "method": "git",
+  "description": "Pure-Nim terminal table construction and rendering",
+  "license": "MIT",
+  "web": "https://github.com/titanomachy/terminal-table",
+  "tags": [
+    "terminal",
+    "tables",
+    "ansi",
+    "unicode",
+    "tui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "terminal_style",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "8c4644af190f9ef8620496c33e18d5f7b1e850e9",
+        "time": 1787581399
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "8cf357c2405c6193ad867b18f12c22c1b0cc2179",
+        "time": 1787528108
+      }
+    ],
+    "commit": {
+      "hash": "6d4c224275944f9cfc3d12478b401052553c64bf",
+      "time": 1787693846
+    }
+  }
+}

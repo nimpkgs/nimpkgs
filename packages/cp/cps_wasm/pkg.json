@@ -1,0 +1,44 @@
+{
+  "name": "cps_wasm",
+  "url": "https://github.com/gabearro/cps-wasm",
+  "method": "git",
+  "description": "WebAssembly VM, WASI runtime and tiered JIT implemented in Nim",
+  "license": "MIT",
+  "web": "https://github.com/gabearro/cps-wasm",
+  "tags": [
+    "jit",
+    "runtime",
+    "virtual-machine",
+    "wasi",
+    "wasm",
+    "webassembly"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "f307761d3972d1d1f3199a37a4ec5259d78c0393",
+        "time": 1787230198
+      }
+    ],
+    "commit": {
+      "hash": "7b282bc55c53251ca30e17218fc931534754d5fb",
+      "time": 1787691517
+    }
+  }
+}

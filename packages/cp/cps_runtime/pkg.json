@@ -1,0 +1,49 @@
+{
+  "name": "cps_runtime",
+  "url": "https://github.com/gabearro/cps-runtime",
+  "method": "git",
+  "description": "Continuation-passing-style async runtime, event loop, I/O, concurrency, and multithreaded scheduler for Nim",
+  "license": "MIT",
+  "web": "https://github.com/gabearro/cps-runtime",
+  "tags": [
+    "async",
+    "cps",
+    "event-loop",
+    "io",
+    "runtime",
+    "multithreading"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.1.0",
+        "hash": "c2e98c1b9e41397d0f44a2b0387717f8947f3d99",
+        "time": 1787680040
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "282d1f09830518c8d94e643cdff0260c1fcaa4fa",
+        "time": 1787230148
+      }
+    ],
+    "commit": {
+      "hash": "29b6f5ef93aecd00bcd05b449eda81933c9511be",
+      "time": 1787691517
+    }
+  }
+}

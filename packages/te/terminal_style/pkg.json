@@ -1,0 +1,47 @@
+{
+  "name": "terminal_style",
+  "url": "https://github.com/titanomachy/terminal-style",
+  "method": "git",
+  "description": "ANSI styling and terminal-aware text utilities for Nim",
+  "license": "MIT",
+  "web": "https://github.com/titanomachy/terminal-style",
+  "tags": [
+    "terminal",
+    "ansi",
+    "unicode",
+    "styling"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "9e2eb5cc81236b653c4b8e504246554d4b9d5245",
+        "time": 1787578633
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "a3f28d4500d2a8ac3e4ce50de83fc8520997583c",
+        "time": 1787520546
+      }
+    ],
+    "commit": {
+      "hash": "69b982f95112a477e4320ce504e755df65df6d5c",
+      "time": 1787701483
+    }
+  }
+}

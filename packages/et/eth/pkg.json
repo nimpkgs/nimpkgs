@@ -25,7 +25,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.9.0",
+      "version": "0.9.1",
       "requires": [
         {
           "name": "nim",
@@ -36,51 +36,43 @@
           }
         },
         {
-          "name": "nimcrypto",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "stint",
-          "str": ">= 0.8.0",
+          "name": "chronicles",
+          "str": ">= 0.12.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.8.0"
-          }
-        },
-        {
-          "name": "secp256k1",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "0.12.4"
           }
         },
         {
           "name": "chronos",
-          "str": "any version",
+          "str": ">= 4.0.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "4.0.0"
           }
         },
         {
-          "name": "chronicles",
-          "str": "any version",
+          "name": "confutils",
+          "str": ">= 0.1.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         },
         {
-          "name": "stew",
-          "str": "any version",
+          "name": "metrics",
+          "str": ">= 0.2.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "minilru",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
           }
         },
         {
@@ -92,7 +84,31 @@
           }
         },
         {
-          "name": "metrics",
+          "name": "nimcrypto",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "secp256k1",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        },
+        {
+          "name": "snappy",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -108,51 +124,35 @@
           }
         },
         {
-          "name": "confutils",
-          "str": "any version",
+          "name": "stew",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "stint",
+          "str": ">= 0.8.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.8.0"
           }
         },
         {
           "name": "testutils",
-          "str": "any version",
+          "str": ">= 0.8.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.8.3"
           }
         },
         {
           "name": "unittest2",
-          "str": "any version",
+          "str": ">= 0.2.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "results",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "minilru",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "snappy",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         }
       ],
@@ -160,6 +160,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.9.1",
+        "hash": "c3d1ad4f570f4529cb71e73095a44f0504e581a3",
+        "time": 1787582831
+      },
       {
         "tag": "v0.9.0",
         "hash": "d9135e6c3c5d6d819afdfb566aa8d958756b73a8",
@@ -187,8 +192,8 @@
       }
     ],
     "commit": {
-      "hash": "3cda9027f83ac03643dd15a383d67139eec9df6f",
-      "time": 1786806174
+      "hash": "c3d1ad4f570f4529cb71e73095a44f0504e581a3",
+      "time": 1787582831
     }
   }
 }

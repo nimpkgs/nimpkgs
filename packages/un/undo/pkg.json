@@ -1,0 +1,57 @@
+{
+  "name": "undo",
+  "url": "https://github.com/openpeeps/undo",
+  "method": "git",
+  "description": "A persistent undo/redo history manager with snapshot, diff, and JSON support",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/undo",
+  "tags": [
+    "history",
+    "log",
+    "redo",
+    "undo",
+    "log",
+    "state",
+    "wal",
+    "commit",
+    "snapshot",
+    "text"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "boogie",
+          "str": ">= 0.1.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.3"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "35883e7a763b3531159ab878b572acaa7c6fe51b",
+      "time": 1787702341
+    }
+  }
+}

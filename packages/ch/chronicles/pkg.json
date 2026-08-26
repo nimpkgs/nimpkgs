@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.12.3",
+      "version": "0.12.4",
       "requires": [
         {
           "name": "nim",
@@ -31,26 +31,26 @@
         },
         {
           "name": "serialization",
-          "str": "any version",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
           }
         },
         {
           "name": "json_serialization",
-          "str": "any version",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "testutils",
-          "str": "any version",
+          "str": ">= 0.8.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.8.0"
           }
         }
       ],
@@ -58,6 +58,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.12.4",
+        "hash": "45c823b8af409f82fa35fd5e1f6a7c9a06fe3137",
+        "time": 1787561084
+      },
       {
         "tag": "v0.12.3",
         "hash": "e7f87336d2fa47b7752b42f0be4cabd5663a5e5c",
@@ -200,8 +205,8 @@
       }
     ],
     "commit": {
-      "hash": "bce15af84b1402ccd6f647cd0de897d4a3d2d9c5",
-      "time": 1787051305
+      "hash": "45c823b8af409f82fa35fd5e1f6a7c9a06fe3137",
+      "time": 1787561084
     }
   }
 }

@@ -1,0 +1,64 @@
+{
+  "name": "cps_quic",
+  "url": "https://github.com/gabearro/cps-quic",
+  "method": "git",
+  "description": "QUIC transport implementation for the CPS Nim runtime",
+  "license": "MIT",
+  "web": "https://github.com/gabearro/cps-quic",
+  "tags": [
+    "async",
+    "cps",
+    "http3",
+    "networking",
+    "quic"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-runtime",
+          "str": "1.1.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.1.0"
+          }
+        },
+        {
+          "name": "https://github.com/gabearro/cps-tls",
+          "str": "1.0.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.0.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.1",
+        "hash": "a13cbb4ae17e712658bcb784db119ac6fe71087b",
+        "time": 1787680147
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "9006f403a3cf50c5e9a8e946cb9c14dfcc1ea043",
+        "time": 1787229785
+      }
+    ],
+    "commit": {
+      "hash": "bcc23fd3ef50d3b781da9d0b4dde35a7690718ba",
+      "time": 1787691517
+    }
+  }
+}

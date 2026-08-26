@@ -12,38 +12,38 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.8.0",
+      "version": "0.8.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.0.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
-          }
-        },
-        {
-          "name": "chronicles",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "chronos",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "2.0.10"
           }
         },
         {
           "name": "bearssl",
-          "str": "any version",
+          "str": ">= 0.2.13",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.13"
+          }
+        },
+        {
+          "name": "chronicles",
+          "str": ">= 0.12.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.4"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.4.0"
           }
         },
         {
@@ -56,26 +56,18 @@
         },
         {
           "name": "faststreams",
-          "str": "any version",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
           }
         },
         {
           "name": "json_rpc",
-          "str": ">= 0.5.2",
+          "str": ">= 0.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.2"
-          }
-        },
-        {
-          "name": "serialization",
-          "str": ">= 0.4.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.4"
+            "ver": "0.6.0"
           }
         },
         {
@@ -88,34 +80,42 @@
         },
         {
           "name": "nimcrypto",
-          "str": "any version",
+          "str": ">= 0.7.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "stew",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "stint",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.7.0"
           }
         },
         {
           "name": "results",
-          "str": "any version",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "serialization",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "stint",
+          "str": ">= 0.9.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.0"
           }
         }
       ],
@@ -123,6 +123,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.8.1",
+        "hash": "09dca1b9e4680f467ddce9f35fb7a3a092f99ded",
+        "time": 1787649649
+      },
       {
         "tag": "v0.8.0",
         "hash": "cdfe5601d2812a58e54faf53ee634452d01e5918",
@@ -145,8 +150,8 @@
       }
     ],
     "commit": {
-      "hash": "3ac3d92be88230130f1e532261c0e117e66e3436",
-      "time": 1787290522
+      "hash": "09dca1b9e4680f467ddce9f35fb7a3a092f99ded",
+      "time": 1787649649
     }
   }
 }
