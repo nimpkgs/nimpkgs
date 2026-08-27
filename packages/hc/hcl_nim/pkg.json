@@ -1,0 +1,46 @@
+{
+  "name": "hcl_nim",
+  "url": "https://github.com/Zenit-Linux/hcl-nim",
+  "method": "git",
+  "description": "HCL (HashiCorp Configuration Language) v1 and v2 parser for Nim",
+  "license": "MIT",
+  "web": "https://github.com/Zenit-Linux/hcl-nim",
+  "tags": [
+    "hcl",
+    "terraform",
+    "config",
+    "parser",
+    "hashicorp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "hclnim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1",
+        "hash": "7ccd468c6488bd85e018dcdc3644cd763c1e6f25",
+        "time": 1787730149
+      }
+    ],
+    "commit": {
+      "hash": "7ccd468c6488bd85e018dcdc3644cd763c1e6f25",
+      "time": 1787730149
+    }
+  }
+}

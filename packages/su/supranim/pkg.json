@@ -45,10 +45,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.3.8",
+          "str": ">= 0.4.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.8"
+            "ver": "0.4.0"
           }
         },
         {
@@ -69,10 +69,10 @@
         },
         {
           "name": "emitter",
-          "str": "any version",
+          "str": ">= 0.2.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.1"
           }
         },
         {
@@ -130,8 +130,8 @@
     "versions": [
       {
         "tag": "0.1.9",
-        "hash": "f0d2cd42a13cd5ffb1b25ae7318e7bbe64b490bc",
-        "time": 1786868771
+        "hash": "a34b60773d677e68f931f9cec48fa3e3da994d45",
+        "time": 1787165350
       },
       {
         "tag": "0.1.8",
@@ -142,26 +142,11 @@
         "tag": "0.1.7",
         "hash": "a9142480327fa6047c67bfe8efaf378420ff0913",
         "time": 1786058870
-      },
-      {
-        "tag": "0.1.6",
-        "hash": "fe292dcca174f0285bcf0dfa0af8a8c7700933e2",
-        "time": 1786043356
-      },
-      {
-        "tag": "0.1.5",
-        "hash": "9f5ba7164e94919d15ccd64bcc9cd297b74cba74",
-        "time": 1785963478
-      },
-      {
-        "tag": "0.1.4",
-        "hash": "8a4806cacf53310f9e20bccfe30956175b8e64a0",
-        "time": 1785958878
       }
     ],
     "commit": {
-      "hash": "f0d2cd42a13cd5ffb1b25ae7318e7bbe64b490bc",
-      "time": 1786868771
+      "hash": "4b2a165bf178f198e7fd7165825b3e05f556f417",
+      "time": 1787819540
     }
   }
 }

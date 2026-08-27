@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.2.1",
+      "version": "2.3.0",
       "requires": [
         {
           "name": "nim",
@@ -22,14 +22,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.2.4"
-          }
-        },
-        {
-          "name": "libbacktrace",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
           }
         },
         {
@@ -58,10 +50,10 @@
         },
         {
           "name": "chronicles",
-          "str": ">= 0.11.0",
+          "str": ">= 0.12.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.11.0"
+            "ver": "0.12.3"
           }
         },
         {
@@ -97,14 +89,6 @@
           }
         },
         {
-          "name": "unittest2",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "results",
           "str": "any version",
           "ver": {
@@ -114,26 +98,34 @@
         },
         {
           "name": "serialization",
-          "str": "any version",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "json_serialization",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
           }
         },
         {
           "name": "lsquic",
-          "str": ">= 0.5.4",
+          "str": ">= 0.8.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.4"
+            "ver": "0.8.1"
           }
         },
         {
           "name": "protobuf_serialization",
-          "str": ">= 0.5.3",
+          "str": ">= 0.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.3"
+            "ver": "0.6.0"
           }
         },
         {
@@ -145,11 +137,11 @@
           }
         },
         {
-          "name": "https://github.com/status-im/nim-nat-traversal",
-          "str": ">= 0.0.1",
+          "name": "https://github.com/logos-storage/nim-libplum",
+          "str": "#acefbe424cf9d1f05f2d93533790c9ac4e034df8",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.0.1"
+            "kind": "verSpecial",
+            "ver": ""
           }
         }
       ],
@@ -157,6 +149,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.3.0",
+        "hash": "fc4169749ea685e2dca93e5845292eb229978012",
+        "time": 1787580052
+      },
       {
         "tag": "v2.2.1",
         "hash": "95d3925db8a3d093dd86647165650472a5342b81",
@@ -329,8 +326,8 @@
       }
     ],
     "commit": {
-      "hash": "f6672be6eb157da85e05a4caa4aa2d0ccb29b752",
-      "time": 1787674084
+      "hash": "ae82b981b22d8d96bc23a8e3f9fdcfc41e06142f",
+      "time": 1787773255
     }
   }
 }

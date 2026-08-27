@@ -1,0 +1,62 @@
+{
+  "name": "nkit",
+  "url": "https://github.com/nimbase/nkit",
+  "method": "git",
+  "description": "Unified APIs for Android, iOS, Linux, macOS and Windows",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/nkit",
+  "tags": [
+    "macos",
+    "linux",
+    "windows",
+    "kit",
+    "desktop",
+    "mobile",
+    "app",
+    "application",
+    "api",
+    "ios",
+    "android",
+    "flutter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": ">= 0.4.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.7"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "nkit"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "fa5a2e7384953af9fcb44ee6d5ed94a0a987bacb",
+      "time": 1787751023
+    }
+  }
+}

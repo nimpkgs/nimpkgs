@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "requires": [
         {
           "name": "nim",
@@ -28,18 +28,18 @@
         },
         {
           "name": "https://github.com/gabearro/cps-runtime",
-          "str": "1.0.0",
+          "str": "1.1.1",
           "ver": {
             "kind": "verEq",
-            "ver": "1.0.0"
+            "ver": "1.1.1"
           }
         },
         {
           "name": "https://github.com/gabearro/cps-tls",
-          "str": "1.0.0",
+          "str": "1.0.2",
           "ver": {
             "kind": "verEq",
-            "ver": "1.0.0"
+            "ver": "1.0.2"
           }
         }
       ],
@@ -48,14 +48,19 @@
     },
     "versions": [
       {
+        "tag": "v1.0.1",
+        "hash": "c7ad4cc72e36d520c82aac43d0990a5469cd0c7e",
+        "time": 1787774528
+      },
+      {
         "tag": "v1.0.0",
         "hash": "825d3f91226d147e5da1452982a4a5453ec66d45",
         "time": 1787229785
       }
     ],
     "commit": {
-      "hash": "ef1ada61330226e1c86057fb93b38f8e45264a70",
-      "time": 1787691517
+      "hash": "c7ad4cc72e36d520c82aac43d0990a5469cd0c7e",
+      "time": 1787774528
     }
   }
 }
