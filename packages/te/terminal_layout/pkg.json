@@ -1,16 +1,22 @@
 {
-  "name": "terminal_table",
-  "url": "https://github.com/titanomachy/terminal-table",
+  "name": "terminal_layout",
+  "url": "https://github.com/titanomachy/terminal-layout",
   "method": "git",
-  "description": "Pure-Nim terminal table construction and rendering",
+  "description": "Pure-Nim terminal layout library with trees for hierarchies, panels and cards, lists with indentation, callouts and banners.",
   "license": "MIT",
-  "web": "https://github.com/titanomachy/terminal-table",
+  "web": "https://github.com/titanomachy/terminal-layout",
   "tags": [
     "terminal",
-    "tables",
+    "layout",
     "ansi",
     "unicode",
-    "tui"
+    "tui",
+    "trees",
+    "panels",
+    "cards",
+    "lists",
+    "callouts",
+    "banners"
   ],
   "meta": {
     "nimble": {
@@ -39,18 +45,18 @@
     "versions": [
       {
         "tag": "v0.1.1",
-        "hash": "8c4644af190f9ef8620496c33e18d5f7b1e850e9",
-        "time": 1787581399
+        "hash": "0fcd3fd6a9c2f959346a107890bfb4b25c5bc5f7",
+        "time": 1787875395
       },
       {
         "tag": "v0.1.0",
-        "hash": "8cf357c2405c6193ad867b18f12c22c1b0cc2179",
-        "time": 1787528108
+        "hash": "157801b829829f450112ce1f474e062506113507",
+        "time": 1787856926
       }
     ],
     "commit": {
-      "hash": "889b3f2aaaad4a2397c75725c79af7181f9fa1b3",
-      "time": 1787864145
+      "hash": "0fcd3fd6a9c2f959346a107890bfb4b25c5bc5f7",
+      "time": 1787875395
     }
   }
 }
