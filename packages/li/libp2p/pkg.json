@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.3.0",
+      "version": "2.3.1",
       "requires": [
         {
           "name": "nim",
@@ -138,7 +138,7 @@
         },
         {
           "name": "https://github.com/logos-storage/nim-libplum",
-          "str": "#acefbe424cf9d1f05f2d93533790c9ac4e034df8",
+          "str": "#v0.6.3",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -149,6 +149,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.3.1",
+        "hash": "391e403cc274ab8623fb1106f2c2827e09c6c89f",
+        "time": 1787930715
+      },
       {
         "tag": "v2.3.0",
         "hash": "fc4169749ea685e2dca93e5845292eb229978012",
@@ -326,8 +331,8 @@
       }
     ],
     "commit": {
-      "hash": "eef6d31d14229f39a68ee6e1660a991cf0d158ca",
-      "time": 1787844702
+      "hash": "851f7cf06f1a086548f12d348536aec976f5545d",
+      "time": 1787925139
     }
   }
 }

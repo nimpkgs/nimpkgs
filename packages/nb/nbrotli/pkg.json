@@ -1,0 +1,39 @@
+{
+  "name": "nbrotli",
+  "url": "https://github.com/nimbase/nbrotli",
+  "method": "git",
+  "description": "Pure Nim Brotli compressor/decompressor",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/nbrotli",
+  "tags": [
+    "compressor",
+    "encoder",
+    "brotli",
+    "google",
+    "port",
+    "decompressor",
+    "decoder",
+    "algo"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2a72ff0aa8a413047560ca9b728b1c0282044132",
+      "time": 1787949600
+    }
+  }
+}

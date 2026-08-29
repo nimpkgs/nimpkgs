@@ -1,0 +1,64 @@
+{
+  "name": "robocode_tankroyale_botapi",
+  "url": "https://github.com/SirStone/robocode_tankroyale_botapi",
+  "method": "git",
+  "description": "Nim Bot API for Robocode Tank Royale — community-maintained",
+  "license": "Apache-2.0",
+  "web": "https://github.com/SirStone/robocode_tankroyale_botapi",
+  "tags": [
+    "robocode",
+    "tankroyale",
+    "bot-api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.5",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "jsony",
+          "str": ">= 1.1.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.1.5"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.5",
+        "hash": "52ba1af56a810ea4a8f25248ed62a779b7a3fc9d",
+        "time": 1787908843
+      },
+      {
+        "tag": "v1.0.4",
+        "hash": "4ab8d065b5155de58fa02ac496a4900042784e89",
+        "time": 1787900389
+      },
+      {
+        "tag": "v1.0.4-rc1",
+        "hash": "2e6d3665703bf6ab43d806f59f90c26ff65bf11e",
+        "time": 1787899755
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "16cc3e5ed78cd80684a58e6df1fd71f82bebfab9",
+        "time": 1787864624
+      }
+    ],
+    "commit": {
+      "hash": "d4e41aa081110602c6715a5537fa158506e65b91",
+      "time": 1787923782
+    }
+  }
+}
