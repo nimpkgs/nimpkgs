@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.11.0",
+      "version": "0.12.0",
       "requires": [
         {
           "name": "nim",
@@ -45,10 +45,10 @@
         },
         {
           "name": "siwin",
-          "str": ">= 1.1.0",
+          "str": "#96ca695",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "1.1.0"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
@@ -69,10 +69,10 @@
         },
         {
           "name": "harfbuzz]",
-          "str": ">= 0.35.1",
+          "str": ">= 0.35.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.35.1"
+            "ver": "0.35.2"
           }
         },
         {
@@ -93,10 +93,10 @@
         },
         {
           "name": "siwin]",
-          "str": ">= 0.27.2",
+          "str": ">= 0.27.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.27.2"
+            "ver": "0.27.3"
           }
         },
         {
@@ -114,12 +114,41 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
+        },
+        {
+          "name": "regex",
+          "str": ">= 0.26.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.26.3"
+          }
+        },
+        {
+          "name": "faststreams",
+          "str": ">= 0.5.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.1"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.12.0",
+        "hash": "ed9c67f3953d1ec867bec3c340852f069ec5c5b9",
+        "time": 1788055959
+      },
       {
         "tag": "v0.11.0",
         "hash": "2582bdae1a087e28d44a954ba839888558919001",
@@ -232,8 +261,8 @@
       }
     ],
     "commit": {
-      "hash": "40ac8140a7fcb8c5a625d1e5ddd9da3630f2bf95",
-      "time": 1787958011
+      "hash": "6ff3f71f4fa3d9c70596adcda3776fa9115552f9",
+      "time": 1788058580
     }
   }
 }
