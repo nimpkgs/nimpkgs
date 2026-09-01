@@ -1,0 +1,54 @@
+{
+  "name": "nlp",
+  "url": "https://github.com/cheeseonamonkey/nim-nlp",
+  "method": "git",
+  "description": "Dependency-free NLP toolkit for Nim: tokenization, normalization, stemming, TF-IDF, BM25, and text analysis",
+  "license": "MIT",
+  "web": "https://github.com/cheeseonamonkey/nim-nlp",
+  "tags": [
+    "nlp",
+    "text-processing",
+    "stemming",
+    "tfidf",
+    "bm25",
+    "lda"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "d8f0bb882323939739dc1e6790bb967ef65fdd4f",
+        "time": 1787999637
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "f2624b78c2b78df18b6b79a4e39623c8ba08303b",
+        "time": 1787778742
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "5bf60363b6925e3079f937eeed93ec60f299fc8f",
+        "time": 1787778493
+      }
+    ],
+    "commit": {
+      "hash": "d8f0bb882323939739dc1e6790bb967ef65fdd4f",
+      "time": 1787999637
+    }
+  }
+}

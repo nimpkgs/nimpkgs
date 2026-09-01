@@ -18,7 +18,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "4.0.7",
+      "version": "4.4.1",
       "requires": [
         {
           "name": "nim",
@@ -29,43 +29,43 @@
           }
         },
         {
-          "name": "results",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "stew",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "bearssl",
-          "str": ">= 0.2.7",
+          "str": ">= 0.2.13",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.7"
+            "ver": "0.2.13"
           }
         },
         {
           "name": "httputils",
-          "str": "any version",
+          "str": ">= 0.5.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.1"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
           }
         },
         {
           "name": "unittest2",
-          "str": "any version",
+          "str": ">= 0.2.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         }
       ],
@@ -73,6 +73,21 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v4.4.1",
+        "hash": "40f8087c815403d64e3dd4044411022cc4bedd5b",
+        "time": 1788184900
+      },
+      {
+        "tag": "v4.2.5",
+        "hash": "0ab802baef6bf16a8e3cc7d8a5c3128ddafadec5",
+        "time": 1788159166
+      },
+      {
+        "tag": "v4.0.8",
+        "hash": "71533a80606c101e7614481fa121b283611373ef",
+        "time": 1788159155
+      },
       {
         "tag": "v4.0.7",
         "hash": "ba9a01bb210d62606562fd212a1f40f912c9c290",
@@ -150,8 +165,8 @@
       }
     ],
     "commit": {
-      "hash": "5adeb72087c3543fd67d048e652f74878235e3ce",
-      "time": 1787924136
+      "hash": "471810b76d8782506fc6ab1a87ff19d177a92386",
+      "time": 1788163323
     }
   }
 }

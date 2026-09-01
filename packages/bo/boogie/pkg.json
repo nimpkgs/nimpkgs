@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.3",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -35,19 +35,35 @@
           }
         },
         {
-          "name": "flatty",
-          "str": ">= 0.4.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.0"
-          }
-        },
-        {
           "name": "openparser",
           "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "vancode",
+          "str": ">= 0.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.6"
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "db_connector",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -55,6 +71,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "58c50c4ab428c2d3cd7bf2cec2568396b63da8c7",
+        "time": 1788212376
+      },
       {
         "tag": "0.1.3",
         "hash": "69e47aa60a086e19a3d99b5630b5f1e3850ce989",
@@ -77,8 +98,8 @@
       }
     ],
     "commit": {
-      "hash": "69e47aa60a086e19a3d99b5630b5f1e3850ce989",
-      "time": 1787651360
+      "hash": "58c50c4ab428c2d3cd7bf2cec2568396b63da8c7",
+      "time": 1788212376
     }
   }
 }

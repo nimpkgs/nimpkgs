@@ -1,0 +1,45 @@
+{
+  "name": "unirate_api",
+  "url": "https://github.com/UniRate-API/unirate-api-nim",
+  "method": "git",
+  "description": "Official Nim client for the UniRate API — free currency exchange rates, historical data, and VAT rates.",
+  "license": "MIT",
+  "web": "https://github.com/UniRate-API/unirate-api-nim",
+  "tags": [
+    "unirate",
+    "exchange-rates",
+    "currency",
+    "forex",
+    "vat",
+    "fintech",
+    "api-client"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "a04e39478cc1ecb1d4fb3070e4baa6f7d1e86426",
+        "time": 1788062844
+      }
+    ],
+    "commit": {
+      "hash": "a04e39478cc1ecb1d4fb3070e4baa6f7d1e86426",
+      "time": 1788062844
+    }
+  }
+}

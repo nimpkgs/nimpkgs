@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.12.0",
+      "version": "0.14.0",
       "requires": [
         {
           "name": "nim",
@@ -37,10 +37,18 @@
         },
         {
           "name": "chronicles",
-          "str": "any version",
+          "str": ">= 0.4",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4"
+          }
+        },
+        {
+          "name": "crunchy",
+          "str": ">= 0.1.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.11"
           }
         },
         {
@@ -53,10 +61,10 @@
         },
         {
           "name": "figdraw",
-          "str": "any version",
+          "str": ">= 0.35.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.35.2"
           }
         },
         {
@@ -69,18 +77,18 @@
         },
         {
           "name": "harfbuzz]",
-          "str": ">= 0.35.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.35.2"
-          }
-        },
-        {
-          "name": "sigils",
           "str": "any version",
           "ver": {
             "kind": "verAny",
             "ver": ""
+          }
+        },
+        {
+          "name": "sigils",
+          "str": ">= 0.27.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.27.4"
           }
         },
         {
@@ -92,11 +100,19 @@
           }
         },
         {
-          "name": "siwin]",
-          "str": ">= 0.27.3",
+          "name": "siwin",
+          "str": "any version",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.27.3"
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "chronos]",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
@@ -124,19 +140,19 @@
           }
         },
         {
-          "name": "regex",
-          "str": ">= 0.26.3",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.26.3"
-          }
-        },
-        {
           "name": "faststreams",
           "str": ">= 0.5.1",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.5.1"
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/nim-markdown",
+          "str": "#devel",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
           }
         }
       ],
@@ -144,6 +160,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.14.0",
+        "hash": "495f886ad7569b8ec322454ffd4b1d691b81279d",
+        "time": 1788232298
+      },
       {
         "tag": "v0.12.0",
         "hash": "ed9c67f3953d1ec867bec3c340852f069ec5c5b9",
@@ -261,8 +282,8 @@
       }
     ],
     "commit": {
-      "hash": "6e93696d872d8938c49d76e888341431df9fe273",
-      "time": 1788148621
+      "hash": "b378d8637d0786e1553ba81b46e556d20a95fae2",
+      "time": 1788232258
     }
   }
 }

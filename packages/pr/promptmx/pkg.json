@@ -1,0 +1,45 @@
+{
+  "name": "promptmx",
+  "url": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git",
+  "method": "git",
+  "description": "Automates batch image generation in Draw Things using structured prompts, variable substitution, and unified settings for fast, repeatable creative workflows.",
+  "license": "CC BY-NC-SA 4.0",
+  "web": "https://github.com/lipunila-sonaliwan-fr/nim.drawit.git",
+  "tags": [
+    "LPCS",
+    "Lab'Oratoire",
+    "automation",
+    "DrawThings",
+    "prompting",
+    "batch_generation",
+    "workflow",
+    "sonaliwan",
+    "french",
+    "english",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "drawit"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "e7fdc233b35b0c5d7e5e7e2b4f44d3f8bab67754",
+      "time": 1788196198
+    }
+  }
+}

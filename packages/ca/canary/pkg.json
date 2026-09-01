@@ -1,0 +1,85 @@
+{
+  "name": "canary",
+  "url": "https://github.com/titanomachy/canary",
+  "method": "git",
+  "description": "A lightweight, stateless service health and uptime monitoring CLI in Nim for Linux.",
+  "license": "MIT",
+  "web": "https://github.com/titanomachy/canary",
+  "tags": [
+    "monitoring",
+    "health-check",
+    "uptime",
+    "http",
+    "tls",
+    "tcp",
+    "icmp",
+    "dns",
+    "networking",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "confutils",
+          "str": ">= 0.1.1 & < 0.2.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "toml_serialization",
+          "str": ">= 0.2.18 & < 0.3.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "nim_sqlite",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "canary"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.2",
+        "hash": "bbe6d703a065af45ce86d16b58095e655615dd9a",
+        "time": 1788202774
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "51f670ded83ff3d9c4609b0960e2139a610fb05c",
+        "time": 1788195215
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "f50a4146c39477486ab9ea22e0a2e94795390e13",
+        "time": 1788185183
+      }
+    ],
+    "commit": {
+      "hash": "60b9e1042752ae85ce2c63294d7898fda6b14d77",
+      "time": 1788217854
+    }
+  }
+}

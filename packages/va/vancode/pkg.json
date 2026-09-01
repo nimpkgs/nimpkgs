@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.6",
+      "version": "0.2.7",
       "requires": [
         {
           "name": "nim",
@@ -39,18 +39,18 @@
         },
         {
           "name": "openparser",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "flysystem",
           "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "flatty",
-          "str": ">= 0.4.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.0"
           }
         },
         {
@@ -82,6 +82,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.8",
+        "hash": "18e1fd524ac95261ac2f5293d63775bfca0576cd",
+        "time": 1788205129
+      },
+      {
+        "tag": "0.2.7",
+        "hash": "da80a6541fcc71356b1a848c98451680330bf273",
+        "time": 1788199588
+      },
       {
         "tag": "0.2.6",
         "hash": "a0ccf6cd1fa938a849e65f5bffebaeb2bf17734f",
@@ -164,8 +174,8 @@
       }
     ],
     "commit": {
-      "hash": "4ac8c1689b9e24727f9ef792ff97a903c1d421c7",
-      "time": 1788120709
+      "hash": "18e1fd524ac95261ac2f5293d63775bfca0576cd",
+      "time": 1788205129
     }
   }
 }

@@ -1,0 +1,109 @@
+{
+  "name": "datpkgr",
+  "url": "https://github.com/openpeeps/datpkgr",
+  "method": "git",
+  "description": "App/Lang-agnostic package manager library",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/datpkgr",
+  "tags": [
+    "dfs",
+    "packager",
+    "manager",
+    "kit",
+    "semver",
+    "devkit"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "semver",
+          "str": ">= 1.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.3"
+          }
+        },
+        {
+          "name": "boogie",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "sweetsyntax",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "malebolgia",
+          "str": ">= 1.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.0"
+          }
+        },
+        {
+          "name": "threading",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "flysystem",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "mimedb",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "c6418d758b37fa246d97e2b05f67cc254ec454f8",
+      "time": 1788161361
+    }
+  }
+}
