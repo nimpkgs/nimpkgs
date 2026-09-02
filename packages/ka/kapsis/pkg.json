@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.7",
+      "version": "0.4.8",
       "requires": [
         {
           "name": "nim",
@@ -27,18 +27,18 @@
         },
         {
           "name": "voodoo",
-          "str": ">= 0.1.9",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.2.0"
           }
         },
         {
           "name": "valido",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.1"
           }
         },
         {
@@ -78,6 +78,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.4.8",
+        "hash": "3ec9725e1c0c2c2845d12b2340e660099b21319e",
+        "time": 1788253658
+      },
       {
         "tag": "0.4.7",
         "hash": "87856e98537ba7fff14dc69ec62bda6392748417",
@@ -135,8 +140,8 @@
       }
     ],
     "commit": {
-      "hash": "87856e98537ba7fff14dc69ec62bda6392748417",
-      "time": 1787409638
+      "hash": "3ec9725e1c0c2c2845d12b2340e660099b21319e",
+      "time": 1788253658
     }
   }
 }

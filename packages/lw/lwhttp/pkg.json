@@ -1,0 +1,44 @@
+{
+  "name": "lwhttp",
+  "url": "https://github.com/capocasa/lwhttp",
+  "method": "git",
+  "description": "Friendly embedded web server based on the lwip TCP/IP stack for the Raspberry Pi Pico W",
+  "license": "MIT",
+  "tags": [
+    "web",
+    "http",
+    "server",
+    "embedded",
+    "pico",
+    "raspberrypi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/capocasa/picostdlib",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "9d2a005dfb32ba78990a3ad8688b71c352c2877b",
+      "time": 1788272709
+    }
+  }
+}

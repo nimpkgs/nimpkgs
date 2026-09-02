@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.4",
+      "version": "0.2.6",
       "requires": [
         {
           "name": "nim",
@@ -43,10 +43,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.4.6",
+          "str": ">= 0.4.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.6"
+            "ver": "0.4.7"
           }
         },
         {
@@ -88,6 +88,22 @@
             "kind": "verEqLater",
             "ver": "0.1.0"
           }
+        },
+        {
+          "name": "datpkgr",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "flysystem",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
         }
       ],
       "bin": [
@@ -97,6 +113,16 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.6",
+        "hash": "e5024dbf74e495bdd953a6221541b4599be5b765",
+        "time": 1788285270
+      },
+      {
+        "tag": "0.2.5",
+        "hash": "dfa828719314b63b137837b60eeb6068cdc78280",
+        "time": 1788244853
+      },
       {
         "tag": "0.2.4",
         "hash": "b892ae6d71923ca654b8a57ad0f1004defb75f1d",
@@ -169,8 +195,8 @@
       }
     ],
     "commit": {
-      "hash": "5936fffd9f4edab7de034d73e0102065c75fc78a",
-      "time": 1788212002
+      "hash": "e5024dbf74e495bdd953a6221541b4599be5b765",
+      "time": 1788285270
     }
   }
 }
