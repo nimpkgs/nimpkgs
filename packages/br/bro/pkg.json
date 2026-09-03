@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
@@ -27,34 +27,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.3.4",
+          "str": ">= 0.4.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.4"
-          }
-        },
-        {
-          "name": "openparser",
-          "str": ">= 0.1.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.2"
-          }
-        },
-        {
-          "name": "flatty",
-          "str": ">= 0.4.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.0"
-          }
-        },
-        {
-          "name": "checksums",
-          "str": ">= 0.2.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.2"
+            "ver": "0.4.5"
           }
         },
         {
@@ -66,35 +42,43 @@
           }
         },
         {
-          "name": "voodoo",
-          "str": ">= 0.1.9",
+          "name": "openparser",
+          "str": ">= 0.3.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.3.1"
           }
         },
         {
-          "name": "vancode",
-          "str": ">= 0.1.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.1"
-          }
-        },
-        {
-          "name": "chroma",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "watchout",
+          "name": "checksums",
           "str": ">= 0.2.2",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "vancode",
+          "str": ">= 0.2.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.7"
+          }
+        },
+        {
+          "name": "watchout",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
           }
         }
       ],
@@ -104,16 +88,9 @@
       "srcDir": "src"
     },
     "hasBin": true,
-    "versions": [
-      {
-        "tag": "0.1.0",
-        "hash": "b0064edb23f1ae4ba6938bedf2d071007d3ae59a",
-        "time": 1785440177
-      }
-    ],
     "commit": {
-      "hash": "f592d0d2514d369e0afb3a929c4692c099d052e7",
-      "time": 1788119781
+      "hash": "d7fa01d07aeee7cf9575a1dd0498825bc7a6d143",
+      "time": 1788338902
     }
   }
 }

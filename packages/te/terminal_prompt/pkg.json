@@ -1,0 +1,71 @@
+{
+  "name": "terminal_prompt",
+  "url": "https://github.com/titanomachy/terminal-prompt",
+  "method": "git",
+  "description": "Pure-Nim terminal input boxes, password masking, single-select, multi-select, and confirm prompts.",
+  "license": "MIT",
+  "web": "https://github.com/titanomachy/terminal-prompt",
+  "tags": [
+    "terminal",
+    "tui",
+    "cli",
+    "prompt",
+    "input",
+    "boxes",
+    "password",
+    "masking",
+    "single-select",
+    "multi-select",
+    "confirm",
+    "prompts"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/titanomachy/terminal-screen.git",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "terminal_style",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "43f29a367f2d54d2c6ee0a2b9ae768bd1d5b5786",
+        "time": 1788316948
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "f68787862af4ec5d509d45d95519edec9e57246b",
+        "time": 1788280459
+      }
+    ],
+    "commit": {
+      "hash": "3588b1977bf4f80b3937adee9cfa711801976432",
+      "time": 1788399292
+    }
+  }
+}

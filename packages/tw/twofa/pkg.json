@@ -26,7 +26,7 @@
           }
         },
         {
-          "name": "qr",
+          "name": "openparser",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -38,8 +38,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "04123df47e15832de3d1b6e2757240ea629f04eb",
-      "time": 1780391996
+      "hash": "b80ff40f91b55686b958ff1509d27dc7cdf392c1",
+      "time": 1788347846
     }
   }
 }

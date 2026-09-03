@@ -1,0 +1,54 @@
+{
+  "name": "terminal_screen",
+  "url": "https://github.com/titanomachy/terminal-screen",
+  "method": "git",
+  "description": "Pure-Nim Terminal screen and cursor manipulation library providing alternate screen buffers, raw mode toggling, and terminal geometry detection.",
+  "license": "MIT",
+  "web": "https://github.com/titanomachy/terminal-screen",
+  "tags": [
+    "terminal",
+    "screen",
+    "buffer",
+    "cursor",
+    "manipulation",
+    "raw",
+    "mode",
+    "geometry",
+    "detection",
+    "cli",
+    "interactive"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "04cc0716e35b802d1f093fa5839c331edafe87ea",
+        "time": 1788316335
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "f96346e13e18899a077f2a8a40a3dab72a03ede9",
+        "time": 1788280619
+      }
+    ],
+    "commit": {
+      "hash": "de4e49e31b0c1728e4a8313194f8ad95b9b59c58",
+      "time": 1788315131
+    }
+  }
+}
