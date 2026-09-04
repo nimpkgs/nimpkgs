@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.0.1",
+      "version": "2.0.2",
       "requires": [
         {
           "name": "nim",
@@ -26,10 +26,10 @@
         },
         {
           "name": "https://github.com/gabearro/cps-runtime",
-          "str": "2.0.1",
+          "str": "2.0.2",
           "ver": {
             "kind": "verEq",
-            "ver": "2.0.1"
+            "ver": "2.0.2"
           }
         }
       ],
@@ -37,6 +37,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v2.0.2",
+        "hash": "2043f7a1f467368eda3f5f2e3b4828e4f7e187b7",
+        "time": 1788463628
+      },
       {
         "tag": "v2.0.1",
         "hash": "9c0c6c979def2ab4c220ac5478d58a4c22c7793b",
@@ -74,8 +79,8 @@
       }
     ],
     "commit": {
-      "hash": "9c0c6c979def2ab4c220ac5478d58a4c22c7793b",
-      "time": 1788197681
+      "hash": "2043f7a1f467368eda3f5f2e3b4828e4f7e187b7",
+      "time": 1788463628
     }
   }
 }

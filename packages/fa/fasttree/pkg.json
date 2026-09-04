@@ -1,0 +1,33 @@
+{
+  "name": "fasttree",
+  "url": "https://github.com/Zenit-Linux/libfasttree",
+  "method": "git",
+  "description": "Successor to OSTree: content-addressable, block-oriented, no hardlinks.",
+  "license": "MIT",
+  "tags": [
+    "ostree",
+    "container",
+    "oci",
+    "composefs",
+    "overlayfs"
+  ],
+  "meta": {
+    "broken": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "71ff9ce561f734c7d867ea928e28da1ce3cddb8e",
+        "time": 1770836496
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "33d6e8b665ee5decb2f87a49d39c8db19ec18de5",
+        "time": 1770753032
+      }
+    ],
+    "commit": {
+      "hash": "432ddff174bdc69e48fb6e59be06decc1629502e",
+      "time": 1788443603
+    }
+  }
+}

@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.14.0",
+      "version": "0.16.0",
       "requires": [
         {
           "name": "nim",
@@ -60,11 +60,11 @@
           }
         },
         {
-          "name": "figdraw",
-          "str": ">= 0.35.2",
+          "name": "https://github.com/elcritch/figdraw",
+          "str": ">= 0.36.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.35.2"
+            "ver": "0.36.0"
           }
         },
         {
@@ -154,12 +154,46 @@
             "kind": "verSpecial",
             "ver": ""
           }
+        },
+        {
+          "name": "https://github.com/elcritch/matter",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/terminex",
+          "str": ">= 0.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3"
+          }
+        },
+        {
+          "name": "https://github.com/Araq/iconbundler",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.16.0",
+        "hash": "140fe3ea15c0993b7945cfbbf72c99381526b6cb",
+        "time": 1788475610
+      },
+      {
+        "tag": "v0.15.5",
+        "hash": "cb9b5ea6a211b088b5e82f465fc4ba1cb3211463",
+        "time": 1788410796
+      },
       {
         "tag": "v0.14.0",
         "hash": "495f886ad7569b8ec322454ffd4b1d691b81279d",
@@ -282,8 +316,8 @@
       }
     ],
     "commit": {
-      "hash": "b9415b05bf164187987d726cd663c9f3b9590fce",
-      "time": 1788401106
+      "hash": "e4f5174736067a44323039ad745a6db9024159bd",
+      "time": 1788492484
     }
   }
 }
