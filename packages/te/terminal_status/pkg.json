@@ -1,0 +1,69 @@
+{
+  "name": "terminal_status",
+  "url": "https://github.com/titanomachy/terminal-status",
+  "method": "git",
+  "description": "Pure-Nim terminal spinners, single and multi-progress bars, and task step-trackers.",
+  "license": "MIT",
+  "web": "https://github.com/titanomachy/terminal-status",
+  "tags": [
+    "terminal",
+    "tui",
+    "cli",
+    "terminaldeck",
+    "status",
+    "spinner",
+    "progress",
+    "tasks",
+    "ansi",
+    "unicode"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "terminal_screen",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "terminal_style",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.1",
+        "hash": "ef01c1799b3d960b0a0d590eac64339fd1c68492",
+        "time": 1788534735
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "d9286b93c5602edb38e54e1f310a085d235fab74",
+        "time": 1788530045
+      }
+    ],
+    "commit": {
+      "hash": "1c5476ad8feb847fca672e807a93ff98a7b79f91",
+      "time": 1788535329
+    }
+  }
+}

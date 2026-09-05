@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.16.0",
+      "version": "0.16.1",
       "requires": [
         {
           "name": "nim",
@@ -52,8 +52,8 @@
           }
         },
         {
-          "name": "siwin",
-          "str": "#96ca695",
+          "name": "https://github.com/elcritch/siwin",
+          "str": "#fix-x11-unbounded-size-limits",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -184,6 +184,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.16.1",
+        "hash": "f7dc78b794ebc0ba6bf60c251ea4231b702cc278",
+        "time": 1788499824
+      },
       {
         "tag": "v0.16.0",
         "hash": "140fe3ea15c0993b7945cfbbf72c99381526b6cb",
@@ -316,8 +321,8 @@
       }
     ],
     "commit": {
-      "hash": "e4f5174736067a44323039ad745a6db9024159bd",
-      "time": 1788492484
+      "hash": "0465677151bb1e257e478352bf33a3231df352a6",
+      "time": 1788574636
     }
   }
 }

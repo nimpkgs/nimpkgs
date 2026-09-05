@@ -114,9 +114,16 @@
       "srcDir": "src"
     },
     "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "0156b4910a5d05de3d8f1fd1a3d80715e7c228b2",
+        "time": 1788507404
+      }
+    ],
     "commit": {
-      "hash": "3f806696ffc35933b2c79f5bd732aec065da6805",
-      "time": 1786872426
+      "hash": "0156b4910a5d05de3d8f1fd1a3d80715e7c228b2",
+      "time": 1788507404
     }
   }
 }

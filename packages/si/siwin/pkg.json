@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "requires": [
         {
           "name": "nim",
@@ -23,18 +23,18 @@
         },
         {
           "name": "chroma",
-          "str": ">= 0.2.6",
+          "str": ">= 1.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.6"
+            "ver": "1.0.0"
           }
         },
         {
           "name": "vmath",
-          "str": ">= 1.1.4",
+          "str": ">= 3.0.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.1.4"
+            "ver": "3.0.0"
           }
         },
         {
@@ -50,6 +50,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "1.1.1",
+        "hash": "a70c4666915169867fde3b65cf9d664c58e2cb0b",
+        "time": 1788552057
+      },
       {
         "tag": "1.1.0",
         "hash": "09a7a21b7bba34b1cd9c1bcf3609029705cd6f52",
@@ -202,8 +207,8 @@
       }
     ],
     "commit": {
-      "hash": "11e819b6769d6db141e5b8ac7e900b32badc0af0",
-      "time": 1788200373
+      "hash": "a70c4666915169867fde3b65cf9d664c58e2cb0b",
+      "time": 1788552057
     }
   }
 }

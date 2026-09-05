@@ -13,69 +13,37 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.30",
+      "version": "0.2.31",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 2.0.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
-          }
-        },
-        {
-          "name": "faststreams",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "stew",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "results",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "json_serialization",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "2.0.10"
           }
         },
         {
           "name": "chronicles",
-          "str": "any version",
+          "str": ">= 0.12.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.12.0"
           }
         },
         {
-          "name": "https://github.com/status-im/nim-zlib",
-          "str": "any version",
+          "name": "faststreams",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
           }
         },
         {
-          "name": "unittest2",
-          "str": "any version",
+          "name": "https://github.com/status-im/nim-bearssl",
+          "str": "#head",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -88,11 +56,43 @@
           }
         },
         {
-          "name": "https://github.com/status-im/nim-bearssl",
-          "str": "#head",
+          "name": "https://github.com/status-im/nim-zlib",
+          "str": "any version",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verAny",
             "ver": ""
+          }
+        },
+        {
+          "name": "json_serialization",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         }
       ],
@@ -100,8 +100,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "e98bb8fea6be7766424d29655e5fe32d6d37a284",
-      "time": 1787552167
+      "hash": "5e088af8fabfc612566d6ae1898c73de313db3cf",
+      "time": 1788511924
     }
   }
 }
