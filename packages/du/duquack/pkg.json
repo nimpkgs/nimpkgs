@@ -1,0 +1,45 @@
+{
+  "name": "duquack",
+  "url": "https://github.com/lipunila-sonaliwan-fr/nim.duckdb",
+  "method": "git",
+  "description": "Nim interface to DuckDB / Quack and samples, including duQuack server.",
+  "license": "CC BY-NC-SA 4.0",
+  "web": "https://github.com/lipunila-sonaliwan-fr/nim.duckdb",
+  "tags": [
+    "LPCS",
+    "Lab'Oratoire",
+    "automation",
+    "database",
+    "duckdb",
+    "quack",
+    "server",
+    "sonaliwan",
+    "french",
+    "english",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "duquack"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "32508702d91070eb898e8f58e853681b767e43ec",
+      "time": 1788620696
+    }
+  }
+}
