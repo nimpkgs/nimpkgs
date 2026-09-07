@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.16.1",
+      "version": "0.17.1",
       "requires": [
         {
           "name": "nim",
@@ -52,19 +52,19 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/siwin",
-          "str": "#fix-x11-unbounded-size-limits",
+          "name": "siwin",
+          "str": "#master",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
           }
         },
         {
-          "name": "https://github.com/elcritch/figdraw",
-          "str": ">= 0.36.0",
+          "name": "figdraw",
+          "str": ">= 0.37.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.36.0"
+            "ver": "0.37.0"
           }
         },
         {
@@ -116,7 +116,7 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/kiwiberry",
+          "name": "kiwiberry",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -165,10 +165,10 @@
         },
         {
           "name": "https://github.com/elcritch/terminex",
-          "str": ">= 0.3",
+          "str": "#fix/bounded-pty-shutdown",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.3"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
@@ -178,12 +178,38 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "libbacktrace",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "zippy",
+          "str": ">= 0.10.20",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.10.20"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.17.1",
+        "hash": "ad7eaf9cf7e2bbdd7939a6655a950cf20c20707b",
+        "time": 1788751753
+      },
+      {
+        "tag": "v0.17.0",
+        "hash": "5a885de3f9f515c896d10696e8818afd11ecd491",
+        "time": 1788748933
+      },
       {
         "tag": "v0.16.1",
         "hash": "f7dc78b794ebc0ba6bf60c251ea4231b702cc278",
@@ -321,8 +347,8 @@
       }
     ],
     "commit": {
-      "hash": "bee7027acf0fd84fb501e8c7ce072d53a5000a85",
-      "time": 1788582821
+      "hash": "ad7eaf9cf7e2bbdd7939a6655a950cf20c20707b",
+      "time": 1788751753
     }
   }
 }

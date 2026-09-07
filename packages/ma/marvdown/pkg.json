@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.2",
+      "version": "0.2.3",
       "requires": [
         {
           "name": "nim",
@@ -30,13 +30,28 @@
             "kind": "verEqLater",
             "ver": "0.2.0"
           }
+        },
+        {
+          "name": "kapsis",
+          "str": ">= 0.4.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.8"
+          }
         }
       ],
-      "bin": [],
+      "bin": [
+        "marvdown"
+      ],
       "srcDir": "src"
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.3",
+        "hash": "50050ff3604b27112fa3f3d23930fc98b53a6bd5",
+        "time": 1788727762
+      },
       {
         "tag": "0.2.2",
         "hash": "1a27517451162610bb986bdd2b9c433c51e7cf7b",
@@ -89,8 +104,8 @@
       }
     ],
     "commit": {
-      "hash": "1a27517451162610bb986bdd2b9c433c51e7cf7b",
-      "time": 1788367527
+      "hash": "50050ff3604b27112fa3f3d23930fc98b53a6bd5",
+      "time": 1788727762
     }
   }
 }
