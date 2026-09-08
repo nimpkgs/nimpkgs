@@ -1,0 +1,59 @@
+{
+  "name": "nimorphy",
+  "url": "https://github.com/framefrok/nimorphy",
+  "method": "git",
+  "description": "High-performance Russian morphological analyzer and synthesizer for Nim (Pymorphy alternative)",
+  "license": "MIT",
+  "web": "https://github.com/framefrok/nimorphy",
+  "tags": [
+    "nlp",
+    "morphology",
+    "russian",
+    "linguistics",
+    "pymorphy",
+    "text-processing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.3",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.3",
+        "hash": "60a1082795dd6e49787539737fa29e92daa38408",
+        "time": 1788813742
+      },
+      {
+        "tag": "v0.1.2",
+        "hash": "dc08e37228519572b93e66ba94ee3dad91c4060d",
+        "time": 1788802321
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "b3aa17eed7c5be05cc11f32be7fc1b57ef4c6c2f",
+        "time": 1788798205
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "aa8811fc594ddc6deda2d84df300f3a33802550f",
+        "time": 1788796802
+      }
+    ],
+    "commit": {
+      "hash": "29d8a1a4fb91302833b50078dabd5a00d34f134e",
+      "time": 1788817176
+    }
+  }
+}

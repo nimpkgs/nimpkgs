@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.4.6",
+      "version": "2.0.0",
       "requires": [
         {
           "name": "nim",
@@ -29,12 +29,29 @@
             "kind": "verEqLater",
             "ver": "1.10.0"
           }
+        },
+        {
+          "name": "nio",
+          "str": ">= 0.7.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.12"
+          }
         }
       ],
-      "bin": [],
+      "bin": [
+        "suggest",
+        "tspell"
+      ],
       "srcDir": ""
     },
+    "hasBin": true,
     "versions": [
+      {
+        "tag": "v2.0.0",
+        "hash": "5180e9c8bba6332b164237b6a1931995b073a006",
+        "time": 1788789358
+      },
       {
         "tag": "1.4.6",
         "hash": "db4bcc399889fa4fc13220d88c294dde10f0781c",
@@ -92,8 +109,8 @@
       }
     ],
     "commit": {
-      "hash": "85b944415a2805b128659d203431aaffa7c96c1e",
-      "time": 1788696184
+      "hash": "5180e9c8bba6332b164237b6a1931995b073a006",
+      "time": 1788789358
     }
   }
 }

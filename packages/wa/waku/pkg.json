@@ -15,22 +15,22 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.38.1",
+      "version": "0.39.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.2.4",
+          "str": "2.2.6",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "2.2.4"
+            "kind": "verEq",
+            "ver": "2.2.6"
           }
         },
         {
           "name": "chronos",
-          "str": ">= 4.2.0",
+          "str": ">= 4.2.0 & < 4.4.0",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "4.2.0"
+            "kind": "verIntersect",
+            "ver": ""
           }
         },
         {
@@ -90,27 +90,19 @@
           }
         },
         {
-          "name": "https://github.com/vacp2p/nim-libp2p.git",
-          "str": "#v2.0.0",
+          "name": "libp2p",
+          "str": "2.3.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEq",
+            "ver": "2.3.1"
           }
         },
         {
           "name": "eth",
-          "str": "any version",
+          "str": "0.9.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "nat_traversal",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEq",
+            "ver": "0.9.0"
           }
         },
         {
@@ -138,11 +130,11 @@
           }
         },
         {
-          "name": "websock",
-          "str": ">= 0.3.0",
+          "name": "https://github.com/status-im/nim-websock",
+          "str": "#387a8eb7e961e8fdd3b1a717d36bc53b55e4dc5d",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.3.0"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
@@ -154,10 +146,10 @@
           }
         },
         {
-          "name": "secp256k1",
-          "str": "any version",
+          "name": "https://github.com/status-im/nim-secp256k1",
+          "str": "#d8f1288b7c72f00be5fc2c5ea72bf5cae1eafb15",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -170,11 +162,11 @@
           }
         },
         {
-          "name": "https://github.com/status-im/nim-json-rpc.git",
-          "str": "#v0.6.1",
+          "name": "json_rpc",
+          "str": "0.6.1",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEq",
+            "ver": "0.6.1"
           }
         },
         {
@@ -186,10 +178,10 @@
           }
         },
         {
-          "name": "web3",
-          "str": "any version",
+          "name": "https://github.com/status-im/nim-web3",
+          "str": "#cdfe5601d2812a58e54faf53ee634452d01e5918",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -226,10 +218,10 @@
           }
         },
         {
-          "name": "metrics",
-          "str": "any version",
+          "name": "https://github.com/status-im/nim-metrics",
+          "str": "#9f2e1d4a4164deb37603b16cedd1707408ee5955",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -275,10 +267,10 @@
         },
         {
           "name": "testutils",
-          "str": "any version",
+          "str": "0.8.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEq",
+            "ver": "0.8.1"
           }
         },
         {
@@ -291,7 +283,7 @@
         },
         {
           "name": "https://github.com/logos-messaging/nim-ffi",
-          "str": "#v0.1.3",
+          "str": "#07ee8e1d6500762bab290465457a8d23559de546",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -307,15 +299,23 @@
         },
         {
           "name": "https://github.com/NagyZoltanPeter/nim-brokers.git",
-          "str": "#v3.1.1",
+          "str": "#v3.3.0",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
           }
         },
         {
-          "name": "https://github.com/vacp2p/nim-lsquic.git",
-          "str": "#v0.5.1",
+          "name": "https://github.com/vacp2p/nim-lsquic",
+          "str": "#07783b55fb0ee7e9dc2dd9ced11548f84174306e",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/vacp2p/nim-boringssl",
+          "str": "#v0.0.11",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -331,7 +331,7 @@
         },
         {
           "name": "https://github.com/logos-co/nim-libp2p-mix",
-          "str": "#380513117d556bf8f70066f5e72a7fd74fe36ba6",
+          "str": "#39d2ac78da7b7f33562eb7cd95d6280ca9fa0e94",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -342,6 +342,16 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.39.0-rc.2",
+        "hash": "afaa82217112f3733d0d9278252c90c1d20a8832",
+        "time": 1788815185
+      },
+      {
+        "tag": "v0.39.0-rc.1",
+        "hash": "4db855c2eb884772e54ec690c3507ece4e84ad3f",
+        "time": 1788798722
+      },
       {
         "tag": "SMOKE_TEST_2026.06.25",
         "hash": "8386f5c99bdc4fff8d0e840a4256d21a8d708dfa",
@@ -629,8 +639,8 @@
       }
     ],
     "commit": {
-      "hash": "123fd3dd5ffc772519b03948d41882b7bc5793fc",
-      "time": 1788550916
+      "hash": "8c57cce021a16c5cd0e4a15ea0429d85a744d14e",
+      "time": 1788819231
     }
   }
 }

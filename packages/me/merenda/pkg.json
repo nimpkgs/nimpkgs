@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.17.1",
+      "version": "0.17.7",
       "requires": [
         {
           "name": "nim",
@@ -53,7 +53,7 @@
         },
         {
           "name": "siwin",
-          "str": "#master",
+          "str": "#5bc4ce6",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -61,10 +61,10 @@
         },
         {
           "name": "figdraw",
-          "str": ">= 0.37.0",
+          "str": ">= 0.37.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.37.0"
+            "ver": "0.37.1"
           }
         },
         {
@@ -157,18 +157,18 @@
         },
         {
           "name": "https://github.com/elcritch/matter",
-          "str": ">= 0.2.2",
+          "str": ">= 0.4.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.2"
+            "ver": "0.4.1"
           }
         },
         {
           "name": "https://github.com/elcritch/terminex",
-          "str": "#fix/bounded-pty-shutdown",
+          "str": ">= 0.3.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.0"
           }
         },
         {
@@ -194,12 +194,50 @@
             "kind": "verEqLater",
             "ver": "0.10.20"
           }
+        },
+        {
+          "name": "dmon",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.17.7",
+        "hash": "31074d75c4fdfdc4a078d248910972260039df10",
+        "time": 1788826617
+      },
+      {
+        "tag": "v0.17.6",
+        "hash": "98bf22a27fb958995702d2788dac58a5bed816f4",
+        "time": 1788810061
+      },
+      {
+        "tag": "v0.17.5",
+        "hash": "d4cff5e558abdd084e4e5f5ea7ba992cdc9aa66f",
+        "time": 1788781683
+      },
+      {
+        "tag": "v0.17.4",
+        "hash": "fe7c5f72cab3babc77e106f77d038d6535197516",
+        "time": 1788764195
+      },
+      {
+        "tag": "v0.17.3",
+        "hash": "2029e32df3653157d5ea767ce69e6899110f65f6",
+        "time": 1788760833
+      },
+      {
+        "tag": "v0.17.2",
+        "hash": "0471d2b53039b909053b837f27900d8fdf1ee6d5",
+        "time": 1788756533
+      },
       {
         "tag": "v0.17.1",
         "hash": "ad7eaf9cf7e2bbdd7939a6655a950cf20c20707b",
@@ -347,8 +385,8 @@
       }
     ],
     "commit": {
-      "hash": "ad7eaf9cf7e2bbdd7939a6655a950cf20c20707b",
-      "time": 1788751753
+      "hash": "31074d75c4fdfdc4a078d248910972260039df10",
+      "time": 1788826617
     }
   }
 }

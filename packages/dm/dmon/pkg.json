@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.0",
+      "version": "0.5.0",
       "requires": [
         {
           "name": "nim",
@@ -41,12 +41,25 @@
             "kind": "verEqLater",
             "ver": "3.9.4"
           }
+        },
+        {
+          "name": "chroniclers",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.5.0",
+        "hash": "008aca15210ebe837e1c8e30b1e24d17d703fb48",
+        "time": 1788755314
+      },
       {
         "tag": "v0.4.0",
         "hash": "b068e274bd5a45e44ef91a337261dd3eee7423b5",
@@ -89,8 +102,8 @@
       }
     ],
     "commit": {
-      "hash": "b068e274bd5a45e44ef91a337261dd3eee7423b5",
-      "time": 1738148823
+      "hash": "008aca15210ebe837e1c8e30b1e24d17d703fb48",
+      "time": 1788755314
     }
   }
 }

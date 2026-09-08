@@ -1,0 +1,43 @@
+{
+  "name": "naskell",
+  "url": "https://gitlab.com/joetroll/naskell",
+  "method": "git",
+  "description": "Haskell-inspired functional programming tools for Nim!",
+  "license": "0BSD",
+  "tags": [
+    "functional-programming",
+    "pattern-matching",
+    "currying",
+    "lambda",
+    "monads",
+    "lazy-eval"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "4b4482de4162b4de3418e67a34f1917b34e28e21",
+        "time": 1788775509
+      }
+    ],
+    "commit": {
+      "hash": "4b4482de4162b4de3418e67a34f1917b34e28e21",
+      "time": 1788775509
+    }
+  }
+}
