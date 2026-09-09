@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.17.7",
+      "version": "0.17.9",
       "requires": [
         {
           "name": "nim",
@@ -157,18 +157,18 @@
         },
         {
           "name": "https://github.com/elcritch/matter",
-          "str": ">= 0.4.1",
+          "str": "#333b79c75fa883a3ebb5ddd7d4fdbd7a11819b94",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.1"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
           "name": "https://github.com/elcritch/terminex",
-          "str": ">= 0.3.0",
+          "str": ">= 0.3.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.0"
+            "ver": "0.3.1"
           }
         },
         {
@@ -208,6 +208,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.17.9",
+        "hash": "e6393d6b6819415da2098af07db734b84acb95bb",
+        "time": 1788868912
+      },
+      {
+        "tag": "v0.17.8",
+        "hash": "b47986edff813bbf66a358122800cce4ff9695f0",
+        "time": 1788853344
+      },
       {
         "tag": "v0.17.7",
         "hash": "31074d75c4fdfdc4a078d248910972260039df10",
@@ -385,8 +395,8 @@
       }
     ],
     "commit": {
-      "hash": "31074d75c4fdfdc4a078d248910972260039df10",
-      "time": 1788826617
+      "hash": "e6393d6b6819415da2098af07db734b84acb95bb",
+      "time": 1788868912
     }
   }
 }

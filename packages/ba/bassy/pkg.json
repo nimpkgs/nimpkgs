@@ -1,0 +1,45 @@
+{
+  "name": "bassy",
+  "url": "https://github.com/treeform/bassy",
+  "method": "git",
+  "description": "A fast, safe, deterministic VM for games and untrusted scripts.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/bassy",
+  "tags": [
+    "basic",
+    "interpreter",
+    "vm",
+    "scripting",
+    "deterministic",
+    "game"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "https://github.com/treeform/fixxy",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "2be327cef714011e3fcafe006768b3d389726755",
+      "time": 1788832040
+    }
+  }
+}

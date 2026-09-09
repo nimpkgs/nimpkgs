@@ -1,0 +1,36 @@
+{
+  "name": "fixxy",
+  "url": "https://github.com/treeform/fixxy",
+  "method": "git",
+  "description": "Deterministic fixed-point numbers and 2D vectors.",
+  "license": "MIT",
+  "web": "https://github.com/treeform/fixxy",
+  "tags": [
+    "math",
+    "fixed-point",
+    "deterministic",
+    "vectors",
+    "game"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "05e5446dffb70093056cebb0c57721a60deaf52a",
+      "time": 1788830121
+    }
+  }
+}
