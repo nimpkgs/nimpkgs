@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.17.9",
+      "version": "0.18.0",
       "requires": [
         {
           "name": "nim",
@@ -61,10 +61,10 @@
         },
         {
           "name": "figdraw",
-          "str": ">= 0.37.1",
+          "str": ">= 0.37.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.37.1"
+            "ver": "0.37.4"
           }
         },
         {
@@ -85,10 +85,10 @@
         },
         {
           "name": "sigils",
-          "str": ">= 0.27.4",
+          "str": ">= 0.28.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.27.4"
+            "ver": "0.28.1"
           }
         },
         {
@@ -157,10 +157,10 @@
         },
         {
           "name": "https://github.com/elcritch/matter",
-          "str": "#333b79c75fa883a3ebb5ddd7d4fdbd7a11819b94",
+          "str": ">= 0.4.3",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.3"
           }
         },
         {
@@ -196,11 +196,11 @@
           }
         },
         {
-          "name": "dmon",
-          "str": ">= 0.5.0",
+          "name": "https://github.com/elcritch/dmon-nim",
+          "str": ">= 0.5.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.5.1"
           }
         }
       ],
@@ -208,6 +208,21 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.18.0",
+        "hash": "e8965cefc1da99d0bb769a624a6a33d2ebab8295",
+        "time": 1788960176
+      },
+      {
+        "tag": "v0.17.11",
+        "hash": "a78aa9fb35e6d00e0eca449ec8063dc0ad49f6a9",
+        "time": 1788953082
+      },
+      {
+        "tag": "v0.17.10",
+        "hash": "f8b5ba5768f42cbe8e87bd0bcbe84a2e3d5a884d",
+        "time": 1788929641
+      },
       {
         "tag": "v0.17.9",
         "hash": "e6393d6b6819415da2098af07db734b84acb95bb",
@@ -395,8 +410,8 @@
       }
     ],
     "commit": {
-      "hash": "e6393d6b6819415da2098af07db734b84acb95bb",
-      "time": 1788868912
+      "hash": "e8965cefc1da99d0bb769a624a6a33d2ebab8295",
+      "time": 1788960176
     }
   }
 }
