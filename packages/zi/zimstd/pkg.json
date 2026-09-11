@@ -1,0 +1,43 @@
+{
+  "name": "zimstd",
+  "url": "https://github.com/gabearro/zimstd",
+  "method": "git",
+  "description": "ZimSTD: pure Nim Zstandard compression and decompression",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/gabearro/zimstd",
+  "tags": [
+    "compression",
+    "zstd",
+    "zstandard",
+    "streaming",
+    "pure-nim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "ccc1dca38f05489fa711e06a43f6f374fa7d747e",
+        "time": 1788982436
+      }
+    ],
+    "commit": {
+      "hash": "ff109c8738010c3d91d8687f4c1b5f2a880baa7e",
+      "time": 1789038493
+    }
+  }
+}

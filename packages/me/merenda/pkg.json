@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.18.0",
+      "version": "0.18.1",
       "requires": [
         {
           "name": "nim",
@@ -53,7 +53,7 @@
         },
         {
           "name": "siwin",
-          "str": "#5bc4ce6",
+          "str": "#48c299e",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -116,6 +116,14 @@
           }
         },
         {
+          "name": "https://github.com/elcritch/variant",
+          "str": "#fix/ic-type-ids",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
           "name": "kiwiberry",
           "str": "any version",
           "ver": {
@@ -165,10 +173,10 @@
         },
         {
           "name": "https://github.com/elcritch/terminex",
-          "str": ">= 0.3.1",
+          "str": ">= 0.3.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.1"
+            "ver": "0.3.2"
           }
         },
         {
@@ -208,6 +216,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.18.1",
+        "hash": "bb4733595f52ae76d938775cc5238b8571f41754",
+        "time": 1789044301
+      },
       {
         "tag": "v0.18.0",
         "hash": "e8965cefc1da99d0bb769a624a6a33d2ebab8295",
@@ -410,8 +423,8 @@
       }
     ],
     "commit": {
-      "hash": "e8965cefc1da99d0bb769a624a6a33d2ebab8295",
-      "time": 1788960176
+      "hash": "bb4733595f52ae76d938775cc5238b8571f41754",
+      "time": 1789044301
     }
   }
 }
