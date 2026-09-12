@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.6",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "nim",
@@ -33,10 +33,10 @@
         },
         {
           "name": "siwin",
-          "str": ">= 1.0.2",
+          "str": ">= 1.1.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.0.2"
+            "ver": "1.1.2"
           }
         },
         {
@@ -49,10 +49,10 @@
         },
         {
           "name": "rice",
-          "str": ">= 0.1.4",
+          "str": ">= 0.1.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.4"
+            "ver": "0.1.6"
           }
         }
       ],
@@ -60,6 +60,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "7d306649e71e6d0cf5529b2580bf93659e54fd76",
+        "time": 1789177542
+      },
       {
         "tag": "0.2.6",
         "hash": "231dc41cca3ccceae76692a96a6f579d91c9ffa8",
@@ -112,8 +117,8 @@
       }
     ],
     "commit": {
-      "hash": "34f5094cbd0161872813d98a26e25a1ab7044872",
-      "time": 1788888165
+      "hash": "7d306649e71e6d0cf5529b2580bf93659e54fd76",
+      "time": 1789177542
     }
   }
 }
