@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "nim",
@@ -80,24 +80,25 @@
             "kind": "verEqLater",
             "ver": "0.3.0"
           }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
         }
       ],
       "bin": [
-        "bro"
+        "bowdy"
       ],
       "srcDir": "src"
     },
     "hasBin": true,
-    "versions": [
-      {
-        "tag": "0.2.0",
-        "hash": "d35a09e8f5a3e8e5b804dc387e3c49a773190298",
-        "time": 1788460000
-      }
-    ],
     "commit": {
-      "hash": "7767500c4052c3cbef9794e3e7378ddcc1bc4e9f",
-      "time": 1789073137
+      "hash": "92065287079810e487c8d1485040b4347159568c",
+      "time": 1789287868
     }
   }
 }

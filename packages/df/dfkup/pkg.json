@@ -82,6 +82,30 @@
           }
         },
         {
+          "name": "nimcypher",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "twofa",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
           "name": "e2ee",
           "str": ">= 0.1.0",
           "ver": {
@@ -121,8 +145,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "b63c2606a59594bbe6038442896d7384fef9b2d0",
-      "time": 1786892770
+      "hash": "7f8e94b3a2a42d3cf696342d083fdb3a35301ca2",
+      "time": 1789242497
     }
   }
 }

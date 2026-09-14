@@ -15,6 +15,11 @@
     "broken": true,
     "versions": [
       {
+        "tag": "v0.2",
+        "hash": "02a0b7069311648bda822c840ab4e9ddea2b6124",
+        "time": 1789242818
+      },
+      {
         "tag": "v0.1.0",
         "hash": "71ff9ce561f734c7d867ea928e28da1ce3cddb8e",
         "time": 1770836496
@@ -26,8 +31,8 @@
       }
     ],
     "commit": {
-      "hash": "869a589c8a4fb6a063c9aef621cf187f51e5ffc7",
-      "time": 1788719678
+      "hash": "02a0b7069311648bda822c840ab4e9ddea2b6124",
+      "time": 1789242818
     }
   }
 }

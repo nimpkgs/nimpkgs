@@ -1,0 +1,54 @@
+{
+  "name": "jose",
+  "url": "https://github.com/nimbase/jose",
+  "method": "git",
+  "description": "Pure-Nim JOSE: JWS, JWE, JWK, and JWT on top of nimcypher.",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/jose",
+  "tags": [
+    "jws",
+    "jwe",
+    "jwk",
+    "jwks",
+    "jwt",
+    "webtokens",
+    "nimcypher"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "bigints",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "676f6b50eeb2ff500edf3a0f05e1ddc48a43c47c",
+      "time": 1789229796
+    }
+  }
+}

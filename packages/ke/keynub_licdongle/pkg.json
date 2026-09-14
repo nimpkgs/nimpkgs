@@ -1,0 +1,55 @@
+{
+  "name": "keynub_licdongle",
+  "url": "https://github.com/AB-KeyNub/KeyNub-SDK?subdir=bindings/nim",
+  "method": "git",
+  "description": "Nim binding for the KeyNub USB-C license dongle (driverless on Windows, Linux and macOS)",
+  "license": "Apache-2.0",
+  "web": "https://www.keynub.com/developers/nim/",
+  "tags": [
+    "license",
+    "licensing",
+    "dongle",
+    "usb",
+    "hardware",
+    "copy-protection",
+    "security"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v1.1.1",
+        "hash": "687b38286e1a576b11485f933b9b01bdf0ca5cd8",
+        "time": 1789243010
+      },
+      {
+        "tag": "bindings/go/v1.1.1",
+        "hash": "3639e5248d49edda343fa55cf88926052efd44af",
+        "time": 1789222532
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "88ecd7e75a39a147886fa28eae496cc137991975",
+        "time": 1787588037
+      }
+    ],
+    "commit": {
+      "hash": "1aac5335f4d120239cd116154c6245c314470331",
+      "time": 1789307702
+    }
+  }
+}

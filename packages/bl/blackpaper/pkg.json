@@ -14,18 +14,18 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.10"
           }
         },
         {
-          "name": "floof",
+          "name": "openparser",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -36,9 +36,16 @@
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "c1506a92310005a952ed7386b3b3c10a72fe31bc",
+        "time": 1789218179
+      }
+    ],
     "commit": {
-      "hash": "64b2a875ec926da42dbfd2be4b98006d92df1bca",
-      "time": 1775500563
+      "hash": "c1506a92310005a952ed7386b3b3c10a72fe31bc",
+      "time": 1789218179
     }
   }
 }
