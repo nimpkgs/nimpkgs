@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.19.0",
+      "version": "0.20.2",
       "requires": [
         {
           "name": "nim",
@@ -44,6 +44,14 @@
           }
         },
         {
+          "name": "chroniclers",
+          "str": ">= 0.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6"
+          }
+        },
+        {
           "name": "crunchy",
           "str": ">= 0.1.11",
           "ver": {
@@ -53,18 +61,18 @@
         },
         {
           "name": "siwin",
-          "str": "#6e37ac8",
+          "str": ">= 1.1.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "1.1.2"
           }
         },
         {
           "name": "figdraw",
-          "str": ">= 0.37.4",
+          "str": ">= 0.39.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.37.4"
+            "ver": "0.39.0"
           }
         },
         {
@@ -165,10 +173,10 @@
         },
         {
           "name": "https://github.com/elcritch/matter",
-          "str": ">= 0.4.4",
+          "str": ">= 0.5.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.4"
+            "ver": "0.5.0"
           }
         },
         {
@@ -216,6 +224,21 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.20.2",
+        "hash": "7b123e1649c29f3709b4101fd7667fc0d4220c61",
+        "time": 1789412554
+      },
+      {
+        "tag": "v0.20.1",
+        "hash": "e4abd4c519260bd4e9945bb8e90603f29f1fd04b",
+        "time": 1789407774
+      },
+      {
+        "tag": "v0.20.0",
+        "hash": "92b92571db0f61056222f2e7bb4e5e23085e7045",
+        "time": 1789386645
+      },
       {
         "tag": "v0.19.0",
         "hash": "b3b99aded1429d5dbd47ee8ca98515f4c763f439",
@@ -443,8 +466,8 @@
       }
     ],
     "commit": {
-      "hash": "b3b99aded1429d5dbd47ee8ca98515f4c763f439",
-      "time": 1789319850
+      "hash": "92e75c632b75efc7d2d937181a591965eacdbcb0",
+      "time": 1789422524
     }
   }
 }

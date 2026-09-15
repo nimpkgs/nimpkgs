@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -37,10 +37,10 @@
         },
         {
           "name": "powpow",
-          "str": ">= 0.1.8",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.8"
+            "ver": "0.2.0"
           }
         },
         {
@@ -57,14 +57,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "0.1.4"
-          }
-        },
-        {
-          "name": "flatty",
-          "str": ">= 0.4.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.0"
           }
         },
         {
@@ -114,16 +106,9 @@
       "srcDir": "src"
     },
     "hasBin": true,
-    "versions": [
-      {
-        "tag": "0.1.0",
-        "hash": "0156b4910a5d05de3d8f1fd1a3d80715e7c228b2",
-        "time": 1788507404
-      }
-    ],
     "commit": {
-      "hash": "0156b4910a5d05de3d8f1fd1a3d80715e7c228b2",
-      "time": 1788507404
+      "hash": "181c3608dba6f2d64610f647c361b2c67c026e5e",
+      "time": 1789419623
     }
   }
 }

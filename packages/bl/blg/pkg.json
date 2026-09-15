@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.3.2",
       "requires": [
         {
           "name": "nim",
@@ -24,11 +24,19 @@
           }
         },
         {
-          "name": "margrave",
-          "str": ">= 0.3.0",
+          "name": "nmark",
+          "str": ">= 0.1.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.0"
+            "ver": "0.1.10"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -39,6 +47,16 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.3.2",
+        "hash": "c5a150441862d067365128d00637011e8cdabdbd",
+        "time": 1789398328
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "8fb01aaf20f3043d7c5b07d6a49aacd3ffa25872",
+        "time": 1789391657
+      },
       {
         "tag": "0.2.0",
         "hash": "e239495b661b1a4a8ffeade6e3a498829db32e67",
@@ -51,8 +69,8 @@
       }
     ],
     "commit": {
-      "hash": "511da7a53c178bb7e4b3115d996c906d7675d640",
-      "time": 1788724782
+      "hash": "c5a150441862d067365128d00637011e8cdabdbd",
+      "time": 1789398328
     }
   }
 }

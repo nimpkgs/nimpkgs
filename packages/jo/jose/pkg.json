@@ -36,10 +36,10 @@
         },
         {
           "name": "bigints",
-          "str": ">= 1.0.0",
+          "str": ">= 1.1.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.0.0"
+            "ver": "1.1.0"
           }
         }
       ],
@@ -47,8 +47,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "676f6b50eeb2ff500edf3a0f05e1ddc48a43c47c",
-      "time": 1789229796
+      "hash": "9f5c09cc8259d22db98963f96337e03d249921ee",
+      "time": 1789403921
     }
   }
 }
