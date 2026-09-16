@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.9",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "nim",
@@ -43,10 +43,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.4.7",
+          "str": ">= 0.4.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.7"
+            "ver": "0.4.8"
           }
         },
         {
@@ -67,18 +67,18 @@
         },
         {
           "name": "boogie",
-          "str": ">= 0.1.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.2"
-          }
-        },
-        {
-          "name": "openparser",
           "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.3"
           }
         },
         {
@@ -91,18 +91,18 @@
         },
         {
           "name": "datpkgr",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.2"
           }
         },
         {
           "name": "flysystem",
-          "str": ">= 0.1.1",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.1"
+            "ver": "0.2.0"
           }
         }
       ],
@@ -113,6 +113,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "e941b29c41f8a2c99cadff2500c63426b5b05030",
+        "time": 1789481660
+      },
       {
         "tag": "0.2.9",
         "hash": "8eca9376eaa0a7ce3a4423908bbd9ecdb54a62b0",
@@ -210,8 +215,8 @@
       }
     ],
     "commit": {
-      "hash": "3ae6eb84207ef6a30692999d8d35034252a54040",
-      "time": 1789310673
+      "hash": "d3fa328ad39b10e588630dabb9a602844f82b958",
+      "time": 1789490661
     }
   }
 }

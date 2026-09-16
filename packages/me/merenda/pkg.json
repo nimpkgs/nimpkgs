@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.20.2",
+      "version": "0.20.5",
       "requires": [
         {
           "name": "nim",
@@ -60,11 +60,11 @@
           }
         },
         {
-          "name": "siwin",
-          "str": ">= 1.1.2",
+          "name": "https://github.com/elcritch/siwin",
+          "str": "#fix/native-damage-redraw",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "1.1.2"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
@@ -93,10 +93,10 @@
         },
         {
           "name": "sigils",
-          "str": ">= 0.28.1",
+          "str": ">= 0.30.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.28.1"
+            "ver": "0.30.0"
           }
         },
         {
@@ -165,7 +165,7 @@
         },
         {
           "name": "https://github.com/elcritch/nim-markdown",
-          "str": "#devel",
+          "str": "#fix/arc-emphasis-ownership",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -224,6 +224,21 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.20.5",
+        "hash": "e5cfb5fdd3a39b6bf7322f0b07f614b4020f909c",
+        "time": 1789493494
+      },
+      {
+        "tag": "v0.20.4",
+        "hash": "fb59560a7619992a056206703325a68d42a148b3",
+        "time": 1789485882
+      },
+      {
+        "tag": "v0.20.3",
+        "hash": "e46c01d1b1ba9c9fa355296af28d80df8806b4be",
+        "time": 1789476255
+      },
       {
         "tag": "v0.20.2",
         "hash": "7b123e1649c29f3709b4101fd7667fc0d4220c61",
@@ -466,8 +481,8 @@
       }
     ],
     "commit": {
-      "hash": "92e75c632b75efc7d2d937181a591965eacdbcb0",
-      "time": 1789422524
+      "hash": "e5cfb5fdd3a39b6bf7322f0b07f614b4020f909c",
+      "time": 1789493494
     }
   }
 }

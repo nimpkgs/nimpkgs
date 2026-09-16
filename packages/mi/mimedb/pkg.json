@@ -44,16 +44,11 @@
         "tag": "0.1.1",
         "hash": "cfcf9faeca95a42fbd5e3f4c3923df38b639f42e",
         "time": 1781197673
-      },
-      {
-        "tag": "0.1.0",
-        "hash": "f10b13e6c40d5d06d57b80182ab504fb0416408b",
-        "time": 1764861862
       }
     ],
     "commit": {
-      "hash": "6fa5943918e5ddfdf88905d646a3572503036087",
-      "time": 1788590513
+      "hash": "ccd1f17744f3480dd2ce0fad26337bd7155c503c",
+      "time": 1789504871
     }
   }
 }
