@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.2.2",
+      "version": "2.3.2",
       "requires": [
         {
           "name": "nim",
@@ -22,14 +22,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.2.4"
-          }
-        },
-        {
-          "name": "libbacktrace",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
           }
         },
         {
@@ -50,18 +42,18 @@
         },
         {
           "name": "https://github.com/vacp2p/nim-boringssl",
-          "str": ">= 0.0.8",
+          "str": ">= 0.0.11",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.0.8"
+            "ver": "0.0.11"
           }
         },
         {
           "name": "chronicles",
-          "str": ">= 0.11.0",
+          "str": ">= 0.12.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.11.0"
+            "ver": "0.12.3"
           }
         },
         {
@@ -97,14 +89,6 @@
           }
         },
         {
-          "name": "unittest2",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "results",
           "str": "any version",
           "ver": {
@@ -114,26 +98,34 @@
         },
         {
           "name": "serialization",
-          "str": "any version",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "json_serialization",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
           }
         },
         {
           "name": "lsquic",
-          "str": ">= 0.5.4",
+          "str": ">= 0.9.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.4"
+            "ver": "0.9.0"
           }
         },
         {
           "name": "protobuf_serialization",
-          "str": ">= 0.5.3",
+          "str": ">= 0.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.3"
+            "ver": "0.6.0"
           }
         },
         {
@@ -145,11 +137,11 @@
           }
         },
         {
-          "name": "https://github.com/status-im/nim-nat-traversal",
-          "str": ">= 0.0.1",
+          "name": "https://github.com/logos-storage/nim-libplum",
+          "str": "#v0.6.3",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.0.1"
+            "kind": "verSpecial",
+            "ver": ""
           }
         }
       ],
@@ -157,6 +149,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.3.2",
+        "hash": "49fc8d9d63d4d4b68333f3e7d0e05c9f8a3b4fa4",
+        "time": 1789573048
+      },
       {
         "tag": "v2.2.2",
         "hash": "cf466811d8878546d1f1e66d75438d0f280743fb",
@@ -349,8 +346,8 @@
       }
     ],
     "commit": {
-      "hash": "fdc1d5f04ae59e735fa4fa13562cb91b034bdfc5",
-      "time": 1789510944
+      "hash": "43d1793c86724cbe15a56c8160b10b3d47acb586",
+      "time": 1789579847
     }
   }
 }

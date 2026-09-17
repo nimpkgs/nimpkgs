@@ -1,0 +1,35 @@
+{
+  "name": "narser",
+  "url": "https://github.com/AzizMejbri/narser",
+  "method": "git",
+  "description": "A small lightweight combinational parsing library in nim",
+  "license": "MIT",
+  "web": "https://github.com/AzizMejbri/narser",
+  "tags": [
+    "combinational",
+    "parser",
+    "library",
+    "functional"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "a620f14589d12b11918eff3b84997f2a77398394",
+      "time": 1789487458
+    }
+  }
+}

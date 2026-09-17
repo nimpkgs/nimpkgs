@@ -306,6 +306,14 @@
           }
         },
         {
+          "name": "https://github.com/logos-messaging/nim-segmentation",
+          "str": "#0593ef7c9267b0204093fe202bec477b2dbf824c",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
           "name": "https://github.com/vacp2p/nim-lsquic",
           "str": "#07783b55fb0ee7e9dc2dd9ced11548f84174306e",
           "ver": {
@@ -342,6 +350,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.39.0-rc.3",
+        "hash": "45fe3b5129b2360f49755c52520629db6e23fca9",
+        "time": 1789515868
+      },
       {
         "tag": "v0.39.0-rc.2",
         "hash": "afaa82217112f3733d0d9278252c90c1d20a8832",
@@ -639,8 +652,8 @@
       }
     ],
     "commit": {
-      "hash": "45fe3b5129b2360f49755c52520629db6e23fca9",
-      "time": 1789515868
+      "hash": "b0ae5fa19546d07a39364a2bf56ae98f1be40951",
+      "time": 1789603218
     }
   }
 }

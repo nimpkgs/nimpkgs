@@ -32,6 +32,11 @@
     },
     "versions": [
       {
+        "tag": "1.1.1-swift",
+        "hash": "1b4cb5dfde913a2489ffdf20598e08be7daf873c",
+        "time": 1789585938
+      },
+      {
         "tag": "v1.1.1",
         "hash": "687b38286e1a576b11485f933b9b01bdf0ca5cd8",
         "time": 1789243010
@@ -48,8 +53,8 @@
       }
     ],
     "commit": {
-      "hash": "608115a454481848c26f8296f1ef0172b0de9504",
-      "time": 1789489971
+      "hash": "1b4cb5dfde913a2489ffdf20598e08be7daf873c",
+      "time": 1789585938
     }
   }
 }
