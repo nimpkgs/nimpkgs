@@ -1,0 +1,53 @@
+{
+  "name": "joltnim",
+  "url": "https://github.com/puffball1567/jolt-nim",
+  "method": "git",
+  "description": "Native Nim bindings for Jolt Physics with raw and ownership-safe high-level APIs.",
+  "license": "MIT",
+  "web": "https://github.com/puffball1567/jolt-nim",
+  "tags": [
+    "physics",
+    "3d",
+    "jolt",
+    "bindings",
+    "game-development"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "70f418dd3abc0e3dd2a463b1a1b9eedeec2c023e",
+        "time": 1788542137
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "a73f5b57093bd58e32887833ac3b59c1bb95a7bc",
+        "time": 1788281255
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "dc7a07fda140e2bf8ced5861e77a4ed80b889d0e",
+        "time": 1788184070
+      }
+    ],
+    "commit": {
+      "hash": "70f418dd3abc0e3dd2a463b1a1b9eedeec2c023e",
+      "time": 1788542137
+    }
+  }
+}

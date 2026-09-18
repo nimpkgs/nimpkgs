@@ -1,0 +1,58 @@
+{
+  "name": "bgfxim",
+  "url": "https://github.com/puffball1567/bgfxim",
+  "method": "git",
+  "description": "Complete Nim bindings for the bgfx C99 API.",
+  "license": "BSD-2-Clause",
+  "web": "https://github.com/puffball1567/bgfxim",
+  "tags": [
+    "graphics",
+    "rendering",
+    "bgfx",
+    "bindings",
+    "game-development"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "ddaec125e8c342e912f243ebc6813b17f28408a9",
+        "time": 1788666934
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "64de0e08922c0c41c0e596e496ea661e2e919867",
+        "time": 1787429352
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "6f58c0a21fed928115fd90e1c8a3d71615529c24",
+        "time": 1787380123
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "104f527a6ac924b67364febed9aa99eebf6e6178",
+        "time": 1787272954
+      }
+    ],
+    "commit": {
+      "hash": "59e4a4b263be86fe444f4bb83c52eea9735cb5f2",
+      "time": 1788635670
+    }
+  }
+}
