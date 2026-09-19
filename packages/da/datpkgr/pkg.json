@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.3",
+      "version": "0.1.4",
       "requires": [
         {
           "name": "nim",
@@ -35,34 +35,18 @@
         },
         {
           "name": "boogie",
-          "str": ">= 0.1.2",
+          "str": ">= 0.2.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.2"
+            "ver": "0.2.1"
           }
         },
         {
           "name": "openparser",
-          "str": ">= 0.2.0",
+          "str": ">= 0.3.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
-          }
-        },
-        {
-          "name": "sweetsyntax",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "malebolgia",
-          "str": ">= 1.3.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.3.0"
+            "ver": "0.3.4"
           }
         },
         {
@@ -80,28 +64,17 @@
             "kind": "verEqLater",
             "ver": "0.1.1"
           }
-        },
-        {
-          "name": "mimedb",
-          "str": ">= 0.1.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.1"
-          }
-        },
-        {
-          "name": "checksums",
-          "str": ">= 0.2.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.2"
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "e3ec9fe343dfd72a2ec1d0fe3f92528a6cff007a",
+        "time": 1789719302
+      },
       {
         "tag": "0.1.3",
         "hash": "672937f8b98479f86ea7c6d73175ff8e6ccbeae2",
@@ -111,21 +84,11 @@
         "tag": "0.1.2",
         "hash": "9ede5e49639c00f91b0f79be5500c7deae7128f0",
         "time": 1789310423
-      },
-      {
-        "tag": "0.1.1",
-        "hash": "6e300efab5949dd632adc0d4cf4a42ae50e0da9e",
-        "time": 1789029384
-      },
-      {
-        "tag": "0.1.0",
-        "hash": "ee88832b09f29aeb6f43b20c5cf753aa647f55cc",
-        "time": 1788785634
       }
     ],
     "commit": {
-      "hash": "2268d19553f160b76e5a2f6e2994656e0f9f9e8a",
-      "time": 1789677732
+      "hash": "e3ec9fe343dfd72a2ec1d0fe3f92528a6cff007a",
+      "time": 1789719302
     }
   }
 }

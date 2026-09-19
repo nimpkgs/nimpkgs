@@ -1,0 +1,58 @@
+{
+  "name": "nimwire",
+  "url": "https://github.com/martineastwood/nimwire",
+  "method": "git",
+  "description": "MCP server framework for Nim",
+  "license": "MIT",
+  "web": "https://github.com/martineastwood/nimwire",
+  "tags": [
+    "mcp",
+    "model-context-protocol",
+    "server",
+    "protocol",
+    "json-rpc",
+    "networking",
+    "http",
+    "websocket",
+    "stdio",
+    "tools",
+    "resources",
+    "prompts"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "ce23bf86e83058aad82bec05bd4d77320d053ef4",
+        "time": 1789724441
+      }
+    ],
+    "commit": {
+      "hash": "ce23bf86e83058aad82bec05bd4d77320d053ef4",
+      "time": 1789724441
+    }
+  }
+}

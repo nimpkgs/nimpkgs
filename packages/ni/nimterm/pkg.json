@@ -1,0 +1,57 @@
+{
+  "name": "nimterm",
+  "url": "https://github.com/martineastwood/nimterm",
+  "method": "git",
+  "description": "Terminal UI primitives for Nim applications",
+  "license": "MIT",
+  "web": "https://github.com/martineastwood/nimterm",
+  "tags": [
+    "tui",
+    "terminal",
+    "ui",
+    "widgets",
+    "ansi",
+    "unicode",
+    "markdown",
+    "input",
+    "events",
+    "agent",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.13.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.2"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "ab179b3af5b206ac25413030ada58b6c64c2d5df",
+        "time": 1789724436
+      }
+    ],
+    "commit": {
+      "hash": "e760027fba01d4ee541366c0d72efb1eedd0d73a",
+      "time": 1789743989
+    }
+  }
+}

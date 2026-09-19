@@ -1,0 +1,65 @@
+{
+  "name": "nssh",
+  "url": "https://github.com/nimbase/nssh",
+  "method": "git",
+  "description": "Pure Nim SSH client and server",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/nssh",
+  "tags": [
+    "ssh",
+    "server",
+    "client",
+    "pure",
+    "nimbase",
+    "sftp",
+    "powpow",
+    "library",
+    "transfer",
+    "crypto"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        },
+        {
+          "name": "bigints",
+          "str": ">= 1.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.0.0"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.1.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "baf128c65ca336dd6aa91265c79a2a785108857f",
+      "time": 1789745857
+    }
+  }
+}

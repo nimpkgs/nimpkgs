@@ -16,14 +16,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.7",
+      "version": "0.5.3",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.4"
           }
         },
         {
@@ -57,6 +57,14 @@
             "kind": "verEqLater",
             "ver": "0.2.0"
           }
+        },
+        {
+          "name": "async_postgres",
+          "str": ">= 0.3.0 & < 0.4.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
         }
       ],
       "bin": [
@@ -66,6 +74,26 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.5.3",
+        "hash": "d45d49d07a6d130b56c1070f723cf668094e276b",
+        "time": 1789773269
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "7f30e6ccf3e7145346e86bcdc6412dd9a485a102",
+        "time": 1789760348
+      },
+      {
+        "tag": "v0.5.1",
+        "hash": "9474d29c927c149ccfdaa3e3b5302698a867b30f",
+        "time": 1789757576
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "c6fdca7f5eff2b779bffc7d13ef2828b10d0b679",
+        "time": 1789728830
+      },
       {
         "tag": "v0.4.7",
         "hash": "17c560a2870483f6760f4179fee31b8a78c8273e",
@@ -148,8 +176,8 @@
       }
     ],
     "commit": {
-      "hash": "3f904540ba636fd8449a605d26079d894c91f72d",
-      "time": 1789209768
+      "hash": "d45d49d07a6d130b56c1070f723cf668094e276b",
+      "time": 1789773269
     }
   }
 }
