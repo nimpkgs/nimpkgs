@@ -32,6 +32,11 @@
     },
     "versions": [
       {
+        "tag": "v1.1.1-d",
+        "hash": "5f472bc3e3f50ccbc87cc3dbdd73065773ad05f9",
+        "time": 1789899558
+      },
+      {
         "tag": "bindings/ocaml/v1.1.1",
         "hash": "552dfff920c062927a52392f62277007351a3a6f",
         "time": 1789748956
@@ -58,8 +63,8 @@
       }
     ],
     "commit": {
-      "hash": "a1a331b11f664f25e2f5b5dfc29b342469c2cc1a",
-      "time": 1789757134
+      "hash": "707087db3cbb4a00d8d61a3ec158d5a82b0d3db7",
+      "time": 1789921835
     }
   }
 }

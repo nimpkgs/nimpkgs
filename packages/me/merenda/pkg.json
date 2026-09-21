@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.20.7",
+      "version": "0.20.8",
       "requires": [
         {
           "name": "nim",
@@ -61,18 +61,18 @@
         },
         {
           "name": "https://github.com/elcritch/siwin",
-          "str": "#fix/native-damage-redraw",
+          "str": "#fdec8e4",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
           }
         },
         {
-          "name": "figdraw",
-          "str": ">= 0.39.0",
+          "name": "https://github.com/elcritch/figdraw",
+          "str": ">= 0.40.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.39.0"
+            "ver": "0.40.2"
           }
         },
         {
@@ -224,6 +224,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.20.8",
+        "hash": "4f7e0801e879877e7bdddb9063826455a41d56e3",
+        "time": 1789937325
+      },
       {
         "tag": "v0.20.7",
         "hash": "fd658c5cee43c0e958fe7d1316c057ce143594b2",
@@ -491,8 +496,8 @@
       }
     ],
     "commit": {
-      "hash": "6210e5a45eb03137d2e66161a79751af7a224058",
-      "time": 1789741451
+      "hash": "4f7e0801e879877e7bdddb9063826455a41d56e3",
+      "time": 1789937325
     }
   }
 }
