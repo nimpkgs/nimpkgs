@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.7.0",
+      "version": "0.8.0",
       "requires": [
         {
           "name": "nim",
@@ -27,10 +27,10 @@
         },
         {
           "name": "streamhttp",
-          "str": ">= 0.4.5",
+          "str": ">= 0.5.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.5"
+            "ver": "0.5.0"
           }
         },
         {
@@ -59,10 +59,10 @@
         },
         {
           "name": "sandwall",
-          "str": ">= 0.5.5",
+          "str": ">= 0.5.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.5"
+            "ver": "0.5.8"
           }
         },
         {
@@ -89,6 +89,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.8.0",
+        "hash": "237990b0d09f6e37153eb14f4ca720c8aace9a93",
+        "time": 1790036191
+      },
       {
         "tag": "0.7.0",
         "hash": "77e9ec96e90cd9d5fc238c69f6af857068f3a539",
@@ -216,8 +221,8 @@
       }
     ],
     "commit": {
-      "hash": "7a103f95146b5278a7070a4c445d809989b02188",
-      "time": 1789904935
+      "hash": "237990b0d09f6e37153eb14f4ca720c8aace9a93",
+      "time": 1790036191
     }
   }
 }

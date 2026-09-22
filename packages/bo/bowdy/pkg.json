@@ -1,0 +1,104 @@
+{
+  "name": "bowdy",
+  "url": "https://github.com/openpeeps/bowdy",
+  "method": "git",
+  "description": "A CSS preprocessor. Alternative to SassC and DartSass",
+  "license": "LGPL-3.0-or-later",
+  "web": "https://github.com/openpeeps/bowdy",
+  "tags": [
+    "css",
+    "sass",
+    "parser",
+    "css-parser",
+    "css-compiler",
+    "stylesheet"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "kapsis",
+          "str": ">= 0.4.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.5"
+          }
+        },
+        {
+          "name": "semver",
+          "str": ">= 1.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.3"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": ">= 0.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "vancode",
+          "str": ">= 0.2.7",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.7"
+          }
+        },
+        {
+          "name": "watchout",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "nimsimd",
+          "str": ">= 1.3.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.3.2"
+          }
+        }
+      ],
+      "bin": [
+        "bowdy"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "5991a5651ae710b0c828e4615ced3a7b3c90da02",
+      "time": 1789371242
+    }
+  }
+}

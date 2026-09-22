@@ -20,7 +20,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.12",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -28,6 +28,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         },
         {
@@ -75,6 +83,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.0",
+        "hash": "73891e763be3904d6a3434da62a260bb47c4af37",
+        "time": 1789999043
+      },
       {
         "tag": "0.1.12",
         "hash": "d5dc4a16184c755b8dfc3a585a9de9840483b177",
@@ -132,8 +145,8 @@
       }
     ],
     "commit": {
-      "hash": "29de9285a7a6dfa4db4e8056a12f436368ac9903",
-      "time": 1789938276
+      "hash": "73891e763be3904d6a3434da62a260bb47c4af37",
+      "time": 1789999043
     }
   }
 }
