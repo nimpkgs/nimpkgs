@@ -1,0 +1,48 @@
+{
+  "name": "jev_nim_client",
+  "url": "https://github.com/aboisvert/jev-nim-client",
+  "method": "git",
+  "description": "Nim client library for TypeSafe.ai System-One (JEV) API",
+  "license": "MIT",
+  "web": "https://github.com/aboisvert/jev-nim-client",
+  "tags": [
+    "jev",
+    "sdk",
+    "httpclient",
+    "ai",
+    "classification",
+    "probability",
+    "llm",
+    "system-one",
+    "api"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "4fa211c2c98542ee926e68e8d2ba9342e07cf6d3",
+      "time": 1790090895
+    }
+  }
+}

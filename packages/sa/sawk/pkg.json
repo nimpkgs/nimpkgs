@@ -1,0 +1,46 @@
+{
+  "name": "sawk",
+  "url": "https://github.com/lipunila-sonaliwan-fr/nim.sawk",
+  "method": "git",
+  "description": "Nim implementation of AWK, as formalized by the POSIX standard IEEE Std 1003.2 (in 1992).",
+  "license": "CC BY-NC-SA 4.0",
+  "web": "https://github.com/lipunila-sonaliwan-fr/nim.sawk",
+  "tags": [
+    "LPCS",
+    "Lab'Oratoire",
+    "interpreter",
+    "language",
+    "awk",
+    "data-driven language",
+    "text processing",
+    "pattern matching ",
+    "sonaliwan",
+    "french",
+    "english",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.2",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "sawk"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "f2d29ac131a44abb38afdbe2114d6e4afb2cbd95",
+      "time": 1790049938
+    }
+  }
+}
