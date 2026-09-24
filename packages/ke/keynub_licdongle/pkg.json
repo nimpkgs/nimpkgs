@@ -32,6 +32,11 @@
     },
     "versions": [
       {
+        "tag": "v1.1.1-crystal",
+        "hash": "2080304071f0239d3e959c35f38ebaa904231edd",
+        "time": 1790182351
+      },
+      {
         "tag": "v1.1.1-d",
         "hash": "5f472bc3e3f50ccbc87cc3dbdd73065773ad05f9",
         "time": 1789899558
@@ -63,8 +68,8 @@
       }
     ],
     "commit": {
-      "hash": "707087db3cbb4a00d8d61a3ec158d5a82b0d3db7",
-      "time": 1789921835
+      "hash": "102134b63f9d33837466180652b5474c6b99a18f",
+      "time": 1790183637
     }
   }
 }

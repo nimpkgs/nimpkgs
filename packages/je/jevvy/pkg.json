@@ -1,0 +1,79 @@
+{
+  "name": "jevvy",
+  "url": "https://github.com/aboisvert/jevvy-nim",
+  "method": "git",
+  "description": "Run CSV rows through Jev with YAML-defined questions",
+  "license": "Apache-2.0",
+  "web": "https://github.com/aboisvert/jevvy-nim",
+  "tags": [
+    "csv",
+    "jev",
+    "ai",
+    "classification",
+    "probability",
+    "llm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        },
+        {
+          "name": "https://github.com/aboisvert/jev-nim-client",
+          "str": "#head",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/Araq/malebolgia",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "yaml",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "results",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [
+        "jevvy"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1",
+        "hash": "28279c3d05a1d7e9482ba3cadc583b4bc7266f8c",
+        "time": 1790126337
+      }
+    ],
+    "commit": {
+      "hash": "dc497fe6d3dbef3649b3dcda4fec50d3cb761189",
+      "time": 1790168879
+    }
+  }
+}
