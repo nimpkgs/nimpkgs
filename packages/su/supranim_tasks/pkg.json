@@ -1,0 +1,45 @@
+{
+  "name": "supranim_tasks",
+  "url": "https://github.com/supranim/tasks",
+  "method": "git",
+  "description": "Schedule, manage and execute background tasks",
+  "license": "MIT",
+  "web": "https://github.com/supranim/tasks",
+  "tags": [
+    "tasks",
+    "powpow",
+    "schedule",
+    "jobs",
+    "queue",
+    "supranim"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "41bad63c9b3d9fc11e50e6943d9e772fcbe1b0a1",
+      "time": 1790182973
+    }
+  }
+}

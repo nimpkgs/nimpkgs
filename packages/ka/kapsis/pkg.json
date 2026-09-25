@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.8",
+      "version": "0.4.10",
       "requires": [
         {
           "name": "nim",
@@ -27,10 +27,10 @@
         },
         {
           "name": "voodoo",
-          "str": ">= 0.2.0",
+          "str": ">= 0.2.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.2.1"
           }
         },
         {
@@ -72,12 +72,30 @@
             "kind": "verEqLater",
             "ver": "0.2.1"
           }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.4.10",
+        "hash": "379dee6831a2d0e1208f37132e06467f84b06eba",
+        "time": 1790251188
+      },
+      {
+        "tag": "0.4.9",
+        "hash": "d73df23ceaa1c17c97c2c5616ab1a5ea846a0a9c",
+        "time": 1790012733
+      },
       {
         "tag": "0.4.8",
         "hash": "3ec9725e1c0c2c2845d12b2340e660099b21319e",
@@ -125,8 +143,8 @@
       }
     ],
     "commit": {
-      "hash": "d73df23ceaa1c17c97c2c5616ab1a5ea846a0a9c",
-      "time": 1790012733
+      "hash": "379dee6831a2d0e1208f37132e06467f84b06eba",
+      "time": 1790251188
     }
   }
 }

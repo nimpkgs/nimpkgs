@@ -59,18 +59,18 @@
         },
         {
           "name": "voodoo",
-          "str": ">= 0.2.0",
+          "str": "any version",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.0"
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
           "name": "vancode",
-          "str": ">= 0.2.7",
+          "str": ">= 0.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.7"
+            "ver": "0.2.10"
           }
         },
         {
@@ -97,8 +97,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "5991a5651ae710b0c828e4615ced3a7b3c90da02",
-      "time": 1789371242
+      "hash": "869dcb5e765a12f2aada6616af66188038c685f3",
+      "time": 1790274303
     }
   }
 }
