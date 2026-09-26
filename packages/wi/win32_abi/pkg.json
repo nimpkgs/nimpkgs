@@ -1,0 +1,37 @@
+{
+  "name": "win32_abi",
+  "url": "https://github.com/arnetheduck/nim-win32-abi",
+  "method": "git",
+  "description": "Nim bindings for the full Win32 API, generated from WinMD metadata and headers",
+  "license": "MIT",
+  "web": "https://github.com/arnetheduck/nim-win32-abi",
+  "tags": [
+    "windows",
+    "win32",
+    "bindings",
+    "abi",
+    "ffi",
+    "windows-sdk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "4a880e3e564d346552a8d9ea9ff7e4a8f548236b",
+      "time": 1790252404
+    }
+  }
+}

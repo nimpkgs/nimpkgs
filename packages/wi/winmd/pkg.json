@@ -1,0 +1,42 @@
+{
+  "name": "winmd",
+  "url": "https://github.com/arnetheduck/nim-winmd",
+  "method": "git",
+  "description": "Library and tools for WinMD/ECMA-335 metadata, including a Win32 API binding generator for Nim",
+  "license": "MIT",
+  "web": "https://github.com/arnetheduck/nim-winmd",
+  "tags": [
+    "windows",
+    "winmd",
+    "win32",
+    "bindings",
+    "codegen",
+    "metadata",
+    "windows-sdk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "winmd2yaml",
+        "winmd2nim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "e7833a437f2dbf1342914bcab9d083e748c96a3e",
+      "time": 1790246155
+    }
+  }
+}

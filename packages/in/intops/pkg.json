@@ -1,10 +1,10 @@
 {
   "name": "intops",
-  "url": "https://github.com/vacp2p/nim-intops",
+  "url": "https://github.com/iftech/nim-intops",
   "method": "git",
   "description": "Core arithmetic operations for CPU-sized integers.",
   "license": "MIT or Apache License 2.0",
-  "web": "https://github.com/vacp2p/nim-intops",
+  "web": "https://github.com/iftech/nim-intops",
   "tags": [
     "integers",
     "bignum",

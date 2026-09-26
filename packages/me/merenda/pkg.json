@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.22.0",
+      "version": "0.23.0",
       "requires": [
         {
           "name": "nim",
@@ -60,7 +60,7 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/siwin",
+          "name": "siwin",
           "str": "#fdec8e4",
           "ver": {
             "kind": "verSpecial",
@@ -69,18 +69,10 @@
         },
         {
           "name": "https://github.com/elcritch/figdraw",
-          "str": ">= 0.42.0",
+          "str": ">= 0.43.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.42.0"
-          }
-        },
-        {
-          "name": "sharedlib",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "0.43.0"
           }
         },
         {
@@ -93,10 +85,10 @@
         },
         {
           "name": "sigils",
-          "str": ">= 0.30.0",
+          "str": ">= 0.31.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.30.0"
+            "ver": "0.31.0"
           }
         },
         {
@@ -224,6 +216,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.23.0",
+        "hash": "f729c162aa1b8ad2f1e38aa1965575d16ae0a96f",
+        "time": 1790374957
+      },
       {
         "tag": "v0.22.0.1",
         "hash": "b241dad6a37a0f584469108686b99d32aafc3d7c",
@@ -526,8 +523,8 @@
       }
     ],
     "commit": {
-      "hash": "b241dad6a37a0f584469108686b99d32aafc3d7c",
-      "time": 1790165599
+      "hash": "f729c162aa1b8ad2f1e38aa1965575d16ae0a96f",
+      "time": 1790374957
     }
   }
 }
