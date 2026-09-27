@@ -1,0 +1,46 @@
+{
+  "name": "firebird",
+  "url": "https://github.com/lipunila-sonaliwan-fr/nim.firebird",
+  "method": "git",
+  "description": "firebird/fbclient is a Nim binding for Firebird database (available for Linux, macOS and Windows)",
+  "license": "CC BY-NC-SA 4.0",
+  "web": "https://github.com/lipunila-sonaliwan-fr/nim.firebird",
+  "tags": [
+    "LPCS",
+    "Lab'Oratoire",
+    "sonaliwan",
+    "firbird",
+    "database",
+    "SGBDR",
+    "french",
+    "english",
+    "client",
+    "SQL",
+    "libfbclient",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "demo"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "c01090cc287cf4d7f08e37d2b49d724cd05a561e",
+      "time": 1790353298
+    }
+  }
+}
