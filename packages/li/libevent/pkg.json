@@ -1,10 +1,10 @@
 {
   "name": "libevent",
-  "url": "https://github.com/openpeeps/libevent-nim",
+  "url": "https://github.com/nimbase/libevent-nim",
   "method": "git",
   "description": "Bindings for Libevent",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/libevent-nim",
+  "web": "https://github.com/nimbase/libevent-nim",
   "tags": [
     "libevent",
     "http",

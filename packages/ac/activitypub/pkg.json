@@ -1,10 +1,10 @@
 {
   "name": "activitypub",
-  "url": "https://github.com/openpeeps/activitypub-nim",
+  "url": "https://github.com/nimbase/activitypub-nim",
   "method": "git",
   "description": "ActivityPub library in Nim",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/activitypub-nim",
+  "web": "https://github.com/nimbase/activitypub-nim",
   "tags": [
     "federated",
     "activitypub",

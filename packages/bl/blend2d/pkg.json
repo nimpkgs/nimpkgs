@@ -1,10 +1,10 @@
 {
   "name": "blend2d",
-  "url": "https://github.com/openpeeps/blend2d-nim",
+  "url": "https://github.com/nimbase/blend2d-nim",
   "method": "git",
   "description": "Blend2D for Nim language",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/blend2d-nim",
+  "web": "https://github.com/nimbase/blend2d-nim",
   "tags": [
     "graphics",
     "2d",

@@ -1,0 +1,40 @@
+{
+  "name": "nim_cryptkit",
+  "url": "https://github.com/zkopt-dev/nim_cryptkit",
+  "method": "git",
+  "description": "Nim's General Cryptography Library",
+  "license": "LGPL-3.0-linking-exception",
+  "web": "https://github.com/zkopt-dev/nim_cryptkit",
+  "tags": [
+    "pure-nim",
+    "crypto",
+    "blockcipher",
+    "streamcipher",
+    "hash",
+    "kdf",
+    "mac",
+    "aead",
+    "digital-sign"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "05b21ead97468479a3e03e6077d38b4794c39073",
+      "time": 1790495630
+    }
+  }
+}

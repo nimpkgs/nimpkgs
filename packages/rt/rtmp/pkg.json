@@ -1,10 +1,10 @@
 {
   "name": "rtmp",
-  "url": "https://github.com/openpeeps/rtmp",
+  "url": "https://github.com/nimbase/rtmp",
   "method": "git",
   "description": "Real-Time Messaging Protocol for Nim",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/rtmp",
+  "web": "https://github.com/nimbase/rtmp",
   "tags": [
     "rrtmp",
     "livestream",

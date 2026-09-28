@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.24.0",
+      "version": "0.25.0",
       "requires": [
         {
           "name": "nim",
@@ -165,10 +165,10 @@
         },
         {
           "name": "https://github.com/elcritch/matter",
-          "str": ">= 0.5.0",
+          "str": "#80a1e67815da0e6af2d17a24d26378ae5ae0fdcc",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.5.0"
+            "kind": "verSpecial",
+            "ver": ""
           }
         },
         {
@@ -216,6 +216,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.25.0",
+        "hash": "2e3c2cb7982e6a76deebb8f0e947078770d1c547",
+        "time": 1790543429
+      },
       {
         "tag": "v0.24.0",
         "hash": "8b591256ad93fe93eb81f470b850af53486da23f",
@@ -528,8 +533,8 @@
       }
     ],
     "commit": {
-      "hash": "ad342eecef6bcdb761a985a20bb9cf45233b95af",
-      "time": 1790462033
+      "hash": "2e3c2cb7982e6a76deebb8f0e947078770d1c547",
+      "time": 1790543429
     }
   }
 }

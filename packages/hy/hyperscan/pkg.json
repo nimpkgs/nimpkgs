@@ -1,10 +1,10 @@
 {
   "name": "hyperscan",
-  "url": "https://github.com/openpeeps/hyperscan-nim",
+  "url": "https://github.com/nimbase/hyperscan-nim",
   "method": "git",
   "description": "Bindings for Intel's Hyperscan library",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/hyperscan-nim",
+  "web": "https://github.com/nimbase/hyperscan-nim",
   "tags": [
     "regex",
     "intel",

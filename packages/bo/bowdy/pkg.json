@@ -27,10 +27,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.4.5",
+          "str": ">= 0.4.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.5"
+            "ver": "0.4.10"
           }
         },
         {
@@ -59,18 +59,18 @@
         },
         {
           "name": "voodoo",
-          "str": "any version",
+          "str": ">= 0.2.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.1"
           }
         },
         {
           "name": "vancode",
-          "str": ">= 0.2.10",
+          "str": ">= 0.2.12",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.10"
+            "ver": "0.2.12"
           }
         },
         {
@@ -96,9 +96,16 @@
       "srcDir": "src"
     },
     "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "c39fa11c45dfd5504953694bee938d77a232044b",
+        "time": 1790511132
+      }
+    ],
     "commit": {
-      "hash": "d72109990bfe59ba6194b9288f278f102fdede16",
-      "time": 1790448443
+      "hash": "1cb6f21133d6432a50bf91fbeef9de0651623a74",
+      "time": 1790516879
     }
   }
 }

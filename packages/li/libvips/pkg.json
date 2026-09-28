@@ -1,10 +1,10 @@
 {
   "name": "libvips",
-  "url": "https://github.com/openpeeps/libvips-nim",
+  "url": "https://github.com/nimbase/libvips-nim",
   "method": "git",
   "description": "Libvips - image processing library with low memory needs",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/libvips-nim",
+  "web": "https://github.com/nimbase/libvips-nim",
   "tags": [
     "wrapper",
     "libvips",

@@ -1,10 +1,10 @@
 {
   "name": "gccjit",
-  "url": "https://github.com/openpeeps/gccjit.nim",
+  "url": "https://github.com/nimbase/gccjit-nim",
   "method": "git",
   "description": "Nim bindings for libgccjit",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/gccjit.nim",
+  "web": "https://github.com/nimbase/gccjit-nim",
   "tags": [
     "wrapper",
     "gcc",

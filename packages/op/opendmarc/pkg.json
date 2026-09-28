@@ -1,10 +1,10 @@
 {
   "name": "opendmarc",
-  "url": "https://github.com/openpeeps/libopendmarc-nim",
+  "url": "https://github.com/nimbase/libopendmarc-nim",
   "method": "git",
   "description": "OpenDMARC bindings",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/libopendmarc-nim",
+  "web": "https://github.com/nimbase/libopendmarc-nim",
   "tags": [
     "dkim",
     "spf",

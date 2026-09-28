@@ -1,10 +1,10 @@
 {
   "name": "openh264",
-  "url": "https://github.com/openpeeps/openh264-nim",
+  "url": "https://github.com/nimbase/openh264-nim",
   "method": "git",
   "description": "Bindings for Cisco's H.264 codec library",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/openh264-nim",
+  "web": "https://github.com/nimbase/openh264-nim",
   "tags": [
     "h264",
     "encoder",

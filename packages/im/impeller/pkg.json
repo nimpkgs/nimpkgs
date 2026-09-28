@@ -1,10 +1,10 @@
 {
   "name": "impeller",
-  "url": "https://github.com/openpeeps/impeller-nim",
+  "url": "https://github.com/nimbase/impeller-nim",
   "method": "git",
   "description": "Bindings to Flutter's 2D vector graphics renderer",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/impeller-nim",
+  "web": "https://github.com/nimbase/impeller-nim",
   "tags": [
     "renderer",
     "engine",

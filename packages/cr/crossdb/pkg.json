@@ -1,10 +1,10 @@
 {
   "name": "crossdb",
-  "url": "https://github.com/openpeeps/crossdb-nim",
+  "url": "https://github.com/nimbase/crossdb-nim",
   "method": "git",
   "description": "CrossDB Driver for Nim",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/crossdb-nim",
+  "web": "https://github.com/nimbase/crossdb-nim",
   "tags": [
     "database",
     "sql",

@@ -1,10 +1,10 @@
 {
   "name": "libdatachannel",
-  "url": "https://github.com/openpeeps/libdatachannel-nim",
+  "url": "https://github.com/nimbase/libdatachannel-nim",
   "method": "git",
   "description": "Standalone WebRTC Data Channels, WebRTC Media Transport, and WebSockets",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/libdatachannel-nim",
+  "web": "https://github.com/nimbase/libdatachannel-nim",
   "tags": [
     "webrtc",
     "rtc",

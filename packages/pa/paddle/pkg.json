@@ -1,10 +1,10 @@
 {
   "name": "paddle",
-  "url": "https://github.com/openpeeps/paddle-nim",
+  "url": "https://github.com/nimbase/paddle-nim",
   "method": "git",
   "description": "Paddle API client",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/paddle-nim",
+  "web": "https://github.com/nimbase/paddle-nim",
   "tags": [
     "ecommerce",
     "payments",

@@ -1,10 +1,10 @@
 {
   "name": "zxc",
-  "url": "https://github.com/openpeeps/zxc-nim",
+  "url": "https://github.com/nimbase/zxc-nim",
   "method": "git",
   "description": "Bindings to ZXC compression library",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/zxc-nim",
+  "web": "https://github.com/nimbase/zxc-nim",
   "tags": [
     "lz77",
     "compression",

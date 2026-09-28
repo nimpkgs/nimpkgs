@@ -1,10 +1,10 @@
 {
   "name": "duckdb",
-  "url": "https://github.com/openpeeps/duckdb-nim",
+  "url": "https://github.com/nimbase/duckdb-nim",
   "method": "git",
   "description": "Bindings for DuckDB analytical database",
   "license": "MIT",
-  "web": "https://github.com/openpeeps/duckdb-nim",
+  "web": "https://github.com/nimbase/duckdb-nim",
   "tags": [
     "db",
     "sql",
