@@ -32,6 +32,11 @@
     },
     "versions": [
       {
+        "tag": "bindings/lua/v1.1.1-2",
+        "hash": "4dc2463168d11badabbbeea9e59e0366df3d84e9",
+        "time": 1790422065
+      },
+      {
         "tag": "v1.1.1-crystal",
         "hash": "2080304071f0239d3e959c35f38ebaa904231edd",
         "time": 1790182351
@@ -68,8 +73,8 @@
       }
     ],
     "commit": {
-      "hash": "32828ddaa1034f52706fc4fb152014d90ad0f586",
-      "time": 1790426914
+      "hash": "f0eb45ecd7e951cd8a54240fef643d348d4fc1cd",
+      "time": 1790587765
     }
   }
 }

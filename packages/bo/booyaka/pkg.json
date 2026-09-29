@@ -45,18 +45,26 @@
         },
         {
           "name": "tim",
-          "str": ">= 0.2.6",
+          "str": ">= 0.2.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.6"
+            "ver": "0.2.9"
           }
         },
         {
           "name": "marvdown",
-          "str": ">= 0.1.4",
+          "str": ">= 0.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.4"
+            "ver": "0.2.4"
+          }
+        },
+        {
+          "name": "sweetsyntax",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
           }
         },
         {
@@ -107,8 +115,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "eca7b34f6d270ee76da9e633a911330f7c3615d5",
-      "time": 1790358369
+      "hash": "8076fb86819307eba1a6f7c9c8cbbc08075399a8",
+      "time": 1790600080
     }
   }
 }
