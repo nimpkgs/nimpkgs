@@ -27,10 +27,10 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.0.0",
+          "str": ">= 2.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.0.0"
+            "ver": "2.2.10"
           }
         },
         {
@@ -43,10 +43,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.4.8",
+          "str": ">= 0.4.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.8"
+            "ver": "0.4.10"
           }
         },
         {
@@ -59,34 +59,34 @@
         },
         {
           "name": "boogie",
-          "str": ">= 0.2.0",
+          "str": ">= 0.2.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.2.1"
           }
         },
         {
           "name": "openparser",
-          "str": ">= 0.3.3",
+          "str": ">= 0.3.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.3"
+            "ver": "0.3.6"
           }
         },
         {
           "name": "sweetsyntax",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.1"
           }
         },
         {
           "name": "datpkgr",
-          "str": ">= 0.1.5",
+          "str": ">= 0.1.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.5"
+            "ver": "0.1.6"
           }
         },
         {
@@ -107,8 +107,8 @@
     "versions": [
       {
         "tag": "0.3.2",
-        "hash": "b94450a0965b49ee7c1960d95a8adecb853c2d38",
-        "time": 1790272657
+        "hash": "42f8bfff1e4b92db50f9349dff3116caf1c1dd96",
+        "time": 1790275473
       },
       {
         "tag": "0.3.1",
@@ -217,8 +217,8 @@
       }
     ],
     "commit": {
-      "hash": "42f8bfff1e4b92db50f9349dff3116caf1c1dd96",
-      "time": 1790275473
+      "hash": "e40547a0dcbc645a397306230a49dbb52ff712b7",
+      "time": 1790692759
     }
   }
 }

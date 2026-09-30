@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.10",
+      "version": "0.1.11",
       "requires": [
         {
           "name": "nim",
@@ -53,10 +53,18 @@
         },
         {
           "name": "powpow",
-          "str": ">= 0.1.9",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/supranim/tasks",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
@@ -69,10 +77,10 @@
         },
         {
           "name": "emitter",
-          "str": ">= 0.2.1",
+          "str": ">= 0.3.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.1"
+            "ver": "0.3.0"
           }
         },
         {
@@ -100,23 +108,7 @@
           }
         },
         {
-          "name": "checksums",
-          "str": ">= 0.2.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.2"
-          }
-        },
-        {
           "name": "flysystem",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "twofa",
           "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
@@ -129,6 +121,11 @@
     },
     "versions": [
       {
+        "tag": "0.1.11",
+        "hash": "f451f113f57d0b899da94c3db0cc052d5573975e",
+        "time": 1790185368
+      },
+      {
         "tag": "0.1.10",
         "hash": "9a461114481dca04b37ccb52b45cb80147dc15f2",
         "time": 1788507918
@@ -140,8 +137,8 @@
       }
     ],
     "commit": {
-      "hash": "f451f113f57d0b899da94c3db0cc052d5573975e",
-      "time": 1790185368
+      "hash": "7a3f8e2855569b0434d7ddbffea5f0eea6d029aa",
+      "time": 1790678544
     }
   }
 }

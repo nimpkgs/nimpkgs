@@ -1,0 +1,33 @@
+{
+  "name": "piper",
+  "url": "https://github.com/Dregacorp/piper",
+  "method": "git",
+  "description": "simple library offering pipe operator :> and function composition operator >>> for nim.",
+  "license": "BSD-3-Clause",
+  "web": "https://github.com/Dregacorp/piper",
+  "tags": [
+    "pipe-operator",
+    "function-composition-operator"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "6c8ef862340c33f7fd53a1adbce2fcb8d23463f7",
+      "time": 1790653239
+    }
+  }
+}

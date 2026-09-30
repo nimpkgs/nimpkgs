@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "requires": [
         {
           "name": "nim",
@@ -36,18 +36,18 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.2.0",
+          "str": ">= 0.3.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.3.3"
           }
         },
         {
           "name": "vancode",
-          "str": ">= 0.2.6",
+          "str": ">= 0.2.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.6"
+            "ver": "0.2.9"
           }
         },
         {
@@ -71,6 +71,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "6bd794f4d0e6b821934115b8f8705e0d2d8af5f7",
+        "time": 1789680553
+      },
       {
         "tag": "0.2.0",
         "hash": "58c50c4ab428c2d3cd7bf2cec2568396b63da8c7",
@@ -98,8 +103,8 @@
       }
     ],
     "commit": {
-      "hash": "6bd794f4d0e6b821934115b8f8705e0d2d8af5f7",
-      "time": 1789680553
+      "hash": "f0f1cd4d9ad299c1fafbb0a7208ce0a6b5c2f885",
+      "time": 1790692635
     }
   }
 }

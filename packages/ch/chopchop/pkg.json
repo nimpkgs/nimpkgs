@@ -30,27 +30,28 @@
           }
         },
         {
-          "name": "cdp",
-          "str": ">= 0.1.0",
+          "name": "powpow",
+          "str": ">= 0.1.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.9"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
-    "versions": [
-      {
-        "tag": "0.1.0",
-        "hash": "9a3e42f7f2f58e08054b36701baef19075173a94",
-        "time": 1784410051
-      }
-    ],
     "commit": {
-      "hash": "b1771fe6800b6018eb16c60ff76f3f8d11faee99",
-      "time": 1786812559
+      "hash": "2b5c3915a12f9c7115bdeb9e772ae0b9ace3aa08",
+      "time": 1790693033
     }
   }
 }

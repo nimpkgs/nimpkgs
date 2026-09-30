@@ -1,0 +1,98 @@
+{
+  "name": "ndav",
+  "url": "https://github.com/nimbase/webdav",
+  "method": "git",
+  "description": "WebDAV, CalDAV/CardDAV server and client. Powered by PowPow",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/webdav",
+  "tags": [
+    "webdav",
+    "caldav",
+    "carddav",
+    "ical",
+    "calendar",
+    "server",
+    "client",
+    "vcard"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "voodoo",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.3.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.3"
+          }
+        },
+        {
+          "name": "flysystem",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "mimedb",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.4"
+          }
+        },
+        {
+          "name": "blackpaper",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "ndav"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "8008fec671d2c2a2ae306901fc88776df9bae95a",
+      "time": 1790682653
+    }
+  }
+}

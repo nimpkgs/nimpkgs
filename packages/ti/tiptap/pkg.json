@@ -26,11 +26,11 @@
           }
         },
         {
-          "name": "jsony",
-          "str": "#head",
+          "name": "openparser",
+          "str": ">= 0.3.5",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.5"
           }
         }
       ],
@@ -38,8 +38,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "0dc629531c0e2449f3649f92ae377c0ae5b6004b",
-      "time": 1773863165
+      "hash": "11b4e4b5bc0efa898d4ebfc6e7b4b2d0502434ef",
+      "time": 1790694032
     }
   }
 }
