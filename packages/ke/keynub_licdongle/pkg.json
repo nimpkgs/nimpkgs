@@ -32,6 +32,11 @@
     },
     "versions": [
       {
+        "tag": "licd-tool-v1.1.1",
+        "hash": "e707953072f906445b5a8b8218f745e88fdd38a0",
+        "time": 1790791352
+      },
+      {
         "tag": "bindings/lua/v1.1.1-2",
         "hash": "4dc2463168d11badabbbeea9e59e0366df3d84e9",
         "time": 1790422065
@@ -73,8 +78,8 @@
       }
     ],
     "commit": {
-      "hash": "f0eb45ecd7e951cd8a54240fef643d348d4fc1cd",
-      "time": 1790587765
+      "hash": "e707953072f906445b5a8b8218f745e88fdd38a0",
+      "time": 1790791352
     }
   }
 }
