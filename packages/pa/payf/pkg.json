@@ -39,6 +39,14 @@
             "kind": "verEqLater",
             "ver": "2.0.0"
           }
+        },
+        {
+          "name": "finz",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [
@@ -50,13 +58,13 @@
     "versions": [
       {
         "tag": "0.1.0",
-        "hash": "f5fa11b0d146fb4ba4ecb8848ddf34411aab8209",
-        "time": 1772805741
+        "hash": "fac85c6b2fb3b55b5d5125d8f2e7b70b46f45d96",
+        "time": 1790885715
       }
     ],
     "commit": {
-      "hash": "f5fa11b0d146fb4ba4ecb8848ddf34411aab8209",
-      "time": 1772805741
+      "hash": "fac85c6b2fb3b55b5d5125d8f2e7b70b46f45d96",
+      "time": 1790885715
     }
   }
 }

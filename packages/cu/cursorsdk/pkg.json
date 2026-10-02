@@ -1,0 +1,41 @@
+{
+  "name": "cursorsdk",
+  "url": "https://github.com/Niminem/cursorsdk",
+  "method": "git",
+  "description": "Cursor SDK Bridge client for the Nim programming language",
+  "license": "MIT",
+  "web": "https://github.com/Niminem/cursorsdk",
+  "tags": [
+    "cursor",
+    "ai",
+    "llm"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.35",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.35",
+        "hash": "164cf56202ee41b75766a56be8d49eecf06cc897",
+        "time": 1790871595
+      }
+    ],
+    "commit": {
+      "hash": "f3d7a0b07f3113ffa6816c8fa4f8303651d82e2e",
+      "time": 1790890726
+    }
+  }
+}

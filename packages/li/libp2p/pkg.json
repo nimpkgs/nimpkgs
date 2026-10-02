@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.3.5",
+      "version": "2.4.0",
       "requires": [
         {
           "name": "nim",
@@ -130,18 +130,18 @@
         },
         {
           "name": "https://github.com/status-im/nim-websock",
-          "str": ">= 0.4.0",
+          "str": ">= 0.4.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.0"
+            "ver": "0.4.1"
           }
         },
         {
           "name": "https://github.com/logos-storage/nim-libplum",
-          "str": "#v0.6.3",
+          "str": ">= 0.6.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.6.2"
           }
         }
       ],
@@ -149,6 +149,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.4.0",
+        "hash": "b2c2473a0974506ddd2c50d20995fc4284f39900",
+        "time": 1790624960
+      },
       {
         "tag": "v2.3.5",
         "hash": "05e8dfea23ce355b81c9ffc7df7dffdf9ce8106d",
@@ -361,8 +366,8 @@
       }
     ],
     "commit": {
-      "hash": "bbb5001bd3e93f1bb371b10814ec0c1dd41f5085",
-      "time": 1790802168
+      "hash": "68561de26fc5689d49a25c359198ea9c35836b18",
+      "time": 1790876466
     }
   }
 }
