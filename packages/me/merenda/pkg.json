@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.25.2",
+      "version": "0.25.4",
       "requires": [
         {
           "name": "nim",
@@ -181,10 +181,10 @@
         },
         {
           "name": "https://github.com/elcritch/terminex",
-          "str": "#143c79018554c4e81a329a9a898e176df0a92344",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
@@ -224,6 +224,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.25.4",
+        "hash": "6f7dc2b7e4c556ee9ca70e337477b7716202c135",
+        "time": 1790981001
+      },
       {
         "tag": "v0.25.2",
         "hash": "9658bc902fe0b0f0ad1b913020bcd41b2a604800",
@@ -551,8 +556,8 @@
       }
     ],
     "commit": {
-      "hash": "9658bc902fe0b0f0ad1b913020bcd41b2a604800",
-      "time": 1790890930
+      "hash": "6f7dc2b7e4c556ee9ca70e337477b7716202c135",
+      "time": 1790981001
     }
   }
 }

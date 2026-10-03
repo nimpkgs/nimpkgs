@@ -1,0 +1,44 @@
+{
+  "name": "finz",
+  "url": "https://github.com/capocasa/finz",
+  "method": "git",
+  "description": "FinTS 3.0 client library: SEPA (instant) transfers with Verification of Payee, camt/MT940 statements, decoupled TAN",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/finz",
+  "tags": [
+    "fints",
+    "hbci",
+    "banking",
+    "sepa",
+    "sepa-transfer",
+    "transactions"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "80227d9ae9f0a1ceb5b0ea4985d43260fb7b8d3d",
+        "time": 1790883994
+      }
+    ],
+    "commit": {
+      "hash": "80227d9ae9f0a1ceb5b0ea4985d43260fb7b8d3d",
+      "time": 1790883994
+    }
+  }
+}
