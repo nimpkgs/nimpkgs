@@ -106,14 +106,6 @@
           }
         },
         {
-          "name": "e2ee",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
           "name": "money",
           "str": ">= 0.1.0",
           "ver": {
@@ -123,6 +115,14 @@
         },
         {
           "name": "chopchop",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "chachachat",
           "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
@@ -145,8 +145,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "dbdace4e3e6340a7e503d8a4763c77513f3e3dfe",
-      "time": 1790837910
+      "hash": "7b2b74aaf7f348aa9df3517f651e3954aa1f957c",
+      "time": 1791035143
     }
   }
 }

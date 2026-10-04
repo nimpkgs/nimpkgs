@@ -11,7 +11,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.10.2",
+      "version": "0.11.0",
       "requires": [
         {
           "name": "nim",
@@ -46,6 +46,14 @@
           }
         },
         {
+          "name": "regex",
+          "str": ">= 0.26.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.26.3"
+          }
+        },
+        {
           "name": "semver",
           "str": ">= 1.2.0",
           "ver": {
@@ -61,6 +69,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.11.0",
+        "hash": "0a09618278a8c92a930ca21c8965038c24650962",
+        "time": 1791053891
+      },
       {
         "tag": "v0.10.2",
         "hash": "972e0f2702354747c6b748ed304a15b9aa82a1a7",
@@ -133,8 +146,8 @@
       }
     ],
     "commit": {
-      "hash": "13fae043e5573f5bcef848e8b771978a2374fd6f",
-      "time": 1790067944
+      "hash": "95495b923bca431f406d81e8220f0686e1aac9fa",
+      "time": 1791090047
     }
   }
 }

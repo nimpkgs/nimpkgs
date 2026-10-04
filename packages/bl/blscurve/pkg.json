@@ -49,10 +49,10 @@
         },
         {
           "name": "taskpools",
-          "str": ">= 0.2.0",
+          "str": ">= 0.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.2.2"
           }
         }
       ],
@@ -60,8 +60,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "6dde7c830f9bd5764a93392ee681bafe5bc8d787",
-      "time": 1788441405
+      "hash": "87504d0e58cb1203243c661275a5d5ac06cc6fc5",
+      "time": 1791057749
     }
   }
 }

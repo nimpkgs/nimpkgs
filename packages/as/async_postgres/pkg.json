@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.0",
+      "version": "0.4.0",
       "requires": [
         {
           "name": "nim",
@@ -25,18 +25,34 @@
         },
         {
           "name": "nimcrypto",
-          "str": ">= 0.6.0",
+          "str": ">= 0.7.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.0"
+            "ver": "0.7.3"
           }
         },
         {
           "name": "checksums",
-          "str": ">= 0.2.0",
+          "str": ">= 0.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.2.2"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.13.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13.2"
+          }
+        },
+        {
+          "name": "normalize",
+          "str": ">= 0.9.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.0"
           }
         }
       ],
@@ -44,6 +60,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "f343a31b19b95dd97e6b6af918cc7aea0e43f030",
+        "time": 1791013459
+      },
       {
         "tag": "v0.3.0",
         "hash": "2ac2d89ccf1bffaf8410acd0365f685d72b9cb1c",
@@ -61,8 +82,8 @@
       }
     ],
     "commit": {
-      "hash": "80f1b86dea8cce0ebf2a9707de55315fd72c5eee",
-      "time": 1790975081
+      "hash": "f343a31b19b95dd97e6b6af918cc7aea0e43f030",
+      "time": 1791013459
     }
   }
 }

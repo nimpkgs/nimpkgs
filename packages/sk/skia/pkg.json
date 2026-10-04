@@ -1,0 +1,38 @@
+{
+  "name": "skia",
+  "url": "https://github.com/nimbase/skia-nim",
+  "method": "git",
+  "description": "Idiomatic Nim bindings for the Skia 2D graphics library",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/skia-nim",
+  "tags": [
+    "2d",
+    "graphics",
+    "bindings",
+    "wrapper",
+    "rendering",
+    "gradient",
+    "engine"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "28d34f7cb289072400fded29890ec8185364607c",
+      "time": 1790795345
+    }
+  }
+}
