@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.5",
+      "version": "0.4.11",
       "requires": [
         {
           "name": "nim",
@@ -38,12 +38,53 @@
             "kind": "verEqLater",
             "ver": "0.10.20"
           }
+        },
+        {
+          "name": "zstd",
+          "str": ">= 0.9.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.9.0"
+          }
+        },
+        {
+          "name": "https://github.com/ljoeckel/nimlz4.git",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.4.11",
+        "hash": "0360ac6ff2db0ec1532e7fb832d1b8314b0dc758",
+        "time": 1791144641
+      },
+      {
+        "tag": "v0.4.10",
+        "hash": "4bb74aaac19ee7c6170d95cfeea7005d1d5c048b",
+        "time": 1791105288
+      },
+      {
+        "tag": "v0.4.9",
+        "hash": "9ac28b64a665f214922a742e6538e98bcf94afce",
+        "time": 1791099482
+      },
+      {
+        "tag": "v0.4.8",
+        "hash": "0ca4345a447da7b153c310d5c58454a0cef0aacf",
+        "time": 1791096700
+      },
+      {
+        "tag": "v0.4.7",
+        "hash": "70eccc78c866b83aeaa14645c0a4147d87523337",
+        "time": 1790700928
+      },
       {
         "tag": "v0.4.6",
         "hash": "7ff67b250a67a3db865c33f4f7672ea54eedb72d",
@@ -111,8 +152,8 @@
       }
     ],
     "commit": {
-      "hash": "70eccc78c866b83aeaa14645c0a4147d87523337",
-      "time": 1790700928
+      "hash": "0360ac6ff2db0ec1532e7fb832d1b8314b0dc758",
+      "time": 1791144641
     }
   }
 }

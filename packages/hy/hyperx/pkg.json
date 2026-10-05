@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.59",
+      "version": "0.1.60",
       "requires": [
         {
           "name": "nim",
@@ -29,10 +29,10 @@
         },
         {
           "name": "hpack",
-          "str": ">= 0.5.0",
+          "str": ">= 0.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.6.0"
           }
         }
       ],
@@ -40,6 +40,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.1.60",
+        "hash": "e46028fc2562ff307a9357009aaf0eaadffabacc",
+        "time": 1791099346
+      },
       {
         "tag": "v0.1.59",
         "hash": "f26ca4ac14c4146002e400980c4ce4fa3225bea1",
@@ -342,8 +347,8 @@
       }
     ],
     "commit": {
-      "hash": "0654ef6366177e01632036c58f3f7ea3becfe5f4",
-      "time": 1791088693
+      "hash": "0c2c800e31bbc483a85e41c3ff7ba65354476290",
+      "time": 1791099901
     }
   }
 }

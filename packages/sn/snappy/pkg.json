@@ -56,10 +56,10 @@
         },
         {
           "name": "testutils",
-          "str": "any version",
+          "str": ">= 0.8.5",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.8.5"
           }
         }
       ],
@@ -67,8 +67,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "a99d113197e81bf764a3b005b0ade3f9f3758069",
-      "time": 1788256240
+      "hash": "9570f7f8a6f8c3ea833d012af958361307015703",
+      "time": 1791098296
     }
   }
 }

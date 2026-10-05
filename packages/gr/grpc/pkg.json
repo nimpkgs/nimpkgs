@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.20",
+      "version": "0.1.22",
       "requires": [
         {
           "name": "nim",
@@ -31,10 +31,10 @@
         },
         {
           "name": "hyperx",
-          "str": ">= 0.1.50",
+          "str": ">= 0.1.60",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.50"
+            "ver": "0.1.60"
           }
         },
         {
@@ -58,6 +58,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.1.22",
+        "hash": "95c544ec22e0d06d483398eadf091cb4ec726c89",
+        "time": 1791113444
+      },
+      {
+        "tag": "v0.1.21",
+        "hash": "c0b5291e3413c650e7d5e9ed4fdd3f423ec083da",
+        "time": 1791101980
+      },
       {
         "tag": "v0.1.20",
         "hash": "e97aac4310ad18f852fbfffc32334b680c8c296d",
@@ -165,8 +175,8 @@
       }
     ],
     "commit": {
-      "hash": "e97aac4310ad18f852fbfffc32334b680c8c296d",
-      "time": 1781351809
+      "hash": "95c544ec22e0d06d483398eadf091cb4ec726c89",
+      "time": 1791113444
     }
   }
 }
