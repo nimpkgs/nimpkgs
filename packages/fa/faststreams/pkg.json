@@ -13,30 +13,30 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.5.2",
+      "version": "0.6.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.18",
+          "str": ">= 2.0.14",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.18"
+            "ver": "2.0.14"
           }
         },
         {
           "name": "stew",
-          "str": ">= 0.5.0",
+          "str": ">= 0.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.6.0"
           }
         },
         {
           "name": "unittest2",
-          "str": ">= 0.2.5",
+          "str": ">= 0.3.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.5"
+            "ver": "0.3.0"
           }
         }
       ],
@@ -44,6 +44,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.6.0",
+        "hash": "5bdef9939b483435a61aa91a6422c1a9852127b4",
+        "time": 1791228811
+      },
       {
         "tag": "v0.5.2",
         "hash": "059bc2f52546ac14b583639c33372c14b1d46fa3",
@@ -76,8 +81,8 @@
       }
     ],
     "commit": {
-      "hash": "ad3f69fbb97025dabadc01a01b5c42da04dd564d",
-      "time": 1791125028
+      "hash": "5bdef9939b483435a61aa91a6422c1a9852127b4",
+      "time": 1791228811
     }
   }
 }
