@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.2",
+      "version": "0.3.3",
       "requires": [
         {
           "name": "nim",
@@ -67,10 +67,10 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.3.6",
+          "str": ">= 0.3.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.6"
+            "ver": "0.3.8"
           }
         },
         {
@@ -83,10 +83,10 @@
         },
         {
           "name": "datpkgr",
-          "str": ">= 0.1.6",
+          "str": ">= 0.1.9",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.6"
+            "ver": "0.1.9"
           }
         },
         {
@@ -105,6 +105,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.3.3",
+        "hash": "6171dc7b3e7a5ccaf2ccfcbf4ea83a5191203de2",
+        "time": 1791285416
+      },
       {
         "tag": "0.3.2",
         "hash": "42f8bfff1e4b92db50f9349dff3116caf1c1dd96",
@@ -217,8 +222,8 @@
       }
     ],
     "commit": {
-      "hash": "91abcd4bf71f548ce8cacb2b965f5825e863036e",
-      "time": 1791024464
+      "hash": "6171dc7b3e7a5ccaf2ccfcbf4ea83a5191203de2",
+      "time": 1791285416
     }
   }
 }

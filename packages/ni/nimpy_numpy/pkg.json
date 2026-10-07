@@ -1,0 +1,49 @@
+{
+  "name": "nimpy_numpy",
+  "url": "https://github.com/pietroppeter/nimpy-numpy",
+  "method": "git",
+  "description": "numpy arrays for nimpy: Nim procs that take and return numpy arrays",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/nimpy-numpy",
+  "tags": [
+    "nimpy",
+    "numpy",
+    "python"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimpy",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0, v0.0.1",
+        "hash": "53a760b7910cf9ef2c70a5b6abc05ab8dca186b7",
+        "time": 1791297236
+      }
+    ],
+    "commit": {
+      "hash": "c5b171eb369dbf6c3712fba907d4c35c00d12041",
+      "time": 1791308889
+    }
+  }
+}

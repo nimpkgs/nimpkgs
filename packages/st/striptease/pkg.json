@@ -1,0 +1,50 @@
+{
+  "name": "striptease",
+  "url": "https://github.com/openpeeps/striptease",
+  "method": "git",
+  "description": "Strip metadata tags from audio, image, raw and video files (WAV, JPEG, PNG, GIF, WebP, TIFF RAW, CR3, HEIC, MP4/MOV, AVI, MKV)",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/striptease",
+  "tags": [
+    "exif",
+    "metadata",
+    "photo",
+    "cli",
+    "cr2",
+    "dng",
+    "tiff",
+    "wav",
+    "jpg"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [
+        "striptease"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "bd98cb26a8e4e7536d4dce9a212752072f4b5a7b",
+        "time": 1791308976
+      }
+    ],
+    "commit": {
+      "hash": "974f3c295a77148fa902ab5006eff97097b84448",
+      "time": 1791320291
+    }
+  }
+}

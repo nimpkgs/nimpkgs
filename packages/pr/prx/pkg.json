@@ -1,0 +1,45 @@
+{
+  "name": "prx",
+  "url": "https://github.com/thebadinteger/prx.git",
+  "method": "git",
+  "description": "universal proxy client and server library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/thebadinteger/prx",
+  "tags": [
+    "proxy",
+    "socks",
+    "socks4",
+    "socks5",
+    "http",
+    "networking",
+    "async"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "f80062993636b5b3aa84865623263cecbc95d682",
+        "time": 1791280550
+      }
+    ],
+    "commit": {
+      "hash": "f80062993636b5b3aa84865623263cecbc95d682",
+      "time": 1791280550
+    }
+  }
+}

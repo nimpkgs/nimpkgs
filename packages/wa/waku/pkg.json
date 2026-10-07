@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.39.0",
+      "version": "0.39.1",
       "requires": [
         {
           "name": "nim",
@@ -27,9 +27,9 @@
         },
         {
           "name": "chronos",
-          "str": ">= 4.4.0 & < 4.5.0",
+          "str": "#0de7b335d0ad5557ad5ba71a4b7662f7b201750e",
           "ver": {
-            "kind": "verIntersect",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -91,10 +91,10 @@
         },
         {
           "name": "libp2p",
-          "str": "2.3.5",
+          "str": "2.4.1",
           "ver": {
             "kind": "verEq",
-            "ver": "2.3.5"
+            "ver": "2.4.1"
           }
         },
         {
@@ -131,7 +131,7 @@
         },
         {
           "name": "https://github.com/status-im/nim-websock",
-          "str": "#387a8eb7e961e8fdd3b1a717d36bc53b55e4dc5d",
+          "str": "#0432dc445c500b20963ef4b76e585c1a3943c254",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -291,7 +291,7 @@
         },
         {
           "name": "https://github.com/logos-messaging/nim-sds.git",
-          "str": "#b12f5ee07c5b764303b51fb948b32a4ade1de3b5",
+          "str": "#4b08d508dbfa69c0e2e3883db67adf1fe5a0c994",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -330,14 +330,6 @@
           }
         },
         {
-          "name": "https://github.com/vacp2p/nim-boringssl",
-          "str": "#v0.0.13",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
           "name": "https://github.com/vacp2p/nim-jwt.git",
           "str": "#057ec95eb5af0eea9c49bfe9025b3312c95dc5f2",
           "ver": {
@@ -358,6 +350,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.39.1",
+        "hash": "0f2188c09779cc84116db344bbb43ccfe6a27c35",
+        "time": 1791309697
+      },
       {
         "tag": "v0.39.0-rc.4, v0.39.0",
         "hash": "ca28145fdc5e9858595126a3d6b01ec19882e31c",
@@ -665,8 +662,8 @@
       }
     ],
     "commit": {
-      "hash": "7e8375a2cd22ebb1ab82ac7dfffc7b2f7ca8908e",
-      "time": 1791206851
+      "hash": "e4c4e189c7407d492182d84a4c3957f9d4a6527f",
+      "time": 1791322793
     }
   }
 }

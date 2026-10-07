@@ -1,0 +1,44 @@
+{
+  "name": "polyline",
+  "url": "https://github.com/Xenoglyphiq/polyline-nim",
+  "method": "git",
+  "description": "Encode and decode Google's Encoded Polyline Algorithm Format",
+  "license": "MIT OR Apache-2.0",
+  "web": "https://github.com/Xenoglyphiq/polyline-nim",
+  "tags": [
+    "polyline",
+    "geo",
+    "gis",
+    "maps",
+    "encoding",
+    "google"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "dd0cd2ea32fa48ac410eb04438aa453e2bce18ef",
+        "time": 1791259513
+      }
+    ],
+    "commit": {
+      "hash": "d16719db8f710a0d522ecd50a97da33d0a6751b0",
+      "time": 1791339044
+    }
+  }
+}
