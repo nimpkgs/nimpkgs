@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.25.6",
+      "version": "0.25.7",
       "requires": [
         {
           "name": "nim",
@@ -172,14 +172,6 @@
           }
         },
         {
-          "name": "https://github.com/fox0430/reni",
-          "str": "#7703aa83d8bbd358872bbab388b2c62e6798b88a",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
           "name": "https://github.com/elcritch/terminex",
           "str": ">= 0.4.0",
           "ver": {
@@ -224,6 +216,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.25.7.0",
+        "hash": "5b776f635e2c80bf4442c295ee3ce3031782c3ef",
+        "time": 1791397046
+      },
+      {
+        "tag": "v0.25.7",
+        "hash": "ddce44a4efe7bddb2cdb4fd199b55dbdb3d2a17e",
+        "time": 1791390843
+      },
       {
         "tag": "v0.25.6",
         "hash": "02e63088730a15f4740a971734ee5375cc4c3443",
@@ -566,8 +568,8 @@
       }
     ],
     "commit": {
-      "hash": "edd0ca4a74f91f2b23651d56b216c687f389a4fc",
-      "time": 1791332202
+      "hash": "2b6dd1a97ef24a97a7111724fb00187705ccde51",
+      "time": 1791415939
     }
   }
 }

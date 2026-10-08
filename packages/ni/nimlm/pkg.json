@@ -1,0 +1,49 @@
+{
+  "name": "nimlm",
+  "url": "https://github.com/lipunila-sonaliwan-fr/nim.llm",
+  "method": "git",
+  "description": "Run, fine-tune and build language models in pure Nim. No dependencies: no llama.cpp, no Python, no BLAS, no C library.",
+  "license": "CC BY-NC-SA 4.0",
+  "web": "https://github.com/lipunila-sonaliwan-fr/nim.llm",
+  "tags": [
+    "LPCS",
+    "Lab'Oratoire",
+    "sonaliwan",
+    "llm",
+    "fine-tune",
+    "model",
+    "text",
+    "image",
+    "sound",
+    "rag",
+    "embedding",
+    "tutorial",
+    "english",
+    "french",
+    "macOS",
+    "Linux",
+    "Windows",
+    "cli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0fec4ecae84b07551f2fd47c4de05d77ae500d71",
+      "time": 1791400786
+    }
+  }
+}

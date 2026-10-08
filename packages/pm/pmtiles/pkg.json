@@ -1,0 +1,49 @@
+{
+  "name": "pmtiles",
+  "url": "https://github.com/Xenoglyphiq/pmtiles-nim",
+  "method": "git",
+  "description": "Read PMTiles v3 tile archives: header, directories, tile lookup and tile bytes",
+  "license": "MIT OR Apache-2.0",
+  "web": "https://github.com/Xenoglyphiq/pmtiles-nim",
+  "tags": [
+    "pmtiles",
+    "geo",
+    "gis",
+    "maps",
+    "tiles",
+    "vector-tiles"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "7e758c7d5197c93ca283b452c903bd94af7c1b71",
+        "time": 1791329594
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "03f8ce9d8dec1f8ced3c4b85d25a608ac3f55989",
+        "time": 1791327399
+      }
+    ],
+    "commit": {
+      "hash": "34fafaf26805e91e0930d9f1f92ffbbc29634188",
+      "time": 1791339004
+    }
+  }
+}
