@@ -1,0 +1,66 @@
+{
+  "name": "lockfree",
+  "url": "https://github.com/elijahr/lockfree",
+  "method": "git",
+  "description": "Lock-free queues, SMR, and managed-payload types for Nim.",
+  "license": "MIT",
+  "web": "https://github.com/elijahr/lockfree",
+  "tags": [
+    "concurrency",
+    "lock-free",
+    "queues",
+    "smr",
+    "ebr",
+    "spmc",
+    "mpsc",
+    "mpmc",
+    "spsc",
+    "channels",
+    "ring-buffer",
+    "c-abi"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "unittest2",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "typestates",
+          "str": ">= 0.12.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.12.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "63401a05e93fdefb95aac7e764b1c1d23f0b51a7",
+        "time": 1791445259
+      }
+    ],
+    "commit": {
+      "hash": "b098c0b39176afdfce44129ab86dd180d58d48c6",
+      "time": 1791524326
+    }
+  }
+}

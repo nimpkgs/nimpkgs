@@ -22,7 +22,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "4.2.0",
+      "version": "5.1.0",
       "requires": [
         {
           "name": "nim",
@@ -49,11 +49,11 @@
           }
         },
         {
-          "name": "debra",
-          "str": ">= 0.7.0",
+          "name": "https://github.com/elijahr/lockfree",
+          "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.0"
+            "ver": "0.1.0"
           }
         }
       ],
@@ -61,6 +61,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v5.1.0",
+        "hash": "120fdc74c1dab57395ca5a96e1d827d7795ebcff",
+        "time": 1791447068
+      },
       {
         "tag": "v4.2.0",
         "hash": "38279ff01141047b4def04becff7bc72a31ff3b0",
@@ -143,8 +148,8 @@
       }
     ],
     "commit": {
-      "hash": "9c176a762a0805f3a8292383f4ef4dccbc69e9ab",
-      "time": 1782684367
+      "hash": "0691f069124ea1f7b3280ef1ae56a7024b8d9080",
+      "time": 1791515108
     }
   }
 }
