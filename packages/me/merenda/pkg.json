@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.25.8",
+      "version": "0.26.0",
       "requires": [
         {
           "name": "nim",
@@ -124,10 +124,10 @@
           }
         },
         {
-          "name": "kiwiberry",
-          "str": "any version",
+          "name": "https://github.com/elcritch/kiwiberry",
+          "str": "#4d273da93f67d8e5d6317898851772b32fa635ec",
           "ver": {
-            "kind": "verAny",
+            "kind": "verSpecial",
             "ver": ""
           }
         },
@@ -210,12 +210,30 @@
             "kind": "verEqLater",
             "ver": "0.5.2"
           }
+        },
+        {
+          "name": "stylus",
+          "str": "0.1.5",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.1.5"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.26.0",
+        "hash": "dc81576aa7079d5da77680606fc819da43064f4b",
+        "time": 1791593041
+      },
+      {
+        "tag": "v0.25.9",
+        "hash": "8bb1e645bcd091605305cc66339794295d29e53e",
+        "time": 1791556414
+      },
       {
         "tag": "v0.25.8",
         "hash": "5b0f5eb59aa0b1e471ceb77077f3f5bfd18bd01d",
@@ -573,8 +591,8 @@
       }
     ],
     "commit": {
-      "hash": "191747e1bdb2475ca4ac7046525938adfadd2a2e",
-      "time": 1791499382
+      "hash": "dc81576aa7079d5da77680606fc819da43064f4b",
+      "time": 1791593041
     }
   }
 }

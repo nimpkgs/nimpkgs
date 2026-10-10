@@ -13,26 +13,34 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.14.0",
+      "version": "1.16.0",
       "requires": [
         {
           "name": "nim",
-          "str": "2.0.8",
+          "str": ">= 2.2.12",
           "ver": {
-            "kind": "verEq",
-            "ver": "2.0.8"
+            "kind": "verEqLater",
+            "ver": "2.2.12"
           }
         },
         {
           "name": "chronos",
-          "str": ">= 4.0.4",
+          "str": ">= 4.2.2 & < 4.3.0",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "4.0.4"
+            "kind": "verIntersect",
+            "ver": ""
           }
         },
         {
-          "name": "json_rpc",
+          "name": "https://github.com/status-im/nim-json-rpc",
+          "str": "#e00ae937ed3c35ca65dd2b674eebb9b4a31c19cc",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "with",
           "str": ">= 0.5.0",
           "ver": {
             "kind": "verEqLater",
@@ -40,59 +48,51 @@
           }
         },
         {
-          "name": "with",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "chronicles",
-          "str": "any version",
+          "str": ">= 0.12.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.12.2"
           }
         },
         {
           "name": "serialization",
-          "str": "any version",
+          "str": ">= 0.5.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.2"
           }
         },
         {
           "name": "json_serialization",
-          "str": "any version",
+          "str": ">= 0.4.4",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.4"
           }
         },
         {
           "name": "stew",
-          "str": "any version",
+          "str": ">= 0.5.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.0"
           }
         },
         {
           "name": "regex",
-          "str": "any version",
+          "str": ">= 0.26.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.26.3"
           }
         },
         {
           "name": "unittest2",
-          "str": ">= 0.2.4",
+          "str": ">= 0.2.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.4"
+            "ver": "0.2.5"
           }
         }
       ],
@@ -103,6 +103,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v1.16.0",
+        "hash": "58168102d92d5742c39ab692aeb7bdbd7cf8df9a",
+        "time": 1791513966
+      },
       {
         "tag": "v1.14.0",
         "hash": "64239660c8ee4484b16e0ef0d1c0bf2e58b0bd2c",
@@ -165,8 +170,8 @@
       }
     ],
     "commit": {
-      "hash": "58168102d92d5742c39ab692aeb7bdbd7cf8df9a",
-      "time": 1791513966
+      "hash": "089bb5e8a0617203f524a0c51a4f5933ad2dbdcf",
+      "time": 1791567101
     }
   }
 }
