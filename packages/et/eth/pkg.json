@@ -25,7 +25,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.9.1",
+      "version": "0.9.3",
       "requires": [
         {
           "name": "nim",
@@ -45,10 +45,10 @@
         },
         {
           "name": "chronos",
-          "str": ">= 4.0.0",
+          "str": ">= 4.0.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "4.0.0"
+            "ver": "4.0.1"
           }
         },
         {
@@ -101,10 +101,10 @@
         },
         {
           "name": "secp256k1",
-          "str": ">= 0.6.0",
+          "str": ">= 0.7.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.0"
+            "ver": "0.7.0"
           }
         },
         {
@@ -117,10 +117,10 @@
         },
         {
           "name": "sqlite3_abi",
-          "str": "any version",
+          "str": ">= 3.53.4.1",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "3.53.4.1"
           }
         },
         {
@@ -141,10 +141,10 @@
         },
         {
           "name": "testutils",
-          "str": ">= 0.8.3",
+          "str": ">= 0.8.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.8.3"
+            "ver": "0.8.5"
           }
         },
         {
@@ -160,6 +160,16 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.9.3",
+        "hash": "91596d606dab0a64ac9cd39279df3098d1c3251d",
+        "time": 1791672521
+      },
+      {
+        "tag": "v0.9.2",
+        "hash": "65103204746d05d5ec2be33bc42697e9c9ff4e6b",
+        "time": 1791641323
+      },
       {
         "tag": "v0.9.1",
         "hash": "c3d1ad4f570f4529cb71e73095a44f0504e581a3",
@@ -192,8 +202,8 @@
       }
     ],
     "commit": {
-      "hash": "32613dee2b1b7c170385ee437f9f74e60e7f15e8",
-      "time": 1791594823
+      "hash": "91596d606dab0a64ac9cd39279df3098d1c3251d",
+      "time": 1791672521
     }
   }
 }
