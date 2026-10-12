@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.26.0",
+      "version": "0.27.1",
       "requires": [
         {
           "name": "nim",
@@ -60,8 +60,8 @@
           }
         },
         {
-          "name": "siwin",
-          "str": "#fdec8e4",
+          "name": "https://github.com/levovix0/siwin",
+          "str": "#78bb49c7fd7e5e14590f567e1ccbb07eb5ab6739",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -69,10 +69,10 @@
         },
         {
           "name": "https://github.com/elcritch/figdraw",
-          "str": ">= 0.43.0",
+          "str": ">= 0.44.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.43.0"
+            "ver": "0.44.0"
           }
         },
         {
@@ -156,19 +156,19 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/nim-markdown",
-          "str": "#fix/arc-emphasis-ownership",
+          "name": "https://github.com/elcritch/nim-markdown#fix",
+          "str": "",
           "ver": {
-            "kind": "verSpecial",
+            "kind": "verEq",
             "ver": ""
           }
         },
         {
           "name": "https://github.com/elcritch/matter",
-          "str": "#80a1e67815da0e6af2d17a24d26378ae5ae0fdcc",
+          "str": ">= 0.6.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.6.0"
           }
         },
         {
@@ -224,6 +224,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.27.1",
+        "hash": "0be7d6584da3fd3aeb580611b01ca7836c6cedc6",
+        "time": 1791758367
+      },
+      {
+        "tag": "v0.27.0",
+        "hash": "fea61e88249b4512ca2a7396c09721b7d3d0475b",
+        "time": 1791725275
+      },
       {
         "tag": "v0.26.0",
         "hash": "dc81576aa7079d5da77680606fc819da43064f4b",
@@ -591,8 +601,8 @@
       }
     ],
     "commit": {
-      "hash": "dc81576aa7079d5da77680606fc819da43064f4b",
-      "time": 1791593041
+      "hash": "0be7d6584da3fd3aeb580611b01ca7836c6cedc6",
+      "time": 1791758367
     }
   }
 }
