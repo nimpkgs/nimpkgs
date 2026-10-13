@@ -11,11 +11,11 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "requires": [
         {
           "name": "nim",
-          "str": " ^= >= 2.2.6",
+          "str": "^= 2.2.12",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -23,7 +23,7 @@
         },
         {
           "name": "chroma",
-          "str": " ^= >= 1.0.0",
+          "str": "^= 1.0.0",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -31,7 +31,7 @@
         },
         {
           "name": "cligen",
-          "str": " ^= >= 1.9.6",
+          "str": "^= 1.11.0",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -39,7 +39,7 @@
         },
         {
           "name": "karax",
-          "str": " ^= >= 1.5.0",
+          "str": "^= 1.5.0",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -47,7 +47,7 @@
         },
         {
           "name": "nimsimd",
-          "str": " ^= >= 1.3.2",
+          "str": "^= 1.3.2",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -55,7 +55,7 @@
         },
         {
           "name": "parsetoml",
-          "str": " ^= >= 0.7.2",
+          "str": "^= 0.7.2",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -63,7 +63,7 @@
         },
         {
           "name": "regex",
-          "str": " ^= >= 0.26.3",
+          "str": "^= 0.27.0",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -71,7 +71,7 @@
         },
         {
           "name": "results",
-          "str": " ^= >= 0.5.1",
+          "str": "^= 0.5.1",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -79,7 +79,7 @@
         },
         {
           "name": "stew",
-          "str": " ^= >= 0.4.2",
+          "str": "^= 0.6.0",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -87,7 +87,7 @@
         },
         {
           "name": "unittest2",
-          "str": " ^= >= 0.2.5",
+          "str": "^= 0.3.0",
           "ver": {
             "kind": "verCaret",
             "ver": ""
@@ -101,6 +101,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v1.2.1",
+        "hash": "c8dcf6fdb2bf81663197afd081d0323efcd4a4eb",
+        "time": 1791811100
+      },
       {
         "tag": "v1.2.0",
         "hash": "0216a65095e81511abb028fdd28fb5915f1bd100",
@@ -618,8 +623,8 @@
       }
     ],
     "commit": {
-      "hash": "0216a65095e81511abb028fdd28fb5915f1bd100",
-      "time": 1770106451
+      "hash": "a87fa6cf018ca42623afce34631894663b2fbb31",
+      "time": 1791816703
     }
   }
 }

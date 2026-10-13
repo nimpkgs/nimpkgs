@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.2",
+      "version": "0.1.4",
       "requires": [
         {
           "name": "nim",
@@ -47,12 +47,33 @@
             "kind": "verEqLater",
             "ver": "0.2.0"
           }
+        },
+        {
+          "name": "punycode",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "unicodedb",
+          "str": ">= 0.14.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.14.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.4",
+        "hash": "7c5528c472a26c8e7f218f75f1420bb59521558b",
+        "time": 1791839435
+      },
       {
         "tag": "0.1.2",
         "hash": "b8ffe5315bd2e1290bfd7662c1849479bf1844a1",
@@ -70,8 +91,8 @@
       }
     ],
     "commit": {
-      "hash": "66c566d69aa795e65db0d76ee0ca4b8b002b4fa3",
-      "time": 1790959285
+      "hash": "7c5528c472a26c8e7f218f75f1420bb59521558b",
+      "time": 1791839435
     }
   }
 }

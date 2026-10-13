@@ -26,19 +26,19 @@
           }
         },
         {
-          "name": "kapsis",
-          "str": ">= 0.3.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.3.4"
-          }
-        },
-        {
           "name": "vancode",
           "str": ">= 0.2.6",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.2.6"
+          }
+        },
+        {
+          "name": "datpkgr",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         },
         {
@@ -59,18 +59,18 @@
         },
         {
           "name": "mimedb",
-          "str": ">= 0.1.0",
+          "str": ">= 0.1.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.1.1"
           }
         },
         {
           "name": "supranim",
-          "str": ">= 0.1.9",
+          "str": ">= 0.1.11",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.1.11"
           }
         },
         {
@@ -83,10 +83,10 @@
         },
         {
           "name": "nimcypher",
-          "str": ">= 0.2.0",
+          "str": ">= 0.2.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.2.5"
           }
         },
         {
@@ -99,10 +99,10 @@
         },
         {
           "name": "powpow",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.2"
           }
         },
         {
@@ -145,8 +145,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "7b2b74aaf7f348aa9df3517f651e3954aa1f957c",
-      "time": 1791035143
+      "hash": "9cde1f60d6f697181cdf20853f12a1422dcab564",
+      "time": 1791841645
     }
   }
 }

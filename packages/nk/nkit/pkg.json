@@ -33,10 +33,10 @@
         },
         {
           "name": "kapsis",
-          "str": ">= 0.4.7",
+          "str": ">= 0.5.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.7"
+            "ver": "0.5.0"
           }
         },
         {
@@ -55,8 +55,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "3fba20f1e5face9c474ff94c535ec84b10ee61de",
-      "time": 1789292038
+      "hash": "e663ab3ed35f51f1c9faf387d1f542153ab0e6bc",
+      "time": 1791829555
     }
   }
 }

@@ -1,0 +1,108 @@
+{
+  "name": "matter",
+  "url": "https://github.com/elcritch/matter",
+  "method": "git",
+  "description": "TextMate grammar engine",
+  "license": "MIT",
+  "web": "https://github.com/elcritch/matter",
+  "tags": [
+    "textmate",
+    "syntax-highlighting",
+    "tokenizer",
+    "grammar"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/reni",
+          "str": "#feat/textmate-compat",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/guzba/zippy",
+          "str": "#cd562ba",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.6.0",
+        "hash": "3a595aff2c4d84d42dad4adf107ceac7fc718191",
+        "time": 1791676663
+      },
+      {
+        "tag": "v0.5.2",
+        "hash": "3c98cb245dc4d13d91c1d22b4918ad04b2e328f6",
+        "time": 1791668955
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "9ca8f0747a73dd9aee67acd8733aad0d6703b44a",
+        "time": 1789380314
+      },
+      {
+        "tag": "v0.4.4",
+        "hash": "74708ec5b669517c77c9f6dd147ba588cf47230b",
+        "time": 1789046716
+      },
+      {
+        "tag": "v0.4.3",
+        "hash": "b3e83d9ede9e42e6a46c6299883772f14d3f1ea8",
+        "time": 1788956776
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "857f2f39669581614aad3b889078f694119f5dbb",
+        "time": 1788953604
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "0052f597bcc56381c58842f24d0e93c8f1fb6706",
+        "time": 1788772402
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "cef398444259680646b209730ecaa099c6202b50",
+        "time": 1788771942
+      },
+      {
+        "tag": "v0.3.1",
+        "hash": "8269e2e103b3124233ee00a3fbbb11d2b18b8a68",
+        "time": 1788767944
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "8db6f03d1028c42693c3a586ba3625e1b48e9589",
+        "time": 1788560945
+      },
+      {
+        "tag": "v0.2.2",
+        "hash": "4105cb9b9e0fb076bd58b9c832b563d456a4f5e3",
+        "time": 1788294953
+      }
+    ],
+    "commit": {
+      "hash": "3a595aff2c4d84d42dad4adf107ceac7fc718191",
+      "time": 1791676663
+    }
+  }
+}

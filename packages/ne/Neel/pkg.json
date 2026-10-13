@@ -18,22 +18,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.1.0",
+      "version": "2.0.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.8",
+          "str": ">= 2.2.12",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.8"
-          }
-        },
-        {
-          "name": "mummy",
-          "str": ">= 0.3.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.3.4"
+            "ver": "2.2.12"
           }
         }
       ],
@@ -41,6 +33,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "2.0.0",
+        "hash": "7aacf574e08a644ab71f99a2df49005209ba00fd",
+        "time": 1791854470
+      },
       {
         "tag": "v1.1.0",
         "hash": "0e484079a12be38a9ef60d42872b0ceeed3da25e",
@@ -123,8 +120,8 @@
       }
     ],
     "commit": {
-      "hash": "0e484079a12be38a9ef60d42872b0ceeed3da25e",
-      "time": 1698875482
+      "hash": "7aacf574e08a644ab71f99a2df49005209ba00fd",
+      "time": 1791854470
     }
   }
 }

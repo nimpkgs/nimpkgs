@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.12",
+      "version": "0.2.13",
       "requires": [
         {
           "name": "nim",
@@ -31,26 +31,26 @@
         },
         {
           "name": "voodoo",
-          "str": ">= 0.1.9",
+          "str": ">= 0.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.2.2"
           }
         },
         {
           "name": "openparser",
-          "str": ">= 0.3.0",
+          "str": ">= 0.3.8",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.0"
+            "ver": "0.3.8"
           }
         },
         {
           "name": "flysystem",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.0"
           }
         },
         {
@@ -83,6 +83,11 @@
     },
     "versions": [
       {
+        "tag": "0.1.13",
+        "hash": "508212026f988670396886a8b499887d0a06d4d1",
+        "time": 1791834229
+      },
+      {
         "tag": "0.2.12",
         "hash": "4ef84bb524c5daf17a8a080a42a61e1f1908d216",
         "time": 1790511500
@@ -99,8 +104,8 @@
       }
     ],
     "commit": {
-      "hash": "56ceba3058d757685f654bc13a019f072976c4ee",
-      "time": 1791060823
+      "hash": "508212026f988670396886a8b499887d0a06d4d1",
+      "time": 1791834229
     }
   }
 }
