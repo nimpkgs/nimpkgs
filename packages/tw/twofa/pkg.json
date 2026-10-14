@@ -32,14 +32,29 @@
             "kind": "verAny",
             "ver": ""
           }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "5ef59ded5989863ad85cfb2daea50d4d76222854",
+        "time": 1791916221
+      }
+    ],
     "commit": {
-      "hash": "3d50fd41b00c0dde3fca0f32326ba4ce2adba9f6",
-      "time": 1789062378
+      "hash": "5ef59ded5989863ad85cfb2daea50d4d76222854",
+      "time": 1791916221
     }
   }
 }

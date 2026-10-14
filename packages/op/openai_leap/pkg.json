@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "13.1.0",
+      "version": "16.0.0",
       "requires": [
         {
           "name": "nim",
@@ -28,6 +28,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "1.1.1"
+          }
+        },
+        {
+          "name": "crunchy",
+          "str": ">= 0.1.11",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.11"
           }
         },
         {
@@ -59,6 +67,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v16.0.0",
+        "hash": "3436b4aa973a1d8650ab8c2bc5091264394796c6",
+        "time": 1791927177
+      },
       {
         "tag": "v13.1.0",
         "hash": "778d22f277400dc2dccad4f6e1c409459f9e040c",
@@ -216,8 +229,8 @@
       }
     ],
     "commit": {
-      "hash": "66dc7d7765204f276a509b644a4e8849c47206f8",
-      "time": 1782099124
+      "hash": "3436b4aa973a1d8650ab8c2bc5091264394796c6",
+      "time": 1791927177
     }
   }
 }

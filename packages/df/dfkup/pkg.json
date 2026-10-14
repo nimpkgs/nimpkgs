@@ -27,10 +27,10 @@
         },
         {
           "name": "vancode",
-          "str": ">= 0.2.6",
+          "str": ">= 0.2.14",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.6"
+            "ver": "0.2.14"
           }
         },
         {
@@ -43,18 +43,18 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.1.9",
+          "str": ">= 0.3.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.3.10"
           }
         },
         {
           "name": "marvdown",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.4"
           }
         },
         {
@@ -75,10 +75,10 @@
         },
         {
           "name": "blackpaper",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.0"
           }
         },
         {
@@ -131,10 +131,18 @@
         },
         {
           "name": "voodoo",
-          "str": ">= 0.1.9",
+          "str": ">= 0.2.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.9"
+            "ver": "0.2.3"
+          }
+        },
+        {
+          "name": "flysystem",
+          "str": "0.2.0",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.2.0"
           }
         }
       ],
@@ -145,8 +153,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "9cde1f60d6f697181cdf20853f12a1422dcab564",
-      "time": 1791841645
+      "hash": "619ff63cdaf8f541efe07cd128741dc29278f54a",
+      "time": 1791917861
     }
   }
 }
