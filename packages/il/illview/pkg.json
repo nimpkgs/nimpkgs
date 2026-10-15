@@ -1,0 +1,61 @@
+{
+  "name": "illview",
+  "url": "https://github.com/NagyZoltanPeter/nim-illview",
+  "method": "git",
+  "description": "Retained-mode, Turbo Vision-inspired TUI widget framework on chronos, with a declarative DSL and typed nim-brokers events",
+  "license": "MIT",
+  "web": "https://github.com/NagyZoltanPeter/nim-illview",
+  "tags": [
+    "tui",
+    "terminal",
+    "widgets",
+    "turbovision",
+    "chronos",
+    "async",
+    "ui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.0 & < 5.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "brokers",
+          "str": ">= 3.4.0 & < 4.0.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "f11dda5c1b240230e2ffc8bc90319169960e8e65",
+        "time": 1791990922
+      }
+    ],
+    "commit": {
+      "hash": "f11dda5c1b240230e2ffc8bc90319169960e8e65",
+      "time": 1791990922
+    }
+  }
+}

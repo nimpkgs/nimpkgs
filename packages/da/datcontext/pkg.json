@@ -1,0 +1,73 @@
+{
+  "name": "datcontext",
+  "url": "https://github.com/openpeeps/datcontext",
+  "method": "git",
+  "description": "MCP Client/Server based on PowPow. Supporting streamable HTTP, TCP, and Unix Domain",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/datcontext",
+  "tags": [
+    "mcp",
+    "powpow",
+    "unix",
+    "socket",
+    "stream",
+    "agent",
+    "agentic",
+    "ai",
+    "http",
+    "server",
+    "tcp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.3.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.9"
+          }
+        },
+        {
+          "name": "flysystem",
+          "str": ">= 0.2.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "17db24b44bbe97db30ba336264a35f47836ca1e1",
+        "time": 1791968913
+      }
+    ],
+    "commit": {
+      "hash": "17db24b44bbe97db30ba336264a35f47836ca1e1",
+      "time": 1791968913
+    }
+  }
+}
