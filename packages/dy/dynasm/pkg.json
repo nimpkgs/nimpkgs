@@ -1,0 +1,40 @@
+{
+  "name": "dynasm",
+  "url": "https://github.com/nimbase/dynasm-nim",
+  "method": "git",
+  "description": "A dynamic assembler written in Nim for Nim",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/dynasm-nim",
+  "tags": [
+    "asm",
+    "jit",
+    "dynasm",
+    "lua",
+    "x64",
+    "x86",
+    "aarch64",
+    "arm64",
+    "dsl"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "71e74997d7b497164343eb6ab487eca7b99c7ca1",
+      "time": 1792182733
+    }
+  }
+}

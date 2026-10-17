@@ -42,6 +42,14 @@
           }
         },
         {
+          "name": "dynasm",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
           "name": "openparser",
           "str": ">= 0.3.10",
           "ver": {
@@ -59,10 +67,10 @@
         },
         {
           "name": "mimedb",
-          "str": ">= 0.1.1",
+          "str": ">= 0.1.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.1"
+            "ver": "0.1.4"
           }
         },
         {
@@ -153,8 +161,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "619ff63cdaf8f541efe07cd128741dc29278f54a",
-      "time": 1791917861
+      "hash": "6d8225a6dbf21e126bd1ccaa9617b9196625b173",
+      "time": 1792192478
     }
   }
 }

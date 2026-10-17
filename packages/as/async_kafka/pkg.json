@@ -1,0 +1,98 @@
+{
+  "name": "async_kafka",
+  "url": "https://github.com/fox0430/async-kafka",
+  "method": "git",
+  "description": "Async Kafka client",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/async-kafka",
+  "tags": [
+    "async",
+    "chronos",
+    "kafka"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.8",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.8"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.2.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.2.2"
+          }
+        },
+        {
+          "name": "results",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        },
+        {
+          "name": "stew",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "zlib",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "supersnappy",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
+          }
+        },
+        {
+          "name": "bearssl",
+          "str": ">= 0.2.13",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.13"
+          }
+        },
+        {
+          "name": "https://github.com/fox0430/nim_zstd",
+          "str": "0.2.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.2.1"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "commit": {
+      "hash": "d6be0c3edf5eb0ff753a15aa2578255e8651bca0",
+      "time": 1792179096
+    }
+  }
+}
