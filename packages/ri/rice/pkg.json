@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.6",
+      "version": "0.1.8",
       "requires": [
         {
           "name": "nim",
@@ -49,14 +49,6 @@
           }
         },
         {
-          "name": "https://github.com/levovix0/shady",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
           "name": "https://github.com/levovix0/pixie_reorganized",
           "str": "any version",
           "ver": {
@@ -69,6 +61,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.8",
+        "hash": "066b8e8039f9a9fcd0612ccdeb87cdb30c7dd9ea",
+        "time": 1792275906
+      },
+      {
+        "tag": "0.1.7",
+        "hash": "30467c51a3233fbcac56d2c9a39ce4cba8c72e90",
+        "time": 1792270091
+      },
       {
         "tag": "0.1.6",
         "hash": "1fe32c50ed90ba11a99f3320e2a7299fdb3fc870",
@@ -96,8 +98,8 @@
       }
     ],
     "commit": {
-      "hash": "1fe32c50ed90ba11a99f3320e2a7299fdb3fc870",
-      "time": 1789177222
+      "hash": "066b8e8039f9a9fcd0612ccdeb87cdb30c7dd9ea",
+      "time": 1792275906
     }
   }
 }

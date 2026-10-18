@@ -13,14 +13,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.0",
+      "version": "0.3.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.2.0",
+          "str": ">= 2.2.12",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.2.0"
+            "ver": "2.2.12"
           }
         },
         {
@@ -49,10 +49,10 @@
         },
         {
           "name": "rice",
-          "str": ">= 0.1.6",
+          "str": "0.1.8",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.6"
+            "kind": "verEq",
+            "ver": "0.1.8"
           }
         }
       ],
@@ -60,6 +60,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.1",
+        "hash": "5ade9f740eeef4dba09c481367ce1886b854cd6f",
+        "time": 1792277409
+      },
       {
         "tag": "0.3.0",
         "hash": "7d306649e71e6d0cf5529b2580bf93659e54fd76",
@@ -117,8 +122,8 @@
       }
     ],
     "commit": {
-      "hash": "73c3d3183a80f986a8b16e495d028d3a4d72f3f0",
-      "time": 1791923690
+      "hash": "5ade9f740eeef4dba09c481367ce1886b854cd6f",
+      "time": 1792277409
     }
   }
 }

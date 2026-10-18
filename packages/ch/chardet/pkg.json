@@ -1,0 +1,46 @@
+{
+  "name": "chardet",
+  "url": "https://github.com/nimamasl114514/nim-chardet",
+  "method": "git",
+  "description": "Character encoding detection library - a complete Nim rewrite of chardet 7.6.0",
+  "license": "0BSD",
+  "web": "https://github.com/nimamasl114514/nim-chardet",
+  "tags": [
+    "chardet",
+    "encoding",
+    "charset",
+    "unicode",
+    "detection"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "chardetect"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "2baa064dfaf8e8e60fcb11c430aaa43aa9cf256d",
+        "time": 1792241649
+      }
+    ],
+    "commit": {
+      "hash": "2baa064dfaf8e8e60fcb11c430aaa43aa9cf256d",
+      "time": 1792241649
+    }
+  }
+}

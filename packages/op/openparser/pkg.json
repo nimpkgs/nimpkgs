@@ -2,7 +2,7 @@
   "name": "openparser",
   "url": "https://github.com/openpeeps/openparser",
   "method": "git",
-  "description": "Tiny parsers and serializers for JSON, CSV, RSS, Atom feeds and more",
+  "description": "Tiny parsers and serializers for JSON, YAML, TOML, BSON, CSV, RSS/Atom feeds and more",
   "license": "MIT",
   "web": "https://github.com/openpeeps/openparser",
   "tags": [
@@ -12,10 +12,26 @@
     "rss",
     "xml",
     "csv",
-    "zero-copy",
     "memfiles",
-    "datasets",
-    "data"
+    "yaml",
+    "toml",
+    "bson",
+    "html",
+    "fbe",
+    "gettext",
+    "po",
+    "i18n",
+    "ical",
+    "dotenv",
+    "nif",
+    "sql",
+    "qr",
+    "svg",
+    "colors",
+    "plist",
+    "fuzzy",
+    "regex",
+    "simd"
   ],
   "meta": {
     "nimble": {
@@ -52,8 +68,8 @@
     "versions": [
       {
         "tag": "0.3.10",
-        "hash": "88eb016a391887cd080bcefdca5ae6d2b4601a92",
-        "time": 1791914935
+        "hash": "3f96d34c066ae5c4f1e6bce9cac9a11e9254d39d",
+        "time": 1792245256
       },
       {
         "tag": "0.3.9",
@@ -112,8 +128,8 @@
       }
     ],
     "commit": {
-      "hash": "88eb016a391887cd080bcefdca5ae6d2b4601a92",
-      "time": 1791914935
+      "hash": "3f96d34c066ae5c4f1e6bce9cac9a11e9254d39d",
+      "time": 1792245256
     }
   }
 }
