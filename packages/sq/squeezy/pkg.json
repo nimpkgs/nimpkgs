@@ -43,12 +43,15 @@
           }
         }
       ],
-      "bin": [],
+      "bin": [
+        "squeezy"
+      ],
       "srcDir": "src"
     },
+    "hasBin": true,
     "commit": {
-      "hash": "3cc667906d19982a3519d1477b02999e8909c197",
-      "time": 1790692955
+      "hash": "ae4d7a7c91298ee922ff709ce27053e4a6c0ccbe",
+      "time": 1792326012
     }
   }
 }

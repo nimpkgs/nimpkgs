@@ -25,10 +25,10 @@
         },
         {
           "name": "serialization",
-          "str": ">= 0.5.0",
+          "str": ">= 0.5.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.5.5"
           }
         },
         {
@@ -41,10 +41,10 @@
         },
         {
           "name": "stew",
-          "str": ">= 0.6.0",
+          "str": ">= 0.6.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.0"
+            "ver": "0.6.4"
           }
         },
         {
@@ -108,8 +108,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "253a6e7e4516afafd4d8a5979fb8edd0bf5dc837",
-      "time": 1791276939
+      "hash": "e4defd90a3d93c53398af1ccce509d4c2a6ea436",
+      "time": 1792362258
     }
   }
 }

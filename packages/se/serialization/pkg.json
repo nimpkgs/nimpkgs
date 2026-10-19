@@ -11,38 +11,38 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.5.4",
+      "version": "0.5.5",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.10",
+          "str": ">= 2.0.16",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.10"
+            "ver": "2.0.16"
           }
         },
         {
           "name": "faststreams",
-          "str": ">= 0.5.0",
+          "str": ">= 0.6.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.6.0"
           }
         },
         {
           "name": "stew",
-          "str": ">= 0.5.0",
+          "str": ">= 0.6.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.6.4"
           }
         },
         {
           "name": "unittest2",
-          "str": ">= 0.2.0",
+          "str": ">= 0.3.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.3.0"
           }
         }
       ],
@@ -50,6 +50,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.5.5",
+        "hash": "937a65c19fc49a5f79e2ecd89094d367b6ca0e1b",
+        "time": 1792358686
+      },
       {
         "tag": "v0.5.4",
         "hash": "b5473564e80a4908cf6c5a038e4c4a6ca7de2223",
@@ -127,8 +132,8 @@
       }
     ],
     "commit": {
-      "hash": "d06cb5e9712ca38201a359abf82af1813c8a1c90",
-      "time": 1792149928
+      "hash": "937a65c19fc49a5f79e2ecd89094d367b6ca0e1b",
+      "time": 1792358686
     }
   }
 }
