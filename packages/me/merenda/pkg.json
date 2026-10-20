@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.27.6",
+      "version": "0.28.0",
       "requires": [
         {
           "name": "nim",
@@ -60,8 +60,8 @@
           }
         },
         {
-          "name": "https://github.com/levovix0/siwin",
-          "str": "#78bb49c7fd7e5e14590f567e1ccbb07eb5ab6739",
+          "name": "https://github.com/elcritch/siwin",
+          "str": "#50a96efcd5a3feb5fcfdf07a46baa7da50360c0b",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -69,14 +69,14 @@
         },
         {
           "name": "https://github.com/elcritch/figdraw",
-          "str": ">= 0.44.0",
+          "str": ">= 0.45.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.44.0"
+            "ver": "0.45.0"
           }
         },
         {
-          "name": "harfbuzz]",
+          "name": "harfbuzz",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -84,11 +84,27 @@
           }
         },
         {
-          "name": "sigils",
-          "str": ">= 0.31.0",
+          "name": "textBackendHarfbuzzy]",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/harfbuzzy",
+          "str": ">= 0.3.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.31.0"
+            "ver": "0.3.0"
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/sigils",
+          "str": ">= 0.32.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.32.0"
           }
         },
         {
@@ -224,6 +240,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.28.0",
+        "hash": "11a0c97aedcc9c246af78fe3b49f07e1d40a5ea2",
+        "time": 1792448769
+      },
       {
         "tag": "v0.27.6",
         "hash": "389ce0a6cb8275873a9bb39c8e4be41c4ad2f306",
@@ -626,8 +647,8 @@
       }
     ],
     "commit": {
-      "hash": "389ce0a6cb8275873a9bb39c8e4be41c4ad2f306",
-      "time": 1792365293
+      "hash": "251ae4f78181547903b4d879d7a2e7ca6b78a805",
+      "time": 1792456575
     }
   }
 }

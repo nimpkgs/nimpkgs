@@ -1,0 +1,53 @@
+{
+  "name": "lutra_espat",
+  "url": "https://github.com/Lutra-Nim/Lutra-ESPAT",
+  "method": "git",
+  "description": "Wi-Fi through an ESP32 running Espressif's AT firmware, for Lutra",
+  "license": "MIT",
+  "web": "https://github.com/Lutra-Nim/Lutra-ESPAT",
+  "tags": [
+    "embedded",
+    "microcontroller",
+    "wifi",
+    "esp32",
+    "at-commands",
+    "networking",
+    "lutra"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "lutra",
+          "str": "^= 0.1",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "d794c184d28a708155b848d8a6efd1915ed04021",
+        "time": 1792333776
+      }
+    ],
+    "commit": {
+      "hash": "d794c184d28a708155b848d8a6efd1915ed04021",
+      "time": 1792333776
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "lutra",
+  "url": "https://github.com/Lutra-Nim/Lutra",
+  "method": "git",
+  "description": "A Nim-only bare-metal stack for microcontrollers",
+  "license": "MIT",
+  "web": "https://github.com/Lutra-Nim/Lutra",
+  "tags": [
+    "embedded",
+    "microcontroller",
+    "mcu",
+    "hal",
+    "bare-metal",
+    "risc-v",
+    "arm",
+    "esp32",
+    "stm32",
+    "lutra"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "2b8faf553e99806b604b757131baadb310ad5a14",
+        "time": 1792289629
+      }
+    ],
+    "commit": {
+      "hash": "2b8faf553e99806b604b757131baadb310ad5a14",
+      "time": 1792289629
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "openvino",
+  "url": "https://github.com/AbyssGG/OpenVINO-Nim-API",
+  "method": "git",
+  "description": "Community-maintained Nim bindings for the OpenVINO Runtime C API. Not an official Intel or OpenVINO project.",
+  "license": "Apache-2.0",
+  "web": "https://github.com/AbyssGG/OpenVINO-Nim-API",
+  "tags": [
+    "openvino",
+    "inference",
+    "machine-learning",
+    "deep-learning",
+    "ai",
+    "bindings",
+    "wrapper"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "49484a9f773344369f3da801cdd948b60841c28f",
+        "time": 1792290932
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "0ca7e56be08b191e52b895de52011243ba782423",
+        "time": 1792276290
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "ef8da5d689f58d664a9de3a180779648a67553ad",
+        "time": 1790480116
+      }
+    ],
+    "commit": {
+      "hash": "49484a9f773344369f3da801cdd948b60841c28f",
+      "time": 1792290932
+    }
+  }
+}

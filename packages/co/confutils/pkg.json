@@ -11,22 +11,22 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.18",
+          "str": ">= 2.0.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.18"
+            "ver": "2.0.10"
           }
         },
         {
           "name": "stew",
-          "str": ">= 0.5.0",
+          "str": ">= 0.6.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.0"
+            "ver": "0.6.4"
           }
         },
         {
@@ -51,6 +51,11 @@
     },
     "versions": [
       {
+        "tag": "v0.1.2",
+        "hash": "ca2b17188659bb9e53419a2cdf192c0f26f9edc8",
+        "time": 1792418764
+      },
+      {
         "tag": "v0.1.1",
         "hash": "cdbac612f0f3d2883e959807d790658854e73cf2",
         "time": 1787572308
@@ -62,8 +67,8 @@
       }
     ],
     "commit": {
-      "hash": "77d80f3f0c335f0524aa19fe86465fa1f8bc0492",
-      "time": 1792261140
+      "hash": "70ef377ce400f0b8fd6553158606e8829edb4691",
+      "time": 1792432919
     }
   }
 }

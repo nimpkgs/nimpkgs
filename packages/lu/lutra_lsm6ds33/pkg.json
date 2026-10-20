@@ -1,0 +1,54 @@
+{
+  "name": "lutra_lsm6ds33",
+  "url": "https://github.com/Lutra-Nim/Lutra-LSM6DS33",
+  "method": "git",
+  "description": "The LSM6DS33 accelerometer and gyroscope, for Lutra",
+  "license": "MIT",
+  "web": "https://github.com/Lutra-Nim/Lutra-LSM6DS33",
+  "tags": [
+    "embedded",
+    "microcontroller",
+    "sensor",
+    "accelerometer",
+    "gyroscope",
+    "imu",
+    "i2c",
+    "lutra"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "lutra",
+          "str": "^= 0.1",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "2766e431455d1f36c8a4217ddcd275a233cd6c6d",
+        "time": 1792336186
+      }
+    ],
+    "commit": {
+      "hash": "2766e431455d1f36c8a4217ddcd275a233cd6c6d",
+      "time": 1792336186
+    }
+  }
+}

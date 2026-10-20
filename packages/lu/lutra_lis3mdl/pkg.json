@@ -1,0 +1,52 @@
+{
+  "name": "lutra_lis3mdl",
+  "url": "https://github.com/Lutra-Nim/Lutra-LIS3MDL",
+  "method": "git",
+  "description": "The LIS3MDL magnetometer, for Lutra",
+  "license": "MIT",
+  "web": "https://github.com/Lutra-Nim/Lutra-LIS3MDL",
+  "tags": [
+    "embedded",
+    "microcontroller",
+    "sensor",
+    "magnetometer",
+    "i2c",
+    "lutra"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.6"
+          }
+        },
+        {
+          "name": "lutra",
+          "str": "^= 0.1",
+          "ver": {
+            "kind": "verCaret",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "597f5e0a20de7b5413f284a9a7565eeb90ccd06d",
+        "time": 1792336158
+      }
+    ],
+    "commit": {
+      "hash": "597f5e0a20de7b5413f284a9a7565eeb90ccd06d",
+      "time": 1792336158
+    }
+  }
+}
