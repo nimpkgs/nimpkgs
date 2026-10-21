@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.6",
+      "version": "0.2.0",
       "requires": [
         {
           "name": "nim",
@@ -53,6 +53,14 @@
             "kind": "verEqLater",
             "ver": "0.1.9"
           }
+        },
+        {
+          "name": "pluginkit",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
         }
       ],
       "bin": [],
@@ -60,14 +68,19 @@
     },
     "versions": [
       {
+        "tag": "0.2.0",
+        "hash": "7a3ceed4b3f6d372e083ec267ee7add69b2b45ce",
+        "time": 1792527679
+      },
+      {
         "tag": "0.1.6",
         "hash": "8c1da4e86ac717a984e993967f6a1ccd04518252",
         "time": 1786369296
       }
     ],
     "commit": {
-      "hash": "f7ff2902061229af1e04bb65df6d8f360703237b",
-      "time": 1791192824
+      "hash": "7a3ceed4b3f6d372e083ec267ee7add69b2b45ce",
+      "time": 1792527679
     }
   }
 }

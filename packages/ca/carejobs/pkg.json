@@ -1,0 +1,43 @@
+{
+  "name": "carejobs",
+  "url": "https://github.com/yumaheymans/carejobs-nim",
+  "method": "git",
+  "description": "Client for the free CareJobs.Now healthcare jobs API: search US healthcare jobs, posted pay, employers and states",
+  "license": "MIT",
+  "web": "https://github.com/yumaheymans/carejobs-nim",
+  "tags": [
+    "carejobs",
+    "healthcare",
+    "jobs",
+    "api-client",
+    "mcp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "9a83558bb673899178bd91fb275714e7cfcc3826",
+        "time": 1792494417
+      }
+    ],
+    "commit": {
+      "hash": "9a83558bb673899178bd91fb275714e7cfcc3826",
+      "time": 1792494417
+    }
+  }
+}

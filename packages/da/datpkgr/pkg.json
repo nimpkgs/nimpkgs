@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.9",
+      "version": "0.1.10",
       "requires": [
         {
           "name": "nim",
@@ -59,10 +59,10 @@
         },
         {
           "name": "flysystem",
-          "str": ">= 0.1.1",
+          "str": ">= 0.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.1"
+            "ver": "0.2.2"
           }
         }
       ],
@@ -70,6 +70,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.10",
+        "hash": "b8c87184901267de6051530d33d38b506410b11e",
+        "time": 1792505831
+      },
       {
         "tag": "0.1.9",
         "hash": "623a88eee61de9cc94ed2d3feb38695a8b7062fc",
@@ -112,8 +117,8 @@
       }
     ],
     "commit": {
-      "hash": "623a88eee61de9cc94ed2d3feb38695a8b7062fc",
-      "time": 1791283596
+      "hash": "b8c87184901267de6051530d33d38b506410b11e",
+      "time": 1792505831
     }
   }
 }

@@ -13,14 +13,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.18",
+      "version": "0.2.20",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 2.0.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
+            "ver": "2.0.2"
           }
         },
         {
@@ -33,10 +33,10 @@
         },
         {
           "name": "serialization",
-          "str": "any version",
+          "str": ">= 0.5.3",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.5.3"
           }
         },
         {
@@ -52,6 +52,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.2.20",
+        "hash": "9dbd2ccc5a3ac28b6ce332bdbd9a118b38991c2e",
+        "time": 1792497578
+      },
       {
         "tag": "v0.2.18",
         "hash": "b5b387e6fb2a7cc75d54a269b07cc6218361bd46",
@@ -69,8 +74,8 @@
       }
     ],
     "commit": {
-      "hash": "4aa8e2223649fc0837c490a4acfca7b8b1e756f9",
-      "time": 1789162719
+      "hash": "9dbd2ccc5a3ac28b6ce332bdbd9a118b38991c2e",
+      "time": 1792497578
     }
   }
 }
