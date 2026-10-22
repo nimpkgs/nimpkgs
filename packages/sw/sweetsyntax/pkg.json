@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "requires": [
         {
           "name": "nim",
@@ -27,17 +27,25 @@
         },
         {
           "name": "openparser",
-          "str": "any version",
+          "str": ">= 0.3.4",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.4"
           }
         }
       ],
-      "bin": [],
+      "bin": [
+        "sweetsyntax"
+      ],
       "srcDir": "src"
     },
+    "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.1",
+        "hash": "1447ffa4b130661c4be08524c4791599ebfcff00",
+        "time": 1792598361
+      },
       {
         "tag": "0.2.0",
         "hash": "6270d82f5b029f29470ab283acde5968e814bb38",
@@ -50,8 +58,8 @@
       }
     ],
     "commit": {
-      "hash": "65253d034f0b648764242136267dba3faccfba6e",
-      "time": 1791311901
+      "hash": "1447ffa4b130661c4be08524c4791599ebfcff00",
+      "time": 1792598361
     }
   }
 }

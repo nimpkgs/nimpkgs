@@ -58,86 +58,6 @@
           }
         },
         {
-          "name": "marvdown",
-          "str": ">= 0.2.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.4"
-          }
-        },
-        {
-          "name": "mimedb",
-          "str": ">= 0.1.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.4"
-          }
-        },
-        {
-          "name": "supranim",
-          "str": ">= 0.1.11",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.11"
-          }
-        },
-        {
-          "name": "blackpaper",
-          "str": ">= 0.2.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.0"
-          }
-        },
-        {
-          "name": "nimcypher",
-          "str": ">= 0.2.5",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.5"
-          }
-        },
-        {
-          "name": "twofa",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "powpow",
-          "str": ">= 0.2.2",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.2.2"
-          }
-        },
-        {
-          "name": "money",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "chopchop",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
-          "name": "chachachat",
-          "str": ">= 0.1.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
-          }
-        },
-        {
           "name": "voodoo",
           "str": ">= 0.2.3",
           "ver": {
@@ -147,10 +67,10 @@
         },
         {
           "name": "flysystem",
-          "str": "0.2.0",
+          "str": ">= 0.2.2",
           "ver": {
-            "kind": "verEq",
-            "ver": "0.2.0"
+            "kind": "verEqLater",
+            "ver": "0.2.2"
           }
         }
       ],
@@ -161,8 +81,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "6d8225a6dbf21e126bd1ccaa9617b9196625b173",
-      "time": 1792192478
+      "hash": "1817888fd9b8e71079c907821dfa6b28a80d3f78",
+      "time": 1792613063
     }
   }
 }

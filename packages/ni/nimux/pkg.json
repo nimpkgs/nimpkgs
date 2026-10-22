@@ -22,7 +22,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.0.6",
+      "version": "1.0.7",
       "requires": [
         {
           "name": "nim",
@@ -30,6 +30,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "1.6.10"
+          }
+        },
+        {
+          "name": "zippy",
+          "str": "0.10.20",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.10.20"
           }
         }
       ],
@@ -40,6 +48,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v1.0.7",
+        "hash": "392f46a7d8b5ef0ecd70e51d669f59157f232f22",
+        "time": 1792626051
+      },
       {
         "tag": "v1.0.6",
         "hash": "12a7862a98d1c8395a230cf2e9cad7cd9ed940c2",
@@ -77,8 +90,8 @@
       }
     ],
     "commit": {
-      "hash": "d034fae2a1285a828f561d7baad520ada19df197",
-      "time": 1791142768
+      "hash": "392f46a7d8b5ef0ecd70e51d669f59157f232f22",
+      "time": 1792626051
     }
   }
 }
