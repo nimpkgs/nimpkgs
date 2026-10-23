@@ -28,18 +28,18 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.1.5",
+          "str": ">= 0.4.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.5"
+            "ver": "0.4.1"
           }
         },
         {
           "name": "sweetsyntax",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.3"
           }
         }
       ],
@@ -50,8 +50,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "b22d1ade280f096193cd99d2f8954f5fe8199523",
-      "time": 1792596690
+      "hash": "2b30e14af19c5ed39f6e3629c61e0c0cf65bf53a",
+      "time": 1792677148
     }
   }
 }

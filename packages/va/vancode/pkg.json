@@ -19,14 +19,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.15",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.0.0",
+          "str": ">= 2.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.0.0"
+            "ver": "2.2.0"
           }
         },
         {
@@ -76,12 +76,25 @@
             "kind": "verEqLater",
             "ver": "0.1.0"
           }
+        },
+        {
+          "name": "dynasm",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "80523c610df46cdfce62f0dcb70aba0f4aa68097",
+        "time": 1792668470
+      },
       {
         "tag": "0.2.15",
         "hash": "b3cf882c2a53ba9465a09e2bb570b3f66f6f6ab8",
@@ -109,8 +122,8 @@
       }
     ],
     "commit": {
-      "hash": "1ca2c36472cdaf8cbcffc92d15614941caafd35e",
-      "time": 1792272272
+      "hash": "80523c610df46cdfce62f0dcb70aba0f4aa68097",
+      "time": 1792668470
     }
   }
 }

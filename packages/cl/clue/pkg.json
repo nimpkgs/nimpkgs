@@ -23,7 +23,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.5",
+      "version": "0.3.6",
       "requires": [
         {
           "name": "nim",
@@ -83,10 +83,10 @@
         },
         {
           "name": "datpkgr",
-          "str": ">= 0.1.10",
+          "str": ">= 0.1.11",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.10"
+            "ver": "0.1.11"
           }
         },
         {
@@ -105,6 +105,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.3.6",
+        "hash": "1152c4f7408d880df53e62a2a9ca1fb67a38c033",
+        "time": 1792673509
+      },
       {
         "tag": "0.3.5",
         "hash": "2d8750800797c81a3690b82a71a0abd461914e9f",
@@ -232,8 +237,8 @@
       }
     ],
     "commit": {
-      "hash": "2d8750800797c81a3690b82a71a0abd461914e9f",
-      "time": 1792505844
+      "hash": "1152c4f7408d880df53e62a2a9ca1fb67a38c033",
+      "time": 1792673509
     }
   }
 }
