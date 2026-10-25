@@ -1,0 +1,57 @@
+{
+  "name": "harfbuzzy",
+  "url": "https://github.com/elcritch/harfbuzzy",
+  "method": "git",
+  "description": "Idiomatic HarfBuzz wrappers with automatic handle management, bidirectional text shaping, font fallback, and subsetting.",
+  "license": "MIT",
+  "web": "https://github.com/elcritch/harfbuzzy",
+  "tags": [
+    "harfbuzz",
+    "text",
+    "shaping",
+    "fonts",
+    "unicode",
+    "bindings"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "https://github.com/nimbase/harfbuzz-nim",
+          "str": "#ed8c3ae95675d9482fc3c764f62aac19f9a880a9",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.4.0",
+        "hash": "c53e12e7ea88b66a814bb676afdaa67890914245",
+        "time": 1792890067
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "d5c426c8de854455847070d6f4dbdef9deffc14a",
+        "time": 1792408826
+      }
+    ],
+    "commit": {
+      "hash": "c53e12e7ea88b66a814bb676afdaa67890914245",
+      "time": 1792890067
+    }
+  }
+}

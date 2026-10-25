@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.8.3",
+      "version": "0.8.5",
       "requires": [
         {
           "name": "nimsimd",
@@ -45,6 +45,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.8.5",
+        "hash": "046d88226fc059414c6f9fa2b171ca61a44d7e69",
+        "time": 1792864885
+      },
+      {
+        "tag": "v0.8.4",
+        "hash": "341f02c10fad711a9b423388e3dc070084d28f58",
+        "time": 1792857313
+      },
       {
         "tag": "v0.8.3",
         "hash": "7a6d7ab45498c2b2f23aa69033afaf7f116620ff",
@@ -162,8 +172,8 @@
       }
     ],
     "commit": {
-      "hash": "7a6d7ab45498c2b2f23aa69033afaf7f116620ff",
-      "time": 1785732541
+      "hash": "046d88226fc059414c6f9fa2b171ca61a44d7e69",
+      "time": 1792864885
     }
   }
 }

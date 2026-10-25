@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.6.0",
+      "version": "0.6.1",
       "requires": [
         {
           "name": "nim",
@@ -24,8 +24,8 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/reni",
-          "str": "#feat/textmate-compat",
+          "name": "https://github.com/fox0430/reni",
+          "str": "#a4c6f395a33754620e8522cae0e41f38e265a6de",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -44,6 +44,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.6.1",
+        "hash": "f720b90afdcf79d214084a54f6cb7c01d155089a",
+        "time": 1792862434
+      },
       {
         "tag": "v0.6.0",
         "hash": "3a595aff2c4d84d42dad4adf107ceac7fc718191",
@@ -101,8 +106,8 @@
       }
     ],
     "commit": {
-      "hash": "3a595aff2c4d84d42dad4adf107ceac7fc718191",
-      "time": 1791676663
+      "hash": "f720b90afdcf79d214084a54f6cb7c01d155089a",
+      "time": 1792862434
     }
   }
 }
