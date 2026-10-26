@@ -1,0 +1,41 @@
+{
+  "name": "gravel",
+  "url": "https://github.com/slime21023/gravel",
+  "method": "git",
+  "description": "A minimal, strict Go fmt-inspired output library for Nim",
+  "license": "MIT",
+  "web": "https://github.com/slime21023/gravel",
+  "tags": [
+    "library",
+    "formatting",
+    "logging"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "5d673c2f508989f6af1a2ad645c8e78509f21f99",
+        "time": 1792917156
+      }
+    ],
+    "commit": {
+      "hash": "5d673c2f508989f6af1a2ad645c8e78509f21f99",
+      "time": 1792917156
+    }
+  }
+}

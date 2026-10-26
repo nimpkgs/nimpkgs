@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.11",
+      "version": "0.1.13",
       "requires": [
         {
           "name": "nim",
@@ -53,26 +53,26 @@
         },
         {
           "name": "powpow",
-          "str": ">= 0.2.0",
+          "str": ">= 0.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.2.4"
           }
         },
         {
-          "name": "https://github.com/supranim/tasks",
-          "str": "any version",
+          "name": "supranim_tasks",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
           "name": "ozark",
-          "str": ">= 0.1.6",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.6"
+            "ver": "0.2.0"
           }
         },
         {
@@ -93,10 +93,10 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.2.0",
+          "str": ">= 0.4.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.4.2"
           }
         },
         {
@@ -109,10 +109,10 @@
         },
         {
           "name": "flysystem",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.3"
           }
         }
       ],
@@ -120,6 +120,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.1.13",
+        "hash": "77e44fe28473193e3258ed89ad9f36cbc520e90c",
+        "time": 1792972184
+      },
+      {
+        "tag": "0.1.12",
+        "hash": "acd819179761e96f62d8792d103203df81ab2b44",
+        "time": 1792927741
+      },
       {
         "tag": "0.1.11",
         "hash": "f451f113f57d0b899da94c3db0cc052d5573975e",
@@ -137,8 +147,8 @@
       }
     ],
     "commit": {
-      "hash": "fa825f6fba41323efa75a1bdf13f70b1b752337b",
-      "time": 1792584816
+      "hash": "77e44fe28473193e3258ed89ad9f36cbc520e90c",
+      "time": 1792972184
     }
   }
 }

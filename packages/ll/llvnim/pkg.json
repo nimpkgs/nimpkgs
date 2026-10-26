@@ -1,0 +1,82 @@
+{
+  "name": "llvnim",
+  "url": "https://github.com/xlebore3o4ka/llvnim23",
+  "method": "git",
+  "description": "Nim bindings for the LLVM-C API 23.1.1",
+  "license": "MIT",
+  "web": "https://github.com/xlebore3o4ka/llvnim23",
+  "tags": [
+    "llvm",
+    "bindings",
+    "jit",
+    "compiler"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.5.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.5.1",
+        "hash": "3f5af1c8236115b4eac09be917ebb3dfb67f7fb8",
+        "time": 1792952140
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "321b2ec6329dcf24a11e871a1a0489110c502be0",
+        "time": 1792950845
+      },
+      {
+        "tag": "v0.4.2",
+        "hash": "4b422f1f802b44bf17412506550ee654f8541164",
+        "time": 1792950162
+      },
+      {
+        "tag": "v0.4.1",
+        "hash": "afbbfba2f4b84d053913380e088b7b5f974aca42",
+        "time": 1792946697
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "7974d0c75a7c52d376e8614fa72e12b0243e39a5",
+        "time": 1792944462
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "fa8a394d0d14c16c09be2da16754b03e3f073261",
+        "time": 1792940125
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "07df647b299efedc0c0db50aeb28d3e16975673e",
+        "time": 1792915812
+      },
+      {
+        "tag": "v0.1.1",
+        "hash": "5781e84b824d709617491bc4915040ac2280ccd6",
+        "time": 1792863020
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "c6da1f8929d6a0834beddd1086df2a4747c3d8ed",
+        "time": 1792835916
+      }
+    ],
+    "commit": {
+      "hash": "3f5af1c8236115b4eac09be917ebb3dfb67f7fb8",
+      "time": 1792952140
+    }
+  }
+}

@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.28.0",
+      "version": "0.29.0",
       "requires": [
         {
           "name": "nim",
@@ -101,10 +101,10 @@
         },
         {
           "name": "https://github.com/elcritch/sigils",
-          "str": ">= 0.32.0",
+          "str": ">= 0.32.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.32.0"
+            "ver": "0.32.1"
           }
         },
         {
@@ -181,10 +181,10 @@
         },
         {
           "name": "https://github.com/elcritch/matter",
-          "str": ">= 0.6.0",
+          "str": ">= 0.6.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.0"
+            "ver": "0.6.1"
           }
         },
         {
@@ -240,6 +240,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.29.0",
+        "hash": "290ea85ebc4a696a9156e2dad84b84dada97e617",
+        "time": 1792944781
+      },
       {
         "tag": "v0.28.0",
         "hash": "11a0c97aedcc9c246af78fe3b49f07e1d40a5ea2",
@@ -647,8 +652,8 @@
       }
     ],
     "commit": {
-      "hash": "7c574776da05d61c50fe8011ff1e6d25bc25ec28",
-      "time": 1792880561
+      "hash": "290ea85ebc4a696a9156e2dad84b84dada97e617",
+      "time": 1792944781
     }
   }
 }
