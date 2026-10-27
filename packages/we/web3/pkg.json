@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.8.1",
+      "version": "0.8.2",
       "requires": [
         {
           "name": "nim",
@@ -48,10 +48,10 @@
         },
         {
           "name": "eth",
-          "str": ">= 0.9.0",
+          "str": ">= 0.9.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.9.0"
+            "ver": "0.9.5"
           }
         },
         {
@@ -64,18 +64,26 @@
         },
         {
           "name": "json_rpc",
-          "str": ">= 0.6.0",
+          "str": ">= 0.7.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.0"
+            "ver": "0.7.0"
+          }
+        },
+        {
+          "name": "serialization",
+          "str": ">= 0.4.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.4"
           }
         },
         {
           "name": "json_serialization",
-          "str": ">= 0.4.2",
+          "str": ">= 0.5.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.2"
+            "ver": "0.5.0"
           }
         },
         {
@@ -92,14 +100,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "0.5.0"
-          }
-        },
-        {
-          "name": "serialization",
-          "str": ">= 0.4.4",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.4"
           }
         },
         {
@@ -123,6 +123,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.8.2",
+        "hash": "96c51d70e1404462c3c96675ca1f429cfcec4973",
+        "time": 1792593043
+      },
       {
         "tag": "v0.8.1",
         "hash": "09dca1b9e4680f467ddce9f35fb7a3a092f99ded",
@@ -150,8 +155,8 @@
       }
     ],
     "commit": {
-      "hash": "96c51d70e1404462c3c96675ca1f429cfcec4973",
-      "time": 1792593043
+      "hash": "5f585fe1bde86f63dcc53ed04ad6da0f21b0c3c0",
+      "time": 1793037900
     }
   }
 }

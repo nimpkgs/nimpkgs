@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.5.0",
+      "version": "0.5.1",
       "requires": [
         {
           "name": "nim",
@@ -26,8 +26,8 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/harfbuzz-nim",
-          "str": "#fix/static-native-types",
+          "name": "https://github.com/nimbase/harfbuzz-nim",
+          "str": "#2781852907457030d71fb700084c1d10770a9593",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -38,6 +38,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.5.1",
+        "hash": "b434219157afba1d899e82cff6624972131c591b",
+        "time": 1793029729
+      },
       {
         "tag": "v0.5.0",
         "hash": "57cb7c4ddb8d425429309689336e853e38b269ea",
@@ -55,8 +60,8 @@
       }
     ],
     "commit": {
-      "hash": "57cb7c4ddb8d425429309689336e853e38b269ea",
-      "time": 1792967210
+      "hash": "b434219157afba1d899e82cff6624972131c591b",
+      "time": 1793029729
     }
   }
 }

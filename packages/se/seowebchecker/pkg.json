@@ -1,0 +1,91 @@
+{
+  "name": "seowebchecker",
+  "url": "https://github.com/jaiganesh6999/seowebchecker-seoaudit-sdk?subdir=nim",
+  "method": "git",
+  "description": "Technical SEO audit library and CLI for on-page performance, tags, and content health",
+  "license": "MIT",
+  "web": "https://seowebchecker.com/",
+  "tags": [
+    "seo",
+    "audit",
+    "analyzer",
+    "crawler",
+    "seowebchecker"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "seowebchecker"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "1.0.1",
+        "hash": "9586b53e12c525474e6bb613bb12c32eb571062b",
+        "time": 1792769561
+      },
+      {
+        "tag": "v1.0.7",
+        "hash": "1d25e96bdd0a9c33cd4899a23f275d814f9f0c5a",
+        "time": 1792755820
+      },
+      {
+        "tag": "v1.0.6",
+        "hash": "36082a8cfffeb4789e83c2d0ab4db837d7c32be9",
+        "time": 1792751183
+      },
+      {
+        "tag": "v1.0.5",
+        "hash": "c8878531845a82238b41a74a42488f7e792e4357",
+        "time": 1791196745
+      },
+      {
+        "tag": "v1.0.4",
+        "hash": "47452097e88d750c294804196d70de7c784a155a",
+        "time": 1791092023
+      },
+      {
+        "tag": "v1.0.3",
+        "hash": "5f8f33ac69ad0a0e3445d9a2e3a2c2b3c411cdec",
+        "time": 1790965747
+      },
+      {
+        "tag": "1.0.0",
+        "hash": "a0024f75279a6689f0c376f2f93870ab4f66f989",
+        "time": 1790579045
+      },
+      {
+        "tag": "v1.0.2",
+        "hash": "741522dbd2caea7fc53ccf831dea1c212800b10d",
+        "time": 1790541551
+      },
+      {
+        "tag": "v1.0.1",
+        "hash": "4db8e460c6aa36ab1b82a364c190343b2b5d9b4f",
+        "time": 1790539518
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "e705931712b7fd05545ed8de006b870705ca23dc",
+        "time": 1790351683
+      }
+    ],
+    "commit": {
+      "hash": "9abbe3a5577c245bf574a2bab68e74d32f80fe01",
+      "time": 1793025836
+    }
+  }
+}
