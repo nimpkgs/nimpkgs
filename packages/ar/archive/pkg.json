@@ -1,0 +1,59 @@
+{
+  "name": "archive",
+  "url": "https://github.com/nimbase/archive",
+  "method": "git",
+  "description": "Unified Nim library for archives and compression: Supporting tar, zip, gz, rar, zstd, lzip zz, lz4, bz2, brotli",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/archive",
+  "tags": [
+    "tar",
+    "deflate",
+    "zip",
+    "gzip",
+    "gz",
+    "zlib",
+    "zz",
+    "lz4",
+    "bzip2",
+    "bz2",
+    "vfs",
+    "deepfs",
+    "archivefs",
+    "virtual",
+    "simd",
+    "zero-copy",
+    "memfiles",
+    "mmap",
+    "archive",
+    "brotli"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "nbrotli",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "04975e91c0f257f5f2cb67c2cf8d144ea41f91f7",
+      "time": 1793131602
+    }
+  }
+}

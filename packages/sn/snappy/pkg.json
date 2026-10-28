@@ -24,34 +24,34 @@
         },
         {
           "name": "faststreams",
-          "str": "any version",
+          "str": ">= 0.3.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.3.0"
           }
         },
         {
           "name": "unittest2",
-          "str": "any version",
+          "str": ">= 0.0.2",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.0.2"
           }
         },
         {
           "name": "results",
-          "str": "any version",
+          "str": ">= 0.4.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
           "name": "stew",
-          "str": "any version",
+          "str": ">= 0.2.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         },
         {
@@ -67,8 +67,8 @@
       "srcDir": ""
     },
     "commit": {
-      "hash": "9570f7f8a6f8c3ea833d012af958361307015703",
-      "time": 1791098296
+      "hash": "def59d81aa872e3e432ac8c8554d225780fa9733",
+      "time": 1793101150
     }
   }
 }

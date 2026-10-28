@@ -1,0 +1,46 @@
+{
+  "name": "dotenvrun",
+  "url": "https://github.com/aboisvert/dotenv-run",
+  "method": "git",
+  "description": "Run commands with environment variables loaded from .env files",
+  "license": "MIT",
+  "web": "https://github.com/aboisvert/dotenv-run",
+  "tags": [
+    "dotenv",
+    ".env",
+    "runner",
+    "cli",
+    "nim-lang"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "dotenv-run"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "585595e2a0a2d484628fd2ce28733bd7029890b6",
+        "time": 1793058238
+      }
+    ],
+    "commit": {
+      "hash": "fb6125d235d5764dd0c754241d1a1985c5872b2a",
+      "time": 1793058266
+    }
+  }
+}

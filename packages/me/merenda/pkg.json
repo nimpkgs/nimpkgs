@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.29.0",
+      "version": "0.29.2",
       "requires": [
         {
           "name": "nim",
@@ -69,10 +69,10 @@
         },
         {
           "name": "https://github.com/elcritch/figdraw",
-          "str": ">= 0.45.0",
+          "str": "0.46.2",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.45.0"
+            "kind": "verEq",
+            "ver": "0.46.2"
           }
         },
         {
@@ -189,10 +189,10 @@
         },
         {
           "name": "https://github.com/elcritch/terminex",
-          "str": ">= 0.4.0",
+          "str": "0.4.2",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.0"
+            "kind": "verEq",
+            "ver": "0.4.2"
           }
         },
         {
@@ -240,6 +240,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.29.2",
+        "hash": "63b29b96747021ef685e22f2ad64a5e00e8ef98c",
+        "time": 1793153226
+      },
       {
         "tag": "v0.29.0",
         "hash": "290ea85ebc4a696a9156e2dad84b84dada97e617",
@@ -652,8 +657,8 @@
       }
     ],
     "commit": {
-      "hash": "683a516796c9b9402823749aa1deec0710e03fed",
-      "time": 1793025195
+      "hash": "63b29b96747021ef685e22f2ad64a5e00e8ef98c",
+      "time": 1793153226
     }
   }
 }

@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.4.4",
+      "version": "1.0.0",
       "requires": [
         {
           "name": "nim",
@@ -26,52 +26,32 @@
           }
         },
         {
-          "name": "checksums",
-          "str": "0.2.1",
+          "name": "sokol",
+          "str": "0.6.0",
           "ver": {
             "kind": "verEq",
-            "ver": "0.2.1"
-          }
-        },
-        {
-          "name": "chroma",
-          "str": "0.2.7",
-          "ver": {
-            "kind": "verEq",
-            "ver": "0.2.7"
-          }
-        },
-        {
-          "name": "stb_image",
-          "str": "2.5",
-          "ver": {
-            "kind": "verEq",
-            "ver": "2.5"
-          }
-        },
-        {
-          "name": "jnim",
-          "str": "0.5.2",
-          "ver": {
-            "kind": "verEq",
-            "ver": "0.5.2"
-          }
-        },
-        {
-          "name": "https://github.com/yglukhov/android",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "ver": "0.6.0"
           }
         }
       ],
       "bin": [],
       "srcDir": ""
     },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "6d722e351a08db78e55171404f289dc2899c7d5e",
+        "time": 1793105136
+      },
+      {
+        "tag": "v0.4.4",
+        "hash": "766858a8160fa75d57a48730e101639885ba5096",
+        "time": 1735986278
+      }
+    ],
     "commit": {
-      "hash": "766858a8160fa75d57a48730e101639885ba5096",
-      "time": 1735986278
+      "hash": "a317391f1b01b850cfb9893ff886f791fa023dc4",
+      "time": 1793112859
     }
   }
 }

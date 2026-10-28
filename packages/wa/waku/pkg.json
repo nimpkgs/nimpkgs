@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.39.2",
+      "version": "0.40.0",
       "requires": [
         {
           "name": "nim",
@@ -82,6 +82,14 @@
           }
         },
         {
+          "name": "protobuf_serialization",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        },
+        {
           "name": "faststreams",
           "str": "any version",
           "ver": {
@@ -139,34 +147,34 @@
         },
         {
           "name": "nimcrypto",
-          "str": "0.6.4",
+          "str": ">= 0.7.3",
           "ver": {
-            "kind": "verEq",
-            "ver": "0.6.4"
+            "kind": "verEqLater",
+            "ver": "0.7.3"
           }
         },
         {
-          "name": "https://github.com/status-im/nim-secp256k1",
-          "str": "#d8f1288b7c72f00be5fc2c5ea72bf5cae1eafb15",
+          "name": "secp256k1",
+          "str": ">= 0.8.0.8.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.8.0.8.0"
           }
         },
         {
           "name": "bearssl",
-          "str": "any version",
+          "str": "0.2.13",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEq",
+            "ver": "0.2.13"
           }
         },
         {
           "name": "json_rpc",
-          "str": "0.6.1",
+          "str": "0.7.0",
           "ver": {
             "kind": "verEq",
-            "ver": "0.6.1"
+            "ver": "0.7.0"
           }
         },
         {
@@ -266,6 +274,14 @@
           }
         },
         {
+          "name": "https://github.com/status-im/nim-snappy",
+          "str": "#a99d113197e81bf764a3b005b0ade3f9f3758069",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
           "name": "testutils",
           "str": "0.8.1",
           "ver": {
@@ -283,7 +299,7 @@
         },
         {
           "name": "https://github.com/logos-messaging/nim-ffi",
-          "str": "#4c1218626bbbf89e19836845b690937cd255c3f0",
+          "str": "#d98f77141de9c95c0c543d191a79aee18e7536a4",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -339,7 +355,15 @@
         },
         {
           "name": "https://github.com/logos-co/nim-libp2p-mix",
-          "str": "#39d2ac78da7b7f33562eb7cd95d6280ca9fa0e94",
+          "str": "#3f256aa03d2d36fea0b5206b41a6328da4f5c412",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        },
+        {
+          "name": "https://github.com/logos-co/mix-rln-spam-protection-plugin",
+          "str": "#7b5c7cfafbffe4e47aeb46838633645afacdb73c",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -350,6 +374,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.40.0-rc.0",
+        "hash": "5979f8522bf22aca9c06deb34226e9f5c0506929",
+        "time": 1793050366
+      },
       {
         "tag": "v0.39.2-rc.1, v0.39.2",
         "hash": "fd07b72c370a6b39c69870c087cc0d928d485327",
@@ -672,8 +701,8 @@
       }
     ],
     "commit": {
-      "hash": "5979f8522bf22aca9c06deb34226e9f5c0506929",
-      "time": 1793050366
+      "hash": "e93f08703130e382e8ccf7245de07c9ff767b77c",
+      "time": 1793139518
     }
   }
 }
