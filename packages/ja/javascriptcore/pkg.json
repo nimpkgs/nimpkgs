@@ -1,0 +1,40 @@
+{
+  "name": "javascriptcore",
+  "url": "https://github.com/nimbase/javascriptcore-nim",
+  "method": "git",
+  "description": "Nim bindings to JavaScriptCore",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/javascriptcore-nim",
+  "tags": [
+    "js",
+    "javascript",
+    "embeddable",
+    "node",
+    "bun",
+    "bindings",
+    "wrapper",
+    "jscore",
+    "script"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "e6287ce1a8a4c963fdc99267deae768115b09487",
+      "time": 1793208548
+    }
+  }
+}

@@ -18,7 +18,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.46.2",
+      "version": "0.46.4",
       "requires": [
         {
           "name": "nim",
@@ -50,6 +50,14 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "5.0.1"
+          }
+        },
+        {
+          "name": "https://github.com/elcritch/harfbuzzy",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
           }
         },
         {
@@ -141,8 +149,8 @@
           }
         },
         {
-          "name": "https://github.com/planetis-m/vulkan",
-          "str": "#b223dc9",
+          "name": "https://github.com/elcritch/vulkan",
+          "str": "#0fc8dd2",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -153,6 +161,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.46.4",
+        "hash": "3f31bc3355103303dff19def582795985b0bbfbf",
+        "time": 1793232219
+      },
+      {
+        "tag": "v0.46.3",
+        "hash": "71a3e0bc5f1ad34028cf0f83800de8d55ac60456",
+        "time": 1793216566
+      },
       {
         "tag": "v0.46.2",
         "hash": "25a4058f60d70371da8b4f1609f966ac8848d9ce",
@@ -420,8 +438,8 @@
       }
     ],
     "commit": {
-      "hash": "25a4058f60d70371da8b4f1609f966ac8848d9ce",
-      "time": 1793147200
+      "hash": "3f31bc3355103303dff19def582795985b0bbfbf",
+      "time": 1793232219
     }
   }
 }

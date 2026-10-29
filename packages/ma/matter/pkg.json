@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.6.1",
+      "version": "0.6.2",
       "requires": [
         {
           "name": "nim",
@@ -25,10 +25,10 @@
         },
         {
           "name": "https://github.com/fox0430/reni",
-          "str": "#a4c6f395a33754620e8522cae0e41f38e265a6de",
+          "str": ">= 0.2.0",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.0"
           }
         },
         {
@@ -44,6 +44,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.6.2",
+        "hash": "c742f27f184726f0b28caf5a236ceb0da6815cf9",
+        "time": 1793219045
+      },
       {
         "tag": "v0.6.1",
         "hash": "f720b90afdcf79d214084a54f6cb7c01d155089a",
@@ -106,8 +111,8 @@
       }
     ],
     "commit": {
-      "hash": "f720b90afdcf79d214084a54f6cb7c01d155089a",
-      "time": 1792862434
+      "hash": "c742f27f184726f0b28caf5a236ceb0da6815cf9",
+      "time": 1793219045
     }
   }
 }

@@ -1,0 +1,33 @@
+{
+  "name": "lz4",
+  "url": "https://github.com/fox0430/lz4",
+  "method": "git",
+  "description": "LZ4 implementation in pure Nim",
+  "license": "MIT",
+  "web": "https://github.com/fox0430/lz4",
+  "tags": [
+    "compression",
+    "lz4"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "33f52e8042e1492c6e2b9896815b42140ba69d09",
+      "time": 1793182470
+    }
+  }
+}

@@ -32,11 +32,19 @@
           }
         },
         {
-          "name": "zlib",
-          "str": ">= 0.2.0",
+          "name": "https://github.com/nimbase/archive",
+          "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "https://github.com/nimbase/image",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         },
         {
@@ -62,22 +70,14 @@
             "kind": "verEqLater",
             "ver": "0.1.0"
           }
-        },
-        {
-          "name": "libvips",
-          "str": ">= 0.1.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.1"
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "930bfec1d130eb9c93ba218965c2c417011d4769",
-      "time": 1793035770
+      "hash": "904a9400f6c7058f6819bf3ed75a2e7a5fa57787",
+      "time": 1793190190
     }
   }
 }
