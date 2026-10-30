@@ -32,7 +32,7 @@
           }
         },
         {
-          "name": "https://github.com/nimbase/archive",
+          "name": "archive",
           "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
@@ -40,7 +40,7 @@
           }
         },
         {
-          "name": "https://github.com/nimbase/image",
+          "name": "image",
           "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
@@ -76,8 +76,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "904a9400f6c7058f6819bf3ed75a2e7a5fa57787",
-      "time": 1793190190
+      "hash": "a7f86e840176cbf40380035ac5ff439e62f1d226",
+      "time": 1793200318
     }
   }
 }

@@ -24,12 +24,15 @@
           }
         }
       ],
-      "bin": [],
+      "bin": [
+        "wayland-codegen-nim"
+      ],
       "srcDir": "src"
     },
+    "hasBin": true,
     "commit": {
-      "hash": "58d1e911db221f1947a1e980dfd2f4ffea4f4018",
-      "time": 1723118085
+      "hash": "a16d92912aceb891d0d9e8524ad2bd244218c2ee",
+      "time": 1793275200
     }
   }
 }

@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.16.0",
+      "version": "0.16.1",
       "requires": [
         {
           "name": "nim",
@@ -43,10 +43,10 @@
         },
         {
           "name": "https://github.com/PMunch/nimbleutils",
-          "str": ">= 0.3.3",
+          "str": ">= 0.3.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.3"
+            "ver": "0.3.4"
           }
         }
       ],
@@ -57,6 +57,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.16.1",
+        "hash": "2fc488facd66ff1ff7ce49fcec83ee442c958dfe",
+        "time": 1793286222
+      },
       {
         "tag": "v0.16.0",
         "hash": "52e8794e82484e3aceebaefcb8eebc68d0d29e54",
@@ -254,8 +259,8 @@
       }
     ],
     "commit": {
-      "hash": "8b1f7d64e68595dbe6dd32f0b1f8835c2b7cc187",
-      "time": 1789717099
+      "hash": "2fc488facd66ff1ff7ce49fcec83ee442c958dfe",
+      "time": 1793286222
     }
   }
 }

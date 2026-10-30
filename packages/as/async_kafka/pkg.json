@@ -85,14 +85,22 @@
             "kind": "verEq",
             "ver": "0.2.1"
           }
+        },
+        {
+          "name": "lz4",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": ""
     },
     "commit": {
-      "hash": "9b5d33df7da2ea254e8faf61a7193c8752af4b05",
-      "time": 1792655529
+      "hash": "af2e8604a720d11a0ad8f5acdc08af10882d84ae",
+      "time": 1793262797
     }
   }
 }

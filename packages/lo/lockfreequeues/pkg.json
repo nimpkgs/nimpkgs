@@ -22,7 +22,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "5.1.4",
+      "version": "5.1.6",
       "requires": [
         {
           "name": "nim",
@@ -42,10 +42,18 @@
         },
         {
           "name": "lockfree",
-          "str": "0.6.3",
+          "str": ">= 0.6.5 & < 0.7.0",
           "ver": {
-            "kind": "verEq",
-            "ver": "0.6.3"
+            "kind": "verIntersect",
+            "ver": ""
+          }
+        },
+        {
+          "name": "typestates",
+          "str": ">= 0.14.0 & < 0.15.0",
+          "ver": {
+            "kind": "verIntersect",
+            "ver": ""
           }
         }
       ],
@@ -53,6 +61,16 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v5.1.6",
+        "hash": "eea458beb9b22bc01826ff6369da53d1e02b9ba0",
+        "time": 1793337709
+      },
+      {
+        "tag": "v5.1.5",
+        "hash": "be28e661a50a8d7acaa6be07ff9c9422184a77cd",
+        "time": 1793336630
+      },
       {
         "tag": "v5.1.4",
         "hash": "9d25ba47464a3d3ed6b658192aae6689aefe938e",
@@ -160,8 +178,8 @@
       }
     ],
     "commit": {
-      "hash": "58933d60a5cb7520f74961b18ddeea0b4252ad91",
-      "time": 1793213881
+      "hash": "eea458beb9b22bc01826ff6369da53d1e02b9ba0",
+      "time": 1793337709
     }
   }
 }
