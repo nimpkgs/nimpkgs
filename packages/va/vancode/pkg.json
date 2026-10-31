@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.0",
+      "version": "0.3.2",
       "requires": [
         {
           "name": "nim",
@@ -39,18 +39,18 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.3.8",
+          "str": ">= 0.4.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.8"
+            "ver": "0.4.1"
           }
         },
         {
           "name": "flysystem",
-          "str": ">= 0.2.0",
+          "str": ">= 0.2.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.2.3"
           }
         },
         {
@@ -91,6 +91,16 @@
     },
     "versions": [
       {
+        "tag": "0.3.2",
+        "hash": "f73a53026fb83582e1f58695d1315e375d0b7b0e",
+        "time": 1793394885
+      },
+      {
+        "tag": "0.3.1",
+        "hash": "daff456a66bf9dff26c40364aaaa5761cef05d9c",
+        "time": 1793011610
+      },
+      {
         "tag": "0.3.0",
         "hash": "80523c610df46cdfce62f0dcb70aba0f4aa68097",
         "time": 1792668470
@@ -122,8 +132,8 @@
       }
     ],
     "commit": {
-      "hash": "daff456a66bf9dff26c40364aaaa5761cef05d9c",
-      "time": 1793011610
+      "hash": "c8dcbc6ef96a86e6b65940cdec827e73f348fdb1",
+      "time": 1793394997
     }
   }
 }

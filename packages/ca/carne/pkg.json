@@ -1,0 +1,100 @@
+{
+  "name": "carne",
+  "url": "https://github.com/openpeeps/carne",
+  "method": "git",
+  "description": "JavaScript runtime on JavaScriptCore",
+  "license": "MIT",
+  "web": "https://github.com/openpeeps/carne",
+  "tags": [
+    "js",
+    "javascript",
+    "jsx",
+    "bundler",
+    "javascriptcore",
+    "jscore",
+    "cypher",
+    "http",
+    "tcp",
+    "udp"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.10",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "datpkgr",
+          "str": ">= 0.1.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.12"
+          }
+        },
+        {
+          "name": "javascriptcore",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.5"
+          }
+        },
+        {
+          "name": "openparser",
+          "str": ">= 0.4.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.1"
+          }
+        },
+        {
+          "name": "mimedb",
+          "str": ">= 0.1.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.4"
+          }
+        },
+        {
+          "name": "powpow",
+          "str": ">= 0.2.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.4"
+          }
+        },
+        {
+          "name": "semver",
+          "str": ">= 1.2.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.3"
+          }
+        }
+      ],
+      "bin": [
+        "carne"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "ced87cb3ba4eaf076e9a89cf4407011d4e3ef4a3",
+      "time": 1793407287
+    }
+  }
+}

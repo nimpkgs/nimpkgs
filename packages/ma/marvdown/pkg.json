@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.5",
+      "version": "0.2.6",
       "requires": [
         {
           "name": "nim",
@@ -25,18 +25,10 @@
         },
         {
           "name": "openparser",
-          "str": ">= 0.2.0",
+          "str": ">= 0.4.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
-          }
-        },
-        {
-          "name": "kapsis",
-          "str": ">= 0.4.8",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.4.8"
+            "ver": "0.4.2"
           }
         }
       ],
@@ -47,6 +39,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.2.6",
+        "hash": "be768fcf396232bd0ad414af837552679a64601a",
+        "time": 1793397485
+      },
       {
         "tag": "0.2.5",
         "hash": "752f30b895b235f0e68df38bd6b398f04cbe0486",
@@ -114,8 +111,8 @@
       }
     ],
     "commit": {
-      "hash": "752f30b895b235f0e68df38bd6b398f04cbe0486",
-      "time": 1792409235
+      "hash": "be768fcf396232bd0ad414af837552679a64601a",
+      "time": 1793397485
     }
   }
 }

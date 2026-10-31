@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.30.1",
+      "version": "0.30.3",
       "requires": [
         {
           "name": "nim",
@@ -228,10 +228,23 @@
           }
         }
       ],
-      "bin": [],
+      "bin": [
+        "merenda/kosmo/kosmo"
+      ],
       "srcDir": "src"
     },
+    "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.30.3",
+        "hash": "4b462df57a9ecf6dd9f1745f3697332715e29526",
+        "time": 1793415461
+      },
+      {
+        "tag": "v0.30.2",
+        "hash": "01ed50c60cd0d5a182e8270806b6dfa62dd0613a",
+        "time": 1793402954
+      },
       {
         "tag": "v0.30.1",
         "hash": "cf7f6ed343da2333e4a2efc8e70dd0bda7be1419",
@@ -664,8 +677,8 @@
       }
     ],
     "commit": {
-      "hash": "cf7f6ed343da2333e4a2efc8e70dd0bda7be1419",
-      "time": 1793278603
+      "hash": "4b462df57a9ecf6dd9f1745f3697332715e29526",
+      "time": 1793415461
     }
   }
 }
