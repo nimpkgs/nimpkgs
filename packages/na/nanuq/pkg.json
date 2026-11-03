@@ -1,0 +1,100 @@
+{
+  "name": "nanuq",
+  "url": "https://github.com/pietroppeter/nanuq",
+  "method": "git",
+  "description": "Polars DataFrames for Nim, by wrapping the Rust library through a C ABI",
+  "license": "MIT",
+  "web": "https://github.com/pietroppeter/nanuq",
+  "tags": [
+    "dataframe",
+    "polars"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.6.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.6.0",
+        "hash": "dc8579e7d369b400a53ecafbb5f404c5cd683556",
+        "time": 1793611638
+      },
+      {
+        "tag": "lib-v0.6.0",
+        "hash": "3ce0f9a66b2e9c56cd86c89e29b172633b618fe1",
+        "time": 1793598632
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "ec6ed17ae44cad17519cb64d10d87a1e51ef4e3e",
+        "time": 1793555900
+      },
+      {
+        "tag": "lib-v0.5.0",
+        "hash": "90ec67a07ba3ef1a6b0e7036602b027820c9f434",
+        "time": 1793548929
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "c7f87464502c465104899bc05eba87750579b847",
+        "time": 1793543562
+      },
+      {
+        "tag": "lib-v0.4.0",
+        "hash": "b7157ec461efdde8c7939d4f55f95f833f45a1f6",
+        "time": 1793533140
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "da038b1504532003e0fa08ee88c0a69a91bc3ecc",
+        "time": 1793500075
+      },
+      {
+        "tag": "lib-v0.3.0",
+        "hash": "a1af577ec13464ba920abdc86deee673d98f9c44",
+        "time": 1793495010
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "920b1606bd89a68f25df179a764fb514c2f52481",
+        "time": 1793471245
+      },
+      {
+        "tag": "lib-v0.2.0",
+        "hash": "6d38cf25cbb57116885c9d0b2453aebaf4d41b26",
+        "time": 1793469113
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "9912cb6eb84b4372986e55916c5f49bfa74332ec",
+        "time": 1793214609
+      },
+      {
+        "tag": "lib-v0.1.1",
+        "hash": "ac913c65d582e04740a587f77185267ef486f9a5",
+        "time": 1793207924
+      },
+      {
+        "tag": "lib-v0.1.0",
+        "hash": "c8a49c5bc94ec1c1f06f8b633476ebb7c121274a",
+        "time": 1793165939
+      }
+    ],
+    "commit": {
+      "hash": "61588d3a254a4c78dde5ab5837720264cf242dc8",
+      "time": 1793636430
+    }
+  }
+}

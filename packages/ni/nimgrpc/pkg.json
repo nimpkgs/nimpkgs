@@ -1,0 +1,81 @@
+{
+  "name": "nimgrpc",
+  "url": "https://github.com/zystem/nimgrpc",
+  "method": "git",
+  "description": "gRPC for Nim on top of nghttp2: client and server, unary and streaming, TLS and mutual TLS, blocking and chronos APIs, protoc plugin",
+  "license": "MIT",
+  "web": "https://github.com/zystem/nimgrpc",
+  "tags": [
+    "grpc",
+    "rpc",
+    "http2",
+    "protobuf",
+    "tls",
+    "client",
+    "server",
+    "chronos",
+    "nghttp2"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.12",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.12"
+          }
+        },
+        {
+          "name": "bearssl",
+          "str": ">= 0.3.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.1"
+          }
+        },
+        {
+          "name": "chronos",
+          "str": ">= 4.0.4",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "4.0.4"
+          }
+        }
+      ],
+      "bin": [
+        "protoc_gen_nim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "54fe5c5aab6cb3e166bef0270985ba9277a63374",
+        "time": 1793666304
+      },
+      {
+        "tag": "v0.1.0",
+        "hash": "829f6360568236de5d7b9ef4de0d8b842df163cb",
+        "time": 1793663147
+      },
+      {
+        "tag": "v0.0.2",
+        "hash": "37fc3a7a34e422c9bcc28a5302e9eaddc2f57aa8",
+        "time": 1793660943
+      },
+      {
+        "tag": "v0.0.1",
+        "hash": "6bab53a0efaf38242cf400af5e5c4d3ce3513fd6",
+        "time": 1793573434
+      }
+    ],
+    "commit": {
+      "hash": "54fe5c5aab6cb3e166bef0270985ba9277a63374",
+      "time": 1793666304
+    }
+  }
+}

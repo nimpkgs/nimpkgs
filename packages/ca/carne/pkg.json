@@ -84,6 +84,14 @@
             "kind": "verEqLater",
             "ver": "1.2.3"
           }
+        },
+        {
+          "name": "db_connector",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [
@@ -93,8 +101,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "96adb6d4988f663a58e1dae07932f5fbf48c2e1b",
-      "time": 1793461160
+      "hash": "a0cfdeb02c5d17e8d977e078c5d614ec7696db4c",
+      "time": 1793631986
     }
   }
 }

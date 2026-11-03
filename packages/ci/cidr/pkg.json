@@ -1,0 +1,36 @@
+{
+  "name": "cidr",
+  "url": "https://github.com/Uyuz-ux/cidr",
+  "method": "git",
+  "description": "IPv4/IPv6 CIDR notation parsing and operations for Nim. Zero dependencies, built on std/net.",
+  "license": "MIT",
+  "web": "https://github.com/Uyuz-ux/cidr",
+  "tags": [
+    "networking",
+    "cidr",
+    "ip-address",
+    "ipv4",
+    "ipv6"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "598fe830b06665988adc7ddd885e070a24a74c4a",
+      "time": 1793643574
+    }
+  }
+}

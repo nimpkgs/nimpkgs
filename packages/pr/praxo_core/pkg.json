@@ -1,0 +1,674 @@
+{
+  "name": "praxo_core",
+  "url": "https://github.com/axisvela/praxo-core",
+  "method": "git",
+  "description": "Embeddable MIT-licensed agent framework for Nim: tools, policy, events, memory, middleware, and an agent loop",
+  "license": "MIT",
+  "web": "https://axisvela.github.io/praxo-core/",
+  "tags": [
+    "agents",
+    "llm",
+    "framework",
+    "tool-calling",
+    "ai"
+  ],
+  "meta": {
+    "broken": true,
+    "versions": [
+      {
+        "tag": "typescript/v0.2.0, rust/v0.3.0, ruby/v0.4.0, r/v0.5.0, python/v0.3.0, php/v0.4.0, lua/v0.4.0, java/v0.4.0, fortran/v0.6.0, erlang/v0.4.0, elixir/v0.4.0, csharp/v0.3.0, cpp/v0.4.0, cobol/v0.4.0",
+        "hash": "ba25a8f1de443411dd3820aa33b84b63e88b3301",
+        "time": 1793604087
+      },
+      {
+        "tag": "c/v0.6.0",
+        "hash": "c28a9f6db68629889d7132c8451d2f9feffbae9e",
+        "time": 1793600588
+      },
+      {
+        "tag": "erlang/v0.3.1",
+        "hash": "cbc8d3704bca8a30b0430acf5af091ad529d8cd4",
+        "time": 1793579597
+      },
+      {
+        "tag": "fortran/v0.5.0",
+        "hash": "1ab29dcee2070c1950879947678aa599b5e4b325",
+        "time": 1793538419
+      },
+      {
+        "tag": "php/v0.3.0",
+        "hash": "f6de5752c685ccd2e14d699aa035f2eb83520828",
+        "time": 1793537328
+      },
+      {
+        "tag": "lua/v0.3.0",
+        "hash": "e423aaab4dc7958f511b06ea1338486068c471f6",
+        "time": 1793536727
+      },
+      {
+        "tag": "erlang/v0.3.0",
+        "hash": "5cca3f79e0347fb8f7e8a9f480a200644b9ccdfd",
+        "time": 1793536270
+      },
+      {
+        "tag": "elixir/v0.3.0",
+        "hash": "5cb2f5d6a01f6df5bb2dfcf1b37439721996e905",
+        "time": 1793535293
+      },
+      {
+        "tag": "ruby/v0.3.0, cpp/v0.3.0",
+        "hash": "8c8bb069b401fa07a1b85f144f169f819a2742cc",
+        "time": 1793530917
+      },
+      {
+        "tag": "cobol/v0.3.0",
+        "hash": "061388b453ee2a221c13e1a69096554092cd6e7b",
+        "time": 1793529175
+      },
+      {
+        "tag": "cobol/v0.2.0",
+        "hash": "aa3cebc131a2c5cf1b05bfd9a3d964ae12322ea4",
+        "time": 1793524863
+      },
+      {
+        "tag": "fortran/v0.4.0",
+        "hash": "41af44b9dc91bdf4ccc4c1faf3db398d3eded699",
+        "time": 1793522071
+      },
+      {
+        "tag": "erlang/v0.2.0",
+        "hash": "844f7ae16733b9190f59fc82f8fdbee22c189a38",
+        "time": 1793519810
+      },
+      {
+        "tag": "elixir/v0.2.0",
+        "hash": "44345e50b644e23d802c46c76d1f033b8aad8637",
+        "time": 1793519011
+      },
+      {
+        "tag": "lua/v0.2.0",
+        "hash": "f9423aa2ac3f7972ec776a83ba7006e36cbbf467",
+        "time": 1793517941
+      },
+      {
+        "tag": "cpp/v0.2.0",
+        "hash": "c0d6660ba3c58863327c04570fb59bd53d3e15bf",
+        "time": 1793517499
+      },
+      {
+        "tag": "ruby/v0.2.0",
+        "hash": "acb892e9c00d1efc6d7966244b961c94bfb53360",
+        "time": 1793516596
+      },
+      {
+        "tag": "c/v0.5.0",
+        "hash": "85a9d7b7663b341c3bd431c868fd049502e06c15",
+        "time": 1793514772
+      },
+      {
+        "tag": "r/v0.4.0",
+        "hash": "b7dab9b8d2c79c5df3ee41e461ebc1f458bd9c22",
+        "time": 1793513164
+      },
+      {
+        "tag": "c/v0.4.0",
+        "hash": "060d61e9d497b3c945de0f9d8ad519da84bb027f",
+        "time": 1793512580
+      },
+      {
+        "tag": "c/v0.3.0",
+        "hash": "aadb3cfcc3e72aa3895ff8aa62e0cc2480b3cd89",
+        "time": 1793511704
+      },
+      {
+        "tag": "php/v0.2.0",
+        "hash": "3cfda3edf8dcb02fc0838d9e7f1ba34187005048",
+        "time": 1793509193
+      },
+      {
+        "tag": "r/v0.3.0",
+        "hash": "42b96edb21f934467bb2de355e7f887dce3ecb99",
+        "time": 1793508526
+      },
+      {
+        "tag": "csharp/v0.2.0",
+        "hash": "cce4b7d73e584d0d10bac1e72e1ec6d52a32618d",
+        "time": 1793507765
+      },
+      {
+        "tag": "rust/v0.2.0",
+        "hash": "6bd66dfd428824aaae3ebfe68e48ab41ef438264",
+        "time": 1793506735
+      },
+      {
+        "tag": "typescript/v0.1.5",
+        "hash": "6352376e0cbee60294b3b7e65d0acbfe1f3b688b",
+        "time": 1793445372
+      },
+      {
+        "tag": "python/v0.2.4",
+        "hash": "75db177d733a565131b11f4a741b2440595b4b5a",
+        "time": 1793445286
+      },
+      {
+        "tag": "typescript/v0.1.4",
+        "hash": "25cf7fe1cbd9a39a565518ca4b2d643904480feb",
+        "time": 1793444969
+      },
+      {
+        "tag": "java/v0.3.0",
+        "hash": "0ebc8ed9fe625e2225a10b468a04d0625d4b33eb",
+        "time": 1793428348
+      },
+      {
+        "tag": "csharp/v0.1.2",
+        "hash": "2d004bf64ea6d16321a34e66e2f7522c8d4b4890",
+        "time": 1793423267
+      },
+      {
+        "tag": "dart/v0.1.1",
+        "hash": "a12728eb99f781054f13503acfcaf61ee33db008",
+        "time": 1793414643
+      },
+      {
+        "tag": "rust/v0.1.4",
+        "hash": "e277cbff6807de39bddbc7b3e08e41297506ecab",
+        "time": 1793412238
+      },
+      {
+        "tag": "rust/v0.1.3",
+        "hash": "c8953509dd971e21e9b463ec80c68151ab4a41a3",
+        "time": 1793411748
+      },
+      {
+        "tag": "typescript/v0.1.3, python/v0.2.3, java/v0.2.3",
+        "hash": "66607e76a138808362019b401cbff8c4986272c3",
+        "time": 1793359428
+      },
+      {
+        "tag": "fortran/v0.3.0",
+        "hash": "4d3a1f22273007eae2deb8f040e19a6e2a36b2eb",
+        "time": 1793349667
+      },
+      {
+        "tag": "fortran/v0.2.2, cobol/v0.1.2",
+        "hash": "7819a371aab52176cbb5feb2aa4bc1c2abc806e8",
+        "time": 1793345876
+      },
+      {
+        "tag": "rust/v0.1.2, fortran/v0.2.1, cobol/v0.1.1",
+        "hash": "81784cc8b27c1cdede7333ed7a1bec26aecab4ac",
+        "time": 1793342659
+      },
+      {
+        "tag": "v2.5.2",
+        "hash": "04432d8ad82dbf635ff3fb65e34071530baabea3",
+        "time": 1793330136
+      },
+      {
+        "tag": "java/v0.2.2",
+        "hash": "0871723fdfc5cc4858efffbde91ccfe7e27e661f",
+        "time": 1793235923
+      },
+      {
+        "tag": "csharp/v0.1.1",
+        "hash": "5be453f992d16c8868aafc06867e0731d8b1ead8",
+        "time": 1793235810
+      },
+      {
+        "tag": "v/v0.1.1, nim/v0.1.1, matlab/v0.2.1",
+        "hash": "6762a1fa81e4ef4ea87f273e8328643fbd0641d1",
+        "time": 1793235388
+      },
+      {
+        "tag": "delphi/v0.2.1",
+        "hash": "67467952fbb56079afe6b0beaa376aeb551c97f5",
+        "time": 1793202932
+      },
+      {
+        "tag": "objc/v0.1.1",
+        "hash": "bf2eb33c1fae65a6216a353efa4d70ce89899a94",
+        "time": 1793202872
+      },
+      {
+        "tag": "erlang/v0.1.1",
+        "hash": "e8f7dc9ea8de13defa549aa58fceca0fa5ba2c83",
+        "time": 1793202819
+      },
+      {
+        "tag": "elixir/v0.1.1",
+        "hash": "a2c0c08b5164ea36b3ddd3608141bcc55f76a257",
+        "time": 1793202766
+      },
+      {
+        "tag": "rust/v0.1.1",
+        "hash": "41335adf8c8019f5af6ee93ba7ef5650d9d94bd3",
+        "time": 1793202682
+      },
+      {
+        "tag": "python/v0.2.2",
+        "hash": "f2bb43561494a00106822d9937263adec7d89e98",
+        "time": 1793202149
+      },
+      {
+        "tag": "v2.5.1",
+        "hash": "0f9ac9ac5b8e15dd7a570eb8cbdab6d1e8c66d5a",
+        "time": 1793201931
+      },
+      {
+        "tag": "typescript/v0.1.2",
+        "hash": "df6cc1c72b65f3cdd6a38eaaad0574e3b16e0d24",
+        "time": 1793191207
+      },
+      {
+        "tag": "python/v0.2.1",
+        "hash": "7ad624eef0ed49813e90dc20acb04b37bddf3e0a",
+        "time": 1793169911
+      },
+      {
+        "tag": "c/v0.2.0",
+        "hash": "6ad4994976cf1ed4aeea70cf8272325c2003df03",
+        "time": 1793115031
+      },
+      {
+        "tag": "delphi/v0.2.0",
+        "hash": "16b51e62dd51945b5a3773c653d7ee255e4bc879",
+        "time": 1793113986
+      },
+      {
+        "tag": "haskell/v0.2.0",
+        "hash": "3c24b19af9fe2a5ea1ad454ba411d59d77ec992a",
+        "time": 1793113119
+      },
+      {
+        "tag": "matlab/v0.2.0",
+        "hash": "127b6261e0ce1fa323a35a37c3aae5431f22e8bb",
+        "time": 1793110963
+      },
+      {
+        "tag": "fortran/v0.2.0",
+        "hash": "a4ef3c6a5354b049401a3ad84f8dcf247442526f",
+        "time": 1793108045
+      },
+      {
+        "tag": "ocaml/v0.2.0",
+        "hash": "e43a4437b38e553dd189b2e54789d124e12ad576",
+        "time": 1793106873
+      },
+      {
+        "tag": "prolog/v0.1.1",
+        "hash": "f4cea930fd4ac570efd62d9b491a24965b85d32a",
+        "time": 1793105796
+      },
+      {
+        "tag": "prolog/v0.1.0",
+        "hash": "c4c680c86dadf0260436be158a2e7e54ec790ca2",
+        "time": 1793104714
+      },
+      {
+        "tag": "erlang/v0.1.0",
+        "hash": "a4312360454dec5b7bf65c30a09e94f52c74d96b",
+        "time": 1793102412
+      },
+      {
+        "tag": "tcl/v0.1.0, lisp/v0.1.0",
+        "hash": "e36d8caf237d84107ec5a12033f997c9713bb7a8",
+        "time": 1793101115
+      },
+      {
+        "tag": "ocaml/v0.1.0, matlab/v0.1.0, haskell/v0.1.0, delphi/v0.1.0",
+        "hash": "16ab5935177dc029166d6c00fed2bbd86519ef2c",
+        "time": 1793100704
+      },
+      {
+        "tag": "v/v0.1.0, objc/v0.1.0, nim/v0.1.0, elixir/v0.1.0",
+        "hash": "61cd081273a7711015ff0a98c7825df70d24b8b5",
+        "time": 1793097540
+      },
+      {
+        "tag": "fortran/v0.1.0",
+        "hash": "3de2231ee114455843dd5d213d9760ee35244aca",
+        "time": 1793089019
+      },
+      {
+        "tag": "cobol/v0.1.0",
+        "hash": "595e93070ffa3def5c192385c2678a07401aa6d8",
+        "time": 1793026235
+      },
+      {
+        "tag": "cobol/v0.1.0-rc.1",
+        "hash": "8d58962b01675eca7a945c2c37c35ae61fbf1e00",
+        "time": 1793025987
+      },
+      {
+        "tag": "fortran/v0.1.0-rc.1",
+        "hash": "93837b45110404e84326546c0d9d6650f36b1e30",
+        "time": 1793016721
+      },
+      {
+        "tag": "d/v0.1.0",
+        "hash": "1c415f4b2e14ebcd26a629a1f3b562bb87e471be",
+        "time": 1793008575
+      },
+      {
+        "tag": "zig/v0.2.0",
+        "hash": "c6c7160537ea3ae6042b66a44d54f3ac9d775aeb",
+        "time": 1793002845
+      },
+      {
+        "tag": "zig/v0.1.0",
+        "hash": "8a76319f5b3d4ffc51804f39d18bfd6a44fcb3b1",
+        "time": 1793001281
+      },
+      {
+        "tag": "dart/v0.1.0",
+        "hash": "aacf6731d020d3b59a414820e8d227fdab9d5cff",
+        "time": 1792995954
+      },
+      {
+        "tag": "lua/v0.1.0",
+        "hash": "f3fb9c255ec65898d168e872f411e57d8ea173d1",
+        "time": 1792993587
+      },
+      {
+        "tag": "ruby/v0.1.0",
+        "hash": "6a63dba0a49068ec0c9325f7f99d10153a1d0b03",
+        "time": 1792992933
+      },
+      {
+        "tag": "cpp/v0.1.0",
+        "hash": "7495aaa6373bca6bd43224a7388637828ac95f6c",
+        "time": 1792992124
+      },
+      {
+        "tag": "perl/v0.1.0",
+        "hash": "80b3acabafb61a99d268c4d4b5ebf7c3e056e655",
+        "time": 1792986607
+      },
+      {
+        "tag": "swift/v0.2.0, r/v0.2.0, julia/v0.2.0",
+        "hash": "c53b2b5f6e422e429450d309f640dceff8af7008",
+        "time": 1792984881
+      },
+      {
+        "tag": "r/v0.1.0",
+        "hash": "1d3678aff9523c4de4c62f1e8071a5915f511675",
+        "time": 1792979473
+      },
+      {
+        "tag": "julia/v0.1.0",
+        "hash": "c7c3a639ca96bf1f6a59adbd74f7a6069fef2ac1",
+        "time": 1792978564
+      },
+      {
+        "tag": "swift/v0.1.0",
+        "hash": "314801dcc10504d891d31679987c0e09d38d1417",
+        "time": 1792977911
+      },
+      {
+        "tag": "php/v0.1.0",
+        "hash": "b99c8c01281382f12e0ab972201e94696f0885dc",
+        "time": 1792977640
+      },
+      {
+        "tag": "csharp/v0.1.0",
+        "hash": "8f27193fe7891a822ed3132fbcfdd807e1457a24",
+        "time": 1792977073
+      },
+      {
+        "tag": "c/v0.1.0",
+        "hash": "c64e508641807c3499d840c9729ad906cbad5c46",
+        "time": 1792952501
+      },
+      {
+        "tag": "shell/v0.1.0, powershell/v0.1.0",
+        "hash": "d445b861f20729d803692f32acee538162686a17",
+        "time": 1792944965
+      },
+      {
+        "tag": "rust/v0.1.0",
+        "hash": "4cd73c07fdd2ec01e6fc387f8a9237ae2c3c1c82",
+        "time": 1792943821
+      },
+      {
+        "tag": "java/v0.2.1",
+        "hash": "e5b0b034eb6bf43f87b456b0a2af533fbb0caf5b",
+        "time": 1792942624
+      },
+      {
+        "tag": "java/v0.2.0",
+        "hash": "6a0dbf5c18e5510ee52bc0db4d260cd52d75b155",
+        "time": 1792942293
+      },
+      {
+        "tag": "java/v0.1.0",
+        "hash": "212590b80b7423673ff36a16778ff4df3625f2a2",
+        "time": 1792941428
+      },
+      {
+        "tag": "typescript/v0.1.0",
+        "hash": "5c0b4af2c2316d604452f1b00d9b261aed65c9a6",
+        "time": 1792938123
+      },
+      {
+        "tag": "spec/v0.2.0, python/v0.2.0",
+        "hash": "b3930f0e09de06b5d465fc624fb4c41534f2b349",
+        "time": 1792933849
+      },
+      {
+        "tag": "python/v0.1.0",
+        "hash": "be6de7db1b0223d99f6fd3a4901c6ddd8561cc32",
+        "time": 1792930636
+      },
+      {
+        "tag": "spec/v0.1.0",
+        "hash": "8cfdb2fd1d44b61cf847471cbfb8458949ef9231",
+        "time": 1792927446
+      },
+      {
+        "tag": "v2.5.0",
+        "hash": "8227fdd8fbfe2ec69ac82ad53f73e3e8b4a9a05d",
+        "time": 1792847113
+      },
+      {
+        "tag": "v2.4.0",
+        "hash": "31e8eb6cc940b7b196e8750131bb764b6501462f",
+        "time": 1792833648
+      },
+      {
+        "tag": "v2.3.6",
+        "hash": "7df04d141f4d147348a310fe470b305739f24eae",
+        "time": 1792823891
+      },
+      {
+        "tag": "v2.3.5",
+        "hash": "b2aa62fd6c8ef5a74fdbf99d847b236384968cfa",
+        "time": 1792819307
+      },
+      {
+        "tag": "v2.3.4",
+        "hash": "ed75102a3ea79d25e13c8bb8780b9f195fa47f1c",
+        "time": 1792812259
+      },
+      {
+        "tag": "v2.3.3",
+        "hash": "45c5f3627d3ced2ce16c6fb8052f9c3c12bb308e",
+        "time": 1792809455
+      },
+      {
+        "tag": "v2.3.2, adapters/gemini/v0.1.1",
+        "hash": "e61fa014f54c8d83478b4f2e026c17f12dd20f92",
+        "time": 1792746751
+      },
+      {
+        "tag": "v2.3.1",
+        "hash": "fd366fe4ae52e7ffdb5faa4183669a13b18fd3d4",
+        "time": 1792738697
+      },
+      {
+        "tag": "v2.3.0, adapters/multiagent/v0.2.0, adapters/mcp/v0.3.0",
+        "hash": "f5bd85dbe3aff15f99831d20fb5d1155e0ebbd74",
+        "time": 1792733166
+      },
+      {
+        "tag": "v2.2.0",
+        "hash": "935c4884ac40480c2655419115b10a3429f6a9dc",
+        "time": 1792729560
+      },
+      {
+        "tag": "adapters/multiagent/v0.1.0",
+        "hash": "2c753a6c5677e3c7025fe8cb62226c5b29e623b7",
+        "time": 1792728793
+      },
+      {
+        "tag": "adapters/harmovela/v0.1.0, adapters/a2a/v0.1.0",
+        "hash": "934331ea99b09dcc94bf1127a3468d509b88644d",
+        "time": 1792727179
+      },
+      {
+        "tag": "adapters/otel/v0.2.0",
+        "hash": "26a2df0a4382bcd0d80d3bf98b27abbc48d662f7",
+        "time": 1792726045
+      },
+      {
+        "tag": "adapters/gemini/v0.1.0",
+        "hash": "02d241c3999deb877dd2c5296509fd466800a046",
+        "time": 1792717254
+      },
+      {
+        "tag": "adapters/mcp/v0.2.0",
+        "hash": "87aba7ef4b86159fe06375a0b472a407f85ea7eb",
+        "time": 1792683724
+      },
+      {
+        "tag": "adapters/anthropic/v0.1.0",
+        "hash": "de9dec055044ef4db33e2368738fdce99db654b3",
+        "time": 1792682598
+      },
+      {
+        "tag": "adapters/otel/v0.1.0",
+        "hash": "6bfa3fc5462c58684919c3987e30a4488df26f7e",
+        "time": 1792681925
+      },
+      {
+        "tag": "v2.1.0, adapters/mcp/v0.1.0",
+        "hash": "04d1194bf23b667cfecd5a2fc4b2b62d32c9400d",
+        "time": 1792680535
+      },
+      {
+        "tag": "v2.0.0",
+        "hash": "c133dc8ebffaa6a0b063a57c723e8301b19ecf57",
+        "time": 1792329711
+      },
+      {
+        "tag": "v1.7.0",
+        "hash": "cc50aacd1966c7b9666648095b7d036c2d611a18",
+        "time": 1792328901
+      },
+      {
+        "tag": "v1.6.0",
+        "hash": "9e9253cefc8b0eb2487b2c13537a7fc4205d9a6d",
+        "time": 1792327736
+      },
+      {
+        "tag": "v1.5.0",
+        "hash": "187c6abcdd3550ff82ff6aa50cf90a555ffbe65f",
+        "time": 1792322471
+      },
+      {
+        "tag": "v1.4.0",
+        "hash": "d21129bcc81b467795908cac1801f45f91e0aae9",
+        "time": 1792321360
+      },
+      {
+        "tag": "v1.3.0",
+        "hash": "5bd70ed6543acf70a914cfc132ba984f165df6d9",
+        "time": 1792319000
+      },
+      {
+        "tag": "v1.2.0",
+        "hash": "367f2af3fd4783480f766a51d5446f5009fc7c70",
+        "time": 1792318617
+      },
+      {
+        "tag": "v1.1.0",
+        "hash": "dc75418f414ae799bb7c6736ecbc272a1ee18fa0",
+        "time": 1792317883
+      },
+      {
+        "tag": "v1.0.0",
+        "hash": "9e0ba57ec354359421b34ab0652a9f4e3796d73d",
+        "time": 1792316257
+      },
+      {
+        "tag": "v0.14.0",
+        "hash": "dd08f8da9f2b233c12893b4aba99f35231ab2e6b",
+        "time": 1792305748
+      },
+      {
+        "tag": "v0.13.0",
+        "hash": "8748682701f44207f16f7f8fd1ddff8e0c2eaec7",
+        "time": 1792304972
+      },
+      {
+        "tag": "v0.12.0",
+        "hash": "a9746d431bceb8b1a57811ac4d02501c9935aa8f",
+        "time": 1792304108
+      },
+      {
+        "tag": "v0.11.0",
+        "hash": "f9fea95e1bba6059528bd740ec3da0350eb0d45e",
+        "time": 1792303586
+      },
+      {
+        "tag": "v0.10.0",
+        "hash": "387af6ac5444f0614b7e01991dfdfbee1064f91a",
+        "time": 1792303087
+      },
+      {
+        "tag": "v0.9.0",
+        "hash": "d84b55c12e533653680e99536fd2c267f61e9de8",
+        "time": 1792302373
+      },
+      {
+        "tag": "v0.8.0",
+        "hash": "ee38d1db2a7bd930f563ad12dbf0335cd79df69c",
+        "time": 1792301568
+      },
+      {
+        "tag": "v0.7.0",
+        "hash": "63e2e08763f819ca3632dc0f3053e4d10b72ce33",
+        "time": 1792300266
+      },
+      {
+        "tag": "v0.6.0",
+        "hash": "95471d40429c2a1ed921f53a77540c949845fd08",
+        "time": 1792299730
+      },
+      {
+        "tag": "v0.5.0",
+        "hash": "3daa99f49efd38dfed6aaa05f1fff29ce38206cb",
+        "time": 1792299157
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "d8a6e35c72720d312b9f40d52496d1d822d7e48e",
+        "time": 1792298573
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "c7d9ae8c0c3f338799ae452a6a050f6cb98d7129",
+        "time": 1792297663
+      },
+      {
+        "tag": "v0.2.0",
+        "hash": "0560081e66ea2fd5452931186173b2215aa8b52b",
+        "time": 1792294967
+      }
+    ],
+    "commit": {
+      "hash": "713de53562652975fc153ebe44a48cb16be54ad1",
+      "time": 1793667018
+    }
+  }
+}

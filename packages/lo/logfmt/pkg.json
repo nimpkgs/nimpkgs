@@ -1,0 +1,34 @@
+{
+  "name": "logfmt",
+  "url": "https://github.com/Uyuz-ux/logfmt",
+  "method": "git",
+  "description": "Encode and decode the logfmt (key=value) structured logging format. Zero dependencies.",
+  "license": "MIT",
+  "web": "https://github.com/Uyuz-ux/logfmt",
+  "tags": [
+    "logging",
+    "logfmt",
+    "structured-logging"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "16c5d00f58cbf2883401b96cb0ff49c30712afce",
+      "time": 1793643572
+    }
+  }
+}
