@@ -22,7 +22,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "5.1.7",
+      "version": "5.1.8",
       "requires": [
         {
           "name": "nim",
@@ -42,7 +42,7 @@
         },
         {
           "name": "lockfree",
-          "str": ">= 0.6.6 & < 0.7.0",
+          "str": ">= 0.6.7 & < 0.7.0",
           "ver": {
             "kind": "verIntersect",
             "ver": ""
@@ -61,6 +61,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v5.1.8",
+        "hash": "6a3edd122e9291f85b7e001675b09449338d0984",
+        "time": 1793692834
+      },
       {
         "tag": "v5.1.7",
         "hash": "25b89dd91f886b0112d6eb0538c1f21f8f0fbf19",
@@ -183,8 +188,8 @@
       }
     ],
     "commit": {
-      "hash": "25b89dd91f886b0112d6eb0538c1f21f8f0fbf19",
-      "time": 1793349602
+      "hash": "2c2eedd5b29e58ee25ea0cdfceefbb43514fc7a6",
+      "time": 1793693570
     }
   }
 }

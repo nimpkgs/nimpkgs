@@ -15,30 +15,38 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.1.3",
+      "version": "1.2.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.4",
+          "str": ">= 2.4.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.4"
+            "ver": "2.4.0"
+          }
+        },
+        {
+          "name": "checksums",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         },
         {
           "name": "neverwinter",
-          "str": ">= 1.7.3",
+          "str": ">= 2.3.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.7.3"
+            "ver": "2.3.2"
           }
         },
         {
           "name": "nwnt",
-          "str": ">= 1.3.3",
+          "str": ">= 1.4.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.3.3"
+            "ver": "1.4.0"
           }
         },
         {
@@ -51,10 +59,10 @@
         },
         {
           "name": "regex",
-          "str": ">= 0.25.0",
+          "str": ">= 0.27.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.25.0"
+            "ver": "0.27.0"
           }
         },
         {
@@ -62,14 +70,6 @@
           "str": "#ab6087b",
           "ver": {
             "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "checksums",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
             "ver": ""
           }
         }
@@ -81,6 +81,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "1.2.0",
+        "hash": "ee525efcb7f2a88770db782d1a85df32f61c797a",
+        "time": 1793727307
+      },
       {
         "tag": "1.1.3",
         "hash": "2765e32047e25bb5ca3284a3dfba48bf93881ecf",
@@ -448,8 +453,8 @@
       }
     ],
     "commit": {
-      "hash": "2765e32047e25bb5ca3284a3dfba48bf93881ecf",
-      "time": 1786078795
+      "hash": "ee525efcb7f2a88770db782d1a85df32f61c797a",
+      "time": 1793727307
     }
   }
 }
