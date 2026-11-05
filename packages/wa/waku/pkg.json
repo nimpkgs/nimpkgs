@@ -331,7 +331,7 @@
         },
         {
           "name": "https://github.com/status-im/nim-leopard",
-          "str": "#2e8de41205ea44b6f33b5cad676bab215b36c987",
+          "str": "#b1868c6f2e794666e6cc43ac9aefe8828f4a78b4",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -374,6 +374,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.40.0-rc.1",
+        "hash": "0c37d36925f875265417bf66feda7099b4c99ee9",
+        "time": 1793810193
+      },
       {
         "tag": "v0.40.0-rc.0",
         "hash": "5979f8522bf22aca9c06deb34226e9f5c0506929",
@@ -701,8 +706,8 @@
       }
     ],
     "commit": {
-      "hash": "6f50400f598c0d38fad0337a39a68937475bba1f",
-      "time": 1793736094
+      "hash": "0c37d36925f875265417bf66feda7099b4c99ee9",
+      "time": 1793810193
     }
   }
 }
