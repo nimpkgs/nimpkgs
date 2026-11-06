@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.10",
+      "version": "0.2.9",
       "requires": [
         {
           "name": "nim",
@@ -25,19 +25,27 @@
           }
         },
         {
-          "name": "datpkgr",
-          "str": ">= 0.1.12",
+          "name": "kapsis",
+          "str": ">= 0.3.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.12"
+            "ver": "0.3.3"
           }
         },
         {
           "name": "vancode",
-          "str": ">= 0.3.2",
+          "str": ">= 0.2.5",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.2"
+            "ver": "0.2.5"
+          }
+        },
+        {
+          "name": "flatty",
+          "str": ">= 0.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.4.0"
           }
         },
         {
@@ -50,26 +58,26 @@
         },
         {
           "name": "voodoo",
-          "str": ">= 0.2.1",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.1"
+            "ver": "0.2.0"
           }
         },
         {
           "name": "watchout",
-          "str": ">= 0.3.2",
+          "str": ">= 0.2.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.2"
+            "ver": "0.2.2"
           }
         },
         {
           "name": "openparser",
-          "str": ">= 0.4.2",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.2"
+            "ver": "0.2.0"
           }
         },
         {
@@ -81,11 +89,27 @@
           }
         },
         {
-          "name": "nimcypher",
-          "str": ">= 0.2.5",
+          "name": "bag",
+          "str": ">= 0.1.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.5"
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "boogie",
+          "str": ">= 0.1.2",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.2"
+          }
+        },
+        {
+          "name": "supranim",
+          "str": ">= 0.1.9",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.9"
           }
         }
       ],
@@ -96,11 +120,6 @@
     },
     "hasBin": true,
     "versions": [
-      {
-        "tag": "0.2.10",
-        "hash": "079656ae95ee2f9d02fa965822e608fc648531dc",
-        "time": 1793488318
-      },
       {
         "tag": "0.2.9",
         "hash": "6dc0188c2439c30a1d5666746311756b4c8f862b",
@@ -123,8 +142,8 @@
       }
     ],
     "commit": {
-      "hash": "079656ae95ee2f9d02fa965822e608fc648531dc",
-      "time": 1793488318
+      "hash": "2de8b4a34071a90d19f9da3699b7c2155762d5eb",
+      "time": 1793912579
     }
   }
 }
