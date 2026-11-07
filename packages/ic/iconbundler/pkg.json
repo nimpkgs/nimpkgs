@@ -1,0 +1,51 @@
+{
+  "name": "iconbundler",
+  "url": "https://github.com/Araq/iconbundler",
+  "method": "git",
+  "description": "One PNG in, every icon artifact a desktop application ships out: _NET_WM_ICON, .ico/.rc/.res, hicolor sizes, .desktop entry, .icns and a macOS .app bundle.",
+  "license": "MIT",
+  "web": "https://github.com/Araq/iconbundler",
+  "tags": [
+    "icon",
+    "bundle",
+    "desktop",
+    "packaging",
+    "ico",
+    "icns",
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        },
+        {
+          "name": "pixie",
+          "str": ">= 6.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "6.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "iconbundler"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "067b7f60494985203f5a6a9a7f904a1b06bc0408",
+      "time": 1786968147
+    }
+  }
+}
