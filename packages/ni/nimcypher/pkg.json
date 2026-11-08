@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.5",
+      "version": "0.3.0",
       "requires": [
         {
           "name": "nim",
@@ -34,12 +34,25 @@
             "kind": "verEqLater",
             "ver": "1.0.0"
           }
+        },
+        {
+          "name": "dynasm",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.3.0",
+        "hash": "c5ca6fd80b797297a3f66e763bcde5b7577fdd01",
+        "time": 1794098554
+      },
       {
         "tag": "0.2.5",
         "hash": "22ea77245989d260d12bd3ea7d453999386727b9",
@@ -82,8 +95,8 @@
       }
     ],
     "commit": {
-      "hash": "22ea77245989d260d12bd3ea7d453999386727b9",
-      "time": 1790619094
+      "hash": "c5ca6fd80b797297a3f66e763bcde5b7577fdd01",
+      "time": 1794098554
     }
   }
 }

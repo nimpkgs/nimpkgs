@@ -64,11 +64,11 @@
           }
         },
         {
-          "name": "harfbuzz",
-          "str": ">= 0.1.0",
+          "name": "https://github.com/nimbase/harfnim",
+          "str": "any version",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "0.1.0"
+            "kind": "verAny",
+            "ver": ""
           }
         }
       ],
@@ -76,8 +76,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "a7f86e840176cbf40380035ac5ff439e62f1d226",
-      "time": 1793200318
+      "hash": "f065abcc6ea82b1559bdc291d656dcc4f8a51160",
+      "time": 1794102462
     }
   }
 }

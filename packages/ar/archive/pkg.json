@@ -46,14 +46,22 @@
             "kind": "verEqLater",
             "ver": "0.1.0"
           }
+        },
+        {
+          "name": "nimcypher",
+          "str": ">= 0.3.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.3.0"
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "27d9300b83ecab0c4ed7b83bfa890edd3a925a6d",
-      "time": 1793198203
+      "hash": "d1b5cc3381be8403b505551c74956f1e0cebb6b0",
+      "time": 1794101318
     }
   }
 }

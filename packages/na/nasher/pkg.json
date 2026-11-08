@@ -15,14 +15,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.4.0",
+          "str": ">= 2.0.14",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.4.0"
+            "ver": "2.0.14"
           }
         },
         {
@@ -35,10 +35,10 @@
         },
         {
           "name": "neverwinter",
-          "str": ">= 2.3.2",
+          "str": ">= 2.3.0 & < 3.0.0",
           "ver": {
-            "kind": "verEqLater",
-            "ver": "2.3.2"
+            "kind": "verIntersect",
+            "ver": ""
           }
         },
         {
@@ -81,6 +81,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "1.2.1",
+        "hash": "c372b162eed5efdf45795bc5906bca8a903c25a7",
+        "time": 1794112985
+      },
       {
         "tag": "1.2.0",
         "hash": "ee525efcb7f2a88770db782d1a85df32f61c797a",
@@ -453,8 +458,8 @@
       }
     ],
     "commit": {
-      "hash": "ee525efcb7f2a88770db782d1a85df32f61c797a",
-      "time": 1793727307
+      "hash": "c372b162eed5efdf45795bc5906bca8a903c25a7",
+      "time": 1794112985
     }
   }
 }
