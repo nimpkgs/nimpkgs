@@ -18,14 +18,22 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.16.11",
+      "version": "1.2.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 2.2.10",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
+            "ver": "2.2.10"
+          }
+        },
+        {
+          "name": "https://github.com/nimgl/imgui",
+          "str": "1.93.1",
+          "ver": {
+            "kind": "verEq",
+            "ver": "1.93.1"
           }
         },
         {
@@ -35,20 +43,22 @@
             "kind": "verEqLater",
             "ver": "1.3.2"
           }
-        },
-        {
-          "name": "https://github.com/nimgl/imgui",
-          "str": "1.91.9.0",
-          "ver": {
-            "kind": "verEq",
-            "ver": "1.91.9.0"
-          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "1.2.0",
+        "hash": "ae957f70eaa02e515818b2850facf062d148cf03",
+        "time": 1794139615
+      },
+      {
+        "tag": "1.2.0-wip",
+        "hash": "833a46b4cd4ccf55f26baddd4311d57a7f6131b3",
+        "time": 1794137862
+      },
       {
         "tag": "0.16.11",
         "hash": "72090882acdeafe85d6a4af8bcac4475c7f65bb6",
@@ -106,8 +116,8 @@
       }
     ],
     "commit": {
-      "hash": "72090882acdeafe85d6a4af8bcac4475c7f65bb6",
-      "time": 1761573041
+      "hash": "ae957f70eaa02e515818b2850facf062d148cf03",
+      "time": 1794139615
     }
   }
 }

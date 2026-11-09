@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "requires": [
         {
           "name": "nim",
@@ -30,14 +30,6 @@
           "ver": {
             "kind": "verEqLater",
             "ver": "1.6.0"
-          }
-        },
-        {
-          "name": "dotenv",
-          "str": ">= 2.0.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "2.0.0"
           }
         },
         {
@@ -57,14 +49,19 @@
     "hasBin": true,
     "versions": [
       {
+        "tag": "0.1.1",
+        "hash": "f7cf8a398055821037f06c9df7c9cc9cbf62ffa8",
+        "time": 1794153757
+      },
+      {
         "tag": "0.1.0",
         "hash": "fac85c6b2fb3b55b5d5125d8f2e7b70b46f45d96",
         "time": 1790885715
       }
     ],
     "commit": {
-      "hash": "34aed7fab04455dd907c31e075f36097cb2fdded",
-      "time": 1791109051
+      "hash": "f7cf8a398055821037f06c9df7c9cc9cbf62ffa8",
+      "time": 1794153757
     }
   }
 }

@@ -1,0 +1,58 @@
+{
+  "name": "ned",
+  "url": "https://github.com/foxoman/ned",
+  "method": "git",
+  "description": "A fast, safe code editor and Nim IDE for Termux and Linux",
+  "license": "MIT",
+  "web": "https://github.com/foxoman/ned",
+  "tags": [
+    "ned",
+    "editor",
+    "nim",
+    "ide",
+    "nimble"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "6.41.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "nedls",
+        "nedfmt",
+        "ned"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v6.41.1",
+        "hash": "901fc3a9481e9b824aba2297280b10623d93f2dd",
+        "time": 1793979094
+      },
+      {
+        "tag": "v6.41.0",
+        "hash": "dcc082a99a5b1b37a908f2a4728b0200b094b151",
+        "time": 1793962058
+      },
+      {
+        "tag": "v6.40.0",
+        "hash": "7777861b6a4a31e7ed53b8d9935f2fe9e4b0e178",
+        "time": 1793552022
+      }
+    ],
+    "commit": {
+      "hash": "816ee6879b65bb9766d7c725f3adc3f0eb9cdb34",
+      "time": 1794145688
+    }
+  }
+}

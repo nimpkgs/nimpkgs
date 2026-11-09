@@ -1,0 +1,210 @@
+{
+  "name": "retroui",
+  "url": "https://github.com/foxoman/retroui",
+  "method": "git",
+  "description": "Windows 3.1 style UI toolkit for Nim",
+  "license": "MIT",
+  "web": "https://github.com/foxoman/retroui",
+  "tags": [
+    "retroui",
+    "ui"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.28.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "retrokit",
+        "retroios",
+        "retroapk"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "versions": [
+      {
+        "tag": "v0.28.0",
+        "hash": "0f85053bcffa0fa56d463f834d6cd2ed253c5d94",
+        "time": 1794162376
+      },
+      {
+        "tag": "v0.27.1",
+        "hash": "3c9e114eb330f4db9367f3db5048926a58e01b61",
+        "time": 1794157210
+      },
+      {
+        "tag": "v0.27.0",
+        "hash": "19a4eca401ddf05c17d989385398ce9a618eed48",
+        "time": 1794155777
+      },
+      {
+        "tag": "v0.26.1",
+        "hash": "f86e6ee29271409dd5399d4d5c2d569243e49140",
+        "time": 1794081709
+      },
+      {
+        "tag": "v0.26.0",
+        "hash": "78af9e5485ef5945c6fdb9568b4a7888cf454f54",
+        "time": 1794080455
+      },
+      {
+        "tag": "v0.25.0",
+        "hash": "41a74dc07cd126b7f38a1f3a8f1f592f953460ce",
+        "time": 1794060133
+      },
+      {
+        "tag": "v0.24.0",
+        "hash": "930442ec20c11ac133a1e639b04e0ef78c72ee8f",
+        "time": 1794057656
+      },
+      {
+        "tag": "v0.23.0",
+        "hash": "775e0ee3857f9eb2afd23d993d955ee1f3aa14cc",
+        "time": 1794036022
+      },
+      {
+        "tag": "v0.22.0",
+        "hash": "aa664fa68a7240552e32e120b6bf5c9058bd8d7f",
+        "time": 1794034516
+      },
+      {
+        "tag": "v0.21.2",
+        "hash": "043d4c78fe0ac5f96e7e921882e354b351ee738b",
+        "time": 1794033326
+      },
+      {
+        "tag": "v0.21.0",
+        "hash": "3dc180f9060381624abde44033c3a9dd5ffcbe7f",
+        "time": 1794002069
+      },
+      {
+        "tag": "v0.20.8",
+        "hash": "544ab2ec2a2414228834ddc490f098b77a957ead",
+        "time": 1793995851
+      },
+      {
+        "tag": "v0.20.6",
+        "hash": "559c3ef3cb4c0a18a2a713eb89462a69f1b85837",
+        "time": 1793979917
+      },
+      {
+        "tag": "v0.20.5",
+        "hash": "4c2bafa1ba2d884abd9685d5e2783f4f277f38b3",
+        "time": 1793974655
+      },
+      {
+        "tag": "v0.20.4",
+        "hash": "709b824006d7dccb0b349421ba1704690027d1ef",
+        "time": 1793973913
+      },
+      {
+        "tag": "v0.20.3",
+        "hash": "c6a98e2da856614de0fce586355781067a5a1e6c",
+        "time": 1793973041
+      },
+      {
+        "tag": "v0.20.2",
+        "hash": "db098de6f15f2344a2f7e14886bafa04b2eaac1b",
+        "time": 1793970434
+      },
+      {
+        "tag": "v0.20.1",
+        "hash": "dd980ee2423cfff5cf7bc2fa54ae07506c5507a1",
+        "time": 1793967534
+      },
+      {
+        "tag": "v0.20.0",
+        "hash": "1da3a8b3e036a49ab1e7492995ba36b7e77523ab",
+        "time": 1793963954
+      },
+      {
+        "tag": "nightly-0.8.0-a3d31e179",
+        "hash": "a3d31e179d0a6d926e532442cfba2f6c5ab2b2d3",
+        "time": 1788296703
+      },
+      {
+        "tag": "nightly-0.8.0-d61af70c2",
+        "hash": "d61af70c2fbb3be0f3d93feff7a03e43f367a05f",
+        "time": 1788161390
+      },
+      {
+        "tag": "nightly-0.8.0-91ae04bf1",
+        "hash": "91ae04bf105c78906f3f748e19e3c0df8c5c6a55",
+        "time": 1787944318
+      },
+      {
+        "tag": "nightly-0.8.0-0c4cc9f45",
+        "hash": "0c4cc9f455f98c84dcd24e88e48279a337b0b411",
+        "time": 1787782081
+      },
+      {
+        "tag": "nightly-0.8.0-e345900ab",
+        "hash": "e345900abfb04685472d7801ba32eb2c90463bd1",
+        "time": 1787296061
+      },
+      {
+        "tag": "nightly-0.8.0-2dda9156b",
+        "hash": "2dda9156b262b7e1fef5d178a66a4ee5e28f326d",
+        "time": 1787154757
+      },
+      {
+        "tag": "nightly-0.8.0-5e0fb1c6f",
+        "hash": "5e0fb1c6f6e048e50ec335fcbc4c869127d39d97",
+        "time": 1787119004
+      },
+      {
+        "tag": "nightly-0.8.0-b9680bc0d",
+        "hash": "b9680bc0d72b144fdfe06c0ab89bd57c51299cf6",
+        "time": 1786987584
+      },
+      {
+        "tag": "nightly-0.8.0-71c9251e5",
+        "hash": "71c9251e5ae2524c2ad8696ecee400d1f97f1a3f",
+        "time": 1786808920
+      },
+      {
+        "tag": "nightly-0.8.0-fd29c4ad0",
+        "hash": "fd29c4ad040bf580a6232d8afc2de474772143ef",
+        "time": 1786736271
+      },
+      {
+        "tag": "nightly-0.8.0-cc5c2f5c3",
+        "hash": "cc5c2f5c38192234e491840d81857ac2da380008",
+        "time": 1786689244
+      },
+      {
+        "tag": "nightly-0.8.0-966b3845a",
+        "hash": "966b3845ae502a6003a4fe1970ecbf550546d90b",
+        "time": 1786607367
+      },
+      {
+        "tag": "nightly-0.8.0-294e77fea",
+        "hash": "294e77fea0f15aa47eb12ecd86780c81debb23fe",
+        "time": 1786519100
+      },
+      {
+        "tag": "nightly-0.8.0-c9d0c2b45",
+        "hash": "c9d0c2b45e923dcba79d724f98c4825e5d7632db",
+        "time": 1786393558
+      },
+      {
+        "tag": "nightly-0.8.0-29465b8a2",
+        "hash": "29465b8a2cd14ff4f03d329ecad721823462f1be",
+        "time": 1786133850
+      }
+    ],
+    "commit": {
+      "hash": "0f85053bcffa0fa56d463f834d6cd2ed253c5d94",
+      "time": 1794162376
+    }
+  }
+}

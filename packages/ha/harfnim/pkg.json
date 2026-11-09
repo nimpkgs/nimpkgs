@@ -1,0 +1,44 @@
+{
+  "name": "harfnim",
+  "url": "https://github.com/nimbase/harfnim",
+  "method": "git",
+  "description": "Pure Nim port of the HarfBuzz text shaping engine",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/harfnim",
+  "tags": [
+    "typography",
+    "text",
+    "shape",
+    "ttf",
+    "otf",
+    "harfbuzz",
+    "scripts",
+    "glyf",
+    "ligature",
+    "latin",
+    "arabic",
+    "hebrew",
+    "port"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "fcba8543844b94a48aaaf474da514969e1ea75de",
+      "time": 1794158648
+    }
+  }
+}

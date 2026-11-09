@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2.5",
+      "version": "0.2.6",
       "requires": [
         {
           "name": "nim",
@@ -25,10 +25,10 @@
         },
         {
           "name": "nayland",
-          "str": ">= 0.2.0",
+          "str": ">= 0.3.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2.0"
+            "ver": "0.3.3"
           }
         },
         {
@@ -76,6 +76,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.2.6-rc1",
+        "hash": "b2101707cb03fc4ced60f10848f56eea44111014",
+        "time": 1794121115
+      },
       {
         "tag": "0.2.5",
         "hash": "df5b95732252b7d639652703f459d7197826363b",
@@ -138,8 +143,8 @@
       }
     ],
     "commit": {
-      "hash": "e3edd7aa2b64dafd1f51f3c2e2b4fde73988f686",
-      "time": 1783089631
+      "hash": "b2101707cb03fc4ced60f10848f56eea44111014",
+      "time": 1794121115
     }
   }
 }

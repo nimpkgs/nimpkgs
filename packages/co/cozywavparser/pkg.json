@@ -1,0 +1,45 @@
+{
+  "name": "cozywavparser",
+  "url": "https://github.com/indiscipline/cozywavparser",
+  "method": "git",
+  "description": "Basic WAV file header parser",
+  "license": "GPL-2.0-or-later",
+  "web": "https://github.com/indiscipline/cozywavparser",
+  "tags": [
+    "audio",
+    "wav",
+    "wave",
+    "riff",
+    "parser",
+    "metadata",
+    "library"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "."
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "b118b5c0829031923e8a95102532adaec72c876d",
+        "time": 1794141507
+      }
+    ],
+    "commit": {
+      "hash": "0ba00b540868107e14a2dfcd1d9c70faebb65029",
+      "time": 1794147288
+    }
+  }
+}
