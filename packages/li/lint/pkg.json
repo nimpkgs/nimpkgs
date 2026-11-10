@@ -1,0 +1,49 @@
+{
+  "name": "lint",
+  "url": "https://github.com/iftech/nim-lint",
+  "method": "git",
+  "description": "Linting toolkit for Nim projects.",
+  "license": "MIT or Apache License 2.0",
+  "web": "https://github.com/iftech/nim-lint",
+  "tags": [
+    "linting",
+    "github-action",
+    "linter"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "glob",
+          "str": ">= 0.11.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.11.3"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "1.0.0",
+        "hash": "f011f605904dfbf272dc3f68f2718522eb318b01",
+        "time": 1794225420
+      }
+    ],
+    "commit": {
+      "hash": "f011f605904dfbf272dc3f68f2718522eb318b01",
+      "time": 1794225420
+    }
+  }
+}

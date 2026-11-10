@@ -1,0 +1,35 @@
+{
+  "name": "ahocorasick",
+  "url": "https://github.com/Uyuz-ux/ahocorasick",
+  "method": "git",
+  "description": "Aho-Corasick multi-pattern string search and replace. Zero dependencies, pure stdlib.",
+  "license": "MIT",
+  "web": "https://github.com/Uyuz-ux/ahocorasick",
+  "tags": [
+    "string",
+    "search",
+    "multi-pattern",
+    "automaton"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.3.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0e6d836d7a262fa3d02c9e1696b8a2872259c021",
+      "time": 1794210319
+    }
+  }
+}
