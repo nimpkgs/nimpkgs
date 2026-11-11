@@ -12,7 +12,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.3.0",
+      "version": "0.4.0",
       "requires": [
         {
           "name": "nim",
@@ -27,8 +27,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "8bb8b986d254edb6883868133112f0c063e9fa74",
-      "time": 1793994448
+      "hash": "847e44c83a4c68017477510200f4a9f43e679696",
+      "time": 1794339547
     }
   }
 }
