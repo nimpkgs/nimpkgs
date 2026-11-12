@@ -1,0 +1,43 @@
+{
+  "name": "waservix",
+  "url": "https://github.com/TekservixHQ/waservix-nim",
+  "method": "git",
+  "description": "Client for the WAservix WhatsApp API Gateway: send WhatsApp messages from your own number",
+  "license": "MIT",
+  "web": "https://github.com/TekservixHQ/waservix-nim",
+  "tags": [
+    "whatsapp",
+    "whatsapp-api",
+    "messaging",
+    "client",
+    "tekservix"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "bbf5014c64c1f8e24aed07468553dd00ce82a259",
+        "time": 1794356084
+      }
+    ],
+    "commit": {
+      "hash": "846be59db33a3dbe6c3d4c6dc0e5d395f021d9e3",
+      "time": 1794431819
+    }
+  }
+}

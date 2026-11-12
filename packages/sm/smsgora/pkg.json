@@ -1,0 +1,51 @@
+{
+  "name": "smsgora",
+  "url": "https://github.com/TekservixHQ/smsgora-nim",
+  "method": "git",
+  "description": "Client for the SMS Gora SMS Gateway API: send and receive SMS through your own Android phones",
+  "license": "MIT",
+  "web": "https://github.com/TekservixHQ/smsgora-nim",
+  "tags": [
+    "sms",
+    "sms-gateway",
+    "api",
+    "client",
+    "tekservix"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "1.0.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        },
+        {
+          "name": "nimcrypto",
+          "str": ">= 0.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v1.0.0",
+        "hash": "dff6f7d1bcf385c68e4750e461752d77cdfe6b60",
+        "time": 1794356073
+      }
+    ],
+    "commit": {
+      "hash": "e9907623aa27ae145402cf7414fa79247d69ba7d",
+      "time": 1794431763
+    }
+  }
+}
