@@ -100,6 +100,14 @@
           }
         },
         {
+          "name": "squeezy",
+          "str": ">= 0.1.1",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.1"
+          }
+        },
+        {
           "name": "supra",
           "str": ">= 0.1.0",
           "ver": {
@@ -115,8 +123,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "1ff4b36d20b7db70db2084e72a6119e56a583364",
-      "time": 1793657474
+      "hash": "b67b396537bcc266036f6a99788cb8e8cecec18b",
+      "time": 1794519371
     }
   }
 }
