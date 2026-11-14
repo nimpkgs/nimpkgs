@@ -15,7 +15,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "1.8.33",
+      "version": "1.9.0",
       "requires": [
         {
           "name": "https://github.com/disruptek/cutelog",
@@ -41,6 +41,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "1.9.0",
+        "hash": "3fc059a963251abfeaaf345090d4904032d09e87",
+        "time": 1794627846
+      },
       {
         "tag": "1.8.33",
         "hash": "5eb03226235aba6023bcef39d15a6245a670227e",
@@ -363,8 +368,8 @@
       }
     ],
     "commit": {
-      "hash": "09811e775a94a77bb4c6d25349109fcf8341db92",
-      "time": 1707755960
+      "hash": "3fc059a963251abfeaaf345090d4904032d09e87",
+      "time": 1794627846
     }
   }
 }

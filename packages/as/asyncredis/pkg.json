@@ -13,22 +13,22 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.8.2",
+      "version": "0.9.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.4.00",
+          "str": ">= 2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.4.00"
+            "ver": "2.0"
           }
         },
         {
           "name": "networkutils",
-          "str": ">= 0.2",
+          "str": ">= 0.7.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.2"
+            "ver": "0.7.1"
           }
         }
       ],
@@ -36,6 +36,16 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.9.1",
+        "hash": "222553101b2a49ca2b271b2f1695e05a269df0b6",
+        "time": 1794582552
+      },
+      {
+        "tag": "v0.9.0",
+        "hash": "ec3b9cc8e2f267c02555184ca17a254562f78464",
+        "time": 1794568585
+      },
       {
         "tag": "v0.8.2",
         "hash": "07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
@@ -53,8 +63,8 @@
       }
     ],
     "commit": {
-      "hash": "07ea37d6d4ffd1018ac592fa9c3fbafd14c37c5b",
-      "time": 1645043860
+      "hash": "222553101b2a49ca2b271b2f1695e05a269df0b6",
+      "time": 1794582552
     }
   }
 }

@@ -14,7 +14,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.1",
+      "version": "0.1.2",
       "requires": [
         {
           "name": "nim",
@@ -34,10 +34,10 @@
         },
         {
           "name": "finz",
-          "str": ">= 0.1.0",
+          "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.0"
+            "ver": "0.2.0"
           }
         }
       ],
@@ -48,6 +48,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.1.2",
+        "hash": "1d64fc1db62e7d58e287026c858ec51ffc029b6b",
+        "time": 1794573186
+      },
       {
         "tag": "0.1.1",
         "hash": "f7cf8a398055821037f06c9df7c9cc9cbf62ffa8",
@@ -60,8 +65,8 @@
       }
     ],
     "commit": {
-      "hash": "f7cf8a398055821037f06c9df7c9cc9cbf62ffa8",
-      "time": 1794153757
+      "hash": "1d64fc1db62e7d58e287026c858ec51ffc029b6b",
+      "time": 1794573186
     }
   }
 }
