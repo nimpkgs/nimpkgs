@@ -48,14 +48,22 @@
             "kind": "verEqLater",
             "ver": "1.3.2"
           }
+        },
+        {
+          "name": "https://github.com/nimbase/buffalo",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
         }
       ],
       "bin": [],
       "srcDir": "src"
     },
     "commit": {
-      "hash": "df7c1bb6dd233e47947aac03388bcbc84cce9aa1",
-      "time": 1794608040
+      "hash": "5a797922ffc8342fb8571b8c309e2fd80e061373",
+      "time": 1794669220
     }
   }
 }

@@ -49,10 +49,18 @@
         },
         {
           "name": "nimcypher",
-          "str": ">= 0.3.0",
+          "str": ">= 0.4.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.3.0"
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "https://github.com/nimbase/buffalo",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
           }
         }
       ],
@@ -60,8 +68,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "7c5dbd83530da7ed82811f146274d63d36851620",
-      "time": 1794608129
+      "hash": "2e0812c0a19f9cba770d322bf4922518e30ed315",
+      "time": 1794683430
     }
   }
 }

@@ -1,0 +1,38 @@
+{
+  "name": "buffalo",
+  "url": "https://github.com/nimbase/buffalo",
+  "method": "git",
+  "description": "Generic buffer reuse with zero-cost compile-time DSL",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/buffalo",
+  "tags": [
+    "buffer",
+    "pool",
+    "memory",
+    "static",
+    "hot",
+    "loops",
+    "compile-time"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.4.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "0d4e61d50a2cf6919c2e46675c5f56f5a6c5a60b",
+      "time": 1794664822
+    }
+  }
+}
