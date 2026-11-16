@@ -18,14 +18,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.46.4",
+      "version": "0.47.1",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.2",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.2"
+            "ver": "2.2.4"
           }
         },
         {
@@ -149,8 +149,8 @@
           }
         },
         {
-          "name": "https://github.com/elcritch/vulkan",
-          "str": "#0fc8dd2",
+          "name": "https://github.com/treeform/vk14",
+          "str": "#183cf440d6460d97c6b35d6346079d9982f8cd57",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -161,6 +161,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.47.1",
+        "hash": "7c36700136a007bb6ed63498e5bfcb7e9299724f",
+        "time": 1794776533
+      },
       {
         "tag": "v0.46.4",
         "hash": "3f31bc3355103303dff19def582795985b0bbfbf",
@@ -438,8 +443,8 @@
       }
     ],
     "commit": {
-      "hash": "fc90147a225c8294a9f6a296c7d77ed1ba8c1219",
-      "time": 1794624234
+      "hash": "7c36700136a007bb6ed63498e5bfcb7e9299724f",
+      "time": 1794776533
     }
   }
 }
