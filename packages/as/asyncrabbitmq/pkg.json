@@ -13,7 +13,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.2",
+      "version": "0.2.1",
       "requires": [
         {
           "name": "nim",
@@ -25,10 +25,10 @@
         },
         {
           "name": "networkutils",
-          "str": ">= 0.6.1",
+          "str": ">= 0.7.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.1"
+            "ver": "0.7.2"
           }
         }
       ],
@@ -36,6 +36,11 @@
       "srcDir": "asyncrabbitmq"
     },
     "versions": [
+      {
+        "tag": "v0.2.1",
+        "hash": "0af405d839ba5ced01d134d522ea470e0e5fcdde",
+        "time": 1794844897
+      },
       {
         "tag": "v0.2",
         "hash": "a09bd58087dcb1fa704259191c65a01e6fd9c0a1",
@@ -48,8 +53,8 @@
       }
     ],
     "commit": {
-      "hash": "a09bd58087dcb1fa704259191c65a01e6fd9c0a1",
-      "time": 1778576739
+      "hash": "0af405d839ba5ced01d134d522ea470e0e5fcdde",
+      "time": 1794844897
     }
   }
 }
