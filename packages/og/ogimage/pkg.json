@@ -1,0 +1,47 @@
+{
+  "name": "ogimage",
+  "url": "https://github.com/nimbase/ogimage",
+  "method": "git",
+  "description": "Pure-Nim OpenGraph image generator on top of nvg",
+  "license": "MIT",
+  "web": "https://github.com/nimbase/ogimage",
+  "tags": [
+    "opengraph",
+    "image",
+    "og",
+    "meta",
+    "nvg",
+    "social",
+    "banner",
+    "nimbase"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/nimbase/nvg",
+          "str": "any version",
+          "ver": {
+            "kind": "verAny",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "86043c4a4b86e4e6a08444ce49340c4ab06d5687",
+      "time": 1794937266
+    }
+  }
+}
