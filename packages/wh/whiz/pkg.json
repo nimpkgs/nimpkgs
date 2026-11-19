@@ -21,26 +21,42 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.2.0",
+          "str": ">= 2.4.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.2.0"
+            "ver": "2.4.0"
           }
         },
         {
           "name": "powpow",
-          "str": ">= 0.1.10",
+          "str": ">= 0.2.7",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.10"
+            "ver": "0.2.7"
           }
         },
         {
           "name": "nimcypher",
-          "str": ">= 0.1.1",
+          "str": ">= 0.4.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.1.1"
+            "ver": "0.4.0"
+          }
+        },
+        {
+          "name": "buffalo",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
+          }
+        },
+        {
+          "name": "zmq",
+          "str": ">= 1.5.3",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.5.3"
           }
         }
       ],
@@ -48,8 +64,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "f10aa33c04db821907bf4fa750fbbe523d97b93e",
-      "time": 1790692972
+      "hash": "f9f476f50ba08a8eaf1fbf05cb29128604e38a3c",
+      "time": 1795012111
     }
   }
 }

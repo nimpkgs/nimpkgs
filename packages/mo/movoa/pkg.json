@@ -1,0 +1,35 @@
+{
+  "name": "movoa",
+  "url": "https://github.com/hanshs474/movoa-nim",
+  "method": "git",
+  "description": "Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now. Official Nim SDK for Movoa (movoa.ai).",
+  "license": "MIT",
+  "web": "https://movoa.ai/",
+  "tags": [
+    "ai",
+    "video",
+    "api",
+    "sdk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "8974b830750a40636d657664c2861dba04e98b18",
+      "time": 1794988859
+    }
+  }
+}

@@ -13,14 +13,22 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.6.0",
+      "version": "0.7.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 1.6.0",
+          "str": ">= 2.2.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "1.6.0"
+            "ver": "2.2.4"
+          }
+        },
+        {
+          "name": "https://github.com/ire4ever1190/nort",
+          "str": ">= 0.7.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.7.0"
           }
         }
       ],
@@ -28,6 +36,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "0.7.0",
+        "hash": "40921b596d3a145deef29ec510f77f855c0e0411",
+        "time": 1794994175
+      },
       {
         "tag": "0.6.0",
         "hash": "6f8dbf13acb7d1d830513cfd73dd3844339b7393",
@@ -95,8 +108,8 @@
       }
     ],
     "commit": {
-      "hash": "6f8dbf13acb7d1d830513cfd73dd3844339b7393",
-      "time": 1771105055
+      "hash": "40921b596d3a145deef29ec510f77f855c0e0411",
+      "time": 1794994175
     }
   }
 }

@@ -1,0 +1,42 @@
+{
+  "name": "veida",
+  "url": "https://github.com/hanshs474/veida-nim",
+  "method": "git",
+  "description": "Official Nim SDK for Veida AI (veida.ai), unlimited free AI image generator.",
+  "license": "MIT",
+  "web": "https://veida.ai/",
+  "tags": [
+    "ai",
+    "image",
+    "api",
+    "sdk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "9e052a197d4d56370ca387d71bdc604e89ea93bf",
+        "time": 1794988278
+      }
+    ],
+    "commit": {
+      "hash": "9e052a197d4d56370ca387d71bdc604e89ea93bf",
+      "time": 1794988278
+    }
+  }
+}
