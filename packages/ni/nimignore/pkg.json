@@ -1,0 +1,35 @@
+{
+  "name": "nimignore",
+  "url": "https://github.com/capocasa/nimignore",
+  "method": "git",
+  "description": "gitignore-respecting directory walker (ripgrep-style semantics, Nim-ish API)",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/nimignore",
+  "tags": [
+    "gitignore",
+    "walker",
+    "filesystem",
+    "glob"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "commit": {
+      "hash": "67a35dc9dc655713fddd897ae0028c05efd809ba",
+      "time": 1795074548
+    }
+  }
+}

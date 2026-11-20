@@ -1,0 +1,38 @@
+{
+  "name": "nimdiff",
+  "url": "https://github.com/capocasa/nimdiff",
+  "method": "git",
+  "description": "Fast unified diffs in pure Nim. Myers O(ND) algorithm, git-xdiff grade performance.",
+  "license": "MIT",
+  "web": "https://github.com/capocasa/nimdiff",
+  "tags": [
+    "diff",
+    "unified-diff",
+    "myers",
+    "text-processing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimdiff"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "a37c0be759933e2ecb0488cce8b4e4571652ca8c",
+      "time": 1795084704
+    }
+  }
+}
