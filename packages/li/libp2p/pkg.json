@@ -14,14 +14,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "2.3.8",
+      "version": "2.5.0",
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.2.4",
+          "str": ">= 2.2.6",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.2.4"
+            "ver": "2.2.6"
           }
         },
         {
@@ -42,10 +42,10 @@
         },
         {
           "name": "https://github.com/vacp2p/nim-boringssl",
-          "str": ">= 0.0.11",
+          "str": ">= 0.0.14",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.0.11"
+            "ver": "0.0.14"
           }
         },
         {
@@ -114,34 +114,34 @@
         },
         {
           "name": "lsquic",
-          "str": ">= 0.9.0",
+          "str": ">= 0.11.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.9.0"
+            "ver": "0.11.3"
           }
         },
         {
           "name": "protobuf_serialization",
-          "str": ">= 0.6.0",
+          "str": ">= 0.6.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.6.0"
+            "ver": "0.6.2"
           }
         },
         {
           "name": "https://github.com/status-im/nim-websock",
-          "str": ">= 0.4.0",
+          "str": ">= 0.4.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.4.0"
+            "ver": "0.4.1"
           }
         },
         {
           "name": "https://github.com/logos-storage/nim-libplum",
-          "str": "#v0.6.3",
+          "str": ">= 0.6.2",
           "ver": {
-            "kind": "verSpecial",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.6.2"
           }
         }
       ],
@@ -149,6 +149,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v2.5.0",
+        "hash": "ab8e5e613b2d6c70287a8333e891c8529ed90740",
+        "time": 1795197477
+      },
       {
         "tag": "v2.3.8",
         "hash": "5ada87dc18938e2fac9635ae3f7caab00a9e0ce0",
@@ -391,8 +396,8 @@
       }
     ],
     "commit": {
-      "hash": "2c6e50f98b5f251a776ddb5f988e37fb9b4a1708",
-      "time": 1795120112
+      "hash": "e174279123abb34670f898f0fefabfec0674a101",
+      "time": 1795207180
     }
   }
 }

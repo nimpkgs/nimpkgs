@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.32.0",
+      "version": "0.32.1",
       "requires": [
         {
           "name": "nim",
@@ -69,18 +69,18 @@
         },
         {
           "name": "https://github.com/elcritch/figdraw",
-          "str": ">= 0.47.2",
+          "str": ">= 0.48.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.47.2"
+            "ver": "0.48.0"
           }
         },
         {
           "name": "harfbuzzy",
-          "str": ">= 0.7.0",
+          "str": ">= 0.7.1",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.0"
+            "ver": "0.7.1"
           }
         },
         {
@@ -235,6 +235,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.32.1",
+        "hash": "cd9db0ef4f2868f5212c576b0b32db78e6352f3e",
+        "time": 1795202886
+      },
       {
         "tag": "v0.32.0",
         "hash": "90deea7ed27683736f1f8a65975758b23df9069a",
@@ -697,8 +702,8 @@
       }
     ],
     "commit": {
-      "hash": "a2ade40faa6a42265212e86b40c388a0c8cb93f0",
-      "time": 1795109829
+      "hash": "5c8048312ddf5a56f17b847e6482aeee3e669606",
+      "time": 1795227020
     }
   }
 }

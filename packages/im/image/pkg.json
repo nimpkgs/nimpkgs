@@ -27,10 +27,10 @@
       "requires": [
         {
           "name": "nim",
-          "str": ">= 2.2.0",
+          "str": ">= 2.4.0",
           "ver": {
             "kind": "verEqLater",
-            "ver": "2.2.0"
+            "ver": "2.4.0"
           }
         },
         {
@@ -50,11 +50,11 @@
           }
         },
         {
-          "name": "https://github.com/nimbase/buffalo",
-          "str": "any version",
+          "name": "buffalo",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -62,8 +62,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "5a797922ffc8342fb8571b8c309e2fd80e061373",
-      "time": 1794669220
+      "hash": "cedb409dd668d20bd15600a7cc9f5d0bfcc35055",
+      "time": 1795195830
     }
   }
 }

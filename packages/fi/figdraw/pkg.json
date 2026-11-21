@@ -18,7 +18,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.48.1",
+      "version": "0.48.3",
       "requires": [
         {
           "name": "nim",
@@ -54,10 +54,10 @@
         },
         {
           "name": "https://github.com/elcritch/harfbuzzy",
-          "str": ">= 0.7.1",
+          "str": ">= 0.7.2",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.7.1"
+            "ver": "0.7.2"
           }
         },
         {
@@ -161,6 +161,11 @@
       "srcDir": "src"
     },
     "versions": [
+      {
+        "tag": "v0.48.3",
+        "hash": "7c4fcd3cd46e08233ed0d51372e8205fefa06da1",
+        "time": 1795221901
+      },
       {
         "tag": "v0.48.1",
         "hash": "f6e79f0aeaba504742188d474d0b8f5408f05385",
@@ -458,8 +463,8 @@
       }
     ],
     "commit": {
-      "hash": "f6e79f0aeaba504742188d474d0b8f5408f05385",
-      "time": 1795141507
+      "hash": "7c4fcd3cd46e08233ed0d51372e8205fefa06da1",
+      "time": 1795221901
     }
   }
 }

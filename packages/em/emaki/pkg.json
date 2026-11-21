@@ -1,0 +1,43 @@
+{
+  "name": "emaki",
+  "url": "https://github.com/hanshs474/emaki-nim",
+  "method": "git",
+  "description": "Nim SDK for Emaki (emaki.ai) — Japanese-language Seedance 2.5 & 2.0 AI video generator.",
+  "license": "MIT",
+  "web": "https://emaki.ai/",
+  "tags": [
+    "ai",
+    "video",
+    "api",
+    "client",
+    "sdk"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.1.0",
+        "hash": "cedbef7924f645305b9a628dc91ccfd3267b5049",
+        "time": 1795173237
+      }
+    ],
+    "commit": {
+      "hash": "cedbef7924f645305b9a628dc91ccfd3267b5049",
+      "time": 1795173237
+    }
+  }
+}

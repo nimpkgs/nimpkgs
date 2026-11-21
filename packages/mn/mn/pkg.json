@@ -60,6 +60,7 @@
     "commit": {
       "hash": "16fc9e7bf07819c9a5d83ae7cec48b9876ae2eff",
       "time": 1781639541
-    }
+    },
+    "status": "Unreachable"
   }
 }
