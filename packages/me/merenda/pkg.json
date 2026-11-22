@@ -17,7 +17,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.32.1",
+      "version": "0.32.2",
       "requires": [
         {
           "name": "nim",
@@ -69,10 +69,10 @@
         },
         {
           "name": "https://github.com/elcritch/figdraw",
-          "str": ">= 0.48.0",
+          "str": ">= 0.48.4",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.48.0"
+            "ver": "0.48.4"
           }
         },
         {
@@ -100,15 +100,7 @@
           }
         },
         {
-          "name": "siwin",
-          "str": "any version",
-          "ver": {
-            "kind": "verAny",
-            "ver": ""
-          }
-        },
-        {
-          "name": "chronos]",
+          "name": "siwin]",
           "str": "any version",
           "ver": {
             "kind": "verAny",
@@ -235,6 +227,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.32.2",
+        "hash": "2d673d0da95b46b58164942cd2b99d8ea80c292d",
+        "time": 1795280202
+      },
       {
         "tag": "v0.32.1",
         "hash": "cd9db0ef4f2868f5212c576b0b32db78e6352f3e",
@@ -702,8 +699,8 @@
       }
     ],
     "commit": {
-      "hash": "5c8048312ddf5a56f17b847e6482aeee3e669606",
-      "time": 1795227020
+      "hash": "1a1f491835f1eab2d3191b7f9d899c2fc556529d",
+      "time": 1795316343
     }
   }
 }

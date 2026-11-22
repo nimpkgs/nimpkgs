@@ -1,0 +1,38 @@
+{
+  "name": "nimtop",
+  "url": "https://github.com/meenbeese/nimtop",
+  "method": "git",
+  "description": "Fast and multiplatform htop-like system-monitor with Vi-keybindings",
+  "license": "GPL-3.0",
+  "web": "https://github.com/meenbeese/nimtop",
+  "tags": [
+    "cli",
+    "htop",
+    "nim",
+    "system-monitor"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimtop"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "d70afe6b332e34ba725add84b77a09abc142f645",
+      "time": 1795314186
+    }
+  }
+}

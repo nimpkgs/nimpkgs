@@ -56,11 +56,11 @@
           }
         },
         {
-          "name": "https://github.com/nimbase/buffalo",
-          "str": "any version",
+          "name": "buffalo",
+          "str": ">= 0.1.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -68,8 +68,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "eb3218e2668084c7038bab024a96b0f3eff27504",
-      "time": 1794952777
+      "hash": "70c533751eb31727fe007e42a8bbddc355ff8016",
+      "time": 1795257169
     }
   }
 }
