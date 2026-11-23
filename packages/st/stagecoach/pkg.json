@@ -1,0 +1,61 @@
+{
+  "name": "stagecoach",
+  "url": "https://github.com/aboisvert/stagecoach",
+  "method": "git",
+  "description": "HTTP/1.1 server on the stagelane M:N async runtime (HTTP only on this branch)",
+  "license": "MIT",
+  "web": "https://github.com/aboisvert/stagecoach",
+  "tags": [
+    "http",
+    "server",
+    "web",
+    "async",
+    "stagelane"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.4.1",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.2.0"
+          }
+        },
+        {
+          "name": "https://github.com/ghazalialshafi/stagelane",
+          "str": "#6c6df8a7868330c042cdfb0725b23f1874049bfa",
+          "ver": {
+            "kind": "verSpecial",
+            "ver": ""
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": ""
+    },
+    "versions": [
+      {
+        "tag": "v0.4.1",
+        "hash": "761c30df29f5a0d0bf63088bd3d9bd40c7be6804",
+        "time": 1795393364
+      },
+      {
+        "tag": "v0.4.0",
+        "hash": "e9f34e92caa7d7f40b8b9ab4dbad9f2e65d87c76",
+        "time": 1795352189
+      },
+      {
+        "tag": "v0.3.0",
+        "hash": "855296f1f9e647c187368f82a6946745dc74560b",
+        "time": 1795297691
+      }
+    ],
+    "commit": {
+      "hash": "ffd185622ded2f942cd9a343664da539de788fb2",
+      "time": 1795395067
+    }
+  }
+}

@@ -19,7 +19,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.1.5",
+      "version": "0.1.6",
       "requires": [
         {
           "name": "nim",
@@ -100,6 +100,22 @@
             "kind": "verEqLater",
             "ver": "0.1.0"
           }
+        },
+        {
+          "name": "sweetsyntax",
+          "str": ">= 0.2.5",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.5"
+          }
+        },
+        {
+          "name": "pluginkit",
+          "str": ">= 0.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
         }
       ],
       "bin": [
@@ -109,6 +125,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "0.1.6",
+        "hash": "05a37eace1346e4d3a56a480175adefe6fe68f94",
+        "time": 1795346436
+      },
       {
         "tag": "0.1.5",
         "hash": "a78d0a5fa7f892346b7c75ad763d4b7e0c17178f",
@@ -141,8 +162,8 @@
       }
     ],
     "commit": {
-      "hash": "0ff99d807962288342941d6213a753f5b577d1f5",
-      "time": 1794915018
+      "hash": "05a37eace1346e4d3a56a480175adefe6fe68f94",
+      "time": 1795346436
     }
   }
 }
