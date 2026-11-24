@@ -16,7 +16,7 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.5.5",
+      "version": "0.5.6",
       "requires": [
         {
           "name": "nim",
@@ -36,10 +36,10 @@
         },
         {
           "name": "nimcrypto",
-          "str": ">= 0.5.4",
+          "str": ">= 0.7.3",
           "ver": {
             "kind": "verEqLater",
-            "ver": "0.5.4"
+            "ver": "0.7.3"
           }
         },
         {
@@ -52,7 +52,7 @@
         },
         {
           "name": "async_postgres",
-          "str": ">= 0.3.0 & < 0.4.0",
+          "str": ">= 0.5.0 & < 0.6.0",
           "ver": {
             "kind": "verIntersect",
             "ver": ""
@@ -66,6 +66,11 @@
     },
     "hasBin": true,
     "versions": [
+      {
+        "tag": "v0.5.6",
+        "hash": "b55a2c2d6a293095353cfb35f652becfc6909f04",
+        "time": 1795450890
+      },
       {
         "tag": "v0.5.5",
         "hash": "ec75bba96299e87367e8ef906844acf2b41c283e",
@@ -178,8 +183,8 @@
       }
     ],
     "commit": {
-      "hash": "ec75bba96299e87367e8ef906844acf2b41c283e",
-      "time": 1795203930
+      "hash": "b55a2c2d6a293095353cfb35f652becfc6909f04",
+      "time": 1795450890
     }
   }
 }

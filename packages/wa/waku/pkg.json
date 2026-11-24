@@ -15,14 +15,14 @@
   ],
   "meta": {
     "nimble": {
-      "version": "0.40.0",
+      "version": "0.41.0",
       "requires": [
         {
           "name": "nim",
-          "str": "2.2.6",
+          "str": ">= 2.2.12",
           "ver": {
-            "kind": "verEq",
-            "ver": "2.2.6"
+            "kind": "verEqLater",
+            "ver": "2.2.12"
           }
         },
         {
@@ -99,10 +99,10 @@
         },
         {
           "name": "libp2p",
-          "str": "2.4.1",
+          "str": "2.5.0",
           "ver": {
             "kind": "verEq",
-            "ver": "2.4.1"
+            "ver": "2.5.0"
           }
         },
         {
@@ -331,23 +331,7 @@
         },
         {
           "name": "https://github.com/status-im/nim-leopard",
-          "str": "#b1868c6f2e794666e6cc43ac9aefe8828f4a78b4",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "https://github.com/vacp2p/nim-lsquic",
-          "str": "#fb293834a3f90368e1f6c57aec2360cf8d840c5a",
-          "ver": {
-            "kind": "verSpecial",
-            "ver": ""
-          }
-        },
-        {
-          "name": "https://github.com/vacp2p/nim-jwt.git",
-          "str": "#057ec95eb5af0eea9c49bfe9025b3312c95dc5f2",
+          "str": "#3a24aa1f4b7ce227e8d30c51357ae241cf6b478d",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -355,7 +339,7 @@
         },
         {
           "name": "https://github.com/logos-co/nim-libp2p-mix",
-          "str": "#3f256aa03d2d36fea0b5206b41a6328da4f5c412",
+          "str": "#ed6a72a990143cfc6b667223c7d0c38e408b348e",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -363,7 +347,7 @@
         },
         {
           "name": "https://github.com/logos-co/mix-rln-spam-protection-plugin",
-          "str": "#7b5c7cfafbffe4e47aeb46838633645afacdb73c",
+          "str": "#f1b2430297cad2bc4034fce0207f1d59ded6a47e",
           "ver": {
             "kind": "verSpecial",
             "ver": ""
@@ -374,6 +358,11 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.41.0-rc.0",
+        "hash": "432f545d7a0a6250bd92704343b90a1de4bb3a8f",
+        "time": 1795473583
+      },
       {
         "tag": "v0.40.0",
         "hash": "e8f64a0b3b1ac973d0be5fec979344177db04845",
@@ -721,8 +710,8 @@
       }
     ],
     "commit": {
-      "hash": "546debf794736fa5de0d64087f21fa8581d4c9ef",
-      "time": 1795178003
+      "hash": "88b07346d4e5348ff812b187a9bdebbbf43de521",
+      "time": 1795486118
     }
   }
 }
