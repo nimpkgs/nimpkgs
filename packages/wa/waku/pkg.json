@@ -99,10 +99,10 @@
         },
         {
           "name": "libp2p",
-          "str": "2.5.0",
+          "str": "2.5.1",
           "ver": {
             "kind": "verEq",
-            "ver": "2.5.0"
+            "ver": "2.5.1"
           }
         },
         {
@@ -358,6 +358,16 @@
       "srcDir": ""
     },
     "versions": [
+      {
+        "tag": "v0.41.0-rc.2",
+        "hash": "9fff9078fd5d30583d8cf12f4e73250756667f68",
+        "time": 1795560743
+      },
+      {
+        "tag": "v0.41.0-rc.1",
+        "hash": "e97b54bf6713efa6e5d8639e794a2f30d2241621",
+        "time": 1795559386
+      },
       {
         "tag": "v0.41.0-rc.0",
         "hash": "432f545d7a0a6250bd92704343b90a1de4bb3a8f",
@@ -710,8 +720,8 @@
       }
     ],
     "commit": {
-      "hash": "88b07346d4e5348ff812b187a9bdebbbf43de521",
-      "time": 1795486118
+      "hash": "88bd0e5c2578db179b74fb078b1a4ec5fdadd066",
+      "time": 1795550326
     }
   }
 }

@@ -64,11 +64,19 @@
           }
         },
         {
-          "name": "https://github.com/nimbase/harfnim",
-          "str": "any version",
+          "name": "harfnim",
+          "str": ">= 0.2.0",
           "ver": {
-            "kind": "verAny",
-            "ver": ""
+            "kind": "verEqLater",
+            "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "buffalo",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -76,8 +84,8 @@
       "srcDir": "src"
     },
     "commit": {
-      "hash": "cbe5fe264fff8556e442927db782b3075feb5d0c",
-      "time": 1794162370
+      "hash": "0adf35936f4de3f860a0fdc17de3847f9d3ab3fc",
+      "time": 1795553285
     }
   }
 }

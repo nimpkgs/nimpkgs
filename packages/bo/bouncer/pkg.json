@@ -1,0 +1,43 @@
+{
+  "name": "bouncer",
+  "url": "https://github.com/DelfinVT-uwu/bouncer",
+  "method": "git",
+  "description": "Zod-style schema validation and parsing for untrusted data",
+  "license": "MIT",
+  "web": "https://github.com/DelfinVT-uwu/bouncer",
+  "tags": [
+    "validation",
+    "schema",
+    "json",
+    "zod",
+    "parsing"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.2.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 2.0.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "2.0.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "v0.2.0",
+        "hash": "8d558dddd991c2314bb25c112c42cfebed1d922b",
+        "time": 1795577734
+      }
+    ],
+    "commit": {
+      "hash": "3c631819fe00cc8fd6202089f9b1ef195a2fc3d7",
+      "time": 1795579592
+    }
+  }
+}
