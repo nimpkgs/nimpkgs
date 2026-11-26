@@ -1,0 +1,43 @@
+{
+  "name": "invoker",
+  "url": "https://gitlab.com/aceoflaguna/invoker.git",
+  "method": "git",
+  "description": "An extremely fast, ExpressJS-style web microframework for Nim",
+  "license": "MIT",
+  "web": "https://gitlab.com/aceoflaguna/invoker",
+  "tags": [
+    "web",
+    "http",
+    "framework",
+    "Express",
+    "ExpressJS"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "srcDir": "src"
+    },
+    "versions": [
+      {
+        "tag": "0.1.0",
+        "hash": "4ca37d497be54dbc1651d46afafeb5d0af008550",
+        "time": 1795355330
+      }
+    ],
+    "commit": {
+      "hash": "5a73d81165d56ee23e0ec8b2f5ba7f0e005e78bc",
+      "time": 1795447425
+    }
+  }
+}

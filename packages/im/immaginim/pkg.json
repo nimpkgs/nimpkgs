@@ -1,0 +1,40 @@
+{
+  "name": "immaginim",
+  "url": "https://gitlab.com/aceoflaguna/immaginim.git",
+  "method": "git",
+  "description": "A dependency-free image processing library for Nim, inspired by ImageMagick",
+  "license": "MIT",
+  "web": "https://gitlab.com/aceoflaguna/immaginim",
+  "tags": [
+    "library",
+    "image",
+    "jpeg",
+    "bmp",
+    "png",
+    "ImageMagick"
+  ],
+  "meta": {
+    "nimble": {
+      "version": "0.1.0",
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [
+        "immaginim"
+      ],
+      "srcDir": "src"
+    },
+    "hasBin": true,
+    "commit": {
+      "hash": "89f7d16fe7ed8dfdd84b9d76f94c0a4bef7e95be",
+      "time": 1795606661
+    }
+  }
+}
