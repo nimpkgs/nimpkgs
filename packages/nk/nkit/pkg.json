@@ -32,19 +32,19 @@
           }
         },
         {
-          "name": "kapsis",
-          "str": ">= 0.5.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.5.0"
-          }
-        },
-        {
           "name": "openparser",
           "str": ">= 0.2.0",
           "ver": {
             "kind": "verEqLater",
             "ver": "0.2.0"
+          }
+        },
+        {
+          "name": "nvg",
+          "str": ">= 0.1.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.1.0"
           }
         }
       ],
@@ -55,8 +55,8 @@
     },
     "hasBin": true,
     "commit": {
-      "hash": "4bc7418ebae538de12be2b59e7eeff04cbff059c",
-      "time": 1794167068
+      "hash": "f0789d25fef25ae086fa59ceb669c77d67ed2460",
+      "time": 1795734197
     }
   }
 }
